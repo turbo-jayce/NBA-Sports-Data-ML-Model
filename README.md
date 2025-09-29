@@ -2,7 +2,7 @@
 
 Work in progress model that is supposed to be used to predict future player performance. Using lightgbm and sklearn. 
 
-#Current Output Of Model
+Current Output Of Model
 
 🚀 Training optimized model for POINTS
    📊 Using 81 features on 90,841 samples
@@ -47,3 +47,4 @@ Work in progress model that is supposed to be used to predict future player perf
    REBOUNDS: Excellent performance!
 
 💾 Models ready for deployment. Uncomment save section if needed.
+
