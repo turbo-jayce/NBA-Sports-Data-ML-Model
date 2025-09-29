@@ -1,0 +1,4 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0116,4,02:00,GSW,116.0,NOP,98.0,P. Spencer,GSW,Spencer 3' Running Layup (2 PTS) (Beekman 1 AST),Made Shot,Running Layup Shot,29,8,3,1,2.0,2.0,h
+S2425-G0116,4,01:24,GSW,,NOP,,P. Spencer,GSW,MISS Spencer 2' Driving Layup,Missed Shot,Driving Layup Shot,-10,20,2,1,2.0,0.0,h
+S2425-G0116,4,01:01,GSW,118.0,NOP,101.0,P. Spencer,GSW,Spencer 4' Driving Finger Roll Layup (4 PTS) (Jackson-Davis 4 AST),Made Shot,Driving Finger Roll Layup Shot,-31,22,4,1,2.0,2.0,h

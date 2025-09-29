@@ -1,0 +1,16 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,3,00:54.900000,TOR,,PHI,,R. Council IV,PHI,MISS Council IV 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,265,30,1,3.0,0.0,v
+S2425-G0078,3,00:00.100000,TOR,,PHI,,R. Council IV,PHI,MISS Council IV 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-154,5,15,1,2.0,0.0,v
+S2425-G0120,2,09:52,PHI,,DET,,R. Council IV,PHI,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,2,09:36,PHI,,DET,,R. Council IV,PHI,MISS Council IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,-147,231,27,1,3.0,0.0,h
+S2425-G0120,2,09:26,PHI,,DET,,R. Council IV,PHI,SUB: Gordon FOR Council IV,Substitution,,0,0,0,0,,,h
+S2425-G0120,4,02:25,PHI,87.0,DET,105.0,R. Council IV,PHI,Council IV 7' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,49,55,7,1,2.0,2.0,h
+S2425-G0066,3,02:34,PHI,76.0,MIL,92.0,R. Council IV,PHI,Council IV 29' 3PT Jump Shot (3 PTS) (Yabusele 3 AST),Made Shot,Jump Shot,75,281,29,1,3.0,3.0,h
+S2425-G0066,4,01:27,PHI,,MIL,,R. Council IV,PHI,MISS Council IV 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,0,42,4,1,2.0,0.0,h
+S2425-G0066,4,01:11,PHI,,MIL,,R. Council IV,PHI,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,4,01:06,PHI,,MIL,,R. Council IV,PHI,Council IV Offensive Charge Foul (P1) (B.Forte),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0066,4,01:06,PHI,,MIL,,R. Council IV,PHI,Council IV Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0066,4,00:37.300000,PHI,106.0,MIL,122.0,R. Council IV,PHI,Council IV Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0066,4,00:37.300000,PHI,107.0,MIL,122.0,R. Council IV,PHI,Council IV Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0066,4,00:02.100000,PHI,108.0,MIL,124.0,R. Council IV,PHI,Council IV Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0066,4,00:02.100000,PHI,109.0,MIL,124.0,R. Council IV,PHI,Council IV Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h

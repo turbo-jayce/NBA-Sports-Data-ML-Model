@@ -1,0 +1,41 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0111,1,04:22,PHX,,LAL,,M. Morris,PHX,Morris S.FOUL (P1.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0111,1,02:38,PHX,,LAL,,M. Morris,PHX,SUB: Beal FOR Morris,Substitution,,0,0,0,0,,,h
+S2425-G0085,1,04:51,LAL,,PHX,,M. Morris,PHX,Morris STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0085,1,04:12,LAL,16.0,PHX,21.0,M. Morris,PHX,Morris 27' 3PT Jump Shot (3 PTS) (Durant 1 AST),Made Shot,Jump Shot,151,219,27,1,3.0,3.0,v
+S2425-G0085,1,03:29,LAL,,PHX,,M. Morris,PHX,Morris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,1,02:47,LAL,,PHX,,M. Morris,PHX,Morris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,1,01:05,LAL,21.0,PHX,35.0,M. Morris,PHX,Morris 3PT Jump Shot (6 PTS) (Nurkić 3 AST),Made Shot,Jump Shot,-224,55,0,1,3.0,3.0,v
+S2425-G0085,2,11:17,LAL,,PHX,,M. Morris,PHX,Morris STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0085,2,09:38,LAL,,PHX,,M. Morris,PHX,SUB: Durant FOR Morris,Substitution,,0,0,0,0,,,v
+S2425-G0085,3,01:15,LAL,,PHX,,M. Morris,PHX,MISS Morris 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-114,252,28,1,3.0,0.0,v
+S2425-G0085,3,00:50.100000,LAL,83.0,PHX,82.0,M. Morris,PHX,Morris Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0085,3,00:50.100000,LAL,83.0,PHX,83.0,M. Morris,PHX,Morris Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0085,4,09:32,LAL,,PHX,,M. Morris,PHX,SUB: Jones FOR Morris,Substitution,,0,0,0,0,,,v
+S2425-G0071,1,04:44,LAC,,PHX,,M. Morris,PHX,MISS Morris 3PT Jump Shot,Missed Shot,Jump Shot,-233,15,0,1,3.0,0.0,v
+S2425-G0071,1,02:09,LAC,,PHX,,M. Morris,PHX,MISS Morris 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,132,230,27,1,3.0,0.0,v
+S2425-G0071,1,01:42,LAC,,PHX,,M. Morris,PHX,Morris STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0071,1,00:07.500000,LAC,22.0,PHX,23.0,M. Morris,PHX,Morris 4' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,-13,42,4,1,2.0,2.0,v
+S2425-G0071,3,03:33,LAC,64.0,PHX,60.0,M. Morris,PHX,Morris Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,3,03:33,LAC,,PHX,,M. Morris,PHX,MISS Morris Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0071,3,03:18,LAC,,PHX,,M. Morris,PHX,MISS Morris 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,19,162,16,1,2.0,0.0,v
+S2425-G0071,3,02:47,LAC,67.0,PHX,63.0,M. Morris,PHX,Morris 16' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,114,119,16,1,2.0,2.0,v
+S2425-G0071,4,11:12,LAC,,PHX,,M. Morris,PHX,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,4,10:00,LAC,,PHX,,M. Morris,PHX,SUB: Jones FOR Morris,Substitution,,0,0,0,0,,,v
+S2425-G0095,1,04:10,PHX,,DAL,,M. Morris,PHX,MISS Morris 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,102,32,11,1,2.0,0.0,h
+S2425-G0095,1,03:44,PHX,,DAL,,M. Morris,PHX,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,1,03:10,PHX,,DAL,,M. Morris,PHX,MISS Morris 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-32,74,8,1,2.0,0.0,h
+S2425-G0095,1,00:08.100000,PHX,,DAL,,M. Morris,PHX,Morris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,1,00:07.800000,PHX,,DAL,,M. Morris,PHX,MISS Morris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0095,1,00:07.800000,PHX,28.0,DAL,24.0,M. Morris,PHX,Morris Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0095,2,10:12,PHX,36.0,DAL,28.0,M. Morris,PHX,Morris 3PT Jump Shot (4 PTS) (Dunn 1 AST),Made Shot,Jump Shot,224,13,0,1,3.0,3.0,h
+S2425-G0095,2,08:42,PHX,,DAL,,M. Morris,PHX,SUB: Jones FOR Morris,Substitution,,0,0,0,0,,,h
+S2425-G0095,3,05:09,PHX,,DAL,,M. Morris,PHX,Morris Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0095,3,02:52,PHX,,DAL,,M. Morris,PHX,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,216,26,1,3.0,0.0,h
+S2425-G0095,3,00:34.200000,PHX,,DAL,,M. Morris,PHX,MISS Morris 3PT Jump Shot,Missed Shot,Jump Shot,-224,-6,0,1,3.0,0.0,h
+S2425-G0095,3,00:24.200000,PHX,,DAL,,M. Morris,PHX,Morris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,3,00:24.200000,PHX,88.0,DAL,78.0,M. Morris,PHX,Morris Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0095,3,00:24.200000,PHX,89.0,DAL,78.0,M. Morris,PHX,Morris Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0095,4,10:25,PHX,96.0,DAL,88.0,M. Morris,PHX,Morris 14' Pullup Jump Shot (8 PTS) (Lee 2 AST),Made Shot,Pullup Jump shot,-96,100,14,1,2.0,2.0,h
+S2425-G0095,4,09:43,PHX,,DAL,,M. Morris,PHX,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,239,61,25,1,3.0,0.0,h
+S2425-G0095,4,09:42,PHX,,DAL,,M. Morris,PHX,SUB: Jones FOR Morris,Substitution,,0,0,0,0,,,h

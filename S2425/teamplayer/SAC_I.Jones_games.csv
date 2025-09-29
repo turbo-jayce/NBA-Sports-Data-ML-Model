@@ -1,0 +1,4 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0115,4,01:38,UTA,,SAC,,I. Jones,SAC,MISS I. Jones 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,43,18,5,1,2.0,0.0,v
+S2425-G0115,4,01:23,UTA,,SAC,,I. Jones,SAC,I. Jones S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2425-G0112,4,00:33.700000,SAC,,POR,,I. Jones,SAC,I. Jones S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h

@@ -1,0 +1,34 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,1,00:40.800000,MIA,,ORL,,J. Isaac,ORL,Isaac REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,1,00:40.800000,MIA,,ORL,,J. Isaac,ORL,MISS Isaac Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0065,1,00:40.800000,MIA,,ORL,,J. Isaac,ORL,MISS Isaac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0065,1,00:03.100000,MIA,,ORL,,J. Isaac,ORL,Isaac STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0065,2,11:17,MIA,,ORL,,J. Isaac,ORL,Isaac BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0065,2,11:16,MIA,,ORL,,J. Isaac,ORL,Isaac BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0065,2,10:28,MIA,,ORL,,J. Isaac,ORL,Isaac REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,2,09:49,MIA,,ORL,,J. Isaac,ORL,MISS Isaac 3PT Jump Shot,Missed Shot,Jump Shot,233,29,0,1,3.0,0.0,v
+S2425-G0065,2,09:12,MIA,,ORL,,J. Isaac,ORL,Isaac P.FOUL (P1.T1) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2425-G0065,2,08:46,MIA,39.0,ORL,38.0,J. Isaac,ORL,Isaac 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,224,6,0,1,3.0,3.0,v
+S2425-G0065,2,08:13,MIA,,ORL,,J. Isaac,ORL,MISS Isaac 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-71,89,11,1,2.0,0.0,v
+S2425-G0065,2,08:08,MIA,,ORL,,J. Isaac,ORL,SUB: Banchero FOR Isaac,Substitution,,0,0,0,0,,,v
+S2425-G0065,4,10:57,MIA,,ORL,,J. Isaac,ORL,Isaac REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,4,10:57,MIA,,ORL,,J. Isaac,ORL,MISS Isaac 3' Putback Layup,Missed Shot,Putback Layup Shot,29,-12,3,1,2.0,0.0,v
+S2425-G0065,4,08:45,MIA,,ORL,,J. Isaac,ORL,SUB: Banchero FOR Isaac,Substitution,,0,0,0,0,,,v
+S2425-G0123,1,00:05.300000,CHI,,ORL,,J. Isaac,ORL,Isaac REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,1,00:01,CHI,,ORL,,J. Isaac,ORL,Isaac Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0123,2,10:55,CHI,,ORL,,J. Isaac,ORL,Isaac REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,2,10:55,CHI,20.0,ORL,36.0,J. Isaac,ORL,Isaac Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0123,2,10:55,CHI,20.0,ORL,37.0,J. Isaac,ORL,Isaac Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0123,2,10:17,CHI,23.0,ORL,40.0,J. Isaac,ORL,Isaac 3PT Jump Shot (5 PTS) (Black 2 AST),Made Shot,Jump Shot,234,-6,0,1,3.0,3.0,v
+S2425-G0123,2,09:01,CHI,,ORL,,J. Isaac,ORL,SUB: Banchero FOR Isaac,Substitution,,0,0,0,0,,,v
+S2425-G0123,3,01:10,CHI,84.0,ORL,85.0,J. Isaac,ORL,Isaac 3PT Jump Shot (8 PTS) (M. Wagner 1 AST),Made Shot,Jump Shot,221,20,0,1,3.0,3.0,v
+S2425-G0123,4,11:31,CHI,,ORL,,J. Isaac,ORL,Isaac REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,4,10:08,CHI,,ORL,,J. Isaac,ORL,Isaac STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0123,4,09:57,CHI,,ORL,,J. Isaac,ORL,MISS Isaac 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,112,61,13,1,2.0,0.0,v
+S2425-G0123,4,09:44,CHI,,ORL,,J. Isaac,ORL,Isaac REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,4,09:25,CHI,,ORL,,J. Isaac,ORL,Isaac REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,4,08:43,CHI,,ORL,,J. Isaac,ORL,MISS Isaac 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-6,24,1,3.0,0.0,v
+S2425-G0123,4,07:49,CHI,,ORL,,J. Isaac,ORL,SUB: Carter Jr. FOR Isaac,Substitution,,0,0,0,0,,,v
+S2425-G0123,4,00:48.200000,CHI,,ORL,,J. Isaac,ORL,MISS Isaac 25' 3PT Jump Shot,Missed Shot,Jump Shot,-169,183,25,1,3.0,0.0,v
+S2425-G0123,4,00:25.500000,CHI,,ORL,,J. Isaac,ORL,SUB: Carter Jr. FOR Isaac,Substitution,,0,0,0,0,,,v
+S2425-G0123,4,00:19.800000,CHI,,ORL,,J. Isaac,ORL,SUB: Harris FOR Isaac,Substitution,,0,0,0,0,,,v

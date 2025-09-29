@@ -1,0 +1,87 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0079,1,02:56,ATL,,CHA,,G. Williams,CHA,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,227,37,0,1,3.0,0.0,v
+S2425-G0079,2,10:23,ATL,,CHA,,G. Williams,CHA,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,2,10:16,ATL,,CHA,,G. Williams,CHA,SUB: Bridges FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0079,2,08:04,ATL,,CHA,,G. Williams,CHA,Williams S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0079,2,06:26,ATL,,CHA,,G. Williams,CHA,Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0079,2,04:23,ATL,,CHA,,G. Williams,CHA,Williams Violation:Kicked Ball (M.Dagher),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0079,2,04:18,ATL,,CHA,,G. Williams,CHA,Williams P.FOUL (P2.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2425-G0079,2,02:33,ATL,,CHA,,G. Williams,CHA,Williams REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,2,01:36,ATL,,CHA,,G. Williams,CHA,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,2,00:35.300000,ATL,60.0,CHA,58.0,G. Williams,CHA,Williams 26' 3PT Jump Shot (3 PTS) (Ball 3 AST),Made Shot,Jump Shot,75,250,26,1,3.0,3.0,v
+S2425-G0079,2,00:09.300000,ATL,,CHA,,G. Williams,CHA,Williams OFF.Foul (P3) (Z.Zarba),Foul,Offensive,0,0,0,0,,,v
+S2425-G0079,2,00:09.300000,ATL,,CHA,,G. Williams,CHA,Williams Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0079,3,05:23,ATL,,CHA,,G. Williams,CHA,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,3,03:04,ATL,,CHA,,G. Williams,CHA,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,153,204,26,1,3.0,0.0,v
+S2425-G0079,3,02:57,ATL,,CHA,,G. Williams,CHA,MISS Williams 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,79,8,1,2.0,0.0,v
+S2425-G0079,3,02:19,ATL,,CHA,,G. Williams,CHA,MISS Williams 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-154,202,25,1,3.0,0.0,v
+S2425-G0079,3,02:02,ATL,82.0,CHA,76.0,G. Williams,CHA,Williams Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0079,3,02:02,ATL,82.0,CHA,77.0,G. Williams,CHA,Williams Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0079,4,06:51,ATL,,CHA,,G. Williams,CHA,MISS Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,83,236,25,1,3.0,0.0,v
+S2425-G0079,4,02:29,ATL,,CHA,,G. Williams,CHA,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0079,4,02:29,ATL,116.0,CHA,110.0,G. Williams,CHA,Williams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0079,4,01:21,ATL,120.0,CHA,113.0,G. Williams,CHA,Williams 3PT Pullup Jump Shot (9 PTS) (Curry 2 AST),Made Shot,Pullup Jump shot,-233,-15,0,1,3.0,3.0,v
+S2425-G0079,4,01:15,ATL,,CHA,,G. Williams,CHA,Williams P.FOUL (P4.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2425-G0068,1,04:04,HOU,,CHA,,G. Williams,CHA,MISS Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,61,245,25,1,3.0,0.0,v
+S2425-G0068,1,01:47,HOU,23.0,CHA,21.0,G. Williams,CHA,Williams 3' Driving Dunk (2 PTS) (Ball 3 AST),Made Shot,Driving Dunk Shot,-10,31,3,1,2.0,2.0,v
+S2425-G0068,1,00:12.300000,HOU,,CHA,,G. Williams,CHA,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,1,00:02.300000,HOU,,CHA,,G. Williams,CHA,MISS Williams 3' Layup,Missed Shot,Layup Shot,27,15,3,1,2.0,0.0,v
+S2425-G0068,2,11:11,HOU,,CHA,,G. Williams,CHA,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,2,10:02,HOU,,CHA,,G. Williams,CHA,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,2,07:46,HOU,,CHA,,G. Williams,CHA,SUB: Bridges FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0068,2,04:00,HOU,,CHA,,G. Williams,CHA,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0068,2,02:49,HOU,,CHA,,G. Williams,CHA,Williams Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0068,2,02:04,HOU,,CHA,,G. Williams,CHA,SUB: Richards FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0068,3,04:27,HOU,,CHA,,G. Williams,CHA,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,3,00:45.600000,HOU,,CHA,,G. Williams,CHA,Williams Violation:Defensive Goaltending (R.Hussey),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0068,4,08:39,HOU,,CHA,,G. Williams,CHA,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-82,244,26,1,3.0,0.0,v
+S2425-G0068,4,06:51,HOU,88.0,CHA,91.0,G. Williams,CHA,Williams 26' 3PT Jump Shot (5 PTS) (Ball 9 AST),Made Shot,Jump Shot,-164,207,26,1,3.0,3.0,v
+S2425-G0068,4,06:30,HOU,,CHA,,G. Williams,CHA,Williams S.FOUL (P1.T4) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2425-G0068,4,03:38,HOU,,CHA,,G. Williams,CHA,SUB: Bridges FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0068,4,01:29,HOU,,CHA,,G. Williams,CHA,Williams S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2425-G0068,4,01:15,HOU,,CHA,,G. Williams,CHA,Williams OFF.Foul (P3) (R.Hussey),Foul,Offensive,0,0,0,0,,,v
+S2425-G0068,4,01:15,HOU,,CHA,,G. Williams,CHA,Williams Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0068,4,00:40.300000,HOU,103.0,CHA,106.0,G. Williams,CHA,Williams 26' 3PT Step Back Jump Shot (8 PTS) (Ball 11 AST),Made Shot,Step Back Jump shot,102,237,26,1,3.0,3.0,v
+S2425-G0068,4,00:33.100000,HOU,,CHA,,G. Williams,CHA,Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0068,4,00:04.800000,HOU,,CHA,,G. Williams,CHA,Williams S.FOUL (P4.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2425-G0117,1,05:02,CHA,,TOR,,G. Williams,CHA,Williams OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,h
+S2425-G0117,1,05:02,CHA,,TOR,,G. Williams,CHA,Williams Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0117,1,04:42,CHA,13.0,TOR,11.0,G. Williams,CHA,Williams 2' Running Layup (2 PTS) (Salaün 1 AST),Made Shot,Running Layup Shot,13,15,2,1,2.0,2.0,h
+S2425-G0117,1,02:41,CHA,,TOR,,G. Williams,CHA,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0117,1,00:00.500000,CHA,30.0,TOR,16.0,G. Williams,CHA,Williams 1' Driving Layup (4 PTS) (Ball 3 AST),Made Shot,Driving Layup Shot,-5,9,1,1,2.0,2.0,h
+S2425-G0117,2,11:40,CHA,,TOR,,G. Williams,CHA,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0117,2,09:18,CHA,,TOR,,G. Williams,CHA,SUB: Bridges FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0117,2,03:41,CHA,,TOR,,G. Williams,CHA,Williams S.FOUL (P2.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2425-G0117,2,02:59,CHA,59.0,TOR,49.0,G. Williams,CHA,Williams 26' 3PT Jump Shot (7 PTS) (Mann 1 AST),Made Shot,Jump Shot,97,239,26,1,3.0,3.0,h
+S2425-G0117,2,02:32,CHA,,TOR,,G. Williams,CHA,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-83,234,25,1,3.0,0.0,h
+S2425-G0117,2,01:18,CHA,,TOR,,G. Williams,CHA,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0117,2,00:38,CHA,,TOR,,G. Williams,CHA,Williams Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0117,2,00:19.600000,CHA,,TOR,,G. Williams,CHA,SUB: Bridges FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0117,3,05:17,CHA,82.0,TOR,82.0,G. Williams,CHA,Williams 27' 3PT Jump Shot (10 PTS) (Martin 1 AST),Made Shot,Jump Shot,107,244,27,1,3.0,3.0,h
+S2425-G0117,3,03:17,CHA,88.0,TOR,91.0,G. Williams,CHA,Williams Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0117,3,03:17,CHA,89.0,TOR,91.0,G. Williams,CHA,Williams Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0117,3,00:16.200000,CHA,,TOR,,G. Williams,CHA,Williams STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0117,4,11:45,CHA,,TOR,,G. Williams,CHA,Williams S.FOUL (P3.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0117,4,11:27,CHA,106.0,TOR,97.0,G. Williams,CHA,Williams 3PT Jump Shot (15 PTS) (Mann 3 AST),Made Shot,Jump Shot,222,47,0,1,3.0,3.0,h
+S2425-G0117,4,10:41,CHA,,TOR,,G. Williams,CHA,SUB: Bridges FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0117,4,02:26,CHA,,TOR,,G. Williams,CHA,Williams S.FOUL (P4.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0117,4,02:26,CHA,,TOR,,G. Williams,CHA,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0117,4,00:01.800000,CHA,137.0,TOR,133.0,G. Williams,CHA,Williams Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0117,4,00:01.800000,CHA,138.0,TOR,133.0,G. Williams,CHA,Williams Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0088,1,04:35,CHA,,MIA,,G. Williams,CHA,Williams Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0088,1,03:56,CHA,15.0,MIA,14.0,G. Williams,CHA,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0088,1,03:56,CHA,,MIA,,G. Williams,CHA,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0088,1,02:42,CHA,,MIA,,G. Williams,CHA,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0088,1,02:42,CHA,,MIA,,G. Williams,CHA,Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0088,1,01:17,CHA,,MIA,,G. Williams,CHA,MISS Williams 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,134,12,13,1,2.0,0.0,h
+S2425-G0088,1,00:18.200000,CHA,,MIA,,G. Williams,CHA,SUB: Richards FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0088,2,03:56,CHA,39.0,MIA,44.0,G. Williams,CHA,Williams 3PT Jump Shot (4 PTS) (Curry 2 AST),Made Shot,Jump Shot,-228,43,0,1,3.0,3.0,h
+S2425-G0088,2,03:05,CHA,,MIA,,G. Williams,CHA,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,41,24,1,3.0,0.0,h
+S2425-G0088,2,00:30,CHA,,MIA,,G. Williams,CHA,MISS Williams 16' Jump Shot,Missed Shot,Jump Shot,151,38,16,1,2.0,0.0,h
+S2425-G0088,3,05:26,CHA,,MIA,,G. Williams,CHA,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,109,227,25,1,3.0,0.0,h
+S2425-G0088,3,04:25,CHA,,MIA,,G. Williams,CHA,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,3,03:23,CHA,,MIA,,G. Williams,CHA,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,3,02:54,CHA,,MIA,,G. Williams,CHA,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,85,242,26,1,3.0,0.0,h
+S2425-G0088,3,01:31,CHA,,MIA,,G. Williams,CHA,SUB: Diabaté FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0088,4,11:41,CHA,75.0,MIA,83.0,G. Williams,CHA,Williams 26' 3PT Jump Shot (7 PTS) (Ball 4 AST),Made Shot,Jump Shot,137,222,26,1,3.0,3.0,h
+S2425-G0088,4,09:06,CHA,,MIA,,G. Williams,CHA,SUB: Curry FOR Williams,Substitution,,0,0,0,0,,,h

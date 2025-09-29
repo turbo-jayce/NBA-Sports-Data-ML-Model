@@ -1,0 +1,66 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0080,1,03:25,CLE,,DET,,S. Fontecchio,DET,Fontecchio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,1,02:51,CLE,,DET,,S. Fontecchio,DET,Fontecchio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,2,07:01,CLE,,DET,,S. Fontecchio,DET,MISS Fontecchio 26' 3PT Jump Shot,Missed Shot,Jump Shot,227,136,26,1,3.0,0.0,v
+S2425-G0080,2,03:55,CLE,,DET,,S. Fontecchio,DET,SUB: Ivey FOR Fontecchio,Substitution,,0,0,0,0,,,v
+S2425-G0080,3,00:26.800000,CLE,,DET,,S. Fontecchio,DET,Fontecchio Bad Pass Turnover (P1.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0080,4,11:14,CLE,,DET,,S. Fontecchio,DET,MISS Fontecchio 30' 3PT Jump Shot,Missed Shot,Jump Shot,-203,227,30,1,3.0,0.0,v
+S2425-G0080,4,10:27,CLE,94.0,DET,85.0,S. Fontecchio,DET,Fontecchio 26' 3PT Jump Shot (3 PTS) (Holland II 1 AST),Made Shot,Jump Shot,192,170,26,1,3.0,3.0,v
+S2425-G0080,4,09:53,CLE,,DET,,S. Fontecchio,DET,MISS Fontecchio 3PT Jump Shot,Missed Shot,Jump Shot,-229,22,0,1,3.0,0.0,v
+S2425-G0080,4,07:51,CLE,98.0,DET,87.0,S. Fontecchio,DET,Fontecchio Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0080,4,07:51,CLE,98.0,DET,88.0,S. Fontecchio,DET,Fontecchio Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0080,4,07:03,CLE,,DET,,S. Fontecchio,DET,SUB: Beasley FOR Fontecchio,Substitution,,0,0,0,0,,,v
+S2425-G0063,1,05:01,DET,,IND,,S. Fontecchio,DET,Fontecchio Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0063,1,04:59,DET,,IND,,S. Fontecchio,DET,Fontecchio S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2425-G0063,1,03:19,DET,,IND,,S. Fontecchio,DET,MISS Fontecchio 2' Layup,Missed Shot,Layup Shot,-15,9,2,1,2.0,0.0,h
+S2425-G0063,1,02:44,DET,,IND,,S. Fontecchio,DET,MISS Fontecchio 3PT Jump Shot,Missed Shot,Jump Shot,-227,3,0,1,3.0,0.0,h
+S2425-G0063,1,02:06,DET,,IND,,S. Fontecchio,DET,Fontecchio S.FOUL (P2.T4) (T.Ricks),Foul,Shooting,0,0,0,0,,,h
+S2425-G0063,1,00:04.500000,DET,,IND,,S. Fontecchio,DET,SUB: Stewart FOR Fontecchio,Substitution,,0,0,0,0,,,h
+S2425-G0063,2,10:29,DET,,IND,,S. Fontecchio,DET,Fontecchio L.B.FOUL (P3.T1) (T.Ricks),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0063,2,10:29,DET,,IND,,S. Fontecchio,DET,SUB: Harris FOR Fontecchio,Substitution,,0,0,0,0,,,h
+S2425-G0063,3,03:50,DET,,IND,,S. Fontecchio,DET,MISS Fontecchio 26' 3PT Jump Shot,Missed Shot,Jump Shot,-121,226,26,1,3.0,0.0,h
+S2425-G0063,4,08:36,DET,,IND,,S. Fontecchio,DET,Fontecchio REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,4,08:35,DET,,IND,,S. Fontecchio,DET,MISS Fontecchio 1' Layup,Missed Shot,Layup Shot,5,13,1,1,2.0,0.0,h
+S2425-G0063,4,08:19,DET,,IND,,S. Fontecchio,DET,SUB: Harris FOR Fontecchio,Substitution,,0,0,0,0,,,h
+S2425-G0120,1,02:37,PHI,,DET,,S. Fontecchio,DET,Fontecchio Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0120,2,09:04,PHI,,DET,,S. Fontecchio,DET,Fontecchio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,07:50,PHI,,DET,,S. Fontecchio,DET,Fontecchio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,07:12,PHI,,DET,,S. Fontecchio,DET,Fontecchio REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,06:08,PHI,,DET,,S. Fontecchio,DET,MISS Fontecchio 26' 3PT Jump Shot,Missed Shot,Jump Shot,116,234,26,1,3.0,0.0,v
+S2425-G0120,2,05:59,PHI,,DET,,S. Fontecchio,DET,SUB: Hardaway Jr. FOR Fontecchio,Substitution,,0,0,0,0,,,v
+S2425-G0120,3,00:10.100000,PHI,67.0,DET,84.0,S. Fontecchio,DET,Fontecchio Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,3,00:10.100000,PHI,67.0,DET,85.0,S. Fontecchio,DET,Fontecchio Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,4,11:32,PHI,,DET,,S. Fontecchio,DET,Fontecchio REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,4,11:03,PHI,,DET,,S. Fontecchio,DET,Fontecchio S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2425-G0120,4,08:56,PHI,,DET,,S. Fontecchio,DET,SUB: Hardaway Jr. FOR Fontecchio,Substitution,,0,0,0,0,,,v
+S2425-G0089,1,04:58,DET,,BOS,,S. Fontecchio,DET,Fontecchio P.FOUL (P1.T3) (S.Jelks),Foul,Personal,0,0,0,0,,,h
+S2425-G0089,1,03:18,DET,21.0,BOS,26.0,S. Fontecchio,DET,Fontecchio 24' 3PT Jump Shot (3 PTS) (Holland II 1 AST),Made Shot,Jump Shot,239,15,24,1,3.0,3.0,h
+S2425-G0089,1,02:42,DET,,BOS,,S. Fontecchio,DET,MISS Fontecchio 27' 3PT Jump Shot,Missed Shot,Jump Shot,202,174,27,1,3.0,0.0,h
+S2425-G0089,1,00:52.700000,DET,,BOS,,S. Fontecchio,DET,Fontecchio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,1,00:15.700000,DET,,BOS,,S. Fontecchio,DET,MISS Fontecchio 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,11,24,1,3.0,0.0,h
+S2425-G0089,2,01:34,DET,,BOS,,S. Fontecchio,DET,Fontecchio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,3,04:30,DET,,BOS,,S. Fontecchio,DET,MISS Fontecchio 5' Driving Layup,Missed Shot,Driving Layup Shot,44,13,5,1,2.0,0.0,h
+S2425-G0089,3,03:50,DET,86.0,BOS,86.0,S. Fontecchio,DET,Fontecchio 27' 3PT Running Jump Shot (6 PTS) (Cunningham 9 AST),Made Shot,Running Jump Shot,175,209,27,1,3.0,3.0,h
+S2425-G0089,3,02:20,DET,,BOS,,S. Fontecchio,DET,Fontecchio S.FOUL (P2.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0089,4,09:08,DET,103.0,BOS,103.0,S. Fontecchio,DET,Fontecchio 24' 3PT Jump Shot (9 PTS) (Ivey 6 AST),Made Shot,Jump Shot,-237,-12,24,1,3.0,3.0,h
+S2425-G0089,4,08:46,DET,104.0,BOS,103.0,S. Fontecchio,DET,Fontecchio Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0089,4,08:46,DET,105.0,BOS,103.0,S. Fontecchio,DET,Fontecchio Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0089,4,06:59,DET,,BOS,,S. Fontecchio,DET,SUB: Harris FOR Fontecchio,Substitution,,0,0,0,0,,,h
+S2425-G0105,1,02:25,MIA,,DET,,S. Fontecchio,DET,Fontecchio REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,01:41,MIA,,DET,,S. Fontecchio,DET,Fontecchio BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0105,1,01:35,MIA,,DET,,S. Fontecchio,DET,MISS Fontecchio 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,205,157,26,1,3.0,0.0,v
+S2425-G0105,2,08:30,MIA,35.0,DET,37.0,S. Fontecchio,DET,Fontecchio 25' 3PT Running Jump Shot (3 PTS) (Cunningham 3 AST),Made Shot,Running Jump Shot,-153,201,25,1,3.0,3.0,v
+S2425-G0105,2,08:13,MIA,,DET,,S. Fontecchio,DET,SUB: Hardaway Jr. FOR Fontecchio,Substitution,,0,0,0,0,,,v
+S2425-G0105,3,05:15,MIA,,DET,,S. Fontecchio,DET,MISS Fontecchio 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,3,24,1,3.0,0.0,v
+S2425-G0105,3,01:51,MIA,,DET,,S. Fontecchio,DET,MISS Fontecchio 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-1,50,5,1,2.0,0.0,v
+S2425-G0105,3,01:06,MIA,,DET,,S. Fontecchio,DET,Fontecchio REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,01:06,MIA,,DET,,S. Fontecchio,DET,MISS Fontecchio Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0105,3,01:05,MIA,,DET,,S. Fontecchio,DET,Fontecchio REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,01:05,MIA,75.0,DET,79.0,S. Fontecchio,DET,Fontecchio Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0105,4,09:48,MIA,,DET,,S. Fontecchio,DET,MISS Fontecchio 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-159,16,16,1,2.0,0.0,v
+S2425-G0105,4,09:16,MIA,,DET,,S. Fontecchio,DET,MISS Fontecchio Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0105,4,09:16,MIA,90.0,DET,80.0,S. Fontecchio,DET,Fontecchio Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0105,4,08:23,MIA,,DET,,S. Fontecchio,DET,Fontecchio REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,4,08:19,MIA,,DET,,S. Fontecchio,DET,MISS Fontecchio 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,112,227,25,1,3.0,0.0,v
+S2425-G0105,4,04:46,MIA,,DET,,S. Fontecchio,DET,MISS Fontecchio 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,175,198,26,1,3.0,0.0,v
+S2425-G0105,4,04:32,MIA,,DET,,S. Fontecchio,DET,SUB: Ivey FOR Fontecchio,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,18 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0090,4,03:45,WAS,,CLE,,T. Thompson,CLE,Thompson S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0090,4,03:28,WAS,,CLE,,T. Thompson,CLE,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0090,4,03:28,WAS,,CLE,,T. Thompson,CLE,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0090,4,03:12,WAS,,CLE,,T. Thompson,CLE,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,4,03:03,WAS,,CLE,,T. Thompson,CLE,Thompson Out of Bounds Lost Ball Turnover (P1.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0090,4,02:40,WAS,,CLE,,T. Thompson,CLE,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0090,4,02:40,WAS,,CLE,,T. Thompson,CLE,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0067,4,02:45,TOR,,CLE,,T. Thompson,CLE,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,4,02:08,TOR,,CLE,,T. Thompson,CLE,MISS Thompson 8' Hook Shot,Missed Shot,Hook Shot,56,57,8,1,2.0,0.0,v
+S2425-G0067,4,01:13,TOR,104.0,CLE,134.0,T. Thompson,CLE,Thompson 3' Hook Shot (2 PTS) (Jerome 5 AST),Made Shot,Hook Shot,-12,22,3,1,2.0,2.0,v
+S2425-G0118,4,04:56,CLE,,LAL,,T. Thompson,CLE,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,4,04:47,CLE,122.0,LAL,98.0,T. Thompson,CLE,Thompson 2' Layup (2 PTS),Made Shot,Layup Shot,-10,15,2,1,2.0,2.0,h
+S2425-G0118,4,04:47,CLE,,LAL,,T. Thompson,CLE,MISS Thompson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0118,4,02:54,CLE,,LAL,,T. Thompson,CLE,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,4,02:47,CLE,,LAL,,T. Thompson,CLE,Thompson Traveling Turnover (P1.T12),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0118,4,02:27,CLE,,LAL,,T. Thompson,CLE,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,4,01:08,CLE,129.0,LAL,107.0,T. Thompson,CLE,Thompson 2' Reverse Layup (4 PTS) (Tyson 1 AST),Made Shot,Reverse Layup Shot,4,17,2,1,2.0,2.0,h

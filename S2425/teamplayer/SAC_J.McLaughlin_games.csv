@@ -1,0 +1,10 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0096,3,01:44,LAL,,SAC,,J. McLaughlin,SAC,SUB: Len FOR McLaughlin,Substitution,,0,0,0,0,,,v
+S2425-G0115,4,02:03,UTA,,SAC,,J. McLaughlin,SAC,McLaughlin Personal Take Foul (P1.T4) (C.Kirkland),Foul,Personal Take,0,0,0,0,,,v
+S2425-G0112,2,07:13,SAC,,POR,,J. McLaughlin,SAC,McLaughlin P.FOUL (P1.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2425-G0112,2,06:23,SAC,,POR,,J. McLaughlin,SAC,KINGS T.Foul (Def. 3 Sec McLaughlin ) (M.Lindsay),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0112,2,05:42,SAC,,POR,,J. McLaughlin,SAC,SUB: Fox FOR McLaughlin,Substitution,,0,0,0,0,,,h
+S2425-G0112,4,02:36,SAC,,POR,,J. McLaughlin,SAC,McLaughlin Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0112,4,02:08,SAC,,POR,,J. McLaughlin,SAC,MISS McLaughlin 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,57,6,1,2.0,0.0,h
+S2425-G0112,4,01:58,SAC,,POR,,J. McLaughlin,SAC,McLaughlin S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0112,4,00:26.600000,SAC,,POR,,J. McLaughlin,SAC,McLaughlin Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,h

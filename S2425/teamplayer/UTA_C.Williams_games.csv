@@ -1,0 +1,52 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0110,1,02:50,DAL,,UTA,,C. Williams,UTA,Williams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0110,1,01:52,DAL,,UTA,,C. Williams,UTA,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,215,26,1,3.0,0.0,v
+S2425-G0110,1,00:57.200000,DAL,,UTA,,C. Williams,UTA,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,1,00:11.900000,DAL,,UTA,,C. Williams,UTA,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,230,-10,0,1,3.0,0.0,v
+S2425-G0110,2,06:08,DAL,,UTA,,C. Williams,UTA,MISS Williams 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-32,37,5,1,2.0,0.0,v
+S2425-G0110,2,05:32,DAL,,UTA,,C. Williams,UTA,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,2,03:37,DAL,,UTA,,C. Williams,UTA,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,2,03:35,DAL,39.0,UTA,33.0,C. Williams,UTA,Williams 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,27,10,3,1,2.0,2.0,v
+S2425-G0110,2,03:01,DAL,,UTA,,C. Williams,UTA,SUB: Markkanen FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0110,3,05:29,DAL,,UTA,,C. Williams,UTA,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,3,04:44,DAL,,UTA,,C. Williams,UTA,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0110,3,02:32,DAL,,UTA,,C. Williams,UTA,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-230,-16,0,1,3.0,0.0,v
+S2425-G0110,3,00:35.200000,DAL,,UTA,,C. Williams,UTA,SUB: Filipowski FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0115,1,05:01,UTA,,SAC,,C. Williams,UTA,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,223,-4,0,1,3.0,0.0,h
+S2425-G0115,1,03:03,UTA,,SAC,,C. Williams,UTA,Williams Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0115,1,03:03,UTA,,SAC,,C. Williams,UTA,SUB: Markkanen FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0115,2,04:25,UTA,,SAC,,C. Williams,UTA,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,223,-4,0,1,3.0,0.0,h
+S2425-G0115,2,03:09,UTA,,SAC,,C. Williams,UTA,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-4,24,1,3.0,0.0,h
+S2425-G0115,2,00:44,UTA,,SAC,,C. Williams,UTA,MISS Williams 5' Driving Layup,Missed Shot,Driving Layup Shot,48,2,5,1,2.0,0.0,h
+S2425-G0115,2,00:00.200000,UTA,,SAC,,C. Williams,UTA,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0115,3,04:04,UTA,,SAC,,C. Williams,UTA,Williams STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0115,3,03:56,UTA,,SAC,,C. Williams,UTA,SUB: Filipowski FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0115,4,07:08,UTA,78.0,SAC,100.0,C. Williams,UTA,Williams 24' 3PT Jump Shot (3 PTS) (George 8 AST),Made Shot,Jump Shot,235,-18,24,1,3.0,3.0,h
+S2425-G0115,4,03:37,UTA,89.0,SAC,109.0,C. Williams,UTA,Williams 3PT Jump Shot (6 PTS) (George 9 AST),Made Shot,Jump Shot,232,27,0,1,3.0,3.0,h
+S2425-G0115,4,03:24,UTA,,SAC,,C. Williams,UTA,Williams S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0115,4,02:37,UTA,92.0,SAC,111.0,C. Williams,UTA,Williams 3PT Jump Shot (9 PTS) (George 10 AST),Made Shot,Jump Shot,-232,-4,0,1,3.0,3.0,h
+S2425-G0070,1,01:45,UTA,,MEM,,C. Williams,UTA,Williams P.FOUL (P1.T4) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2425-G0070,1,00:47.200000,UTA,,MEM,,C. Williams,UTA,Williams P.FOUL (P2.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2425-G0070,2,06:50,UTA,34.0,MEM,41.0,C. Williams,UTA,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,2,06:50,UTA,35.0,MEM,41.0,C. Williams,UTA,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,2,03:35,UTA,,MEM,,C. Williams,UTA,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,3,01:41,UTA,,MEM,,C. Williams,UTA,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,3,00:19.600000,UTA,,MEM,,C. Williams,UTA,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,3,00:11.400000,UTA,,MEM,,C. Williams,UTA,Williams Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0070,3,00:10.500000,UTA,,MEM,,C. Williams,UTA,Williams S.FOUL (P3.PN) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2425-G0070,4,11:23,UTA,,MEM,,C. Williams,UTA,Williams S.FOUL (P4.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2425-G0070,4,11:18,UTA,,MEM,,C. Williams,UTA,SUB: Hendricks FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0070,4,05:18,UTA,,MEM,,C. Williams,UTA,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,4,04:00,UTA,,MEM,,C. Williams,UTA,SUB: Hendricks FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0084,1,05:06,UTA,,GSW,,C. Williams,UTA,Williams P.FOUL (P1.T4) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0084,1,03:05,UTA,21.0,GSW,21.0,C. Williams,UTA,Williams 4' Driving Layup (2 PTS) (Collins 1 AST),Made Shot,Driving Layup Shot,36,19,4,1,2.0,2.0,h
+S2425-G0084,1,01:52,UTA,,GSW,,C. Williams,UTA,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-225,103,25,1,3.0,0.0,h
+S2425-G0084,2,01:16,UTA,,GSW,,C. Williams,UTA,MISS Williams 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-224,31,0,1,3.0,0.0,h
+S2425-G0084,3,07:49,UTA,,GSW,,C. Williams,UTA,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,3,07:44,UTA,,GSW,,C. Williams,UTA,MISS Williams 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,76,43,9,1,2.0,0.0,h
+S2425-G0084,3,04:37,UTA,,GSW,,C. Williams,UTA,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,126,216,25,1,3.0,0.0,h
+S2425-G0084,3,04:30,UTA,,GSW,,C. Williams,UTA,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0084,3,01:32,UTA,,GSW,,C. Williams,UTA,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,4,04:37,UTA,,GSW,,C. Williams,UTA,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,4,04:37,UTA,,GSW,,C. Williams,UTA,Williams Lost Ball Turnover (P1.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0084,4,00:58.800000,UTA,,GSW,,C. Williams,UTA,MISS Williams 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,86,9,1,2.0,0.0,h

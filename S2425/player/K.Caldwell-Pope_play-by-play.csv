@@ -1,0 +1,83 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,1,11:03,MIA,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0065,1,08:12,MIA,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0065,1,06:11,MIA,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,-234,7,0,1,3.0,0.0,v
+S2425-G0065,1,05:47,MIA,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0065,1,05:42,MIA,,ORL,,K. Caldwell-Pope,ORL,SUB: Anthony FOR Caldwell-Pope,Substitution,,0,0,0,0,,,v
+S2425-G0065,1,00:00,MIA,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 30' 3PT Jump Shot,Missed Shot,Jump Shot,131,273,30,1,3.0,0.0,v
+S2425-G0065,2,06:16,MIA,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,8,24,1,3.0,0.0,v
+S2425-G0065,2,05:49,MIA,47.0,ORL,44.0,K. Caldwell-Pope,ORL,Caldwell-Pope Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0065,2,03:50,MIA,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,2,03:04,MIA,51.0,ORL,50.0,K. Caldwell-Pope,ORL,Caldwell-Pope Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0065,2,03:04,MIA,51.0,ORL,51.0,K. Caldwell-Pope,ORL,Caldwell-Pope Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0065,2,02:57,MIA,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope P.FOUL (P1.PN) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2425-G0065,2,01:59,MIA,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 26' 3PT Jump Shot,Missed Shot,Jump Shot,49,259,26,1,3.0,0.0,v
+S2425-G0065,3,05:57,MIA,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0065,3,05:52,MIA,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-192,161,25,1,3.0,0.0,v
+S2425-G0065,3,01:48,MIA,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0065,3,01:48,MIA,,ORL,,K. Caldwell-Pope,ORL,SUB: Anthony FOR Caldwell-Pope,Substitution,,0,0,0,0,,,v
+S2425-G0123,1,11:44,CHI,0.0,ORL,3.0,K. Caldwell-Pope,ORL,Caldwell-Pope 26' 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,-172,190,26,1,3.0,3.0,v
+S2425-G0123,1,08:02,CHI,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-30,24,1,3.0,0.0,v
+S2425-G0123,1,06:18,CHI,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,-185,163,25,1,3.0,0.0,v
+S2425-G0123,1,04:32,CHI,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0123,1,03:13,CHI,,ORL,,K. Caldwell-Pope,ORL,SUB: Black FOR Caldwell-Pope,Substitution,,0,0,0,0,,,v
+S2425-G0123,2,06:10,CHI,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,7,17,2,1,2.0,0.0,v
+S2425-G0123,2,05:31,CHI,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,4,24,1,3.0,0.0,v
+S2425-G0123,2,04:54,CHI,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,2,04:45,CHI,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2425-G0123,3,08:51,CHI,60.0,ORL,67.0,K. Caldwell-Pope,ORL,Caldwell-Pope 25' 3PT Jump Shot (6 PTS) (F. Wagner 4 AST),Made Shot,Jump Shot,-156,197,25,1,3.0,3.0,v
+S2425-G0123,3,05:55,CHI,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope P.FOUL (P2.T2) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2425-G0123,3,04:14,CHI,,ORL,,K. Caldwell-Pope,ORL,SUB: Suggs FOR Caldwell-Pope,Substitution,,0,0,0,0,,,v
+S2425-G0123,4,08:12,CHI,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 27' 3PT Jump Shot,Missed Shot,Jump Shot,156,218,27,1,3.0,0.0,v
+S2425-G0123,4,04:15,CHI,92.0,ORL,91.0,K. Caldwell-Pope,ORL,Caldwell-Pope 1' Running Dunk (8 PTS) (Carter Jr. 2 AST),Made Shot,Running Dunk Shot,-11,8,1,1,2.0,2.0,v
+S2425-G0123,4,02:52,CHI,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope S.FOUL (P3.T4) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0123,4,01:38,CHI,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,230,29,0,1,3.0,0.0,v
+S2425-G0092,1,11:21,MEM,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,11,264,26,1,3.0,0.0,v
+S2425-G0092,1,11:05,MEM,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0092,1,10:16,MEM,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 3' Running Layup,Missed Shot,Running Layup Shot,-15,21,3,1,2.0,0.0,v
+S2425-G0092,1,08:31,MEM,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0092,1,08:28,MEM,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0092,1,07:50,MEM,11.0,ORL,5.0,K. Caldwell-Pope,ORL,Caldwell-Pope 19' Pullup Jump Shot (2 PTS) (Suggs 1 AST),Made Shot,Pullup Jump shot,-192,29,19,1,2.0,2.0,v
+S2425-G0092,1,02:58,MEM,,ORL,,K. Caldwell-Pope,ORL,SUB: Anthony FOR Caldwell-Pope,Substitution,,0,0,0,0,,,v
+S2425-G0092,2,04:00,MEM,55.0,ORL,38.0,K. Caldwell-Pope,ORL,Caldwell-Pope Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0092,2,03:33,MEM,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,0,0,1,3.0,0.0,v
+S2425-G0092,3,09:16,MEM,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope P.FOUL (P1.T2) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2425-G0092,3,06:37,MEM,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0092,3,04:46,MEM,,ORL,,K. Caldwell-Pope,ORL,SUB: Black FOR Caldwell-Pope,Substitution,,0,0,0,0,,,v
+S2425-G0092,4,10:59,MEM,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope P.FOUL (P2.T1) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2425-G0092,4,09:47,MEM,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0092,4,08:30,MEM,,ORL,,K. Caldwell-Pope,ORL,Caldwell-Pope REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0092,4,07:59,MEM,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,168,180,25,1,3.0,0.0,v
+S2425-G0092,4,07:15,MEM,,ORL,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,-223,-12,0,1,3.0,0.0,v
+S2425-G0092,4,04:53,MEM,,ORL,,K. Caldwell-Pope,ORL,SUB: Howard FOR Caldwell-Pope,Substitution,,0,0,0,0,,,v
+S2425-G0102,1,11:01,ORL,,IND,,K. Caldwell-Pope,ORL,Caldwell-Pope STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0102,1,10:54,ORL,,IND,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-164,215,27,1,3.0,0.0,h
+S2425-G0102,1,09:31,ORL,,IND,,K. Caldwell-Pope,ORL,Caldwell-Pope Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0102,1,09:21,ORL,,IND,,K. Caldwell-Pope,ORL,Caldwell-Pope P.FOUL (P1.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2425-G0102,1,03:42,ORL,,IND,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,-234,10,0,1,3.0,0.0,h
+S2425-G0102,1,02:18,ORL,29.0,IND,27.0,K. Caldwell-Pope,ORL,Caldwell-Pope 2' Cutting Layup Shot (2 PTS) (M. Wagner 1 AST),Made Shot,Cutting Layup Shot,2,15,2,1,2.0,2.0,h
+S2425-G0102,1,02:08,ORL,,IND,,K. Caldwell-Pope,ORL,Caldwell-Pope S.FOUL (P2.T4) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2425-G0102,1,02:08,ORL,,IND,,K. Caldwell-Pope,ORL,SUB: Anthony FOR Caldwell-Pope,Substitution,,0,0,0,0,,,h
+S2425-G0102,2,03:45,ORL,,IND,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 27' 3PT Jump Shot,Missed Shot,Jump Shot,-157,217,27,1,3.0,0.0,h
+S2425-G0102,2,00:47.300000,ORL,69.0,IND,58.0,K. Caldwell-Pope,ORL,Caldwell-Pope 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,16,2,1,2.0,2.0,h
+S2425-G0102,2,00:03.900000,ORL,,IND,,K. Caldwell-Pope,ORL,Caldwell-Pope S.FOUL (P3.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2425-G0102,2,00:03.900000,ORL,,IND,,K. Caldwell-Pope,ORL,Caldwell-Pope T.FOUL (P3.PN) (N.Green),Foul,Technical,0,0,0,0,,,h
+S2425-G0102,3,03:58,ORL,,IND,,K. Caldwell-Pope,ORL,SUB: Howard FOR Caldwell-Pope,Substitution,,0,0,0,0,,,h
+S2425-G0102,4,03:51,ORL,,IND,,K. Caldwell-Pope,ORL,Caldwell-Pope P.FOUL (P4.T3) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2425-G0077,1,09:19,ORL,9.0,BKN,2.0,K. Caldwell-Pope,ORL,Caldwell-Pope 3PT Running Jump Shot (3 PTS) (Banchero 2 AST),Made Shot,Running Jump Shot,225,29,0,1,3.0,3.0,h
+S2425-G0077,1,08:51,ORL,,BKN,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,225,29,0,1,3.0,0.0,h
+S2425-G0077,1,07:17,ORL,,BKN,,K. Caldwell-Pope,ORL,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0077,1,07:14,ORL,,BKN,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-121,219,25,1,3.0,0.0,h
+S2425-G0077,1,06:06,ORL,,BKN,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,-234,3,0,1,3.0,0.0,h
+S2425-G0077,1,03:51,ORL,,BKN,,K. Caldwell-Pope,ORL,SUB: Black FOR Caldwell-Pope,Substitution,,0,0,0,0,,,h
+S2425-G0077,2,07:00,ORL,,BKN,,K. Caldwell-Pope,ORL,Caldwell-Pope BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0077,2,05:01,ORL,,BKN,,K. Caldwell-Pope,ORL,Caldwell-Pope STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0077,2,04:58,ORL,41.0,BKN,31.0,K. Caldwell-Pope,ORL,Caldwell-Pope 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,-5,-2,1,1,2.0,2.0,h
+S2425-G0077,2,03:42,ORL,,BKN,,K. Caldwell-Pope,ORL,Caldwell-Pope BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0077,2,01:49,ORL,,BKN,,K. Caldwell-Pope,ORL,Caldwell-Pope P.FOUL (P1.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2425-G0077,2,00:33.300000,ORL,49.0,BKN,46.0,K. Caldwell-Pope,ORL,Caldwell-Pope 3PT Jump Shot (8 PTS) (Carter Jr. 2 AST),Made Shot,Jump Shot,225,14,0,1,3.0,3.0,h
+S2425-G0077,3,10:53,ORL,,BKN,,K. Caldwell-Pope,ORL,MISS Caldwell-Pope 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,158,34,16,1,2.0,0.0,h
+S2425-G0077,3,03:00,ORL,,BKN,,K. Caldwell-Pope,ORL,Caldwell-Pope STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0077,3,01:45,ORL,77.0,BKN,68.0,K. Caldwell-Pope,ORL,Caldwell-Pope Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0077,3,01:45,ORL,78.0,BKN,68.0,K. Caldwell-Pope,ORL,Caldwell-Pope Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0077,3,01:26,ORL,,BKN,,K. Caldwell-Pope,ORL,SUB: F. Wagner FOR Caldwell-Pope,Substitution,,0,0,0,0,,,h

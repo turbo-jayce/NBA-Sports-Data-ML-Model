@@ -1,0 +1,145 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,11:29,DAL,,SAS,,K. Irving,DAL,MISS Irving 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-210,117,24,1,3.0,0.0,h
+S2425-G0074,1,11:00,DAL,,SAS,,K. Irving,DAL,Irving P.FOUL (P1.T1) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2425-G0074,1,10:12,DAL,,SAS,,K. Irving,DAL,Irving BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0074,1,10:01,DAL,,SAS,,K. Irving,DAL,MISS Irving 22' Jump Shot,Missed Shot,Jump Shot,134,169,22,1,2.0,0.0,h
+S2425-G0074,1,08:52,DAL,,SAS,,K. Irving,DAL,MISS Irving 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-199,34,20,1,2.0,0.0,h
+S2425-G0074,1,08:05,DAL,7.0,SAS,8.0,K. Irving,DAL,Irving 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,17,245,25,1,3.0,3.0,h
+S2425-G0074,1,07:16,DAL,,SAS,,K. Irving,DAL,SUB: Grimes FOR Irving,Substitution,,0,0,0,0,,,h
+S2425-G0074,1,03:54,DAL,18.0,SAS,20.0,K. Irving,DAL,Irving 12' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-119,13,12,1,2.0,2.0,h
+S2425-G0074,1,01:31,DAL,,SAS,,K. Irving,DAL,Irving REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,1,00:48.900000,DAL,,SAS,,K. Irving,DAL,MISS Irving 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,96,52,11,1,2.0,0.0,h
+S2425-G0074,2,03:10,DAL,,SAS,,K. Irving,DAL,MISS Irving 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,65,14,7,1,2.0,0.0,h
+S2425-G0074,2,01:30,DAL,44.0,SAS,47.0,K. Irving,DAL,Irving 16' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,100,126,16,1,2.0,2.0,h
+S2425-G0074,3,11:26,DAL,,SAS,,K. Irving,DAL,MISS Irving 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,107,244,27,1,3.0,0.0,h
+S2425-G0074,3,11:10,DAL,,SAS,,K. Irving,DAL,Irving REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,3,10:31,DAL,53.0,SAS,51.0,K. Irving,DAL,Irving 26' 3PT Step Back Jump Shot (10 PTS) (Gafford 1 AST),Made Shot,Step Back Jump shot,-126,227,26,1,3.0,3.0,h
+S2425-G0074,3,09:29,DAL,,SAS,,K. Irving,DAL,MISS Irving 28' 3PT Jump Shot,Missed Shot,Jump Shot,-92,269,28,1,3.0,0.0,h
+S2425-G0074,3,09:10,DAL,,SAS,,K. Irving,DAL,MISS Irving 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,48,29,6,1,2.0,0.0,h
+S2425-G0074,3,08:21,DAL,,SAS,,K. Irving,DAL,Irving STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0074,3,08:10,DAL,,SAS,,K. Irving,DAL,Irving STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0074,3,07:36,DAL,66.0,SAS,55.0,K. Irving,DAL,Irving 26' 3PT Jump Shot (13 PTS) (Thompson 1 AST),Made Shot,Jump Shot,116,233,26,1,3.0,3.0,h
+S2425-G0074,3,05:42,DAL,,SAS,,K. Irving,DAL,Irving REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,3,05:35,DAL,,SAS,,K. Irving,DAL,MISS Irving 4' Driving Layup,Missed Shot,Driving Layup Shot,-11,37,4,1,2.0,0.0,h
+S2425-G0074,3,04:54,DAL,,SAS,,K. Irving,DAL,SUB: Marshall FOR Irving,Substitution,,0,0,0,0,,,h
+S2425-G0074,3,01:35,DAL,,SAS,,K. Irving,DAL,MISS Irving 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,194,19,1,2.0,0.0,h
+S2425-G0074,3,00:51.700000,DAL,87.0,SAS,79.0,K. Irving,DAL,Irving 1' Running Layup (15 PTS) (Marshall 2 AST),Made Shot,Running Layup Shot,9,8,1,1,2.0,2.0,h
+S2425-G0074,3,00:00,DAL,,SAS,,K. Irving,DAL,MISS Irving 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-230,57,24,1,3.0,0.0,h
+S2425-G0110,1,06:18,DAL,,UTA,,K. Irving,DAL,SUB: Lively II FOR Irving,Substitution,,0,0,0,0,,,h
+S2425-G0110,1,02:15,DAL,,UTA,,K. Irving,DAL,Irving REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,1,02:12,DAL,,UTA,,K. Irving,DAL,Irving Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0110,1,00:59.200000,DAL,,UTA,,K. Irving,DAL,MISS Irving 20' Jump Shot,Missed Shot,Jump Shot,-175,93,20,1,2.0,0.0,h
+S2425-G0110,1,00:36.900000,DAL,24.0,UTA,19.0,K. Irving,DAL,Irving 24' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,137,200,24,1,3.0,3.0,h
+S2425-G0110,1,00:01.200000,DAL,27.0,UTA,19.0,K. Irving,DAL,Irving 24' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,230,50,24,1,3.0,3.0,h
+S2425-G0110,2,11:16,DAL,30.0,UTA,20.0,K. Irving,DAL,Irving Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0110,2,11:16,DAL,31.0,UTA,20.0,K. Irving,DAL,Irving Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0110,2,09:40,DAL,,UTA,,K. Irving,DAL,SUB: Thompson FOR Irving,Substitution,,0,0,0,0,,,h
+S2425-G0110,2,05:17,DAL,,UTA,,K. Irving,DAL,Irving REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,2,04:04,DAL,,UTA,,K. Irving,DAL,Irving OFF.Foul (P1) (K.Lane),Foul,Offensive,0,0,0,0,,,h
+S2425-G0110,2,04:04,DAL,,UTA,,K. Irving,DAL,Irving Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0110,2,03:01,DAL,,UTA,,K. Irving,DAL,Irving S.FOUL (P2.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0110,2,02:16,DAL,45.0,UTA,37.0,K. Irving,DAL,Irving 7' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,-1,68,7,1,2.0,2.0,h
+S2425-G0110,2,01:48,DAL,,UTA,,K. Irving,DAL,Irving REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,10:10,DAL,54.0,UTA,47.0,K. Irving,DAL,Irving 14' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-16,136,14,1,2.0,2.0,h
+S2425-G0110,3,09:21,DAL,59.0,UTA,49.0,K. Irving,DAL,Irving 25' 3PT Jump Shot (15 PTS) (Thompson 1 AST),Made Shot,Jump Shot,212,139,25,1,3.0,3.0,h
+S2425-G0110,3,07:01,DAL,,UTA,,K. Irving,DAL,Irving Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0110,3,06:35,DAL,,UTA,,K. Irving,DAL,MISS Irving 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-138,212,25,1,3.0,0.0,h
+S2425-G0110,3,06:33,DAL,,UTA,,K. Irving,DAL,Irving REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,06:31,DAL,,UTA,,K. Irving,DAL,MISS Irving 3PT Jump Shot,Missed Shot,Jump Shot,-228,-5,0,1,3.0,0.0,h
+S2425-G0110,3,06:16,DAL,,UTA,,K. Irving,DAL,SUB: Lively II FOR Irving,Substitution,,0,0,0,0,,,h
+S2425-G0110,3,03:49,DAL,,UTA,,K. Irving,DAL,MISS Irving 2' Driving Layup,Missed Shot,Driving Layup Shot,12,16,2,1,2.0,0.0,h
+S2425-G0110,3,03:30,DAL,,UTA,,K. Irving,DAL,Irving REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,02:47,DAL,74.0,UTA,67.0,K. Irving,DAL,Irving 13' Pullup Jump Shot (17 PTS) (Lively II 2 AST),Made Shot,Pullup Jump shot,58,111,13,1,2.0,2.0,h
+S2425-G0110,3,01:12,DAL,,UTA,,K. Irving,DAL,MISS Irving 31' 3PT Jump Shot,Missed Shot,Jump Shot,-105,294,31,1,3.0,0.0,h
+S2425-G0110,3,00:10,DAL,,UTA,,K. Irving,DAL,MISS Irving 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-23,58,6,1,2.0,0.0,h
+S2425-G0110,3,00:08.200000,DAL,,UTA,,K. Irving,DAL,Irving REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,4,10:09,DAL,86.0,UTA,79.0,K. Irving,DAL,Irving 3' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,25,2,3,1,2.0,2.0,h
+S2425-G0110,4,09:18,DAL,88.0,UTA,81.0,K. Irving,DAL,Irving 5' Driving Finger Roll Layup (21 PTS),Made Shot,Driving Finger Roll Layup Shot,-50,21,5,1,2.0,2.0,h
+S2425-G0110,4,09:02,DAL,,UTA,,K. Irving,DAL,Irving STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0110,4,07:01,DAL,,UTA,,K. Irving,DAL,SUB: Thompson FOR Irving,Substitution,,0,0,0,0,,,h
+S2425-G0110,4,03:05,DAL,,UTA,,K. Irving,DAL,Irving Out of Bounds Lost Ball Turnover (P4.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0110,4,02:03,DAL,105.0,UTA,97.0,K. Irving,DAL,Irving Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0110,4,02:03,DAL,106.0,UTA,97.0,K. Irving,DAL,Irving Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0110,4,01:43,DAL,,UTA,,K. Irving,DAL,Irving BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0110,4,01:06,DAL,,UTA,,K. Irving,DAL,SUB: Dinwiddie FOR Irving,Substitution,,0,0,0,0,,,h
+S2425-G0114,1,11:39,MIN,,DAL,,K. Irving,DAL,MISS Irving 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-119,48,13,1,2.0,0.0,v
+S2425-G0114,1,09:00,MIN,4.0,DAL,8.0,K. Irving,DAL,Irving 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-20,128,13,1,2.0,2.0,v
+S2425-G0114,1,09:00,MIN,4.0,DAL,9.0,K. Irving,DAL,Irving Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0114,1,08:57,MIN,,DAL,,K. Irving,DAL,Irving P.FOUL (P1.T2) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0114,1,08:06,MIN,,DAL,,K. Irving,DAL,MISS Irving 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,32,85,9,1,2.0,0.0,v
+S2425-G0114,1,06:02,MIN,,DAL,,K. Irving,DAL,SUB: Dinwiddie FOR Irving,Substitution,,0,0,0,0,,,v
+S2425-G0114,1,01:24,MIN,,DAL,,K. Irving,DAL,Irving S.FOUL (P2.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,2,11:28,MIN,34.0,DAL,28.0,K. Irving,DAL,Irving 9' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,45,81,9,1,2.0,2.0,v
+S2425-G0114,2,11:11,MIN,,DAL,,K. Irving,DAL,MISS Irving 7' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,-11,65,7,1,2.0,0.0,v
+S2425-G0114,2,10:07,MIN,39.0,DAL,32.0,K. Irving,DAL,Irving 2' Driving Layup (7 PTS) (Lively II 1 AST),Made Shot,Driving Layup Shot,-12,21,2,1,2.0,2.0,v
+S2425-G0114,2,08:56,MIN,,DAL,,K. Irving,DAL,Irving Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0114,2,07:39,MIN,42.0,DAL,37.0,K. Irving,DAL,Irving 26' 3PT Running Jump Shot (10 PTS) (Dončić 4 AST),Made Shot,Running Jump Shot,-211,146,26,1,3.0,3.0,v
+S2425-G0114,2,06:39,MIN,,DAL,,K. Irving,DAL,SUB: Dinwiddie FOR Irving,Substitution,,0,0,0,0,,,v
+S2425-G0114,2,01:31,MIN,,DAL,,K. Irving,DAL,Irving REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,00:03.900000,MIN,,DAL,,K. Irving,DAL,Irving REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,00:03.900000,MIN,,DAL,,K. Irving,DAL,SUB: Marshall FOR Irving,Substitution,,0,0,0,0,,,v
+S2425-G0114,3,10:22,MIN,,DAL,,K. Irving,DAL,MISS Irving 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-130,21,13,1,2.0,0.0,v
+S2425-G0114,3,10:11,MIN,,DAL,,K. Irving,DAL,Irving P.FOUL (P3.T3) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0114,3,08:23,MIN,71.0,DAL,67.0,K. Irving,DAL,Irving 3PT Jump Shot (13 PTS) (Washington 2 AST),Made Shot,Jump Shot,229,3,0,1,3.0,3.0,v
+S2425-G0114,3,08:02,MIN,,DAL,,K. Irving,DAL,MISS Irving 1' Running Layup,Missed Shot,Running Layup Shot,-12,6,1,1,2.0,0.0,v
+S2425-G0114,3,07:50,MIN,71.0,DAL,69.0,K. Irving,DAL,Irving 1' Running Layup (15 PTS) (Dončić 6 AST),Made Shot,Running Layup Shot,-10,5,1,1,2.0,2.0,v
+S2425-G0114,3,07:18,MIN,71.0,DAL,72.0,K. Irving,DAL,Irving 25' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,60,239,25,1,3.0,3.0,v
+S2425-G0114,3,03:49,MIN,,DAL,,K. Irving,DAL,SUB: Grimes FOR Irving,Substitution,,0,0,0,0,,,v
+S2425-G0114,3,01:31,MIN,77.0,DAL,88.0,K. Irving,DAL,Irving 25' 3PT Jump Shot (21 PTS) (Marshall 2 AST),Made Shot,Jump Shot,-118,218,25,1,3.0,3.0,v
+S2425-G0114,3,00:57.900000,MIN,80.0,DAL,91.0,K. Irving,DAL,Irving 25' 3PT Pullup Jump Shot (24 PTS) (Marshall 3 AST),Made Shot,Pullup Jump shot,-60,243,25,1,3.0,3.0,v
+S2425-G0114,3,00:36.500000,MIN,80.0,DAL,93.0,K. Irving,DAL,Irving 4' Driving Finger Roll Layup (26 PTS) (Dinwiddie 2 AST),Made Shot,Driving Finger Roll Layup Shot,-11,34,4,1,2.0,2.0,v
+S2425-G0114,3,00:24.700000,MIN,,DAL,,K. Irving,DAL,Irving REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,3,00:20.800000,MIN,,DAL,,K. Irving,DAL,MISS Irving 28' 3PT Jump Shot,Missed Shot,Jump Shot,194,198,28,1,3.0,0.0,v
+S2425-G0114,3,00:00.300000,MIN,,DAL,,K. Irving,DAL,MISS Irving 77' 3PT Jump Shot,Missed Shot,Jump Shot,1,773,77,1,3.0,0.0,v
+S2425-G0114,4,11:44,MIN,,DAL,,K. Irving,DAL,MISS Irving 3' Layup,Missed Shot,Layup Shot,1,26,3,1,2.0,0.0,v
+S2425-G0114,4,11:37,MIN,,DAL,,K. Irving,DAL,Irving STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0114,4,08:52,MIN,,DAL,,K. Irving,DAL,Irving REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,4,08:40,MIN,,DAL,,K. Irving,DAL,MISS Irving 1' Driving Layup,Missed Shot,Driving Layup Shot,-5,9,1,1,2.0,0.0,v
+S2425-G0114,4,07:06,MIN,92.0,DAL,101.0,K. Irving,DAL,Irving 13' Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,62,117,13,1,2.0,2.0,v
+S2425-G0114,4,06:24,MIN,95.0,DAL,102.0,K. Irving,DAL,Irving Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0114,4,06:24,MIN,95.0,DAL,103.0,K. Irving,DAL,Irving Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0114,4,05:50,MIN,,DAL,,K. Irving,DAL,MISS Irving 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,129,18,1,2.0,0.0,v
+S2425-G0114,4,04:18,MIN,102.0,DAL,107.0,K. Irving,DAL,Irving 2' Driving Layup (32 PTS),Made Shot,Driving Layup Shot,1,17,2,1,2.0,2.0,v
+S2425-G0114,4,02:31,MIN,107.0,DAL,112.0,K. Irving,DAL,Irving 24' 3PT Pullup Jump Shot (35 PTS),Made Shot,Pullup Jump shot,18,241,24,1,3.0,3.0,v
+S2425-G0114,4,00:19.600000,MIN,,DAL,,K. Irving,DAL,MISS Irving Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0114,4,00:19.600000,MIN,,DAL,,K. Irving,DAL,MISS Irving Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0095,1,11:15,PHX,,DAL,,K. Irving,DAL,MISS Irving 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-40,68,8,1,2.0,0.0,v
+S2425-G0095,1,09:18,PHX,,DAL,,K. Irving,DAL,MISS Irving 6' Driving Layup,Missed Shot,Driving Layup Shot,-26,58,6,1,2.0,0.0,v
+S2425-G0095,1,09:14,PHX,,DAL,,K. Irving,DAL,Irving STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0095,1,07:21,PHX,15.0,DAL,13.0,K. Irving,DAL,Irving 7' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,45,51,7,1,2.0,2.0,v
+S2425-G0095,1,07:06,PHX,,DAL,,K. Irving,DAL,Irving P.FOUL (P1.T3) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2425-G0095,1,07:06,PHX,,DAL,,K. Irving,DAL,SUB: Lively II FOR Irving,Substitution,,0,0,0,0,,,v
+S2425-G0095,1,02:18,PHX,,DAL,,K. Irving,DAL,MISS Irving 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-99,46,11,1,2.0,0.0,v
+S2425-G0095,1,01:18,PHX,24.0,DAL,22.0,K. Irving,DAL,Irving 25' 3PT Jump Shot (5 PTS) (Kleber 1 AST),Made Shot,Jump Shot,-208,138,25,1,3.0,3.0,v
+S2425-G0095,1,00:48.100000,PHX,,DAL,,K. Irving,DAL,MISS Irving 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-200,136,24,1,3.0,0.0,v
+S2425-G0095,1,00:00.100000,PHX,,DAL,,K. Irving,DAL,SUB: Grimes FOR Irving,Substitution,,0,0,0,0,,,v
+S2425-G0095,2,09:58,PHX,,DAL,,K. Irving,DAL,MISS Irving 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,45,183,19,1,2.0,0.0,v
+S2425-G0095,2,08:42,PHX,,DAL,,K. Irving,DAL,SUB: Thompson FOR Irving,Substitution,,0,0,0,0,,,v
+S2425-G0095,2,06:11,PHX,,DAL,,K. Irving,DAL,Irving S.FOUL (P2.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,2,04:48,PHX,,DAL,,K. Irving,DAL,MISS Irving 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-161,192,25,1,3.0,0.0,v
+S2425-G0095,2,03:18,PHX,54.0,DAL,46.0,K. Irving,DAL,Irving 3PT Jump Shot (8 PTS) (Marshall 2 AST),Made Shot,Jump Shot,-223,31,0,1,3.0,3.0,v
+S2425-G0095,2,02:46,PHX,56.0,DAL,48.0,K. Irving,DAL,Irving 17' Pullup Jump Shot (10 PTS) (Marshall 3 AST),Made Shot,Pullup Jump shot,18,168,17,1,2.0,2.0,v
+S2425-G0095,2,01:14,PHX,60.0,DAL,53.0,K. Irving,DAL,Irving 13' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-16,125,13,1,2.0,2.0,v
+S2425-G0095,2,00:26.900000,PHX,,DAL,,K. Irving,DAL,MISS Irving 19' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,75,172,19,1,2.0,0.0,v
+S2425-G0095,3,09:41,PHX,68.0,DAL,65.0,K. Irving,DAL,Irving 4' Cutting Layup Shot (14 PTS) (Gafford 4 AST),Made Shot,Cutting Layup Shot,7,43,4,1,2.0,2.0,v
+S2425-G0095,3,08:08,PHX,,DAL,,K. Irving,DAL,Irving STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0095,3,07:01,PHX,,DAL,,K. Irving,DAL,MISS Irving 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,96,55,11,1,2.0,0.0,v
+S2425-G0095,3,05:09,PHX,,DAL,,K. Irving,DAL,SUB: Hardy FOR Irving,Substitution,,0,0,0,0,,,v
+S2425-G0095,3,02:00,PHX,,DAL,,K. Irving,DAL,MISS Irving 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,170,17,1,2.0,0.0,v
+S2425-G0095,3,01:38,PHX,85.0,DAL,77.0,K. Irving,DAL,Irving Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0095,3,00:24.800000,PHX,,DAL,,K. Irving,DAL,MISS Irving 3' Layup,Missed Shot,Layup Shot,-31,16,3,1,2.0,0.0,v
+S2425-G0095,3,00:24.200000,PHX,,DAL,,K. Irving,DAL,Irving P.FOUL (P3.PN) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2425-G0095,3,00:07.100000,PHX,89.0,DAL,80.0,K. Irving,DAL,Irving 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,17,16,2,1,2.0,2.0,v
+S2425-G0095,4,10:39,PHX,94.0,DAL,87.0,K. Irving,DAL,Irving 2' Driving Layup (19 PTS) (Thompson 1 AST),Made Shot,Driving Layup Shot,-9,15,2,1,2.0,2.0,v
+S2425-G0095,4,10:39,PHX,94.0,DAL,88.0,K. Irving,DAL,Irving Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0095,4,09:42,PHX,,DAL,,K. Irving,DAL,Irving REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,4,09:20,PHX,96.0,DAL,90.0,K. Irving,DAL,Irving 9' Turnaround Jump Shot (22 PTS),Made Shot,Turnaround Jump Shot,-44,79,9,1,2.0,2.0,v
+S2425-G0095,4,09:04,PHX,,DAL,,K. Irving,DAL,Irving STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0095,4,08:55,PHX,,DAL,,K. Irving,DAL,MISS Irving 27' 3PT Jump Shot,Missed Shot,Jump Shot,-145,225,27,1,3.0,0.0,v
+S2425-G0095,4,08:39,PHX,,DAL,,K. Irving,DAL,Irving Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0095,4,08:31,PHX,,DAL,,K. Irving,DAL,Irving REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,4,07:54,PHX,,DAL,,K. Irving,DAL,MISS Irving 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-89,90,13,1,2.0,0.0,v
+S2425-G0095,4,06:44,PHX,,DAL,,K. Irving,DAL,Irving S.FOUL (P4.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,4,05:50,PHX,,DAL,,K. Irving,DAL,SUB: Marshall FOR Irving,Substitution,,0,0,0,0,,,v
+S2425-G0095,4,03:02,PHX,,DAL,,K. Irving,DAL,MISS Irving 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,15,94,10,1,2.0,0.0,v
+S2425-G0095,4,01:01,PHX,,DAL,,K. Irving,DAL,SUB: Gortman FOR Irving,Substitution,,0,0,0,0,,,v

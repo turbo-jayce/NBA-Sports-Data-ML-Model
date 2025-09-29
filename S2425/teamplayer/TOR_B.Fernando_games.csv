@@ -1,0 +1,61 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,1,03:24,TOR,,PHI,,B. Fernando,TOR,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,1,03:13,TOR,,PHI,,B. Fernando,TOR,Fernando Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0078,1,02:49,TOR,,PHI,,B. Fernando,TOR,Fernando Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0078,1,02:39,TOR,,PHI,,B. Fernando,TOR,Fernando BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0078,1,02:37,TOR,,PHI,,B. Fernando,TOR,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,1,01:52,TOR,,PHI,,B. Fernando,TOR,Fernando Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0078,1,00:28.200000,TOR,,PHI,,B. Fernando,TOR,Fernando S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0078,3,05:20,TOR,,PHI,,B. Fernando,TOR,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,3,05:05,TOR,,PHI,,B. Fernando,TOR,Fernando REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,3,05:05,TOR,,PHI,,B. Fernando,TOR,MISS Fernando Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0078,3,05:05,TOR,,PHI,,B. Fernando,TOR,Fernando REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,3,05:05,TOR,75.0,PHI,66.0,B. Fernando,TOR,Fernando Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,3,05:05,TOR,76.0,PHI,66.0,B. Fernando,TOR,Fernando Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,3,03:27,TOR,,PHI,,B. Fernando,TOR,MISS Fernando 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-7,13,1,1,2.0,0.0,h
+S2425-G0078,3,03:12,TOR,,PHI,,B. Fernando,TOR,Fernando REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,3,02:49,TOR,,PHI,,B. Fernando,TOR,Fernando S.FOUL (P2.PN) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,h
+S2425-G0078,3,02:49,TOR,,PHI,,B. Fernando,TOR,SUB: Mogbo FOR Fernando,Substitution,,0,0,0,0,,,h
+S2425-G0117,1,03:23,CHA,,TOR,,B. Fernando,TOR,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,1,00:29.300000,CHA,,TOR,,B. Fernando,TOR,Fernando P.FOUL (P1.T4) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2425-G0117,1,00:29.300000,CHA,,TOR,,B. Fernando,TOR,SUB: Mogbo FOR Fernando,Substitution,,0,0,0,0,,,v
+S2425-G0093,1,04:00,MIN,,TOR,,B. Fernando,TOR,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,1,02:53,MIN,,TOR,,B. Fernando,TOR,Fernando BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0093,1,01:10,MIN,,TOR,,B. Fernando,TOR,MISS Fernando 4' Layup,Missed Shot,Layup Shot,0,40,4,1,2.0,0.0,v
+S2425-G0093,1,01:09,MIN,,TOR,,B. Fernando,TOR,Fernando Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0093,3,03:57,MIN,80.0,TOR,59.0,B. Fernando,TOR,Fernando Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0093,3,03:57,MIN,80.0,TOR,60.0,B. Fernando,TOR,Fernando Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0093,3,03:10,MIN,,TOR,,B. Fernando,TOR,Fernando S.FOUL (P1.T4) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0093,3,02:48,MIN,,TOR,,B. Fernando,TOR,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,3,02:47,MIN,84.0,TOR,65.0,B. Fernando,TOR,Fernando 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,16,16,2,1,2.0,2.0,v
+S2425-G0093,3,02:33,MIN,,TOR,,B. Fernando,TOR,Fernando Violation:Defensive Goaltending (C.Blair),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0093,3,02:00,MIN,,TOR,,B. Fernando,TOR,Fernando BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0093,3,00:59.500000,MIN,,TOR,,B. Fernando,TOR,Fernando L.B.FOUL (P2.PN) (D.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0093,4,11:52,MIN,,TOR,,B. Fernando,TOR,Fernando OFF.Foul (P3) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
+S2425-G0093,4,11:52,MIN,,TOR,,B. Fernando,TOR,Fernando Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0093,4,11:06,MIN,,TOR,,B. Fernando,TOR,Fernando STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0093,4,09:58,MIN,,TOR,,B. Fernando,TOR,MISS Fernando 12' Floating Jump Shot,Missed Shot,Floating Jump shot,28,113,12,1,2.0,0.0,v
+S2425-G0093,4,09:06,MIN,,TOR,,B. Fernando,TOR,Fernando REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,09:05,MIN,93.0,TOR,79.0,B. Fernando,TOR,Fernando 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,6,22,2,1,2.0,2.0,v
+S2425-G0093,4,09:00,MIN,,TOR,,B. Fernando,TOR,SUB: Carton FOR Fernando,Substitution,,0,0,0,0,,,v
+S2425-G0067,1,03:10,TOR,,CLE,,B. Fernando,TOR,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,1,02:45,TOR,,CLE,,B. Fernando,TOR,Fernando Inbound Turnover (P1.T2),Turnover,Inbound Turnover,0,0,0,0,,,h
+S2425-G0067,1,02:11,TOR,,CLE,,B. Fernando,TOR,Fernando S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,1,02:08,TOR,,CLE,,B. Fernando,TOR,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,1,02:00,TOR,,CLE,,B. Fernando,TOR,Fernando L.B.FOUL (P2.T4) (M.Davis),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0067,2,10:42,TOR,,CLE,,B. Fernando,TOR,SUB: Mogbo FOR Fernando,Substitution,,0,0,0,0,,,h
+S2425-G0067,3,03:16,TOR,,CLE,,B. Fernando,TOR,Fernando S.FOUL (P3.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,3,03:14,TOR,,CLE,,B. Fernando,TOR,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,03:05,TOR,69.0,CLE,93.0,B. Fernando,TOR,Fernando 1' Alley Oop Dunk (2 PTS) (Shead 2 AST),Made Shot,Alley Oop Dunk Shot,9,11,1,1,2.0,2.0,h
+S2425-G0067,3,02:12,TOR,,CLE,,B. Fernando,TOR,MISS Fernando 1' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,-12,7,1,1,2.0,0.0,h
+S2425-G0067,3,02:10,TOR,,CLE,,B. Fernando,TOR,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,02:10,TOR,,CLE,,B. Fernando,TOR,MISS Fernando Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0067,3,02:07,TOR,,CLE,,B. Fernando,TOR,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,02:07,TOR,72.0,CLE,95.0,B. Fernando,TOR,Fernando Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0067,3,01:41,TOR,,CLE,,B. Fernando,TOR,Fernando REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,4,11:14,TOR,,CLE,,B. Fernando,TOR,MISS Fernando 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,53,120,13,1,2.0,0.0,h
+S2425-G0067,4,08:48,TOR,,CLE,,B. Fernando,TOR,Fernando S.FOUL (P4.T2) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,4,08:48,TOR,,CLE,,B. Fernando,TOR,SUB: Mogbo FOR Fernando,Substitution,,0,0,0,0,,,h
+S2425-G0067,4,08:12,TOR,87.0,CLE,116.0,B. Fernando,TOR,Fernando 8' Turnaround Hook Shot (6 PTS) (Battle 1 AST),Made Shot,Turnaround Hook Shot,-12,83,8,1,2.0,2.0,h
+S2425-G0067,4,07:22,TOR,,CLE,,B. Fernando,TOR,Fernando REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,4,04:30,TOR,,CLE,,B. Fernando,TOR,SUB: Chomche FOR Fernando,Substitution,,0,0,0,0,,,h

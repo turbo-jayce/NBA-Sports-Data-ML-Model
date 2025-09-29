@@ -1,0 +1,119 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2424-G124,2,11:10,MEM,30.0,BKN,34.0,J. Wells,MEM,Wells Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2424-G124,2,11:10,MEM,,BKN,,J. Wells,MEM,MISS Wells Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2424-G124,2,08:22,MEM,,BKN,,J. Wells,MEM,MISS Wells 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,224,122,26,1,3.0,0.0,h
+S2424-G124,2,08:05,MEM,,BKN,,J. Wells,MEM,Wells REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,2,07:58,MEM,,BKN,,J. Wells,MEM,Wells Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2424-G124,2,05:44,MEM,,BKN,,J. Wells,MEM,SUB: Bane FOR Wells,Substitution,,0,0,0,0,,,h
+S2424-G124,3,04:05,MEM,,BKN,,J. Wells,MEM,Wells OFF.Foul (P1) (B.Forte),Foul,Offensive,0,0,0,0,,,h
+S2424-G124,3,04:05,MEM,,BKN,,J. Wells,MEM,Wells Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2424-G124,3,02:31,MEM,,BKN,,J. Wells,MEM,MISS Wells 27' 3PT Jump Shot,Missed Shot,Jump Shot,129,235,27,1,3.0,0.0,h
+S2424-G124,3,01:21,MEM,,BKN,,J. Wells,MEM,MISS Wells 3PT Jump Shot,Missed Shot,Jump Shot,-232,11,0,1,3.0,0.0,h
+S2424-G124,3,01:15,MEM,85.0,BKN,87.0,J. Wells,MEM,Wells 2' Dunk (3 PTS) (Edey 1 AST),Made Shot,Dunk Shot,-18,5,2,1,2.0,2.0,h
+S2424-G124,3,00:54.300000,MEM,,BKN,,J. Wells,MEM,SUB: Huff FOR Wells,Substitution,,0,0,0,0,,,h
+S2424-G124,3,00:03.200000,MEM,90.0,BKN,91.0,J. Wells,MEM,Wells 26' 3PT Jump Shot (6 PTS) (Morant 9 AST),Made Shot,Jump Shot,151,211,26,1,3.0,3.0,h
+S2424-G124,4,10:40,MEM,,BKN,,J. Wells,MEM,Wells Out of Bounds - Bad Pass Turnover Turnover (P3.T21),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2424-G124,4,10:18,MEM,,BKN,,J. Wells,MEM,Wells Bad Pass Turnover (P4.T22),Turnover,Bad Pass,0,0,0,0,,,h
+S2424-G124,4,10:14,MEM,,BKN,,J. Wells,MEM,SUB: LaRavia FOR Wells,Substitution,,0,0,0,0,,,h
+S2424-G124,4,03:28,MEM,104.0,BKN,112.0,J. Wells,MEM,Wells 25' 3PT Running Pull-Up Jump Shot (9 PTS) (Morant 11 AST),Made Shot,Running Pull-Up Jump Shot,145,201,25,1,3.0,3.0,h
+S2424-G124,4,02:31,MEM,,BKN,,J. Wells,MEM,Wells BLOCK (1 BLK),,,0,0,0,0,,,h
+S2424-G124,4,02:29,MEM,,BKN,,J. Wells,MEM,Jump Ball Wells vs. Thomas: Tip to Clarke,Jump Ball,,0,0,0,0,,,h
+S2424-G124,4,01:41,MEM,,BKN,,J. Wells,MEM,MISS Wells 26' 3PT Jump Shot,Missed Shot,Jump Shot,28,258,26,1,3.0,0.0,h
+S2425-G0070,1,07:43,UTA,14.0,MEM,14.0,J. Wells,MEM,Wells 26' 3PT Jump Shot (3 PTS) (Morant 2 AST),Made Shot,Jump Shot,-158,206,26,1,3.0,3.0,v
+S2425-G0070,1,04:10,UTA,16.0,MEM,20.0,J. Wells,MEM,Wells 30' 3PT Jump Shot (6 PTS) (Aldama 1 AST),Made Shot,Jump Shot,-206,212,30,1,3.0,3.0,v
+S2425-G0070,1,02:25,UTA,,MEM,,J. Wells,MEM,MISS Wells 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,23,24,1,3.0,0.0,v
+S2425-G0070,1,02:07,UTA,,MEM,,J. Wells,MEM,SUB: Huff FOR Wells,Substitution,,0,0,0,0,,,v
+S2425-G0070,2,01:22,UTA,,MEM,,J. Wells,MEM,Wells P.FOUL (P1.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2425-G0070,2,00:54.500000,UTA,,MEM,,J. Wells,MEM,Wells STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0070,2,00:50.300000,UTA,,MEM,,J. Wells,MEM,MISS Wells Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0070,2,00:50.300000,UTA,,MEM,,J. Wells,MEM,MISS Wells Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0070,3,04:58,UTA,,MEM,,J. Wells,MEM,Wells S.FOUL (P2.T4) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2425-G0070,3,01:43,UTA,,MEM,,J. Wells,MEM,MISS Wells 5' Driving Layup,Missed Shot,Driving Layup Shot,40,31,5,1,2.0,0.0,v
+S2425-G0070,3,00:34.200000,UTA,,MEM,,J. Wells,MEM,MISS Wells 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,68,24,1,3.0,0.0,v
+S2425-G0070,4,08:04,UTA,,MEM,,J. Wells,MEM,MISS Wells 25' 3PT Jump Shot,Missed Shot,Jump Shot,43,245,25,1,3.0,0.0,v
+S2425-G0070,4,07:20,UTA,,MEM,,J. Wells,MEM,Wells P.FOUL (P3.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2425-G0070,4,05:30,UTA,,MEM,,J. Wells,MEM,Wells P.FOUL (P4.PN) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2425-G0070,4,04:38,UTA,,MEM,,J. Wells,MEM,Wells P.FOUL (P5.PN) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2425-G0070,4,04:30,UTA,,MEM,,J. Wells,MEM,SUB: Smart FOR Wells,Substitution,,0,0,0,0,,,v
+S2425-G0092,1,05:57,MEM,,ORL,,J. Wells,MEM,MISS Wells 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,46,5,1,2.0,0.0,h
+S2425-G0092,1,05:49,MEM,18.0,ORL,10.0,J. Wells,MEM,Wells 3PT Jump Shot (3 PTS) (Pippen Jr. 1 AST),Made Shot,Jump Shot,-222,6,0,1,3.0,3.0,h
+S2425-G0092,1,03:28,MEM,,ORL,,J. Wells,MEM,MISS Wells 22' Jump Shot,Missed Shot,Jump Shot,136,173,22,1,2.0,0.0,h
+S2425-G0092,1,03:07,MEM,,ORL,,J. Wells,MEM,Wells REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,1,03:01,MEM,,ORL,,J. Wells,MEM,MISS Wells 19' Jump Shot,Missed Shot,Jump Shot,-191,-6,19,1,2.0,0.0,h
+S2425-G0092,1,00:04.100000,MEM,,ORL,,J. Wells,MEM,SUB: Bane FOR Wells,Substitution,,0,0,0,0,,,h
+S2425-G0092,2,02:06,MEM,,ORL,,J. Wells,MEM,SUB: Jackson Jr. FOR Wells,Substitution,,0,0,0,0,,,h
+S2425-G0092,2,00:32.800000,MEM,,ORL,,J. Wells,MEM,Wells REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,3,04:27,MEM,,ORL,,J. Wells,MEM,MISS Wells 21' Jump Shot,Missed Shot,Jump Shot,-210,-10,21,1,2.0,0.0,h
+S2425-G0092,3,02:57,MEM,,ORL,,J. Wells,MEM,SUB: Jackson Jr. FOR Wells,Substitution,,0,0,0,0,,,h
+S2425-G0092,4,01:07,MEM,121.0,ORL,105.0,J. Wells,MEM,Wells Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0092,4,01:07,MEM,122.0,ORL,105.0,J. Wells,MEM,Wells Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0092,4,00:36.300000,MEM,124.0,ORL,108.0,J. Wells,MEM,Wells 1' Driving Reverse Layup (7 PTS) (LaRavia 2 AST),Made Shot,Driving Reverse Layup Shot,5,7,1,1,2.0,2.0,h
+S2425-G0082,1,05:50,HOU,,MEM,,J. Wells,MEM,MISS Wells 22' Jump Shot,Missed Shot,Jump Shot,-214,28,22,1,2.0,0.0,v
+S2425-G0082,1,04:21,HOU,,MEM,,J. Wells,MEM,Wells REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,1,03:50,HOU,,MEM,,J. Wells,MEM,MISS Wells 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-119,132,18,1,2.0,0.0,v
+S2425-G0082,1,01:08,HOU,,MEM,,J. Wells,MEM,MISS Wells 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,53,24,1,3.0,0.0,v
+S2425-G0082,1,00:02,HOU,38.0,MEM,38.0,J. Wells,MEM,Wells 27' 3PT Pullup Jump Shot (3 PTS) (Morant 1 AST),Made Shot,Pullup Jump shot,153,217,27,1,3.0,3.0,v
+S2425-G0082,3,08:39,HOU,,MEM,,J. Wells,MEM,Wells REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,3,08:12,HOU,,MEM,,J. Wells,MEM,Wells REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,3,08:07,HOU,,MEM,,J. Wells,MEM,MISS Wells 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-191,171,26,1,3.0,0.0,v
+S2425-G0082,3,07:40,HOU,67.0,MEM,74.0,J. Wells,MEM,Wells 10' Driving Floating Jump Shot (5 PTS) (Aldama 3 AST),Made Shot,Driving Floating Jump Shot,102,17,10,1,2.0,2.0,v
+S2425-G0082,3,05:06,HOU,,MEM,,J. Wells,MEM,MISS Wells 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,80,8,1,2.0,0.0,v
+S2425-G0082,3,04:20,HOU,,MEM,,J. Wells,MEM,SUB: Smart FOR Wells,Substitution,,0,0,0,0,,,v
+S2425-G0082,4,08:04,HOU,,MEM,,J. Wells,MEM,MISS Wells 22' Jump Shot,Missed Shot,Jump Shot,-186,114,22,1,2.0,0.0,v
+S2425-G0082,4,07:34,HOU,,MEM,,J. Wells,MEM,Wells P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2425-G0082,4,07:07,HOU,,MEM,,J. Wells,MEM,SUB: Pippen Jr. FOR Wells,Substitution,,0,0,0,0,,,v
+S2425-G0082,4,03:51,HOU,,MEM,,J. Wells,MEM,MISS Wells 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,83,8,1,2.0,0.0,v
+S2425-G0082,4,03:45,HOU,,MEM,,J. Wells,MEM,Wells REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,4,03:44,HOU,,MEM,,J. Wells,MEM,MISS Wells 2' Putback Layup,Missed Shot,Putback Layup Shot,-1,15,2,1,2.0,0.0,v
+S2425-G0082,4,02:41,HOU,123.0,MEM,105.0,J. Wells,MEM,Wells Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0082,4,02:41,HOU,,MEM,,J. Wells,MEM,MISS Wells Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0082,4,02:27,HOU,,MEM,,J. Wells,MEM,MISS Wells 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,29,61,7,1,2.0,0.0,v
+S2425-G0082,4,01:30,HOU,,MEM,,J. Wells,MEM,MISS Wells 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,11,0,1,3.0,0.0,v
+S2425-G0082,4,01:14,HOU,126.0,MEM,108.0,J. Wells,MEM,Wells 2' Cutting Layup Shot (8 PTS) (Kawamura 1 AST),Made Shot,Cutting Layup Shot,1,21,2,1,2.0,2.0,v
+S2425-G0082,4,00:38.900000,HOU,,MEM,,J. Wells,MEM,MISS Wells 24' 3PT Jump Shot,Missed Shot,Jump Shot,212,115,24,1,3.0,0.0,v
+S2425-G0124,2,11:10,MEM,30.0,BKN,34.0,J. Wells,MEM,Wells Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0124,2,11:10,MEM,,BKN,,J. Wells,MEM,MISS Wells Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0124,2,08:22,MEM,,BKN,,J. Wells,MEM,MISS Wells 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,224,122,26,1,3.0,0.0,h
+S2425-G0124,2,08:05,MEM,,BKN,,J. Wells,MEM,Wells REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,2,07:58,MEM,,BKN,,J. Wells,MEM,Wells Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0124,2,05:44,MEM,,BKN,,J. Wells,MEM,SUB: Bane FOR Wells,Substitution,,0,0,0,0,,,h
+S2425-G0124,3,04:05,MEM,,BKN,,J. Wells,MEM,Wells OFF.Foul (P1) (B.Forte),Foul,Offensive,0,0,0,0,,,h
+S2425-G0124,3,04:05,MEM,,BKN,,J. Wells,MEM,Wells Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0124,3,02:31,MEM,,BKN,,J. Wells,MEM,MISS Wells 27' 3PT Jump Shot,Missed Shot,Jump Shot,129,235,27,1,3.0,0.0,h
+S2425-G0124,3,01:21,MEM,,BKN,,J. Wells,MEM,MISS Wells 3PT Jump Shot,Missed Shot,Jump Shot,-232,11,0,1,3.0,0.0,h
+S2425-G0124,3,01:15,MEM,85.0,BKN,87.0,J. Wells,MEM,Wells 2' Dunk (3 PTS) (Edey 1 AST),Made Shot,Dunk Shot,-18,5,2,1,2.0,2.0,h
+S2425-G0124,3,00:54.300000,MEM,,BKN,,J. Wells,MEM,SUB: Huff FOR Wells,Substitution,,0,0,0,0,,,h
+S2425-G0124,3,00:03.200000,MEM,90.0,BKN,91.0,J. Wells,MEM,Wells 26' 3PT Jump Shot (6 PTS) (Morant 9 AST),Made Shot,Jump Shot,151,211,26,1,3.0,3.0,h
+S2425-G0124,4,10:40,MEM,,BKN,,J. Wells,MEM,Wells Out of Bounds - Bad Pass Turnover Turnover (P3.T21),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0124,4,10:18,MEM,,BKN,,J. Wells,MEM,Wells Bad Pass Turnover (P4.T22),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0124,4,10:14,MEM,,BKN,,J. Wells,MEM,SUB: LaRavia FOR Wells,Substitution,,0,0,0,0,,,h
+S2425-G0124,4,03:28,MEM,104.0,BKN,112.0,J. Wells,MEM,Wells 25' 3PT Running Pull-Up Jump Shot (9 PTS) (Morant 11 AST),Made Shot,Running Pull-Up Jump Shot,145,201,25,1,3.0,3.0,h
+S2425-G0124,4,02:31,MEM,,BKN,,J. Wells,MEM,Wells BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0124,4,02:29,MEM,,BKN,,J. Wells,MEM,Jump Ball Wells vs. Thomas: Tip to Clarke,Jump Ball,,0,0,0,0,,,h
+S2425-G0124,4,01:41,MEM,,BKN,,J. Wells,MEM,MISS Wells 26' 3PT Jump Shot,Missed Shot,Jump Shot,28,258,26,1,3.0,0.0,h
+S2425-G0108,1,02:02,MEM,,CHI,,J. Wells,MEM,MISS Wells 26' 3PT Jump Shot,Missed Shot,Jump Shot,-161,207,26,1,3.0,0.0,h
+S2425-G0108,2,11:09,MEM,34.0,CHI,22.0,J. Wells,MEM,Wells 1' Running Dunk (2 PTS) (Smart 1 AST),Made Shot,Running Dunk Shot,2,10,1,1,2.0,2.0,h
+S2425-G0108,2,10:24,MEM,,CHI,,J. Wells,MEM,Wells S.FOUL (P1.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0108,2,10:09,MEM,37.0,CHI,24.0,J. Wells,MEM,Wells 26' 3PT Jump Shot (5 PTS) (Smart 2 AST),Made Shot,Jump Shot,-159,205,26,1,3.0,3.0,h
+S2425-G0108,2,09:39,MEM,,CHI,,J. Wells,MEM,Wells REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,2,09:04,MEM,,CHI,,J. Wells,MEM,MISS Wells 5' Hook Bank Shot,Missed Shot,Hook Bank Shot,40,28,5,1,2.0,0.0,h
+S2425-G0108,2,09:02,MEM,,CHI,,J. Wells,MEM,Wells REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,2,08:32,MEM,,CHI,,J. Wells,MEM,Wells REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,2,08:27,MEM,,CHI,,J. Wells,MEM,MISS Wells 4' Running Layup,Missed Shot,Running Layup Shot,4,44,4,1,2.0,0.0,h
+S2425-G0108,2,08:10,MEM,,CHI,,J. Wells,MEM,Wells STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0108,2,07:48,MEM,,CHI,,J. Wells,MEM,Wells REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,2,06:14,MEM,,CHI,,J. Wells,MEM,SUB: Bane FOR Wells,Substitution,,0,0,0,0,,,h
+S2425-G0108,2,04:25,MEM,,CHI,,J. Wells,MEM,Wells P.FOUL (P2.T4) (S.Jelks),Foul,Personal,0,0,0,0,,,h
+S2425-G0108,2,04:01,MEM,52.0,CHI,36.0,J. Wells,MEM,Wells 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,11,8,1,1,2.0,2.0,h
+S2425-G0108,2,03:19,MEM,,CHI,,J. Wells,MEM,SUB: LaRavia FOR Wells,Substitution,,0,0,0,0,,,h
+S2425-G0108,3,02:39,MEM,,CHI,,J. Wells,MEM,MISS Wells 25' 3PT Jump Shot,Missed Shot,Jump Shot,-60,247,25,1,3.0,0.0,h
+S2425-G0108,3,02:25,MEM,,CHI,,J. Wells,MEM,Wells REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,02:20,MEM,,CHI,,J. Wells,MEM,Wells Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0108,3,01:30,MEM,,CHI,,J. Wells,MEM,MISS Wells 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-2,22,2,1,2.0,0.0,h
+S2425-G0108,3,00:35.100000,MEM,97.0,CHI,91.0,J. Wells,MEM,Wells Running Alley Oop Dunk Shot (9 PTS) (Pippen Jr. 9 AST),Made Shot,Running Alley Oop Dunk Shot,-1,3,0,1,2.0,2.0,h
+S2425-G0108,4,09:57,MEM,106.0,CHI,95.0,J. Wells,MEM,Wells 1' Running Alley Oop Layup Shot (11 PTS) (Smart 7 AST),Made Shot,Running Alley Oop Layup Shot,5,8,1,1,2.0,2.0,h
+S2425-G0108,4,09:43,MEM,,CHI,,J. Wells,MEM,Wells REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,4,09:35,MEM,,CHI,,J. Wells,MEM,MISS Wells 3PT Jump Shot,Missed Shot,Jump Shot,-221,47,0,1,3.0,0.0,h
+S2425-G0108,4,09:09,MEM,,CHI,,J. Wells,MEM,MISS Wells 3' Driving Layup,Missed Shot,Driving Layup Shot,-18,22,3,1,2.0,0.0,h
+S2425-G0108,4,08:24,MEM,,CHI,,J. Wells,MEM,Wells P.FOUL (P3.T2) (S.Jelks),Foul,Personal,0,0,0,0,,,h
+S2425-G0108,4,08:24,MEM,,CHI,,J. Wells,MEM,SUB: Pippen Jr. FOR Wells,Substitution,,0,0,0,0,,,h

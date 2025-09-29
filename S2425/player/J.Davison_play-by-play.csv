@@ -1,0 +1,7 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0073,4,07:28,WAS,,BOS,,J. Davison,BOS,Davison Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0073,4,04:07,WAS,,BOS,,J. Davison,BOS,Davison Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0073,4,03:20,WAS,,BOS,,J. Davison,BOS,Davison S.FOUL (P1.T3) (J.Reneau),Foul,Shooting,0,0,0,0,,,v
+S2425-G0073,4,01:22,WAS,,BOS,,J. Davison,BOS,Davison Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0073,4,01:10,WAS,,BOS,,J. Davison,BOS,MISS Davison 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-98,293,31,1,3.0,0.0,v
+S2425-G0073,4,00:21.600000,WAS,,BOS,,J. Davison,BOS,Davison REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v

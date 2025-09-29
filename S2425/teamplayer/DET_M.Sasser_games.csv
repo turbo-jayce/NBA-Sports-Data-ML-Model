@@ -1,0 +1,5 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0080,4,00:25.300000,CLE,,DET,,M. Sasser,DET,Sasser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,1,02:16,DET,22.0,IND,21.0,M. Sasser,DET,Sasser 21' Jump Shot (2 PTS),Made Shot,Jump Shot,60,203,21,1,2.0,2.0,h
+S2425-G0063,1,01:10,DET,,IND,,M. Sasser,DET,Sasser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,1,00:28.500000,DET,,IND,,M. Sasser,DET,SUB: Cunningham FOR Sasser,Substitution,,0,0,0,0,,,h

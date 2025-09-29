@@ -1,0 +1,76 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0075,1,11:02,DEN,,OKC,,L. Dort,OKC,Dort STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0075,1,10:55,DEN,,OKC,,L. Dort,OKC,MISS Dort 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-99,247,27,1,3.0,0.0,v
+S2425-G0075,1,08:57,DEN,,OKC,,L. Dort,OKC,Dort L.B.FOUL (P1.T3) (D.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0075,1,07:47,DEN,11.0,OKC,7.0,L. Dort,OKC,Dort 3' Jump Bank Shot (2 PTS) (Holmgren 2 AST),Made Shot,Jump Bank Shot,23,11,3,1,2.0,2.0,v
+S2425-G0075,1,07:47,DEN,11.0,OKC,8.0,L. Dort,OKC,Dort Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0075,1,06:07,DEN,,OKC,,L. Dort,OKC,Dort P.FOUL (P2.T4) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2425-G0075,1,05:10,DEN,,OKC,,L. Dort,OKC,Dort REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,1,04:03,DEN,,OKC,,L. Dort,OKC,SUB: Dieng FOR Dort,Substitution,,0,0,0,0,,,v
+S2425-G0075,2,04:26,DEN,,OKC,,L. Dort,OKC,MISS Dort 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,85,63,11,1,2.0,0.0,v
+S2425-G0075,2,02:08,DEN,,OKC,,L. Dort,OKC,Dort BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0075,2,01:20,DEN,49.0,OKC,58.0,L. Dort,OKC,Dort 1' Dunk (5 PTS) (Holmgren 4 AST),Made Shot,Dunk Shot,-6,4,1,1,2.0,2.0,v
+S2425-G0075,3,10:35,DEN,,OKC,,L. Dort,OKC,MISS Dort 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-131,-7,13,1,2.0,0.0,v
+S2425-G0075,3,07:40,DEN,,OKC,,L. Dort,OKC,SUB: Wallace FOR Dort,Substitution,,0,0,0,0,,,v
+S2425-G0075,4,08:26,DEN,,OKC,,L. Dort,OKC,Dort STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0075,4,08:22,DEN,,OKC,,L. Dort,OKC,MISS Dort 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-160,180,24,1,3.0,0.0,v
+S2425-G0075,4,05:19,DEN,,OKC,,L. Dort,OKC,Dort REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,01:56,DEN,,OKC,,L. Dort,OKC,MISS Dort 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,148,121,19,1,2.0,0.0,v
+S2425-G0075,4,01:38,DEN,,OKC,,L. Dort,OKC,Dort STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0075,4,01:11,DEN,,OKC,,L. Dort,OKC,Dort P.FOUL (P3.T3) (D.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0075,4,01:11,DEN,,OKC,,L. Dort,OKC,SUB: Jones FOR Dort,Substitution,,0,0,0,0,,,v
+S2425-G0091,1,10:36,CHI,5.0,OKC,5.0,L. Dort,OKC,Dort 25' 3PT Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Jump Shot,-91,235,25,1,3.0,3.0,v
+S2425-G0091,1,05:00,CHI,12.0,OKC,16.0,L. Dort,OKC,Dort 1' Driving Layup (5 PTS) (Dieng 1 AST),Made Shot,Driving Layup Shot,-2,13,1,1,2.0,2.0,v
+S2425-G0091,1,03:44,CHI,,OKC,,L. Dort,OKC,SUB: Caruso FOR Dort,Substitution,,0,0,0,0,,,v
+S2425-G0091,2,02:23,CHI,,OKC,,L. Dort,OKC,Dort REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,2,02:09,CHI,36.0,OKC,49.0,L. Dort,OKC,Dort Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,2,02:09,CHI,36.0,OKC,50.0,L. Dort,OKC,Dort Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,2,00:35.200000,CHI,,OKC,,L. Dort,OKC,MISS Dort 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,4,24,1,3.0,0.0,v
+S2425-G0091,2,00:20.200000,CHI,,OKC,,L. Dort,OKC,SUB: Joe FOR Dort,Substitution,,0,0,0,0,,,v
+S2425-G0091,3,10:35,CHI,,OKC,,L. Dort,OKC,MISS Dort 3PT Jump Shot,Missed Shot,Jump Shot,-232,6,0,1,3.0,0.0,v
+S2425-G0091,3,09:50,CHI,,OKC,,L. Dort,OKC,Dort REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,09:08,CHI,,OKC,,L. Dort,OKC,Dort Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0091,3,05:50,CHI,,OKC,,L. Dort,OKC,MISS Dort 16' Jump Shot,Missed Shot,Jump Shot,141,71,16,1,2.0,0.0,v
+S2425-G0091,3,01:33,CHI,,OKC,,L. Dort,OKC,SUB: Joe FOR Dort,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,09:50,OKC,5.0,ATL,6.0,L. Dort,OKC,Dort 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,165,190,25,1,3.0,3.0,h
+S2425-G0100,1,05:04,OKC,,ATL,,L. Dort,OKC,Dort S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,1,05:04,OKC,,ATL,,L. Dort,OKC,SUB: Caruso FOR Dort,Substitution,,0,0,0,0,,,h
+S2425-G0100,2,07:31,OKC,,ATL,,L. Dort,OKC,Dort P.FOUL (P2.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2425-G0100,2,07:10,OKC,36.0,ATL,39.0,L. Dort,OKC,Dort 26' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,-76,246,26,1,3.0,3.0,h
+S2425-G0100,2,06:01,OKC,39.0,ATL,41.0,L. Dort,OKC,Dort 26' 3PT Jump Shot (9 PTS) (Caruso 1 AST),Made Shot,Jump Shot,82,245,26,1,3.0,3.0,h
+S2425-G0100,2,05:45,OKC,,ATL,,L. Dort,OKC,Dort REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,2,05:40,OKC,40.0,ATL,41.0,L. Dort,OKC,Dort Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,2,05:40,OKC,41.0,ATL,41.0,L. Dort,OKC,Dort Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,2,02:34,OKC,,ATL,,L. Dort,OKC,MISS Dort 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-86,235,25,1,3.0,0.0,h
+S2425-G0100,2,02:25,OKC,,ATL,,L. Dort,OKC,Dort P.FOUL (P3.PN) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0100,2,00:05.800000,OKC,,ATL,,L. Dort,OKC,SUB: Wallace FOR Dort,Substitution,,0,0,0,0,,,h
+S2425-G0100,3,07:21,OKC,,ATL,,L. Dort,OKC,Dort S.FOUL (P4.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,3,05:24,OKC,,ATL,,L. Dort,OKC,SUB: Wallace FOR Dort,Substitution,,0,0,0,0,,,h
+S2425-G0100,4,08:21,OKC,,ATL,,L. Dort,OKC,Dort REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,08:14,OKC,102.0,ATL,92.0,L. Dort,OKC,Dort 3PT Pullup Jump Shot (14 PTS) (Gilgeous-Alexander 8 AST),Made Shot,Pullup Jump shot,225,46,0,1,3.0,3.0,h
+S2425-G0100,4,07:53,OKC,,ATL,,L. Dort,OKC,MISS Dort 25' 3PT Jump Shot,Missed Shot,Jump Shot,205,144,25,1,3.0,0.0,h
+S2425-G0100,4,07:30,OKC,104.0,ATL,92.0,L. Dort,OKC,Dort 1' Cutting Dunk Shot (16 PTS) (Mitchell 2 AST),Made Shot,Cutting Dunk Shot,6,11,1,1,2.0,2.0,h
+S2425-G0100,4,07:06,OKC,,ATL,,L. Dort,OKC,Dort P.FOUL (P5.T3) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0100,4,04:57,OKC,,ATL,,L. Dort,OKC,Dort T.FOUL (P5.PN) (E.Malloy),Foul,Technical,0,0,0,0,,,h
+S2425-G0100,4,01:53,OKC,,ATL,,L. Dort,OKC,SUB: Ducas FOR Dort,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,11:39,OKC,,SAS,,L. Dort,OKC,Dort REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,1,11:17,OKC,2.0,SAS,0.0,L. Dort,OKC,Dort 1' Running Layup (2 PTS) (Holmgren 1 AST),Made Shot,Running Layup Shot,9,6,1,1,2.0,2.0,h
+S2425-G0125,1,09:02,OKC,,SAS,,L. Dort,OKC,Dort REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,1,08:57,OKC,7.0,SAS,8.0,L. Dort,OKC,Dort 25' 3PT Running Jump Shot (5 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Running Jump Shot,175,172,25,1,3.0,3.0,h
+S2425-G0125,1,04:27,OKC,,SAS,,L. Dort,OKC,Dort REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,1,01:45,OKC,,SAS,,L. Dort,OKC,Dort REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,1,01:35,OKC,,SAS,,L. Dort,OKC,SUB: Wiggins FOR Dort,Substitution,,0,0,0,0,,,h
+S2425-G0125,2,03:13,OKC,,SAS,,L. Dort,OKC,Dort REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,2,03:10,OKC,50.0,SAS,34.0,L. Dort,OKC,Dort 25' 3PT Jump Shot (8 PTS) (Dieng 2 AST),Made Shot,Jump Shot,58,246,25,1,3.0,3.0,h
+S2425-G0125,2,02:31,OKC,,SAS,,L. Dort,OKC,Dort BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0125,2,01:49,OKC,,SAS,,L. Dort,OKC,MISS Dort 25' 3PT Jump Shot,Missed Shot,Jump Shot,143,204,25,1,3.0,0.0,h
+S2425-G0125,2,00:51,OKC,56.0,SAS,42.0,L. Dort,OKC,Dort 25' 3PT Jump Shot (11 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,212,132,25,1,3.0,3.0,h
+S2425-G0125,2,00:32.200000,OKC,,SAS,,L. Dort,OKC,Dort REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,3,11:02,OKC,,SAS,,L. Dort,OKC,Dort BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0125,3,10:16,OKC,66.0,SAS,47.0,L. Dort,OKC,Dort 25' 3PT Jump Shot (14 PTS) (Williams 5 AST),Made Shot,Jump Shot,158,197,25,1,3.0,3.0,h
+S2425-G0125,3,10:05,OKC,,SAS,,L. Dort,OKC,Dort P.FOUL (P1.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2425-G0125,3,08:50,OKC,71.0,SAS,52.0,L. Dort,OKC,Dort 25' 3PT Running Jump Shot (17 PTS) (Williams 6 AST),Made Shot,Running Jump Shot,-213,131,25,1,3.0,3.0,h
+S2425-G0125,3,04:45,OKC,,SAS,,L. Dort,OKC,SUB: Joe FOR Dort,Substitution,,0,0,0,0,,,h
+S2425-G0125,4,05:04,OKC,97.0,SAS,81.0,L. Dort,OKC,Dort 27' 3PT Running Jump Shot (20 PTS) (Caruso 2 AST),Made Shot,Running Jump Shot,-223,145,27,1,3.0,3.0,h
+S2425-G0125,4,04:39,OKC,,SAS,,L. Dort,OKC,MISS Dort 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,207,132,25,1,3.0,0.0,h
+S2425-G0125,4,02:46,OKC,,SAS,,L. Dort,OKC,SUB: Mitchell FOR Dort,Substitution,,0,0,0,0,,,h

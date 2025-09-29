@@ -1,0 +1,135 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0106,1,11:42,NYK,0.0,CLE,2.0,D. Garland,CLE,Garland 3' Floating Jump Shot (2 PTS) (Wade 1 AST),Made Shot,Floating Jump shot,11,27,3,1,2.0,2.0,v
+S2425-G0106,1,11:13,NYK,,CLE,,D. Garland,CLE,MISS Garland 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,69,155,17,1,2.0,0.0,v
+S2425-G0106,1,07:42,NYK,,CLE,,D. Garland,CLE,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,07:38,NYK,4.0,CLE,9.0,D. Garland,CLE,Garland 26' 3PT Running Jump Shot (5 PTS),Made Shot,Running Jump Shot,-42,258,26,1,3.0,3.0,v
+S2425-G0106,1,05:55,NYK,8.0,CLE,11.0,D. Garland,CLE,Garland 10' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,48,89,10,1,2.0,2.0,v
+S2425-G0106,1,05:47,NYK,,CLE,,D. Garland,CLE,Garland P.FOUL (P1.T2) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2425-G0106,1,04:56,NYK,,CLE,,D. Garland,CLE,MISS Garland 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-150,205,25,1,3.0,0.0,v
+S2425-G0106,1,04:03,NYK,,CLE,,D. Garland,CLE,MISS Garland 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,79,8,1,2.0,0.0,v
+S2425-G0106,1,03:19,NYK,,CLE,,D. Garland,CLE,SUB: Mitchell FOR Garland,Substitution,,0,0,0,0,,,v
+S2425-G0106,2,06:00,NYK,36.0,CLE,32.0,D. Garland,CLE,Garland Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0106,2,05:26,NYK,,CLE,,D. Garland,CLE,Garland REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,2,04:48,NYK,40.0,CLE,36.0,D. Garland,CLE,Garland 9' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,11,85,9,1,2.0,2.0,v
+S2425-G0106,2,03:34,NYK,,CLE,,D. Garland,CLE,Garland Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0106,2,03:17,NYK,,CLE,,D. Garland,CLE,MISS Garland 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-15,170,17,1,2.0,0.0,v
+S2425-G0106,2,02:47,NYK,48.0,CLE,41.0,D. Garland,CLE,Garland 26' 3PT Jump Shot (13 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,-194,169,26,1,3.0,3.0,v
+S2425-G0106,2,00:23.900000,NYK,,CLE,,D. Garland,CLE,SUB: Okoro FOR Garland,Substitution,,0,0,0,0,,,v
+S2425-G0106,3,11:26,NYK,,CLE,,D. Garland,CLE,Garland P.FOUL (P2.T1) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2425-G0106,3,10:12,NYK,55.0,CLE,49.0,D. Garland,CLE,Garland Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,3,10:12,NYK,55.0,CLE,50.0,D. Garland,CLE,Garland Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,3,09:04,NYK,,CLE,,D. Garland,CLE,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,62,257,26,1,3.0,0.0,v
+S2425-G0106,3,06:57,NYK,,CLE,,D. Garland,CLE,Garland Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0106,3,04:18,NYK,72.0,CLE,61.0,D. Garland,CLE,Garland 2' Driving Floating Bank Jump Shot (17 PTS),Made Shot,Driving Floating Bank Jump Shot,16,15,2,1,2.0,2.0,v
+S2425-G0106,3,03:52,NYK,72.0,CLE,63.0,D. Garland,CLE,Garland Driving Finger Roll Layup (19 PTS) (LeVert 2 AST),Made Shot,Driving Finger Roll Layup Shot,-1,4,0,1,2.0,2.0,v
+S2425-G0106,3,03:14,NYK,,CLE,,D. Garland,CLE,SUB: Mitchell FOR Garland,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,08:07,NYK,,CLE,,D. Garland,CLE,MISS Garland 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,212,25,1,3.0,0.0,v
+S2425-G0106,4,06:34,NYK,87.0,CLE,89.0,D. Garland,CLE,Garland 3PT Running Jump Shot (22 PTS) (Mitchell 5 AST),Made Shot,Running Jump Shot,-232,5,0,1,3.0,3.0,v
+S2425-G0106,4,05:56,NYK,89.0,CLE,91.0,D. Garland,CLE,Garland 7' Driving Floating Bank Jump Shot (24 PTS),Made Shot,Driving Floating Bank Jump Shot,-61,30,7,1,2.0,2.0,v
+S2425-G0106,4,05:11,NYK,,CLE,,D. Garland,CLE,Garland STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0106,4,04:52,NYK,,CLE,,D. Garland,CLE,Garland STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0106,4,04:45,NYK,,CLE,,D. Garland,CLE,Garland Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0106,4,04:27,NYK,91.0,CLE,96.0,D. Garland,CLE,Garland 25' 3PT Pullup Jump Shot (27 PTS) (Wade 4 AST),Made Shot,Pullup Jump shot,-142,201,25,1,3.0,3.0,v
+S2425-G0106,4,03:51,NYK,91.0,CLE,99.0,D. Garland,CLE,Garland 27' 3PT Pullup Jump Shot (30 PTS),Made Shot,Pullup Jump shot,58,268,27,1,3.0,3.0,v
+S2425-G0106,4,02:48,NYK,,CLE,,D. Garland,CLE,MISS Garland 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-83,180,20,1,2.0,0.0,v
+S2425-G0106,4,02:41,NYK,95.0,CLE,101.0,D. Garland,CLE,Garland 5' Driving Floating Jump Shot (32 PTS),Made Shot,Driving Floating Jump Shot,-45,5,5,1,2.0,2.0,v
+S2425-G0106,4,01:43,NYK,,CLE,,D. Garland,CLE,Garland BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0106,4,01:41,NYK,,CLE,,D. Garland,CLE,Garland P.FOUL (P3.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2425-G0106,4,01:37,NYK,,CLE,,D. Garland,CLE,Garland REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,4,01:17,NYK,,CLE,,D. Garland,CLE,Garland BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0106,4,00:34.700000,NYK,98.0,CLE,104.0,D. Garland,CLE,Garland Free Throw 1 of 2 (33 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,4,00:34.700000,NYK,98.0,CLE,105.0,D. Garland,CLE,Garland Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0080,1,11:15,CLE,3.0,DET,2.0,D. Garland,CLE,Garland 3PT Jump Shot (3 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,-234,-10,0,1,3.0,3.0,h
+S2425-G0080,1,10:31,CLE,,DET,,D. Garland,CLE,MISS Garland 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,100,244,26,1,3.0,0.0,h
+S2425-G0080,1,09:41,CLE,,DET,,D. Garland,CLE,Garland Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0080,1,09:14,CLE,9.0,DET,9.0,D. Garland,CLE,Garland 3PT Jump Shot (6 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,225,12,0,1,3.0,3.0,h
+S2425-G0080,1,08:39,CLE,12.0,DET,9.0,D. Garland,CLE,Garland 24' 3PT Jump Shot (9 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,-235,-6,24,1,3.0,3.0,h
+S2425-G0080,1,05:34,CLE,,DET,,D. Garland,CLE,Garland STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0080,1,03:28,CLE,,DET,,D. Garland,CLE,MISS Garland 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-190,179,26,1,3.0,0.0,h
+S2425-G0080,1,02:27,CLE,,DET,,D. Garland,CLE,SUB: Mitchell FOR Garland,Substitution,,0,0,0,0,,,h
+S2425-G0080,2,06:04,CLE,,DET,,D. Garland,CLE,Garland S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0080,2,01:32,CLE,,DET,,D. Garland,CLE,MISS Garland 1' Running Layup,Missed Shot,Running Layup Shot,6,7,1,1,2.0,0.0,h
+S2425-G0080,3,11:45,CLE,,DET,,D. Garland,CLE,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,10:07,CLE,,DET,,D. Garland,CLE,Garland S.FOUL (P2.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0080,3,07:45,CLE,,DET,,D. Garland,CLE,Garland Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0080,3,06:44,CLE,,DET,,D. Garland,CLE,Garland REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,05:50,CLE,,DET,,D. Garland,CLE,MISS Garland 25' 3PT Jump Shot,Missed Shot,Jump Shot,-65,239,25,1,3.0,0.0,h
+S2425-G0080,3,03:33,CLE,83.0,DET,75.0,D. Garland,CLE,Garland Driving Layup (11 PTS),Made Shot,Driving Layup Shot,2,4,0,1,2.0,2.0,h
+S2425-G0080,3,02:49,CLE,,DET,,D. Garland,CLE,MISS Garland 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,6,5,1,1,2.0,0.0,h
+S2425-G0080,3,02:21,CLE,,DET,,D. Garland,CLE,SUB: Mobley FOR Garland,Substitution,,0,0,0,0,,,h
+S2425-G0080,4,05:02,CLE,109.0,DET,91.0,D. Garland,CLE,Garland 1' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,-6,6,1,1,2.0,2.0,h
+S2425-G0080,4,03:18,CLE,,DET,,D. Garland,CLE,Garland Step Out of Bounds Turnover (P3.T13),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0080,4,01:38,CLE,,DET,,D. Garland,CLE,MISS Garland 27' 3PT Jump Shot,Missed Shot,Jump Shot,-199,180,27,1,3.0,0.0,h
+S2425-G0080,4,01:17,CLE,,DET,,D. Garland,CLE,SUB: Porter Jr. FOR Garland,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,11:33,WAS,,CLE,,D. Garland,CLE,MISS Garland 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-131,257,29,1,3.0,0.0,v
+S2425-G0090,1,11:11,WAS,2.0,CLE,2.0,D. Garland,CLE,Garland 12' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-75,94,12,1,2.0,2.0,v
+S2425-G0090,1,09:45,WAS,2.0,CLE,7.0,D. Garland,CLE,Garland 29' 3PT Running Pull-Up Jump Shot (5 PTS) (Wade 1 AST),Made Shot,Running Pull-Up Jump Shot,129,258,29,1,3.0,3.0,v
+S2425-G0090,1,08:10,WAS,,CLE,,D. Garland,CLE,Garland OFF.Foul (P1) (K.Cutler),Foul,Offensive,0,0,0,0,,,v
+S2425-G0090,1,08:10,WAS,,CLE,,D. Garland,CLE,Garland Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0090,1,07:29,WAS,8.0,CLE,12.0,D. Garland,CLE,Garland 27' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-105,254,27,1,3.0,3.0,v
+S2425-G0090,1,06:28,WAS,14.0,CLE,16.0,D. Garland,CLE,Garland 23' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,-201,107,23,1,2.0,2.0,v
+S2425-G0090,1,05:12,WAS,,CLE,,D. Garland,CLE,MISS Garland 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-36,15,4,1,2.0,0.0,v
+S2425-G0090,1,03:24,WAS,,CLE,,D. Garland,CLE,SUB: Mobley FOR Garland,Substitution,,0,0,0,0,,,v
+S2425-G0090,2,05:40,WAS,,CLE,,D. Garland,CLE,Garland STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0090,2,03:05,WAS,,CLE,,D. Garland,CLE,Garland Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0090,2,02:44,WAS,39.0,CLE,50.0,D. Garland,CLE,Garland 8' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,5,78,8,1,2.0,2.0,v
+S2425-G0090,2,00:07.700000,WAS,,CLE,,D. Garland,CLE,Garland P.FOUL (P2.T3) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2425-G0090,2,00:07.700000,WAS,,CLE,,D. Garland,CLE,SUB: Okoro FOR Garland,Substitution,,0,0,0,0,,,v
+S2425-G0090,3,11:27,WAS,,CLE,,D. Garland,CLE,Garland STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0090,3,10:54,WAS,,CLE,,D. Garland,CLE,Garland P.FOUL (P3.T1) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2425-G0090,3,08:55,WAS,,CLE,,D. Garland,CLE,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,08:15,WAS,55.0,CLE,69.0,D. Garland,CLE,Garland 26' 3PT Running Jump Shot (15 PTS) (Mitchell 3 AST),Made Shot,Running Jump Shot,221,129,26,1,3.0,3.0,v
+S2425-G0090,3,06:33,WAS,59.0,CLE,73.0,D. Garland,CLE,Garland 2' Cutting Layup Shot (17 PTS) (Allen 1 AST),Made Shot,Cutting Layup Shot,-23,-5,2,1,2.0,2.0,v
+S2425-G0090,3,06:33,WAS,59.0,CLE,74.0,D. Garland,CLE,Garland Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0090,3,06:08,WAS,,CLE,,D. Garland,CLE,Garland Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0090,3,05:23,WAS,,CLE,,D. Garland,CLE,Garland Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0090,3,05:13,WAS,,CLE,,D. Garland,CLE,Garland REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,04:30,WAS,62.0,CLE,80.0,D. Garland,CLE,Garland 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,15,5,2,1,2.0,2.0,v
+S2425-G0090,3,04:15,WAS,,CLE,,D. Garland,CLE,Garland L.B.FOUL (P4.PN) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0090,3,03:01,WAS,68.0,CLE,87.0,D. Garland,CLE,Garland 26' 3PT Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,87,241,26,1,3.0,3.0,v
+S2425-G0090,3,02:40,WAS,,CLE,,D. Garland,CLE,SUB: Mitchell FOR Garland,Substitution,,0,0,0,0,,,v
+S2425-G0067,1,10:28,TOR,,CLE,,D. Garland,CLE,MISS Garland 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-126,252,28,1,3.0,0.0,v
+S2425-G0067,1,10:05,TOR,,CLE,,D. Garland,CLE,MISS Garland 20' Jump Shot,Missed Shot,Jump Shot,102,173,20,1,2.0,0.0,v
+S2425-G0067,1,08:15,TOR,,CLE,,D. Garland,CLE,MISS Garland 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,49,6,1,2.0,0.0,v
+S2425-G0067,1,07:14,TOR,,CLE,,D. Garland,CLE,Garland S.FOUL (P1.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2425-G0067,1,06:26,TOR,,CLE,,D. Garland,CLE,Garland P.FOUL (P2.T4) (J.Ralls),Foul,Personal,0,0,0,0,,,v
+S2425-G0067,1,05:54,TOR,,CLE,,D. Garland,CLE,MISS Garland 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,74,24,1,3.0,0.0,v
+S2425-G0067,1,05:21,TOR,17.0,CLE,14.0,D. Garland,CLE,Garland 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-107,239,26,1,3.0,3.0,v
+S2425-G0067,1,04:07,TOR,,CLE,,D. Garland,CLE,Garland Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0067,1,03:25,TOR,,CLE,,D. Garland,CLE,Garland P.FOUL (P3.PN) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2425-G0067,1,03:25,TOR,,CLE,,D. Garland,CLE,SUB: Niang FOR Garland,Substitution,,0,0,0,0,,,v
+S2425-G0067,2,06:04,TOR,,CLE,,D. Garland,CLE,MISS Garland 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-14,24,1,3.0,0.0,v
+S2425-G0067,2,04:19,TOR,,CLE,,D. Garland,CLE,Garland L.B.FOUL (P4.PN) (J.Ralls),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0067,2,04:19,TOR,,CLE,,D. Garland,CLE,SUB: Mitchell FOR Garland,Substitution,,0,0,0,0,,,v
+S2425-G0067,3,11:20,TOR,51.0,CLE,71.0,D. Garland,CLE,Garland 10' Driving Floating Jump Shot (5 PTS) (Mobley 1 AST),Made Shot,Driving Floating Jump Shot,103,-2,10,1,2.0,2.0,v
+S2425-G0067,3,10:40,TOR,,CLE,,D. Garland,CLE,MISS Garland 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,38,15,4,1,2.0,0.0,v
+S2425-G0067,3,09:39,TOR,,CLE,,D. Garland,CLE,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,-9,257,26,1,3.0,0.0,v
+S2425-G0067,3,08:56,TOR,,CLE,,D. Garland,CLE,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,-121,227,26,1,3.0,0.0,v
+S2425-G0067,3,07:28,TOR,56.0,CLE,81.0,D. Garland,CLE,Garland 3' Running Finger Roll Layup (7 PTS),Made Shot,Running Finger Roll Layup Shot,1,34,3,1,2.0,2.0,v
+S2425-G0067,3,06:08,TOR,,CLE,,D. Garland,CLE,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,3,06:05,TOR,,CLE,,D. Garland,CLE,Garland Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0067,3,02:45,TOR,,CLE,,D. Garland,CLE,MISS Garland 15' Floating Jump Shot,Missed Shot,Floating Jump shot,62,142,15,1,2.0,0.0,v
+S2425-G0118,1,11:19,CLE,,LAL,,D. Garland,CLE,Garland Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0118,1,10:53,CLE,,LAL,,D. Garland,CLE,Garland S.FOUL (P1.T1) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,1,09:57,CLE,,LAL,,D. Garland,CLE,Garland P.FOUL (P2.T2) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2425-G0118,1,09:32,CLE,,LAL,,D. Garland,CLE,SUB: LeVert FOR Garland,Substitution,,0,0,0,0,,,h
+S2425-G0118,1,01:34,CLE,34.0,LAL,20.0,D. Garland,CLE,Garland 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-11,1,1,1,2.0,2.0,h
+S2425-G0118,1,00:32.400000,CLE,42.0,LAL,23.0,D. Garland,CLE,Garland 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-107,224,25,1,3.0,3.0,h
+S2425-G0118,1,00:03.400000,CLE,,LAL,,D. Garland,CLE,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,71,250,26,1,3.0,0.0,h
+S2425-G0118,2,11:02,CLE,44.0,LAL,25.0,D. Garland,CLE,Garland 11' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,86,64,11,1,2.0,2.0,h
+S2425-G0118,2,10:35,CLE,,LAL,,D. Garland,CLE,MISS Garland 1' Driving Layup,Missed Shot,Driving Layup Shot,-9,-11,1,1,2.0,0.0,h
+S2425-G0118,2,10:07,CLE,,LAL,,D. Garland,CLE,Garland STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0118,2,09:08,CLE,,LAL,,D. Garland,CLE,Garland P.FOUL (P3.T2) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0118,2,09:08,CLE,,LAL,,D. Garland,CLE,SUB: Mitchell FOR Garland,Substitution,,0,0,0,0,,,h
+S2425-G0118,3,11:45,CLE,,LAL,,D. Garland,CLE,MISS Garland 3PT Jump Shot,Missed Shot,Jump Shot,-229,23,0,1,3.0,0.0,h
+S2425-G0118,3,11:40,CLE,,LAL,,D. Garland,CLE,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,-203,155,26,1,3.0,0.0,h
+S2425-G0118,3,10:46,CLE,,LAL,,D. Garland,CLE,MISS Garland 1' Running Layup,Missed Shot,Running Layup Shot,2,10,1,1,2.0,0.0,h
+S2425-G0118,3,07:53,CLE,,LAL,,D. Garland,CLE,Garland Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0118,3,06:15,CLE,,LAL,,D. Garland,CLE,Garland STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0118,3,06:06,CLE,,LAL,,D. Garland,CLE,MISS Garland 27' 3PT Jump Shot,Missed Shot,Jump Shot,83,257,27,1,3.0,0.0,h
+S2425-G0118,3,04:39,CLE,84.0,LAL,66.0,D. Garland,CLE,Garland 1' Driving Finger Roll Layup (9 PTS) (Niang 2 AST),Made Shot,Driving Finger Roll Layup Shot,2,11,1,1,2.0,2.0,h
+S2425-G0118,3,04:12,CLE,,LAL,,D. Garland,CLE,MISS Garland 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,22,148,15,1,2.0,0.0,h
+S2425-G0118,3,01:56,CLE,,LAL,,D. Garland,CLE,MISS Garland 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-34,118,12,1,2.0,0.0,h
+S2425-G0118,3,00:34.300000,CLE,99.0,LAL,77.0,D. Garland,CLE,Garland 26' 3PT Jump Shot (12 PTS) (Wade 2 AST),Made Shot,Jump Shot,-113,237,26,1,3.0,3.0,h
+S2425-G0118,3,00:00,CLE,,LAL,,D. Garland,CLE,MISS Garland 3PT Jump Shot,Missed Shot,Jump Shot,-229,13,0,1,3.0,0.0,h
+S2425-G0118,4,05:16,CLE,,LAL,,D. Garland,CLE,SUB: Tyson FOR Garland,Substitution,,0,0,0,0,,,h

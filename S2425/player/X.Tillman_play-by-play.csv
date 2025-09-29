@@ -1,0 +1,58 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0073,1,04:49,WAS,22.0,BOS,17.0,X. Tillman,BOS,Tillman 24' 3PT Jump Shot (3 PTS) (White 2 AST),Made Shot,Jump Shot,235,-12,24,1,3.0,3.0,v
+S2425-G0073,1,01:29,WAS,,BOS,,X. Tillman,BOS,SUB: Brown FOR Tillman,Substitution,,0,0,0,0,,,v
+S2425-G0073,2,09:37,WAS,,BOS,,X. Tillman,BOS,MISS Tillman 3PT Jump Shot,Missed Shot,Jump Shot,-234,-21,0,1,3.0,0.0,v
+S2425-G0073,2,09:17,WAS,,BOS,,X. Tillman,BOS,SUB: Queta FOR Tillman,Substitution,,0,0,0,0,,,v
+S2425-G0073,3,04:58,WAS,,BOS,,X. Tillman,BOS,Tillman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0073,3,04:48,WAS,,BOS,,X. Tillman,BOS,Tillman Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0073,3,02:20,WAS,,BOS,,X. Tillman,BOS,Tillman L.B.FOUL (P1.T4) (J.Reneau),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0073,3,00:21.500000,WAS,71.0,BOS,98.0,X. Tillman,BOS,Tillman 3' Cutting Layup Shot (5 PTS) (Brown 2 AST),Made Shot,Cutting Layup Shot,28,15,3,1,2.0,2.0,v
+S2425-G0073,4,10:30,WAS,75.0,BOS,107.0,X. Tillman,BOS,Tillman 27' 3PT Jump Shot (8 PTS) (Brown 3 AST),Made Shot,Jump Shot,-6,268,27,1,3.0,3.0,v
+S2425-G0073,4,10:08,WAS,,BOS,,X. Tillman,BOS,SUB: Walsh FOR Tillman,Substitution,,0,0,0,0,,,v
+S2425-G0119,3,06:12,IND,,BOS,,X. Tillman,BOS,MISS Tillman 4' Driving Layup,Missed Shot,Driving Layup Shot,-13,34,4,1,2.0,0.0,v
+S2425-G0119,3,05:55,IND,,BOS,,X. Tillman,BOS,Tillman STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0119,3,03:48,IND,,BOS,,X. Tillman,BOS,SUB: Kornet FOR Tillman,Substitution,,0,0,0,0,,,v
+S2425-G0119,4,07:38,IND,,BOS,,X. Tillman,BOS,Tillman REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,4,07:37,IND,,BOS,,X. Tillman,BOS,MISS Tillman 4' Hook Shot,Missed Shot,Hook Shot,0,42,4,1,2.0,0.0,v
+S2425-G0119,4,07:12,IND,,BOS,,X. Tillman,BOS,MISS Tillman 25' 3PT Jump Shot,Missed Shot,Jump Shot,22,251,25,1,3.0,0.0,v
+S2425-G0119,4,06:51,IND,,BOS,,X. Tillman,BOS,Tillman REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,4,05:17,IND,,BOS,,X. Tillman,BOS,SUB: Tatum FOR Tillman,Substitution,,0,0,0,0,,,v
+S2425-G0089,1,02:38,DET,,BOS,,X. Tillman,BOS,Tillman P.FOUL (P1.T4) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2425-G0089,2,11:37,DET,,BOS,,X. Tillman,BOS,Tillman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0089,2,10:02,DET,,BOS,,X. Tillman,BOS,Tillman STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0089,2,08:30,DET,,BOS,,X. Tillman,BOS,SUB: Tatum FOR Tillman,Substitution,,0,0,0,0,,,v
+S2425-G0089,3,01:39,DET,,BOS,,X. Tillman,BOS,MISS Tillman 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,33,24,1,3.0,0.0,v
+S2425-G0089,3,01:02,DET,88.0,BOS,91.0,X. Tillman,BOS,Tillman 27' 3PT Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Jump Shot,-180,200,27,1,3.0,3.0,v
+S2425-G0089,4,11:16,DET,,BOS,,X. Tillman,BOS,Tillman STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0089,4,11:11,DET,,BOS,,X. Tillman,BOS,Tillman REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0089,4,10:36,DET,,BOS,,X. Tillman,BOS,Tillman Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0089,4,08:46,DET,,BOS,,X. Tillman,BOS,Tillman S.FOUL (P2.T1) (S.Jelks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0089,4,08:20,DET,,BOS,,X. Tillman,BOS,Tillman REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0089,4,08:16,DET,,BOS,,X. Tillman,BOS,SUB: Tatum FOR Tillman,Substitution,,0,0,0,0,,,v
+S2425-G0104,2,10:39,BOS,,MIL,,X. Tillman,BOS,Tillman Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0104,2,10:14,BOS,,MIL,,X. Tillman,BOS,Tillman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,2,09:47,BOS,,MIL,,X. Tillman,BOS,Tillman S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0104,2,09:21,BOS,,MIL,,X. Tillman,BOS,Tillman REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,2,08:11,BOS,,MIL,,X. Tillman,BOS,MISS Tillman 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,58,24,1,3.0,0.0,h
+S2425-G0104,2,08:01,BOS,,MIL,,X. Tillman,BOS,MISS Tillman 6' Layup,Missed Shot,Layup Shot,55,6,6,1,2.0,0.0,h
+S2425-G0104,2,07:25,BOS,,MIL,,X. Tillman,BOS,SUB: Horford FOR Tillman,Substitution,,0,0,0,0,,,h
+S2425-G0104,3,06:30,BOS,,MIL,,X. Tillman,BOS,Tillman S.FOUL (P2.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2425-G0104,3,05:07,BOS,,MIL,,X. Tillman,BOS,Tillman REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,3,02:49,BOS,,MIL,,X. Tillman,BOS,MISS Tillman 5' Driving Layup,Missed Shot,Driving Layup Shot,-33,37,5,1,2.0,0.0,h
+S2425-G0104,4,01:49,BOS,,MIL,,X. Tillman,BOS,SUB: Springer FOR Tillman,Substitution,,0,0,0,0,,,h
+S2425-G0061,2,11:09,BOS,,NYK,,X. Tillman,BOS,Tillman REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,2,09:30,BOS,,NYK,,X. Tillman,BOS,MISS Tillman 10' Floating Jump Shot,Missed Shot,Floating Jump shot,69,70,10,1,2.0,0.0,h
+S2425-G0061,2,09:29,BOS,,NYK,,X. Tillman,BOS,Tillman REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,2,07:47,BOS,,NYK,,X. Tillman,BOS,MISS Tillman 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,74,24,1,3.0,0.0,h
+S2425-G0061,2,06:18,BOS,,NYK,,X. Tillman,BOS,SUB: Pritchard FOR Tillman,Substitution,,0,0,0,0,,,h
+S2425-G0061,4,11:36,BOS,,NYK,,X. Tillman,BOS,Tillman REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,4,11:14,BOS,,NYK,,X. Tillman,BOS,Tillman S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2425-G0061,4,10:19,BOS,,NYK,,X. Tillman,BOS,Tillman REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,4,07:26,BOS,,NYK,,X. Tillman,BOS,MISS Tillman 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-188,168,25,1,3.0,0.0,h
+S2425-G0061,4,07:02,BOS,130.0,NYK,95.0,X. Tillman,BOS,Tillman 2' Driving Reverse Layup (2 PTS) (Holiday 4 AST),Made Shot,Driving Reverse Layup Shot,-22,3,2,1,2.0,2.0,h
+S2425-G0061,4,05:56,BOS,,NYK,,X. Tillman,BOS,Tillman Violation:Kicked Ball (M.Lindsay),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0061,4,03:32,BOS,,NYK,,X. Tillman,BOS,MISS Tillman 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,49,26,6,1,2.0,0.0,h
+S2425-G0061,4,03:18,BOS,,NYK,,X. Tillman,BOS,Tillman REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,4,02:32,BOS,,NYK,,X. Tillman,BOS,Tillman REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,4,02:01,BOS,,NYK,,X. Tillman,BOS,MISS Tillman 28' 3PT Jump Shot,Missed Shot,Jump Shot,103,260,28,1,3.0,0.0,h
+S2425-G0061,4,01:11,BOS,,NYK,,X. Tillman,BOS,Tillman REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h

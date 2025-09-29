@@ -1,0 +1,8 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0073,4,04:00,WAS,,BOS,,J. Springer,BOS,Springer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0073,4,01:55,WAS,,BOS,,J. Springer,BOS,Springer REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0073,4,01:04,WAS,,BOS,,J. Springer,BOS,Springer REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0073,4,01:04,WAS,,BOS,,J. Springer,BOS,MISS Springer 5' Layup,Missed Shot,Layup Shot,50,6,5,1,2.0,0.0,v
+S2425-G0073,4,00:48.500000,WAS,,BOS,,J. Springer,BOS,MISS Springer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0073,4,00:48.500000,WAS,102.0,BOS,122.0,J. Springer,BOS,Springer Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0104,4,01:29,BOS,,MIL,,J. Springer,BOS,Springer Out of Bounds Lost Ball Turnover (P1.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h

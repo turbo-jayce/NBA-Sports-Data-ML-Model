@@ -1,0 +1,11 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,4,03:06,NYK,,IND,,T. Kolek,NYK,Kolek Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0081,4,01:14,NYK,120.0,IND,98.0,T. Kolek,NYK,Kolek Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,4,01:14,NYK,121.0,IND,98.0,T. Kolek,NYK,Kolek Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,4,00:50.500000,NYK,122.0,IND,98.0,T. Kolek,NYK,Kolek Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,4,00:50.500000,NYK,123.0,IND,98.0,T. Kolek,NYK,Kolek Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,4,00:41.700000,NYK,,IND,,T. Kolek,NYK,Kolek Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0061,4,04:20,BOS,130.0,NYK,107.0,T. Kolek,NYK,Kolek 26' 3PT Jump Shot (3 PTS) (Payne 4 AST),Made Shot,Jump Shot,130,226,26,1,3.0,3.0,v
+S2425-G0061,4,02:12,BOS,,NYK,,T. Kolek,NYK,Kolek Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0061,4,01:36,BOS,,NYK,,T. Kolek,NYK,Kolek Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0061,4,01:12,BOS,,NYK,,T. Kolek,NYK,MISS Kolek 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-26,29,4,1,2.0,0.0,v

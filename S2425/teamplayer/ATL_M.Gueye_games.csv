@@ -1,0 +1,3 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0100,4,02:34,OKC,120.0,ATL,102.0,M. Gueye,ATL,Gueye 1' Cutting Dunk Shot (2 PTS) (Mathews 2 AST),Made Shot,Cutting Dunk Shot,13,-5,1,1,2.0,2.0,v
+S2425-G0100,4,00:52.100000,OKC,,ATL,,M. Gueye,ATL,MISS Gueye 26' 3PT Jump Shot,Missed Shot,Jump Shot,184,179,26,1,3.0,0.0,v

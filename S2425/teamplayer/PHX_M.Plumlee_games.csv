@@ -1,0 +1,65 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0111,1,03:51,PHX,,LAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,1,00:39.300000,PHX,,LAL,,M. Plumlee,PHX,Plumlee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0111,1,00:09.700000,PHX,,LAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,11:09,PHX,,LAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,10:53,PHX,,LAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,09:52,PHX,,LAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,09:07,PHX,,LAL,,M. Plumlee,PHX,Plumlee P.FOUL (P1.T1) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2425-G0111,2,08:46,PHX,,LAL,,M. Plumlee,PHX,Plumlee Violation:Kicked Ball (E.Dalen),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0111,2,07:38,PHX,,LAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,07:32,PHX,,LAL,,M. Plumlee,PHX,SUB: Allen FOR Plumlee,Substitution,,0,0,0,0,,,h
+S2425-G0111,2,00:20.300000,PHX,,LAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,00:00.400000,PHX,,LAL,,M. Plumlee,PHX,Jump Ball Plumlee vs. Davis: Tip to Reaves,Jump Ball,,0,0,0,0,,,h
+S2425-G0111,3,06:26,PHX,,LAL,,M. Plumlee,PHX,Plumlee S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2425-G0111,3,04:25,PHX,,LAL,,M. Plumlee,PHX,Plumlee P.FOUL (P3.T3) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0111,3,02:08,PHX,,LAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,3,01:23,PHX,,LAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,3,00:47,PHX,,LAL,,M. Plumlee,PHX,SUB: Dunn FOR Plumlee,Substitution,,0,0,0,0,,,h
+S2425-G0111,4,01:34,PHX,,LAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,4,00:40.500000,PHX,,LAL,,M. Plumlee,PHX,SUB: Dunn FOR Plumlee,Substitution,,0,0,0,0,,,h
+S2425-G0085,1,06:18,LAL,,PHX,,M. Plumlee,PHX,Plumlee P.FOUL (P1.T3) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2425-G0085,1,04:45,LAL,13.0,PHX,18.0,M. Plumlee,PHX,Plumlee 1' Running Dunk (2 PTS) (Morris 1 AST),Made Shot,Running Dunk Shot,4,3,1,1,2.0,2.0,v
+S2425-G0085,1,02:38,LAL,,PHX,,M. Plumlee,PHX,SUB: Nurkić FOR Plumlee,Substitution,,0,0,0,0,,,v
+S2425-G0085,2,11:46,LAL,,PHX,,M. Plumlee,PHX,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,2,11:02,LAL,23.0,PHX,43.0,M. Plumlee,PHX,Plumlee 1' Reverse Dunk (4 PTS) (Beal 5 AST),Made Shot,Reverse Dunk Shot,2,5,1,1,2.0,2.0,v
+S2425-G0085,2,10:46,LAL,,PHX,,M. Plumlee,PHX,Plumlee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,2,07:06,LAL,,PHX,,M. Plumlee,PHX,Plumlee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,2,06:54,LAL,,PHX,,M. Plumlee,PHX,SUB: Nurkić FOR Plumlee,Substitution,,0,0,0,0,,,v
+S2425-G0085,2,01:48,LAL,,PHX,,M. Plumlee,PHX,Plumlee REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,2,00:57.900000,LAL,,PHX,,M. Plumlee,PHX,Plumlee L.B.FOUL (P2.T4) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0085,2,00:00.200000,LAL,,PHX,,M. Plumlee,PHX,MISS Plumlee 5' Layup,Missed Shot,Layup Shot,-6,52,5,1,2.0,0.0,v
+S2425-G0085,3,06:21,LAL,,PHX,,M. Plumlee,PHX,Plumlee P.FOUL (P3.T4) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2425-G0085,3,05:35,LAL,72.0,PHX,76.0,M. Plumlee,PHX,Plumlee 2' Layup (6 PTS) (Durant 3 AST),Made Shot,Layup Shot,-23,7,2,1,2.0,2.0,v
+S2425-G0085,3,04:01,LAL,,PHX,,M. Plumlee,PHX,Plumlee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,3,03:28,LAL,,PHX,,M. Plumlee,PHX,Plumlee REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,3,02:48,LAL,,PHX,,M. Plumlee,PHX,Plumlee P.FOUL (P4.PN) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2425-G0085,3,02:48,LAL,,PHX,,M. Plumlee,PHX,SUB: Nurkić FOR Plumlee,Substitution,,0,0,0,0,,,v
+S2425-G0085,4,07:22,LAL,,PHX,,M. Plumlee,PHX,Plumlee REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,4,07:08,LAL,,PHX,,M. Plumlee,PHX,Plumlee STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0085,4,06:01,LAL,,PHX,,M. Plumlee,PHX,SUB: O'Neale FOR Plumlee,Substitution,,0,0,0,0,,,v
+S2425-G0071,1,07:35,LAC,,PHX,,M. Plumlee,PHX,Plumlee OFF.Foul (P1) (S.Twardoski),Foul,Offensive,0,0,0,0,,,v
+S2425-G0071,1,07:35,LAC,,PHX,,M. Plumlee,PHX,Plumlee Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0071,1,07:27,LAC,,PHX,,M. Plumlee,PHX,Plumlee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0071,1,07:14,LAC,11.0,PHX,12.0,M. Plumlee,PHX,Plumlee 1' Layup (2 PTS),Made Shot,Layup Shot,6,0,1,1,2.0,2.0,v
+S2425-G0071,1,05:52,LAC,16.0,PHX,16.0,M. Plumlee,PHX,Plumlee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,1,05:52,LAC,,PHX,,M. Plumlee,PHX,MISS Plumlee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0071,1,04:53,LAC,,PHX,,M. Plumlee,PHX,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,1,03:03,LAC,,PHX,,M. Plumlee,PHX,SUB: Beal FOR Plumlee,Substitution,,0,0,0,0,,,v
+S2425-G0071,2,03:39,LAC,29.0,PHX,42.0,M. Plumlee,PHX,Plumlee 2' Cutting Layup Shot (5 PTS) (Allen 1 AST),Made Shot,Cutting Layup Shot,6,16,2,1,2.0,2.0,v
+S2425-G0071,2,02:16,LAC,,PHX,,M. Plumlee,PHX,SUB: Durant FOR Plumlee,Substitution,,0,0,0,0,,,v
+S2425-G0071,3,03:16,LAC,,PHX,,M. Plumlee,PHX,Plumlee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,3,03:07,LAC,,PHX,,M. Plumlee,PHX,MISS Plumlee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0071,3,03:07,LAC,64.0,PHX,61.0,M. Plumlee,PHX,Plumlee Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,4,11:32,LAC,74.0,PHX,73.0,M. Plumlee,PHX,Plumlee Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,4,11:32,LAC,74.0,PHX,74.0,M. Plumlee,PHX,Plumlee Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,4,10:00,LAC,,PHX,,M. Plumlee,PHX,SUB: Nurkić FOR Plumlee,Substitution,,0,0,0,0,,,v
+S2425-G0095,1,03:10,PHX,19.0,DAL,17.0,M. Plumlee,PHX,Plumlee Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0095,1,03:10,PHX,,DAL,,M. Plumlee,PHX,MISS Plumlee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0095,1,01:37,PHX,24.0,DAL,19.0,M. Plumlee,PHX,Plumlee 6' Cutting Layup Shot (3 PTS) (Booker 3 AST),Made Shot,Cutting Layup Shot,-20,55,6,1,2.0,2.0,h
+S2425-G0095,1,01:27,PHX,,DAL,,M. Plumlee,PHX,Plumlee P.FOUL (P1.T4) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2425-G0095,1,00:07.800000,PHX,,DAL,,M. Plumlee,PHX,SUB: O'Neale FOR Plumlee,Substitution,,0,0,0,0,,,h
+S2425-G0095,3,00:55,PHX,,DAL,,M. Plumlee,PHX,Plumlee P.FOUL (P2.PN) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2425-G0095,4,10:39,PHX,,DAL,,M. Plumlee,PHX,Plumlee S.FOUL (P3.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2425-G0095,4,08:51,PHX,,DAL,,M. Plumlee,PHX,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,4,08:02,PHX,,DAL,,M. Plumlee,PHX,SUB: Nurkić FOR Plumlee,Substitution,,0,0,0,0,,,h

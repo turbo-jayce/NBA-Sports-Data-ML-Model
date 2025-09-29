@@ -1,0 +1,105 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0121,1,06:00,WAS,24.0,ATL,11.0,J. Valančiūnas,WAS,Valančiūnas 26' 3PT Jump Shot (3 PTS) (Poole 4 AST),Made Shot,Jump Shot,11,256,26,1,3.0,3.0,h
+S2425-G0121,1,05:08,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2425-G0121,1,05:08,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0121,1,02:58,WAS,,ATL,,J. Valančiūnas,WAS,MISS Valančiūnas 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,59,22,6,1,2.0,0.0,h
+S2425-G0121,1,02:37,WAS,,ATL,,J. Valančiūnas,WAS,MISS Valančiūnas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0121,1,02:37,WAS,27.0,ATL,26.0,J. Valančiūnas,WAS,Valančiūnas Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,1,01:56,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,1,01:55,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0121,2,06:38,WAS,,ATL,,J. Valančiūnas,WAS,MISS Valančiūnas 12' Jump Shot,Missed Shot,Jump Shot,-119,25,12,1,2.0,0.0,h
+S2425-G0121,2,04:02,WAS,,ATL,,J. Valančiūnas,WAS,Jump Ball (CC) Valančiūnas vs. Okongwu: Tip to Kispert,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2425-G0121,2,03:31,WAS,,ATL,,J. Valančiūnas,WAS,SUB: Sarr FOR Valančiūnas,Substitution,,0,0,0,0,,,h
+S2425-G0121,3,05:48,WAS,73.0,ATL,79.0,J. Valančiūnas,WAS,Valančiūnas 2' Cutting Layup Shot (6 PTS) (Poole 6 AST),Made Shot,Cutting Layup Shot,-22,-2,2,1,2.0,2.0,h
+S2425-G0121,3,05:16,WAS,75.0,ATL,82.0,J. Valančiūnas,WAS,Valančiūnas 15' Jump Shot (8 PTS) (Poole 7 AST),Made Shot,Jump Shot,20,153,15,1,2.0,2.0,h
+S2425-G0121,3,04:22,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,3,03:30,WAS,82.0,ATL,82.0,J. Valančiūnas,WAS,Valančiūnas 2' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,4,16,2,1,2.0,2.0,h
+S2425-G0121,3,03:04,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,3,03:04,WAS,84.0,ATL,82.0,J. Valančiūnas,WAS,Valančiūnas 2' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,-2,16,2,1,2.0,2.0,h
+S2425-G0121,3,01:35,WAS,91.0,ATL,86.0,J. Valančiūnas,WAS,Valančiūnas 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,13,-6,1,1,2.0,2.0,h
+S2425-G0121,4,07:23,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0121,4,05:56,WAS,118.0,ATL,106.0,J. Valančiūnas,WAS,Valančiūnas Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,4,05:56,WAS,119.0,ATL,106.0,J. Valančiūnas,WAS,Valančiūnas Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,4,05:47,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,4,05:13,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,4,04:42,WAS,122.0,ATL,106.0,J. Valančiūnas,WAS,Valančiūnas Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,4,04:42,WAS,123.0,ATL,106.0,J. Valančiūnas,WAS,Valančiūnas Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,4,03:47,WAS,127.0,ATL,111.0,J. Valančiūnas,WAS,Valančiūnas 4' Floating Jump Shot (20 PTS) (Poole 9 AST),Made Shot,Floating Jump shot,16,40,4,1,2.0,2.0,h
+S2425-G0121,4,02:36,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,4,02:21,WAS,129.0,ATL,113.0,J. Valančiūnas,WAS,Valančiūnas 13' Jump Shot (22 PTS) (Carrington 6 AST),Made Shot,Jump Shot,49,121,13,1,2.0,2.0,h
+S2425-G0121,4,02:08,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,4,01:40,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,4,01:18,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas S.FOUL (P2.PN) (S.Jelks),Foul,Shooting,0,0,0,0,,,h
+S2425-G0121,4,00:08.800000,WAS,,ATL,,J. Valančiūnas,WAS,Valančiūnas S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,1,05:09,WAS,,BOS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,04:20,WAS,,BOS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,04:20,WAS,,BOS,,J. Valančiūnas,WAS,MISS Valančiūnas 3' Putback Layup,Missed Shot,Putback Layup Shot,21,16,3,1,2.0,0.0,h
+S2425-G0073,1,03:30,WAS,,BOS,,J. Valančiūnas,WAS,MISS Valančiūnas 15' Jump Shot,Missed Shot,Jump Shot,-137,65,15,1,2.0,0.0,h
+S2425-G0073,1,03:16,WAS,26.0,BOS,20.0,J. Valančiūnas,WAS,Valančiūnas 2' Dunk (2 PTS) (Coulibaly 2 AST),Made Shot,Dunk Shot,-5,15,2,1,2.0,2.0,h
+S2425-G0073,1,02:13,WAS,28.0,BOS,25.0,J. Valančiūnas,WAS,Valančiūnas 5' Jump Shot (4 PTS) (Coulibaly 3 AST),Made Shot,Jump Shot,-45,26,5,1,2.0,2.0,h
+S2425-G0073,1,00:32,WAS,32.0,BOS,32.0,J. Valančiūnas,WAS,Valančiūnas 5' Cutting Layup Shot (6 PTS) (Butler 1 AST),Made Shot,Cutting Layup Shot,-9,53,5,1,2.0,2.0,h
+S2425-G0073,1,00:17.100000,WAS,,BOS,,J. Valančiūnas,WAS,SUB: Poole FOR Valančiūnas,Substitution,,0,0,0,0,,,h
+S2425-G0073,2,08:57,WAS,,BOS,,J. Valančiūnas,WAS,MISS Valančiūnas 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-91,48,10,1,2.0,0.0,h
+S2425-G0073,2,08:46,WAS,,BOS,,J. Valančiūnas,WAS,SUB: Kuzma FOR Valančiūnas,Substitution,,0,0,0,0,,,h
+S2425-G0073,3,06:23,WAS,60.0,BOS,80.0,J. Valančiūnas,WAS,Valančiūnas 5' Hook Shot (8 PTS) (Coulibaly 5 AST),Made Shot,Hook Shot,-2,48,5,1,2.0,2.0,h
+S2425-G0073,3,05:32,WAS,62.0,BOS,83.0,J. Valančiūnas,WAS,Valančiūnas 3' Turnaround Hook Shot (10 PTS) (Poole 3 AST),Made Shot,Turnaround Hook Shot,-28,17,3,1,2.0,2.0,h
+S2425-G0073,3,03:19,WAS,69.0,BOS,90.0,J. Valančiūnas,WAS,Valančiūnas Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0073,3,03:19,WAS,70.0,BOS,90.0,J. Valančiūnas,WAS,Valančiūnas Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0073,3,02:59,WAS,,BOS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,3,02:40,WAS,,BOS,,J. Valančiūnas,WAS,MISS Valančiūnas 4' Hook Shot,Missed Shot,Hook Shot,-37,13,4,1,2.0,0.0,h
+S2425-G0073,3,00:00.200000,WAS,73.0,BOS,98.0,J. Valančiūnas,WAS,Valančiūnas 5' Hook Shot (14 PTS) (Carrington 1 AST),Made Shot,Hook Shot,-44,21,5,1,2.0,2.0,h
+S2425-G0073,4,11:26,WAS,,BOS,,J. Valančiūnas,WAS,MISS Valančiūnas 8' Jump Shot,Missed Shot,Jump Shot,67,50,8,1,2.0,0.0,h
+S2425-G0073,4,11:09,WAS,75.0,BOS,104.0,J. Valančiūnas,WAS,Valančiūnas Cutting Dunk Shot (16 PTS) (Kispert 3 AST),Made Shot,Cutting Dunk Shot,-4,-2,0,1,2.0,2.0,h
+S2425-G0073,4,10:46,WAS,,BOS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,4,09:32,WAS,,BOS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,4,09:32,WAS,79.0,BOS,109.0,J. Valančiūnas,WAS,Valančiūnas Putback Dunk (18 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0073,4,08:04,WAS,,BOS,,J. Valančiūnas,WAS,SUB: George FOR Valančiūnas,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,05:53,WAS,,CLE,,J. Valančiūnas,WAS,MISS Valančiūnas 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-2,38,4,1,2.0,0.0,h
+S2425-G0090,1,05:09,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,1,05:06,WAS,,CLE,,J. Valančiūnas,WAS, ,Jump Ball,,0,0,0,0,,,h
+S2425-G0090,1,05:06,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas L.B.FOUL (P1.PN) (A.Smith),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0090,1,04:10,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,1,03:54,WAS,21.0,CLE,21.0,J. Valančiūnas,WAS,Valančiūnas 6' Turnaround Hook Shot (2 PTS) (Kispert 1 AST),Made Shot,Turnaround Hook Shot,48,40,6,1,2.0,2.0,h
+S2425-G0090,1,00:51.300000,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,1,00:51.300000,WAS,25.0,CLE,28.0,J. Valančiūnas,WAS,Valančiūnas Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0090,1,00:22,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0090,2,06:47,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0090,2,06:30,WAS,34.0,CLE,39.0,J. Valančiūnas,WAS,Valančiūnas 2' Layup (6 PTS) (Poole 4 AST),Made Shot,Layup Shot,20,-12,2,1,2.0,2.0,h
+S2425-G0090,2,05:13,WAS,,CLE,,J. Valančiūnas,WAS,SUB: Coulibaly FOR Valančiūnas,Substitution,,0,0,0,0,,,h
+S2425-G0090,2,03:05,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0090,2,00:02.900000,WAS,,CLE,,J. Valančiūnas,WAS,MISS Valančiūnas 4' Driving Layup,Missed Shot,Driving Layup Shot,-12,41,4,1,2.0,0.0,h
+S2425-G0090,2,00:00.400000,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,2,00:00.400000,WAS,53.0,CLE,59.0,J. Valančiūnas,WAS,Valančiūnas Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0090,3,10:01,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,3,08:22,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,3,08:20,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0090,3,07:18,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,3,05:37,WAS,61.0,CLE,76.0,J. Valančiūnas,WAS,Valančiūnas Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,3,05:37,WAS,62.0,CLE,76.0,J. Valančiūnas,WAS,Valančiūnas Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,3,05:15,WAS,,CLE,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,3,05:14,WAS,,CLE,,J. Valančiūnas,WAS,MISS Valančiūnas 2' Putback Layup,Missed Shot,Putback Layup Shot,1,15,2,1,2.0,0.0,h
+S2425-G0090,3,04:47,WAS,,CLE,,J. Valančiūnas,WAS,SUB: George FOR Valančiūnas,Substitution,,0,0,0,0,,,h
+S2425-G0103,1,10:33,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0103,1,09:14,ATL,,WAS,,J. Valančiūnas,WAS,MISS Valančiūnas 19' Jump Shot,Missed Shot,Jump Shot,-6,187,19,1,2.0,0.0,v
+S2425-G0103,1,07:37,ATL,,WAS,,J. Valančiūnas,WAS,MISS Valančiūnas 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,22,47,5,1,2.0,0.0,v
+S2425-G0103,1,07:14,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas Backcourt Turnover (P2.T5),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2425-G0103,1,06:43,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,1,06:43,ATL,,WAS,,J. Valančiūnas,WAS,MISS Valančiūnas 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,34,38,5,1,2.0,0.0,v
+S2425-G0103,1,04:58,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,1,04:58,ATL,17.0,WAS,15.0,J. Valančiūnas,WAS,Valančiūnas Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0103,1,04:41,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,1,03:47,ATL,,WAS,,J. Valančiūnas,WAS,SUB: George FOR Valančiūnas,Substitution,,0,0,0,0,,,v
+S2425-G0103,2,05:04,ATL,44.0,WAS,33.0,J. Valančiūnas,WAS,Valančiūnas 6' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,-53,26,6,1,2.0,2.0,v
+S2425-G0103,2,04:49,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,2,04:34,ATL,,WAS,,J. Valančiūnas,WAS,MISS Valančiūnas 25' 3PT Jump Shot,Missed Shot,Jump Shot,-66,242,25,1,3.0,0.0,v
+S2425-G0103,2,03:29,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,2,02:30,ATL,50.0,WAS,42.0,J. Valančiūnas,WAS,Valančiūnas 2' Turnaround Hook Shot (6 PTS) (Coulibaly 1 AST),Made Shot,Turnaround Hook Shot,-11,11,2,1,2.0,2.0,v
+S2425-G0103,2,02:30,ATL,50.0,WAS,43.0,J. Valančiūnas,WAS,Valančiūnas Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0103,2,00:19.700000,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0103,3,02:25,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,3,00:44.300000,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas Out of Bounds Lost Ball Turnover (P4.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0103,4,10:46,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,4,10:10,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,4,08:02,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas T.FOUL (P0.T0) (J.Tiven),Foul,Technical,0,0,0,0,,,v
+S2425-G0103,4,07:40,ATL,,WAS,,J. Valančiūnas,WAS,Valančiūnas REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,4,07:12,ATL,,WAS,,J. Valančiūnas,WAS,SUB: Sarr FOR Valančiūnas,Substitution,,0,0,0,0,,,v

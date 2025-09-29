@@ -1,0 +1,39 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,03:30,DAL,,SAS,,Q. Grimes,DAL,MISS Grimes 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-180,167,25,1,3.0,0.0,h
+S2425-G0074,1,02:01,DAL,,SAS,,Q. Grimes,DAL,MISS Grimes 7' Driving Layup,Missed Shot,Driving Layup Shot,64,24,7,1,2.0,0.0,h
+S2425-G0074,4,11:29,DAL,91.0,SAS,80.0,Q. Grimes,DAL,Grimes 1' Cutting Dunk Shot (2 PTS) (Gafford 2 AST),Made Shot,Cutting Dunk Shot,-4,6,1,1,2.0,2.0,h
+S2425-G0074,4,08:00,DAL,,SAS,,Q. Grimes,DAL,Grimes P.FOUL (P1.T3) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2425-G0074,4,07:09,DAL,,SAS,,Q. Grimes,DAL,MISS Grimes 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-59,162,17,1,2.0,0.0,h
+S2425-G0074,4,05:59,DAL,,SAS,,Q. Grimes,DAL,SUB: Hardy FOR Grimes,Substitution,,0,0,0,0,,,h
+S2425-G0074,4,01:24,DAL,,SAS,,Q. Grimes,DAL,MISS Grimes 3' Driving Layup,Missed Shot,Driving Layup Shot,26,13,3,1,2.0,0.0,h
+S2425-G0074,4,00:32.500000,DAL,,SAS,,Q. Grimes,DAL,MISS Grimes 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,8,2,1,2.0,0.0,h
+S2425-G0110,1,02:07,DAL,,UTA,,Q. Grimes,DAL,Grimes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0110,1,02:04,DAL,,UTA,,Q. Grimes,DAL,Jump Ball Grimes vs. Collins: Tip to Sexton,Jump Ball,,0,0,0,0,,,h
+S2425-G0110,1,01:57,DAL,,UTA,,Q. Grimes,DAL,Grimes P.FOUL (P1.T3) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2425-G0110,1,01:08,DAL,,UTA,,Q. Grimes,DAL,Grimes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,03:06,DAL,,UTA,,Q. Grimes,DAL,Grimes P.FOUL (P2.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2425-G0110,3,01:44,DAL,,UTA,,Q. Grimes,DAL,MISS Grimes 3PT Jump Shot,Missed Shot,Jump Shot,-230,0,0,1,3.0,0.0,h
+S2425-G0110,3,01:17,DAL,,UTA,,Q. Grimes,DAL,Grimes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,00:35.200000,DAL,,UTA,,Q. Grimes,DAL,Grimes P.FOUL (P3.PN) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2425-G0110,4,08:56,DAL,,UTA,,Q. Grimes,DAL,MISS Grimes 3' Running Layup,Missed Shot,Running Layup Shot,2,27,3,1,2.0,0.0,h
+S2425-G0110,4,08:33,DAL,,UTA,,Q. Grimes,DAL,MISS Grimes 24' 3PT Jump Shot,Missed Shot,Jump Shot,-227,89,24,1,3.0,0.0,h
+S2425-G0110,4,08:30,DAL,,UTA,,Q. Grimes,DAL,Grimes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,4,08:28,DAL,91.0,UTA,81.0,Q. Grimes,DAL,Grimes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0110,4,08:28,DAL,92.0,UTA,81.0,Q. Grimes,DAL,Grimes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0110,4,07:16,DAL,96.0,UTA,85.0,Q. Grimes,DAL,Grimes 1' Driving Reverse Layup (4 PTS) (Irving 8 AST),Made Shot,Driving Reverse Layup Shot,10,-3,1,1,2.0,2.0,h
+S2425-G0110,4,07:01,DAL,,UTA,,Q. Grimes,DAL,SUB: Dinwiddie FOR Grimes,Substitution,,0,0,0,0,,,h
+S2425-G0114,1,02:04,MIN,30.0,DAL,26.0,Q. Grimes,DAL,Grimes 3PT Jump Shot (3 PTS) (Dončić 3 AST),Made Shot,Jump Shot,232,16,0,1,3.0,3.0,v
+S2425-G0114,1,01:37,MIN,,DAL,,Q. Grimes,DAL,MISS Grimes 3PT Jump Shot,Missed Shot,Jump Shot,-232,26,0,1,3.0,0.0,v
+S2425-G0114,1,00:31.300000,MIN,,DAL,,Q. Grimes,DAL,Grimes STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0114,1,00:28,MIN,,DAL,,Q. Grimes,DAL,Grimes Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0114,3,03:30,MIN,73.0,DAL,80.0,Q. Grimes,DAL,Grimes 24' 3PT Jump Shot (6 PTS) (Marshall 1 AST),Made Shot,Jump Shot,-200,140,24,1,3.0,3.0,v
+S2425-G0114,3,02:33,MIN,75.0,DAL,83.0,Q. Grimes,DAL,Grimes 25' 3PT Jump Shot (9 PTS) (Irving 5 AST),Made Shot,Jump Shot,-164,183,25,1,3.0,3.0,v
+S2425-G0114,3,01:54,MIN,,DAL,,Q. Grimes,DAL,Grimes Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0114,3,01:34,MIN,,DAL,,Q. Grimes,DAL,Grimes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,4,09:42,MIN,,DAL,,Q. Grimes,DAL,MISS Grimes 3PT Jump Shot,Missed Shot,Jump Shot,-230,-11,0,1,3.0,0.0,v
+S2425-G0114,4,07:48,MIN,,DAL,,Q. Grimes,DAL,SUB: Thompson FOR Grimes,Substitution,,0,0,0,0,,,v
+S2425-G0095,2,08:30,PHX,,DAL,,Q. Grimes,DAL,Grimes P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2425-G0095,2,08:23,PHX,,DAL,,Q. Grimes,DAL,Grimes L.B.FOUL (P2.T2) (S.Mehta),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0095,2,08:12,PHX,,DAL,,Q. Grimes,DAL,Grimes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,2,07:15,PHX,,DAL,,Q. Grimes,DAL,SUB: Irving FOR Grimes,Substitution,,0,0,0,0,,,v
+S2425-G0095,4,00:12.600000,PHX,,DAL,,Q. Grimes,DAL,Grimes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v

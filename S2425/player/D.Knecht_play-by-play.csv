@@ -1,0 +1,62 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0062,2,08:01,LAL,37.0,MIN,27.0,D. Knecht,LAL,Knecht 26' 3PT Jump Shot (3 PTS) (Russell 3 AST),Made Shot,Jump Shot,-165,202,26,1,3.0,3.0,h
+S2425-G0062,2,07:00,LAL,41.0,MIN,29.0,D. Knecht,LAL,Knecht Running Layup (5 PTS),Made Shot,Running Layup Shot,-1,0,0,1,2.0,2.0,h
+S2425-G0062,2,05:20,LAL,,MIN,,D. Knecht,LAL,Knecht REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,2,04:49,LAL,,MIN,,D. Knecht,LAL,MISS Knecht 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,134,218,26,1,3.0,0.0,h
+S2425-G0062,2,04:16,LAL,,MIN,,D. Knecht,LAL,Knecht P.FOUL (P1.T2) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2425-G0062,2,01:19,LAL,,MIN,,D. Knecht,LAL,SUB: Christie FOR Knecht,Substitution,,0,0,0,0,,,h
+S2425-G0062,3,02:32,LAL,,MIN,,D. Knecht,LAL,MISS Knecht 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-105,236,26,1,3.0,0.0,h
+S2425-G0062,3,00:24.900000,LAL,,MIN,,D. Knecht,LAL,Knecht STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0062,3,00:21.900000,LAL,,MIN,,D. Knecht,LAL,Knecht Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0062,4,10:31,LAL,,MIN,,D. Knecht,LAL,SUB: Reaves FOR Knecht,Substitution,,0,0,0,0,,,h
+S2425-G0111,2,11:17,PHX,,LAL,,D. Knecht,LAL,Knecht REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,2,11:11,PHX,,LAL,,D. Knecht,LAL,MISS Knecht 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-80,86,12,1,2.0,0.0,v
+S2425-G0111,2,08:12,PHX,,LAL,,D. Knecht,LAL,MISS Knecht 5' Running Layup,Missed Shot,Running Layup Shot,31,36,5,1,2.0,0.0,v
+S2425-G0111,2,04:24,PHX,,LAL,,D. Knecht,LAL,SUB: L. James FOR Knecht,Substitution,,0,0,0,0,,,v
+S2425-G0111,4,09:46,PHX,,LAL,,D. Knecht,LAL,MISS Knecht 26' 3PT Jump Shot,Missed Shot,Jump Shot,-195,173,26,1,3.0,0.0,v
+S2425-G0111,4,08:22,PHX,,LAL,,D. Knecht,LAL,SUB: Hachimura FOR Knecht,Substitution,,0,0,0,0,,,v
+S2425-G0096,2,11:09,LAL,33.0,SAC,26.0,D. Knecht,LAL,Knecht 29' 3PT Jump Shot (3 PTS) (L. James 1 AST),Made Shot,Jump Shot,96,269,29,1,3.0,3.0,h
+S2425-G0096,2,07:35,LAL,,SAC,,D. Knecht,LAL,MISS Knecht 25' 3PT Jump Shot,Missed Shot,Jump Shot,-213,132,25,1,3.0,0.0,h
+S2425-G0096,2,07:31,LAL,,SAC,,D. Knecht,LAL,Knecht S.FOUL (P1.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0096,2,06:55,LAL,46.0,SAC,33.0,D. Knecht,LAL,Knecht 6' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,-2,61,6,1,2.0,2.0,h
+S2425-G0096,2,05:55,LAL,,SAC,,D. Knecht,LAL,Knecht S.FOUL (P2.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0096,2,05:32,LAL,51.0,SAC,39.0,D. Knecht,LAL,Knecht 1' Cutting Dunk Shot (7 PTS) (Davis 2 AST),Made Shot,Cutting Dunk Shot,-4,5,1,1,2.0,2.0,h
+S2425-G0096,2,02:19,LAL,,SAC,,D. Knecht,LAL,Knecht Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0096,2,01:04,LAL,,SAC,,D. Knecht,LAL,MISS Knecht 25' 3PT Jump Shot,Missed Shot,Jump Shot,224,114,25,1,3.0,0.0,h
+S2425-G0096,2,00:31.500000,LAL,,SAC,,D. Knecht,LAL,SUB: Hachimura FOR Knecht,Substitution,,0,0,0,0,,,h
+S2425-G0096,4,11:47,LAL,90.0,SAC,94.0,D. Knecht,LAL,Knecht 26' 3PT Jump Shot (10 PTS) (Hayes 1 AST),Made Shot,Jump Shot,-222,130,26,1,3.0,3.0,h
+S2425-G0096,4,07:26,LAL,,SAC,,D. Knecht,LAL,MISS Knecht 28' 3PT Jump Shot,Missed Shot,Jump Shot,-108,253,28,1,3.0,0.0,h
+S2425-G0096,4,06:19,LAL,,SAC,,D. Knecht,LAL,Knecht S.FOUL (P3.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0096,4,03:19,LAL,,SAC,,D. Knecht,LAL,SUB: Hachimura FOR Knecht,Substitution,,0,0,0,0,,,h
+S2425-G0085,2,08:54,LAL,30.0,PHX,48.0,D. Knecht,LAL,Knecht 26' 3PT Running Jump Shot (3 PTS) (Hayes 2 AST),Made Shot,Running Jump Shot,184,180,26,1,3.0,3.0,h
+S2425-G0085,2,08:01,LAL,35.0,PHX,51.0,D. Knecht,LAL,Knecht 26' 3PT Jump Shot (6 PTS) (Hachimura 1 AST),Made Shot,Jump Shot,127,227,26,1,3.0,3.0,h
+S2425-G0085,2,07:10,LAL,,PHX,,D. Knecht,LAL,MISS Knecht 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-18,96,10,1,2.0,0.0,h
+S2425-G0085,2,05:41,LAL,,PHX,,D. Knecht,LAL,MISS Knecht 27' 3PT Jump Shot,Missed Shot,Jump Shot,-45,264,27,1,3.0,0.0,h
+S2425-G0085,2,02:28,LAL,,PHX,,D. Knecht,LAL,Knecht STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0085,2,02:25,LAL,47.0,PHX,56.0,D. Knecht,LAL,Knecht Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,2,02:25,LAL,48.0,PHX,56.0,D. Knecht,LAL,Knecht Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,2,01:50,LAL,,PHX,,D. Knecht,LAL,MISS Knecht 26' 3PT Jump Shot,Missed Shot,Jump Shot,2,257,26,1,3.0,0.0,h
+S2425-G0085,2,01:39,LAL,,PHX,,D. Knecht,LAL,SUB: Christie FOR Knecht,Substitution,,0,0,0,0,,,h
+S2425-G0085,3,02:02,LAL,,PHX,,D. Knecht,LAL,Knecht REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,2,11:38,CLE,,LAL,,D. Knecht,LAL,MISS Knecht 27' 3PT Jump Shot,Missed Shot,Jump Shot,-49,267,27,1,3.0,0.0,v
+S2425-G0118,2,09:00,CLE,,LAL,,D. Knecht,LAL,MISS Knecht 26' 3PT Jump Shot,Missed Shot,Jump Shot,-221,134,26,1,3.0,0.0,v
+S2425-G0118,2,07:57,CLE,,LAL,,D. Knecht,LAL,SUB: Davis FOR Knecht,Substitution,,0,0,0,0,,,v
+S2425-G0118,2,01:08,CLE,,LAL,,D. Knecht,LAL,MISS Knecht 3PT Jump Shot,Missed Shot,Jump Shot,-234,7,0,1,3.0,0.0,v
+S2425-G0118,3,01:15,CLE,,LAL,,D. Knecht,LAL,Knecht Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0118,4,09:41,CLE,107.0,LAL,82.0,D. Knecht,LAL,Knecht 25' 3PT Jump Shot (3 PTS) (Hayes 1 AST),Made Shot,Jump Shot,12,251,25,1,3.0,3.0,v
+S2425-G0118,4,08:27,CLE,,LAL,,D. Knecht,LAL,Knecht REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,4,08:24,CLE,107.0,LAL,86.0,D. Knecht,LAL,Knecht 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,0,13,1,1,2.0,2.0,v
+S2425-G0118,4,08:24,CLE,107.0,LAL,87.0,D. Knecht,LAL,Knecht Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0118,4,08:11,CLE,,LAL,,D. Knecht,LAL,Knecht S.FOUL (P1.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0118,4,07:57,CLE,110.0,LAL,89.0,D. Knecht,LAL,Knecht 8' Driving Floating Bank Jump Shot (8 PTS) (Hayes 2 AST),Made Shot,Driving Floating Bank Jump Shot,-77,19,8,1,2.0,2.0,v
+S2425-G0118,4,07:36,CLE,,LAL,,D. Knecht,LAL,Knecht REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,4,07:30,CLE,110.0,LAL,92.0,D. Knecht,LAL,Knecht 25' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,-102,224,25,1,3.0,3.0,v
+S2425-G0118,4,06:00,CLE,,LAL,,D. Knecht,LAL,MISS Knecht 26' 3PT Jump Shot,Missed Shot,Jump Shot,12,263,26,1,3.0,0.0,v
+S2425-G0118,4,04:03,CLE,122.0,LAL,100.0,D. Knecht,LAL,Knecht 2' Layup (13 PTS) (B. James 1 AST),Made Shot,Layup Shot,1,15,2,1,2.0,2.0,v
+S2425-G0118,4,04:03,CLE,122.0,LAL,101.0,D. Knecht,LAL,Knecht Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0118,4,03:23,CLE,122.0,LAL,103.0,D. Knecht,LAL,Knecht 1' Driving Dunk (16 PTS) (B. James 2 AST),Made Shot,Driving Dunk Shot,-1,5,1,1,2.0,2.0,v
+S2425-G0118,4,02:31,CLE,,LAL,,D. Knecht,LAL,MISS Knecht 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,71,126,14,1,2.0,0.0,v
+S2425-G0118,4,01:32,CLE,,LAL,,D. Knecht,LAL,Knecht REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,4,01:27,CLE,127.0,LAL,106.0,D. Knecht,LAL,Knecht Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0118,4,01:27,CLE,127.0,LAL,107.0,D. Knecht,LAL,Knecht Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0118,4,00:11.900000,CLE,,LAL,,D. Knecht,LAL,MISS Knecht 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,192,171,26,1,3.0,0.0,v

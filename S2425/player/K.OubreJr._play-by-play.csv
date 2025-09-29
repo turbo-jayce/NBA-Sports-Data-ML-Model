@@ -1,0 +1,146 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,1,11:20,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0078,1,10:40,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. P.FOUL (P1.T1) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2425-G0078,1,08:05,TOR,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-222,132,26,1,3.0,0.0,v
+S2425-G0078,1,06:48,TOR,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,129,8,13,1,2.0,0.0,v
+S2425-G0078,1,06:31,TOR,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0078,1,06:31,TOR,16.0,PHI,15.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0078,1,06:14,TOR,,PHI,,K. Oubre Jr.,PHI,SUB: Gordon FOR Oubre Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0078,1,03:57,TOR,23.0,PHI,22.0,K. Oubre Jr.,PHI,Oubre Jr. 3PT Jump Shot (4 PTS) (Maxey 3 AST),Made Shot,Jump Shot,-233,-13,0,1,3.0,3.0,v
+S2425-G0078,1,02:49,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0078,1,02:17,TOR,25.0,PHI,25.0,K. Oubre Jr.,PHI,Oubre Jr. 26' 3PT Pullup Jump Shot (7 PTS) (K. Martin 1 AST),Made Shot,Pullup Jump shot,-98,236,26,1,3.0,3.0,v
+S2425-G0078,1,01:06,TOR,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,105,173,20,1,2.0,0.0,v
+S2425-G0078,2,11:14,TOR,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-89,247,26,1,3.0,0.0,v
+S2425-G0078,2,10:44,TOR,34.0,PHI,33.0,K. Oubre Jr.,PHI,Oubre Jr. 8' Driving Floating Jump Shot (9 PTS) (C. Martin 1 AST),Made Shot,Driving Floating Jump Shot,47,63,8,1,2.0,2.0,v
+S2425-G0078,2,07:25,TOR,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,-43,10,4,1,2.0,0.0,v
+S2425-G0078,2,06:25,TOR,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,136,210,25,1,3.0,0.0,v
+S2425-G0078,2,05:55,TOR,50.0,PHI,42.0,K. Oubre Jr.,PHI,Oubre Jr. 3' Cutting Layup Shot (11 PTS) (Yabusele 1 AST),Made Shot,Cutting Layup Shot,-29,8,3,1,2.0,2.0,v
+S2425-G0078,2,05:55,TOR,50.0,PHI,43.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0078,2,05:01,TOR,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-16,25,3,1,2.0,0.0,v
+S2425-G0078,2,03:58,TOR,,PHI,,K. Oubre Jr.,PHI,SUB: C. Martin FOR Oubre Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0078,3,11:15,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0078,3,09:24,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. L.B.FOUL (P2.T1) (T.Mirkovich),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0078,3,08:59,TOR,66.0,PHI,60.0,K. Oubre Jr.,PHI,Oubre Jr. 20' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,-146,136,20,1,2.0,2.0,v
+S2425-G0078,3,06:32,TOR,70.0,PHI,64.0,K. Oubre Jr.,PHI,Oubre Jr. 6' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,31,57,6,1,2.0,2.0,v
+S2425-G0078,3,05:57,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0078,3,04:29,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,3,03:42,TOR,,PHI,,K. Oubre Jr.,PHI,SUB: Council IV FOR Oubre Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0078,4,10:34,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. Lost Ball Turnover (P4.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0078,4,10:29,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. S.FOUL (P3.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0078,4,09:35,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,4,05:02,TOR,101.0,PHI,87.0,K. Oubre Jr.,PHI,Oubre Jr. 9' Driving Floating Jump Shot (18 PTS) (C. Martin 3 AST),Made Shot,Driving Floating Jump Shot,92,16,9,1,2.0,2.0,v
+S2425-G0078,4,04:30,TOR,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 4' Running Layup,Missed Shot,Running Layup Shot,-42,12,4,1,2.0,0.0,v
+S2425-G0078,4,04:07,TOR,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0078,4,03:38,TOR,101.0,PHI,90.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 1 of 3 (19 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0078,4,03:38,TOR,101.0,PHI,91.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 2 of 3 (20 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0078,4,03:38,TOR,101.0,PHI,92.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 3 of 3 (21 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0078,4,01:05,TOR,107.0,PHI,100.0,K. Oubre Jr.,PHI,Oubre Jr. Driving Dunk (23 PTS),Made Shot,Driving Dunk Shot,-2,0,0,1,2.0,2.0,v
+S2425-G0078,4,00:45.400000,TOR,109.0,PHI,103.0,K. Oubre Jr.,PHI,Oubre Jr. 26' 3PT Jump Shot (26 PTS) (K. Martin 3 AST),Made Shot,Jump Shot,-136,227,26,1,3.0,3.0,v
+S2425-G0078,4,00:37.100000,TOR,111.0,PHI,104.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0078,4,00:37.100000,TOR,111.0,PHI,105.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0097,1,11:14,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. P.FOUL (P1.T1) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2425-G0097,1,10:49,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,225,110,25,1,3.0,0.0,v
+S2425-G0097,1,07:35,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,-7,277,28,1,3.0,0.0,v
+S2425-G0097,1,05:35,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,-4,2,1,2.0,0.0,v
+S2425-G0097,1,05:03,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 2' Driving Dunk,Missed Shot,Driving Dunk Shot,-17,10,2,1,2.0,0.0,v
+S2425-G0097,1,04:41,IND,14.0,PHI,15.0,K. Oubre Jr.,PHI,Oubre Jr. 3' Running Layup (2 PTS) (Gordon 1 AST),Made Shot,Running Layup Shot,20,16,3,1,2.0,2.0,v
+S2425-G0097,1,04:41,IND,14.0,PHI,16.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0097,1,03:47,IND,,PHI,,K. Oubre Jr.,PHI,SUB: McCain FOR Oubre Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0097,2,06:09,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,2,05:31,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. Kicked Ball Violation Turnover (P1.T8),Turnover,Kicked Ball Violation,0,0,0,0,,,v
+S2425-G0097,2,03:56,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,2,02:16,IND,51.0,PHI,47.0,K. Oubre Jr.,PHI,Oubre Jr. 6' Driving Floating Jump Shot (5 PTS) (McCain 1 AST),Made Shot,Driving Floating Jump Shot,0,55,6,1,2.0,2.0,v
+S2425-G0097,2,01:03,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,26,3,1,2.0,0.0,v
+S2425-G0097,2,01:02,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,2,01:01,IND,55.0,PHI,49.0,K. Oubre Jr.,PHI,Oubre Jr. 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-2,-10,1,1,2.0,2.0,v
+S2425-G0097,3,10:11,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,7,25,3,1,2.0,0.0,v
+S2425-G0097,3,09:29,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-130,233,27,1,3.0,0.0,v
+S2425-G0097,3,08:40,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0097,3,08:24,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,3,08:16,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,232,31,0,1,3.0,0.0,v
+S2425-G0097,3,07:47,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,3,05:41,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,3,05:34,IND,68.0,PHI,66.0,K. Oubre Jr.,PHI,Oubre Jr. 9' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,-2,85,9,1,2.0,2.0,v
+S2425-G0097,3,05:03,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,3,04:56,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 7' Driving Layup,Missed Shot,Driving Layup Shot,-64,26,7,1,2.0,0.0,v
+S2425-G0097,3,02:50,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0097,3,02:32,IND,,PHI,,K. Oubre Jr.,PHI,SUB: McCain FOR Oubre Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0097,4,06:55,IND,92.0,PHI,93.0,K. Oubre Jr.,PHI,Oubre Jr. 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,13,28,3,1,2.0,2.0,v
+S2425-G0097,4,05:21,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0097,4,04:27,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,-13,39,4,1,2.0,0.0,v
+S2425-G0097,4,04:11,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,4,03:02,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0097,4,02:09,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,9,23,2,1,2.0,0.0,v
+S2425-G0097,4,01:13,IND,102.0,PHI,99.0,K. Oubre Jr.,PHI,Oubre Jr. 10' Pullup Jump Shot (13 PTS) (Maxey 4 AST),Made Shot,Pullup Jump shot,98,37,10,1,2.0,2.0,v
+S2425-G0097,5,03:03,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-64,48,8,1,2.0,0.0,v
+S2425-G0097,5,01:36,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. S.FOUL (P3.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2425-G0097,5,00:14.700000,IND,,PHI,,K. Oubre Jr.,PHI,MISS Oubre Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0097,5,00:14.700000,IND,112.0,PHI,115.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0097,5,00:13.900000,IND,,PHI,,K. Oubre Jr.,PHI,Oubre Jr. P.FOUL (P4.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2425-G0120,1,11:18,PHI,,DET,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,1,10:42,PHI,,DET,,K. Oubre Jr.,PHI,MISS Oubre Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,24,24,1,3.0,0.0,h
+S2425-G0120,1,09:30,PHI,,DET,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,1,09:23,PHI,5.0,DET,4.0,K. Oubre Jr.,PHI,Oubre Jr. 6' Running Pull-Up Jump Shot (2 PTS),Made Shot,Running Pull-Up Jump Shot,4,55,6,1,2.0,2.0,h
+S2425-G0120,1,07:46,PHI,10.0,DET,4.0,K. Oubre Jr.,PHI,Oubre Jr. 8' Running Pull-Up Jump Shot (4 PTS) (C. Martin 1 AST),Made Shot,Running Pull-Up Jump Shot,59,53,8,1,2.0,2.0,h
+S2425-G0120,1,06:22,PHI,,DET,,K. Oubre Jr.,PHI,MISS Oubre Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,-27,264,27,1,3.0,0.0,h
+S2425-G0120,1,06:00,PHI,,DET,,K. Oubre Jr.,PHI,MISS Oubre Jr. 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,78,8,1,2.0,0.0,h
+S2425-G0120,1,03:12,PHI,,DET,,K. Oubre Jr.,PHI,SUB: Lowry FOR Oubre Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0120,2,06:51,PHI,31.0,DET,39.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0120,2,06:51,PHI,,DET,,K. Oubre Jr.,PHI,MISS Oubre Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0120,2,05:59,PHI,,DET,,K. Oubre Jr.,PHI,SUB: McCain FOR Oubre Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0120,2,04:35,PHI,,DET,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,2,03:27,PHI,,DET,,K. Oubre Jr.,PHI,MISS Oubre Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,-7,56,6,1,2.0,0.0,h
+S2425-G0120,2,03:26,PHI,,DET,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,2,03:26,PHI,,DET,,K. Oubre Jr.,PHI,MISS Oubre Jr. 3' Floating Jump Shot,Missed Shot,Floating Jump shot,-21,16,3,1,2.0,0.0,h
+S2425-G0120,2,03:19,PHI,,DET,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,2,02:36,PHI,,DET,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,2,02:24,PHI,42.0,DET,45.0,K. Oubre Jr.,PHI,Oubre Jr. 8' Driving Floating Jump Shot (7 PTS) (Maxey 3 AST),Made Shot,Driving Floating Jump Shot,-21,75,8,1,2.0,2.0,h
+S2425-G0120,3,11:00,PHI,,DET,,K. Oubre Jr.,PHI,Oubre Jr. S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2425-G0120,3,10:45,PHI,48.0,DET,56.0,K. Oubre Jr.,PHI,Oubre Jr. 26' 3PT Jump Shot (10 PTS) (Maxey 4 AST),Made Shot,Jump Shot,124,233,26,1,3.0,3.0,h
+S2425-G0120,3,08:28,PHI,,DET,,K. Oubre Jr.,PHI,Oubre Jr. S.FOUL (P2.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2425-G0120,3,08:10,PHI,,DET,,K. Oubre Jr.,PHI,MISS Oubre Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,116,227,25,1,3.0,0.0,h
+S2425-G0120,3,07:04,PHI,,DET,,K. Oubre Jr.,PHI,MISS Oubre Jr. 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,125,13,1,2.0,0.0,h
+S2425-G0120,3,07:02,PHI,,DET,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,3,07:00,PHI,,DET,,K. Oubre Jr.,PHI,Oubre Jr. Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0120,3,04:23,PHI,,DET,,K. Oubre Jr.,PHI,MISS Oubre Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,167,190,25,1,3.0,0.0,h
+S2425-G0120,3,04:17,PHI,,DET,,K. Oubre Jr.,PHI,SUB: McCain FOR Oubre Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0120,4,06:05,PHI,,DET,,K. Oubre Jr.,PHI,MISS Oubre Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,13,31,3,1,2.0,0.0,h
+S2425-G0120,4,04:20,PHI,82.0,DET,99.0,K. Oubre Jr.,PHI,Oubre Jr. 26' 3PT Jump Shot (13 PTS) (Maxey 7 AST),Made Shot,Jump Shot,-203,164,26,1,3.0,3.0,h
+S2425-G0120,4,03:30,PHI,,DET,,K. Oubre Jr.,PHI,SUB: Council IV FOR Oubre Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0066,1,11:33,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,40,4,4,1,2.0,0.0,h
+S2425-G0066,1,11:26,PHI,,MIL,,K. Oubre Jr.,PHI,Oubre Jr. S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2425-G0066,1,08:52,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20,24,3,1,2.0,0.0,h
+S2425-G0066,1,07:05,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,194,177,26,1,3.0,0.0,h
+S2425-G0066,1,07:00,PHI,10.0,MIL,6.0,K. Oubre Jr.,PHI,Oubre Jr. 2' Cutting Layup Shot (2 PTS) (C. Martin 1 AST),Made Shot,Cutting Layup Shot,22,1,2,1,2.0,2.0,h
+S2425-G0066,1,06:12,PHI,,MIL,,K. Oubre Jr.,PHI,SUB: Yabusele FOR Oubre Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0066,1,01:31,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,70,30,8,1,2.0,0.0,h
+S2425-G0066,1,01:24,PHI,,MIL,,K. Oubre Jr.,PHI,Oubre Jr. S.FOUL (P2.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2425-G0066,2,11:02,PHI,25.0,MIL,22.0,K. Oubre Jr.,PHI,Oubre Jr. 6' Driving Floating Jump Shot (4 PTS) (Yabusele 2 AST),Made Shot,Driving Floating Jump Shot,-37,43,6,1,2.0,2.0,h
+S2425-G0066,2,09:39,PHI,27.0,MIL,27.0,K. Oubre Jr.,PHI,Oubre Jr. 4' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,-1,35,4,1,2.0,2.0,h
+S2425-G0066,2,08:43,PHI,,MIL,,K. Oubre Jr.,PHI,SUB: Gordon FOR Oubre Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0066,2,05:09,PHI,,MIL,,K. Oubre Jr.,PHI,Oubre Jr. P.FOUL (P3.T2) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2425-G0066,2,04:48,PHI,37.0,MIL,39.0,K. Oubre Jr.,PHI,Oubre Jr. 5' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,6,45,5,1,2.0,2.0,h
+S2425-G0066,2,04:27,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,179,188,26,1,3.0,0.0,h
+S2425-G0066,2,04:24,PHI,,MIL,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,2,04:22,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-10,-13,2,1,2.0,0.0,h
+S2425-G0066,2,03:55,PHI,,MIL,,K. Oubre Jr.,PHI,Oubre Jr. Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0066,2,03:53,PHI,,MIL,,K. Oubre Jr.,PHI,SUB: Lowry FOR Oubre Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0066,3,10:38,PHI,53.0,MIL,64.0,K. Oubre Jr.,PHI,Oubre Jr. 2' Driving Layup (10 PTS) (Maxey 2 AST),Made Shot,Driving Layup Shot,15,10,2,1,2.0,2.0,h
+S2425-G0066,3,08:57,PHI,56.0,MIL,70.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0066,3,08:57,PHI,57.0,MIL,70.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0066,3,08:08,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,54,24,1,3.0,0.0,h
+S2425-G0066,3,06:40,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0066,3,06:40,PHI,64.0,MIL,77.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0066,3,05:20,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,20,270,27,1,3.0,0.0,h
+S2425-G0066,3,05:08,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0066,3,05:08,PHI,65.0,MIL,82.0,K. Oubre Jr.,PHI,Oubre Jr. Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0066,3,04:47,PHI,,MIL,,K. Oubre Jr.,PHI,SUB: C. Martin FOR Oubre Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0066,3,01:23,PHI,78.0,MIL,94.0,K. Oubre Jr.,PHI,Oubre Jr. 6' Fadeaway Jumper (16 PTS),Made Shot,Fadeaway Jump Shot,58,7,6,1,2.0,2.0,h
+S2425-G0066,3,01:04,PHI,,MIL,,K. Oubre Jr.,PHI,Oubre Jr. P.FOUL (P4.T4) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2425-G0066,4,07:42,PHI,92.0,MIL,105.0,K. Oubre Jr.,PHI,Oubre Jr. 2' Running Reverse Layup (18 PTS) (Maxey 3 AST),Made Shot,Running Reverse Layup Shot,-4,18,2,1,2.0,2.0,h
+S2425-G0066,4,06:40,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11,75,8,1,2.0,0.0,h
+S2425-G0066,4,06:25,PHI,,MIL,,K. Oubre Jr.,PHI,Oubre Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,4,06:12,PHI,95.0,MIL,107.0,K. Oubre Jr.,PHI,Oubre Jr. 26' 3PT Jump Shot (21 PTS) (Lowry 6 AST),Made Shot,Jump Shot,-40,257,26,1,3.0,3.0,h
+S2425-G0066,4,02:48,PHI,,MIL,,K. Oubre Jr.,PHI,MISS Oubre Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,36,278,28,1,3.0,0.0,h
+S2425-G0066,4,02:39,PHI,,MIL,,K. Oubre Jr.,PHI,Oubre Jr. P.FOUL (P5.PN) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2425-G0066,4,02:39,PHI,,MIL,,K. Oubre Jr.,PHI,SUB: Quinones FOR Oubre Jr.,Substitution,,0,0,0,0,,,h

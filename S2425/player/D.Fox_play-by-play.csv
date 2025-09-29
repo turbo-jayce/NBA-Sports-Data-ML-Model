@@ -1,0 +1,155 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0096,1,11:40,LAL,,SAC,,D. Fox,SAC,Fox STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0096,1,07:56,LAL,10.0,SAC,6.0,D. Fox,SAC,Fox 3' Cutting Layup Shot (2 PTS) (Sabonis 1 AST),Made Shot,Cutting Layup Shot,-16,28,3,1,2.0,2.0,v
+S2425-G0096,1,07:24,LAL,,SAC,,D. Fox,SAC,MISS Fox 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-174,210,27,1,3.0,0.0,v
+S2425-G0096,1,05:53,LAL,,SAC,,D. Fox,SAC,MISS Fox 28' 3PT Jump Shot,Missed Shot,Jump Shot,127,252,28,1,3.0,0.0,v
+S2425-G0096,1,05:01,LAL,,SAC,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,v
+S2425-G0096,1,01:41,LAL,,SAC,,D. Fox,SAC,MISS Fox 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,115,12,1,2.0,0.0,v
+S2425-G0096,1,01:30,LAL,,SAC,,D. Fox,SAC,Fox REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,1,01:26,LAL,,SAC,,D. Fox,SAC,Fox Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0096,1,01:17,LAL,,SAC,,D. Fox,SAC,Fox REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,1,01:16,LAL,,SAC,,D. Fox,SAC,MISS Fox Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0096,1,01:16,LAL,28.0,SAC,22.0,D. Fox,SAC,Fox Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,1,00:33,LAL,,SAC,,D. Fox,SAC,Fox REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,2,09:19,LAL,,SAC,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,v
+S2425-G0096,2,04:02,LAL,53.0,SAC,46.0,D. Fox,SAC,Fox 1' Running Layup (5 PTS) (Monk 3 AST),Made Shot,Running Layup Shot,-4,11,1,1,2.0,2.0,v
+S2425-G0096,2,03:44,LAL,53.0,SAC,47.0,D. Fox,SAC,Fox Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,2,03:44,LAL,53.0,SAC,48.0,D. Fox,SAC,Fox Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,2,02:34,LAL,,SAC,,D. Fox,SAC,MISS Fox 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-66,128,14,1,2.0,0.0,v
+S2425-G0096,2,00:54.600000,LAL,,SAC,,D. Fox,SAC,MISS Fox 26' 3PT Jump Shot,Missed Shot,Jump Shot,161,206,26,1,3.0,0.0,v
+S2425-G0096,2,00:25.100000,LAL,61.0,SAC,59.0,D. Fox,SAC,Fox Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,2,00:25.100000,LAL,61.0,SAC,60.0,D. Fox,SAC,Fox Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,3,11:21,LAL,,SAC,,D. Fox,SAC,Fox Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0096,3,09:40,LAL,,SAC,,D. Fox,SAC,Fox REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,3,09:38,LAL,66.0,SAC,68.0,D. Fox,SAC,Fox Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,3,09:38,LAL,66.0,SAC,69.0,D. Fox,SAC,Fox Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,3,09:19,LAL,,SAC,,D. Fox,SAC,MISS Fox 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,-4,0,1,3.0,0.0,v
+S2425-G0096,3,09:04,LAL,,SAC,,D. Fox,SAC,Fox Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0096,3,05:23,LAL,,SAC,,D. Fox,SAC,MISS Fox 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-229,20,0,1,3.0,0.0,v
+S2425-G0096,3,05:09,LAL,72.0,SAC,78.0,D. Fox,SAC,Fox 2' Running Layup (13 PTS) (Sabonis 7 AST),Made Shot,Running Layup Shot,-4,15,2,1,2.0,2.0,v
+S2425-G0096,3,04:55,LAL,,SAC,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,v
+S2425-G0096,3,02:50,LAL,79.0,SAC,86.0,D. Fox,SAC,Fox 7' Driving Floating Jump Shot (15 PTS) (Sabonis 8 AST),Made Shot,Driving Floating Jump Shot,6,73,7,1,2.0,2.0,v
+S2425-G0096,3,02:22,LAL,,SAC,,D. Fox,SAC,MISS Fox 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-227,79,24,1,3.0,0.0,v
+S2425-G0096,3,01:33,LAL,,SAC,,D. Fox,SAC,Fox Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0096,3,00:34.700000,LAL,87.0,SAC,91.0,D. Fox,SAC,Fox 27' 3PT Running Jump Shot (18 PTS) (Monk 5 AST),Made Shot,Running Jump Shot,183,194,27,1,3.0,3.0,v
+S2425-G0096,3,00:02.300000,LAL,87.0,SAC,94.0,D. Fox,SAC,Fox 26' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,-47,251,26,1,3.0,3.0,v
+S2425-G0096,4,10:38,LAL,,SAC,,D. Fox,SAC,MISS Fox 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-32,109,11,1,2.0,0.0,v
+S2425-G0096,4,10:28,LAL,,SAC,,D. Fox,SAC,Fox S.FOUL (P1.T2) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2425-G0096,4,10:14,LAL,,SAC,,D. Fox,SAC,MISS Fox 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-105,21,11,1,2.0,0.0,v
+S2425-G0096,4,09:57,LAL,,SAC,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,v
+S2425-G0096,4,07:48,LAL,,SAC,,D. Fox,SAC,Fox STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0096,4,07:43,LAL,108.0,SAC,97.0,D. Fox,SAC,Fox 28' 3PT Running Pull-Up Jump Shot (24 PTS),Made Shot,Running Pull-Up Jump Shot,109,263,28,1,3.0,3.0,v
+S2425-G0096,4,07:24,LAL,,SAC,,D. Fox,SAC,Fox S.FOUL (P2.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0096,4,06:07,LAL,,SAC,,D. Fox,SAC,Fox S.FOUL (P3.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0096,4,05:50,LAL,,SAC,,D. Fox,SAC,Fox Step Out of Bounds Turnover (P5.T13),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0096,4,05:02,LAL,,SAC,,D. Fox,SAC,Fox REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,4,03:52,LAL,119.0,SAC,111.0,D. Fox,SAC,Fox 4' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,-31,29,4,1,2.0,2.0,v
+S2425-G0096,4,01:20,LAL,,SAC,,D. Fox,SAC,MISS Fox 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-188,166,25,1,3.0,0.0,v
+S2425-G0096,4,00:11,LAL,130.0,SAC,127.0,D. Fox,SAC,Fox 3' Driving Layup (28 PTS),Made Shot,Driving Layup Shot,-29,15,3,1,2.0,2.0,v
+S2425-G0096,4,00:03.700000,LAL,,SAC,,D. Fox,SAC,Fox Lost Ball Turnover (P6.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0115,1,08:23,UTA,,SAC,,D. Fox,SAC,MISS Fox 4' Driving Layup,Missed Shot,Driving Layup Shot,-25,29,4,1,2.0,0.0,v
+S2425-G0115,1,06:32,UTA,,SAC,,D. Fox,SAC,MISS Fox 3PT Running Jump Shot,Missed Shot,Running Jump Shot,233,8,0,1,3.0,0.0,v
+S2425-G0115,1,05:26,UTA,,SAC,,D. Fox,SAC,Fox REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,1,05:25,UTA,17.0,SAC,19.0,D. Fox,SAC,Fox 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-85,104,13,1,2.0,2.0,v
+S2425-G0115,1,04:50,UTA,17.0,SAC,21.0,D. Fox,SAC,Fox 3' Cutting Layup Shot (4 PTS) (Sabonis 3 AST),Made Shot,Cutting Layup Shot,-28,11,3,1,2.0,2.0,v
+S2425-G0115,1,04:50,UTA,,SAC,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,v
+S2425-G0115,1,02:07,UTA,17.0,SAC,30.0,D. Fox,SAC,Fox 1' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,7,4,1,1,2.0,2.0,v
+S2425-G0115,1,01:52,UTA,,SAC,,D. Fox,SAC,Fox S.FOUL (P1.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0115,1,01:26,UTA,,SAC,,D. Fox,SAC,MISS Fox 3' Running Layup,Missed Shot,Running Layup Shot,-29,19,3,1,2.0,0.0,v
+S2425-G0115,1,00:28.200000,UTA,,SAC,,D. Fox,SAC,Fox REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,1,00:10.800000,UTA,,SAC,,D. Fox,SAC,MISS Fox 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,82,8,1,2.0,0.0,v
+S2425-G0115,2,08:20,UTA,,SAC,,D. Fox,SAC,Fox REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,2,07:24,UTA,,SAC,,D. Fox,SAC,Fox Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0115,2,07:16,UTA,,SAC,,D. Fox,SAC,MISS Fox 4' Running Layup,Missed Shot,Running Layup Shot,-36,16,4,1,2.0,0.0,v
+S2425-G0115,2,06:35,UTA,,SAC,,D. Fox,SAC,Fox Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0115,2,06:35,UTA,,SAC,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,v
+S2425-G0115,2,00:22.700000,UTA,,SAC,,D. Fox,SAC,MISS Fox 3' Running Layup,Missed Shot,Running Layup Shot,28,11,3,1,2.0,0.0,v
+S2425-G0115,2,00:18.200000,UTA,50.0,SAC,61.0,D. Fox,SAC,Fox 3PT Step Back Jump Shot (9 PTS) (Sabonis 4 AST),Made Shot,Step Back Jump shot,-228,-13,0,1,3.0,3.0,v
+S2425-G0115,2,00:04.200000,UTA,,SAC,,D. Fox,SAC,Fox S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0115,3,10:55,UTA,58.0,SAC,63.0,D. Fox,SAC,Fox 3' Reverse Layup (11 PTS),Made Shot,Reverse Layup Shot,-23,13,3,1,2.0,2.0,v
+S2425-G0115,3,10:07,UTA,,SAC,,D. Fox,SAC,Fox STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0115,3,10:03,UTA,58.0,SAC,67.0,D. Fox,SAC,Fox 4' Running Layup (13 PTS) (Murray 1 AST),Made Shot,Running Layup Shot,-37,11,4,1,2.0,2.0,v
+S2425-G0115,3,08:07,UTA,60.0,SAC,71.0,D. Fox,SAC,Fox 11' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,-64,95,11,1,2.0,2.0,v
+S2425-G0115,3,07:05,UTA,,SAC,,D. Fox,SAC,MISS Fox 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-80,95,12,1,2.0,0.0,v
+S2425-G0115,3,06:00,UTA,,SAC,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,v
+S2425-G0115,3,03:49,UTA,,SAC,,D. Fox,SAC,Fox REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,3,03:29,UTA,,SAC,,D. Fox,SAC,Fox P.FOUL (P3.T4) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2425-G0115,3,03:12,UTA,64.0,SAC,80.0,D. Fox,SAC,Fox Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0115,3,03:12,UTA,64.0,SAC,81.0,D. Fox,SAC,Fox Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0115,3,01:41,UTA,,SAC,,D. Fox,SAC,Fox REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,3,00:35.900000,UTA,66.0,SAC,90.0,D. Fox,SAC,Fox 17' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,-118,126,17,1,2.0,2.0,v
+S2425-G0115,4,10:53,UTA,,SAC,,D. Fox,SAC,Fox Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0115,4,09:46,UTA,,SAC,,D. Fox,SAC,SUB: Sabonis FOR Fox,Substitution,,0,0,0,0,,,v
+S2425-G0076,1,11:31,SAC,,MIN,,D. Fox,SAC,Fox STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0076,1,09:13,SAC,7.0,MIN,8.0,D. Fox,SAC,Fox 10' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-11,97,10,1,2.0,2.0,h
+S2425-G0076,1,08:26,SAC,11.0,MIN,8.0,D. Fox,SAC,Fox 8' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,-81,11,8,1,2.0,2.0,h
+S2425-G0076,1,07:59,SAC,,MIN,,D. Fox,SAC,Fox Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0076,1,06:08,SAC,17.0,MIN,11.0,D. Fox,SAC,Fox 28' 3PT Jump Shot (7 PTS) (Murray 1 AST),Made Shot,Jump Shot,9,280,28,1,3.0,3.0,h
+S2425-G0076,1,05:42,SAC,,MIN,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,h
+S2425-G0076,1,01:04,SAC,27.0,MIN,24.0,D. Fox,SAC,Fox 5' Cutting Dunk Shot (9 PTS) (Lyles 1 AST),Made Shot,Cutting Dunk Shot,-31,36,5,1,2.0,2.0,h
+S2425-G0076,2,09:18,SAC,,MIN,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,h
+S2425-G0076,2,04:55,SAC,,MIN,,D. Fox,SAC,MISS Fox 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-147,217,26,1,3.0,0.0,h
+S2425-G0076,2,03:24,SAC,,MIN,,D. Fox,SAC,Fox L.B.FOUL (P1.T4) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0076,2,00:28,SAC,58.0,MIN,55.0,D. Fox,SAC,Fox Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,2,00:28,SAC,59.0,MIN,55.0,D. Fox,SAC,Fox Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,3,11:28,SAC,61.0,MIN,55.0,D. Fox,SAC,Fox 5' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,-47,17,5,1,2.0,2.0,h
+S2425-G0076,3,10:27,SAC,66.0,MIN,61.0,D. Fox,SAC,Fox 6' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,-50,24,6,1,2.0,2.0,h
+S2425-G0076,3,08:26,SAC,,MIN,,D. Fox,SAC,Fox P.FOUL (P2.T2) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2425-G0076,3,06:06,SAC,,MIN,,D. Fox,SAC,MISS Fox 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-86,231,25,1,3.0,0.0,h
+S2425-G0076,3,05:26,SAC,,MIN,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,h
+S2425-G0076,3,02:00,SAC,,MIN,,D. Fox,SAC,MISS Fox 8' Floating Jump Shot,Missed Shot,Floating Jump shot,0,75,8,1,2.0,0.0,h
+S2425-G0076,3,01:56,SAC,,MIN,,D. Fox,SAC,Fox P.FOUL (P3.T4) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2425-G0076,3,00:14.700000,SAC,,MIN,,D. Fox,SAC,Fox Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0076,3,00:02.300000,SAC,,MIN,,D. Fox,SAC,Fox REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,3,00:01,SAC,,MIN,,D. Fox,SAC,MISS Fox 72' 3PT Jump Shot,Missed Shot,Jump Shot,-172,697,72,1,3.0,0.0,h
+S2425-G0076,4,11:22,SAC,,MIN,,D. Fox,SAC,MISS Fox 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-22,84,9,1,2.0,0.0,h
+S2425-G0076,4,10:17,SAC,,MIN,,D. Fox,SAC,MISS Fox 16' Jump Shot,Missed Shot,Jump Shot,-56,151,16,1,2.0,0.0,h
+S2425-G0076,4,09:00,SAC,,MIN,,D. Fox,SAC,Fox REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,4,08:09,SAC,,MIN,,D. Fox,SAC,MISS Fox 5' Driving Layup,Missed Shot,Driving Layup Shot,-26,37,5,1,2.0,0.0,h
+S2425-G0076,4,07:49,SAC,,MIN,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,h
+S2425-G0076,4,00:27.500000,SAC,,MIN,,D. Fox,SAC,MISS Fox 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,132,18,1,2.0,0.0,h
+S2425-G0112,1,08:55,SAC,,POR,,D. Fox,SAC,MISS Fox 25' 3PT Jump Shot,Missed Shot,Jump Shot,-108,226,25,1,3.0,0.0,h
+S2425-G0112,1,06:22,SAC,14.0,POR,4.0,D. Fox,SAC,Fox Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,06:22,SAC,15.0,POR,4.0,D. Fox,SAC,Fox Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,05:48,SAC,,POR,,D. Fox,SAC,Fox Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0112,1,05:46,SAC,,POR,,D. Fox,SAC,SUB: Monk FOR Fox,Substitution,,0,0,0,0,,,h
+S2425-G0112,1,03:13,SAC,,POR,,D. Fox,SAC,Fox P.FOUL (P1.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2425-G0112,1,00:45.800000,SAC,25.0,POR,16.0,D. Fox,SAC,Fox 11' Driving Floating Jump Shot (4 PTS) (Len 1 AST),Made Shot,Driving Floating Jump Shot,1,114,11,1,2.0,2.0,h
+S2425-G0112,1,00:08.500000,SAC,,POR,,D. Fox,SAC,MISS Fox 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-92,155,18,1,2.0,0.0,h
+S2425-G0112,2,11:42,SAC,27.0,POR,20.0,D. Fox,SAC,Fox 12' Floating Jump Shot (6 PTS) (Len 2 AST),Made Shot,Floating Jump shot,54,109,12,1,2.0,2.0,h
+S2425-G0112,2,11:20,SAC,,POR,,D. Fox,SAC,Fox REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,2,11:01,SAC,,POR,,D. Fox,SAC,MISS Fox 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,89,242,26,1,3.0,0.0,h
+S2425-G0112,2,09:50,SAC,,POR,,D. Fox,SAC,Fox REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,2,09:43,SAC,,POR,,D. Fox,SAC,SUB: Lyles FOR Fox,Substitution,,0,0,0,0,,,h
+S2425-G0112,2,04:48,SAC,,POR,,D. Fox,SAC,Fox REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,2,04:43,SAC,,POR,,D. Fox,SAC,Fox Kicked Ball Violation Turnover (P2.T6),Turnover,Kicked Ball Violation,0,0,0,0,,,h
+S2425-G0112,2,04:24,SAC,,POR,,D. Fox,SAC,Fox Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0112,2,02:52,SAC,47.0,POR,39.0,D. Fox,SAC,Fox 25' 3PT Jump Shot (9 PTS) (Sabonis 2 AST),Made Shot,Jump Shot,186,166,25,1,3.0,3.0,h
+S2425-G0112,2,02:19,SAC,,POR,,D. Fox,SAC,MISS Fox 4' Driving Layup,Missed Shot,Driving Layup Shot,-34,21,4,1,2.0,0.0,h
+S2425-G0112,2,01:49,SAC,,POR,,D. Fox,SAC,MISS Fox 25' 3PT Jump Shot,Missed Shot,Jump Shot,152,199,25,1,3.0,0.0,h
+S2425-G0112,2,00:55.900000,SAC,,POR,,D. Fox,SAC,Fox REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,2,00:55.900000,SAC,49.0,POR,43.0,D. Fox,SAC,Fox Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0112,2,00:32.300000,SAC,,POR,,D. Fox,SAC,MISS Fox 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-15,57,6,1,2.0,0.0,h
+S2425-G0112,2,00:07.600000,SAC,,POR,,D. Fox,SAC,Fox REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,3,11:28,SAC,,POR,,D. Fox,SAC,Fox STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0112,3,11:12,SAC,,POR,,D. Fox,SAC,Fox S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2425-G0112,3,10:24,SAC,56.0,POR,48.0,D. Fox,SAC,Fox 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,-16,26,3,1,2.0,2.0,h
+S2425-G0112,3,10:01,SAC,57.0,POR,51.0,D. Fox,SAC,Fox Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,3,10:01,SAC,58.0,POR,51.0,D. Fox,SAC,Fox Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,3,09:03,SAC,,POR,,D. Fox,SAC,MISS Fox 4' Driving Layup,Missed Shot,Driving Layup Shot,-26,27,4,1,2.0,0.0,h
+S2425-G0112,3,08:13,SAC,,POR,,D. Fox,SAC,MISS Fox 3PT Jump Shot,Missed Shot,Jump Shot,228,34,0,1,3.0,0.0,h
+S2425-G0112,3,07:08,SAC,63.0,POR,58.0,D. Fox,SAC,Fox 26' 3PT Jump Shot (18 PTS) (Sabonis 3 AST),Made Shot,Jump Shot,132,228,26,1,3.0,3.0,h
+S2425-G0112,3,04:40,SAC,,POR,,D. Fox,SAC,Fox P.FOUL (P3.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2425-G0112,3,03:11,SAC,78.0,POR,65.0,D. Fox,SAC,Fox 18' Pullup Jump Shot (20 PTS) (Sabonis 5 AST),Made Shot,Pullup Jump shot,-86,155,18,1,2.0,2.0,h
+S2425-G0112,3,02:59,SAC,,POR,,D. Fox,SAC,SUB: Lyles FOR Fox,Substitution,,0,0,0,0,,,h
+S2425-G0112,3,00:10.800000,SAC,,POR,,D. Fox,SAC,Fox STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0112,3,00:08,SAC,,POR,,D. Fox,SAC,SUB: Len FOR Fox,Substitution,,0,0,0,0,,,h
+S2425-G0112,4,10:24,SAC,,POR,,D. Fox,SAC,MISS Fox 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,206,26,1,3.0,0.0,h
+S2425-G0112,4,10:01,SAC,96.0,POR,73.0,D. Fox,SAC,Fox 2' Cutting Layup Shot (22 PTS) (Huerter 4 AST),Made Shot,Cutting Layup Shot,-12,21,2,1,2.0,2.0,h
+S2425-G0112,4,07:43,SAC,,POR,,D. Fox,SAC,SUB: Ellis FOR Fox,Substitution,,0,0,0,0,,,h
+S2425-G0112,4,05:35,SAC,,POR,,D. Fox,SAC,MISS Fox 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-69,106,13,1,2.0,0.0,h
+S2425-G0112,4,05:12,SAC,101.0,POR,86.0,D. Fox,SAC,Fox 2' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,-5,16,2,1,2.0,2.0,h
+S2425-G0112,4,04:50,SAC,,POR,,D. Fox,SAC,Fox P.FOUL (P4.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2425-G0112,4,03:13,SAC,,POR,,D. Fox,SAC,Fox REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,4,03:05,SAC,,POR,,D. Fox,SAC,MISS Fox 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,157,202,26,1,3.0,0.0,h
+S2425-G0112,4,02:49,SAC,,POR,,D. Fox,SAC,SUB: I. Jones FOR Fox,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,5 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,4,00:56.300000,GSW,104.0,NOP,89.0,R. Beekman,GSW,Beekman 3' Driving Layup (2 PTS) (Spencer 1 AST),Made Shot,Driving Layup Shot,31,12,3,1,2.0,2.0,h
+S2425-G0126,4,00:24.800000,GSW,,NOP,,R. Beekman,GSW,Beekman REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,02:25,GSW,,NOP,,R. Beekman,GSW,Beekman S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,4,02:04,GSW,,NOP,,R. Beekman,GSW,Beekman STEAL (1 STL),,,0,0,0,0,,,h

@@ -1,0 +1,124 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,1,10:24,MIA,,ORL,,T. Herro,MIA,Herro BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0065,1,09:08,MIA,,ORL,,T. Herro,MIA,MISS Herro 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-2,252,25,1,3.0,0.0,h
+S2425-G0065,1,06:08,MIA,,ORL,,T. Herro,MIA,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,1,05:42,MIA,19.0,ORL,11.0,T. Herro,MIA,Herro 2' Running Layup (2 PTS) (Butler 2 AST),Made Shot,Running Layup Shot,16,-10,2,1,2.0,2.0,h
+S2425-G0065,1,05:01,MIA,21.0,ORL,14.0,T. Herro,MIA,Herro 3' Turnaround Bank Shot (4 PTS) (Butler 3 AST),Made Shot,Turnaround Bank shot,-29,-2,3,1,2.0,2.0,h
+S2425-G0065,1,04:39,MIA,,ORL,,T. Herro,MIA,Herro Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0065,1,03:51,MIA,24.0,ORL,22.0,T. Herro,MIA,Herro 24' 3PT Pullup Jump Shot (7 PTS) (Jaquez Jr. 1 AST),Made Shot,Pullup Jump shot,-195,141,24,1,3.0,3.0,h
+S2425-G0065,1,03:07,MIA,,ORL,,T. Herro,MIA,SUB: Rozier FOR Herro,Substitution,,0,0,0,0,,,h
+S2425-G0065,2,09:46,MIA,,ORL,,T. Herro,MIA,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,09:04,MIA,39.0,ORL,35.0,T. Herro,MIA,Herro 1' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,-10,-4,1,1,2.0,2.0,h
+S2425-G0065,2,08:36,MIA,42.0,ORL,38.0,T. Herro,MIA,Herro 25' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,178,182,25,1,3.0,3.0,h
+S2425-G0065,2,08:26,MIA,,ORL,,T. Herro,MIA,Herro P.FOUL (P1.T3) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2425-G0065,2,03:36,MIA,50.0,ORL,49.0,T. Herro,MIA,Herro Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0065,2,03:36,MIA,51.0,ORL,49.0,T. Herro,MIA,Herro Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0065,2,01:30,MIA,,ORL,,T. Herro,MIA,Herro REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,00:51.300000,MIA,,ORL,,T. Herro,MIA,MISS Herro 2' Driving Layup,Missed Shot,Driving Layup Shot,16,-4,2,1,2.0,0.0,h
+S2425-G0065,3,10:49,MIA,,ORL,,T. Herro,MIA,MISS Herro 25' 3PT Jump Shot,Missed Shot,Jump Shot,183,169,25,1,3.0,0.0,h
+S2425-G0065,3,10:36,MIA,,ORL,,T. Herro,MIA,Herro REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,3,07:05,MIA,,ORL,,T. Herro,MIA,Herro REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,3,07:01,MIA,,ORL,,T. Herro,MIA,MISS Herro 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-12,17,2,1,2.0,0.0,h
+S2425-G0065,3,06:35,MIA,,ORL,,T. Herro,MIA,MISS Herro 25' 3PT Jump Shot,Missed Shot,Jump Shot,223,121,25,1,3.0,0.0,h
+S2425-G0065,3,03:41,MIA,,ORL,,T. Herro,MIA,MISS Herro 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,27,3,1,2.0,0.0,h
+S2425-G0065,3,02:24,MIA,,ORL,,T. Herro,MIA,SUB: Bryant FOR Herro,Substitution,,0,0,0,0,,,h
+S2425-G0088,1,11:24,CHA,,MIA,,T. Herro,MIA,MISS Herro 25' 3PT Jump Shot,Missed Shot,Jump Shot,-28,251,25,1,3.0,0.0,v
+S2425-G0088,1,06:21,CHA,8.0,MIA,7.0,T. Herro,MIA,Herro 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,126,142,19,1,2.0,2.0,v
+S2425-G0088,1,04:51,CHA,,MIA,,T. Herro,MIA,MISS Herro Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0088,1,04:51,CHA,14.0,MIA,10.0,T. Herro,MIA,Herro Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,1,04:35,CHA,,MIA,,T. Herro,MIA,Herro STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0088,1,04:17,CHA,14.0,MIA,14.0,T. Herro,MIA,Herro 1' Running Dunk (5 PTS) (Jović 1 AST),Made Shot,Running Dunk Shot,10,0,1,1,2.0,2.0,v
+S2425-G0088,1,03:09,CHA,,MIA,,T. Herro,MIA,SUB: Bryant FOR Herro,Substitution,,0,0,0,0,,,v
+S2425-G0088,2,06:58,CHA,,MIA,,T. Herro,MIA,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,2,05:46,CHA,,MIA,,T. Herro,MIA,MISS Herro 3' Driving Layup,Missed Shot,Driving Layup Shot,-22,14,3,1,2.0,0.0,v
+S2425-G0088,2,04:20,CHA,36.0,MIA,44.0,T. Herro,MIA,Herro 24' 3PT Running Jump Shot (8 PTS) (Jović 3 AST),Made Shot,Running Jump Shot,243,4,24,1,3.0,3.0,v
+S2425-G0088,2,02:09,CHA,,MIA,,T. Herro,MIA,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,2,01:56,CHA,41.0,MIA,50.0,T. Herro,MIA,Herro 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-12,9,2,1,2.0,2.0,v
+S2425-G0088,2,01:45,CHA,,MIA,,T. Herro,MIA,Herro S.FOUL (P1.T3) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2425-G0088,2,01:09,CHA,45.0,MIA,52.0,T. Herro,MIA,Herro 3' Driving Layup (12 PTS) (Rozier 1 AST),Made Shot,Driving Layup Shot,29,5,3,1,2.0,2.0,v
+S2425-G0088,2,01:09,CHA,45.0,MIA,53.0,T. Herro,MIA,Herro Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0088,2,00:31.600000,CHA,,MIA,,T. Herro,MIA,Herro AWAY.FROM.PLAY.FOUL (P2.PN) (K.Lane),Foul,Away From Play,0,0,0,0,,,v
+S2425-G0088,2,00:26,CHA,,MIA,,T. Herro,MIA,Herro REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,2,00:03.900000,CHA,,MIA,,T. Herro,MIA,MISS Herro 26' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,228,129,26,1,3.0,0.0,v
+S2425-G0088,3,11:29,CHA,,MIA,,T. Herro,MIA,Herro Violation:Kicked Ball (R.Acosta),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0088,3,09:56,CHA,,MIA,,T. Herro,MIA,MISS Herro 4' Driving Layup,Missed Shot,Driving Layup Shot,-1,44,4,1,2.0,0.0,v
+S2425-G0088,3,09:49,CHA,50.0,MIA,59.0,T. Herro,MIA,Herro Free Throw 1 of 3 (14 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0088,3,09:49,CHA,50.0,MIA,60.0,T. Herro,MIA,Herro Free Throw 2 of 3 (15 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0088,3,09:49,CHA,50.0,MIA,61.0,T. Herro,MIA,Herro Free Throw 3 of 3 (16 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0088,3,08:53,CHA,,MIA,,T. Herro,MIA,MISS Herro 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-37,80,9,1,2.0,0.0,v
+S2425-G0088,3,08:18,CHA,,MIA,,T. Herro,MIA,Herro OFF.Foul (P3) (R.Acosta),Foul,Offensive,0,0,0,0,,,v
+S2425-G0088,3,08:18,CHA,,MIA,,T. Herro,MIA,Herro Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0088,3,05:36,CHA,,MIA,,T. Herro,MIA,MISS Herro 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,26,269,27,1,3.0,0.0,v
+S2425-G0088,3,05:24,CHA,,MIA,,T. Herro,MIA,Herro REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,3,04:03,CHA,,MIA,,T. Herro,MIA,MISS Herro 3' Running Layup,Missed Shot,Running Layup Shot,-27,22,3,1,2.0,0.0,v
+S2425-G0088,3,03:58,CHA,,MIA,,T. Herro,MIA,Herro REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,3,03:57,CHA,,MIA,,T. Herro,MIA,Herro Traveling Turnover (P2.T9),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0088,3,03:21,CHA,,MIA,,T. Herro,MIA,SUB: Robinson FOR Herro,Substitution,,0,0,0,0,,,v
+S2425-G0088,4,07:01,CHA,,MIA,,T. Herro,MIA,Herro Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0088,4,05:54,CHA,88.0,MIA,97.0,T. Herro,MIA,Herro 26' 3PT Jump Shot (19 PTS) (Adebayo 3 AST),Made Shot,Jump Shot,137,220,26,1,3.0,3.0,v
+S2425-G0088,4,03:50,CHA,,MIA,,T. Herro,MIA,MISS Herro 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-148,237,28,1,3.0,0.0,v
+S2425-G0088,4,01:15,CHA,101.0,MIA,107.0,T. Herro,MIA,Herro 29' 3PT Pullup Jump Shot (22 PTS) (Rozier 3 AST),Made Shot,Pullup Jump shot,44,290,29,1,3.0,3.0,v
+S2425-G0122,1,09:34,MIA,6.0,NYK,7.0,T. Herro,MIA,Herro 8' Driving Floating Jump Shot (2 PTS) (Adebayo 2 AST),Made Shot,Driving Floating Jump Shot,5,78,8,1,2.0,2.0,h
+S2425-G0122,1,08:06,MIA,7.0,NYK,9.0,T. Herro,MIA,Herro Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,1,08:06,MIA,8.0,NYK,9.0,T. Herro,MIA,Herro Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,1,07:21,MIA,11.0,NYK,12.0,T. Herro,MIA,Herro 27' 3PT Jump Shot (7 PTS) (Butler 1 AST),Made Shot,Jump Shot,76,262,27,1,3.0,3.0,h
+S2425-G0122,1,06:49,MIA,13.0,NYK,12.0,T. Herro,MIA,Herro 5' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,2,50,5,1,2.0,2.0,h
+S2425-G0122,1,06:12,MIA,,NYK,,T. Herro,MIA,MISS Herro 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-103,21,11,1,2.0,0.0,h
+S2425-G0122,1,03:45,MIA,19.0,NYK,18.0,T. Herro,MIA,Herro 24' 3PT Running Jump Shot (12 PTS) (Rozier 1 AST),Made Shot,Running Jump Shot,-167,178,24,1,3.0,3.0,h
+S2425-G0122,1,01:45,MIA,27.0,NYK,20.0,T. Herro,MIA,Herro 4' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,-21,30,4,1,2.0,2.0,h
+S2425-G0122,1,01:27,MIA,,NYK,,T. Herro,MIA,SUB: Butler FOR Herro,Substitution,,0,0,0,0,,,h
+S2425-G0122,2,05:25,MIA,,NYK,,T. Herro,MIA,MISS Herro 25' 3PT Jump Shot,Missed Shot,Jump Shot,-210,141,25,1,3.0,0.0,h
+S2425-G0122,2,05:09,MIA,,NYK,,T. Herro,MIA,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,04:54,MIA,43.0,NYK,40.0,T. Herro,MIA,Herro 26' 3PT Step Back Jump Shot (17 PTS) (Rozier 2 AST),Made Shot,Step Back Jump shot,120,226,26,1,3.0,3.0,h
+S2425-G0122,2,03:37,MIA,,NYK,,T. Herro,MIA,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,03:26,MIA,,NYK,,T. Herro,MIA,MISS Herro 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-130,219,25,1,3.0,0.0,h
+S2425-G0122,2,02:04,MIA,52.0,NYK,46.0,T. Herro,MIA,Herro 26' 3PT Jump Shot (20 PTS) (Butler 3 AST),Made Shot,Jump Shot,-85,250,26,1,3.0,3.0,h
+S2425-G0122,2,00:09.700000,MIA,,NYK,,T. Herro,MIA,Herro P.FOUL (P1.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2425-G0122,2,00:01.200000,MIA,,NYK,,T. Herro,MIA,MISS Herro 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,119,242,27,1,3.0,0.0,h
+S2425-G0122,3,09:05,MIA,,NYK,,T. Herro,MIA,Herro REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,3,08:56,MIA,67.0,NYK,57.0,T. Herro,MIA,Herro 27' 3PT Pullup Jump Shot (23 PTS) (Adebayo 3 AST),Made Shot,Pullup Jump shot,70,263,27,1,3.0,3.0,h
+S2425-G0122,3,08:29,MIA,,NYK,,T. Herro,MIA,Herro REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,3,07:14,MIA,,NYK,,T. Herro,MIA,MISS Herro 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-42,70,8,1,2.0,0.0,h
+S2425-G0122,3,06:42,MIA,,NYK,,T. Herro,MIA,Herro Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0122,3,06:38,MIA,,NYK,,T. Herro,MIA,Herro STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0122,3,05:47,MIA,,NYK,,T. Herro,MIA,MISS Herro 6' Jump Shot,Missed Shot,Jump Shot,1,58,6,1,2.0,0.0,h
+S2425-G0122,3,04:51,MIA,74.0,NYK,71.0,T. Herro,MIA,Herro 5' Driving Finger Roll Layup (25 PTS),Made Shot,Driving Finger Roll Layup Shot,-23,44,5,1,2.0,2.0,h
+S2425-G0122,3,04:24,MIA,77.0,NYK,74.0,T. Herro,MIA,Herro 25' 3PT Jump Shot (28 PTS) (Rozier 5 AST),Made Shot,Jump Shot,125,211,25,1,3.0,3.0,h
+S2425-G0122,3,03:15,MIA,,NYK,,T. Herro,MIA,MISS Herro 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,60,251,26,1,3.0,0.0,h
+S2425-G0122,3,03:14,MIA,,NYK,,T. Herro,MIA,SUB: Butler FOR Herro,Substitution,,0,0,0,0,,,h
+S2425-G0122,4,06:55,MIA,94.0,NYK,97.0,T. Herro,MIA,Herro 26' 3PT Jump Shot (31 PTS) (Rozier 6 AST),Made Shot,Jump Shot,-18,257,26,1,3.0,3.0,h
+S2425-G0122,4,04:55,MIA,,NYK,,T. Herro,MIA,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,37,259,26,1,3.0,0.0,h
+S2425-G0122,4,03:57,MIA,,NYK,,T. Herro,MIA,Herro REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,4,00:47.300000,MIA,,NYK,,T. Herro,MIA,Herro P.FOUL (P2.PN) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2425-G0122,4,00:27,MIA,107.0,NYK,116.0,T. Herro,MIA,Herro 25' 3PT Pullup Jump Shot (34 PTS) (Jović 1 AST),Made Shot,Pullup Jump shot,230,86,25,1,3.0,3.0,h
+S2425-G0105,1,09:43,MIA,7.0,DET,8.0,T. Herro,MIA,Herro Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,3,0,1,2.0,2.0,h
+S2425-G0105,1,09:20,MIA,,DET,,T. Herro,MIA,MISS Herro 30' 3PT Jump Shot,Missed Shot,Jump Shot,-51,293,30,1,3.0,0.0,h
+S2425-G0105,1,08:30,MIA,9.0,DET,10.0,T. Herro,MIA,Herro 6' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-53,37,6,1,2.0,2.0,h
+S2425-G0105,1,07:57,MIA,11.0,DET,12.0,T. Herro,MIA,Herro 11' Driving Floating Bank Jump Shot (6 PTS) (Butler 2 AST),Made Shot,Driving Floating Bank Jump Shot,-99,51,11,1,2.0,2.0,h
+S2425-G0105,1,06:03,MIA,18.0,DET,17.0,T. Herro,MIA,Herro 26' 3PT Jump Shot (9 PTS) (Jović 1 AST),Made Shot,Jump Shot,-151,209,26,1,3.0,3.0,h
+S2425-G0105,1,05:14,MIA,,DET,,T. Herro,MIA,MISS Herro 5' Driving Layup,Missed Shot,Driving Layup Shot,43,22,5,1,2.0,0.0,h
+S2425-G0105,1,04:01,MIA,,DET,,T. Herro,MIA,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,1,03:57,MIA,,DET,,T. Herro,MIA,MISS Herro 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,150,231,28,1,3.0,0.0,h
+S2425-G0105,1,03:05,MIA,,DET,,T. Herro,MIA,SUB: Bryant FOR Herro,Substitution,,0,0,0,0,,,h
+S2425-G0105,2,06:02,MIA,43.0,DET,41.0,T. Herro,MIA,Herro Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0105,2,06:02,MIA,44.0,DET,41.0,T. Herro,MIA,Herro Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0105,2,02:31,MIA,57.0,DET,49.0,T. Herro,MIA,Herro 26' 3PT Jump Shot (14 PTS) (Rozier 3 AST),Made Shot,Jump Shot,125,226,26,1,3.0,3.0,h
+S2425-G0105,2,00:47.900000,MIA,,DET,,T. Herro,MIA,Herro Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0105,3,10:34,MIA,,DET,,T. Herro,MIA,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,207,26,1,3.0,0.0,h
+S2425-G0105,3,10:06,MIA,,DET,,T. Herro,MIA,MISS Herro 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,203,162,26,1,3.0,0.0,h
+S2425-G0105,3,09:59,MIA,,DET,,T. Herro,MIA,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,130,223,26,1,3.0,0.0,h
+S2425-G0105,3,07:54,MIA,,DET,,T. Herro,MIA,MISS Herro 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,52,6,1,2.0,0.0,h
+S2425-G0105,3,07:21,MIA,,DET,,T. Herro,MIA,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,161,209,26,1,3.0,0.0,h
+S2425-G0105,3,06:21,MIA,,DET,,T. Herro,MIA,MISS Herro 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,232,-9,0,1,3.0,0.0,h
+S2425-G0105,3,04:36,MIA,,DET,,T. Herro,MIA,Herro STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0105,3,04:33,MIA,73.0,DET,70.0,T. Herro,MIA,Herro 1' Running Dunk (16 PTS),Made Shot,Running Dunk Shot,-9,6,1,1,2.0,2.0,h
+S2425-G0105,3,04:08,MIA,,DET,,T. Herro,MIA,MISS Herro 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,8,27,3,1,2.0,0.0,h
+S2425-G0105,3,02:55,MIA,,DET,,T. Herro,MIA,SUB: Robinson FOR Herro,Substitution,,0,0,0,0,,,h
+S2425-G0105,4,07:34,MIA,,DET,,T. Herro,MIA,Herro Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0105,4,06:51,MIA,93.0,DET,87.0,T. Herro,MIA,Herro 26' 3PT Jump Shot (19 PTS) (Adebayo 4 AST),Made Shot,Jump Shot,120,225,26,1,3.0,3.0,h
+S2425-G0105,4,06:00,MIA,,DET,,T. Herro,MIA,MISS Herro 26' 3PT Jump Shot,Missed Shot,Jump Shot,78,248,26,1,3.0,0.0,h
+S2425-G0105,4,03:58,MIA,,DET,,T. Herro,MIA,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,03:05,MIA,,DET,,T. Herro,MIA,MISS Herro 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,3,102,10,1,2.0,0.0,h
+S2425-G0105,4,02:07,MIA,,DET,,T. Herro,MIA,Herro REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,01:38,MIA,,DET,,T. Herro,MIA,MISS Herro 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,224,63,0,1,3.0,0.0,h
+S2425-G0105,4,00:29.800000,MIA,,DET,,T. Herro,MIA,Herro REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h

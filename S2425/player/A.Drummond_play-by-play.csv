@@ -1,0 +1,157 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,1,10:04,TOR,7.0,PHI,5.0,A. Drummond,PHI,Drummond 6' Hook Shot (2 PTS) (Lowry 1 AST),Made Shot,Hook Shot,4,58,6,1,2.0,2.0,v
+S2425-G0078,1,09:54,TOR,,PHI,,A. Drummond,PHI,Drummond STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0078,1,09:36,TOR,,PHI,,A. Drummond,PHI,Drummond P.FOUL (P1.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2425-G0078,1,08:51,TOR,,PHI,,A. Drummond,PHI,Drummond S.FOUL (P2.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0078,1,08:51,TOR,,PHI,,A. Drummond,PHI,SUB: Yabusele FOR Drummond,Substitution,,0,0,0,0,,,v
+S2425-G0078,2,10:00,TOR,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,2,10:00,TOR,,PHI,,A. Drummond,PHI,MISS Drummond 2' Layup,Missed Shot,Layup Shot,-12,17,2,1,2.0,0.0,v
+S2425-G0078,2,09:22,TOR,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,2,09:22,TOR,,PHI,,A. Drummond,PHI,MISS Drummond 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-7,14,2,1,2.0,0.0,v
+S2425-G0078,2,08:29,TOR,,PHI,,A. Drummond,PHI,MISS Drummond 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-62,-4,6,1,2.0,0.0,v
+S2425-G0078,2,08:07,TOR,42.0,PHI,40.0,A. Drummond,PHI,Drummond 6' Fadeaway Jumper (4 PTS) (McCain 1 AST),Made Shot,Fadeaway Jump Shot,-56,27,6,1,2.0,2.0,v
+S2425-G0078,2,07:58,TOR,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,2,07:37,TOR,,PHI,,A. Drummond,PHI,SUB: K. Martin FOR Drummond,Substitution,,0,0,0,0,,,v
+S2425-G0078,2,03:38,TOR,,PHI,,A. Drummond,PHI,MISS Drummond Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0078,2,03:38,TOR,,PHI,,A. Drummond,PHI,MISS Drummond Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0078,2,03:20,TOR,,PHI,,A. Drummond,PHI,Drummond STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0078,2,02:59,TOR,,PHI,,A. Drummond,PHI,MISS Drummond Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0078,2,02:59,TOR,57.0,PHI,51.0,A. Drummond,PHI,Drummond Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0078,2,02:52,TOR,,PHI,,A. Drummond,PHI,Drummond STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0078,2,02:49,TOR,57.0,PHI,52.0,A. Drummond,PHI,Drummond Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0078,2,02:49,TOR,,PHI,,A. Drummond,PHI,MISS Drummond Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0078,2,02:10,TOR,,PHI,,A. Drummond,PHI,MISS Drummond 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,23,53,6,1,2.0,0.0,v
+S2425-G0078,2,02:04,TOR,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,2,02:04,TOR,,PHI,,A. Drummond,PHI,MISS Drummond Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0078,2,01:58,TOR,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,2,01:49,TOR,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,2,00:53,TOR,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,2,00:53,TOR,62.0,PHI,56.0,A. Drummond,PHI,Drummond Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0078,2,00:13.200000,TOR,,PHI,,A. Drummond,PHI,SUB: McCain FOR Drummond,Substitution,,0,0,0,0,,,v
+S2425-G0078,3,10:36,TOR,,PHI,,A. Drummond,PHI,Drummond BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0078,3,10:31,TOR,,PHI,,A. Drummond,PHI,Drummond STEAL (4 STL),,,0,0,0,0,,,v
+S2425-G0078,3,10:13,TOR,,PHI,,A. Drummond,PHI,MISS Drummond 6' Driving Layup,Missed Shot,Driving Layup Shot,7,63,6,1,2.0,0.0,v
+S2425-G0078,3,10:13,TOR,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,3,10:13,TOR,64.0,PHI,57.0,A. Drummond,PHI,Drummond Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0078,3,10:13,TOR,,PHI,,A. Drummond,PHI,MISS Drummond Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0078,3,09:35,TOR,,PHI,,A. Drummond,PHI,Drummond OFF.Foul (P3) (P.Fraher),Foul,Offensive,0,0,0,0,,,v
+S2425-G0078,3,09:35,TOR,,PHI,,A. Drummond,PHI,Drummond Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0078,3,08:31,TOR,66.0,PHI,62.0,A. Drummond,PHI,Drummond Alley Oop Dunk (11 PTS) (Oubre Jr. 1 AST),Made Shot,Alley Oop Dunk Shot,0,1,0,1,2.0,2.0,v
+S2425-G0078,3,08:01,TOR,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,3,08:01,TOR,,PHI,,A. Drummond,PHI,Drummond Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0078,3,08:01,TOR,,PHI,,A. Drummond,PHI,Drummond BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0078,3,07:28,TOR,,PHI,,A. Drummond,PHI,Drummond Violation:Defensive Goaltending (T.Mirkovich),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0078,3,07:10,TOR,,PHI,,A. Drummond,PHI,MISS Drummond 2' Layup,Missed Shot,Layup Shot,-21,6,2,1,2.0,0.0,v
+S2425-G0078,3,05:23,TOR,,PHI,,A. Drummond,PHI,SUB: Yabusele FOR Drummond,Substitution,,0,0,0,0,,,v
+S2425-G0078,4,07:29,TOR,,PHI,,A. Drummond,PHI,Drummond S.FOUL (P4.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0078,4,06:33,TOR,,PHI,,A. Drummond,PHI,Drummond S.FOUL (P5.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0078,4,06:33,TOR,,PHI,,A. Drummond,PHI,SUB: Yabusele FOR Drummond,Substitution,,0,0,0,0,,,v
+S2425-G0097,1,11:18,IND,,PHI,,A. Drummond,PHI,Drummond Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0097,1,10:56,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,1,09:43,IND,,PHI,,A. Drummond,PHI,Drummond BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0097,1,08:36,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,1,08:13,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,1,07:47,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,1,05:33,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,1,05:32,IND,11.0,PHI,10.0,A. Drummond,PHI,Drummond 2' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,18,-5,2,1,2.0,2.0,v
+S2425-G0097,1,05:19,IND,,PHI,,A. Drummond,PHI,Drummond S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0097,1,05:19,IND,,PHI,,A. Drummond,PHI,SUB: Yabusele FOR Drummond,Substitution,,0,0,0,0,,,v
+S2425-G0097,2,04:43,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,2,04:21,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,2,03:18,IND,,PHI,,A. Drummond,PHI,Drummond OFF.Foul (P2) (J.Sterling),Foul,Offensive,0,0,0,0,,,v
+S2425-G0097,2,03:18,IND,,PHI,,A. Drummond,PHI,Drummond Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0097,2,00:02.600000,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,2,00:01.200000,IND,,PHI,,A. Drummond,PHI,MISS Drummond 59' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-11,589,59,1,3.0,0.0,v
+S2425-G0097,3,11:03,IND,61.0,PHI,54.0,A. Drummond,PHI,Drummond 2' Dunk (4 PTS) (Lowry 1 AST),Made Shot,Dunk Shot,1,20,2,1,2.0,2.0,v
+S2425-G0097,3,11:03,IND,61.0,PHI,55.0,A. Drummond,PHI,Drummond Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0097,3,10:08,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,3,10:08,IND,63.0,PHI,58.0,A. Drummond,PHI,Drummond Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0097,3,09:35,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,3,08:14,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,3,08:09,IND,,PHI,,A. Drummond,PHI,Drummond Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0097,3,06:23,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,3,04:53,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,3,04:53,IND,68.0,PHI,70.0,A. Drummond,PHI,Drummond Tip Dunk Shot (9 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0097,3,04:46,IND,,PHI,,A. Drummond,PHI,Drummond S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0097,3,04:45,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,3,02:32,IND,,PHI,,A. Drummond,PHI,SUB: Yabusele FOR Drummond,Substitution,,0,0,0,0,,,v
+S2425-G0097,4,04:57,IND,,PHI,,A. Drummond,PHI,Drummond L.B.FOUL (P4.T3) (T.Maddox),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0097,4,04:45,IND,,PHI,,A. Drummond,PHI,Drummond S.FOUL (P5.T4) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2425-G0097,4,00:36.600000,IND,,PHI,,A. Drummond,PHI,Drummond STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0097,4,00:19.400000,IND,,PHI,,A. Drummond,PHI,Drummond STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0097,4,00:13.800000,IND,,PHI,,A. Drummond,PHI,SUB: Lowry FOR Drummond,Substitution,,0,0,0,0,,,v
+S2425-G0097,5,04:48,IND,,PHI,,A. Drummond,PHI,MISS Drummond 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-11,17,2,1,2.0,0.0,v
+S2425-G0097,5,04:45,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,5,04:45,IND,,PHI,,A. Drummond,PHI,Drummond Lost Ball Turnover (P4.T20),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0097,5,04:29,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:5 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,5,00:39.900000,IND,,PHI,,A. Drummond,PHI,Drummond REBOUND (Off:5 Def:12),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,5,00:15.300000,IND,,PHI,,A. Drummond,PHI,SUB: Lowry FOR Drummond,Substitution,,0,0,0,0,,,v
+S2425-G0120,1,12:00,PHI,,DET,,A. Drummond,PHI,Jump Ball Drummond vs. Duren: Tip to Lowry,Jump Ball,,0,0,0,0,,,h
+S2425-G0120,1,10:28,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,1,08:51,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,1,08:33,PHI,,DET,,A. Drummond,PHI,Drummond S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2425-G0120,1,08:30,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,1,08:13,PHI,,DET,,A. Drummond,PHI,MISS Drummond 7' Hook Shot,Missed Shot,Hook Shot,13,69,7,1,2.0,0.0,h
+S2425-G0120,1,04:05,PHI,,DET,,A. Drummond,PHI,SUB: Yabusele FOR Drummond,Substitution,,0,0,0,0,,,h
+S2425-G0120,2,07:20,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,2,07:20,PHI,30.0,DET,37.0,A. Drummond,PHI,Drummond Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0120,2,07:01,PHI,,DET,,A. Drummond,PHI,Drummond S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2425-G0120,2,06:50,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,2,06:49,PHI,,DET,,A. Drummond,PHI,MISS Drummond Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0120,2,06:49,PHI,32.0,DET,39.0,A. Drummond,PHI,Drummond Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0120,2,06:35,PHI,,DET,,A. Drummond,PHI,Drummond STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0120,2,05:41,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,2,04:30,PHI,,DET,,A. Drummond,PHI,MISS Drummond Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0120,2,04:30,PHI,,DET,,A. Drummond,PHI,MISS Drummond Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0120,2,03:00,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,2,00:27.400000,PHI,,DET,,A. Drummond,PHI,Drummond OFF.Foul (P3) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,h
+S2425-G0120,2,00:27.400000,PHI,,DET,,A. Drummond,PHI,Drummond Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0120,2,00:27.400000,PHI,,DET,,A. Drummond,PHI,SUB: Lowry FOR Drummond,Substitution,,0,0,0,0,,,h
+S2425-G0120,3,11:08,PHI,,DET,,A. Drummond,PHI,MISS Drummond 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-17,99,10,1,2.0,0.0,h
+S2425-G0120,3,08:07,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,3,08:06,PHI,54.0,DET,61.0,A. Drummond,PHI,Drummond 3' Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,2,32,3,1,2.0,2.0,h
+S2425-G0120,3,05:55,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,3,05:42,PHI,58.0,DET,69.0,A. Drummond,PHI,Drummond 5' Hook Shot (7 PTS) (Oubre Jr. 1 AST),Made Shot,Hook Shot,-20,41,5,1,2.0,2.0,h
+S2425-G0120,3,04:17,PHI,,DET,,A. Drummond,PHI,SUB: K. Martin FOR Drummond,Substitution,,0,0,0,0,,,h
+S2425-G0120,4,05:43,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,4,04:03,PHI,,DET,,A. Drummond,PHI,76ERS T.Foul (Def. 3 Sec Drummond ) (J.Conley),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0120,4,03:30,PHI,,DET,,A. Drummond,PHI,Drummond REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,4,03:30,PHI,84.0,DET,102.0,A. Drummond,PHI,Drummond Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0120,4,03:30,PHI,85.0,DET,102.0,A. Drummond,PHI,Drummond Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0120,4,03:17,PHI,,DET,,A. Drummond,PHI,SUB: Bona FOR Drummond,Substitution,,0,0,0,0,,,h
+S2425-G0066,1,12:00,PHI,,MIL,,A. Drummond,PHI,Jump Ball Drummond vs. Lopez: Tip to Maxey,Jump Ball,,0,0,0,0,,,h
+S2425-G0066,1,10:44,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,1,10:12,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,1,09:44,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,1,08:16,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,1,08:12,PHI,6.0,MIL,4.0,A. Drummond,PHI,Drummond Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0066,1,08:00,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,1,07:16,PHI,,MIL,,A. Drummond,PHI,Drummond S.FOUL (P1.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2425-G0066,1,05:29,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,1,04:47,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,1,04:46,PHI,,MIL,,A. Drummond,PHI,MISS Drummond 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-5,3,1,1,2.0,0.0,h
+S2425-G0066,1,03:46,PHI,,MIL,,A. Drummond,PHI,SUB: Lowry FOR Drummond,Substitution,,0,0,0,0,,,h
+S2425-G0066,2,08:07,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,2,06:57,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,2,03:34,PHI,,MIL,,A. Drummond,PHI,MISS Drummond 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,9,-6,1,1,2.0,0.0,h
+S2425-G0066,2,01:37,PHI,,MIL,,A. Drummond,PHI,Drummond P.FOUL (P2.PN) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2425-G0066,2,01:17,PHI,,MIL,,A. Drummond,PHI,MISS Drummond 3PT Jump Shot,Missed Shot,Jump Shot,234,15,0,1,3.0,0.0,h
+S2425-G0066,2,01:06,PHI,,MIL,,A. Drummond,PHI,Drummond OFF.Foul (P3) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2425-G0066,2,01:06,PHI,,MIL,,A. Drummond,PHI,Drummond Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0066,2,01:06,PHI,,MIL,,A. Drummond,PHI,SUB: K. Martin FOR Drummond,Substitution,,0,0,0,0,,,h
+S2425-G0066,3,11:26,PHI,48.0,MIL,61.0,A. Drummond,PHI,Drummond Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0066,3,11:26,PHI,49.0,MIL,61.0,A. Drummond,PHI,Drummond Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0066,3,10:14,PHI,55.0,MIL,67.0,A. Drummond,PHI,Drummond 2' Alley Oop Dunk (6 PTS) (Oubre Jr. 1 AST),Made Shot,Alley Oop Dunk Shot,5,18,2,1,2.0,2.0,h
+S2425-G0066,3,09:22,PHI,,MIL,,A. Drummond,PHI,Drummond P.FOUL (P4.T2) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2425-G0066,3,08:05,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,3,08:04,PHI,59.0,MIL,72.0,A. Drummond,PHI,Drummond 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-6,8,1,1,2.0,2.0,h
+S2425-G0066,3,07:42,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,3,07:36,PHI,,MIL,,A. Drummond,PHI,SUB: Yabusele FOR Drummond,Substitution,,0,0,0,0,,,h
+S2425-G0066,3,00:56.400000,PHI,,MIL,,A. Drummond,PHI,76ERS T.Foul (Def. 3 Sec Drummond ) (B.Forte),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0066,3,00:29.500000,PHI,,MIL,,A. Drummond,PHI,MISS Drummond 22' Jump Shot,Missed Shot,Jump Shot,-126,178,22,1,2.0,0.0,h
+S2425-G0066,4,11:36,PHI,,MIL,,A. Drummond,PHI,Drummond S.FOUL (P5.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2425-G0066,4,10:37,PHI,,MIL,,A. Drummond,PHI,SUB: Yabusele FOR Drummond,Substitution,,0,0,0,0,,,h
+S2425-G0066,4,03:26,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,4,03:26,PHI,99.0,MIL,115.0,A. Drummond,PHI,Drummond Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0066,4,03:02,PHI,,MIL,,A. Drummond,PHI,Drummond REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,4,02:39,PHI,,MIL,,A. Drummond,PHI,SUB: Bona FOR Drummond,Substitution,,0,0,0,0,,,h

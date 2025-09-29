@@ -1,0 +1,85 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0096,1,03:26,LAL,,SAC,,M. Monk,SAC,MISS Monk 29' 3PT Jump Shot,Missed Shot,Jump Shot,221,186,29,1,3.0,0.0,v
+S2425-G0096,1,02:27,LAL,,SAC,,M. Monk,SAC,MISS Monk 29' 3PT Jump Shot,Missed Shot,Jump Shot,58,280,29,1,3.0,0.0,v
+S2425-G0096,1,00:21.600000,LAL,28.0,SAC,26.0,M. Monk,SAC,Monk 5' Driving Finger Roll Layup (2 PTS) (Fox 3 AST),Made Shot,Driving Finger Roll Layup Shot,-29,37,5,1,2.0,2.0,v
+S2425-G0096,2,06:08,LAL,,SAC,,M. Monk,SAC,SUB: Fox FOR Monk,Substitution,,0,0,0,0,,,v
+S2425-G0096,2,04:33,LAL,53.0,SAC,44.0,M. Monk,SAC,Monk 25' 3PT Jump Shot (5 PTS) (Sabonis 4 AST),Made Shot,Jump Shot,-246,33,25,1,3.0,3.0,v
+S2425-G0096,2,04:04,LAL,,SAC,,M. Monk,SAC,Monk REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,2,03:20,LAL,53.0,SAC,51.0,M. Monk,SAC,Monk 3PT Running Jump Shot (8 PTS) (Lyles 1 AST),Made Shot,Running Jump Shot,229,15,0,1,3.0,3.0,v
+S2425-G0096,2,02:12,LAL,,SAC,,M. Monk,SAC,MISS Monk 25' 3PT Jump Shot,Missed Shot,Jump Shot,214,128,25,1,3.0,0.0,v
+S2425-G0096,2,00:31.500000,LAL,,SAC,,M. Monk,SAC,Monk S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2425-G0096,3,03:54,LAL,,SAC,,M. Monk,SAC,Monk REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,3,01:44,LAL,,SAC,,M. Monk,SAC,Monk S.FOUL (P2.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0096,3,01:15,LAL,,SAC,,M. Monk,SAC,MISS Monk 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-13,182,18,1,2.0,0.0,v
+S2425-G0096,4,09:09,LAL,,SAC,,M. Monk,SAC,MISS Monk 29' 3PT Jump Shot,Missed Shot,Jump Shot,98,278,29,1,3.0,0.0,v
+S2425-G0096,4,08:13,LAL,,SAC,,M. Monk,SAC,MISS Monk 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-124,225,26,1,3.0,0.0,v
+S2425-G0096,4,06:34,LAL,,SAC,,M. Monk,SAC,MISS Monk 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,61,6,1,2.0,0.0,v
+S2425-G0096,4,06:23,LAL,,SAC,,M. Monk,SAC,Monk REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,4,05:00,LAL,116.0,SAC,106.0,M. Monk,SAC,Monk 2' Running Layup (10 PTS) (Fox 7 AST),Made Shot,Running Layup Shot,10,16,2,1,2.0,2.0,v
+S2425-G0096,4,03:19,LAL,121.0,SAC,113.0,M. Monk,SAC,Monk 2' Layup (12 PTS) (Fox 8 AST),Made Shot,Layup Shot,-7,15,2,1,2.0,2.0,v
+S2425-G0096,4,02:25,LAL,,SAC,,M. Monk,SAC,MISS Monk 5' Driving Layup,Missed Shot,Driving Layup Shot,37,32,5,1,2.0,0.0,v
+S2425-G0096,4,00:58.600000,LAL,,SAC,,M. Monk,SAC,Monk STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0096,4,00:55.700000,LAL,125.0,SAC,123.0,M. Monk,SAC,Monk 3' Running Finger Roll Layup (14 PTS),Made Shot,Running Finger Roll Layup Shot,-5,25,3,1,2.0,2.0,v
+S2425-G0096,4,00:10.600000,LAL,,SAC,,M. Monk,SAC,Monk Personal Take Foul (P3.PN) (K.Scott),Foul,Personal Take,0,0,0,0,,,v
+S2425-G0115,1,00:41.100000,UTA,,SAC,,M. Monk,SAC,MISS Monk 25' 3PT Jump Shot,Missed Shot,Jump Shot,-189,168,25,1,3.0,0.0,v
+S2425-G0115,2,11:25,UTA,,SAC,,M. Monk,SAC,MISS Monk 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,64,73,10,1,2.0,0.0,v
+S2425-G0115,2,10:35,UTA,,SAC,,M. Monk,SAC,Monk REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,2,09:17,UTA,,SAC,,M. Monk,SAC,Monk Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0115,2,08:40,UTA,,SAC,,M. Monk,SAC,SUB: Sabonis FOR Monk,Substitution,,0,0,0,0,,,v
+S2425-G0115,2,05:34,UTA,43.0,SAC,49.0,M. Monk,SAC,Monk 24' 3PT Jump Shot (3 PTS) (DeRozan 4 AST),Made Shot,Jump Shot,234,41,24,1,3.0,3.0,v
+S2425-G0115,2,04:37,UTA,,SAC,,M. Monk,SAC,MISS Monk 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-229,42,0,1,3.0,0.0,v
+S2425-G0115,2,04:22,UTA,,SAC,,M. Monk,SAC,Monk REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,2,03:34,UTA,,SAC,,M. Monk,SAC,MISS Monk 26' 3PT Jump Shot,Missed Shot,Jump Shot,91,245,26,1,3.0,0.0,v
+S2425-G0115,2,03:07,UTA,,SAC,,M. Monk,SAC,SUB: Ellis FOR Monk,Substitution,,0,0,0,0,,,v
+S2425-G0115,3,05:10,UTA,,SAC,,M. Monk,SAC,Monk REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,3,03:44,UTA,,SAC,,M. Monk,SAC,MISS Monk Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0115,3,03:44,UTA,64.0,SAC,79.0,M. Monk,SAC,Monk Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0115,3,02:55,UTA,,SAC,,M. Monk,SAC,Monk BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0115,3,02:50,UTA,,SAC,,M. Monk,SAC,Monk REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,3,00:00.800000,UTA,,SAC,,M. Monk,SAC,MISS Monk 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-115,136,18,1,2.0,0.0,v
+S2425-G0115,4,10:37,UTA,,SAC,,M. Monk,SAC,MISS Monk 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,94,25,1,3.0,0.0,v
+S2425-G0115,4,07:21,UTA,,SAC,,M. Monk,SAC,MISS Monk 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,43,4,1,2.0,0.0,v
+S2425-G0115,4,06:50,UTA,,SAC,,M. Monk,SAC,MISS Monk 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,202,26,1,3.0,0.0,v
+S2425-G0115,4,06:16,UTA,78.0,SAC,105.0,M. Monk,SAC,Monk 26' 3PT Jump Shot (7 PTS) (DeRozan 8 AST),Made Shot,Jump Shot,-120,235,26,1,3.0,3.0,v
+S2425-G0115,4,05:16,UTA,,SAC,,M. Monk,SAC,Monk S.FOUL (P1.T3) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2425-G0115,4,05:03,UTA,,SAC,,M. Monk,SAC,MISS Monk 26' 3PT Jump Shot,Missed Shot,Jump Shot,-17,257,26,1,3.0,0.0,v
+S2425-G0115,4,03:36,UTA,,SAC,,M. Monk,SAC,SUB: McLaughlin FOR Monk,Substitution,,0,0,0,0,,,v
+S2425-G0076,1,05:11,SAC,,MIN,,M. Monk,SAC,Monk S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0076,1,04:40,SAC,19.0,MIN,13.0,M. Monk,SAC,Monk 8' Running Layup (2 PTS),Made Shot,Running Layup Shot,7,81,8,1,2.0,2.0,h
+S2425-G0076,1,04:11,SAC,21.0,MIN,13.0,M. Monk,SAC,Monk 13' Floating Jump Shot (4 PTS) (Sabonis 1 AST),Made Shot,Floating Jump shot,-15,126,13,1,2.0,2.0,h
+S2425-G0076,1,01:45,SAC,25.0,MIN,21.0,M. Monk,SAC,Monk 5' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,-51,5,5,1,2.0,2.0,h
+S2425-G0076,1,00:39.600000,SAC,32.0,MIN,24.0,M. Monk,SAC,Monk 25' 3PT Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,0,251,25,1,3.0,3.0,h
+S2425-G0076,1,00:09.500000,SAC,,MIN,,M. Monk,SAC,SUB: Ellis FOR Monk,Substitution,,0,0,0,0,,,h
+S2425-G0076,2,05:16,SAC,,MIN,,M. Monk,SAC,SUB: Fox FOR Monk,Substitution,,0,0,0,0,,,h
+S2425-G0076,2,02:51,SAC,,MIN,,M. Monk,SAC,MISS Monk 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-104,81,13,1,2.0,0.0,h
+S2425-G0076,2,01:58,SAC,,MIN,,M. Monk,SAC,Monk REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,2,00:45.400000,SAC,56.0,MIN,55.0,M. Monk,SAC,Monk Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,2,00:45.400000,SAC,57.0,MIN,55.0,M. Monk,SAC,Monk Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,3,04:16,SAC,86.0,MIN,76.0,M. Monk,SAC,Monk 7' Layup (13 PTS),Made Shot,Layup Shot,-66,9,7,1,2.0,2.0,h
+S2425-G0076,4,06:52,SAC,,MIN,,M. Monk,SAC,MISS Monk 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-20,248,25,1,3.0,0.0,h
+S2425-G0076,4,03:38,SAC,,MIN,,M. Monk,SAC,MISS Monk 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-86,85,12,1,2.0,0.0,h
+S2425-G0076,4,02:20,SAC,,MIN,,M. Monk,SAC,MISS Monk Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0076,4,02:20,SAC,112.0,MIN,112.0,M. Monk,SAC,Monk Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,4,00:53.300000,SAC,114.0,MIN,114.0,M. Monk,SAC,Monk 7' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,62,26,7,1,2.0,2.0,h
+S2425-G0076,4,00:53.300000,SAC,115.0,MIN,114.0,M. Monk,SAC,Monk Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0076,4,00:02.400000,SAC,,MIN,,M. Monk,SAC,SUB: Len FOR Monk,Substitution,,0,0,0,0,,,h
+S2425-G0112,1,04:04,SAC,18.0,POR,10.0,M. Monk,SAC,Monk Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,04:04,SAC,19.0,POR,10.0,M. Monk,SAC,Monk Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,04:04,SAC,20.0,POR,10.0,M. Monk,SAC,Monk Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,00:59,SAC,,POR,,M. Monk,SAC,Monk S.FOUL (P1.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2425-G0112,2,09:43,SAC,,POR,,M. Monk,SAC,Monk Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0112,2,08:12,SAC,,POR,,M. Monk,SAC,MISS Monk 3PT Jump Shot,Missed Shot,Jump Shot,-230,37,0,1,3.0,0.0,h
+S2425-G0112,2,08:01,SAC,,POR,,M. Monk,SAC,SUB: McLaughlin FOR Monk,Substitution,,0,0,0,0,,,h
+S2425-G0112,2,01:40,SAC,,POR,,M. Monk,SAC,Monk BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0112,2,01:40,SAC,,POR,,M. Monk,SAC,Monk REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,2,01:04,SAC,,POR,,M. Monk,SAC,Monk REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,2,01:00,SAC,,POR,,M. Monk,SAC,MISS Monk 2' Running Layup,Missed Shot,Running Layup Shot,-18,5,2,1,2.0,0.0,h
+S2425-G0112,3,02:07,SAC,81.0,POR,69.0,M. Monk,SAC,Monk 26' 3PT Pullup Jump Shot (6 PTS) (Sabonis 6 AST),Made Shot,Pullup Jump shot,104,236,26,1,3.0,3.0,h
+S2425-G0112,3,01:03,SAC,,POR,,M. Monk,SAC,Monk REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,3,00:59.200000,SAC,87.0,POR,69.0,M. Monk,SAC,Monk 25' 3PT Running Jump Shot (9 PTS) (Sabonis 7 AST),Made Shot,Running Jump Shot,195,154,25,1,3.0,3.0,h
+S2425-G0112,3,00:34.300000,SAC,,POR,,M. Monk,SAC,MISS Monk 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,159,220,27,1,3.0,0.0,h
+S2425-G0112,3,00:00,SAC,,POR,,M. Monk,SAC,Monk REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,4,10:19,SAC,94.0,POR,73.0,M. Monk,SAC,Monk 27' 3PT Jump Shot (12 PTS) (Murray 2 AST),Made Shot,Jump Shot,140,227,27,1,3.0,3.0,h
+S2425-G0112,4,08:42,SAC,,POR,,M. Monk,SAC,Monk STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0112,4,07:43,SAC,,POR,,M. Monk,SAC,Monk S.FOUL (P2.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2425-G0112,4,06:50,SAC,,POR,,M. Monk,SAC,SUB: DeRozan FOR Monk,Substitution,,0,0,0,0,,,h

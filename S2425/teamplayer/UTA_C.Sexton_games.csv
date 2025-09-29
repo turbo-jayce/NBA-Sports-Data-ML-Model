@@ -1,0 +1,105 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0110,1,11:37,DAL,0.0,UTA,2.0,C. Sexton,UTA,Sexton 4' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,-17,35,4,1,2.0,2.0,v
+S2425-G0110,1,11:18,DAL,,UTA,,C. Sexton,UTA,Sexton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,1,10:51,DAL,,UTA,,C. Sexton,UTA,Sexton L.B.FOUL (P1.T1) (K.Lane),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0110,1,09:40,DAL,,UTA,,C. Sexton,UTA,SUB: Clarkson FOR Sexton,Substitution,,0,0,0,0,,,v
+S2425-G0110,1,00:49.800000,DAL,21.0,UTA,19.0,C. Sexton,UTA,Sexton 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-174,184,25,1,3.0,3.0,v
+S2425-G0110,2,11:25,DAL,,UTA,,C. Sexton,UTA,MISS Sexton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0110,2,11:25,DAL,29.0,UTA,20.0,C. Sexton,UTA,Sexton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,2,10:44,DAL,31.0,UTA,23.0,C. Sexton,UTA,Sexton 25' 3PT Running Jump Shot (9 PTS) (Sensabaugh 1 AST),Made Shot,Running Jump Shot,-170,184,25,1,3.0,3.0,v
+S2425-G0110,2,10:04,DAL,,UTA,,C. Sexton,UTA,MISS Sexton 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-64,246,25,1,3.0,0.0,v
+S2425-G0110,2,07:09,DAL,,UTA,,C. Sexton,UTA,Sexton STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0110,2,07:05,DAL,35.0,UTA,31.0,C. Sexton,UTA,Sexton Running Layup (11 PTS) (Mills 2 AST),Made Shot,Running Layup Shot,0,1,0,1,2.0,2.0,v
+S2425-G0110,2,05:01,DAL,,UTA,,C. Sexton,UTA,MISS Sexton 5' Driving Layup,Missed Shot,Driving Layup Shot,43,21,5,1,2.0,0.0,v
+S2425-G0110,2,04:48,DAL,,UTA,,C. Sexton,UTA,Sexton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,2,04:43,DAL,,UTA,,C. Sexton,UTA,SUB: Clarkson FOR Sexton,Substitution,,0,0,0,0,,,v
+S2425-G0110,3,10:35,DAL,,UTA,,C. Sexton,UTA,Sexton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,3,09:31,DAL,56.0,UTA,49.0,C. Sexton,UTA,Sexton 12' Pullup Jump Shot (13 PTS) (George 2 AST),Made Shot,Pullup Jump shot,45,110,12,1,2.0,2.0,v
+S2425-G0110,3,06:16,DAL,64.0,UTA,58.0,C. Sexton,UTA,Sexton Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,3,06:16,DAL,64.0,UTA,59.0,C. Sexton,UTA,Sexton Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,3,05:24,DAL,,UTA,,C. Sexton,UTA,Sexton Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0110,3,05:21,DAL,,UTA,,C. Sexton,UTA,Sexton S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2425-G0110,3,04:56,DAL,65.0,UTA,61.0,C. Sexton,UTA,Sexton 7' Turnaround Bank Shot (17 PTS),Made Shot,Turnaround Bank shot,-69,29,7,1,2.0,2.0,v
+S2425-G0110,3,04:31,DAL,,UTA,,C. Sexton,UTA,SUB: Collins FOR Sexton,Substitution,,0,0,0,0,,,v
+S2425-G0110,4,07:26,DAL,94.0,UTA,85.0,C. Sexton,UTA,Sexton 10' Floating Jump Shot (19 PTS) (Collins 2 AST),Made Shot,Floating Jump shot,47,87,10,1,2.0,2.0,v
+S2425-G0110,4,07:01,DAL,,UTA,,C. Sexton,UTA,Sexton Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0110,4,06:16,DAL,96.0,UTA,87.0,C. Sexton,UTA,Sexton 13' Driving Floating Jump Shot (21 PTS) (Collins 3 AST),Made Shot,Driving Floating Jump Shot,58,115,13,1,2.0,2.0,v
+S2425-G0110,4,03:56,DAL,,UTA,,C. Sexton,UTA,Sexton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,4,03:51,DAL,101.0,UTA,95.0,C. Sexton,UTA,Sexton 1' Running Layup (23 PTS),Made Shot,Running Layup Shot,-7,3,1,1,2.0,2.0,v
+S2425-G0110,4,02:39,DAL,,UTA,,C. Sexton,UTA,Sexton P.FOUL (P3.T4) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2425-G0115,1,03:45,UTA,,SAC,,C. Sexton,UTA,Sexton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,1,02:31,UTA,,SAC,,C. Sexton,UTA,MISS Sexton 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,251,25,1,3.0,0.0,h
+S2425-G0115,1,01:35,UTA,,SAC,,C. Sexton,UTA,Sexton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,1,01:29,UTA,,SAC,,C. Sexton,UTA,Sexton Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0115,1,01:09,UTA,,SAC,,C. Sexton,UTA,MISS Sexton 25' 3PT Jump Shot,Missed Shot,Jump Shot,168,185,25,1,3.0,0.0,h
+S2425-G0115,2,08:40,UTA,32.0,SAC,41.0,C. Sexton,UTA,Sexton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0115,2,08:40,UTA,33.0,SAC,41.0,C. Sexton,UTA,Sexton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0115,2,08:03,UTA,34.0,SAC,44.0,C. Sexton,UTA,Sexton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0115,2,08:03,UTA,35.0,SAC,44.0,C. Sexton,UTA,Sexton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0115,2,07:33,UTA,,SAC,,C. Sexton,UTA,MISS Sexton 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,137,13,14,1,2.0,0.0,h
+S2425-G0115,2,07:23,UTA,,SAC,,C. Sexton,UTA,MISS Sexton 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,113,230,26,1,3.0,0.0,h
+S2425-G0115,2,05:16,UTA,,SAC,,C. Sexton,UTA,SUB: Williams FOR Sexton,Substitution,,0,0,0,0,,,h
+S2425-G0115,3,04:40,UTA,,SAC,,C. Sexton,UTA,Sexton Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0115,3,03:21,UTA,,SAC,,C. Sexton,UTA,Sexton OFF.Foul (P1) (C.Kirkland),Foul,Offensive,0,0,0,0,,,h
+S2425-G0115,3,03:21,UTA,,SAC,,C. Sexton,UTA,Sexton Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0115,3,02:05,UTA,,SAC,,C. Sexton,UTA,MISS Sexton 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-75,236,25,1,3.0,0.0,h
+S2425-G0115,3,00:48.500000,UTA,,SAC,,C. Sexton,UTA,MISS Sexton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,21,272,27,1,3.0,0.0,h
+S2425-G0115,3,00:16.100000,UTA,,SAC,,C. Sexton,UTA,MISS Sexton 8' Driving Layup,Missed Shot,Driving Layup Shot,60,50,8,1,2.0,0.0,h
+S2425-G0070,1,10:50,UTA,2.0,MEM,0.0,C. Sexton,UTA,Sexton 3' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,-25,14,3,1,2.0,2.0,h
+S2425-G0070,1,08:15,UTA,12.0,MEM,11.0,C. Sexton,UTA,Sexton 10' Jump Shot (4 PTS) (Kessler 1 AST),Made Shot,Jump Shot,36,88,10,1,2.0,2.0,h
+S2425-G0070,1,07:49,UTA,13.0,MEM,11.0,C. Sexton,UTA,Sexton Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,1,07:49,UTA,14.0,MEM,11.0,C. Sexton,UTA,Sexton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,1,06:54,UTA,,MEM,,C. Sexton,UTA,MISS Sexton 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-108,3,11,1,2.0,0.0,h
+S2425-G0070,1,06:18,UTA,,MEM,,C. Sexton,UTA,Sexton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0070,1,06:16,UTA,,MEM,,C. Sexton,UTA,Sexton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,1,05:42,UTA,,MEM,,C. Sexton,UTA,MISS Sexton 3' Running Layup,Missed Shot,Running Layup Shot,29,15,3,1,2.0,0.0,h
+S2425-G0070,1,05:30,UTA,,MEM,,C. Sexton,UTA,SUB: Clarkson FOR Sexton,Substitution,,0,0,0,0,,,h
+S2425-G0070,2,06:37,UTA,,MEM,,C. Sexton,UTA,Sexton STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0070,2,06:35,UTA,,MEM,,C. Sexton,UTA,Sexton Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0070,2,06:28,UTA,37.0,MEM,41.0,C. Sexton,UTA,Sexton 2' Running Layup (8 PTS),Made Shot,Running Layup Shot,16,17,2,1,2.0,2.0,h
+S2425-G0070,2,03:10,UTA,,MEM,,C. Sexton,UTA,Sexton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,2,03:09,UTA,42.0,MEM,54.0,C. Sexton,UTA,Sexton 2' Running Finger Roll Layup (10 PTS),Made Shot,Running Finger Roll Layup Shot,9,22,2,1,2.0,2.0,h
+S2425-G0070,2,02:40,UTA,,MEM,,C. Sexton,UTA,Sexton Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0070,2,01:14,UTA,,MEM,,C. Sexton,UTA,Sexton P.FOUL (P1.T3) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2425-G0070,2,00:54.500000,UTA,,MEM,,C. Sexton,UTA,Sexton Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0070,2,00:04.500000,UTA,49.0,MEM,61.0,C. Sexton,UTA,Sexton Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,2,00:04.500000,UTA,50.0,MEM,61.0,C. Sexton,UTA,Sexton Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,3,11:03,UTA,54.0,MEM,64.0,C. Sexton,UTA,Sexton 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,83,99,13,1,2.0,2.0,h
+S2425-G0070,3,07:14,UTA,,MEM,,C. Sexton,UTA,Sexton Lost Ball Turnover (P4.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0070,3,05:48,UTA,,MEM,,C. Sexton,UTA,SUB: Clarkson FOR Sexton,Substitution,,0,0,0,0,,,h
+S2425-G0070,4,03:51,UTA,,MEM,,C. Sexton,UTA,Sexton P.FOUL (P2.PN) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2425-G0070,4,03:02,UTA,,MEM,,C. Sexton,UTA,MISS Sexton 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,172,17,1,2.0,0.0,h
+S2425-G0070,4,02:16,UTA,,MEM,,C. Sexton,UTA,MISS Sexton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0070,4,02:16,UTA,117.0,MEM,118.0,C. Sexton,UTA,Sexton Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,01:48,UTA,118.0,MEM,120.0,C. Sexton,UTA,Sexton Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,01:48,UTA,,MEM,,C. Sexton,UTA,MISS Sexton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0070,4,01:24,UTA,,MEM,,C. Sexton,UTA,SUB: George FOR Sexton,Substitution,,0,0,0,0,,,h
+S2425-G0084,1,11:13,UTA,5.0,GSW,2.0,C. Sexton,UTA,Sexton 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,6,32,3,1,2.0,2.0,h
+S2425-G0084,1,09:23,UTA,,GSW,,C. Sexton,UTA,MISS Sexton 3' Running Layup,Missed Shot,Running Layup Shot,5,25,3,1,2.0,0.0,h
+S2425-G0084,1,08:31,UTA,,GSW,,C. Sexton,UTA,MISS Sexton 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,38,16,4,1,2.0,0.0,h
+S2425-G0084,1,07:44,UTA,,GSW,,C. Sexton,UTA,MISS Sexton 26' 3PT Jump Shot,Missed Shot,Jump Shot,-67,255,26,1,3.0,0.0,h
+S2425-G0084,1,06:27,UTA,,GSW,,C. Sexton,UTA,Sexton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,1,06:27,UTA,15.0,GSW,6.0,C. Sexton,UTA,Sexton 4' Layup (4 PTS),Made Shot,Layup Shot,-31,29,4,1,2.0,2.0,h
+S2425-G0084,1,05:38,UTA,16.0,GSW,9.0,C. Sexton,UTA,Sexton Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0084,1,05:38,UTA,,GSW,,C. Sexton,UTA,MISS Sexton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0084,1,05:06,UTA,,GSW,,C. Sexton,UTA,SUB: Collins FOR Sexton,Substitution,,0,0,0,0,,,h
+S2425-G0084,2,05:26,UTA,,GSW,,C. Sexton,UTA,MISS Sexton 3' Layup,Missed Shot,Layup Shot,-29,15,3,1,2.0,0.0,h
+S2425-G0084,2,03:35,UTA,,GSW,,C. Sexton,UTA,Sexton Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0084,2,03:11,UTA,,GSW,,C. Sexton,UTA,MISS Sexton 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-58,136,15,1,2.0,0.0,h
+S2425-G0084,2,01:58,UTA,,GSW,,C. Sexton,UTA,MISS Sexton 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-36,9,4,1,2.0,0.0,h
+S2425-G0084,2,00:45.600000,UTA,39.0,GSW,54.0,C. Sexton,UTA,Sexton 9' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-60,67,9,1,2.0,2.0,h
+S2425-G0084,2,00:45.600000,UTA,40.0,GSW,54.0,C. Sexton,UTA,Sexton Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0084,2,00:31.400000,UTA,,GSW,,C. Sexton,UTA,MISS Sexton 7' Driving Layup,Missed Shot,Driving Layup Shot,-26,67,7,1,2.0,0.0,h
+S2425-G0084,2,00:00.800000,UTA,,GSW,,C. Sexton,UTA,Sexton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,3,10:50,UTA,,GSW,,C. Sexton,UTA,Jump Ball Sexton vs. Green: Tip to Wiggins,Jump Ball,,0,0,0,0,,,h
+S2425-G0084,3,10:50,UTA,,GSW,,C. Sexton,UTA,Sexton Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0084,3,09:13,UTA,,GSW,,C. Sexton,UTA,SUB: Mills FOR Sexton,Substitution,,0,0,0,0,,,h
+S2425-G0084,4,08:22,UTA,,GSW,,C. Sexton,UTA,MISS Sexton 5' Running Layup,Missed Shot,Running Layup Shot,47,15,5,1,2.0,0.0,h
+S2425-G0084,4,08:19,UTA,,GSW,,C. Sexton,UTA,MISS Sexton 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,97,225,25,1,3.0,0.0,h
+S2425-G0084,4,08:08,UTA,,GSW,,C. Sexton,UTA,Sexton S.FOUL (P1.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2425-G0084,4,07:24,UTA,,GSW,,C. Sexton,UTA,Sexton Out of Bounds Lost Ball Turnover (P3.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0084,4,04:35,UTA,83.0,GSW,114.0,C. Sexton,UTA,Sexton Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0084,4,04:35,UTA,84.0,GSW,114.0,C. Sexton,UTA,Sexton Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0084,4,04:16,UTA,,GSW,,C. Sexton,UTA,Sexton Bad Pass Turnover (P4.T19),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0084,4,03:50,UTA,86.0,GSW,116.0,C. Sexton,UTA,Sexton 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,22,16,3,1,2.0,2.0,h
+S2425-G0084,4,03:44,UTA,,GSW,,C. Sexton,UTA,SUB: Sensabaugh FOR Sexton,Substitution,,0,0,0,0,,,h

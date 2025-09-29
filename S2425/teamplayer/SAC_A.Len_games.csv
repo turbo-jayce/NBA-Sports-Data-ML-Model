@@ -1,0 +1,33 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0096,1,00:57.700000,LAL,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,2,11:53,LAL,,SAC,,A. Len,SAC,MISS Len 3PT Jump Shot,Missed Shot,Jump Shot,227,31,0,1,3.0,0.0,v
+S2425-G0096,2,10:57,LAL,,SAC,,A. Len,SAC,Len OFF.Foul (P1) (D.Richardson),Foul,Offensive,0,0,0,0,,,v
+S2425-G0096,2,10:57,LAL,,SAC,,A. Len,SAC,Len Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0096,2,10:57,LAL,,SAC,,A. Len,SAC,SUB: Lyles FOR Len,Substitution,,0,0,0,0,,,v
+S2425-G0096,3,01:05,LAL,,SAC,,A. Len,SAC,Len Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0096,3,00:49,LAL,,SAC,,A. Len,SAC,MISS Len 3' Layup,Missed Shot,Layup Shot,23,16,3,1,2.0,0.0,v
+S2425-G0096,3,00:38.400000,LAL,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,3,00:00.800000,LAL,,SAC,,A. Len,SAC,Len BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0096,4,09:57,LAL,,SAC,,A. Len,SAC,SUB: Lyles FOR Len,Substitution,,0,0,0,0,,,v
+S2425-G0115,4,03:03,UTA,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,4,02:16,UTA,92.0,SAC,113.0,A. Len,SAC,Len 6' Floating Jump Shot (2 PTS) (McLaughlin 1 AST),Made Shot,Floating Jump shot,4,64,6,1,2.0,2.0,v
+S2425-G0115,4,01:52,UTA,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,4,01:21,UTA,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,4,00:14.300000,UTA,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,1,00:55.600000,SAC,29.0,MIN,24.0,A. Len,SAC,Len 2' Alley Oop Dunk (2 PTS) (Fox 3 AST),Made Shot,Alley Oop Dunk Shot,16,17,2,1,2.0,2.0,h
+S2425-G0076,1,00:28.200000,SAC,,MIN,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,1,00:09.500000,SAC,,MIN,,A. Len,SAC,Len Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0076,4,10:58,SAC,92.0,MIN,91.0,A. Len,SAC,Len Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,4,10:58,SAC,,MIN,,A. Len,SAC,MISS Len Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0076,4,10:41,SAC,,MIN,,A. Len,SAC,Len REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,4,09:03,SAC,,MIN,,A. Len,SAC,Len BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0076,4,08:47,SAC,,MIN,,A. Len,SAC,Len S.FOUL (P1.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2425-G0076,4,07:49,SAC,,MIN,,A. Len,SAC,SUB: Ellis FOR Len,Substitution,,0,0,0,0,,,h
+S2425-G0076,4,00:02.400000,SAC,,MIN,,A. Len,SAC,SUB: Monk FOR Len,Substitution,,0,0,0,0,,,h
+S2425-G0112,2,11:34,SAC,,POR,,A. Len,SAC,Len P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2425-G0112,2,10:35,SAC,,POR,,A. Len,SAC,MISS Len 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-31,61,7,1,2.0,0.0,h
+S2425-G0112,2,10:12,SAC,,POR,,A. Len,SAC,Len P.FOUL (P2.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2425-G0112,2,09:50,SAC,,POR,,A. Len,SAC,SUB: Sabonis FOR Len,Substitution,,0,0,0,0,,,h
+S2425-G0112,4,11:05,SAC,,POR,,A. Len,SAC,SUB: Huerter FOR Len,Substitution,,0,0,0,0,,,h
+S2425-G0112,4,02:45,SAC,,POR,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,4,02:28,SAC,,POR,,A. Len,SAC,Len STEAL (1 STL),,,0,0,0,0,,,h

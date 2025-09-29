@@ -1,0 +1,175 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0062,1,11:32,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 27' 3PT Jump Shot,Missed Shot,Jump Shot,-89,253,27,1,3.0,0.0,v
+S2425-G0062,1,09:57,LAL,5.0,MIN,5.0,A. Edwards,MIN,Edwards 24' 3PT Jump Shot (3 PTS) (Randle 2 AST),Made Shot,Jump Shot,-184,158,24,1,3.0,3.0,v
+S2425-G0062,1,06:06,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,43,272,28,1,3.0,0.0,v
+S2425-G0062,1,05:54,LAL,13.0,MIN,10.0,A. Edwards,MIN,Edwards 26' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,74,245,26,1,3.0,3.0,v
+S2425-G0062,1,03:44,LAL,,MIN,,A. Edwards,MIN,Edwards Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0062,1,02:39,LAL,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,1,02:33,LAL,18.0,MIN,15.0,A. Edwards,MIN,Edwards 3' Running Layup (8 PTS),Made Shot,Running Layup Shot,15,29,3,1,2.0,2.0,v
+S2425-G0062,1,01:27,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-174,192,26,1,3.0,0.0,v
+S2425-G0062,2,06:48,LAL,,MIN,,A. Edwards,MIN,Edwards S.FOUL (P1.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0062,2,05:57,LAL,45.0,MIN,32.0,A. Edwards,MIN,Edwards 27' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,-147,225,27,1,3.0,3.0,v
+S2425-G0062,2,04:45,LAL,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,2,04:10,LAL,51.0,MIN,34.0,A. Edwards,MIN,Edwards 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,10,1,1,2.0,2.0,v
+S2425-G0062,2,04:10,LAL,51.0,MIN,35.0,A. Edwards,MIN,Edwards Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0062,2,02:41,LAL,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,2,02:32,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-53,288,29,1,3.0,0.0,v
+S2425-G0062,2,01:29,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-78,164,18,1,2.0,0.0,v
+S2425-G0062,2,01:19,LAL,,MIN,,A. Edwards,MIN,Edwards P.FOUL (P2.T4) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0062,2,00:30.500000,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,58,125,14,1,2.0,0.0,v
+S2425-G0062,3,11:31,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-180,202,27,1,3.0,0.0,v
+S2425-G0062,3,10:44,LAL,,MIN,,A. Edwards,MIN,Edwards Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0062,3,10:09,LAL,,MIN,,A. Edwards,MIN,Edwards Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0062,3,09:42,LAL,60.0,MIN,47.0,A. Edwards,MIN,Edwards 24' 3PT Jump Shot (17 PTS) (Randle 3 AST),Made Shot,Jump Shot,-238,26,24,1,3.0,3.0,v
+S2425-G0062,3,08:55,LAL,,MIN,,A. Edwards,MIN,Edwards Out of Bounds Lost Ball Turnover (P4.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0062,3,08:38,LAL,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,3,07:22,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 4' Driving Layup,Missed Shot,Driving Layup Shot,-26,27,4,1,2.0,0.0,v
+S2425-G0062,3,04:53,LAL,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,3,03:00,LAL,,MIN,,A. Edwards,MIN,Edwards S.FOUL (P3.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0062,3,01:19,LAL,82.0,MIN,71.0,A. Edwards,MIN,Edwards 22' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,-198,88,22,1,2.0,2.0,v
+S2425-G0062,4,08:20,LAL,91.0,MIN,84.0,A. Edwards,MIN,Edwards 25' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,-156,201,25,1,3.0,3.0,v
+S2425-G0062,4,07:49,LAL,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,4,07:30,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,31,3,1,2.0,0.0,v
+S2425-G0062,4,07:25,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,84,24,1,3.0,0.0,v
+S2425-G0062,4,06:52,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 1' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,0,12,1,1,2.0,0.0,v
+S2425-G0062,4,06:29,LAL,93.0,MIN,86.0,A. Edwards,MIN,Edwards 19' Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,-104,164,19,1,2.0,2.0,v
+S2425-G0062,4,05:48,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,108,109,15,1,2.0,0.0,v
+S2425-G0062,4,05:22,LAL,97.0,MIN,88.0,A. Edwards,MIN,Edwards 3' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,-2,27,3,1,2.0,2.0,v
+S2425-G0062,4,02:23,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 27' 3PT Jump Shot,Missed Shot,Jump Shot,146,228,27,1,3.0,0.0,v
+S2425-G0062,4,01:58,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,133,16,1,2.0,0.0,v
+S2425-G0062,4,01:20,LAL,110.0,MIN,99.0,A. Edwards,MIN,Edwards Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,4,01:20,LAL,,MIN,,A. Edwards,MIN,MISS Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0062,4,00:50.200000,LAL,,MIN,,A. Edwards,MIN,MISS Edwards 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-87,253,27,1,3.0,0.0,v
+S2425-G0093,1,08:51,MIN,,TOR,,A. Edwards,MIN,Edwards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0093,1,08:41,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 3' Running Layup,Missed Shot,Running Layup Shot,-28,16,3,1,2.0,0.0,h
+S2425-G0093,1,07:21,MIN,13.0,TOR,3.0,A. Edwards,MIN,Edwards 25' 3PT Pullup Jump Shot (3 PTS) (Conley 2 AST),Made Shot,Pullup Jump shot,190,158,25,1,3.0,3.0,h
+S2425-G0093,1,07:06,MIN,,TOR,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,06:37,MIN,,TOR,,A. Edwards,MIN,Edwards S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2425-G0093,1,06:26,MIN,17.0,TOR,5.0,A. Edwards,MIN,Edwards Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,1,06:26,MIN,,TOR,,A. Edwards,MIN,MISS Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0093,1,04:49,MIN,22.0,TOR,9.0,A. Edwards,MIN,Edwards 4' Running Layup (6 PTS) (Randle 2 AST),Made Shot,Running Layup Shot,-7,39,4,1,2.0,2.0,h
+S2425-G0093,1,04:18,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-180,164,24,1,3.0,0.0,h
+S2425-G0093,1,03:22,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-76,243,25,1,3.0,0.0,h
+S2425-G0093,1,02:23,MIN,,TOR,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,01:49,MIN,,TOR,,A. Edwards,MIN,SUB: Ingles FOR Edwards,Substitution,,0,0,0,0,,,h
+S2425-G0093,2,05:03,MIN,42.0,TOR,29.0,A. Edwards,MIN,Edwards 23' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-96,209,23,1,2.0,2.0,h
+S2425-G0093,2,04:32,MIN,45.0,TOR,31.0,A. Edwards,MIN,Edwards 26' 3PT Pullup Jump Shot (11 PTS) (Ingles 3 AST),Made Shot,Pullup Jump shot,-45,252,26,1,3.0,3.0,h
+S2425-G0093,2,02:54,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,212,25,1,3.0,0.0,h
+S2425-G0093,2,02:02,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-28,58,6,1,2.0,0.0,h
+S2425-G0093,2,01:49,MIN,52.0,TOR,37.0,A. Edwards,MIN,Edwards 30' 3PT Jump Shot (14 PTS) (DiVincenzo 1 AST),Made Shot,Jump Shot,-146,259,30,1,3.0,3.0,h
+S2425-G0093,2,00:50.900000,MIN,,TOR,,A. Edwards,MIN,Edwards Backcourt Turnover (P1.T7),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2425-G0093,2,00:00.400000,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 71' 3PT Jump Shot,Missed Shot,Jump Shot,208,676,71,1,3.0,0.0,h
+S2425-G0093,3,09:01,MIN,,TOR,,A. Edwards,MIN,MISS Edwards Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2425-G0093,3,07:54,MIN,,TOR,,A. Edwards,MIN,Edwards STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0093,3,07:50,MIN,69.0,TOR,56.0,A. Edwards,MIN,Edwards 5' Running Layup (16 PTS),Made Shot,Running Layup Shot,44,25,5,1,2.0,2.0,h
+S2425-G0093,3,06:45,MIN,,TOR,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,3,06:42,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-43,240,24,1,3.0,0.0,h
+S2425-G0093,3,05:57,MIN,76.0,TOR,56.0,A. Edwards,MIN,Edwards 3PT Jump Shot (19 PTS) (Alexander-Walker 2 AST),Made Shot,Jump Shot,-230,8,0,1,3.0,3.0,h
+S2425-G0093,3,05:36,MIN,,TOR,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,3,04:39,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-38,157,16,1,2.0,0.0,h
+S2425-G0093,3,04:20,MIN,,TOR,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,3,02:00,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 6' Driving Layup,Missed Shot,Driving Layup Shot,50,34,6,1,2.0,0.0,h
+S2425-G0093,3,00:35.300000,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,107,218,24,1,3.0,0.0,h
+S2425-G0093,4,06:57,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-76,26,8,1,2.0,0.0,h
+S2425-G0093,4,06:07,MIN,,TOR,,A. Edwards,MIN,MISS Edwards 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,243,24,1,3.0,0.0,h
+S2425-G0093,4,04:43,MIN,,TOR,,A. Edwards,MIN,Edwards S.FOUL (P2.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2425-G0093,4,02:49,MIN,,TOR,,A. Edwards,MIN,Edwards Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0093,4,02:24,MIN,,TOR,,A. Edwards,MIN,Edwards Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0093,4,02:12,MIN,,TOR,,A. Edwards,MIN,Edwards P.FOUL (P3.T3) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2425-G0093,4,01:22,MIN,,TOR,,A. Edwards,MIN,Edwards Lost Ball Turnover (P4.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0093,4,01:04,MIN,108.0,TOR,98.0,A. Edwards,MIN,Edwards 3PT Jump Shot (22 PTS) (Randle 4 AST),Made Shot,Jump Shot,-229,1,0,1,3.0,3.0,h
+S2425-G0093,4,00:54.400000,MIN,,TOR,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,00:50,MIN,110.0,TOR,98.0,A. Edwards,MIN,Edwards Running Dunk (24 PTS) (Randle 5 AST),Made Shot,Running Dunk Shot,-1,1,0,1,2.0,2.0,h
+S2425-G0114,1,11:28,MIN,2.0,DAL,0.0,A. Edwards,MIN,Edwards 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,-9,4,1,1,2.0,2.0,h
+S2425-G0114,1,10:25,MIN,,DAL,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,1,09:40,MIN,,DAL,,A. Edwards,MIN,MISS Edwards 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,94,25,1,3.0,0.0,h
+S2425-G0114,1,09:17,MIN,,DAL,,A. Edwards,MIN,MISS Edwards 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,192,179,26,1,3.0,0.0,h
+S2425-G0114,1,08:46,MIN,6.0,DAL,9.0,A. Edwards,MIN,Edwards 8' Pullup Jump Shot (4 PTS) (Randle 2 AST),Made Shot,Pullup Jump shot,-56,63,8,1,2.0,2.0,h
+S2425-G0114,1,08:23,MIN,9.0,DAL,11.0,A. Edwards,MIN,Edwards 25' 3PT Jump Shot (7 PTS) (Conley 1 AST),Made Shot,Jump Shot,224,108,25,1,3.0,3.0,h
+S2425-G0114,1,07:57,MIN,12.0,DAL,11.0,A. Edwards,MIN,Edwards 25' 3PT Pullup Jump Shot (10 PTS) (Randle 3 AST),Made Shot,Pullup Jump shot,172,178,25,1,3.0,3.0,h
+S2425-G0114,1,05:32,MIN,18.0,DAL,18.0,A. Edwards,MIN,Edwards Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,1,05:32,MIN,,DAL,,A. Edwards,MIN,MISS Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0114,1,04:24,MIN,24.0,DAL,23.0,A. Edwards,MIN,Edwards 25' 3PT Pullup Jump Shot (14 PTS) (Reid 1 AST),Made Shot,Pullup Jump shot,50,241,25,1,3.0,3.0,h
+S2425-G0114,1,03:51,MIN,27.0,DAL,23.0,A. Edwards,MIN,Edwards 25' 3PT Running Pull-Up Jump Shot (17 PTS),Made Shot,Running Pull-Up Jump Shot,108,229,25,1,3.0,3.0,h
+S2425-G0114,1,02:19,MIN,30.0,DAL,23.0,A. Edwards,MIN,Edwards 25' 3PT Running Jump Shot (20 PTS) (DiVincenzo 1 AST),Made Shot,Running Jump Shot,-124,219,25,1,3.0,3.0,h
+S2425-G0114,1,01:24,MIN,31.0,DAL,26.0,A. Edwards,MIN,Edwards Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,1,01:24,MIN,,DAL,,A. Edwards,MIN,MISS Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0114,1,01:12,MIN,34.0,DAL,26.0,A. Edwards,MIN,Edwards 25' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,109,222,25,1,3.0,3.0,h
+S2425-G0114,1,00:31.300000,MIN,,DAL,,A. Edwards,MIN,Edwards Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0114,1,00:00,MIN,,DAL,,A. Edwards,MIN,Edwards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0114,2,06:27,MIN,,DAL,,A. Edwards,MIN,MISS Edwards 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-58,243,25,1,3.0,0.0,h
+S2425-G0114,3,11:40,MIN,,DAL,,A. Edwards,MIN,MISS Edwards 14' Jump Shot,Missed Shot,Jump Shot,135,44,14,1,2.0,0.0,h
+S2425-G0114,3,11:19,MIN,60.0,DAL,61.0,A. Edwards,MIN,Edwards Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,3,11:19,MIN,,DAL,,A. Edwards,MIN,MISS Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0114,3,10:36,MIN,,DAL,,A. Edwards,MIN,Edwards Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0114,3,10:19,MIN,,DAL,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,08:00,MIN,,DAL,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,06:49,MIN,,DAL,,A. Edwards,MIN,MISS Edwards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0114,3,06:49,MIN,,DAL,,A. Edwards,MIN,MISS Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0114,3,06:05,MIN,,DAL,,A. Edwards,MIN,MISS Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,121,227,26,1,3.0,0.0,h
+S2425-G0114,3,05:56,MIN,,DAL,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,05:45,MIN,73.0,DAL,74.0,A. Edwards,MIN,Edwards 11' Driving Floating Jump Shot (27 PTS),Made Shot,Driving Floating Jump Shot,0,111,11,1,2.0,2.0,h
+S2425-G0114,3,04:00,MIN,,DAL,,A. Edwards,MIN,MISS Edwards 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-154,204,26,1,3.0,0.0,h
+S2425-G0114,3,01:52,MIN,,DAL,,A. Edwards,MIN,Edwards Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0114,3,00:20.800000,MIN,,DAL,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,00:00.600000,MIN,82.0,DAL,93.0,A. Edwards,MIN,Edwards 1' Driving Layup (29 PTS) (DiVincenzo 4 AST),Made Shot,Driving Layup Shot,4,11,1,1,2.0,2.0,h
+S2425-G0114,4,05:12,MIN,100.0,DAL,105.0,A. Edwards,MIN,Edwards 4' Driving Finger Roll Layup (31 PTS) (DiVincenzo 5 AST),Made Shot,Driving Finger Roll Layup Shot,6,43,4,1,2.0,2.0,h
+S2425-G0114,4,04:52,MIN,,DAL,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,4,03:42,MIN,,DAL,,A. Edwards,MIN,MISS Edwards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0114,4,03:42,MIN,105.0,DAL,109.0,A. Edwards,MIN,Edwards Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,4,01:51,MIN,,DAL,,A. Edwards,MIN,Edwards Out of Bounds Lost Ball Turnover (P4.T19),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0114,4,00:59,MIN,110.0,DAL,117.0,A. Edwards,MIN,Edwards Free Throw 1 of 2 (33 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,4,00:59,MIN,111.0,DAL,117.0,A. Edwards,MIN,Edwards Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,4,00:32.100000,MIN,,DAL,,A. Edwards,MIN,MISS Edwards 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,105,110,15,1,2.0,0.0,h
+S2425-G0114,4,00:26,MIN,114.0,DAL,118.0,A. Edwards,MIN,Edwards 26' 3PT Jump Shot (37 PTS) (Alexander-Walker 3 AST),Made Shot,Jump Shot,-58,252,26,1,3.0,3.0,h
+S2425-G0114,4,00:19.600000,MIN,,DAL,,A. Edwards,MIN,Edwards Personal Take Foul (P1.PN) (K.Scott),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0114,4,00:13,MIN,,DAL,,A. Edwards,MIN,Edwards Lost Ball Turnover (P5.T20),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0114,4,00:09,MIN,,DAL,,A. Edwards,MIN,MISS Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-112,232,26,1,3.0,0.0,h
+S2425-G0076,1,09:53,SAC,5.0,MIN,5.0,A. Edwards,MIN,Edwards 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-87,239,25,1,3.0,3.0,v
+S2425-G0076,1,07:22,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 25' 3PT Jump Shot,Missed Shot,Jump Shot,243,67,25,1,3.0,0.0,v
+S2425-G0076,1,06:18,SAC,,MIN,,A. Edwards,MIN,Edwards Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0076,1,05:42,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-56,114,13,1,2.0,0.0,v
+S2425-G0076,1,04:54,SAC,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,1,04:47,SAC,,MIN,,A. Edwards,MIN,Edwards Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0076,1,03:43,SAC,21.0,MIN,16.0,A. Edwards,MIN,Edwards 3PT Jump Shot (6 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,-233,-16,0,1,3.0,3.0,v
+S2425-G0076,1,03:29,SAC,,MIN,,A. Edwards,MIN,Edwards S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2425-G0076,1,03:06,SAC,,MIN,,A. Edwards,MIN,Edwards S.FOUL (P2.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0076,1,02:31,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,127,248,28,1,3.0,0.0,v
+S2425-G0076,1,02:21,SAC,,MIN,,A. Edwards,MIN,SUB: Randle FOR Edwards,Substitution,,0,0,0,0,,,v
+S2425-G0076,2,05:41,SAC,48.0,MIN,45.0,A. Edwards,MIN,Edwards 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-150,205,25,1,3.0,3.0,v
+S2425-G0076,2,04:47,SAC,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,2,04:01,SAC,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,2,03:50,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-16,-13,2,1,2.0,0.0,v
+S2425-G0076,2,03:25,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 3PT Jump Shot,Missed Shot,Jump Shot,-222,17,0,1,3.0,0.0,v
+S2425-G0076,2,02:03,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,124,231,26,1,3.0,0.0,v
+S2425-G0076,2,01:40,SAC,,MIN,,A. Edwards,MIN,SUB: Conley FOR Edwards,Substitution,,0,0,0,0,,,v
+S2425-G0076,3,08:54,SAC,72.0,MIN,66.0,A. Edwards,MIN,Edwards 8' Driving Layup (11 PTS) (Conley 3 AST),Made Shot,Driving Layup Shot,65,54,8,1,2.0,2.0,v
+S2425-G0076,3,08:54,SAC,72.0,MIN,67.0,A. Edwards,MIN,Edwards Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0076,3,07:59,SAC,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,3,07:59,SAC,74.0,MIN,68.0,A. Edwards,MIN,Edwards Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0076,3,07:59,SAC,74.0,MIN,69.0,A. Edwards,MIN,Edwards Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0076,3,06:22,SAC,,MIN,,A. Edwards,MIN,Edwards S.FOUL (P3.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0076,3,06:11,SAC,81.0,MIN,71.0,A. Edwards,MIN,Edwards 6' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,-27,58,6,1,2.0,2.0,v
+S2425-G0076,3,05:54,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 26' 3PT Jump Shot,Missed Shot,Jump Shot,-207,160,26,1,3.0,0.0,v
+S2425-G0076,3,04:37,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,223,110,25,1,3.0,0.0,v
+S2425-G0076,3,03:58,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 9' Driving Layup,Missed Shot,Driving Layup Shot,26,86,9,1,2.0,0.0,v
+S2425-G0076,3,03:50,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,225,26,0,1,3.0,0.0,v
+S2425-G0076,3,01:13,SAC,88.0,MIN,89.0,A. Edwards,MIN,Edwards 29' 3PT Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,-31,288,29,1,3.0,3.0,v
+S2425-G0076,3,00:29.900000,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-147,211,26,1,3.0,0.0,v
+S2425-G0076,3,00:14.700000,SAC,,MIN,,A. Edwards,MIN,Edwards STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0076,4,08:47,SAC,97.0,MIN,93.0,A. Edwards,MIN,Edwards 2' Driving Reverse Layup (21 PTS),Made Shot,Driving Reverse Layup Shot,13,15,2,1,2.0,2.0,v
+S2425-G0076,4,08:47,SAC,97.0,MIN,94.0,A. Edwards,MIN,Edwards Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0076,4,08:28,SAC,99.0,MIN,97.0,A. Edwards,MIN,Edwards 26' 3PT Jump Shot (25 PTS) (Randle 3 AST),Made Shot,Jump Shot,74,246,26,1,3.0,3.0,v
+S2425-G0076,4,07:30,SAC,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,07:22,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-235,89,25,1,3.0,0.0,v
+S2425-G0076,4,07:04,SAC,99.0,MIN,102.0,A. Edwards,MIN,Edwards 8' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,-18,83,8,1,2.0,2.0,v
+S2425-G0076,4,07:04,SAC,99.0,MIN,103.0,A. Edwards,MIN,Edwards Free Throw 1 of 1 (28 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0076,4,06:41,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 17' Jump Shot,Missed Shot,Jump Shot,-134,106,17,1,2.0,0.0,v
+S2425-G0076,4,05:42,SAC,,MIN,,A. Edwards,MIN,Edwards Out of Bounds - Bad Pass Turnover Turnover (P3.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0076,4,05:06,SAC,,MIN,,A. Edwards,MIN,Edwards P.FOUL (P4.T4) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2425-G0076,4,03:37,SAC,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,01:28,SAC,112.0,MIN,114.0,A. Edwards,MIN,Edwards 23' Step Back Jump Shot (30 PTS),Made Shot,Step Back Jump shot,-55,226,23,1,2.0,2.0,v
+S2425-G0076,4,01:12,SAC,,MIN,,A. Edwards,MIN,Edwards REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,01:04,SAC,,MIN,,A. Edwards,MIN,MISS Edwards 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,206,138,25,1,3.0,0.0,v
+S2425-G0076,4,00:02.400000,SAC,115.0,MIN,116.0,A. Edwards,MIN,Edwards Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0076,4,00:02.400000,SAC,115.0,MIN,117.0,A. Edwards,MIN,Edwards Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v

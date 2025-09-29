@@ -1,0 +1,136 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,1,11:03,MIA,,ORL,,J. Butler,MIA,MISS Butler 5' Jump Shot,Missed Shot,Jump Shot,-12,51,5,1,2.0,0.0,h
+S2425-G0065,1,11:00,MIA,,ORL,,J. Butler,MIA,Butler REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,1,10:59,MIA,,ORL,,J. Butler,MIA,MISS Butler 5' Jump Shot,Missed Shot,Jump Shot,36,32,5,1,2.0,0.0,h
+S2425-G0065,1,10:47,MIA,,ORL,,J. Butler,MIA,Butler REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,1,10:34,MIA,,ORL,,J. Butler,MIA,MISS Butler 3PT Jump Shot,Missed Shot,Jump Shot,232,30,0,1,3.0,0.0,h
+S2425-G0065,1,07:43,MIA,,ORL,,J. Butler,MIA,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0065,1,07:43,MIA,7.0,ORL,9.0,J. Butler,MIA,Butler Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0065,1,06:28,MIA,,ORL,,J. Butler,MIA,Butler REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,1,05:47,MIA,,ORL,,J. Butler,MIA,Butler STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0065,1,03:29,MIA,,ORL,,J. Butler,MIA,MISS Butler 3' Running Layup,Missed Shot,Running Layup Shot,-27,-4,3,1,2.0,0.0,h
+S2425-G0065,1,03:07,MIA,,ORL,,J. Butler,MIA,SUB: Robinson FOR Butler,Substitution,,0,0,0,0,,,h
+S2425-G0065,2,06:59,MIA,,ORL,,J. Butler,MIA,MISS Butler 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,77,24,1,3.0,0.0,h
+S2425-G0065,2,06:08,MIA,47.0,ORL,43.0,J. Butler,MIA,Butler 2' Running Alley Oop Layup Shot (3 PTS) (Herro 2 AST),Made Shot,Running Alley Oop Layup Shot,17,-11,2,1,2.0,2.0,h
+S2425-G0065,2,00:36,MIA,,ORL,,J. Butler,MIA,Butler REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,00:20.600000,MIA,,ORL,,J. Butler,MIA,MISS Butler 1' Floating Jump Shot,Missed Shot,Floating Jump shot,-7,13,1,1,2.0,0.0,h
+S2425-G0065,2,00:04.300000,MIA,,ORL,,J. Butler,MIA,Butler BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0065,3,09:25,MIA,,ORL,,J. Butler,MIA,MISS Butler 2' Layup,Missed Shot,Layup Shot,15,4,2,1,2.0,0.0,h
+S2425-G0065,3,09:07,MIA,,ORL,,J. Butler,MIA,Butler S.FOUL (P1.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2425-G0065,3,05:57,MIA,,ORL,,J. Butler,MIA,Butler Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0065,3,02:24,MIA,,ORL,,J. Butler,MIA,SUB: Robinson FOR Butler,Substitution,,0,0,0,0,,,h
+S2425-G0088,1,11:41,CHA,,MIA,,J. Butler,MIA,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,1,09:26,CHA,,MIA,,J. Butler,MIA,MISS Butler 5' Reverse Layup,Missed Shot,Reverse Layup Shot,44,15,5,1,2.0,0.0,v
+S2425-G0088,1,09:07,CHA,,MIA,,J. Butler,MIA,Butler REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,1,08:09,CHA,,MIA,,J. Butler,MIA,Butler L.B.FOUL (P1.T1) (K.Lane),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0088,1,05:39,CHA,,MIA,,J. Butler,MIA,MISS Butler 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-135,22,14,1,2.0,0.0,v
+S2425-G0088,1,05:21,CHA,,MIA,,J. Butler,MIA,SUB: Jaquez Jr. FOR Butler,Substitution,,0,0,0,0,,,v
+S2425-G0088,1,02:56,CHA,,MIA,,J. Butler,MIA,MISS Butler Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2425-G0088,1,00:27.200000,CHA,,MIA,,J. Butler,MIA,Butler REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,2,11:43,CHA,23.0,MIA,25.0,J. Butler,MIA,Butler 1' Driving Layup (2 PTS) (Bryant 1 AST),Made Shot,Driving Layup Shot,-6,9,1,1,2.0,2.0,v
+S2425-G0088,2,11:13,CHA,23.0,MIA,27.0,J. Butler,MIA,Butler 19' Jump Shot (4 PTS) (Bryant 2 AST),Made Shot,Jump Shot,-22,184,19,1,2.0,2.0,v
+S2425-G0088,2,10:43,CHA,25.0,MIA,29.0,J. Butler,MIA,Butler 2' Driving Layup (6 PTS) (Jaquez Jr. 3 AST),Made Shot,Driving Layup Shot,-18,-5,2,1,2.0,2.0,v
+S2425-G0088,2,10:43,CHA,25.0,MIA,30.0,J. Butler,MIA,Butler Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0088,2,07:40,CHA,,MIA,,J. Butler,MIA,Butler REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,2,07:40,CHA,29.0,MIA,36.0,J. Butler,MIA,Butler Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,2,07:40,CHA,29.0,MIA,37.0,J. Butler,MIA,Butler Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,2,06:48,CHA,,MIA,,J. Butler,MIA,Butler Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0088,2,06:44,CHA,,MIA,,J. Butler,MIA,SUB: Rozier FOR Butler,Substitution,,0,0,0,0,,,v
+S2425-G0088,3,11:46,CHA,,MIA,,J. Butler,MIA,MISS Butler 2' Driving Layup,Missed Shot,Driving Layup Shot,13,16,2,1,2.0,0.0,v
+S2425-G0088,3,11:02,CHA,,MIA,,J. Butler,MIA,Butler BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0088,3,09:53,CHA,,MIA,,J. Butler,MIA,Butler REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,3,07:41,CHA,,MIA,,J. Butler,MIA,Butler REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,3,07:41,CHA,,MIA,,J. Butler,MIA,MISS Butler Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0088,3,06:37,CHA,,MIA,,J. Butler,MIA,Butler REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,3,06:30,CHA,,MIA,,J. Butler,MIA,SUB: Jaquez Jr. FOR Butler,Substitution,,0,0,0,0,,,v
+S2425-G0088,3,02:38,CHA,,MIA,,J. Butler,MIA,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0088,3,02:38,CHA,66.0,MIA,74.0,J. Butler,MIA,Butler Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,3,02:25,CHA,,MIA,,J. Butler,MIA,Butler STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0088,3,02:12,CHA,66.0,MIA,76.0,J. Butler,MIA,Butler 4' Turnaround Jump Shot (12 PTS) (Robinson 1 AST),Made Shot,Turnaround Jump Shot,26,25,4,1,2.0,2.0,v
+S2425-G0088,3,01:20,CHA,,MIA,,J. Butler,MIA,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0088,3,01:20,CHA,66.0,MIA,80.0,J. Butler,MIA,Butler Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,3,00:35.200000,CHA,,MIA,,J. Butler,MIA,Butler S.FOUL (P2.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2425-G0088,4,11:20,CHA,,MIA,,J. Butler,MIA,MISS Butler 26' 3PT Jump Shot,Missed Shot,Jump Shot,140,222,26,1,3.0,0.0,v
+S2425-G0088,4,10:54,CHA,,MIA,,J. Butler,MIA,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0088,4,10:54,CHA,78.0,MIA,84.0,J. Butler,MIA,Butler Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,4,10:22,CHA,78.0,MIA,86.0,J. Butler,MIA,Butler 2' Driving Reverse Layup (16 PTS),Made Shot,Driving Reverse Layup Shot,10,17,2,1,2.0,2.0,v
+S2425-G0088,4,08:46,CHA,78.0,MIA,92.0,J. Butler,MIA,Butler Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,4,08:46,CHA,,MIA,,J. Butler,MIA,MISS Butler Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0088,4,07:27,CHA,,MIA,,J. Butler,MIA,SUB: Adebayo FOR Butler,Substitution,,0,0,0,0,,,v
+S2425-G0088,4,04:21,CHA,,MIA,,J. Butler,MIA,MISS Butler 3PT Jump Shot,Missed Shot,Jump Shot,222,20,0,1,3.0,0.0,v
+S2425-G0088,4,03:15,CHA,,MIA,,J. Butler,MIA,MISS Butler 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,117,12,1,2.0,0.0,v
+S2425-G0088,4,03:09,CHA,,MIA,,J. Butler,MIA,MISS Butler 16' Floating Jump Shot,Missed Shot,Floating Jump shot,-18,159,16,1,2.0,0.0,v
+S2425-G0088,4,02:30,CHA,96.0,MIA,102.0,J. Butler,MIA,Butler 26' 3PT Jump Shot (20 PTS) (Herro 5 AST),Made Shot,Jump Shot,199,163,26,1,3.0,3.0,v
+S2425-G0088,4,01:54,CHA,99.0,MIA,104.0,J. Butler,MIA,Butler 12' Driving Floating Jump Shot (22 PTS),Made Shot,Driving Floating Jump Shot,-93,70,12,1,2.0,2.0,v
+S2425-G0088,4,01:54,CHA,,MIA,,J. Butler,MIA,MISS Butler Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0088,4,01:06,CHA,,MIA,,J. Butler,MIA,Butler STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0088,4,01:06,CHA,101.0,MIA,108.0,J. Butler,MIA,Butler Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,4,01:06,CHA,101.0,MIA,109.0,J. Butler,MIA,Butler Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,4,00:40.900000,CHA,,MIA,,J. Butler,MIA,Butler REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,4,00:16.900000,CHA,106.0,MIA,113.0,J. Butler,MIA,Butler Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,4,00:16.900000,CHA,106.0,MIA,114.0,J. Butler,MIA,Butler Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,1,08:45,MIA,,NYK,,J. Butler,MIA,Butler STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0122,1,08:24,MIA,,NYK,,J. Butler,MIA,Butler Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0122,1,05:37,MIA,,NYK,,J. Butler,MIA,SUB: Jaquez Jr. FOR Butler,Substitution,,0,0,0,0,,,h
+S2425-G0122,2,10:32,MIA,36.0,NYK,30.0,J. Butler,MIA,Butler 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,28,64,7,1,2.0,2.0,h
+S2425-G0122,2,09:56,MIA,,NYK,,J. Butler,MIA,MISS Butler 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-103,10,10,1,2.0,0.0,h
+S2425-G0122,2,08:33,MIA,38.0,NYK,35.0,J. Butler,MIA,Butler 8' Jump Shot (4 PTS) (Jaquez Jr. 2 AST),Made Shot,Jump Shot,-26,77,8,1,2.0,2.0,h
+S2425-G0122,2,07:23,MIA,,NYK,,J. Butler,MIA,Butler STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0122,2,06:47,MIA,,NYK,,J. Butler,MIA,Butler REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,06:45,MIA,,NYK,,J. Butler,MIA,Butler Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0122,2,06:24,MIA,,NYK,,J. Butler,MIA,SUB: Jović FOR Butler,Substitution,,0,0,0,0,,,h
+S2425-G0122,2,00:48.800000,MIA,56.0,NYK,50.0,J. Butler,MIA,Butler Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,2,00:48.800000,MIA,57.0,NYK,50.0,J. Butler,MIA,Butler Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,3,11:36,MIA,,NYK,,J. Butler,MIA,Butler REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,3,08:28,MIA,,NYK,,J. Butler,MIA,MISS Butler 3PT Running Jump Shot,Missed Shot,Running Jump Shot,233,10,0,1,3.0,0.0,h
+S2425-G0122,3,06:35,MIA,,NYK,,J. Butler,MIA,SUB: Jaquez Jr. FOR Butler,Substitution,,0,0,0,0,,,h
+S2425-G0122,3,02:42,MIA,,NYK,,J. Butler,MIA,Butler OFF.Foul (P1) (T.Ricks),Foul,Offensive,0,0,0,0,,,h
+S2425-G0122,3,02:42,MIA,,NYK,,J. Butler,MIA,Butler Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0122,3,00:58.800000,MIA,,NYK,,J. Butler,MIA,Butler REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,3,00:58.800000,MIA,80.0,NYK,84.0,J. Butler,MIA,Butler 4' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,20,39,4,1,2.0,2.0,h
+S2425-G0122,4,10:30,MIA,,NYK,,J. Butler,MIA,Butler REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,4,09:01,MIA,,NYK,,J. Butler,MIA,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0122,4,09:01,MIA,86.0,NYK,93.0,J. Butler,MIA,Butler Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,4,06:15,MIA,96.0,NYK,99.0,J. Butler,MIA,Butler 3' Alley Oop Layup (11 PTS) (Herro 7 AST),Made Shot,Alley Oop Layup shot,12,28,3,1,2.0,2.0,h
+S2425-G0122,4,05:40,MIA,98.0,NYK,102.0,J. Butler,MIA,Butler 4' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,-29,23,4,1,2.0,2.0,h
+S2425-G0122,4,04:22,MIA,,NYK,,J. Butler,MIA,MISS Butler 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,58,24,1,3.0,0.0,h
+S2425-G0122,4,03:52,MIA,,NYK,,J. Butler,MIA,Butler Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0122,4,03:34,MIA,,NYK,,J. Butler,MIA,Butler P.FOUL (P2.T3) (T.Ricks),Foul,Personal,0,0,0,0,,,h
+S2425-G0122,4,01:16,MIA,,NYK,,J. Butler,MIA,Butler S.FOUL (P3.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0122,4,01:07,MIA,104.0,NYK,114.0,J. Butler,MIA,Butler 4' Cutting Dunk Shot (15 PTS) (Rozier 7 AST),Made Shot,Cutting Dunk Shot,11,36,4,1,2.0,2.0,h
+S2425-G0105,1,11:39,MIA,,DET,,J. Butler,MIA,MISS Butler 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,93,104,14,1,2.0,0.0,h
+S2425-G0105,1,10:29,MIA,,DET,,J. Butler,MIA,Butler S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2425-G0105,1,06:55,MIA,15.0,DET,14.0,J. Butler,MIA,Butler 1' Running Alley Oop Dunk Shot (2 PTS) (Rozier 1 AST),Made Shot,Running Alley Oop Dunk Shot,-2,-7,1,1,2.0,2.0,h
+S2425-G0105,1,06:53,MIA,,DET,,J. Butler,MIA,SUB: Jaquez Jr. FOR Butler,Substitution,,0,0,0,0,,,h
+S2425-G0105,1,00:50,MIA,24.0,DET,27.0,J. Butler,MIA,Butler Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0105,1,00:50,MIA,25.0,DET,27.0,J. Butler,MIA,Butler Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0105,2,11:47,MIA,,DET,,J. Butler,MIA,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,2,11:28,MIA,30.0,DET,30.0,J. Butler,MIA,Butler 13' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,56,122,13,1,2.0,2.0,h
+S2425-G0105,2,09:21,MIA,,DET,,J. Butler,MIA,Butler STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0105,2,09:16,MIA,35.0,DET,34.0,J. Butler,MIA,Butler 2' Running Layup (8 PTS) (Burks 1 AST),Made Shot,Running Layup Shot,21,8,2,1,2.0,2.0,h
+S2425-G0105,2,08:13,MIA,36.0,DET,37.0,J. Butler,MIA,Butler Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0105,2,08:13,MIA,37.0,DET,37.0,J. Butler,MIA,Butler Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0105,2,07:21,MIA,,DET,,J. Butler,MIA,Butler STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0105,2,07:21,MIA,,DET,,J. Butler,MIA,SUB: Herro FOR Butler,Substitution,,0,0,0,0,,,h
+S2425-G0105,2,01:55,MIA,59.0,DET,51.0,J. Butler,MIA,Butler 5' Turnaround Fadeaway Bank Jump Shot (12 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,45,29,5,1,2.0,2.0,h
+S2425-G0105,2,00:40.400000,MIA,,DET,,J. Butler,MIA,Butler P.FOUL (P2.T3) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2425-G0105,3,11:05,MIA,,DET,,J. Butler,MIA,Butler STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0105,3,06:04,MIA,70.0,DET,70.0,J. Butler,MIA,Butler Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0105,3,06:04,MIA,71.0,DET,70.0,J. Butler,MIA,Butler Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0105,3,05:38,MIA,,DET,,J. Butler,MIA,SUB: Jaquez Jr. FOR Butler,Substitution,,0,0,0,0,,,h
+S2425-G0105,3,02:33,MIA,75.0,DET,75.0,J. Butler,MIA,Butler 9' Turnaround Jump Shot (16 PTS),Made Shot,Turnaround Jump Shot,-93,-5,9,1,2.0,2.0,h
+S2425-G0105,4,11:48,MIA,,DET,,J. Butler,MIA,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0105,4,11:48,MIA,79.0,DET,79.0,J. Butler,MIA,Butler Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0105,4,11:12,MIA,,DET,,J. Butler,MIA,Butler REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,11:10,MIA,82.0,DET,79.0,J. Butler,MIA,Butler 1' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,-4,5,1,1,2.0,2.0,h
+S2425-G0105,4,11:10,MIA,83.0,DET,79.0,J. Butler,MIA,Butler Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0105,4,10:47,MIA,,DET,,J. Butler,MIA,Butler STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0105,4,09:23,MIA,,DET,,J. Butler,MIA,MISS Butler 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,52,24,1,3.0,0.0,h
+S2425-G0105,4,08:56,MIA,,DET,,J. Butler,MIA,Butler REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,08:00,MIA,,DET,,J. Butler,MIA,MISS Butler 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,14,3,1,2.0,0.0,h
+S2425-G0105,4,07:54,MIA,,DET,,J. Butler,MIA,SUB: Herro FOR Butler,Substitution,,0,0,0,0,,,h
+S2425-G0105,4,04:19,MIA,,DET,,J. Butler,MIA,MISS Butler 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,34,12,4,1,2.0,0.0,h
+S2425-G0105,4,01:46,MIA,,DET,,J. Butler,MIA,Butler REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,01:24,MIA,104.0,DET,95.0,J. Butler,MIA,Butler Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0105,4,01:24,MIA,,DET,,J. Butler,MIA,MISS Butler Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0105,4,00:46.300000,MIA,106.0,DET,98.0,J. Butler,MIA,Butler 3' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,7,31,3,1,2.0,2.0,h

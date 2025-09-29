@@ -1,0 +1,30 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0079,1,03:18,ATL,,CHA,,M. Diabate,CHA,Diabaté S.FOUL (P1.T4) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2425-G0079,1,02:19,ATL,,CHA,,M. Diabate,CHA,Diabaté REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,1,01:54,ATL,,CHA,,M. Diabate,CHA,Diabaté REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,1,01:01,ATL,,CHA,,M. Diabate,CHA,Diabaté REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,1,00:42.100000,ATL,,CHA,,M. Diabate,CHA,MISS Diabaté 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,36,4,1,2.0,0.0,v
+S2425-G0079,1,00:06.800000,ATL,,CHA,,M. Diabate,CHA,Diabaté REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,1,00:06.800000,ATL,,CHA,,M. Diabate,CHA,MISS Diabaté Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0079,1,00:06.800000,ATL,,CHA,,M. Diabate,CHA,MISS Diabaté Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0079,3,03:38,ATL,82.0,CHA,73.0,M. Diabate,CHA,Diabaté 1' Alley Oop Dunk (2 PTS) (Mann 2 AST),Made Shot,Alley Oop Dunk Shot,-10,4,1,1,2.0,2.0,v
+S2425-G0079,3,01:52,ATL,,CHA,,M. Diabate,CHA,SUB: Richards FOR Diabaté,Substitution,,0,0,0,0,,,v
+S2425-G0068,1,07:43,HOU,,CHA,,M. Diabate,CHA,MISS Diabaté 2' Hook Shot,Missed Shot,Hook Shot,15,19,2,1,2.0,0.0,v
+S2425-G0068,1,04:21,HOU,,CHA,,M. Diabate,CHA,Diabaté REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,1,03:47,HOU,,CHA,,M. Diabate,CHA,Diabaté STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0068,1,02:57,HOU,,CHA,,M. Diabate,CHA,MISS Diabaté 3' Running Layup,Missed Shot,Running Layup Shot,23,17,3,1,2.0,0.0,v
+S2425-G0068,1,02:55,HOU,,CHA,,M. Diabate,CHA,Diabaté REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,1,02:53,HOU,,CHA,,M. Diabate,CHA,MISS Diabaté 2' Layup,Missed Shot,Layup Shot,9,16,2,1,2.0,0.0,v
+S2425-G0068,1,01:08,HOU,,CHA,,M. Diabate,CHA,Diabaté REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,1,00:50,HOU,,CHA,,M. Diabate,CHA,Diabaté REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,3,05:39,HOU,,CHA,,M. Diabate,CHA,Diabaté BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0068,3,04:28,HOU,,CHA,,M. Diabate,CHA,Diabaté BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0068,3,03:29,HOU,,CHA,,M. Diabate,CHA,Diabaté REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,3,02:14,HOU,79.0,CHA,73.0,M. Diabate,CHA,Diabaté 3' Dunk (2 PTS) (Micić 1 AST),Made Shot,Dunk Shot,-9,27,3,1,2.0,2.0,v
+S2425-G0068,4,00:04.800000,HOU,,CHA,,M. Diabate,CHA,SUB: Curry FOR Diabaté,Substitution,,0,0,0,0,,,v
+S2425-G0117,1,03:14,CHA,,TOR,,M. Diabate,CHA,Diabaté REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0117,1,03:04,CHA,,TOR,,M. Diabate,CHA,Diabaté REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0117,1,01:41,CHA,,TOR,,M. Diabate,CHA,Diabaté REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0117,1,01:08,CHA,,TOR,,M. Diabate,CHA,SUB: Ball FOR Diabaté,Substitution,,0,0,0,0,,,h
+S2425-G0117,3,04:06,CHA,,TOR,,M. Diabate,CHA,Diabaté S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0117,3,01:59,CHA,,TOR,,M. Diabate,CHA,Diabaté REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h

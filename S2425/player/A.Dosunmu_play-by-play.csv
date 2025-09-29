@@ -1,0 +1,102 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0091,1,06:26,CHI,,OKC,,A. Dosunmu,CHI,MISS Dosunmu 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,159,211,26,1,3.0,0.0,h
+S2425-G0091,1,04:28,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,1,04:21,CHI,,OKC,,A. Dosunmu,CHI,MISS Dosunmu 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,34,24,1,3.0,0.0,h
+S2425-G0091,1,01:30,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,2,10:10,CHI,,OKC,,A. Dosunmu,CHI,MISS Dosunmu 25' 3PT Jump Shot,Missed Shot,Jump Shot,129,218,25,1,3.0,0.0,h
+S2425-G0091,2,10:10,CHI,,OKC,,A. Dosunmu,CHI,SUB: Buzelis FOR Dosunmu,Substitution,,0,0,0,0,,,h
+S2425-G0091,2,07:16,CHI,,OKC,,A. Dosunmu,CHI,MISS Dosunmu 27' 3PT Jump Shot,Missed Shot,Jump Shot,174,210,27,1,3.0,0.0,h
+S2425-G0091,2,04:47,CHI,,OKC,,A. Dosunmu,CHI,SUB: Giddey FOR Dosunmu,Substitution,,0,0,0,0,,,h
+S2425-G0091,3,04:42,CHI,,OKC,,A. Dosunmu,CHI,MISS Dosunmu 2' Layup,Missed Shot,Layup Shot,0,17,2,1,2.0,0.0,h
+S2425-G0091,3,04:38,CHI,,OKC,,A. Dosunmu,CHI,MISS Dosunmu 25' 3PT Jump Shot,Missed Shot,Jump Shot,-162,188,25,1,3.0,0.0,h
+S2425-G0091,3,03:07,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu Lost Ball Turnover (P1.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0091,3,03:01,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0091,3,02:21,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu Offensive Charge Foul (P2) (J.Tiven),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0091,3,02:21,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu Offensive Foul Turnover (P2.T20),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0091,3,01:11,CHI,,OKC,,A. Dosunmu,CHI,MISS Dosunmu 1' Running Layup,Missed Shot,Running Layup Shot,11,7,1,1,2.0,0.0,h
+S2425-G0091,4,11:50,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu P.FOUL (P3.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2425-G0091,4,11:36,CHI,,OKC,,A. Dosunmu,CHI,MISS Dosunmu 3PT Jump Shot,Missed Shot,Jump Shot,225,-15,0,1,3.0,0.0,h
+S2425-G0091,4,11:30,CHI,,OKC,,A. Dosunmu,CHI,SUB: LaVine FOR Dosunmu,Substitution,,0,0,0,0,,,h
+S2425-G0091,4,08:05,CHI,,OKC,,A. Dosunmu,CHI,MISS Dosunmu 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,11,24,1,3.0,0.0,h
+S2425-G0091,4,07:44,CHI,77.0,OKC,98.0,A. Dosunmu,CHI,Dosunmu 3PT Jump Shot (3 PTS) (Giddey 4 AST),Made Shot,Jump Shot,-228,43,0,1,3.0,3.0,h
+S2425-G0091,4,07:25,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,4,07:20,CHI,,OKC,,A. Dosunmu,CHI,MISS Dosunmu 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-167,180,25,1,3.0,0.0,h
+S2425-G0091,4,07:12,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,4,07:01,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu S.FOUL (P4.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2425-G0091,4,06:08,CHI,,OKC,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,4,04:26,CHI,,OKC,,A. Dosunmu,CHI,SUB: Duarte FOR Dosunmu,Substitution,,0,0,0,0,,,h
+S2425-G0069,1,02:48,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0069,1,01:53,NOP,25.0,CHI,21.0,A. Dosunmu,CHI,Dosunmu 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,10,5,1,1,2.0,2.0,v
+S2425-G0069,1,01:07,NOP,25.0,CHI,23.0,A. Dosunmu,CHI,Dosunmu 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,12,11,2,1,2.0,2.0,v
+S2425-G0069,2,11:27,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu P.FOUL (P1.T1) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2425-G0069,2,10:53,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,10:48,NOP,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-48,249,25,1,3.0,0.0,v
+S2425-G0069,2,09:13,NOP,,CHI,,A. Dosunmu,CHI,SUB: Ball FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,02:00,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,3,03:37,NOP,80.0,CHI,77.0,A. Dosunmu,CHI,Dosunmu 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,-2,29,3,1,2.0,2.0,v
+S2425-G0069,3,02:33,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,3,01:22,NOP,,CHI,,A. Dosunmu,CHI,SUB: LaVine FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,10:58,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,07:33,NOP,,CHI,,A. Dosunmu,CHI,SUB: White FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,05:55,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,05:10,NOP,113.0,CHI,99.0,A. Dosunmu,CHI,Dosunmu 2' Driving Finger Roll Layup (8 PTS) (White 5 AST),Made Shot,Driving Finger Roll Layup Shot,16,-8,2,1,2.0,2.0,v
+S2425-G0069,4,04:08,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,02:09,NOP,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 25' 3PT Jump Shot,Missed Shot,Jump Shot,-188,163,25,1,3.0,0.0,v
+S2425-G0069,4,01:46,NOP,,CHI,,A. Dosunmu,CHI,SUB: Duarte FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0123,1,03:31,CHI,14.0,ORL,28.0,A. Dosunmu,CHI,Dosunmu 1' Driving Layup (2 PTS) (Giddey 2 AST),Made Shot,Driving Layup Shot,2,5,1,1,2.0,2.0,h
+S2425-G0123,1,01:45,CHI,,ORL,,A. Dosunmu,CHI,Dosunmu BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0123,1,00:47.900000,CHI,,ORL,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,10:01,CHI,25.0,ORL,40.0,A. Dosunmu,CHI,Dosunmu 4' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,36,16,4,1,2.0,2.0,h
+S2425-G0123,2,09:01,CHI,,ORL,,A. Dosunmu,CHI,SUB: LaVine FOR Dosunmu,Substitution,,0,0,0,0,,,h
+S2425-G0123,2,05:54,CHI,,ORL,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,05:24,CHI,40.0,ORL,52.0,A. Dosunmu,CHI,Dosunmu 1' Running Finger Roll Layup (6 PTS) (Williams 2 AST),Made Shot,Running Finger Roll Layup Shot,9,1,1,1,2.0,2.0,h
+S2425-G0123,2,04:45,CHI,42.0,ORL,52.0,A. Dosunmu,CHI,Dosunmu 1' Driving Layup (8 PTS) (Vučević 2 AST),Made Shot,Driving Layup Shot,1,9,1,1,2.0,2.0,h
+S2425-G0123,2,04:45,CHI,,ORL,,A. Dosunmu,CHI,MISS Dosunmu Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0123,2,04:15,CHI,44.0,ORL,55.0,A. Dosunmu,CHI,Dosunmu 1' Cutting Layup Shot (10 PTS) (Vučević 3 AST),Made Shot,Cutting Layup Shot,-2,5,1,1,2.0,2.0,h
+S2425-G0123,2,03:48,CHI,,ORL,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,00:07.300000,CHI,,ORL,,A. Dosunmu,CHI,Dosunmu P.FOUL (P1.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2425-G0123,3,01:38,CHI,,ORL,,A. Dosunmu,CHI,MISS Dosunmu 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,17,11,2,1,2.0,0.0,h
+S2425-G0123,3,00:29.500000,CHI,,ORL,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,4,08:25,CHI,,ORL,,A. Dosunmu,CHI,MISS Dosunmu 26' 3PT Jump Shot,Missed Shot,Jump Shot,107,238,26,1,3.0,0.0,h
+S2425-G0123,4,07:49,CHI,,ORL,,A. Dosunmu,CHI,SUB: White FOR Dosunmu,Substitution,,0,0,0,0,,,h
+S2425-G0123,4,04:50,CHI,92.0,ORL,89.0,A. Dosunmu,CHI,Dosunmu 1' Running Layup (12 PTS) (Vučević 5 AST),Made Shot,Running Layup Shot,9,6,1,1,2.0,2.0,h
+S2425-G0123,4,03:35,CHI,,ORL,,A. Dosunmu,CHI,SUB: Giddey FOR Dosunmu,Substitution,,0,0,0,0,,,h
+S2425-G0123,4,00:20.800000,CHI,,ORL,,A. Dosunmu,CHI,SUB: White FOR Dosunmu,Substitution,,0,0,0,0,,,h
+S2425-G0083,1,03:46,MIL,,CHI,,A. Dosunmu,CHI,Dosunmu S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,1,02:49,MIL,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 26' 3PT Jump Shot,Missed Shot,Jump Shot,124,223,26,1,3.0,0.0,v
+S2425-G0083,1,02:08,MIL,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 3PT Jump Shot,Missed Shot,Jump Shot,-224,57,0,1,3.0,0.0,v
+S2425-G0083,2,10:25,MIL,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,53,57,8,1,2.0,0.0,v
+S2425-G0083,2,10:08,MIL,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,2,07:45,MIL,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,2,07:43,MIL,,CHI,,A. Dosunmu,CHI,Dosunmu Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0083,2,07:41,MIL,,CHI,,A. Dosunmu,CHI,SUB: LaVine FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0083,3,07:07,MIL,74.0,CHI,81.0,A. Dosunmu,CHI,Dosunmu 1' Cutting Layup Shot (2 PTS) (Vučević 3 AST),Made Shot,Cutting Layup Shot,0,5,1,1,2.0,2.0,v
+S2425-G0083,3,00:02.900000,MIL,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,10:23,MIL,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 5' Driving Layup,Missed Shot,Driving Layup Shot,43,17,5,1,2.0,0.0,v
+S2425-G0083,4,09:08,MIL,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 28' 3PT Jump Shot,Missed Shot,Jump Shot,-121,248,28,1,3.0,0.0,v
+S2425-G0083,4,06:56,MIL,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 26' 3PT Jump Shot,Missed Shot,Jump Shot,118,232,26,1,3.0,0.0,v
+S2425-G0083,4,06:43,MIL,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,06:25,MIL,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,06:24,MIL,,CHI,,A. Dosunmu,CHI,SUB: Giddey FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0083,4,00:59.400000,MIL,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 27' 3PT Jump Shot,Missed Shot,Jump Shot,-179,206,27,1,3.0,0.0,v
+S2425-G0083,4,00:04.500000,MIL,,CHI,,A. Dosunmu,CHI,Dosunmu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0108,1,06:32,MEM,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 2' Running Layup,Missed Shot,Running Layup Shot,7,15,2,1,2.0,0.0,v
+S2425-G0108,1,02:29,MEM,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,2,08:26,MEM,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,2,06:35,MEM,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,2,06:30,MEM,46.0,CHI,30.0,A. Dosunmu,CHI,Dosunmu 3' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,25,19,3,1,2.0,2.0,v
+S2425-G0108,2,04:31,MEM,,CHI,,A. Dosunmu,CHI,SUB: LaVine FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0108,3,07:58,MEM,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,3,07:04,MEM,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 24' 3PT Jump Shot,Missed Shot,Jump Shot,213,121,24,1,3.0,0.0,v
+S2425-G0108,3,07:03,MEM,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,3,06:00,MEM,81.0,CHI,71.0,A. Dosunmu,CHI,Dosunmu 3PT Jump Shot (5 PTS) (White 4 AST),Made Shot,Jump Shot,222,-14,0,1,3.0,3.0,v
+S2425-G0108,3,04:35,MEM,,CHI,,A. Dosunmu,CHI,Dosunmu S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2425-G0108,3,02:34,MEM,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,3,01:07,MEM,95.0,CHI,90.0,A. Dosunmu,CHI,Dosunmu 26' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-146,220,26,1,3.0,3.0,v
+S2425-G0108,4,11:22,MEM,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 26' 3PT Jump Shot,Missed Shot,Jump Shot,99,235,26,1,3.0,0.0,v
+S2425-G0108,4,10:59,MEM,100.0,CHI,95.0,A. Dosunmu,CHI,Dosunmu 3' Driving Finger Roll Layup (10 PTS) (Williams 1 AST),Made Shot,Driving Finger Roll Layup Shot,-15,20,3,1,2.0,2.0,v
+S2425-G0108,4,09:47,MEM,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-15,29,3,1,2.0,0.0,v
+S2425-G0108,4,09:09,MEM,,CHI,,A. Dosunmu,CHI,Dosunmu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0108,4,08:57,MEM,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,4,08:57,MEM,,CHI,,A. Dosunmu,CHI,SUB: Vučević FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0108,4,00:02.600000,MEM,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v

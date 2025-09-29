@@ -1,0 +1,127 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,02:23,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 4' Running Layup,Missed Shot,Running Layup Shot,11,40,4,1,2.0,0.0,h
+S2425-G0126,1,02:19,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,02:19,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0126,1,01:47,GSW,23.0,NOP,15.0,J. Kuminga,GSW,Kuminga 6' Driving Layup (2 PTS) (Moody 1 AST),Made Shot,Driving Layup Shot,-47,31,6,1,2.0,2.0,h
+S2425-G0126,1,00:35.800000,GSW,,NOP,,J. Kuminga,GSW,Kuminga Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0126,1,00:03.500000,GSW,28.0,NOP,20.0,J. Kuminga,GSW,Kuminga 7' Pullup Jump Shot (4 PTS) (Anderson 1 AST),Made Shot,Pullup Jump shot,-59,35,7,1,2.0,2.0,h
+S2425-G0126,2,11:25,GSW,30.0,NOP,20.0,J. Kuminga,GSW,Kuminga 14' Step Back Jump Shot (6 PTS) (Payton II 1 AST),Made Shot,Step Back Jump shot,-48,127,14,1,2.0,2.0,h
+S2425-G0126,2,11:04,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,08:41,GSW,,NOP,,J. Kuminga,GSW,SUB: Anderson FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,03:30,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,03:37,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 25' 3PT Jump Shot,Missed Shot,Jump Shot,-227,97,25,1,3.0,0.0,h
+S2425-G0126,3,02:32,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-32,173,18,1,2.0,0.0,h
+S2425-G0126,3,02:24,GSW,,NOP,,J. Kuminga,GSW,Kuminga STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0126,4,11:25,GSW,,NOP,,J. Kuminga,GSW,Kuminga P.FOUL (P1.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,4,10:41,GSW,,NOP,,J. Kuminga,GSW,Kuminga P.FOUL (P2.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,4,10:18,GSW,81.0,NOP,66.0,J. Kuminga,GSW,Kuminga 5' Layup (8 PTS),Made Shot,Layup Shot,1,48,5,1,2.0,2.0,h
+S2425-G0126,4,10:18,GSW,82.0,NOP,66.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,10:09,GSW,,NOP,,J. Kuminga,GSW,Kuminga P.FOUL (P3.T3) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,4,08:52,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 6' Driving Layup,Missed Shot,Driving Layup Shot,59,16,6,1,2.0,0.0,h
+S2425-G0126,4,07:51,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0126,4,07:51,GSW,86.0,NOP,71.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,07:00,GSW,91.0,NOP,71.0,J. Kuminga,GSW,Kuminga 3' Running Layup (12 PTS),Made Shot,Running Layup Shot,27,12,3,1,2.0,2.0,h
+S2425-G0126,4,04:17,GSW,,NOP,,J. Kuminga,GSW,Kuminga S.FOUL (P4.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,4,03:22,GSW,98.0,NOP,85.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,03:22,GSW,99.0,NOP,85.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,02:54,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 4' Driving Layup,Missed Shot,Driving Layup Shot,37,21,4,1,2.0,0.0,h
+S2425-G0126,4,01:41,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,01:31,GSW,102.0,NOP,87.0,J. Kuminga,GSW,Kuminga 2' Alley Oop Dunk (16 PTS) (Green 6 AST),Made Shot,Alley Oop Dunk Shot,-12,20,2,1,2.0,2.0,h
+S2425-G0126,4,01:22,GSW,,NOP,,J. Kuminga,GSW,SUB: Spencer FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0101,1,10:39,GSW,,LAC,,J. Kuminga,GSW,MISS Kuminga 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-123,250,28,1,3.0,0.0,h
+S2425-G0101,1,09:36,GSW,,LAC,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,1,08:41,GSW,12.0,LAC,11.0,J. Kuminga,GSW,Kuminga 24' 3PT Jump Shot (3 PTS) (Curry 2 AST),Made Shot,Jump Shot,-199,138,24,1,3.0,3.0,h
+S2425-G0101,1,07:47,GSW,,LAC,,J. Kuminga,GSW,Kuminga STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0101,1,07:40,GSW,,LAC,,J. Kuminga,GSW,MISS Kuminga 25' 3PT Jump Shot,Missed Shot,Jump Shot,-15,253,25,1,3.0,0.0,h
+S2425-G0101,1,06:54,GSW,18.0,LAC,16.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0101,1,06:54,GSW,19.0,LAC,16.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0101,1,06:38,GSW,,LAC,,J. Kuminga,GSW,Kuminga S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2425-G0101,1,05:54,GSW,,LAC,,J. Kuminga,GSW,Kuminga REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,1,05:54,GSW,24.0,LAC,21.0,J. Kuminga,GSW,Kuminga Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0101,1,04:53,GSW,,LAC,,J. Kuminga,GSW,SUB: Looney FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0101,2,04:39,GSW,,LAC,,J. Kuminga,GSW,MISS Kuminga 26' 3PT Jump Shot,Missed Shot,Jump Shot,216,146,26,1,3.0,0.0,h
+S2425-G0101,2,04:11,GSW,,LAC,,J. Kuminga,GSW,Kuminga REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,2,03:25,GSW,,LAC,,J. Kuminga,GSW,Kuminga S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2425-G0101,2,03:10,GSW,,LAC,,J. Kuminga,GSW,Kuminga STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0101,2,03:07,GSW,,LAC,,J. Kuminga,GSW,MISS Kuminga Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0101,2,03:07,GSW,45.0,LAC,53.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0101,2,02:13,GSW,47.0,LAC,56.0,J. Kuminga,GSW,Kuminga 12' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,-9,115,12,1,2.0,2.0,h
+S2425-G0101,3,11:20,GSW,56.0,LAC,61.0,J. Kuminga,GSW,Kuminga 5' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,31,38,5,1,2.0,2.0,h
+S2425-G0101,3,10:34,GSW,,LAC,,J. Kuminga,GSW,Kuminga REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,3,10:27,GSW,,LAC,,J. Kuminga,GSW,Kuminga Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0101,3,09:53,GSW,,LAC,,J. Kuminga,GSW,Kuminga STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0101,3,08:40,GSW,,LAC,,J. Kuminga,GSW,SUB: Hield FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0101,4,05:53,GSW,,LAC,,J. Kuminga,GSW,MISS Kuminga 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-184,184,26,1,3.0,0.0,h
+S2425-G0101,4,05:22,GSW,,LAC,,J. Kuminga,GSW,MISS Kuminga Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0101,4,05:22,GSW,,LAC,,J. Kuminga,GSW,MISS Kuminga Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0101,4,02:03,GSW,,LAC,,J. Kuminga,GSW,Kuminga REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,01:54,GSW,,LAC,,J. Kuminga,GSW,MISS Kuminga 26' 3PT Jump Shot,Missed Shot,Jump Shot,-134,222,26,1,3.0,0.0,h
+S2425-G0101,4,01:12,GSW,,LAC,,J. Kuminga,GSW,MISS Kuminga 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-21,128,13,1,2.0,0.0,h
+S2425-G0101,4,01:04,GSW,,LAC,,J. Kuminga,GSW,SUB: Moody FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0072,1,11:01,POR,,GSW,,J. Kuminga,GSW,MISS Kuminga Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0072,1,11:01,POR,2.0,GSW,1.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,1,10:31,POR,,GSW,,J. Kuminga,GSW,MISS Kuminga 3' Layup,Missed Shot,Layup Shot,-25,6,3,1,2.0,0.0,v
+S2425-G0072,1,10:29,POR,,GSW,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,08:30,POR,,GSW,,J. Kuminga,GSW,MISS Kuminga 3PT Jump Shot,Missed Shot,Jump Shot,-232,22,0,1,3.0,0.0,v
+S2425-G0072,1,08:22,POR,,GSW,,J. Kuminga,GSW,Kuminga Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0072,1,08:09,POR,,GSW,,J. Kuminga,GSW,Kuminga P.FOUL (P1.T1) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2425-G0072,1,07:59,POR,,GSW,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,06:46,POR,,GSW,,J. Kuminga,GSW,SUB: Hield FOR Kuminga,Substitution,,0,0,0,0,,,v
+S2425-G0072,2,11:34,POR,,GSW,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,11:29,POR,,GSW,,J. Kuminga,GSW,MISS Kuminga 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-87,73,11,1,2.0,0.0,v
+S2425-G0072,2,11:02,POR,,GSW,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,10:40,POR,,GSW,,J. Kuminga,GSW,MISS Kuminga 2' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,15,12,2,1,2.0,0.0,v
+S2425-G0072,2,10:07,POR,,GSW,,J. Kuminga,GSW,MISS Kuminga 26' 3PT Jump Shot,Missed Shot,Jump Shot,-142,218,26,1,3.0,0.0,v
+S2425-G0072,2,09:50,POR,,GSW,,J. Kuminga,GSW,Kuminga Offensive Charge Foul (P2) (T.Ford),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0072,2,09:50,POR,,GSW,,J. Kuminga,GSW,Kuminga Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0072,2,07:35,POR,31.0,GSW,32.0,J. Kuminga,GSW,Kuminga 1' Cutting Layup Shot (3 PTS) (Melton 1 AST),Made Shot,Cutting Layup Shot,7,11,1,1,2.0,2.0,v
+S2425-G0072,2,07:09,POR,33.0,GSW,33.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,2,07:09,POR,33.0,GSW,34.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,2,06:32,POR,,GSW,,J. Kuminga,GSW,Kuminga BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0072,2,06:17,POR,,GSW,,J. Kuminga,GSW,Kuminga Offensive Charge Foul (P3) (T.Maddox),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0072,2,06:17,POR,,GSW,,J. Kuminga,GSW,Kuminga Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0072,2,06:17,POR,,GSW,,J. Kuminga,GSW,SUB: Green FOR Kuminga,Substitution,,0,0,0,0,,,v
+S2425-G0072,3,11:00,POR,53.0,GSW,66.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,3,11:00,POR,,GSW,,J. Kuminga,GSW,MISS Kuminga Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0072,3,09:54,POR,55.0,GSW,70.0,J. Kuminga,GSW,Kuminga 1' Running Layup (8 PTS) (Curry 9 AST),Made Shot,Running Layup Shot,11,-7,1,1,2.0,2.0,v
+S2425-G0072,3,07:59,POR,,GSW,,J. Kuminga,GSW,Kuminga Out of Bounds Lost Ball Turnover (P4.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0072,3,07:32,POR,60.0,GSW,72.0,J. Kuminga,GSW,Kuminga 1' Cutting Dunk Shot (10 PTS) (Wiggins 2 AST),Made Shot,Cutting Dunk Shot,-4,9,1,1,2.0,2.0,v
+S2425-G0072,3,06:16,POR,,GSW,,J. Kuminga,GSW,MISS Kuminga 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,13,5,1,1,2.0,0.0,v
+S2425-G0072,3,06:06,POR,,GSW,,J. Kuminga,GSW,SUB: Hield FOR Kuminga,Substitution,,0,0,0,0,,,v
+S2425-G0072,4,04:44,POR,,GSW,,J. Kuminga,GSW,SUB: Moody FOR Kuminga,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,06:53,GSW,9.0,NOP,14.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,1,06:53,GSW,10.0,NOP,14.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,1,04:52,GSW,14.0,NOP,18.0,J. Kuminga,GSW,Kuminga 6' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,48,35,6,1,2.0,2.0,h
+S2425-G0116,1,03:59,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,108,134,17,1,2.0,0.0,h
+S2425-G0116,1,03:36,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 26' 3PT Jump Shot,Missed Shot,Jump Shot,203,157,26,1,3.0,0.0,h
+S2425-G0116,1,01:51,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 3' Driving Dunk,Missed Shot,Driving Dunk Shot,22,20,3,1,2.0,0.0,h
+S2425-G0116,2,11:34,GSW,,NOP,,J. Kuminga,GSW,Kuminga Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0116,2,08:15,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,21,69,7,1,2.0,0.0,h
+S2425-G0116,2,07:40,GSW,,NOP,,J. Kuminga,GSW,Kuminga STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,2,07:28,GSW,29.0,NOP,38.0,J. Kuminga,GSW,Kuminga 2' Cutting Layup Shot (6 PTS) (Anderson 3 AST),Made Shot,Cutting Layup Shot,-12,9,2,1,2.0,2.0,h
+S2425-G0116,2,06:59,GSW,,NOP,,J. Kuminga,GSW,Kuminga Traveling Turnover (P2.T6),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0116,2,06:23,GSW,31.0,NOP,40.0,J. Kuminga,GSW,Kuminga 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,42,52,7,1,2.0,2.0,h
+S2425-G0116,2,05:03,GSW,34.0,NOP,42.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,2,05:03,GSW,35.0,NOP,42.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,2,04:01,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 27' 3PT Jump Shot,Missed Shot,Jump Shot,-129,235,27,1,3.0,0.0,h
+S2425-G0116,2,03:48,GSW,,NOP,,J. Kuminga,GSW,SUB: Looney FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0116,3,04:45,GSW,76.0,NOP,70.0,J. Kuminga,GSW,Kuminga 2' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,-6,20,2,1,2.0,2.0,h
+S2425-G0116,3,04:22,GSW,,NOP,,J. Kuminga,GSW,Kuminga BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,3,04:19,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,03:29,GSW,81.0,NOP,72.0,J. Kuminga,GSW,Kuminga 27' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,-168,212,27,1,3.0,3.0,h
+S2425-G0116,3,03:00,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,02:43,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20,55,6,1,2.0,0.0,h
+S2425-G0116,4,08:38,GSW,,NOP,,J. Kuminga,GSW,Kuminga STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0116,4,06:39,GSW,101.0,NOP,88.0,J. Kuminga,GSW,Kuminga 1' Running Dunk (17 PTS),Made Shot,Running Dunk Shot,2,10,1,1,2.0,2.0,h
+S2425-G0116,4,06:20,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,05:02,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-107,95,14,1,2.0,0.0,h
+S2425-G0116,4,04:12,GSW,,NOP,,J. Kuminga,GSW,SUB: Green FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0084,1,10:13,UTA,,GSW,,J. Kuminga,GSW,MISS Kuminga 3PT Jump Shot,Missed Shot,Jump Shot,232,-11,0,1,3.0,0.0,v
+S2425-G0084,1,09:23,UTA,,GSW,,J. Kuminga,GSW,Kuminga BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0084,1,08:22,UTA,,GSW,,J. Kuminga,GSW,MISS Kuminga 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-18,84,9,1,2.0,0.0,v
+S2425-G0084,1,07:26,UTA,,GSW,,J. Kuminga,GSW,Kuminga REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,06:46,UTA,,GSW,,J. Kuminga,GSW,MISS Kuminga 3' Driving Layup,Missed Shot,Driving Layup Shot,-20,27,3,1,2.0,0.0,v
+S2425-G0084,1,06:27,UTA,,GSW,,J. Kuminga,GSW,SUB: Hield FOR Kuminga,Substitution,,0,0,0,0,,,v
+S2425-G0084,2,03:30,UTA,35.0,GSW,43.0,J. Kuminga,GSW,Kuminga 3' Alley Oop Dunk (2 PTS) (Hield 3 AST),Made Shot,Alley Oop Dunk Shot,25,11,3,1,2.0,2.0,v
+S2425-G0084,3,08:49,UTA,,GSW,,J. Kuminga,GSW,MISS Kuminga 8' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-71,31,8,1,2.0,0.0,v
+S2425-G0084,3,05:49,UTA,,GSW,,J. Kuminga,GSW,SUB: Hield FOR Kuminga,Substitution,,0,0,0,0,,,v

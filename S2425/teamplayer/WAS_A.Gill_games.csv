@@ -1,0 +1,5 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0073,4,02:35,WAS,,BOS,,A. Gill,WAS,Gill Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0073,4,01:42,WAS,98.0,BOS,121.0,A. Gill,WAS,Gill 1' Cutting Dunk Shot (2 PTS) (Butler 2 AST),Made Shot,Cutting Dunk Shot,-5,0,1,1,2.0,2.0,h
+S2425-G0073,4,01:22,WAS,,BOS,,A. Gill,WAS,Gill STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0073,4,00:30.500000,WAS,,BOS,,A. Gill,WAS,MISS Gill 7' Driving Layup,Missed Shot,Driving Layup Shot,36,55,7,1,2.0,0.0,h

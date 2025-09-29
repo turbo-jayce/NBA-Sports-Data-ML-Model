@@ -1,0 +1,48 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0075,1,10:36,DEN,3.0,OKC,2.0,I. Joe,OKC,Joe 6' Floating Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Floating Jump shot,60,1,6,1,2.0,2.0,v
+S2425-G0075,1,08:24,DEN,,OKC,,I. Joe,OKC,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,-186,184,26,1,3.0,0.0,v
+S2425-G0075,1,04:31,DEN,21.0,OKC,17.0,I. Joe,OKC,Joe 16' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,-31,155,16,1,2.0,2.0,v
+S2425-G0075,1,04:03,DEN,,OKC,,I. Joe,OKC,SUB: Caruso FOR Joe,Substitution,,0,0,0,0,,,v
+S2425-G0075,2,03:37,DEN,45.0,OKC,52.0,I. Joe,OKC,Joe 26' 3PT Jump Shot (7 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,-184,190,26,1,3.0,3.0,v
+S2425-G0075,2,01:48,DEN,,OKC,,I. Joe,OKC,MISS Joe 27' 3PT Jump Shot,Missed Shot,Jump Shot,-195,180,27,1,3.0,0.0,v
+S2425-G0075,2,01:42,DEN,,OKC,,I. Joe,OKC,MISS Joe 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-27,60,7,1,2.0,0.0,v
+S2425-G0075,2,00:55.300000,DEN,,OKC,,I. Joe,OKC,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,64,256,26,1,3.0,0.0,v
+S2425-G0075,2,00:55.300000,DEN,,OKC,,I. Joe,OKC,Joe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,2,00:00.300000,DEN,,OKC,,I. Joe,OKC,MISS Joe 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-107,25,11,1,2.0,0.0,v
+S2425-G0075,3,11:09,DEN,,OKC,,I. Joe,OKC,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,147,216,26,1,3.0,0.0,v
+S2425-G0075,3,07:15,DEN,,OKC,,I. Joe,OKC,Joe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,05:33,DEN,,OKC,,I. Joe,OKC,SUB: Caruso FOR Joe,Substitution,,0,0,0,0,,,v
+S2425-G0075,4,01:19,DEN,,OKC,,I. Joe,OKC,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,175,194,26,1,3.0,0.0,v
+S2425-G0075,4,01:11,DEN,,OKC,,I. Joe,OKC,SUB: Ducas FOR Joe,Substitution,,0,0,0,0,,,v
+S2425-G0091,1,02:34,CHI,,OKC,,I. Joe,OKC,Joe P.FOUL (P1.T4) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2425-G0091,1,00:32.900000,CHI,20.0,OKC,26.0,I. Joe,OKC,Joe 25' 3PT Jump Shot (3 PTS) (Williams 4 AST),Made Shot,Jump Shot,153,200,25,1,3.0,3.0,v
+S2425-G0091,2,09:07,CHI,,OKC,,I. Joe,OKC,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,216,26,1,3.0,0.0,v
+S2425-G0091,2,07:31,CHI,,OKC,,I. Joe,OKC,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,-148,218,26,1,3.0,0.0,v
+S2425-G0091,2,06:55,CHI,,OKC,,I. Joe,OKC,SUB: Wallace FOR Joe,Substitution,,0,0,0,0,,,v
+S2425-G0091,3,01:05,CHI,,OKC,,I. Joe,OKC,Joe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,00:49.200000,CHI,,OKC,,I. Joe,OKC,Joe S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0091,3,00:27.400000,CHI,65.0,OKC,86.0,I. Joe,OKC,Joe 26' 3PT Jump Shot (6 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,-71,247,26,1,3.0,3.0,v
+S2425-G0091,4,10:54,CHI,,OKC,,I. Joe,OKC,SUB: Holmgren FOR Joe,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,04:10,OKC,,ATL,,I. Joe,OKC,MISS Joe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-165,199,26,1,3.0,0.0,h
+S2425-G0100,1,03:46,OKC,,ATL,,I. Joe,OKC,Joe S.FOUL (P1.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,1,03:08,OKC,,ATL,,I. Joe,OKC,MISS Joe 1' Layup,Missed Shot,Layup Shot,-12,6,1,1,2.0,0.0,h
+S2425-G0100,1,03:07,OKC,,ATL,,I. Joe,OKC,Joe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,1,02:20,OKC,,ATL,,I. Joe,OKC,MISS Joe 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,188,157,24,1,3.0,0.0,h
+S2425-G0100,1,02:05,OKC,,ATL,,I. Joe,OKC,MISS Joe 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,107,279,30,1,3.0,0.0,h
+S2425-G0100,2,09:01,OKC,33.0,ATL,34.0,I. Joe,OKC,Joe 25' 3PT Jump Shot (3 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,208,134,25,1,3.0,3.0,h
+S2425-G0100,2,08:33,OKC,,ATL,,I. Joe,OKC,MISS Joe 13' Jump Shot,Missed Shot,Jump Shot,71,110,13,1,2.0,0.0,h
+S2425-G0100,2,08:05,OKC,,ATL,,I. Joe,OKC,SUB: Dort FOR Joe,Substitution,,0,0,0,0,,,h
+S2425-G0100,2,05:21,OKC,,ATL,,I. Joe,OKC,Joe L.B.FOUL (P2.T4) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0100,2,04:26,OKC,,ATL,,I. Joe,OKC,Joe S.FOUL (P3.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,2,04:04,OKC,,ATL,,I. Joe,OKC,SUB: Holmgren FOR Joe,Substitution,,0,0,0,0,,,h
+S2425-G0100,3,03:08,OKC,,ATL,,I. Joe,OKC,Joe Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0100,3,02:17,OKC,84.0,ATL,82.0,I. Joe,OKC,Joe 26' 3PT Jump Shot (6 PTS) (Williams 4 AST),Made Shot,Jump Shot,83,249,26,1,3.0,3.0,h
+S2425-G0100,3,01:26,OKC,,ATL,,I. Joe,OKC,SUB: Gilgeous-Alexander FOR Joe,Substitution,,0,0,0,0,,,h
+S2425-G0125,2,10:19,OKC,,SAS,,I. Joe,OKC,Joe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,2,09:35,OKC,31.0,SAS,22.0,I. Joe,OKC,Joe 24' 3PT Step Back Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Step Back Jump shot,-235,-6,24,1,3.0,3.0,h
+S2425-G0125,2,05:46,OKC,,SAS,,I. Joe,OKC,SUB: Dieng FOR Joe,Substitution,,0,0,0,0,,,h
+S2425-G0125,3,04:36,OKC,,SAS,,I. Joe,OKC,Joe P.FOUL (P1.T3) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2425-G0125,3,03:46,OKC,,SAS,,I. Joe,OKC,Joe STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0125,3,01:54,OKC,82.0,SAS,70.0,I. Joe,OKC,Joe 26' 3PT Jump Shot (6 PTS) (Wiggins 3 AST),Made Shot,Jump Shot,125,231,26,1,3.0,3.0,h
+S2425-G0125,3,01:29,OKC,,SAS,,I. Joe,OKC,MISS Joe 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-18,24,1,3.0,0.0,h
+S2425-G0125,4,05:52,OKC,,SAS,,I. Joe,OKC,SUB: Gilgeous-Alexander FOR Joe,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,10 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,00:38,DAL,,SAS,,T. Jones,SAS,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,05:21,DAL,,SAS,,T. Jones,SAS,MISS Jones 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-109,12,11,1,2.0,0.0,v
+S2425-G0074,2,04:42,DAL,,SAS,,T. Jones,SAS,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0074,2,02:48,DAL,,SAS,,T. Jones,SAS,SUB: Wembanyama FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0074,3,02:58,DAL,78.0,SAS,74.0,T. Jones,SAS,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,02:58,DAL,78.0,SAS,75.0,T. Jones,SAS,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,02:32,DAL,,SAS,,T. Jones,SAS,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,-54,0,5,1,2.0,0.0,v
+S2425-G0074,3,00:10.700000,DAL,,SAS,,T. Jones,SAS,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0074,3,00:10.700000,DAL,87.0,SAS,80.0,T. Jones,SAS,Jones Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v

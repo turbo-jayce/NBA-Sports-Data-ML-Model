@@ -1,0 +1,13 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0088,1,03:09,CHA,,MIA,,M. Diabaté,CHA,Diabaté OFF.Foul (P1) (S.Mitchell),Foul,Offensive,0,0,0,0,,,h
+S2425-G0088,1,03:09,CHA,,MIA,,M. Diabaté,CHA,Diabaté Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0088,1,02:56,CHA,,MIA,,M. Diabaté,CHA,HORNETS T.Foul (Def. 3 Sec Diabaté ) (K.Lane),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0088,1,02:19,CHA,,MIA,,M. Diabaté,CHA,Diabaté REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,1,02:00,CHA,17.0,MIA,19.0,M. Diabaté,CHA,Diabaté 5' Reverse Layup (2 PTS) (Bridges 1 AST),Made Shot,Reverse Layup Shot,-39,23,5,1,2.0,2.0,h
+S2425-G0088,1,01:13,CHA,,MIA,,M. Diabaté,CHA,Diabaté REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,1,01:11,CHA,19.0,MIA,21.0,M. Diabaté,CHA,Diabaté 3' Layup (4 PTS),Made Shot,Layup Shot,-2,28,3,1,2.0,2.0,h
+S2425-G0088,1,00:18.200000,CHA,,MIA,,M. Diabaté,CHA,MISS Diabaté Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0088,1,00:18.200000,CHA,23.0,MIA,23.0,M. Diabaté,CHA,Diabaté Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0088,1,00:07.200000,CHA,,MIA,,M. Diabaté,CHA,SUB: Williams FOR Diabaté,Substitution,,0,0,0,0,,,h
+S2425-G0088,2,01:09,CHA,,MIA,,M. Diabaté,CHA,SUB: Richards FOR Diabaté,Substitution,,0,0,0,0,,,h
+S2425-G0088,3,01:20,CHA,,MIA,,M. Diabaté,CHA,Diabaté S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h

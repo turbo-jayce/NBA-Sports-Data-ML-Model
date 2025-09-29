@@ -1,0 +1,117 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0121,1,12:00,WAS,,ATL,,A. Sarr,WAS,Jump Ball Sarr vs. Capela: Tip to Johnson,Jump Ball,,0,0,0,0,,,h
+S2425-G0121,1,11:17,WAS,3.0,ATL,0.0,A. Sarr,WAS,Sarr 24' 3PT Jump Shot (3 PTS) (Poole 1 AST),Made Shot,Jump Shot,243,-5,24,1,3.0,3.0,h
+S2425-G0121,1,11:01,WAS,,ATL,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,1,10:55,WAS,4.0,ATL,0.0,A. Sarr,WAS,Sarr Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,1,10:55,WAS,,ATL,,A. Sarr,WAS,MISS Sarr Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0121,1,10:35,WAS,,ATL,,A. Sarr,WAS,MISS Sarr 5' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,45,12,5,1,2.0,0.0,h
+S2425-G0121,1,09:44,WAS,,ATL,,A. Sarr,WAS,Sarr S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0121,1,08:13,WAS,,ATL,,A. Sarr,WAS,Sarr BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0121,1,08:13,WAS,,ATL,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,1,07:45,WAS,,ATL,,A. Sarr,WAS,Sarr Offensive Charge Foul (P2) (S.Jelks),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0121,1,07:45,WAS,,ATL,,A. Sarr,WAS,Sarr Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0121,1,06:17,WAS,,ATL,,A. Sarr,WAS,SUB: Kispert FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0121,2,08:41,WAS,,ATL,,A. Sarr,WAS,MISS Sarr 28' 3PT Jump Shot,Missed Shot,Jump Shot,185,216,28,1,3.0,0.0,h
+S2425-G0121,2,08:06,WAS,,ATL,,A. Sarr,WAS,MISS Sarr 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-2,74,7,1,2.0,0.0,h
+S2425-G0121,2,07:19,WAS,,ATL,,A. Sarr,WAS,Sarr BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0121,2,07:19,WAS,,ATL,,A. Sarr,WAS,SUB: Poole FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0121,2,02:08,WAS,,ATL,,A. Sarr,WAS,MISS Sarr 4' Running Layup,Missed Shot,Running Layup Shot,33,25,4,1,2.0,0.0,h
+S2425-G0121,2,01:47,WAS,,ATL,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,2,00:30.600000,WAS,56.0,ATL,65.0,A. Sarr,WAS,Sarr Free Throw Flagrant 1 of 2 (5 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,2,00:30.600000,WAS,57.0,ATL,65.0,A. Sarr,WAS,Sarr Free Throw Flagrant 2 of 2 (6 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,2,00:02,WAS,,ATL,,A. Sarr,WAS,SUB: Valančiūnas FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0121,3,11:40,WAS,,ATL,,A. Sarr,WAS,MISS Sarr 27' 3PT Jump Shot,Missed Shot,Jump Shot,-176,201,27,1,3.0,0.0,h
+S2425-G0121,3,10:40,WAS,,ATL,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,3,09:27,WAS,,ATL,,A. Sarr,WAS,Sarr BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0121,3,09:25,WAS,,ATL,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,3,08:39,WAS,,ATL,,A. Sarr,WAS,MISS Sarr 26' 3PT Jump Shot,Missed Shot,Jump Shot,-137,222,26,1,3.0,0.0,h
+S2425-G0121,3,07:17,WAS,,ATL,,A. Sarr,WAS,Sarr Violation:Defensive Goaltending (S.Wright),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2425-G0121,3,06:36,WAS,,ATL,,A. Sarr,WAS,SUB: Kispert FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0121,4,11:15,WAS,,ATL,,A. Sarr,WAS,Sarr STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0121,4,10:57,WAS,99.0,ATL,92.0,A. Sarr,WAS,Sarr 24' 3PT Jump Shot (9 PTS) (Kispert 1 AST),Made Shot,Jump Shot,239,22,24,1,3.0,3.0,h
+S2425-G0121,4,10:29,WAS,,ATL,,A. Sarr,WAS,Sarr BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0121,4,09:20,WAS,106.0,ATL,96.0,A. Sarr,WAS,Sarr 17' Turnaround Fadeaway (11 PTS) (Kispert 2 AST),Made Shot,Turnaround Fadeaway shot,13,174,17,1,2.0,2.0,h
+S2425-G0121,4,08:10,WAS,,ATL,,A. Sarr,WAS,SUB: Valančiūnas FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0073,1,12:00,WAS,,BOS,,A. Sarr,WAS,Jump Ball Sarr vs. Horford: Tip to White,Jump Ball,,0,0,0,0,,,h
+S2425-G0073,1,11:49,WAS,,BOS,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,10:43,WAS,,BOS,,A. Sarr,WAS,MISS Sarr 26' 3PT Jump Shot,Missed Shot,Jump Shot,129,225,26,1,3.0,0.0,h
+S2425-G0073,1,10:04,WAS,,BOS,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,08:57,WAS,,BOS,,A. Sarr,WAS,MISS Sarr 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,207,26,1,3.0,0.0,h
+S2425-G0073,1,07:50,WAS,,BOS,,A. Sarr,WAS,Sarr BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0073,1,07:28,WAS,,BOS,,A. Sarr,WAS,Sarr REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,07:28,WAS,12.0,BOS,12.0,A. Sarr,WAS,Sarr Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0073,1,06:41,WAS,,BOS,,A. Sarr,WAS,SUB: Kispert FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0073,2,11:10,WAS,,BOS,,A. Sarr,WAS,Sarr REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,2,10:08,WAS,,BOS,,A. Sarr,WAS,Sarr S.FOUL (P1.T1) (J.Reneau),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,2,09:34,WAS,,BOS,,A. Sarr,WAS,Sarr REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,2,09:17,WAS,,BOS,,A. Sarr,WAS,Sarr S.FOUL (P2.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,2,08:46,WAS,,BOS,,A. Sarr,WAS,SUB: Bagley III FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0073,2,00:52.700000,WAS,,BOS,,A. Sarr,WAS,MISS Sarr 26' 3PT Jump Shot,Missed Shot,Jump Shot,-126,227,26,1,3.0,0.0,h
+S2425-G0073,3,11:42,WAS,,BOS,,A. Sarr,WAS,MISS Sarr 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-34,6,3,1,2.0,0.0,h
+S2425-G0073,3,11:37,WAS,,BOS,,A. Sarr,WAS,Sarr Violation:Defensive Goaltending (J.Capers),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2425-G0073,3,09:40,WAS,,BOS,,A. Sarr,WAS,MISS Sarr 27' 3PT Jump Shot,Missed Shot,Jump Shot,-7,268,27,1,3.0,0.0,h
+S2425-G0073,3,06:39,WAS,,BOS,,A. Sarr,WAS,SUB: Valančiūnas FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0073,4,10:48,WAS,,BOS,,A. Sarr,WAS,Sarr BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0073,4,08:47,WAS,,BOS,,A. Sarr,WAS,MISS Sarr 25' 3PT Jump Shot,Missed Shot,Jump Shot,-21,251,25,1,3.0,0.0,h
+S2425-G0073,4,08:04,WAS,,BOS,,A. Sarr,WAS,SUB: Baldwin Jr. FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,12:00,WAS,,CLE,,A. Sarr,WAS,Jump Ball Sarr vs. Allen: Tip to Mobley,Jump Ball,,0,0,0,0,,,h
+S2425-G0090,1,11:29,WAS,,CLE,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,1,09:54,WAS,,CLE,,A. Sarr,WAS,MISS Sarr 26' 3PT Jump Shot,Missed Shot,Jump Shot,87,248,26,1,3.0,0.0,h
+S2425-G0090,1,09:26,WAS,4.0,CLE,7.0,A. Sarr,WAS,Sarr 3' Driving Finger Roll Layup (2 PTS) (Poole 1 AST),Made Shot,Driving Finger Roll Layup Shot,-22,16,3,1,2.0,2.0,h
+S2425-G0090,1,09:12,WAS,,CLE,,A. Sarr,WAS,Sarr STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0090,1,08:31,WAS,,CLE,,A. Sarr,WAS,Sarr S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,1,06:57,WAS,,CLE,,A. Sarr,WAS,SUB: Kispert FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0090,2,11:45,WAS,,CLE,,A. Sarr,WAS,MISS Sarr 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-55,75,9,1,2.0,0.0,h
+S2425-G0090,2,11:18,WAS,,CLE,,A. Sarr,WAS,MISS Sarr 28' 3PT Jump Shot,Missed Shot,Jump Shot,219,178,28,1,3.0,0.0,h
+S2425-G0090,2,10:31,WAS,,CLE,,A. Sarr,WAS,Sarr BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0090,2,10:01,WAS,,CLE,,A. Sarr,WAS,MISS Sarr 6' Hook Shot,Missed Shot,Hook Shot,-5,58,6,1,2.0,0.0,h
+S2425-G0090,2,09:51,WAS,,CLE,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,2,09:15,WAS,,CLE,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,2,07:56,WAS,,CLE,,A. Sarr,WAS,SUB: Valančiūnas FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0090,2,03:02,WAS,39.0,CLE,48.0,A. Sarr,WAS,Sarr 2' Running Alley Oop Dunk Shot (4 PTS) (Kuzma 2 AST),Made Shot,Running Alley Oop Dunk Shot,15,11,2,1,2.0,2.0,h
+S2425-G0090,2,02:08,WAS,45.0,CLE,52.0,A. Sarr,WAS,Sarr 27' 3PT Jump Shot (7 PTS) (Poole 5 AST),Made Shot,Jump Shot,-138,227,27,1,3.0,3.0,h
+S2425-G0090,2,00:07.700000,WAS,,CLE,,A. Sarr,WAS,SUB: George FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0090,3,10:54,WAS,,CLE,,A. Sarr,WAS,Sarr REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,3,10:37,WAS,,CLE,,A. Sarr,WAS,MISS Sarr 27' 3PT Jump Shot,Missed Shot,Jump Shot,219,163,27,1,3.0,0.0,h
+S2425-G0090,3,08:15,WAS,,CLE,,A. Sarr,WAS,SUB: Carrington FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0090,3,04:23,WAS,,CLE,,A. Sarr,WAS,Sarr REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,3,04:15,WAS,63.0,CLE,80.0,A. Sarr,WAS,Sarr Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,3,04:15,WAS,64.0,CLE,80.0,A. Sarr,WAS,Sarr Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,3,02:34,WAS,,CLE,,A. Sarr,WAS,Sarr BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0090,3,02:31,WAS,,CLE,,A. Sarr,WAS,Sarr REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,3,01:17,WAS,,CLE,,A. Sarr,WAS,Sarr P.FOUL (P2.PN) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0090,3,01:10,WAS,,CLE,,A. Sarr,WAS,MISS Sarr 26' 3PT Jump Shot,Missed Shot,Jump Shot,89,242,26,1,3.0,0.0,h
+S2425-G0090,3,00:42.400000,WAS,78.0,CLE,95.0,A. Sarr,WAS,Sarr 26' 3PT Jump Shot (12 PTS) (Kispert 2 AST),Made Shot,Jump Shot,-192,174,26,1,3.0,3.0,h
+S2425-G0090,3,00:33.100000,WAS,,CLE,,A. Sarr,WAS,Sarr S.FOUL (P3.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,4,09:46,WAS,,CLE,,A. Sarr,WAS,SUB: Bagley III FOR Sarr,Substitution,,0,0,0,0,,,h
+S2425-G0103,1,11:48,ATL,0.0,WAS,2.0,A. Sarr,WAS,Sarr 1' Dunk (2 PTS) (Kuzma 1 AST),Made Shot,Dunk Shot,-4,11,1,1,2.0,2.0,v
+S2425-G0103,1,11:27,ATL,,WAS,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,1,09:50,ATL,,WAS,,A. Sarr,WAS,MISS Sarr 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,213,131,25,1,3.0,0.0,v
+S2425-G0103,1,08:29,ATL,,WAS,,A. Sarr,WAS,MISS Sarr 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,220,26,1,3.0,0.0,v
+S2425-G0103,1,07:14,ATL,,WAS,,A. Sarr,WAS,SUB: Kispert FOR Sarr,Substitution,,0,0,0,0,,,v
+S2425-G0103,2,11:53,ATL,,WAS,,A. Sarr,WAS,Sarr BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0103,2,10:49,ATL,,WAS,,A. Sarr,WAS,MISS Sarr 26' 3PT Jump Shot,Missed Shot,Jump Shot,-60,251,26,1,3.0,0.0,v
+S2425-G0103,2,10:38,ATL,,WAS,,A. Sarr,WAS,Sarr S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,2,08:51,ATL,,WAS,,A. Sarr,WAS,Sarr REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,2,07:31,ATL,,WAS,,A. Sarr,WAS,MISS Sarr 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,13,19,2,1,2.0,0.0,v
+S2425-G0103,2,07:29,ATL,,WAS,,A. Sarr,WAS,Sarr REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,2,07:29,ATL,,WAS,,A. Sarr,WAS,MISS Sarr Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0103,2,07:28,ATL,,WAS,,A. Sarr,WAS,Sarr REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,2,07:28,ATL,,WAS,,A. Sarr,WAS,MISS Sarr Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0103,2,06:43,ATL,37.0,WAS,31.0,A. Sarr,WAS,Sarr 14' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,136,26,14,1,2.0,2.0,v
+S2425-G0103,2,05:49,ATL,,WAS,,A. Sarr,WAS,SUB: Valančiūnas FOR Sarr,Substitution,,0,0,0,0,,,v
+S2425-G0103,3,11:02,ATL,62.0,WAS,57.0,A. Sarr,WAS,Sarr 25' 3PT Jump Shot (7 PTS) (Coulibaly 2 AST),Made Shot,Jump Shot,13,251,25,1,3.0,3.0,v
+S2425-G0103,3,10:12,ATL,,WAS,,A. Sarr,WAS,Sarr REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,3,09:57,ATL,,WAS,,A. Sarr,WAS,Sarr BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0103,3,09:53,ATL,,WAS,,A. Sarr,WAS,Sarr REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,3,07:31,ATL,,WAS,,A. Sarr,WAS,Sarr P.FOUL (P2.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2425-G0103,3,07:24,ATL,,WAS,,A. Sarr,WAS,Sarr STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0103,3,03:33,ATL,,WAS,,A. Sarr,WAS,Sarr REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,3,03:25,ATL,,WAS,,A. Sarr,WAS,SUB: Valančiūnas FOR Sarr,Substitution,,0,0,0,0,,,v
+S2425-G0103,4,05:55,ATL,,WAS,,A. Sarr,WAS,Sarr Out of Bounds - Bad Pass Turnover Turnover (P1.T18),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0103,4,05:13,ATL,,WAS,,A. Sarr,WAS,Sarr REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,4,03:31,ATL,,WAS,,A. Sarr,WAS,Sarr S.FOUL (P3.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,4,03:12,ATL,,WAS,,A. Sarr,WAS,Sarr REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,4,03:10,ATL,,WAS,,A. Sarr,WAS,MISS Sarr Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0103,4,03:05,ATL,,WAS,,A. Sarr,WAS,Sarr S.FOUL (P4.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,4,02:09,ATL,,WAS,,A. Sarr,WAS,MISS Sarr 26' 3PT Jump Shot,Missed Shot,Jump Shot,-146,218,26,1,3.0,0.0,v

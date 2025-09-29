@@ -1,0 +1,169 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0091,1,11:06,CHI,,OKC,,C. White,CHI,MISS White 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-7,24,1,3.0,0.0,h
+S2425-G0091,1,10:13,CHI,,OKC,,C. White,CHI,White Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0091,1,08:36,CHI,,OKC,,C. White,CHI,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,-241,55,25,1,3.0,0.0,h
+S2425-G0091,1,08:36,CHI,,OKC,,C. White,CHI,White S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0091,1,07:33,CHI,,OKC,,C. White,CHI,White Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0091,1,07:04,CHI,,OKC,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0091,1,02:42,CHI,,OKC,,C. White,CHI,White S.FOUL (P2.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0091,1,00:51.200000,CHI,,OKC,,C. White,CHI,MISS White Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0091,1,00:51.200000,CHI,20.0,OKC,23.0,C. White,CHI,White Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,2,10:02,CHI,26.0,OKC,28.0,C. White,CHI,White 12' Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-119,3,12,1,2.0,2.0,h
+S2425-G0091,2,09:57,CHI,,OKC,,C. White,CHI,SUB: LaVine FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0091,2,05:35,CHI,,OKC,,C. White,CHI,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,-89,235,25,1,3.0,0.0,h
+S2425-G0091,2,04:23,CHI,,OKC,,C. White,CHI,MISS White Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0091,2,04:23,CHI,,OKC,,C. White,CHI,MISS White Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0091,2,02:49,CHI,,OKC,,C. White,CHI,MISS White 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,230,90,25,1,3.0,0.0,h
+S2425-G0091,2,00:20.200000,CHI,,OKC,,C. White,CHI,SUB: Phillips FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0091,3,11:27,CHI,,OKC,,C. White,CHI,MISS White 27' 3PT Jump Shot,Missed Shot,Jump Shot,-152,225,27,1,3.0,0.0,h
+S2425-G0091,3,10:32,CHI,,OKC,,C. White,CHI,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,09:53,CHI,,OKC,,C. White,CHI,MISS White 3PT Jump Shot,Missed Shot,Jump Shot,-228,6,0,1,3.0,0.0,h
+S2425-G0091,3,09:21,CHI,,OKC,,C. White,CHI,White P.FOUL (P3.T1) (I.Hwang),Foul,Personal,0,0,0,0,,,h
+S2425-G0091,3,09:08,CHI,,OKC,,C. White,CHI,White STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0091,3,06:28,CHI,,OKC,,C. White,CHI,MISS White 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-235,0,24,1,3.0,0.0,h
+S2425-G0091,3,06:23,CHI,,OKC,,C. White,CHI,SUB: Ball FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0091,3,02:22,CHI,,OKC,,C. White,CHI,White REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,01:58,CHI,,OKC,,C. White,CHI,White Traveling Turnover (P3.T21),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0091,3,01:16,CHI,,OKC,,C. White,CHI,White REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,00:49.200000,CHI,64.0,OKC,83.0,C. White,CHI,White 3' Running Layup (5 PTS),Made Shot,Running Layup Shot,26,12,3,1,2.0,2.0,h
+S2425-G0091,3,00:49.200000,CHI,65.0,OKC,83.0,C. White,CHI,White Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0091,4,11:28,CHI,,OKC,,C. White,CHI,White REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,4,10:54,CHI,70.0,OKC,90.0,C. White,CHI,White 9' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,-36,81,9,1,2.0,2.0,h
+S2425-G0091,4,10:54,CHI,71.0,OKC,90.0,C. White,CHI,White Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0091,4,10:17,CHI,,OKC,,C. White,CHI,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,-165,201,26,1,3.0,0.0,h
+S2425-G0091,4,10:09,CHI,,OKC,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0091,4,05:23,CHI,,OKC,,C. White,CHI,MISS White 3PT Jump Shot,Missed Shot,Jump Shot,-228,21,0,1,3.0,0.0,h
+S2425-G0091,4,04:26,CHI,,OKC,,C. White,CHI,SUB: Terry FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0069,1,10:25,NOP,,CHI,,C. White,CHI,White S.FOUL (P1.T1) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,1,08:59,NOP,,CHI,,C. White,CHI,MISS White 29' 3PT Jump Shot,Missed Shot,Jump Shot,-85,279,29,1,3.0,0.0,v
+S2425-G0069,1,07:25,NOP,,CHI,,C. White,CHI,MISS White 27' 3PT Jump Shot,Missed Shot,Jump Shot,136,228,27,1,3.0,0.0,v
+S2425-G0069,1,05:03,NOP,,CHI,,C. White,CHI,MISS White 29' 3PT Jump Shot,Missed Shot,Jump Shot,137,253,29,1,3.0,0.0,v
+S2425-G0069,1,03:44,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,03:40,NOP,,CHI,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,08:06,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,07:19,NOP,,CHI,,C. White,CHI,MISS White 4' Running Layup,Missed Shot,Running Layup Shot,-28,26,4,1,2.0,0.0,v
+S2425-G0069,2,04:27,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,04:19,NOP,48.0,CHI,49.0,C. White,CHI,White 2' Driving Layup (2 PTS) (LaVine 2 AST),Made Shot,Driving Layup Shot,17,5,2,1,2.0,2.0,v
+S2425-G0069,2,04:05,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,02:47,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,01:19,NOP,,CHI,,C. White,CHI,MISS White 28' 3PT Jump Shot,Missed Shot,Jump Shot,-150,232,28,1,3.0,0.0,v
+S2425-G0069,3,10:45,NOP,63.0,CHI,63.0,C. White,CHI,White 2' Driving Layup (4 PTS) (Vučević 1 AST),Made Shot,Driving Layup Shot,18,-7,2,1,2.0,2.0,v
+S2425-G0069,3,08:22,NOP,,CHI,,C. White,CHI,White Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,3,08:00,NOP,,CHI,,C. White,CHI,White Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,3,07:44,NOP,,CHI,,C. White,CHI,SUB: Ball FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,04:48,NOP,,CHI,,C. White,CHI,White Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0069,3,03:01,NOP,,CHI,,C. White,CHI,MISS White 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,152,195,25,1,3.0,0.0,v
+S2425-G0069,3,02:17,NOP,,CHI,,C. White,CHI,MISS White 23' Jump Shot,Missed Shot,Jump Shot,75,215,23,1,2.0,0.0,v
+S2425-G0069,3,02:07,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,02:03,NOP,88.0,CHI,79.0,C. White,CHI,White 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,17,-2,2,1,2.0,2.0,v
+S2425-G0069,3,01:26,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,01:22,NOP,90.0,CHI,80.0,C. White,CHI,White Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,01:22,NOP,90.0,CHI,81.0,C. White,CHI,White Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,00:43.700000,NOP,93.0,CHI,83.0,C. White,CHI,White 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,17,-6,2,1,2.0,2.0,v
+S2425-G0069,3,00:19.200000,NOP,,CHI,,C. White,CHI,MISS White 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,82,8,1,2.0,0.0,v
+S2425-G0069,4,11:39,NOP,,CHI,,C. White,CHI,White Bad Pass Turnover (P4.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,4,11:36,NOP,,CHI,,C. White,CHI,White STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0069,4,11:19,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,09:54,NOP,,CHI,,C. White,CHI,SUB: Giddey FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,03:03,NOP,,CHI,,C. White,CHI,White BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0069,4,02:41,NOP,,CHI,,C. White,CHI,MISS White 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-27,-1,3,1,2.0,0.0,v
+S2425-G0069,4,01:46,NOP,,CHI,,C. White,CHI,SUB: Terry FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0123,1,09:59,CHI,,ORL,,C. White,CHI,MISS White 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,237,90,25,1,3.0,0.0,h
+S2425-G0123,1,08:27,CHI,4.0,ORL,9.0,C. White,CHI,White 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-43,125,13,1,2.0,2.0,h
+S2425-G0123,1,05:16,CHI,,ORL,,C. White,CHI,SUB: Phillips FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0123,1,01:39,CHI,,ORL,,C. White,CHI,MISS White 23' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-130,184,23,1,2.0,0.0,h
+S2425-G0123,1,00:28.500000,CHI,18.0,ORL,33.0,C. White,CHI,White 2' Driving Layup (4 PTS) (Vučević 1 AST),Made Shot,Driving Layup Shot,-16,6,2,1,2.0,2.0,h
+S2425-G0123,1,00:01,CHI,,ORL,,C. White,CHI,White STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0123,1,00:00,CHI,,ORL,,C. White,CHI,MISS White 71' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,704,71,1,3.0,0.0,h
+S2425-G0123,2,11:47,CHI,20.0,ORL,33.0,C. White,CHI,White 10' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-81,66,10,1,2.0,2.0,h
+S2425-G0123,2,11:17,CHI,,ORL,,C. White,CHI,MISS White 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,263,26,1,3.0,0.0,h
+S2425-G0123,2,09:01,CHI,,ORL,,C. White,CHI,MISS White Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0123,2,09:01,CHI,28.0,ORL,45.0,C. White,CHI,White Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,2,08:43,CHI,31.0,ORL,48.0,C. White,CHI,White 27' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,163,218,27,1,3.0,3.0,h
+S2425-G0123,2,07:51,CHI,34.0,ORL,50.0,C. White,CHI,White 26' 3PT Running Pull-Up Jump Shot (13 PTS) (LaVine 1 AST),Made Shot,Running Pull-Up Jump Shot,-147,210,26,1,3.0,3.0,h
+S2425-G0123,2,07:23,CHI,,ORL,,C. White,CHI,SUB: Terry FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0123,2,03:39,CHI,46.0,ORL,55.0,C. White,CHI,White 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,0,10,1,1,2.0,2.0,h
+S2425-G0123,2,01:09,CHI,,ORL,,C. White,CHI,White Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0123,2,00:36.600000,CHI,,ORL,,C. White,CHI,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,3,11:13,CHI,,ORL,,C. White,CHI,MISS White 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-21,75,8,1,2.0,0.0,h
+S2425-G0123,3,10:11,CHI,,ORL,,C. White,CHI,MISS White 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-199,149,25,1,3.0,0.0,h
+S2425-G0123,3,06:53,CHI,69.0,ORL,71.0,C. White,CHI,White 27' 3PT Jump Shot (18 PTS) (LaVine 2 AST),Made Shot,Jump Shot,-85,260,27,1,3.0,3.0,h
+S2425-G0123,3,06:35,CHI,,ORL,,C. White,CHI,White REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,3,05:55,CHI,,ORL,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0123,3,02:52,CHI,,ORL,,C. White,CHI,MISS White 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-45,275,28,1,3.0,0.0,h
+S2425-G0123,3,01:35,CHI,,ORL,,C. White,CHI,White S.FOUL (P1.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0123,3,01:25,CHI,84.0,ORL,82.0,C. White,CHI,White 26' 3PT Step Back Jump Shot (21 PTS) (Dosunmu 3 AST),Made Shot,Step Back Jump shot,-94,239,26,1,3.0,3.0,h
+S2425-G0123,4,05:02,CHI,,ORL,,C. White,CHI,MISS White 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-10,315,32,1,3.0,0.0,h
+S2425-G0123,4,05:02,CHI,,ORL,,C. White,CHI,White L.B.FOUL (P2.T4) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0123,4,04:19,CHI,,ORL,,C. White,CHI,White Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0123,4,00:25.500000,CHI,,ORL,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0123,4,00:19.800000,CHI,,ORL,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,h
+S2425-G0083,1,09:58,MIL,,CHI,,C. White,CHI,White Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0083,1,08:16,MIL,5.0,CHI,7.0,C. White,CHI,White 15' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-87,120,15,1,2.0,2.0,v
+S2425-G0083,1,06:55,MIL,,CHI,,C. White,CHI,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,-196,172,26,1,3.0,0.0,v
+S2425-G0083,1,06:44,MIL,,CHI,,C. White,CHI,White STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0083,1,06:41,MIL,12.0,CHI,13.0,C. White,CHI,White Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,1,06:41,MIL,12.0,CHI,14.0,C. White,CHI,White Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,1,05:42,MIL,,CHI,,C. White,CHI,MISS White 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-134,-13,13,1,2.0,0.0,v
+S2425-G0083,1,04:49,MIL,,CHI,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0083,1,00:52,MIL,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,1,00:51.100000,MIL,32.0,CHI,27.0,C. White,CHI,White 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,11,3,1,1,2.0,2.0,v
+S2425-G0083,1,00:19,MIL,32.0,CHI,30.0,C. White,CHI,White 25' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,-130,215,25,1,3.0,3.0,v
+S2425-G0083,2,11:49,MIL,,CHI,,C. White,CHI,White Traveling Turnover (P2.T3),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0083,2,08:27,MIL,,CHI,,C. White,CHI,MISS White 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-159,216,27,1,3.0,0.0,v
+S2425-G0083,2,08:21,MIL,,CHI,,C. White,CHI,SUB: Vučević FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0083,2,02:30,MIL,57.0,CHI,53.0,C. White,CHI,White 26' 3PT Jump Shot (12 PTS) (Vučević 2 AST),Made Shot,Jump Shot,-143,218,26,1,3.0,3.0,v
+S2425-G0083,2,02:02,MIL,59.0,CHI,54.0,C. White,CHI,White Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,2,02:02,MIL,59.0,CHI,55.0,C. White,CHI,White Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,2,01:41,MIL,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,2,00:26.600000,MIL,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,2,00:09.300000,MIL,61.0,CHI,63.0,C. White,CHI,White 26' 3PT Jump Shot (17 PTS) (Dosunmu 2 AST),Made Shot,Jump Shot,-97,240,26,1,3.0,3.0,v
+S2425-G0083,3,11:01,MIL,,CHI,,C. White,CHI,White STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0083,3,10:57,MIL,66.0,CHI,67.0,C. White,CHI,White Running Layup (19 PTS),Made Shot,Running Layup Shot,1,1,0,1,2.0,2.0,v
+S2425-G0083,3,10:25,MIL,,CHI,,C. White,CHI,MISS White 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-141,228,27,1,3.0,0.0,v
+S2425-G0083,3,09:06,MIL,,CHI,,C. White,CHI,White P.FOUL (P1.T1) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2425-G0083,3,08:52,MIL,72.0,CHI,74.0,C. White,CHI,White 10' Pullup Jump Shot (21 PTS) (Giddey 6 AST),Made Shot,Pullup Jump shot,97,5,10,1,2.0,2.0,v
+S2425-G0083,3,08:32,MIL,,CHI,,C. White,CHI,White Out of Bounds Lost Ball Turnover (P3.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0083,3,08:17,MIL,,CHI,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0083,3,04:20,MIL,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,3,03:51,MIL,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,3,03:45,MIL,85.0,CHI,94.0,C. White,CHI,White 11' Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,107,11,11,1,2.0,2.0,v
+S2425-G0083,3,02:36,MIL,,CHI,,C. White,CHI,MISS White 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-80,169,19,1,2.0,0.0,v
+S2425-G0083,3,02:04,MIL,90.0,CHI,99.0,C. White,CHI,White 26' 3PT Jump Shot (26 PTS) (Williams 2 AST),Made Shot,Jump Shot,-211,153,26,1,3.0,3.0,v
+S2425-G0083,3,01:12,MIL,92.0,CHI,102.0,C. White,CHI,White 28' 3PT Running Jump Shot (29 PTS) (Smith 1 AST),Made Shot,Running Jump Shot,-224,175,28,1,3.0,3.0,v
+S2425-G0083,4,11:33,MIL,,CHI,,C. White,CHI,MISS White 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-223,152,27,1,3.0,0.0,v
+S2425-G0083,4,09:37,MIL,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,09:15,MIL,,CHI,,C. White,CHI,White STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0083,4,09:11,MIL,,CHI,,C. White,CHI,MISS White 3PT Running Jump Shot,Missed Shot,Running Jump Shot,229,7,0,1,3.0,0.0,v
+S2425-G0083,4,08:23,MIL,102.0,CHI,115.0,C. White,CHI,White 28' 3PT Jump Shot (32 PTS) (Dosunmu 5 AST),Made Shot,Jump Shot,-157,237,28,1,3.0,3.0,v
+S2425-G0083,4,08:05,MIL,,CHI,,C. White,CHI,SUB: Vučević FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0083,4,06:07,MIL,109.0,CHI,121.0,C. White,CHI,White 24' 3PT Jump Shot (35 PTS) (Giddey 9 AST),Made Shot,Jump Shot,-232,67,24,1,3.0,3.0,v
+S2425-G0083,4,03:47,MIL,,CHI,,C. White,CHI,White STEAL (4 STL),,,0,0,0,0,,,v
+S2425-G0083,4,01:45,MIL,,CHI,,C. White,CHI,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,-186,182,26,1,3.0,0.0,v
+S2425-G0083,4,01:10,MIL,,CHI,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0108,1,10:17,MEM,,CHI,,C. White,CHI,White S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2425-G0108,1,10:03,MEM,,CHI,,C. White,CHI,MISS White 3PT Jump Shot,Missed Shot,Jump Shot,233,-17,0,1,3.0,0.0,v
+S2425-G0108,1,06:57,MEM,,CHI,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0108,1,01:43,MEM,,CHI,,C. White,CHI,MISS White 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-66,161,17,1,2.0,0.0,v
+S2425-G0108,2,11:43,MEM,,CHI,,C. White,CHI,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,-96,241,26,1,3.0,0.0,v
+S2425-G0108,2,10:24,MEM,34.0,CHI,23.0,C. White,CHI,White Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0108,2,10:24,MEM,34.0,CHI,24.0,C. White,CHI,White Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0108,2,09:34,MEM,,CHI,,C. White,CHI,SUB: Giddey FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0108,2,04:40,MEM,,CHI,,C. White,CHI,MISS White 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,56,85,10,1,2.0,0.0,v
+S2425-G0108,2,04:14,MEM,50.0,CHI,36.0,C. White,CHI,White 24' 3PT Jump Shot (5 PTS) (Giddey 4 AST),Made Shot,Jump Shot,239,-12,24,1,3.0,3.0,v
+S2425-G0108,3,10:46,MEM,72.0,CHI,60.0,C. White,CHI,White 25' 3PT Jump Shot (8 PTS) (Giddey 7 AST),Made Shot,Jump Shot,146,206,25,1,3.0,3.0,v
+S2425-G0108,3,08:42,MEM,76.0,CHI,65.0,C. White,CHI,White 27' 3PT Jump Shot (11 PTS) (Vučević 3 AST),Made Shot,Jump Shot,-140,225,27,1,3.0,3.0,v
+S2425-G0108,3,08:25,MEM,,CHI,,C. White,CHI,MISS White 1' Running Layup,Missed Shot,Running Layup Shot,4,13,1,1,2.0,0.0,v
+S2425-G0108,3,07:55,MEM,76.0,CHI,67.0,C. White,CHI,White 1' Running Reverse Layup (13 PTS) (Dosunmu 2 AST),Made Shot,Running Reverse Layup Shot,5,4,1,1,2.0,2.0,v
+S2425-G0108,3,07:55,MEM,76.0,CHI,68.0,C. White,CHI,White Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0108,3,07:06,MEM,,CHI,,C. White,CHI,White REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,3,06:33,MEM,,CHI,,C. White,CHI,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,-145,217,26,1,3.0,0.0,v
+S2425-G0108,3,05:55,MEM,,CHI,,C. White,CHI,SUB: Terry FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0108,4,09:04,MEM,,CHI,,C. White,CHI,White REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,4,08:52,MEM,106.0,CHI,101.0,C. White,CHI,White 26' 3PT Jump Shot (17 PTS) (Vučević 4 AST),Made Shot,Jump Shot,38,256,26,1,3.0,3.0,v
+S2425-G0108,4,08:13,MEM,,CHI,,C. White,CHI,White S.FOUL (P2.T4) (S.Jelks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0108,4,06:07,MEM,,CHI,,C. White,CHI,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,217,26,1,3.0,0.0,v
+S2425-G0108,4,06:01,MEM,112.0,CHI,117.0,C. White,CHI,White 24' 3PT Jump Shot (20 PTS) (Ball 6 AST),Made Shot,Jump Shot,-239,36,24,1,3.0,3.0,v
+S2425-G0108,4,01:43,MEM,,CHI,,C. White,CHI,MISS White 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,70,41,8,1,2.0,0.0,v
+S2425-G0108,4,00:21.900000,MEM,,CHI,,C. White,CHI,MISS White 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,71,268,28,1,3.0,0.0,v
+S2425-G0108,4,00:18.300000,MEM,,CHI,,C. White,CHI,SUB: Williams FOR White,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,160 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0080,1,11:39,CLE,,DET,,T. Harris,DET,Harris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0080,1,08:22,CLE,,DET,,T. Harris,DET,MISS Harris 8' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-74,41,8,1,2.0,0.0,v
+S2425-G0080,1,06:58,CLE,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,1,03:42,CLE,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,1,03:35,CLE,,DET,,T. Harris,DET,MISS Harris 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,87,134,16,1,2.0,0.0,v
+S2425-G0080,1,02:27,CLE,,DET,,T. Harris,DET,SUB: Ivey FOR Harris,Substitution,,0,0,0,0,,,v
+S2425-G0080,2,04:02,CLE,,DET,,T. Harris,DET,Harris Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0080,2,00:46,CLE,,DET,,T. Harris,DET,MISS Harris 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,134,121,18,1,2.0,0.0,v
+S2425-G0080,3,11:48,CLE,,DET,,T. Harris,DET,MISS Harris 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,143,19,1,2.0,0.0,v
+S2425-G0080,3,08:52,CLE,72.0,DET,62.0,T. Harris,DET,Harris 1' Driving Dunk (2 PTS) (Cunningham 4 AST),Made Shot,Driving Dunk Shot,-5,13,1,1,2.0,2.0,v
+S2425-G0080,3,07:41,CLE,73.0,DET,63.0,T. Harris,DET,Harris Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0080,3,07:41,CLE,73.0,DET,64.0,T. Harris,DET,Harris Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0080,3,06:47,CLE,,DET,,T. Harris,DET,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,99,239,26,1,3.0,0.0,v
+S2425-G0080,3,04:49,CLE,81.0,DET,73.0,T. Harris,DET,Harris 26' 3PT Jump Shot (7 PTS) (Cunningham 5 AST),Made Shot,Jump Shot,20,262,26,1,3.0,3.0,v
+S2425-G0080,3,02:27,CLE,,DET,,T. Harris,DET,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0080,3,02:04,CLE,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,3,02:00,CLE,,DET,,T. Harris,DET,SUB: Reed FOR Harris,Substitution,,0,0,0,0,,,v
+S2425-G0080,4,07:38,CLE,,DET,,T. Harris,DET,Harris S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2425-G0080,4,05:21,CLE,,DET,,T. Harris,DET,MISS Harris 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,6,126,13,1,2.0,0.0,v
+S2425-G0080,4,03:05,CLE,111.0,DET,99.0,T. Harris,DET,Harris 3PT Jump Shot (10 PTS) (Duren 5 AST),Made Shot,Jump Shot,-228,-4,0,1,3.0,3.0,v
+S2425-G0080,4,02:07,CLE,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,4,01:36,CLE,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,4,01:27,CLE,,DET,,T. Harris,DET,SUB: Reed FOR Harris,Substitution,,0,0,0,0,,,v
+S2425-G0063,1,09:50,DET,,IND,,T. Harris,DET,MISS Harris 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,14,0,1,3.0,0.0,h
+S2425-G0063,1,09:26,DET,8.0,IND,4.0,T. Harris,DET,Harris 1' Cutting Layup Shot (2 PTS) (Duren 1 AST),Made Shot,Cutting Layup Shot,7,13,1,1,2.0,2.0,h
+S2425-G0063,1,07:54,DET,,IND,,T. Harris,DET,Harris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0063,1,06:30,DET,,IND,,T. Harris,DET,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-115,219,25,1,3.0,0.0,h
+S2425-G0063,1,04:52,DET,16.0,IND,17.0,T. Harris,DET,Harris 1' Driving Dunk (4 PTS) (Cunningham 3 AST),Made Shot,Driving Dunk Shot,-6,3,1,1,2.0,2.0,h
+S2425-G0063,1,04:24,DET,18.0,IND,17.0,T. Harris,DET,Harris 2' Running Reverse Layup (6 PTS) (Beasley 1 AST),Made Shot,Running Reverse Layup Shot,-16,6,2,1,2.0,2.0,h
+S2425-G0063,1,03:35,DET,,IND,,T. Harris,DET,SUB: Sasser FOR Harris,Substitution,,0,0,0,0,,,h
+S2425-G0063,2,09:02,DET,38.0,IND,34.0,T. Harris,DET,Harris 3PT Jump Shot (9 PTS) (Duren 2 AST),Made Shot,Jump Shot,232,17,0,1,3.0,3.0,h
+S2425-G0063,2,05:30,DET,,IND,,T. Harris,DET,MISS Harris 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-152,26,15,1,2.0,0.0,h
+S2425-G0063,2,03:18,DET,50.0,IND,43.0,T. Harris,DET,Harris 9' Pullup Jump Shot (11 PTS) (Cunningham 5 AST),Made Shot,Pullup Jump shot,71,62,9,1,2.0,2.0,h
+S2425-G0063,2,01:56,DET,54.0,IND,47.0,T. Harris,DET,Harris 15' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,-92,117,15,1,2.0,2.0,h
+S2425-G0063,3,07:30,DET,,IND,,T. Harris,DET,MISS Harris 8' Running Jump Shot,Missed Shot,Running Jump Shot,-25,76,8,1,2.0,0.0,h
+S2425-G0063,3,06:29,DET,,IND,,T. Harris,DET,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,3,04:51,DET,,IND,,T. Harris,DET,Harris Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0063,3,04:15,DET,,IND,,T. Harris,DET,Harris S.FOUL (P1.T3) (T.Ricks),Foul,Shooting,0,0,0,0,,,h
+S2425-G0063,3,04:15,DET,,IND,,T. Harris,DET,SUB: Fontecchio FOR Harris,Substitution,,0,0,0,0,,,h
+S2425-G0063,4,07:30,DET,,IND,,T. Harris,DET,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,4,06:31,DET,,IND,,T. Harris,DET,Harris Offensive Charge Foul (P2) (B.Barnaky),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0063,4,06:31,DET,,IND,,T. Harris,DET,Harris Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0063,4,04:03,DET,,IND,,T. Harris,DET,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,232,33,0,1,3.0,0.0,h
+S2425-G0063,4,01:03,DET,,IND,,T. Harris,DET,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-233,6,0,1,3.0,0.0,h
+S2425-G0063,4,00:10.300000,DET,,IND,,T. Harris,DET,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,20,24,1,3.0,0.0,h
+S2425-G0063,4,00:07,DET,,IND,,T. Harris,DET,Harris S.FOUL (P3.PN) (T.Ricks),Foul,Shooting,0,0,0,0,,,h
+S2425-G0120,1,11:06,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,1,10:31,PHI,,DET,,T. Harris,DET,MISS Harris 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-31,111,12,1,2.0,0.0,v
+S2425-G0120,1,07:17,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,1,06:40,PHI,13.0,DET,6.0,T. Harris,DET,Harris 6' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,-11,64,6,1,2.0,2.0,v
+S2425-G0120,1,04:05,PHI,,DET,,T. Harris,DET,Harris OFF.Foul (P1) (J.Conley),Foul,Offensive,0,0,0,0,,,v
+S2425-G0120,1,04:05,PHI,,DET,,T. Harris,DET,Harris Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0120,1,03:16,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,1,03:12,PHI,,DET,,T. Harris,DET,SUB: Ivey FOR Harris,Substitution,,0,0,0,0,,,v
+S2425-G0120,1,00:08.700000,PHI,,DET,,T. Harris,DET,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,229,-26,0,1,3.0,0.0,v
+S2425-G0120,1,00:04.300000,PHI,,DET,,T. Harris,DET,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,192,178,26,1,3.0,0.0,v
+S2425-G0120,2,05:23,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,05:04,PHI,,DET,,T. Harris,DET,MISS Harris 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-37,64,7,1,2.0,0.0,v
+S2425-G0120,2,04:53,PHI,,DET,,T. Harris,DET,Harris S.FOUL (P2.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2425-G0120,2,04:26,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,03:25,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,03:09,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,03:02,PHI,,DET,,T. Harris,DET,MISS Harris 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,10,20,2,1,2.0,0.0,v
+S2425-G0120,2,01:07,PHI,42.0,DET,52.0,T. Harris,DET,Harris 1' Running Alley Oop Layup Shot (4 PTS) (Hardaway Jr. 2 AST),Made Shot,Running Alley Oop Layup Shot,1,5,1,1,2.0,2.0,v
+S2425-G0120,2,00:01.600000,PHI,,DET,,T. Harris,DET,SUB: Stewart FOR Harris,Substitution,,0,0,0,0,,,v
+S2425-G0120,3,11:26,PHI,,DET,,T. Harris,DET,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-59,237,24,1,3.0,0.0,v
+S2425-G0120,3,10:11,PHI,,DET,,T. Harris,DET,MISS Harris 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,92,106,14,1,2.0,0.0,v
+S2425-G0120,3,09:16,PHI,,DET,,T. Harris,DET,Harris S.FOUL (P3.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2425-G0120,3,08:32,PHI,,DET,,T. Harris,DET,Harris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0120,3,08:30,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,3,07:34,PHI,54.0,DET,66.0,T. Harris,DET,Harris 2' Running Layup (6 PTS) (Cunningham 5 AST),Made Shot,Running Layup Shot,-15,0,2,1,2.0,2.0,v
+S2425-G0120,3,04:49,PHI,58.0,DET,71.0,T. Harris,DET,Harris 1' Running Layup (8 PTS) (Hardaway Jr. 3 AST),Made Shot,Running Layup Shot,1,9,1,1,2.0,2.0,v
+S2425-G0120,3,04:17,PHI,58.0,DET,73.0,T. Harris,DET,Harris Running Dunk (10 PTS) (Ivey 3 AST),Made Shot,Running Dunk Shot,4,1,0,1,2.0,2.0,v
+S2425-G0120,3,04:17,PHI,58.0,DET,74.0,T. Harris,DET,Harris Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0120,3,03:43,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,3,01:56,PHI,,DET,,T. Harris,DET,SUB: Holland II FOR Harris,Substitution,,0,0,0,0,,,v
+S2425-G0120,4,08:35,PHI,77.0,DET,89.0,T. Harris,DET,Harris 16' Pullup Jump Shot (13 PTS) (Cunningham 6 AST),Made Shot,Pullup Jump shot,-67,140,16,1,2.0,2.0,v
+S2425-G0120,4,08:06,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,4,07:37,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,4,07:15,PHI,77.0,DET,91.0,T. Harris,DET,Harris 2' Layup (15 PTS),Made Shot,Layup Shot,17,-6,2,1,2.0,2.0,v
+S2425-G0120,4,06:34,PHI,,DET,,T. Harris,DET,MISS Harris 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-55,71,9,1,2.0,0.0,v
+S2425-G0120,4,06:04,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:12),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,4,05:36,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:13),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,4,04:03,PHI,82.0,DET,100.0,T. Harris,DET,Harris Free Throw Technical (16 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0120,4,03:57,PHI,82.0,DET,102.0,T. Harris,DET,Harris 9' Turnaround Fadeaway (18 PTS),Made Shot,Turnaround Fadeaway shot,56,75,9,1,2.0,2.0,v
+S2425-G0120,4,03:06,PHI,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:14),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,4,01:53,PHI,,DET,,T. Harris,DET,Harris P.FOUL (P4.PN) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2425-G0120,4,01:35,PHI,,DET,,T. Harris,DET,MISS Harris 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,155,16,1,2.0,0.0,v
+S2425-G0120,4,01:26,PHI,,DET,,T. Harris,DET,Harris S.FOUL (P5.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2425-G0120,4,00:34.400000,PHI,,DET,,T. Harris,DET,MISS Harris 1' Layup,Missed Shot,Layup Shot,-5,14,1,1,2.0,0.0,v
+S2425-G0089,1,11:33,DET,,BOS,,T. Harris,DET,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,41,24,1,3.0,0.0,h
+S2425-G0089,1,10:57,DET,,BOS,,T. Harris,DET,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,147,222,27,1,3.0,0.0,h
+S2425-G0089,1,10:36,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,1,10:32,DET,,BOS,,T. Harris,DET,Harris Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0089,1,09:57,DET,,BOS,,T. Harris,DET,Harris S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0089,1,09:16,DET,,BOS,,T. Harris,DET,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,194,185,27,1,3.0,0.0,h
+S2425-G0089,1,07:40,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,1,07:33,DET,10.0,BOS,13.0,T. Harris,DET,Harris 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,10,97,10,1,2.0,2.0,h
+S2425-G0089,1,06:57,DET,,BOS,,T. Harris,DET,MISS Harris 6' Driving Layup,Missed Shot,Driving Layup Shot,52,29,6,1,2.0,0.0,h
+S2425-G0089,1,06:22,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,1,06:22,DET,11.0,BOS,19.0,T. Harris,DET,Harris Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0089,1,06:22,DET,12.0,BOS,19.0,T. Harris,DET,Harris Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0089,1,05:07,DET,16.0,BOS,21.0,T. Harris,DET,Harris 4' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,6,41,4,1,2.0,2.0,h
+S2425-G0089,1,03:47,DET,,BOS,,T. Harris,DET,SUB: Ivey FOR Harris,Substitution,,0,0,0,0,,,h
+S2425-G0089,2,11:09,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,2,09:48,DET,,BOS,,T. Harris,DET,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0089,2,08:34,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,2,04:33,DET,,BOS,,T. Harris,DET,Harris P.FOUL (P2.T2) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2425-G0089,2,04:27,DET,,BOS,,T. Harris,DET,Harris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0089,2,04:15,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,2,03:29,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,2,02:47,DET,,BOS,,T. Harris,DET,Harris S.FOUL (P3.T4) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0089,2,02:47,DET,,BOS,,T. Harris,DET,SUB: Fontecchio FOR Harris,Substitution,,0,0,0,0,,,h
+S2425-G0089,3,10:06,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,3,07:41,DET,73.0,BOS,83.0,T. Harris,DET,Harris Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0089,3,07:41,DET,74.0,BOS,83.0,T. Harris,DET,Harris Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0089,3,06:19,DET,,BOS,,T. Harris,DET,MISS Harris 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,6,0,1,3.0,0.0,h
+S2425-G0089,3,04:56,DET,,BOS,,T. Harris,DET,Harris FLAGRANT.FOUL.TYPE1 (P4.T2) (S.Jelks),Foul,Flagrant Type 1,0,0,0,0,,,h
+S2425-G0089,3,04:56,DET,,BOS,,T. Harris,DET,Harris Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0089,3,04:56,DET,,BOS,,T. Harris,DET,SUB: Stewart FOR Harris,Substitution,,0,0,0,0,,,h
+S2425-G0089,4,06:48,DET,,BOS,,T. Harris,DET,MISS Harris 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,37,100,11,1,2.0,0.0,h
+S2425-G0089,4,06:13,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,4,04:51,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,4,04:25,DET,,BOS,,T. Harris,DET,MISS Harris 4' Driving Layup,Missed Shot,Driving Layup Shot,36,0,4,1,2.0,0.0,h
+S2425-G0089,4,04:10,DET,,BOS,,T. Harris,DET,Harris REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,4,03:06,DET,,BOS,,T. Harris,DET,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,15,24,1,3.0,0.0,h
+S2425-G0089,4,01:17,DET,,BOS,,T. Harris,DET,MISS Harris 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,57,6,1,2.0,0.0,h
+S2425-G0089,4,00:09.600000,DET,,BOS,,T. Harris,DET,Harris Personal Take Foul (P5.PN) (R.Mott),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0089,4,00:03.300000,DET,,BOS,,T. Harris,DET,Harris Personal Take Foul (P6.PN) (R.Mott),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0105,1,10:49,MIA,0.0,DET,2.0,T. Harris,DET,Harris 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-33,28,4,1,2.0,2.0,v
+S2425-G0105,1,10:49,MIA,0.0,DET,3.0,T. Harris,DET,Harris Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0105,1,08:48,MIA,,DET,,T. Harris,DET,MISS Harris 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-105,16,11,1,2.0,0.0,v
+S2425-G0105,1,05:11,MIA,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,04:21,MIA,,DET,,T. Harris,DET,Harris P.FOUL (P1.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2425-G0105,1,04:11,MIA,,DET,,T. Harris,DET,SUB: Holland II FOR Harris,Substitution,,0,0,0,0,,,v
+S2425-G0105,2,07:55,MIA,,DET,,T. Harris,DET,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,54,24,1,3.0,0.0,v
+S2425-G0105,2,06:02,MIA,,DET,,T. Harris,DET,Harris S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0105,2,05:25,MIA,,DET,,T. Harris,DET,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,2,05:17,MIA,,DET,,T. Harris,DET,Harris Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0105,2,02:14,MIA,57.0,DET,51.0,T. Harris,DET,Harris 12' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-44,111,12,1,2.0,2.0,v
+S2425-G0105,2,01:00,MIA,,DET,,T. Harris,DET,MISS Harris 1' Driving Layup,Missed Shot,Driving Layup Shot,6,5,1,1,2.0,0.0,v
+S2425-G0105,2,00:59.600000,MIA,,DET,,T. Harris,DET,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,2,00:59.100000,MIA,64.0,DET,53.0,T. Harris,DET,Harris 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-9,6,1,1,2.0,2.0,v
+S2425-G0105,2,00:47.900000,MIA,,DET,,T. Harris,DET,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0105,3,09:56,MIA,,DET,,T. Harris,DET,Harris REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,09:45,MIA,,DET,,T. Harris,DET,MISS Harris 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-31,9,3,1,2.0,0.0,v
+S2425-G0105,3,07:54,MIA,,DET,,T. Harris,DET,Harris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0105,3,04:47,MIA,,DET,,T. Harris,DET,Harris REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,04:16,MIA,,DET,,T. Harris,DET,Harris Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0105,3,04:05,MIA,,DET,,T. Harris,DET,Harris REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,03:57,MIA,73.0,DET,72.0,T. Harris,DET,Harris 11' Turnaround Jump Shot (9 PTS),Made Shot,Turnaround Jump Shot,38,103,11,1,2.0,2.0,v
+S2425-G0105,3,03:37,MIA,,DET,,T. Harris,DET,Harris REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,01:33,MIA,,DET,,T. Harris,DET,Harris REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,00:41.500000,MIA,,DET,,T. Harris,DET,Harris REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,00:34.400000,MIA,,DET,,T. Harris,DET,SUB: Holland II FOR Harris,Substitution,,0,0,0,0,,,v
+S2425-G0105,4,06:12,MIA,,DET,,T. Harris,DET,MISS Harris 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,43,246,25,1,3.0,0.0,v
+S2425-G0105,4,05:11,MIA,,DET,,T. Harris,DET,MISS Harris 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,17,67,7,1,2.0,0.0,v
+S2425-G0105,4,04:42,MIA,,DET,,T. Harris,DET,Harris REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,4,00:31.600000,MIA,,DET,,T. Harris,DET,MISS Harris 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-237,9,24,1,3.0,0.0,v

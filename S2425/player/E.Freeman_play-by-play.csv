@@ -1,0 +1,11 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,4,07:52,NYK,,IND,,E. Freeman,IND,Freeman S.FOUL (P1.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0081,4,06:25,NYK,,IND,,E. Freeman,IND,Freeman BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0081,4,01:21,NYK,,IND,,E. Freeman,IND,Freeman REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,4,01:19,NYK,119.0,IND,98.0,E. Freeman,IND,Freeman 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-7,10,1,1,2.0,2.0,v
+S2425-G0081,4,00:50.500000,NYK,,IND,,E. Freeman,IND,Freeman S.FOUL (P2.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0063,2,04:36,DET,,IND,,E. Freeman,IND,SUB: Turner FOR Freeman,Substitution,,0,0,0,0,,,v
+S2425-G0063,3,03:11,DET,75.0,IND,77.0,E. Freeman,IND,Freeman Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0063,3,03:11,DET,75.0,IND,78.0,E. Freeman,IND,Freeman Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0063,3,02:46,DET,,IND,,E. Freeman,IND,Freeman Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0063,3,00:37.800000,DET,,IND,,E. Freeman,IND,SUB: Turner FOR Freeman,Substitution,,0,0,0,0,,,v

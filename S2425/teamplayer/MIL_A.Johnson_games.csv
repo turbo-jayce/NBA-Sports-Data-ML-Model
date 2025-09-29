@@ -1,0 +1,5 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0066,4,00:23.100000,PHI,,MIL,,A. Johnson,MIL,MISS Johnson 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,7,-11,1,1,2.0,0.0,v
+S2425-G0083,4,00:56.400000,MIL,,CHI,,A. Johnson,MIL,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,4,00:04.500000,MIL,,CHI,,A. Johnson,MIL,MISS Johnson 5' Driving Layup,Missed Shot,Driving Layup Shot,-12,45,5,1,2.0,0.0,h
+S2425-G0098,4,00:20.500000,BKN,115.0,MIL,102.0,A. Johnson,MIL,Johnson 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-22,13,3,1,2.0,2.0,v

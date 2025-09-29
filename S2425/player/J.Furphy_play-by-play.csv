@@ -1,0 +1,4 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,4,03:31,NYK,,IND,,J. Furphy,IND,MISS Furphy 3' Driving Layup,Missed Shot,Driving Layup Shot,27,10,3,1,2.0,0.0,v
+S2425-G0081,4,03:25,NYK,,IND,,J. Furphy,IND,MISS Furphy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-47,248,25,1,3.0,0.0,v
+S2425-G0081,4,00:25.800000,NYK,,IND,,J. Furphy,IND,MISS Furphy 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-66,26,7,1,2.0,0.0,v

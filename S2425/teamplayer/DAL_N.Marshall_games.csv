@@ -1,0 +1,54 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,01:33,DAL,,SAS,,N. Marshall,DAL,MISS Marshall 25' 3PT Jump Shot,Missed Shot,Jump Shot,135,206,25,1,3.0,0.0,h
+S2425-G0074,1,00:02.700000,DAL,,SAS,,N. Marshall,DAL,MISS Marshall 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,h
+S2425-G0074,3,03:22,DAL,,SAS,,N. Marshall,DAL,Marshall S.FOUL (P1.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0074,3,01:56,DAL,85.0,SAS,77.0,N. Marshall,DAL,Marshall 1' Cutting Layup Shot (2 PTS) (Lively II 3 AST),Made Shot,Cutting Layup Shot,11,8,1,1,2.0,2.0,h
+S2425-G0074,3,00:55,DAL,,SAS,,N. Marshall,DAL,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,3,00:13.300000,DAL,,SAS,,N. Marshall,DAL,MISS Marshall 2' Driving Layup,Missed Shot,Driving Layup Shot,-11,13,2,1,2.0,0.0,h
+S2425-G0074,3,00:10.700000,DAL,,SAS,,N. Marshall,DAL,SUB: Dončić FOR Marshall,Substitution,,0,0,0,0,,,h
+S2425-G0074,4,04:02,DAL,,SAS,,N. Marshall,DAL,MISS Marshall 2' Running Layup,Missed Shot,Running Layup Shot,-16,17,2,1,2.0,0.0,h
+S2425-G0074,4,01:12,DAL,,SAS,,N. Marshall,DAL,MISS Marshall 4' Driving Layup,Missed Shot,Driving Layup Shot,-26,32,4,1,2.0,0.0,h
+S2425-G0110,1,03:04,DAL,,UTA,,N. Marshall,DAL,MISS Marshall 27' 3PT Jump Shot,Missed Shot,Jump Shot,148,220,27,1,3.0,0.0,h
+S2425-G0110,1,02:50,DAL,,UTA,,N. Marshall,DAL,Marshall STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0110,1,00:09.800000,DAL,,UTA,,N. Marshall,DAL,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,2,04:17,DAL,,UTA,,N. Marshall,DAL,Marshall REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,2,01:35,DAL,,UTA,,N. Marshall,DAL,MISS Marshall 3PT Jump Shot,Missed Shot,Jump Shot,234,15,0,1,3.0,0.0,h
+S2425-G0110,2,00:46.900000,DAL,,UTA,,N. Marshall,DAL,SUB: Thompson FOR Marshall,Substitution,,0,0,0,0,,,h
+S2425-G0110,3,02:29,DAL,,UTA,,N. Marshall,DAL,Marshall REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,02:12,DAL,,UTA,,N. Marshall,DAL,Marshall Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0110,3,00:32.700000,DAL,,UTA,,N. Marshall,DAL,Marshall REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,4,11:24,DAL,84.0,UTA,73.0,N. Marshall,DAL,Marshall 2' Driving Layup (2 PTS) (Irving 7 AST),Made Shot,Driving Layup Shot,12,11,2,1,2.0,2.0,h
+S2425-G0110,4,08:54,DAL,,UTA,,N. Marshall,DAL,Marshall REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,4,08:54,DAL,90.0,UTA,81.0,N. Marshall,DAL,Marshall Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0110,4,08:37,DAL,,UTA,,N. Marshall,DAL,Marshall REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,4,08:28,DAL,,UTA,,N. Marshall,DAL,SUB: Dončić FOR Marshall,Substitution,,0,0,0,0,,,h
+S2425-G0114,1,03:20,MIN,,DAL,,N. Marshall,DAL,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,1,00:00,MIN,,DAL,,N. Marshall,DAL,MISS Marshall 13' Running Jump Shot,Missed Shot,Running Jump Shot,28,125,13,1,2.0,0.0,v
+S2425-G0114,2,09:48,MIN,,DAL,,N. Marshall,DAL,SUB: Washington FOR Marshall,Substitution,,0,0,0,0,,,v
+S2425-G0114,3,06:03,MIN,,DAL,,N. Marshall,DAL,Marshall REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,3,03:57,MIN,,DAL,,N. Marshall,DAL,Marshall REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,3,03:05,MIN,,DAL,,N. Marshall,DAL,MISS Marshall 1' Driving Layup,Missed Shot,Driving Layup Shot,2,6,1,1,2.0,0.0,v
+S2425-G0114,3,01:52,MIN,,DAL,,N. Marshall,DAL,Marshall STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0114,3,01:51,MIN,77.0,DAL,84.0,N. Marshall,DAL,Marshall Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0114,3,01:51,MIN,77.0,DAL,85.0,N. Marshall,DAL,Marshall Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0114,4,11:31,MIN,,DAL,,N. Marshall,DAL,MISS Marshall 9' Jump Shot,Missed Shot,Jump Shot,-4,85,9,1,2.0,0.0,v
+S2425-G0114,4,11:18,MIN,,DAL,,N. Marshall,DAL,Marshall S.FOUL (P1.T1) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,4,09:19,MIN,,DAL,,N. Marshall,DAL,SUB: Washington FOR Marshall,Substitution,,0,0,0,0,,,v
+S2425-G0114,4,00:13,MIN,,DAL,,N. Marshall,DAL,Marshall STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0114,4,00:12.600000,MIN,114.0,DAL,119.0,N. Marshall,DAL,Marshall Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0114,4,00:12.600000,MIN,114.0,DAL,120.0,N. Marshall,DAL,Marshall Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0095,1,04:43,PHX,,DAL,,N. Marshall,DAL,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,03:49,PHX,,DAL,,N. Marshall,DAL,MISS Marshall 25' 3PT Jump Shot,Missed Shot,Jump Shot,-16,245,25,1,3.0,0.0,v
+S2425-G0095,1,01:54,PHX,,DAL,,N. Marshall,DAL,MISS Marshall 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,6,24,1,3.0,0.0,v
+S2425-G0095,1,00:43.600000,PHX,,DAL,,N. Marshall,DAL,Marshall REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,00:07.800000,PHX,,DAL,,N. Marshall,DAL,SUB: Dončić FOR Marshall,Substitution,,0,0,0,0,,,v
+S2425-G0095,2,02:00,PHX,,DAL,,N. Marshall,DAL,SUB: Dončić FOR Marshall,Substitution,,0,0,0,0,,,v
+S2425-G0095,3,04:12,PHX,,DAL,,N. Marshall,DAL,MISS Marshall 5' Driving Layup,Missed Shot,Driving Layup Shot,31,39,5,1,2.0,0.0,v
+S2425-G0095,3,01:38,PHX,,DAL,,N. Marshall,DAL,Marshall STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0095,3,01:10,PHX,,DAL,,N. Marshall,DAL,Marshall S.FOUL (P1.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,3,00:24.200000,PHX,,DAL,,N. Marshall,DAL,SUB: Thompson FOR Marshall,Substitution,,0,0,0,0,,,v
+S2425-G0095,4,05:38,PHX,,DAL,,N. Marshall,DAL,SUB: Irving FOR Marshall,Substitution,,0,0,0,0,,,v
+S2425-G0095,4,02:29,PHX,,DAL,,N. Marshall,DAL,MISS Marshall 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,4,-10,1,1,2.0,0.0,v
+S2425-G0095,4,02:08,PHX,,DAL,,N. Marshall,DAL,Marshall S.FOUL (P2.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,4,01:24,PHX,113.0,DAL,102.0,N. Marshall,DAL,Marshall 2' Cutting Dunk Shot (2 PTS) (Irving 5 AST),Made Shot,Cutting Dunk Shot,6,16,2,1,2.0,2.0,v
+S2425-G0095,4,01:01,PHX,,DAL,,N. Marshall,DAL,SUB: Prosper FOR Marshall,Substitution,,0,0,0,0,,,v

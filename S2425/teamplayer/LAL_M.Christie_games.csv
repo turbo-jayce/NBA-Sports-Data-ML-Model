@@ -1,0 +1,59 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0062,1,05:38,LAL,,MIN,,M. Christie,LAL,Christie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,1,05:04,LAL,,MIN,,M. Christie,LAL,MISS Christie 3PT Jump Shot,Missed Shot,Jump Shot,-224,44,0,1,3.0,0.0,h
+S2425-G0062,1,03:03,LAL,,MIN,,M. Christie,LAL,Christie S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0062,1,02:42,LAL,,MIN,,M. Christie,LAL,MISS Christie 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-210,149,26,1,3.0,0.0,h
+S2425-G0062,1,01:16,LAL,,MIN,,M. Christie,LAL,MISS Christie 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,7,24,1,3.0,0.0,h
+S2425-G0062,2,00:44.600000,LAL,54.0,MIN,42.0,M. Christie,LAL,Christie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,2,00:44.600000,LAL,55.0,MIN,42.0,M. Christie,LAL,Christie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,2,00:27.300000,LAL,,MIN,,M. Christie,LAL,Christie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,2,00:03.200000,LAL,,MIN,,M. Christie,LAL,Christie Personal Take Foul (P2.T4) (N.Buchert),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0062,3,06:17,LAL,,MIN,,M. Christie,LAL,Christie S.FOUL (P3.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0062,3,04:17,LAL,,MIN,,M. Christie,LAL,Christie P.FOUL (P4.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2425-G0062,3,03:37,LAL,,MIN,,M. Christie,LAL,Christie P.FOUL (P5.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2425-G0062,3,03:37,LAL,,MIN,,M. Christie,LAL,SUB: Knecht FOR Christie,Substitution,,0,0,0,0,,,h
+S2425-G0111,1,05:47,PHX,8.0,LAL,23.0,M. Christie,LAL,Christie 3' Cutting Layup Shot (2 PTS) (Russell 4 AST),Made Shot,Cutting Layup Shot,-29,18,3,1,2.0,2.0,v
+S2425-G0111,1,05:17,PHX,,LAL,,M. Christie,LAL,Christie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,1,04:48,PHX,,LAL,,M. Christie,LAL,Christie P.FOUL (P1.T2) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2425-G0111,1,02:38,PHX,,LAL,,M. Christie,LAL,Christie L.B.FOUL (P2.T4) (M.Smith),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0111,1,00:39.300000,PHX,,LAL,,M. Christie,LAL,MISS Christie 5' Driving Dunk,Missed Shot,Driving Dunk Shot,23,39,5,1,2.0,0.0,v
+S2425-G0111,2,10:16,PHX,,LAL,,M. Christie,LAL,SUB: Hachimura FOR Christie,Substitution,,0,0,0,0,,,v
+S2425-G0111,2,04:48,PHX,,LAL,,M. Christie,LAL,Christie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0111,2,04:06,PHX,34.0,LAL,44.0,M. Christie,LAL,Christie 24' 3PT Jump Shot (5 PTS) (L. James 2 AST),Made Shot,Jump Shot,-235,68,24,1,3.0,3.0,v
+S2425-G0111,2,01:01,PHX,,LAL,,M. Christie,LAL,Christie S.FOUL (P3.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0111,2,00:46.800000,PHX,,LAL,,M. Christie,LAL,MISS Christie 4' Driving Dunk,Missed Shot,Driving Dunk Shot,-20,31,4,1,2.0,0.0,v
+S2425-G0111,3,01:56,PHX,,LAL,,M. Christie,LAL,Christie S.FOUL (P4.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2425-G0111,3,00:33.500000,PHX,,LAL,,M. Christie,LAL,Christie BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0111,3,00:31.200000,PHX,,LAL,,M. Christie,LAL,Christie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,3,00:10.300000,PHX,,LAL,,M. Christie,LAL,SUB: Reaves FOR Christie,Substitution,,0,0,0,0,,,v
+S2425-G0111,4,09:34,PHX,,LAL,,M. Christie,LAL,SUB: Reaves FOR Christie,Substitution,,0,0,0,0,,,v
+S2425-G0096,1,06:20,LAL,16.0,SAC,8.0,M. Christie,LAL,Christie Cutting Dunk Shot (2 PTS) (Davis 1 AST),Made Shot,Cutting Dunk Shot,-1,0,0,1,2.0,2.0,h
+S2425-G0096,1,05:14,LAL,,SAC,,M. Christie,LAL,MISS Christie 27' 3PT Jump Shot,Missed Shot,Jump Shot,-137,227,27,1,3.0,0.0,h
+S2425-G0096,1,03:16,LAL,,SAC,,M. Christie,LAL,MISS Christie 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,65,37,7,1,2.0,0.0,h
+S2425-G0096,1,00:01.600000,LAL,,SAC,,M. Christie,LAL,MISS Christie 29' 3PT Jump Shot,Missed Shot,Jump Shot,104,274,29,1,3.0,0.0,h
+S2425-G0096,2,07:00,LAL,,SAC,,M. Christie,LAL,Christie STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0096,2,03:49,LAL,,SAC,,M. Christie,LAL,Christie OFF.Foul (P1) (S.Twardoski),Foul,Offensive,0,0,0,0,,,h
+S2425-G0096,2,03:49,LAL,,SAC,,M. Christie,LAL,Christie Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0096,2,03:44,LAL,,SAC,,M. Christie,LAL,Christie S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2425-G0096,2,03:26,LAL,,SAC,,M. Christie,LAL,Christie Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0096,2,03:12,LAL,,SAC,,M. Christie,LAL,SUB: Russell FOR Christie,Substitution,,0,0,0,0,,,h
+S2425-G0096,3,06:05,LAL,,SAC,,M. Christie,LAL,Christie STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0085,1,06:44,LAL,,PHX,,M. Christie,LAL,Christie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,1,04:59,LAL,,PHX,,M. Christie,LAL,Christie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,1,04:32,LAL,16.0,PHX,18.0,M. Christie,LAL,Christie 25' 3PT Jump Shot (3 PTS) (Reaves 1 AST),Made Shot,Jump Shot,-225,112,25,1,3.0,3.0,h
+S2425-G0085,3,04:38,LAL,,PHX,,M. Christie,LAL,Christie REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,3,04:37,LAL,,PHX,,M. Christie,LAL,Christie Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0085,3,02:58,LAL,,PHX,,M. Christie,LAL,SUB: L. James FOR Christie,Substitution,,0,0,0,0,,,h
+S2425-G0118,1,04:50,CLE,,LAL,,M. Christie,LAL,Christie STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0118,1,00:00.800000,CLE,,LAL,,M. Christie,LAL,Christie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,1,00:00,CLE,,LAL,,M. Christie,LAL,MISS Christie 50' 3PT Jump Shot,Missed Shot,Jump Shot,-192,463,50,1,3.0,0.0,v
+S2425-G0118,2,04:01,CLE,,LAL,,M. Christie,LAL,SUB: Vincent FOR Christie,Substitution,,0,0,0,0,,,v
+S2425-G0118,3,02:07,CLE,,LAL,,M. Christie,LAL,MISS Christie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0118,3,02:07,CLE,92.0,LAL,73.0,M. Christie,LAL,Christie Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0118,4,10:12,CLE,,LAL,,M. Christie,LAL,MISS Christie 26' 3PT Jump Shot,Missed Shot,Jump Shot,216,146,26,1,3.0,0.0,v
+S2425-G0118,4,06:29,CLE,114.0,LAL,95.0,M. Christie,LAL,Christie Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0118,4,06:29,CLE,114.0,LAL,96.0,M. Christie,LAL,Christie Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0118,4,05:02,CLE,,LAL,,M. Christie,LAL,MISS Christie 25' 3PT Jump Shot,Missed Shot,Jump Shot,-165,192,25,1,3.0,0.0,v
+S2425-G0118,4,04:17,CLE,,LAL,,M. Christie,LAL,MISS Christie 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,221,25,1,3.0,0.0,v
+S2425-G0118,4,02:56,CLE,,LAL,,M. Christie,LAL,MISS Christie 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,48,26,5,1,2.0,0.0,v
+S2425-G0118,4,00:35.800000,CLE,132.0,LAL,110.0,M. Christie,LAL,Christie 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,-229,-13,0,1,3.0,3.0,v

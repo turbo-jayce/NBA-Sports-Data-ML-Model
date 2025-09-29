@@ -1,0 +1,122 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,1,11:39,MIA,,ORL,,T. Rozier,MIA,MISS Rozier 2' Driving Layup,Missed Shot,Driving Layup Shot,-7,17,2,1,2.0,0.0,h
+S2425-G0065,1,11:21,MIA,,ORL,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,1,10:12,MIA,3.0,ORL,2.0,T. Rozier,MIA,Rozier 1' Cutting Layup Shot (2 PTS) (Adebayo 1 AST),Made Shot,Cutting Layup Shot,-5,8,1,1,2.0,2.0,h
+S2425-G0065,1,08:12,MIA,,ORL,,T. Rozier,MIA,MISS Rozier 8' Driving Layup,Missed Shot,Driving Layup Shot,2,75,8,1,2.0,0.0,h
+S2425-G0065,1,08:00,MIA,,ORL,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,1,07:56,MIA,,ORL,,T. Rozier,MIA,Rozier Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0065,1,07:19,MIA,,ORL,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,1,06:45,MIA,10.0,ORL,11.0,T. Rozier,MIA,Rozier Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0065,1,06:45,MIA,11.0,ORL,11.0,T. Rozier,MIA,Rozier Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0065,1,06:45,MIA,12.0,ORL,11.0,T. Rozier,MIA,Rozier Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0065,1,05:42,MIA,,ORL,,T. Rozier,MIA,SUB: Jaquez Jr. FOR Rozier,Substitution,,0,0,0,0,,,h
+S2425-G0065,1,02:33,MIA,26.0,ORL,26.0,T. Rozier,MIA,Rozier 2' Driving Finger Roll Layup (7 PTS) (Bryant 1 AST),Made Shot,Driving Finger Roll Layup Shot,-2,15,2,1,2.0,2.0,h
+S2425-G0065,1,01:50,MIA,30.0,ORL,29.0,T. Rozier,MIA,Rozier 20' Turnaround Jump Shot (9 PTS) (Jaquez Jr. 2 AST),Made Shot,Turnaround Jump Shot,200,-13,20,1,2.0,2.0,h
+S2425-G0065,1,00:03.100000,MIA,,ORL,,T. Rozier,MIA,Rozier Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0065,1,00:00,MIA,,ORL,,T. Rozier,MIA,Rozier BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0065,1,00:00,MIA,,ORL,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,10:31,MIA,,ORL,,T. Rozier,MIA,MISS Rozier 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,13,221,22,1,2.0,0.0,h
+S2425-G0065,2,07:56,MIA,,ORL,,T. Rozier,MIA,MISS Rozier 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-88,132,16,1,2.0,0.0,h
+S2425-G0065,2,07:45,MIA,,ORL,,T. Rozier,MIA,Rozier BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0065,2,07:20,MIA,,ORL,,T. Rozier,MIA,SUB: Butler FOR Rozier,Substitution,,0,0,0,0,,,h
+S2425-G0065,2,02:57,MIA,52.0,ORL,51.0,T. Rozier,MIA,Rozier Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0065,2,02:57,MIA,53.0,ORL,51.0,T. Rozier,MIA,Rozier Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0065,3,11:31,MIA,,ORL,,T. Rozier,MIA,MISS Rozier 3PT Jump Shot,Missed Shot,Jump Shot,233,10,0,1,3.0,0.0,h
+S2425-G0065,3,09:49,MIA,,ORL,,T. Rozier,MIA,MISS Rozier 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-190,181,26,1,3.0,0.0,h
+S2425-G0065,3,09:08,MIA,,ORL,,T. Rozier,MIA,Rozier Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0065,3,08:52,MIA,57.0,ORL,70.0,T. Rozier,MIA,Rozier 24' 3PT Jump Shot (14 PTS) (Butler 4 AST),Made Shot,Jump Shot,-230,65,24,1,3.0,3.0,h
+S2425-G0065,3,07:48,MIA,,ORL,,T. Rozier,MIA,MISS Rozier 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-232,104,25,1,3.0,0.0,h
+S2425-G0065,3,07:23,MIA,62.0,ORL,74.0,T. Rozier,MIA,Rozier 3PT Jump Shot (17 PTS) (Butler 5 AST),Made Shot,Jump Shot,224,33,0,1,3.0,3.0,h
+S2425-G0065,3,05:47,MIA,,ORL,,T. Rozier,MIA,SUB: Jaquez Jr. FOR Rozier,Substitution,,0,0,0,0,,,h
+S2425-G0065,3,02:15,MIA,,ORL,,T. Rozier,MIA,MISS Rozier 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,62,24,1,3.0,0.0,h
+S2425-G0065,4,11:48,MIA,73.0,ORL,97.0,T. Rozier,MIA,Rozier Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0065,4,11:48,MIA,74.0,ORL,97.0,T. Rozier,MIA,Rozier Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0065,4,10:57,MIA,,ORL,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,4,10:25,MIA,,ORL,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,4,09:18,MIA,,ORL,,T. Rozier,MIA,MISS Rozier 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,15,0,1,3.0,0.0,h
+S2425-G0065,4,08:50,MIA,,ORL,,T. Rozier,MIA,MISS Rozier 3' Driving Layup,Missed Shot,Driving Layup Shot,-27,21,3,1,2.0,0.0,h
+S2425-G0065,4,06:15,MIA,,ORL,,T. Rozier,MIA,SUB: Larsson FOR Rozier,Substitution,,0,0,0,0,,,h
+S2425-G0088,1,10:48,CHA,,MIA,,T. Rozier,MIA,Rozier OFF.Foul (P1) (K.Lane),Foul,Offensive,0,0,0,0,,,v
+S2425-G0088,1,10:48,CHA,,MIA,,T. Rozier,MIA,Rozier Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0088,1,09:42,CHA,,MIA,,T. Rozier,MIA,MISS Rozier 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,214,138,25,1,3.0,0.0,v
+S2425-G0088,1,08:29,CHA,4.0,MIA,5.0,T. Rozier,MIA,Rozier 2' Cutting Layup Shot (2 PTS) (Adebayo 1 AST),Made Shot,Cutting Layup Shot,12,9,2,1,2.0,2.0,v
+S2425-G0088,1,08:10,CHA,,MIA,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,1,08:09,CHA,,MIA,,T. Rozier,MIA,Rozier Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0088,1,05:15,CHA,14.0,MIA,9.0,T. Rozier,MIA,Rozier 3' Driving Layup (4 PTS) (Jaquez Jr. 1 AST),Made Shot,Driving Layup Shot,26,-7,3,1,2.0,2.0,v
+S2425-G0088,1,04:58,CHA,,MIA,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,1,03:09,CHA,,MIA,,T. Rozier,MIA,SUB: Butler FOR Rozier,Substitution,,0,0,0,0,,,v
+S2425-G0088,2,02:51,CHA,39.0,MIA,48.0,T. Rozier,MIA,Rozier 1' Running Reverse Layup (6 PTS) (Adebayo 2 AST),Made Shot,Running Reverse Layup Shot,-1,-7,1,1,2.0,2.0,v
+S2425-G0088,2,01:33,CHA,,MIA,,T. Rozier,MIA,MISS Rozier 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,48,147,15,1,2.0,0.0,v
+S2425-G0088,2,00:38.200000,CHA,47.0,MIA,56.0,T. Rozier,MIA,Rozier 26' 3PT Jump Shot (9 PTS) (Jović 4 AST),Made Shot,Jump Shot,168,193,26,1,3.0,3.0,v
+S2425-G0088,3,10:28,CHA,,MIA,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,3,09:26,CHA,,MIA,,T. Rozier,MIA,MISS Rozier 3' Driving Layup,Missed Shot,Driving Layup Shot,16,20,3,1,2.0,0.0,v
+S2425-G0088,3,09:09,CHA,,MIA,,T. Rozier,MIA,Rozier S.FOUL (P2.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2425-G0088,3,06:30,CHA,60.0,MIA,69.0,T. Rozier,MIA,Rozier 3PT Jump Shot (12 PTS) (Butler 5 AST),Made Shot,Jump Shot,-232,28,0,1,3.0,3.0,v
+S2425-G0088,3,05:14,CHA,62.0,MIA,70.0,T. Rozier,MIA,Rozier Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,3,05:14,CHA,62.0,MIA,71.0,T. Rozier,MIA,Rozier Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0088,3,04:50,CHA,62.0,MIA,73.0,T. Rozier,MIA,Rozier 3' Driving Layup (16 PTS) (Jović 5 AST),Made Shot,Driving Layup Shot,-22,23,3,1,2.0,2.0,v
+S2425-G0088,3,04:31,CHA,,MIA,,T. Rozier,MIA,MISS Rozier 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-64,259,27,1,3.0,0.0,v
+S2425-G0088,3,04:09,CHA,,MIA,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,3,03:44,CHA,,MIA,,T. Rozier,MIA,SUB: Burks FOR Rozier,Substitution,,0,0,0,0,,,v
+S2425-G0088,4,05:15,CHA,,MIA,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,4,02:56,CHA,,MIA,,T. Rozier,MIA,Rozier S.FOUL (P3.T1) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2425-G0088,4,00:43.600000,CHA,,MIA,,T. Rozier,MIA,MISS Rozier 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-183,193,27,1,3.0,0.0,v
+S2425-G0088,4,00:34.500000,CHA,104.0,MIA,112.0,T. Rozier,MIA,Rozier 3PT Jump Shot (19 PTS),Made Shot,Jump Shot,-225,12,0,1,3.0,3.0,v
+S2425-G0122,1,10:40,MIA,,NYK,,T. Rozier,MIA,MISS Rozier 13' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,-93,85,13,1,2.0,0.0,h
+S2425-G0122,1,05:49,MIA,,NYK,,T. Rozier,MIA,MISS Rozier 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-222,29,0,1,3.0,0.0,h
+S2425-G0122,1,05:11,MIA,,NYK,,T. Rozier,MIA,MISS Rozier 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-213,183,28,1,3.0,0.0,h
+S2425-G0122,1,04:50,MIA,,NYK,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,1,03:48,MIA,,NYK,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,1,03:29,MIA,,NYK,,T. Rozier,MIA,SUB: Smith FOR Rozier,Substitution,,0,0,0,0,,,h
+S2425-G0122,2,05:48,MIA,,NYK,,T. Rozier,MIA,MISS Rozier 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-18,43,5,1,2.0,0.0,h
+S2425-G0122,2,05:40,MIA,,NYK,,T. Rozier,MIA,Rozier P.FOUL (P1.T2) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2425-G0122,2,05:39,MIA,,NYK,,T. Rozier,MIA,Rozier STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0122,2,05:38,MIA,,NYK,,T. Rozier,MIA,Rozier Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0122,2,04:14,MIA,46.0,NYK,42.0,T. Rozier,MIA,Rozier 3PT Jump Shot (3 PTS) (Herro 4 AST),Made Shot,Jump Shot,225,9,0,1,3.0,3.0,h
+S2425-G0122,2,03:46,MIA,,NYK,,T. Rozier,MIA,MISS Rozier 5' Reverse Layup,Missed Shot,Reverse Layup Shot,-13,52,5,1,2.0,0.0,h
+S2425-G0122,3,11:33,MIA,,NYK,,T. Rozier,MIA,MISS Rozier 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-235,21,24,1,3.0,0.0,h
+S2425-G0122,3,10:38,MIA,,NYK,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,3,07:35,MIA,,NYK,,T. Rozier,MIA,MISS Rozier 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,80,24,1,3.0,0.0,h
+S2425-G0122,3,06:35,MIA,,NYK,,T. Rozier,MIA,MISS Rozier 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,25,17,3,1,2.0,0.0,h
+S2425-G0122,3,04:12,MIA,,NYK,,T. Rozier,MIA,Rozier S.FOUL (P2.T2) (T.Ricks),Foul,Shooting,0,0,0,0,,,h
+S2425-G0122,3,04:12,MIA,,NYK,,T. Rozier,MIA,SUB: Smith FOR Rozier,Substitution,,0,0,0,0,,,h
+S2425-G0122,4,10:26,MIA,81.0,NYK,89.0,T. Rozier,MIA,Rozier Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,4,10:26,MIA,82.0,NYK,89.0,T. Rozier,MIA,Rozier Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,4,09:37,MIA,85.0,NYK,91.0,T. Rozier,MIA,Rozier 3PT Jump Shot (8 PTS) (Adebayo 4 AST),Made Shot,Jump Shot,227,54,0,1,3.0,3.0,h
+S2425-G0122,4,08:30,MIA,89.0,NYK,93.0,T. Rozier,MIA,Rozier 26' 3PT Jump Shot (11 PTS) (Herro 6 AST),Made Shot,Jump Shot,151,209,26,1,3.0,3.0,h
+S2425-G0122,4,07:58,MIA,,NYK,,T. Rozier,MIA,Rozier STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0122,4,07:21,MIA,91.0,NYK,94.0,T. Rozier,MIA,Rozier 4' Driving Finger Roll Layup (13 PTS) (Butler 4 AST),Made Shot,Driving Finger Roll Layup Shot,-22,28,4,1,2.0,2.0,h
+S2425-G0122,4,05:09,MIA,,NYK,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,4,02:25,MIA,,NYK,,T. Rozier,MIA,Rozier Step Out of Bounds Turnover (P2.T10),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0122,4,01:39,MIA,102.0,NYK,111.0,T. Rozier,MIA,Rozier 26' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,136,217,26,1,3.0,3.0,h
+S2425-G0122,4,01:03,MIA,,NYK,,T. Rozier,MIA,MISS Rozier 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-167,123,21,1,2.0,0.0,h
+S2425-G0105,1,10:22,MIA,5.0,DET,5.0,T. Rozier,MIA,Rozier 3' Driving Finger Roll Layup (2 PTS) (Herro 1 AST),Made Shot,Driving Finger Roll Layup Shot,-33,3,3,1,2.0,2.0,h
+S2425-G0105,1,08:45,MIA,,DET,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,1,07:21,MIA,13.0,DET,14.0,T. Rozier,MIA,Rozier 1' Driving Finger Roll Layup (4 PTS) (Adebayo 1 AST),Made Shot,Driving Finger Roll Layup Shot,-4,3,1,1,2.0,2.0,h
+S2425-G0105,1,06:57,MIA,,DET,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,1,06:24,MIA,,DET,,T. Rozier,MIA,Rozier Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0105,1,06:09,MIA,,DET,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,1,05:40,MIA,,DET,,T. Rozier,MIA,Rozier S.FOUL (P1.T4) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2425-G0105,1,03:05,MIA,,DET,,T. Rozier,MIA,SUB: Burks FOR Rozier,Substitution,,0,0,0,0,,,h
+S2425-G0105,2,07:05,MIA,42.0,DET,37.0,T. Rozier,MIA,Rozier 27' 3PT Jump Shot (7 PTS) (Herro 2 AST),Made Shot,Jump Shot,-197,178,27,1,3.0,3.0,h
+S2425-G0105,2,06:27,MIA,,DET,,T. Rozier,MIA,MISS Rozier 28' 3PT Jump Shot,Missed Shot,Jump Shot,83,264,28,1,3.0,0.0,h
+S2425-G0105,2,06:20,MIA,,DET,,T. Rozier,MIA,Rozier S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2425-G0105,2,05:28,MIA,,DET,,T. Rozier,MIA,MISS Rozier 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,258,27,1,3.0,0.0,h
+S2425-G0105,2,05:08,MIA,,DET,,T. Rozier,MIA,MISS Rozier 1' Driving Layup,Missed Shot,Driving Layup Shot,-4,6,1,1,2.0,0.0,h
+S2425-G0105,2,02:58,MIA,53.0,DET,46.0,T. Rozier,MIA,Rozier 24' 3PT Pullup Jump Shot (10 PTS) (Herro 3 AST),Made Shot,Pullup Jump shot,225,89,24,1,3.0,3.0,h
+S2425-G0105,2,02:58,MIA,54.0,DET,46.0,T. Rozier,MIA,Rozier Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0105,2,01:34,MIA,,DET,,T. Rozier,MIA,Rozier STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0105,2,01:30,MIA,62.0,DET,51.0,T. Rozier,MIA,Rozier 25' 3PT Running Pull-Up Jump Shot (14 PTS),Made Shot,Running Pull-Up Jump Shot,-97,235,25,1,3.0,3.0,h
+S2425-G0105,2,00:29.900000,MIA,,DET,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,2,00:19.500000,MIA,,DET,,T. Rozier,MIA,MISS Rozier 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-229,31,0,1,3.0,0.0,h
+S2425-G0105,2,00:00.200000,MIA,,DET,,T. Rozier,MIA,MISS Rozier 50' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-34,503,50,1,3.0,0.0,h
+S2425-G0105,3,09:07,MIA,,DET,,T. Rozier,MIA,Rozier Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0105,3,05:12,MIA,,DET,,T. Rozier,MIA,Rozier REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,3,04:52,MIA,,DET,,T. Rozier,MIA,MISS Rozier 3PT Jump Shot,Missed Shot,Jump Shot,-233,-4,0,1,3.0,0.0,h
+S2425-G0105,3,03:09,MIA,,DET,,T. Rozier,MIA,MISS Rozier 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,96,23,10,1,2.0,0.0,h
+S2425-G0105,3,02:56,MIA,,DET,,T. Rozier,MIA,MISS Rozier 25' 3PT Jump Shot,Missed Shot,Jump Shot,179,180,25,1,3.0,0.0,h
+S2425-G0105,3,02:55,MIA,,DET,,T. Rozier,MIA,SUB: Butler FOR Rozier,Substitution,,0,0,0,0,,,h
+S2425-G0105,4,07:16,MIA,,DET,,T. Rozier,MIA,MISS Rozier 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-167,202,26,1,3.0,0.0,h
+S2425-G0105,4,05:27,MIA,98.0,DET,89.0,T. Rozier,MIA,Rozier 26' 3PT Jump Shot (17 PTS) (Herro 5 AST),Made Shot,Jump Shot,-188,178,26,1,3.0,3.0,h
+S2425-G0105,4,01:52,MIA,103.0,DET,92.0,T. Rozier,MIA,Rozier 25' 3PT Jump Shot (20 PTS) (Herro 6 AST),Made Shot,Jump Shot,-234,75,25,1,3.0,3.0,h
+S2425-G0105,4,00:38,MIA,,DET,,T. Rozier,MIA,Rozier P.FOUL (P3.T3) (M.Kogut),Foul,Personal,0,0,0,0,,,h

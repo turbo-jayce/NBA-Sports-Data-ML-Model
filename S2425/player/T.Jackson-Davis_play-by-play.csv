@@ -1,0 +1,94 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,12:00,GSW,,NOP,,T. Jackson-Davis,GSW,Jump Ball Jackson-Davis vs. Theis: Tip to Green,Jump Ball,,0,0,0,0,,,h
+S2425-G0126,1,11:45,GSW,2.0,NOP,0.0,T. Jackson-Davis,GSW,Jackson-Davis 2' Alley Oop Layup (2 PTS) (Podziemski 1 AST),Made Shot,Alley Oop Layup shot,18,1,2,1,2.0,2.0,h
+S2425-G0126,1,11:22,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,11:11,GSW,4.0,NOP,0.0,T. Jackson-Davis,GSW,Jackson-Davis 2' Driving Dunk (4 PTS) (Waters III 1 AST),Made Shot,Driving Dunk Shot,-17,5,2,1,2.0,2.0,h
+S2425-G0126,1,10:04,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,08:16,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,07:51,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,06:44,GSW,14.0,NOP,8.0,T. Jackson-Davis,GSW,Jackson-Davis 1' Running Dunk (6 PTS) (Green 1 AST),Made Shot,Running Dunk Shot,-5,5,1,1,2.0,2.0,h
+S2425-G0126,1,05:14,GSW,,NOP,,T. Jackson-Davis,GSW,SUB: Looney FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0126,3,11:45,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,3,11:33,GSW,50.0,NOP,46.0,T. Jackson-Davis,GSW,Jackson-Davis 3' Alley Oop Layup (8 PTS) (Green 3 AST),Made Shot,Alley Oop Layup shot,26,6,3,1,2.0,2.0,h
+S2425-G0126,3,11:24,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0126,3,11:22,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,09:34,GSW,,NOP,,T. Jackson-Davis,GSW,MISS Jackson-Davis 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-39,16,4,1,2.0,0.0,h
+S2425-G0126,3,09:22,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,09:19,GSW,57.0,NOP,46.0,T. Jackson-Davis,GSW,Jackson-Davis 2' Running Layup (10 PTS) (Podziemski 5 AST),Made Shot,Running Layup Shot,-5,15,2,1,2.0,2.0,h
+S2425-G0126,3,08:53,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,08:40,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,08:40,GSW,,NOP,,T. Jackson-Davis,GSW,MISS Jackson-Davis 2' Putback Layup,Missed Shot,Putback Layup Shot,18,8,2,1,2.0,0.0,h
+S2425-G0126,3,08:14,GSW,59.0,NOP,46.0,T. Jackson-Davis,GSW,Jackson-Davis 1' Cutting Dunk Shot (12 PTS) (Podziemski 6 AST),Made Shot,Cutting Dunk Shot,-6,-1,1,1,2.0,2.0,h
+S2425-G0126,3,06:26,GSW,67.0,NOP,50.0,T. Jackson-Davis,GSW,Jackson-Davis 4' Cutting Dunk Shot (14 PTS) (Hield 2 AST),Made Shot,Cutting Dunk Shot,39,10,4,1,2.0,2.0,h
+S2425-G0126,3,03:57,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,02:08,GSW,,NOP,,T. Jackson-Davis,GSW,SUB: Moody FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,08:19,GSW,,NOP,,T. Jackson-Davis,GSW,MISS Jackson-Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0126,4,08:19,GSW,85.0,NOP,69.0,T. Jackson-Davis,GSW,Jackson-Davis Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,07:51,GSW,,NOP,,T. Jackson-Davis,GSW,SUB: Green FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0101,1,12:00,GSW,,LAC,,T. Jackson-Davis,GSW,Jump Ball Jackson-Davis vs. Zubac: Tip to Harden,Jump Ball,,0,0,0,0,,,h
+S2425-G0101,1,11:43,GSW,,LAC,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,1,05:55,GSW,,LAC,,T. Jackson-Davis,GSW,MISS Jackson-Davis 4' Driving Layup,Missed Shot,Driving Layup Shot,-38,14,4,1,2.0,0.0,h
+S2425-G0101,1,04:53,GSW,,LAC,,T. Jackson-Davis,GSW,SUB: Hield FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0101,2,09:02,GSW,,LAC,,T. Jackson-Davis,GSW,MISS Jackson-Davis 5' Driving Layup,Missed Shot,Driving Layup Shot,-9,52,5,1,2.0,0.0,h
+S2425-G0101,2,08:34,GSW,,LAC,,T. Jackson-Davis,GSW,MISS Jackson-Davis 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-18,46,5,1,2.0,0.0,h
+S2425-G0101,2,07:11,GSW,,LAC,,T. Jackson-Davis,GSW,Jackson-Davis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0101,2,06:36,GSW,42.0,LAC,43.0,T. Jackson-Davis,GSW,Jackson-Davis 3' Running Alley Oop Dunk Shot (2 PTS) (Hield 1 AST),Made Shot,Running Alley Oop Dunk Shot,27,14,3,1,2.0,2.0,h
+S2425-G0101,2,05:13,GSW,44.0,LAC,45.0,T. Jackson-Davis,GSW,Jackson-Davis 3' Alley Oop Dunk (4 PTS) (Curry 5 AST),Made Shot,Alley Oop Dunk Shot,-26,17,3,1,2.0,2.0,h
+S2425-G0101,2,04:22,GSW,,LAC,,T. Jackson-Davis,GSW,MISS Jackson-Davis 3' Driving Layup,Missed Shot,Driving Layup Shot,-31,14,3,1,2.0,0.0,h
+S2425-G0101,2,03:46,GSW,,LAC,,T. Jackson-Davis,GSW,SUB: Podziemski FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0101,3,10:27,GSW,,LAC,,T. Jackson-Davis,GSW,Jump Ball Jackson-Davis vs. Jones Jr.: Tip to Zubac,Jump Ball,,0,0,0,0,,,h
+S2425-G0101,3,10:07,GSW,,LAC,,T. Jackson-Davis,GSW,Jackson-Davis Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0101,3,08:40,GSW,,LAC,,T. Jackson-Davis,GSW,SUB: Payton II FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0072,1,11:08,POR,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,08:45,POR,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,08:26,POR,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,06:46,POR,12.0,GSW,4.0,T. Jackson-Davis,GSW,Jackson-Davis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,1,06:46,POR,12.0,GSW,5.0,T. Jackson-Davis,GSW,Jackson-Davis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,1,05:39,POR,,GSW,,T. Jackson-Davis,GSW,SUB: Payton II FOR Jackson-Davis,Substitution,,0,0,0,0,,,v
+S2425-G0072,2,05:46,POR,35.0,GSW,36.0,T. Jackson-Davis,GSW,Jackson-Davis Cutting Dunk Shot (4 PTS) (Curry 3 AST),Made Shot,Cutting Dunk Shot,-2,2,0,1,2.0,2.0,v
+S2425-G0072,2,04:45,POR,37.0,GSW,41.0,T. Jackson-Davis,GSW,Jackson-Davis 2' Cutting Layup Shot (6 PTS) (Podziemski 2 AST),Made Shot,Cutting Layup Shot,-1,15,2,1,2.0,2.0,v
+S2425-G0072,2,02:44,POR,,GSW,,T. Jackson-Davis,GSW,SUB: Wiggins FOR Jackson-Davis,Substitution,,0,0,0,0,,,v
+S2425-G0072,3,09:29,POR,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,06:06,POR,,GSW,,T. Jackson-Davis,GSW,SUB: Payton II FOR Jackson-Davis,Substitution,,0,0,0,0,,,v
+S2425-G0072,4,09:45,POR,78.0,GSW,104.0,T. Jackson-Davis,GSW,Jackson-Davis 1' Alley Oop Dunk (8 PTS) (Melton 3 AST),Made Shot,Alley Oop Dunk Shot,5,-4,1,1,2.0,2.0,v
+S2425-G0072,4,08:54,POR,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis S.FOUL (P1.T4) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2425-G0072,4,07:24,POR,,GSW,,T. Jackson-Davis,GSW,MISS Jackson-Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0072,4,07:24,POR,83.0,GSW,110.0,T. Jackson-Davis,GSW,Jackson-Davis Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,4,05:38,POR,87.0,GSW,114.0,T. Jackson-Davis,GSW,Jackson-Davis 1' Dunk (11 PTS),Made Shot,Dunk Shot,-6,6,1,1,2.0,2.0,v
+S2425-G0072,4,05:38,POR,87.0,GSW,115.0,T. Jackson-Davis,GSW,Jackson-Davis Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0072,4,05:17,POR,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0072,4,04:56,POR,87.0,GSW,117.0,T. Jackson-Davis,GSW,Jackson-Davis 1' Driving Dunk (14 PTS),Made Shot,Driving Dunk Shot,-7,4,1,1,2.0,2.0,v
+S2425-G0072,4,04:44,POR,,GSW,,T. Jackson-Davis,GSW,SUB: Payton II FOR Jackson-Davis,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,12:00,GSW,,NOP,,T. Jackson-Davis,GSW,Jump Ball Jackson-Davis vs. Theis: Tip to Podziemski,Jump Ball,,0,0,0,0,,,h
+S2425-G0116,1,08:48,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0116,1,06:08,GSW,,NOP,,T. Jackson-Davis,GSW,SUB: Looney FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0116,3,11:03,GSW,,NOP,,T. Jackson-Davis,GSW,MISS Jackson-Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0116,3,11:03,GSW,51.0,NOP,54.0,T. Jackson-Davis,GSW,Jackson-Davis Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,3,06:36,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,06:03,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,04:16,GSW,78.0,NOP,70.0,T. Jackson-Davis,GSW,Jackson-Davis 1' Running Alley Oop Dunk Shot (3 PTS) (Kuminga 1 AST),Made Shot,Running Alley Oop Dunk Shot,7,11,1,1,2.0,2.0,h
+S2425-G0116,3,03:52,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,3,03:40,GSW,,NOP,,T. Jackson-Davis,GSW,SUB: Looney FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0084,1,10:19,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,08:56,UTA,10.0,GSW,4.0,T. Jackson-Davis,GSW,Jackson-Davis 3' Alley Oop Dunk (2 PTS) (Green 1 AST),Made Shot,Alley Oop Dunk Shot,28,2,3,1,2.0,2.0,v
+S2425-G0084,1,08:27,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,07:44,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis L.B.FOUL (P1.T1) (T.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0084,1,07:02,UTA,,GSW,,T. Jackson-Davis,GSW,SUB: Payton II FOR Jackson-Davis,Substitution,,0,0,0,0,,,v
+S2425-G0084,2,09:58,UTA,26.0,GSW,34.0,T. Jackson-Davis,GSW,Jackson-Davis 5' Cutting Layup Shot (4 PTS) (Melton 1 AST),Made Shot,Cutting Layup Shot,-39,23,5,1,2.0,2.0,v
+S2425-G0084,2,09:18,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,09:11,UTA,26.0,GSW,36.0,T. Jackson-Davis,GSW,Jackson-Davis 3' Alley Oop Dunk (6 PTS) (Melton 2 AST),Made Shot,Alley Oop Dunk Shot,26,11,3,1,2.0,2.0,v
+S2425-G0084,2,05:58,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,05:57,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0084,2,05:56,UTA,,GSW,,T. Jackson-Davis,GSW,SUB: Hield FOR Jackson-Davis,Substitution,,0,0,0,0,,,v
+S2425-G0084,3,11:20,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis S.FOUL (P2.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2425-G0084,3,09:38,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,09:30,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,09:29,UTA,45.0,GSW,66.0,T. Jackson-Davis,GSW,Jackson-Davis Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0084,3,08:59,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis S.FOUL (P3.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2425-G0084,3,08:15,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,08:15,UTA,47.0,GSW,74.0,T. Jackson-Davis,GSW,Jackson-Davis Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0084,3,07:38,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,07:32,UTA,50.0,GSW,76.0,T. Jackson-Davis,GSW,Jackson-Davis Putback Dunk (12 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0084,3,07:14,UTA,,GSW,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,06:26,UTA,,GSW,,T. Jackson-Davis,GSW,SUB: Payton II FOR Jackson-Davis,Substitution,,0,0,0,0,,,v
+S2425-G0084,4,05:56,UTA,,GSW,,T. Jackson-Davis,GSW,SUB: Santos FOR Jackson-Davis,Substitution,,0,0,0,0,,,v

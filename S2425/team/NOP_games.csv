@@ -1,0 +1,1492 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,12:00,GSW,0.0,NOP,0.0,,,Start of 1st Period (10:11 PM EST),period,start,0,0,0,0,,,
+S2425-G0126,1,12:00,GSW,,NOP,,T. Jackson-Davis,GSW,Jump Ball Jackson-Davis vs. Theis: Tip to Green,Jump Ball,,0,0,0,0,,,h
+S2425-G0126,1,11:45,GSW,2.0,NOP,0.0,T. Jackson-Davis,GSW,Jackson-Davis 2' Alley Oop Layup (2 PTS) (Podziemski 1 AST),Made Shot,Alley Oop Layup shot,18,1,2,1,2.0,2.0,h
+S2425-G0126,1,11:24,GSW,,NOP,,D. Theis,NOP,MISS Theis 18' Jump Shot,Missed Shot,Jump Shot,19,176,18,1,2.0,0.0,v
+S2425-G0126,1,11:22,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,11:11,GSW,4.0,NOP,0.0,T. Jackson-Davis,GSW,Jackson-Davis 2' Driving Dunk (4 PTS) (Waters III 1 AST),Made Shot,Driving Dunk Shot,-17,5,2,1,2.0,2.0,h
+S2425-G0126,1,11:00,GSW,,NOP,,J. Hawkins,NOP,Hawkins Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0126,1,10:46,GSW,6.0,NOP,0.0,B. Podziemski,GSW,Podziemski 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,37,16,4,1,2.0,2.0,h
+S2425-G0126,1,10:29,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,-230,91,25,1,3.0,0.0,v
+S2425-G0126,1,10:26,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,10:23,GSW,6.0,NOP,2.0,Z. Williamson,NOP,Williamson 3' Layup (2 PTS),Made Shot,Layup Shot,-23,12,3,1,2.0,2.0,v
+S2425-G0126,1,10:17,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 3PT Jump Shot,Missed Shot,Jump Shot,224,52,0,1,3.0,0.0,h
+S2425-G0126,1,10:12,GSW,,NOP,,J. Alvarado,NOP,Alvarado REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,10:06,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 8' Jump Shot,Missed Shot,Jump Shot,-11,84,8,1,2.0,0.0,v
+S2425-G0126,1,10:04,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,10:01,GSW,,NOP,,D. Green,GSW,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0126,1,09:48,GSW,6.0,NOP,5.0,J. Alvarado,NOP,Alvarado 27' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,145,228,27,1,3.0,3.0,v
+S2425-G0126,1,09:32,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-110,-15,11,1,2.0,0.0,h
+S2425-G0126,1,09:29,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,09:20,GSW,,NOP,,D. Theis,NOP,Theis Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0126,1,09:11,GSW,,NOP,,D. Green,GSW,MISS Green 23' Jump Shot,Missed Shot,Jump Shot,-169,160,23,1,2.0,0.0,h
+S2425-G0126,1,09:08,GSW,,NOP,,B. Ingram,NOP,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,08:56,GSW,,NOP,,D. Theis,NOP,MISS Theis 5' Hook Shot,Missed Shot,Hook Shot,-45,13,5,1,2.0,0.0,v
+S2425-G0126,1,08:53,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,08:38,GSW,,NOP,,D. Green,GSW,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-67,255,26,1,3.0,0.0,h
+S2425-G0126,1,08:35,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,08:35,GSW,,NOP,,M. Moody,GSW,Moody P.FOUL (P1.T1) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,1,08:19,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 7' Driving Layup,Missed Shot,Driving Layup Shot,-37,54,7,1,2.0,0.0,v
+S2425-G0126,1,08:19,GSW,,NOP,,D. Green,GSW,Green BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0126,1,08:17,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,08:17,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-38,10,4,1,2.0,0.0,v
+S2425-G0126,1,08:16,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,08:11,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 3PT Jump Shot,Missed Shot,Jump Shot,-227,-7,0,1,3.0,0.0,h
+S2425-G0126,1,08:08,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,08:05,GSW,,NOP,,D. Green,GSW,Green P.FOUL (P1.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,1,07:54,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 25' 3PT Jump Shot,Missed Shot,Jump Shot,114,228,25,1,3.0,0.0,v
+S2425-G0126,1,07:51,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,07:42,GSW,9.0,NOP,5.0,L. Waters III,GSW,Waters III 26' 3PT Jump Shot (3 PTS) (Jackson-Davis 1 AST),Made Shot,Jump Shot,109,236,26,1,3.0,3.0,h
+S2425-G0126,1,07:21,GSW,9.0,NOP,8.0,J. Alvarado,NOP,Alvarado 26' 3PT Jump Shot (6 PTS) (Williamson 1 AST),Made Shot,Jump Shot,-13,257,26,1,3.0,3.0,v
+S2425-G0126,1,07:10,GSW,12.0,NOP,8.0,M. Moody,GSW,Moody 25' 3PT Jump Shot (3 PTS) (Waters III 2 AST),Made Shot,Jump Shot,-54,247,25,1,3.0,3.0,h
+S2425-G0126,1,06:58,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 27' 3PT Jump Shot,Missed Shot,Jump Shot,-201,174,27,1,3.0,0.0,v
+S2425-G0126,1,06:52,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,06:51,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 26' 3PT Jump Shot,Missed Shot,Jump Shot,-156,209,26,1,3.0,0.0,v
+S2425-G0126,1,06:46,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,06:44,GSW,14.0,NOP,8.0,T. Jackson-Davis,GSW,Jackson-Davis 1' Running Dunk (6 PTS) (Green 1 AST),Made Shot,Running Dunk Shot,-5,5,1,1,2.0,2.0,h
+S2425-G0126,1,06:44,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0126,1,06:44,GSW,,NOP,,D. Theis,NOP,SUB: Green FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0126,1,06:44,GSW,,NOP,,Z. Williamson,NOP,SUB: Missi FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0126,1,06:28,GSW,14.0,NOP,11.0,J. Green,NOP,Green 27' 3PT Jump Shot (3 PTS) (Ingram 2 AST),Made Shot,Jump Shot,-145,228,27,1,3.0,3.0,v
+S2425-G0126,1,06:07,GSW,,NOP,,D. Green,GSW,MISS Green 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-6,58,6,1,2.0,0.0,h
+S2425-G0126,1,06:04,GSW,,NOP,,Y. Missi,NOP,Missi REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,05:56,GSW,14.0,NOP,13.0,B. Ingram,NOP,Ingram 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,168,4,17,1,2.0,2.0,v
+S2425-G0126,1,05:45,GSW,,NOP,,D. Green,GSW,Green Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0126,1,05:45,GSW,,NOP,,J. Green,NOP,Green STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0126,1,05:40,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-223,2,0,1,3.0,0.0,v
+S2425-G0126,1,05:37,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,05:27,GSW,,NOP,,M. Moody,GSW,Moody Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0126,1,05:27,GSW,,NOP,,J. Green,NOP,Green STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0126,1,05:22,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-176,204,27,1,3.0,0.0,v
+S2425-G0126,1,05:19,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,05:14,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0126,1,05:14,GSW,,NOP,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,h
+S2425-G0126,1,05:14,GSW,,NOP,,D. Green,GSW,SUB: Hield FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0126,1,05:14,GSW,,NOP,,T. Jackson-Davis,GSW,SUB: Looney FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0126,1,05:14,GSW,,NOP,,J. Hawkins,NOP,SUB: Cain FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0126,1,05:02,GSW,,NOP,,B. Podziemski,GSW,Podziemski Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0126,1,04:47,GSW,,NOP,,L. Waters III,GSW,Waters III Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0126,1,04:36,GSW,,NOP,,Y. Missi,NOP,MISS Missi 4' Driving Dunk,Missed Shot,Driving Dunk Shot,22,32,4,1,2.0,0.0,v
+S2425-G0126,1,04:32,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,04:28,GSW,16.0,NOP,13.0,K. Looney,GSW,Looney 2' Running Dunk (2 PTS) (Waters III 3 AST),Made Shot,Running Dunk Shot,-2,17,2,1,2.0,2.0,h
+S2425-G0126,1,04:15,GSW,16.0,NOP,15.0,J. Alvarado,NOP,Alvarado 9' Driving Floating Jump Shot (8 PTS) (Cain 1 AST),Made Shot,Driving Floating Jump Shot,-31,83,9,1,2.0,2.0,v
+S2425-G0126,1,03:58,GSW,,NOP,,L. Waters III,GSW,SUB: Anderson FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0126,1,03:58,GSW,,NOP,,B. Ingram,NOP,SUB: Williamson FOR Ingram,Substitution,,0,0,0,0,,,v
+S2425-G0126,1,03:49,GSW,,NOP,,B. Hield,GSW,MISS Hield 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,114,140,18,1,2.0,0.0,h
+S2425-G0126,1,03:47,GSW,,NOP,,J. Cain,NOP,Cain REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,03:42,GSW,,NOP,,Y. Missi,NOP,MISS Missi 4' Layup,Missed Shot,Layup Shot,44,1,4,1,2.0,0.0,v
+S2425-G0126,1,03:42,GSW,,NOP,,K. Anderson,GSW,Anderson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0126,1,03:41,GSW,,NOP,,K. Anderson,GSW,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,03:33,GSW,18.0,NOP,15.0,K. Anderson,GSW,Anderson 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,0,52,5,1,2.0,2.0,h
+S2425-G0126,1,03:21,GSW,,NOP,,K. Looney,GSW,Looney P.FOUL (P1.T3) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,1,03:10,GSW,,NOP,,Z. Williamson,NOP,Williamson Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0126,1,03:10,GSW,,NOP,,B. Hield,GSW,Hield STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0126,1,03:05,GSW,,NOP,,B. Podziemski,GSW,SUB: Moody FOR Podziemski,Substitution,,0,0,0,0,,,h
+S2425-G0126,1,03:03,GSW,21.0,NOP,15.0,M. Moody,GSW,Moody 25' 3PT Jump Shot (6 PTS) (Kuminga 1 AST),Made Shot,Jump Shot,-228,110,25,1,3.0,3.0,h
+S2425-G0126,1,02:47,GSW,,NOP,,J. Green,NOP,MISS Green 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-70,12,7,1,2.0,0.0,v
+S2425-G0126,1,02:42,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,02:33,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 5' Driving Layup,Missed Shot,Driving Layup Shot,47,26,5,1,2.0,0.0,v
+S2425-G0126,1,02:33,GSW,,NOP,,Y. Missi,NOP,Missi REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,02:30,GSW,,NOP,,Y. Missi,NOP,MISS Missi Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0126,1,02:29,GSW,,NOP,,Y. Missi,NOP,Missi REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,02:29,GSW,,NOP,,Y. Missi,NOP,MISS Missi Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0126,1,02:29,GSW,,NOP,,K. Anderson,GSW,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,02:23,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 4' Running Layup,Missed Shot,Running Layup Shot,11,40,4,1,2.0,0.0,h
+S2425-G0126,1,02:23,GSW,,NOP,,J. Green,NOP,Green BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0126,1,02:19,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,02:19,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0126,1,02:18,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,02:09,GSW,,NOP,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,194,171,26,1,3.0,0.0,h
+S2425-G0126,1,02:09,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,02:04,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 6' Driving Layup,Missed Shot,Driving Layup Shot,-32,55,6,1,2.0,0.0,v
+S2425-G0126,1,02:03,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,02:02,GSW,,NOP,,J. Cain,NOP,Cain P.FOUL (P1.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0126,1,02:02,GSW,,NOP,,J. Alvarado,NOP,SUB: Hawkins FOR Alvarado,Substitution,,0,0,0,0,,,v
+S2425-G0126,1,01:47,GSW,23.0,NOP,15.0,J. Kuminga,GSW,Kuminga 6' Driving Layup (2 PTS) (Moody 1 AST),Made Shot,Driving Layup Shot,-47,31,6,1,2.0,2.0,h
+S2425-G0126,1,01:47,GSW,,NOP,,Y. Missi,NOP,Missi Violation:Defensive Goaltending (B.Taylor),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0126,1,01:31,GSW,23.0,NOP,18.0,J. Hawkins,NOP,Hawkins 27' 3PT Jump Shot (3 PTS) (Williamson 2 AST),Made Shot,Jump Shot,-20,270,27,1,3.0,3.0,v
+S2425-G0126,1,01:26,GSW,,NOP,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-225,4,0,1,3.0,0.0,h
+S2425-G0126,1,01:26,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,01:23,GSW,,NOP,,J. Cain,NOP,Cain L.B.FOUL (P2.T2) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0126,1,01:14,GSW,26.0,NOP,18.0,K. Anderson,GSW,Anderson 26' 3PT Step Back Jump Shot (5 PTS) (Looney 1 AST),Made Shot,Step Back Jump shot,18,257,26,1,3.0,3.0,h
+S2425-G0126,1,00:59.600000,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,112,232,26,1,3.0,0.0,v
+S2425-G0126,1,00:57.600000,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,00:53.900000,GSW,,NOP,,J. Green,NOP,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-192,181,26,1,3.0,0.0,v
+S2425-G0126,1,00:50.400000,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,00:35.800000,GSW,,NOP,,J. Kuminga,GSW,Kuminga Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0126,1,00:23.400000,GSW,26.0,NOP,20.0,Z. Williamson,NOP,Williamson 6' Turnaround Hook Shot (4 PTS) (Green 1 AST),Made Shot,Turnaround Hook Shot,16,53,6,1,2.0,2.0,v
+S2425-G0126,1,00:03.500000,GSW,28.0,NOP,20.0,J. Kuminga,GSW,Kuminga 7' Pullup Jump Shot (4 PTS) (Anderson 1 AST),Made Shot,Pullup Jump shot,-59,35,7,1,2.0,2.0,h
+S2425-G0126,1,00:00.500000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 53' 3PT Jump Shot,Missed Shot,Jump Shot,-206,493,53,1,3.0,0.0,v
+S2425-G0126,1,00:00.100000,GSW,,NOP,,,,Pelicans Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,00:00,GSW,28.0,NOP,20.0,,,End of 1st Period (10:35 PM EST),period,end,0,0,0,0,,,
+S2425-G0126,2,12:00,GSW,28.0,NOP,20.0,,,Start of 2nd Period (10:38 PM EST),period,start,0,0,0,0,,,
+S2425-G0126,2,11:42,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,9,59,6,1,2.0,0.0,v
+S2425-G0126,2,11:40,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,11:25,GSW,30.0,NOP,20.0,J. Kuminga,GSW,Kuminga 14' Step Back Jump Shot (6 PTS) (Payton II 1 AST),Made Shot,Step Back Jump shot,-48,127,14,1,2.0,2.0,h
+S2425-G0126,2,11:06,GSW,,NOP,,B. Boston Jr.,NOP,MISS Boston Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,-161,214,27,1,3.0,0.0,v
+S2425-G0126,2,11:04,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,10:48,GSW,32.0,NOP,20.0,B. Hield,GSW,Hield 4' Driving Layup (2 PTS) (Payton II 2 AST),Made Shot,Driving Layup Shot,-37,10,4,1,2.0,2.0,h
+S2425-G0126,2,10:28,GSW,32.0,NOP,23.0,J. Hawkins,NOP,Hawkins 28' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-124,247,28,1,3.0,3.0,v
+S2425-G0126,2,10:09,GSW,,NOP,,K. Looney,GSW,Looney Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0126,2,10:09,GSW,,NOP,,B. Boston Jr.,NOP,Boston Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0126,2,10:07,GSW,,NOP,,K. Looney,GSW,Looney S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,2,10:07,GSW,,NOP,,B. Boston Jr.,NOP,MISS Boston Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0126,2,10:07,GSW,,NOP,,,,Pelicans Rebound,Rebound,Normal Rebound,0,0,0,0,,,v
+S2425-G0126,2,10:07,GSW,32.0,NOP,24.0,B. Boston Jr.,NOP,Boston Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,2,09:50,GSW,,NOP,,B. Hield,GSW,MISS Hield 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,162,219,27,1,3.0,0.0,h
+S2425-G0126,2,09:46,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,09:42,GSW,32.0,NOP,26.0,J. Cain,NOP,Cain 3' Running Reverse Layup (2 PTS) (Williamson 3 AST),Made Shot,Running Reverse Layup Shot,-20,18,3,1,2.0,2.0,v
+S2425-G0126,2,09:24,GSW,,NOP,,B. Hield,GSW,MISS Hield 27' 3PT Jump Shot,Missed Shot,Jump Shot,165,211,27,1,3.0,0.0,h
+S2425-G0126,2,09:22,GSW,,NOP,,B. Boston Jr.,NOP,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,09:12,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 6' Driving Layup,Missed Shot,Driving Layup Shot,4,63,6,1,2.0,0.0,v
+S2425-G0126,2,09:12,GSW,,NOP,,B. Hield,GSW,Hield BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0126,2,09:12,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,09:00,GSW,,NOP,,G. Payton II,GSW,Payton II OFF.Foul (P1) (M.Kallio),Foul,Offensive,0,0,0,0,,,h
+S2425-G0126,2,09:00,GSW,,NOP,,G. Payton II,GSW,Payton II Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0126,2,08:42,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 5' Driving Layup,Missed Shot,Driving Layup Shot,-44,27,5,1,2.0,0.0,v
+S2425-G0126,2,08:41,GSW,,NOP,,J. Robinson-Earl,NOP,Robinson-Earl REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,08:41,GSW,32.0,NOP,28.0,J. Robinson-Earl,NOP,Robinson-Earl Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0126,2,08:41,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0126,2,08:41,GSW,,NOP,,J. Kuminga,GSW,SUB: Anderson FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,08:41,GSW,,NOP,,K. Looney,GSW,SUB: Green FOR Looney,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,08:41,GSW,,NOP,,G. Payton II,GSW,SUB: Podziemski FOR Payton II,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,08:28,GSW,,NOP,,J. Robinson-Earl,NOP,Robinson-Earl P.FOUL (P1.T1) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0126,2,08:24,GSW,,NOP,,B. Hield,GSW,MISS Hield 26' 3PT Jump Shot,Missed Shot,Jump Shot,-185,187,26,1,3.0,0.0,h
+S2425-G0126,2,08:18,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,08:14,GSW,,NOP,,B. Boston Jr.,NOP,MISS Boston Jr. 4' Running Layup,Missed Shot,Running Layup Shot,-33,25,4,1,2.0,0.0,v
+S2425-G0126,2,08:14,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,08:14,GSW,,NOP,,J. Robinson-Earl,NOP,Robinson-Earl L.B.FOUL (P2.T2) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0126,2,07:55,GSW,,NOP,,D. Green,GSW,MISS Green 4' Driving Layup,Missed Shot,Driving Layup Shot,36,26,4,1,2.0,0.0,h
+S2425-G0126,2,07:53,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,07:44,GSW,32.0,NOP,30.0,J. Hawkins,NOP,Hawkins 23' Running Pull-Up Jump Shot (8 PTS) (Williamson 4 AST),Made Shot,Running Pull-Up Jump Shot,113,203,23,1,2.0,2.0,v
+S2425-G0126,2,07:24,GSW,34.0,NOP,30.0,K. Anderson,GSW,Anderson 4' Reverse Layup (7 PTS) (Hield 1 AST),Made Shot,Reverse Layup Shot,-38,9,4,1,2.0,2.0,h
+S2425-G0126,2,07:14,GSW,,NOP,,Z. Williamson,NOP,Williamson OFF.Foul (P1) (M.Kallio),Foul,Offensive,0,0,0,0,,,v
+S2425-G0126,2,07:14,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0126,2,07:14,GSW,,NOP,,Z. Williamson,NOP,SUB: Ingram FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0126,2,06:55,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,150,108,18,1,2.0,0.0,h
+S2425-G0126,2,06:53,GSW,,NOP,,B. Boston Jr.,NOP,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,06:40,GSW,34.0,NOP,32.0,J. Robinson-Earl,NOP,Robinson-Earl 6' Floating Jump Shot (4 PTS) (Boston Jr. 1 AST),Made Shot,Floating Jump shot,-1,55,6,1,2.0,2.0,v
+S2425-G0126,2,06:40,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P2.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,2,06:40,GSW,,NOP,,B. Hield,GSW,SUB: Moody FOR Hield,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,06:40,GSW,34.0,NOP,33.0,J. Robinson-Earl,NOP,Robinson-Earl Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0126,2,06:26,GSW,,NOP,,B. Podziemski,GSW,Podziemski Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0126,2,06:26,GSW,,NOP,,J. Cain,NOP,Cain STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0126,2,06:24,GSW,,NOP,,J. Cain,NOP,Cain Offensive Charge Foul (P3) (B.Taylor),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0126,2,06:24,GSW,,NOP,,J. Cain,NOP,Cain Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0126,2,06:24,GSW,,NOP,,L. Waters III,GSW,SUB: Payton II FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,06:24,GSW,,NOP,,J. Cain,NOP,SUB: Green FOR Cain,Substitution,,0,0,0,0,,,v
+S2425-G0126,2,06:00,GSW,,NOP,,M. Moody,GSW,Moody Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0126,2,06:00,GSW,,NOP,,B. Boston Jr.,NOP,Boston Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0126,2,05:57,GSW,34.0,NOP,36.0,J. Hawkins,NOP,Hawkins 27' 3PT Running Pull-Up Jump Shot (11 PTS) (Boston Jr. 2 AST),Made Shot,Running Pull-Up Jump Shot,-197,178,27,1,3.0,3.0,v
+S2425-G0126,2,05:55,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0126,2,05:55,GSW,,NOP,,B. Boston Jr.,NOP,SUB: Alvarado FOR Boston Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0126,2,05:43,GSW,37.0,NOP,36.0,D. Green,GSW,Green 26' 3PT Jump Shot (3 PTS) (Podziemski 2 AST),Made Shot,Jump Shot,10,255,26,1,3.0,3.0,h
+S2425-G0126,2,05:21,GSW,37.0,NOP,39.0,J. Hawkins,NOP,Hawkins 26' 3PT Pullup Jump Shot (14 PTS) (Robinson-Earl 1 AST),Made Shot,Pullup Jump shot,113,238,26,1,3.0,3.0,v
+S2425-G0126,2,05:21,GSW,,NOP,,G. Payton II,GSW,Payton II S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,2,05:21,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0126,2,05:18,GSW,,NOP,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,04:56,GSW,,NOP,,,,WARRIORS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,0,0,,,h
+S2425-G0126,2,04:42,GSW,,NOP,,J. Robinson-Earl,NOP,Robinson-Earl Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0126,2,04:42,GSW,,NOP,,B. Podziemski,GSW,Podziemski STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0126,2,04:23,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,25,137,14,1,2.0,0.0,h
+S2425-G0126,2,04:23,GSW,,NOP,,J. Alvarado,NOP,Alvarado BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0126,2,04:20,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,04:17,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,237,18,24,1,3.0,0.0,v
+S2425-G0126,2,04:17,GSW,,NOP,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,03:54,GSW,39.0,NOP,39.0,D. Green,GSW,Green 4' Layup (5 PTS) (Podziemski 3 AST),Made Shot,Layup Shot,-38,16,4,1,2.0,2.0,h
+S2425-G0126,2,03:53,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0126,2,03:53,GSW,,NOP,,G. Payton II,GSW,SUB: Waters III FOR Payton II,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,03:53,GSW,,NOP,,K. Anderson,GSW,SUB: Kuminga FOR Anderson,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,03:33,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 3' Driving Layup,Missed Shot,Driving Layup Shot,33,-1,3,1,2.0,0.0,v
+S2425-G0126,2,03:30,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,03:24,GSW,42.0,NOP,39.0,D. Green,GSW,Green 26' 3PT Jump Shot (8 PTS) (Moody 2 AST),Made Shot,Jump Shot,10,255,26,1,3.0,3.0,h
+S2425-G0126,2,03:06,GSW,,NOP,,J. Green,NOP,Green Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0126,2,02:46,GSW,,NOP,,M. Moody,GSW,Moody Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0126,2,02:46,GSW,,NOP,,J. Robinson-Earl,NOP,SUB: Williamson FOR Robinson-Earl,Substitution,,0,0,0,0,,,v
+S2425-G0126,2,02:31,GSW,,NOP,,J. Green,NOP,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-173,197,26,1,3.0,0.0,v
+S2425-G0126,2,02:25,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,02:19,GSW,45.0,NOP,39.0,B. Podziemski,GSW,Podziemski 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,148,230,27,1,3.0,3.0,h
+S2425-G0126,2,02:03,GSW,45.0,NOP,41.0,J. Hawkins,NOP,Hawkins 13' Pullup Jump Shot (16 PTS) (Ingram 3 AST),Made Shot,Pullup Jump shot,-49,123,13,1,2.0,2.0,v
+S2425-G0126,2,01:44,GSW,,NOP,,B. Podziemski,GSW,Podziemski Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0126,2,01:44,GSW,,NOP,,J. Alvarado,NOP,Alvarado STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0126,2,01:39,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,36,0,1,3.0,0.0,v
+S2425-G0126,2,01:36,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,01:19,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 4' Driving Layup,Missed Shot,Driving Layup Shot,33,15,4,1,2.0,0.0,h
+S2425-G0126,2,01:16,GSW,,NOP,,J. Alvarado,NOP,Alvarado REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,01:13,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 7' Driving Layup,Missed Shot,Driving Layup Shot,-20,65,7,1,2.0,0.0,v
+S2425-G0126,2,01:13,GSW,,NOP,,D. Green,GSW,Green BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0126,2,01:13,GSW,,NOP,,,,Pelicans Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,01:13,GSW,,NOP,,,,WARRIORS Timeout: Coach Challenge (Full 3 Short 0),Timeout,Coach Challenge,0,0,0,0,,,h
+S2425-G0126,2,01:13,GSW,45.0,NOP,41.0,R. Parish,,Instant Replay2nd Period (11:02 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,0,0,,,
+S2425-G0126,2,01:13,GSW,,NOP,,M. Moody,GSW,SUB: Hield FOR Moody,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,01:13,GSW,,NOP,,J. Hawkins,NOP,SUB: Robinson-Earl FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0126,2,01:13,GSW,,NOP,,D. Green,GSW,Jump Ball (CC) Green vs. Williamson: Tip to Alvarado,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2425-G0126,2,00:58.600000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 10' Jump Shot,Missed Shot,Jump Shot,11,101,10,1,2.0,0.0,v
+S2425-G0126,2,00:57.200000,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,00:56.300000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,9,31,3,1,2.0,0.0,v
+S2425-G0126,2,00:56.300000,GSW,,NOP,,D. Green,GSW,Green BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0126,2,00:55.800000,GSW,,NOP,,,,Pelicans Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,00:52,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,152,18,15,1,2.0,0.0,v
+S2425-G0126,2,00:48.600000,GSW,,NOP,,J. Alvarado,NOP,Alvarado REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,00:41.800000,GSW,,NOP,,B. Ingram,NOP,Ingram Offensive Charge Foul (P1) (M.Kallio),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0126,2,00:41.800000,GSW,,NOP,,B. Ingram,NOP,Ingram Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0126,2,00:27.800000,GSW,,NOP,,B. Hield,GSW,MISS Hield 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,237,51,24,1,3.0,0.0,h
+S2425-G0126,2,00:24,GSW,,NOP,,B. Ingram,NOP,Ingram REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,00:04.200000,GSW,45.0,NOP,44.0,B. Ingram,NOP,Ingram 28' 3PT Jump Shot (5 PTS) (Alvarado 1 AST),Made Shot,Jump Shot,-123,248,28,1,3.0,3.0,v
+S2425-G0126,2,00:01.200000,GSW,48.0,NOP,44.0,B. Hield,GSW,Hield 26' 3PT Pullup Jump Shot (5 PTS) (Green 2 AST),Made Shot,Pullup Jump shot,-115,235,26,1,3.0,3.0,h
+S2425-G0126,2,00:00,GSW,48.0,NOP,44.0,,,End of 2nd Period (11:08 PM EST),period,end,0,0,0,0,,,
+S2425-G0126,2,00:00,GSW,48.0,NOP,44.0,,,Instant Replay2nd Period (11:08 PM EST),Instant Replay,Support Ruling,0,0,0,0,,,
+S2425-G0126,3,12:00,GSW,48.0,NOP,44.0,,,Start of 3rd Period (11:24 PM EST),period,start,0,0,0,0,,,
+S2425-G0126,3,11:45,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,3,11:45,GSW,48.0,NOP,45.0,B. Ingram,NOP,Ingram Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,3,11:45,GSW,48.0,NOP,46.0,B. Ingram,NOP,Ingram Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,3,11:33,GSW,50.0,NOP,46.0,T. Jackson-Davis,GSW,Jackson-Davis 3' Alley Oop Layup (8 PTS) (Green 3 AST),Made Shot,Alley Oop Layup shot,26,6,3,1,2.0,2.0,h
+S2425-G0126,3,11:24,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 5' Driving Layup,Missed Shot,Driving Layup Shot,-43,27,5,1,2.0,0.0,v
+S2425-G0126,3,11:24,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0126,3,11:22,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,11:15,GSW,52.0,NOP,46.0,M. Moody,GSW,Moody 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,33,7,3,1,2.0,2.0,h
+S2425-G0126,3,10:57,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-195,150,25,1,3.0,0.0,v
+S2425-G0126,3,10:54,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,10:43,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 26' 3PT Jump Shot,Missed Shot,Jump Shot,158,211,26,1,3.0,0.0,h
+S2425-G0126,3,10:39,GSW,,NOP,,,,Pelicans Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,10:17,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Charge Foul (P2) (D.Taylor),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0126,3,10:17,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0126,3,10:05,GSW,55.0,NOP,46.0,D. Green,GSW,Green 24' 3PT Jump Shot (11 PTS) (Podziemski 4 AST),Made Shot,Jump Shot,238,28,24,1,3.0,3.0,h
+S2425-G0126,3,09:50,GSW,,NOP,,Y. Missi,NOP,MISS Missi 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,40,22,5,1,2.0,0.0,v
+S2425-G0126,3,09:48,GSW,,NOP,,M. Moody,GSW,Moody REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,09:48,GSW,,NOP,,J. Alvarado,NOP,Alvarado P.FOUL (P1.T1) (M.Kallio),Foul,Personal,0,0,0,0,,,v
+S2425-G0126,3,09:34,GSW,,NOP,,T. Jackson-Davis,GSW,MISS Jackson-Davis 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-39,16,4,1,2.0,0.0,h
+S2425-G0126,3,09:31,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,09:25,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-45,52,7,1,2.0,0.0,v
+S2425-G0126,3,09:22,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,09:19,GSW,57.0,NOP,46.0,T. Jackson-Davis,GSW,Jackson-Davis 2' Running Layup (10 PTS) (Podziemski 5 AST),Made Shot,Running Layup Shot,-5,15,2,1,2.0,2.0,h
+S2425-G0126,3,09:19,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0126,3,08:56,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,168,224,28,1,3.0,0.0,v
+S2425-G0126,3,08:53,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,08:42,GSW,,NOP,,M. Moody,GSW,MISS Moody 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,114,0,11,1,2.0,0.0,h
+S2425-G0126,3,08:40,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,08:40,GSW,,NOP,,T. Jackson-Davis,GSW,MISS Jackson-Davis 2' Putback Layup,Missed Shot,Putback Layup Shot,18,8,2,1,2.0,0.0,h
+S2425-G0126,3,08:40,GSW,,NOP,,Z. Williamson,NOP,Williamson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0126,3,08:39,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,08:35,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-225,-12,0,1,3.0,0.0,v
+S2425-G0126,3,08:32,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,08:14,GSW,59.0,NOP,46.0,T. Jackson-Davis,GSW,Jackson-Davis 1' Cutting Dunk Shot (12 PTS) (Podziemski 6 AST),Made Shot,Cutting Dunk Shot,-6,-1,1,1,2.0,2.0,h
+S2425-G0126,3,08:03,GSW,,NOP,,M. Moody,GSW,Moody P.FOUL (P2.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,3,08:03,GSW,,NOP,,Z. Williamson,NOP,SUB: Green FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0126,3,07:51,GSW,59.0,NOP,48.0,J. Hawkins,NOP,Hawkins 10' Pullup Jump Shot (18 PTS) (Missi 1 AST),Made Shot,Pullup Jump shot,5,101,10,1,2.0,2.0,v
+S2425-G0126,3,07:41,GSW,62.0,NOP,48.0,B. Podziemski,GSW,Podziemski 28' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,82,267,28,1,3.0,3.0,h
+S2425-G0126,3,07:28,GSW,62.0,NOP,50.0,B. Ingram,NOP,Ingram 11' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-29,109,11,1,2.0,2.0,v
+S2425-G0126,3,07:21,GSW,64.0,NOP,50.0,D. Green,GSW,Green 3' Driving Layup (13 PTS) (Podziemski 7 AST),Made Shot,Driving Layup Shot,-28,12,3,1,2.0,2.0,h
+S2425-G0126,3,07:21,GSW,,NOP,,Y. Missi,NOP,Missi Violation:Defensive Goaltending (B.Taylor),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0126,3,07:21,GSW,,NOP,,J. Hawkins,NOP,Hawkins S.FOUL (P1.T2) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2425-G0126,3,07:21,GSW,65.0,NOP,50.0,D. Green,GSW,Green Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0126,3,07:10,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 25' 3PT Jump Shot,Missed Shot,Jump Shot,-75,239,25,1,3.0,0.0,v
+S2425-G0126,3,07:03,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,06:54,GSW,,NOP,,D. Green,GSW,MISS Green 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,-33,68,8,1,2.0,0.0,h
+S2425-G0126,3,06:51,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,06:49,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 30' 3PT Jump Shot,Missed Shot,Jump Shot,-42,293,30,1,3.0,0.0,h
+S2425-G0126,3,06:45,GSW,,NOP,,B. Ingram,NOP,Ingram REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,06:42,GSW,,NOP,,L. Waters III,GSW,Waters III P.FOUL (P1.T3) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,3,06:42,GSW,,NOP,,M. Moody,GSW,SUB: Hield FOR Moody,Substitution,,0,0,0,0,,,h
+S2425-G0126,3,06:42,GSW,,NOP,,Y. Missi,NOP,SUB: Robinson-Earl FOR Missi,Substitution,,0,0,0,0,,,v
+S2425-G0126,3,06:36,GSW,,NOP,,B. Ingram,NOP,Ingram Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0126,3,06:36,GSW,,NOP,,L. Waters III,GSW,Waters III STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0126,3,06:32,GSW,,NOP,,D. Green,GSW,SUB: Anderson FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0126,3,06:26,GSW,67.0,NOP,50.0,T. Jackson-Davis,GSW,Jackson-Davis 4' Cutting Dunk Shot (14 PTS) (Hield 2 AST),Made Shot,Cutting Dunk Shot,39,10,4,1,2.0,2.0,h
+S2425-G0126,3,06:14,GSW,67.0,NOP,53.0,B. Ingram,NOP,Ingram 3PT Jump Shot (12 PTS) (Green 2 AST),Made Shot,Jump Shot,-233,-10,0,1,3.0,3.0,v
+S2425-G0126,3,06:00,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 27' 3PT Jump Shot,Missed Shot,Jump Shot,178,202,27,1,3.0,0.0,h
+S2425-G0126,3,05:57,GSW,,NOP,,J. Alvarado,NOP,Alvarado REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,05:49,GSW,,NOP,,J. Hawkins,NOP,Hawkins Traveling Turnover (P2.T11),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0126,3,05:32,GSW,69.0,NOP,53.0,B. Podziemski,GSW,Podziemski 3' Cutting Layup Shot (10 PTS) (Jackson-Davis 2 AST),Made Shot,Cutting Layup Shot,-28,16,3,1,2.0,2.0,h
+S2425-G0126,3,05:32,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0126,3,05:32,GSW,,NOP,,B. Ingram,NOP,SUB: Cain FOR Ingram,Substitution,,0,0,0,0,,,v
+S2425-G0126,3,05:32,GSW,,NOP,,J. Hawkins,NOP,SUB: Williamson FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0126,3,05:20,GSW,,NOP,,K. Anderson,GSW,Anderson P.FOUL (P1.T4) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,3,05:16,GSW,,NOP,,J. Green,NOP,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,-224,58,0,1,3.0,0.0,v
+S2425-G0126,3,05:14,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,05:02,GSW,,NOP,,B. Hield,GSW,MISS Hield 29' 3PT Jump Shot,Missed Shot,Jump Shot,161,244,29,1,3.0,0.0,h
+S2425-G0126,3,04:58,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,04:50,GSW,69.0,NOP,55.0,J. Cain,NOP,Cain 6' Driving Finger Roll Layup (4 PTS) (Robinson-Earl 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,55,6,1,2.0,2.0,v
+S2425-G0126,3,04:26,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 3PT Jump Shot,Missed Shot,Jump Shot,-224,8,0,1,3.0,0.0,h
+S2425-G0126,3,04:24,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,04:11,GSW,,NOP,,B. Podziemski,GSW,Podziemski OFF.Foul (P1) (D.Taylor),Foul,Offensive,0,0,0,0,,,h
+S2425-G0126,3,04:11,GSW,,NOP,,B. Podziemski,GSW,Podziemski Offensive Foul Turnover (P4.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0126,3,04:11,GSW,,NOP,,L. Waters III,GSW,SUB: Kuminga FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0126,3,03:57,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,26,3,1,2.0,0.0,v
+S2425-G0126,3,03:57,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,03:57,GSW,,NOP,,Z. Williamson,NOP,Williamson P.FOUL (P3.T3) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0126,3,03:37,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 25' 3PT Jump Shot,Missed Shot,Jump Shot,-227,97,25,1,3.0,0.0,h
+S2425-G0126,3,03:33,GSW,,NOP,,B. Hield,GSW,Hield REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,03:33,GSW,71.0,NOP,55.0,B. Hield,GSW,Hield Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0126,3,03:18,GSW,71.0,NOP,57.0,J. Cain,NOP,Cain 8' Driving Floating Jump Shot (6 PTS) (Robinson-Earl 3 AST),Made Shot,Driving Floating Jump Shot,-33,75,8,1,2.0,2.0,v
+S2425-G0126,3,03:02,GSW,73.0,NOP,57.0,B. Hield,GSW,Hield 4' Cutting Layup Shot (9 PTS) (Anderson 2 AST),Made Shot,Cutting Layup Shot,39,15,4,1,2.0,2.0,h
+S2425-G0126,3,02:47,GSW,73.0,NOP,59.0,Z. Williamson,NOP,Williamson 4' Cutting Layup Shot (6 PTS) (Alvarado 2 AST),Made Shot,Cutting Layup Shot,-37,14,4,1,2.0,2.0,v
+S2425-G0126,3,02:32,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-32,173,18,1,2.0,0.0,h
+S2425-G0126,3,02:29,GSW,,NOP,,J. Robinson-Earl,NOP,Robinson-Earl REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,02:24,GSW,,NOP,,J. Alvarado,NOP,Alvarado Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0126,3,02:24,GSW,,NOP,,J. Kuminga,GSW,Kuminga STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0126,3,02:19,GSW,,NOP,,B. Hield,GSW,MISS Hield 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,42,0,1,3.0,0.0,h
+S2425-G0126,3,02:15,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,02:08,GSW,73.0,NOP,61.0,J. Robinson-Earl,NOP,Robinson-Earl 2' Cutting Finger Roll Layup Shot (7 PTS) (Alvarado 3 AST),Made Shot,Cutting Finger Roll Layup Shot,10,21,2,1,2.0,2.0,v
+S2425-G0126,3,02:08,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0126,3,02:08,GSW,,NOP,,B. Podziemski,GSW,SUB: Green FOR Podziemski,Substitution,,0,0,0,0,,,h
+S2425-G0126,3,02:08,GSW,,NOP,,T. Jackson-Davis,GSW,SUB: Moody FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0126,3,02:08,GSW,,NOP,,J. Alvarado,NOP,SUB: Hawkins FOR Alvarado,Substitution,,0,0,0,0,,,v
+S2425-G0126,3,01:51,GSW,,NOP,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,118,235,26,1,3.0,0.0,h
+S2425-G0126,3,01:48,GSW,,NOP,,J. Robinson-Earl,NOP,Robinson-Earl REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,01:40,GSW,,NOP,,B. Hield,GSW,Hield P.FOUL (P1.PN) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,3,01:40,GSW,73.0,NOP,62.0,J. Robinson-Earl,NOP,Robinson-Earl Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,3,01:40,GSW,73.0,NOP,63.0,J. Robinson-Earl,NOP,Robinson-Earl Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,3,01:27,GSW,76.0,NOP,63.0,B. Hield,GSW,Hield 27' 3PT Jump Shot (12 PTS) (Moody 3 AST),Made Shot,Jump Shot,94,252,27,1,3.0,3.0,h
+S2425-G0126,3,01:07,GSW,76.0,NOP,65.0,J. Hawkins,NOP,Hawkins 17' Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,22,166,17,1,2.0,2.0,v
+S2425-G0126,3,00:54.200000,GSW,,NOP,,D. Green,GSW,Green Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0126,3,00:54.200000,GSW,,NOP,,J. Green,NOP,Green STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0126,3,00:46.700000,GSW,,NOP,,M. Moody,GSW,Moody S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,3,00:46.700000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0126,3,00:46.700000,GSW,,NOP,,,,Pelicans Rebound,Rebound,Normal Rebound,0,0,0,0,,,v
+S2425-G0126,3,00:46.700000,GSW,76.0,NOP,66.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,3,00:34.700000,GSW,78.0,NOP,66.0,K. Anderson,GSW,Anderson 6' Turnaround Hook Shot (9 PTS) (Kuminga 2 AST),Made Shot,Turnaround Hook Shot,-61,0,6,1,2.0,2.0,h
+S2425-G0126,3,00:14.100000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-2,29,3,1,2.0,0.0,v
+S2425-G0126,3,00:12.700000,GSW,,NOP,,K. Anderson,GSW,Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,00:07,GSW,,NOP,,M. Moody,GSW,MISS Moody 3' Running Layup,Missed Shot,Running Layup Shot,27,12,3,1,2.0,0.0,h
+S2425-G0126,3,00:07,GSW,,NOP,,J. Cain,NOP,Cain BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0126,3,00:07,GSW,,NOP,,K. Anderson,GSW,Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,00:07,GSW,,NOP,,J. Hawkins,NOP,Hawkins S.FOUL (P2.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0126,3,00:07,GSW,,NOP,,K. Anderson,GSW,MISS Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0126,3,00:07,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Normal Rebound,0,0,0,0,,,h
+S2425-G0126,3,00:07,GSW,,NOP,,B. Hield,GSW,SUB: Payton II FOR Hield,Substitution,,0,0,0,0,,,h
+S2425-G0126,3,00:07,GSW,79.0,NOP,66.0,K. Anderson,GSW,Anderson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,3,00:00.800000,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P3.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,3,00:00.800000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0126,3,00:00.800000,GSW,,NOP,,,,Pelicans Rebound,Rebound,Normal Rebound,0,0,0,0,,,v
+S2425-G0126,3,00:00.800000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0126,3,00:00.800000,GSW,,NOP,,,,Pelicans Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,00:00,GSW,79.0,NOP,66.0,,,End of 3rd Period (11:53 PM EST),period,end,0,0,0,0,,,
+S2425-G0126,4,12:00,GSW,79.0,NOP,66.0,,,Start of 4th Period (11:56 PM EST),period,start,0,0,0,0,,,
+S2425-G0126,4,11:43,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-17,24,1,3.0,0.0,h
+S2425-G0126,4,11:38,GSW,,NOP,,B. Ingram,NOP,Ingram REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,11:25,GSW,,NOP,,J. Kuminga,GSW,Kuminga P.FOUL (P1.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,4,11:25,GSW,,NOP,,D. Green,GSW,SUB: Jackson-Davis FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,11:15,GSW,,NOP,,J. Cain,NOP,MISS Cain 3PT Jump Shot,Missed Shot,Jump Shot,222,30,0,1,3.0,0.0,v
+S2425-G0126,4,11:13,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,10:55,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-136,235,27,1,3.0,0.0,h
+S2425-G0126,4,10:52,GSW,,NOP,,B. Boston Jr.,NOP,Boston Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,10:41,GSW,,NOP,,J. Kuminga,GSW,Kuminga P.FOUL (P2.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,4,10:32,GSW,,NOP,,J. Robinson-Earl,NOP,MISS Robinson-Earl 3PT Jump Shot,Missed Shot,Jump Shot,-225,-5,0,1,3.0,0.0,v
+S2425-G0126,4,10:30,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,10:18,GSW,81.0,NOP,66.0,J. Kuminga,GSW,Kuminga 5' Layup (8 PTS),Made Shot,Layup Shot,1,48,5,1,2.0,2.0,h
+S2425-G0126,4,10:18,GSW,,NOP,,J. Hawkins,NOP,Hawkins S.FOUL (P3.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0126,4,10:18,GSW,82.0,NOP,66.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,10:09,GSW,,NOP,,J. Kuminga,GSW,Kuminga P.FOUL (P3.T3) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,4,09:58,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-173,200,26,1,3.0,0.0,v
+S2425-G0126,4,09:54,GSW,,NOP,,J. Cain,NOP,Cain REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,09:53,GSW,,NOP,,B. Podziemski,GSW,Podziemski S.FOUL (P2.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,4,09:53,GSW,82.0,NOP,67.0,J. Cain,NOP,Cain Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,4,09:53,GSW,,NOP,,J. Cain,NOP,MISS Cain Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0126,4,09:49,GSW,,NOP,,J. Robinson-Earl,NOP,Robinson-Earl REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,09:35,GSW,,NOP,,,,Pelicans Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0,0,0,,,v
+S2425-G0126,4,09:16,GSW,84.0,NOP,67.0,B. Podziemski,GSW,Podziemski 6' Driving Floating Jump Shot (12 PTS) (Hield 3 AST),Made Shot,Driving Floating Jump Shot,18,58,6,1,2.0,2.0,h
+S2425-G0126,4,09:12,GSW,,NOP,,B. Boston Jr.,NOP,Boston Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0126,4,09:12,GSW,,NOP,,B. Boston Jr.,NOP,SUB: Alvarado FOR Boston Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0126,4,08:52,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 6' Driving Layup,Missed Shot,Driving Layup Shot,59,16,6,1,2.0,0.0,h
+S2425-G0126,4,08:49,GSW,,NOP,,J. Robinson-Earl,NOP,Robinson-Earl REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,08:43,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 9' Running Layup,Missed Shot,Running Layup Shot,65,57,9,1,2.0,0.0,v
+S2425-G0126,4,08:43,GSW,,NOP,,L. Waters III,GSW,Waters III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0126,4,08:42,GSW,,NOP,,B. Ingram,NOP,Ingram REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,08:40,GSW,84.0,NOP,69.0,B. Ingram,NOP,Ingram 3' Layup (14 PTS),Made Shot,Layup Shot,-34,3,3,1,2.0,2.0,v
+S2425-G0126,4,08:19,GSW,,NOP,,J. Cain,NOP,Cain S.FOUL (P4.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0126,4,08:19,GSW,,NOP,,T. Jackson-Davis,GSW,MISS Jackson-Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0126,4,08:19,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Normal Rebound,0,0,0,0,,,h
+S2425-G0126,4,08:19,GSW,85.0,NOP,69.0,T. Jackson-Davis,GSW,Jackson-Davis Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,08:02,GSW,85.0,NOP,71.0,J. Alvarado,NOP,Alvarado 10' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,100,30,10,1,2.0,2.0,v
+S2425-G0126,4,07:51,GSW,,NOP,,B. Ingram,NOP,Ingram S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0126,4,07:51,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0126,4,07:51,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Normal Rebound,0,0,0,0,,,h
+S2425-G0126,4,07:51,GSW,,NOP,,T. Jackson-Davis,GSW,SUB: Green FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,07:51,GSW,,NOP,,J. Robinson-Earl,NOP,SUB: Williamson FOR Robinson-Earl,Substitution,,0,0,0,0,,,v
+S2425-G0126,4,07:51,GSW,86.0,NOP,71.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,07:37,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,21,47,5,1,2.0,0.0,v
+S2425-G0126,4,07:37,GSW,,NOP,,D. Green,GSW,Green BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0126,4,07:36,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,07:36,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 8' Putback Layup,Missed Shot,Putback Layup Shot,-2,75,8,1,2.0,0.0,v
+S2425-G0126,4,07:36,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,07:28,GSW,,NOP,,B. Hield,GSW,MISS Hield 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-184,195,27,1,3.0,0.0,h
+S2425-G0126,4,07:24,GSW,,NOP,,B. Hield,GSW,Hield REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,07:23,GSW,89.0,NOP,71.0,B. Hield,GSW,Hield 25' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,-236,77,25,1,3.0,3.0,h
+S2425-G0126,4,07:22,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0126,4,07:22,GSW,,NOP,,L. Waters III,GSW,SUB: Moody FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,07:08,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,-139,219,26,1,3.0,0.0,v
+S2425-G0126,4,07:05,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,07:00,GSW,91.0,NOP,71.0,J. Kuminga,GSW,Kuminga 3' Running Layup (12 PTS),Made Shot,Running Layup Shot,27,12,3,1,2.0,2.0,h
+S2425-G0126,4,06:37,GSW,91.0,NOP,74.0,J. Alvarado,NOP,Alvarado 3PT Jump Shot (13 PTS) (Ingram 4 AST),Made Shot,Jump Shot,-229,-17,0,1,3.0,3.0,v
+S2425-G0126,4,06:10,GSW,,NOP,,B. Hield,GSW,MISS Hield 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,31,23,4,1,2.0,0.0,h
+S2425-G0126,4,06:08,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,06:04,GSW,,NOP,,B. Hield,GSW,MISS Hield 25' 3PT Jump Shot,Missed Shot,Jump Shot,235,92,25,1,3.0,0.0,h
+S2425-G0126,4,06:01,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,05:52,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P4.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,4,05:52,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0126,4,05:52,GSW,91.0,NOP,74.0,,,Instant Replay4th Period (12:12 AM EST),Instant Replay,Coach Challenge Support Ruling,0,0,0,0,,,
+S2425-G0126,4,05:52,GSW,,NOP,,J. Cain,NOP,SUB: Green FOR Cain,Substitution,,0,0,0,0,,,v
+S2425-G0126,4,05:52,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0126,4,05:52,GSW,,NOP,,,,Pelicans Rebound,Rebound,Normal Rebound,0,0,0,0,,,v
+S2425-G0126,4,05:52,GSW,91.0,NOP,75.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,4,05:33,GSW,94.0,NOP,75.0,B. Hield,GSW,Hield 26' 3PT Jump Shot (18 PTS) (Green 4 AST),Made Shot,Jump Shot,176,197,26,1,3.0,3.0,h
+S2425-G0126,4,05:10,GSW,94.0,NOP,77.0,Z. Williamson,NOP,Williamson 7' Turnaround Jump Shot (10 PTS) (Ingram 5 AST),Made Shot,Turnaround Jump Shot,0,66,7,1,2.0,2.0,v
+S2425-G0126,4,04:44,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-33,138,14,1,2.0,0.0,h
+S2425-G0126,4,04:44,GSW,,NOP,,J. Alvarado,NOP,Alvarado BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0126,4,04:42,GSW,,NOP,,J. Alvarado,NOP,Alvarado REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,04:40,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,185,180,26,1,3.0,0.0,v
+S2425-G0126,4,04:40,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,04:30,GSW,,NOP,,B. Podziemski,GSW,Podziemski T.FOUL (P2.PN) (M.Kallio),Foul,Technical,0,0,0,0,,,h
+S2425-G0126,4,04:30,GSW,94.0,NOP,78.0,J. Hawkins,NOP,Hawkins Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0126,4,04:23,GSW,,NOP,,J. Green,NOP,Green T.FOUL (P0.T3) (B.Taylor),Foul,Technical,0,0,0,0,,,v
+S2425-G0126,4,04:23,GSW,95.0,NOP,78.0,B. Hield,GSW,Hield Free Throw Technical (19 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,04:20,GSW,95.0,NOP,80.0,Z. Williamson,NOP,Williamson 6' Floating Jump Shot (12 PTS) (Alvarado 4 AST),Made Shot,Floating Jump shot,-1,58,6,1,2.0,2.0,v
+S2425-G0126,4,04:20,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P5.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,4,04:20,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0126,4,04:17,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,04:17,GSW,,NOP,,J. Kuminga,GSW,Kuminga S.FOUL (P4.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,4,04:17,GSW,95.0,NOP,81.0,J. Green,NOP,Green Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,4,04:17,GSW,95.0,NOP,82.0,J. Green,NOP,Green Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,4,03:59,GSW,97.0,NOP,82.0,B. Hield,GSW,Hield 6' Alley Oop Layup (21 PTS) (Green 5 AST),Made Shot,Alley Oop Layup shot,44,44,6,1,2.0,2.0,h
+S2425-G0126,4,03:42,GSW,97.0,NOP,85.0,J. Alvarado,NOP,Alvarado 3PT Jump Shot (16 PTS) (Hawkins 1 AST),Made Shot,Jump Shot,-228,40,0,1,3.0,3.0,v
+S2425-G0126,4,03:22,GSW,,NOP,,J. Alvarado,NOP,Alvarado S.FOUL (P2.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0126,4,03:22,GSW,98.0,NOP,85.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,03:22,GSW,99.0,NOP,85.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,03:10,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,154,230,28,1,3.0,0.0,v
+S2425-G0126,4,03:08,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,02:54,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 4' Driving Layup,Missed Shot,Driving Layup Shot,37,21,4,1,2.0,0.0,h
+S2425-G0126,4,02:52,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,02:39,GSW,,NOP,,Z. Williamson,NOP,Williamson Lost Ball Turnover (P4.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0126,4,02:39,GSW,,NOP,,D. Green,GSW,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0126,4,02:30,GSW,,NOP,,B. Hield,GSW,MISS Hield 5' Driving Layup,Missed Shot,Driving Layup Shot,50,11,5,1,2.0,0.0,h
+S2425-G0126,4,02:30,GSW,,NOP,,J. Green,NOP,Green BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0126,4,02:27,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,02:24,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,180,203,27,1,3.0,0.0,v
+S2425-G0126,4,02:24,GSW,,NOP,,D. Green,GSW,Green BLOCK (5 BLK),,,0,0,0,0,,,h
+S2425-G0126,4,02:23,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,02:23,GSW,,NOP,,J. Green,NOP,Green L.B.FOUL (P1.PN) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0126,4,02:23,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0126,4,02:23,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0126,4,02:23,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0126,4,02:23,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Normal Rebound,0,0,0,0,,,h
+S2425-G0126,4,02:23,GSW,100.0,NOP,85.0,B. Podziemski,GSW,Podziemski Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,02:09,GSW,100.0,NOP,87.0,J. Hawkins,NOP,Hawkins 15' Step Back Jump Shot (23 PTS) (Ingram 6 AST),Made Shot,Step Back Jump shot,154,-13,15,1,2.0,2.0,v
+S2425-G0126,4,01:45,GSW,,NOP,,D. Green,GSW,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,80,25,1,3.0,0.0,h
+S2425-G0126,4,01:41,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,01:39,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 26' 3PT Jump Shot,Missed Shot,Jump Shot,-203,162,26,1,3.0,0.0,h
+S2425-G0126,4,01:37,GSW,,NOP,,M. Moody,GSW,Moody REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,01:31,GSW,102.0,NOP,87.0,J. Kuminga,GSW,Kuminga 2' Alley Oop Dunk (16 PTS) (Green 6 AST),Made Shot,Alley Oop Dunk Shot,-12,20,2,1,2.0,2.0,h
+S2425-G0126,4,01:22,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0126,4,01:22,GSW,,NOP,,J. Kuminga,GSW,SUB: Spencer FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,01:22,GSW,,NOP,,B. Podziemski,GSW,SUB: Santos FOR Podziemski,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,01:22,GSW,,NOP,,B. Hield,GSW,SUB: Beekman FOR Hield,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,01:22,GSW,,NOP,,D. Green,GSW,SUB: Payton II FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,01:22,GSW,,NOP,,Z. Williamson,NOP,SUB: Jemison FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0126,4,01:22,GSW,,NOP,,B. Ingram,NOP,SUB: Cain FOR Ingram,Substitution,,0,0,0,0,,,v
+S2425-G0126,4,01:22,GSW,,NOP,,J. Hawkins,NOP,SUB: Robinson-Earl FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0126,4,01:22,GSW,,NOP,,J. Green,NOP,SUB: Boston Jr. FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0126,4,01:11,GSW,,NOP,,B. Boston Jr.,NOP,MISS Boston Jr. 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,2,152,15,1,2.0,0.0,v
+S2425-G0126,4,01:09,GSW,,NOP,,T. Jemison,NOP,Jemison REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,01:09,GSW,,NOP,,T. Jemison,NOP,MISS Jemison Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0126,4,01:09,GSW,,NOP,,T. Jemison,NOP,Jemison REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,01:09,GSW,102.0,NOP,89.0,T. Jemison,NOP,Jemison Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0126,4,00:56.300000,GSW,104.0,NOP,89.0,R. Beekman,GSW,Beekman 3' Driving Layup (2 PTS) (Spencer 1 AST),Made Shot,Driving Layup Shot,31,12,3,1,2.0,2.0,h
+S2425-G0126,4,00:37.800000,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,60,75,10,1,2.0,0.0,v
+S2425-G0126,4,00:36.500000,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,00:24.800000,GSW,,NOP,,G. Santos,GSW,MISS Santos 25' 3PT Jump Shot,Missed Shot,Jump Shot,-217,130,25,1,3.0,0.0,h
+S2425-G0126,4,00:24.800000,GSW,,NOP,,R. Beekman,GSW,Beekman REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,00:18.400000,GSW,,NOP,,M. Moody,GSW,MISS Moody 29' 3PT Jump Shot,Missed Shot,Jump Shot,134,252,29,1,3.0,0.0,h
+S2425-G0126,4,00:15.400000,GSW,,NOP,,G. Payton II,GSW,Payton II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,00:00,GSW,104.0,NOP,89.0,,,End of 4th Period (12:30 AM EST),period,end,0,0,0,0,,,
+S2425-G0116,1,12:00,GSW,0.0,NOP,0.0,,,Start of 1st Period (10:06 PM EST),period,start,0,0,0,0,,,
+S2425-G0116,1,12:00,GSW,,NOP,,T. Jackson-Davis,GSW,Jump Ball Jackson-Davis vs. Theis: Tip to Podziemski,Jump Ball,,0,0,0,0,,,h
+S2425-G0116,1,11:43,GSW,3.0,NOP,0.0,M. Moody,GSW,Moody 28' 3PT Jump Shot (3 PTS) (Podziemski 1 AST),Made Shot,Jump Shot,154,237,28,1,3.0,3.0,h
+S2425-G0116,1,11:20,GSW,3.0,NOP,2.0,B. Ingram,NOP,Ingram 11' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,-110,32,11,1,2.0,2.0,v
+S2425-G0116,1,11:08,GSW,,NOP,,D. Green,GSW,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,-222,0,0,1,3.0,0.0,h
+S2425-G0116,1,11:08,GSW,,NOP,,B. Ingram,NOP,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,10:44,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-51,160,17,1,2.0,0.0,v
+S2425-G0116,1,10:44,GSW,,NOP,,M. Moody,GSW,Moody BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,1,10:43,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,10:43,GSW,,NOP,,,,Pelicans Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0,0,0,,,v
+S2425-G0116,1,10:28,GSW,5.0,NOP,2.0,B. Podziemski,GSW,Podziemski 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,7,38,4,1,2.0,2.0,h
+S2425-G0116,1,10:12,GSW,5.0,NOP,5.0,B. Ingram,NOP,Ingram 27' 3PT Jump Shot (5 PTS) (Williamson 1 AST),Made Shot,Jump Shot,18,267,27,1,3.0,3.0,v
+S2425-G0116,1,09:58,GSW,,NOP,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,135,221,26,1,3.0,0.0,h
+S2425-G0116,1,09:58,GSW,,NOP,,Z. Williamson,NOP,Williamson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0116,1,09:53,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,09:50,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 6' Running Jump Shot,Missed Shot,Running Jump Shot,11,62,6,1,2.0,0.0,v
+S2425-G0116,1,09:50,GSW,,NOP,,D. Green,GSW,Green BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,1,09:50,GSW,,NOP,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,09:41,GSW,,NOP,,B. Hield,GSW,MISS Hield 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,256,26,1,3.0,0.0,h
+S2425-G0116,1,09:37,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,09:33,GSW,5.0,NOP,8.0,B. Ingram,NOP,Ingram 28' 3PT Running Pull-Up Jump Shot (8 PTS) (Theis 1 AST),Made Shot,Running Pull-Up Jump Shot,115,257,28,1,3.0,3.0,v
+S2425-G0116,1,09:22,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,61,283,29,1,3.0,0.0,h
+S2425-G0116,1,09:22,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,09:11,GSW,5.0,NOP,10.0,B. Ingram,NOP,Ingram 2' Driving Finger Roll Layup (10 PTS) (McCollum 1 AST),Made Shot,Driving Finger Roll Layup Shot,11,22,2,1,2.0,2.0,v
+S2425-G0116,1,08:48,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0116,1,08:48,GSW,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0116,1,08:35,GSW,,NOP,,D. Theis,NOP,Theis Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0116,1,08:29,GSW,,NOP,,B. Hield,GSW,MISS Hield 3' Driving Layup,Missed Shot,Driving Layup Shot,6,31,3,1,2.0,0.0,h
+S2425-G0116,1,08:29,GSW,,NOP,,C. McCollum,NOP,McCollum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0116,1,08:29,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,08:27,GSW,8.0,NOP,10.0,B. Podziemski,GSW,Podziemski 3PT Jump Shot (5 PTS) (Jackson-Davis 1 AST),Made Shot,Jump Shot,-223,17,0,1,3.0,3.0,h
+S2425-G0116,1,08:16,GSW,8.0,NOP,12.0,Z. Williamson,NOP,Williamson 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-20,8,2,1,2.0,2.0,v
+S2425-G0116,1,08:02,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 3PT Jump Shot,Missed Shot,Jump Shot,230,37,0,1,3.0,0.0,h
+S2425-G0116,1,07:56,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,07:44,GSW,,NOP,,D. Theis,NOP,MISS Theis 26' 3PT Jump Shot,Missed Shot,Jump Shot,199,169,26,1,3.0,0.0,v
+S2425-G0116,1,07:40,GSW,,NOP,,B. Ingram,NOP,Ingram REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,07:30,GSW,,NOP,,C. McCollum,NOP,McCollum Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0116,1,07:18,GSW,,NOP,,B. Hield,GSW,MISS Hield 1' Driving Layup,Missed Shot,Driving Layup Shot,6,9,1,1,2.0,0.0,h
+S2425-G0116,1,07:12,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,07:10,GSW,,NOP,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,h
+S2425-G0116,1,07:05,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-56,265,27,1,3.0,0.0,v
+S2425-G0116,1,07:05,GSW,,NOP,,B. Podziemski,GSW,Podziemski BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,1,07:01,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,07:00,GSW,8.0,NOP,14.0,D. Theis,NOP,Theis 8' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,-71,32,8,1,2.0,2.0,v
+S2425-G0116,1,06:53,GSW,,NOP,,B. Ingram,NOP,Ingram S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,1,06:53,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0116,1,06:53,GSW,9.0,NOP,14.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,1,06:53,GSW,10.0,NOP,14.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,1,06:53,GSW,,NOP,,Z. Williamson,NOP,SUB: Hawkins FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,06:53,GSW,,NOP,,D. Green,GSW,SUB: Payton II FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0116,1,06:40,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 8' Driving Layup,Missed Shot,Driving Layup Shot,13,80,8,1,2.0,0.0,v
+S2425-G0116,1,06:40,GSW,,NOP,,G. Payton II,GSW,Payton II BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,1,06:40,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,06:40,GSW,,NOP,,G. Payton II,GSW,Jump Ball Payton II vs. Hawkins: Tip to Jones,Jump Ball,,0,0,0,0,,,h
+S2425-G0116,1,06:23,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 12' Floating Jump Shot,Missed Shot,Floating Jump shot,98,77,12,1,2.0,0.0,h
+S2425-G0116,1,06:20,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,06:10,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,120,138,18,1,2.0,0.0,v
+S2425-G0116,1,06:08,GSW,,NOP,,,,Pelicans Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,06:08,GSW,,NOP,,T. Jackson-Davis,GSW,SUB: Looney FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0116,1,05:57,GSW,10.0,NOP,16.0,B. Ingram,NOP,Ingram 14' Floating Jump Shot (12 PTS),Made Shot,Floating Jump shot,-106,94,14,1,2.0,2.0,v
+S2425-G0116,1,05:34,GSW,,NOP,,G. Payton II,GSW,MISS Payton II 27' 3PT Jump Shot,Missed Shot,Jump Shot,129,232,27,1,3.0,0.0,h
+S2425-G0116,1,05:30,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,05:25,GSW,12.0,NOP,16.0,B. Podziemski,GSW,Podziemski 3' Layup (7 PTS),Made Shot,Layup Shot,-26,16,3,1,2.0,2.0,h
+S2425-G0116,1,05:12,GSW,12.0,NOP,18.0,H. Jones,NOP,Jones 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-39,32,5,1,2.0,2.0,v
+S2425-G0116,1,04:52,GSW,14.0,NOP,18.0,J. Kuminga,GSW,Kuminga 6' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,48,35,6,1,2.0,2.0,h
+S2425-G0116,1,04:35,GSW,14.0,NOP,20.0,C. McCollum,NOP,McCollum 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-37,65,7,1,2.0,2.0,v
+S2425-G0116,1,04:25,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 7' Driving Layup,Missed Shot,Driving Layup Shot,49,55,7,1,2.0,0.0,h
+S2425-G0116,1,04:25,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,04:15,GSW,14.0,NOP,23.0,C. McCollum,NOP,McCollum 27' 3PT Jump Shot (5 PTS) (Theis 2 AST),Made Shot,Jump Shot,-49,267,27,1,3.0,3.0,v
+S2425-G0116,1,03:59,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,108,134,17,1,2.0,0.0,h
+S2425-G0116,1,03:55,GSW,,NOP,,B. Ingram,NOP,Ingram REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,03:48,GSW,,NOP,,B. Ingram,NOP,Ingram Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,1,03:48,GSW,,NOP,,K. Looney,GSW,Looney STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,1,03:36,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 26' 3PT Jump Shot,Missed Shot,Jump Shot,203,157,26,1,3.0,0.0,h
+S2425-G0116,1,03:28,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,03:22,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 27' 3PT Jump Shot,Missed Shot,Jump Shot,-31,265,27,1,3.0,0.0,v
+S2425-G0116,1,03:19,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,03:14,GSW,,NOP,,G. Payton II,GSW,Payton II Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0116,1,03:14,GSW,,NOP,,J. Hawkins,NOP,Hawkins STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0116,1,03:11,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 1' Running Layup,Missed Shot,Running Layup Shot,6,12,1,1,2.0,0.0,v
+S2425-G0116,1,03:09,GSW,,NOP,,B. Hield,GSW,Hield REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,03:06,GSW,,NOP,,B. Hield,GSW,MISS Hield 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-164,183,25,1,3.0,0.0,h
+S2425-G0116,1,03:03,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,02:59,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0116,1,02:59,GSW,,NOP,,G. Payton II,GSW,SUB: Waters III FOR Payton II,Substitution,,0,0,0,0,,,h
+S2425-G0116,1,02:59,GSW,,NOP,,B. Podziemski,GSW,SUB: Moody FOR Podziemski,Substitution,,0,0,0,0,,,h
+S2425-G0116,1,02:59,GSW,,NOP,,B. Hield,GSW,SUB: Anderson FOR Hield,Substitution,,0,0,0,0,,,h
+S2425-G0116,1,02:59,GSW,,NOP,,K. Looney,GSW,SUB: Green FOR Looney,Substitution,,0,0,0,0,,,h
+S2425-G0116,1,02:59,GSW,,NOP,,C. McCollum,NOP,SUB: Alvarado FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,02:59,GSW,,NOP,,D. Theis,NOP,SUB: Williamson FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,02:59,GSW,,NOP,,B. Ingram,NOP,SUB: Missi FOR Ingram,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,02:52,GSW,14.0,NOP,26.0,Z. Williamson,NOP,Williamson 25' 3PT Jump Shot (5 PTS) (Hawkins 1 AST),Made Shot,Jump Shot,124,220,25,1,3.0,3.0,v
+S2425-G0116,1,02:35,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 27' 3PT Jump Shot,Missed Shot,Jump Shot,-129,240,27,1,3.0,0.0,h
+S2425-G0116,1,02:35,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,02:20,GSW,,NOP,,K. Anderson,GSW,WARRIORS T.Foul (Def. 3 Sec Anderson ) (M.Lindsay),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0116,1,02:20,GSW,14.0,NOP,27.0,J. Hawkins,NOP,Hawkins Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0116,1,02:13,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Charge Foul (P1) (J.Schroeder),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0116,1,02:13,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0116,1,01:51,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 3' Driving Dunk,Missed Shot,Driving Dunk Shot,22,20,3,1,2.0,0.0,h
+S2425-G0116,1,01:51,GSW,,NOP,,Y. Missi,NOP,Missi BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0116,1,01:44,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,01:44,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,-29,11,3,1,2.0,0.0,v
+S2425-G0116,1,01:44,GSW,,NOP,,D. Green,GSW,Green BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0116,1,01:44,GSW,,NOP,,,,Pelicans Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,01:35,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-42,106,11,1,2.0,0.0,v
+S2425-G0116,1,01:33,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,01:12,GSW,,NOP,,K. Anderson,GSW,MISS Anderson 3PT Jump Shot,Missed Shot,Jump Shot,227,35,0,1,3.0,0.0,h
+S2425-G0116,1,01:12,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,01:11,GSW,,NOP,,,,WARRIORS Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,0,0,0,0,,,h
+S2425-G0116,1,01:11,GSW,,NOP,,H. Jones,NOP,SUB: Green FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,00:47.700000,GSW,14.0,NOP,29.0,J. Alvarado,NOP,Alvarado 10' Pullup Jump Shot (2 PTS) (Green 1 AST),Made Shot,Pullup Jump shot,40,95,10,1,2.0,2.0,v
+S2425-G0116,1,00:34.900000,GSW,,NOP,,M. Moody,GSW,MISS Moody 5' Layup,Missed Shot,Layup Shot,44,31,5,1,2.0,0.0,h
+S2425-G0116,1,00:32.900000,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,00:22,GSW,14.0,NOP,31.0,Z. Williamson,NOP,Williamson 6' Turnaround Jump Shot (7 PTS) (Alvarado 1 AST),Made Shot,Turnaround Jump Shot,-32,47,6,1,2.0,2.0,v
+S2425-G0116,1,00:07.600000,GSW,,NOP,,M. Moody,GSW,Moody Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0116,1,00:07.600000,GSW,,NOP,,L. Waters III,GSW,SUB: Payton II FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0116,1,00:07.600000,GSW,,NOP,,J. Green,NOP,SUB: McCollum FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,00:04.700000,GSW,,NOP,,K. Anderson,GSW,Anderson P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2425-G0116,1,00:02.400000,GSW,,NOP,,C. McCollum,NOP,McCollum Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,1,00:02.400000,GSW,,NOP,,K. Anderson,GSW,Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,1,00:00.200000,GSW,,NOP,,K. Anderson,GSW,MISS Anderson 50' 3PT Jump Shot,Missed Shot,Jump Shot,105,484,50,1,3.0,0.0,h
+S2425-G0116,1,00:00.200000,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,00:00,GSW,14.0,NOP,31.0,,,End of 1st Period (10:32 PM EST),period,end,0,0,0,0,,,
+S2425-G0116,2,12:00,GSW,14.0,NOP,31.0,,,Start of 2nd Period (10:35 PM EST),period,start,0,0,0,0,,,
+S2425-G0116,2,11:42,GSW,14.0,NOP,33.0,Z. Williamson,NOP,Williamson 4' Turnaround Hook Shot (9 PTS) (Missi 1 AST),Made Shot,Turnaround Hook Shot,-32,27,4,1,2.0,2.0,v
+S2425-G0116,2,11:42,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,2,11:42,GSW,14.0,NOP,34.0,Z. Williamson,NOP,Williamson Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0116,2,11:34,GSW,,NOP,,J. Kuminga,GSW,Kuminga Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0116,2,11:34,GSW,,NOP,,J. Green,NOP,Green STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0116,2,11:30,GSW,,NOP,,Z. Williamson,NOP,Williamson Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,2,11:30,GSW,,NOP,,B. Hield,GSW,Hield STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,2,11:17,GSW,16.0,NOP,34.0,L. Waters III,GSW,Waters III 4' Cutting Layup Shot (2 PTS) (Anderson 1 AST),Made Shot,Cutting Layup Shot,37,14,4,1,2.0,2.0,h
+S2425-G0116,2,11:05,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 28' 3PT Jump Shot,Missed Shot,Jump Shot,-124,247,28,1,3.0,0.0,v
+S2425-G0116,2,11:05,GSW,,NOP,,,,Pelicans Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,11:03,GSW,,NOP,,L. Waters III,GSW,Waters III L.B.FOUL (P1.T2) (J.Schroeder),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0116,2,10:55,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-29,90,9,1,2.0,0.0,v
+S2425-G0116,2,10:51,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,10:46,GSW,19.0,NOP,34.0,B. Hield,GSW,Hield 3PT Step Back Jump Shot (3 PTS) (Green 1 AST),Made Shot,Step Back Jump shot,-224,35,0,1,3.0,3.0,h
+S2425-G0116,2,10:38,GSW,,NOP,,Y. Missi,NOP,Missi OFF.Foul (P1) (J.Schroeder),Foul,Offensive,0,0,0,0,,,v
+S2425-G0116,2,10:38,GSW,,NOP,,Y. Missi,NOP,Missi Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0116,2,10:30,GSW,,NOP,,B. Hield,GSW,MISS Hield 26' 3PT Jump Shot,Missed Shot,Jump Shot,-65,252,26,1,3.0,0.0,h
+S2425-G0116,2,10:27,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,10:15,GSW,,NOP,,Z. Williamson,NOP,Williamson Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,2,10:15,GSW,,NOP,,L. Waters III,GSW,Waters III STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,2,10:10,GSW,21.0,NOP,34.0,L. Waters III,GSW,Waters III 20' Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,-98,174,20,1,2.0,2.0,h
+S2425-G0116,2,10:10,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0116,2,09:49,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,2,09:49,GSW,,NOP,,Y. Missi,NOP,MISS Missi Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0116,2,09:49,GSW,,NOP,,,,Pelicans Rebound,Rebound,Normal Rebound,0,0,0,0,,,v
+S2425-G0116,2,09:49,GSW,,NOP,,Y. Missi,NOP,MISS Missi Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0116,2,09:46,GSW,,NOP,,K. Anderson,GSW,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,09:33,GSW,24.0,NOP,34.0,L. Waters III,GSW,Waters III 27' 3PT Jump Shot (7 PTS) (Anderson 2 AST),Made Shot,Jump Shot,-210,162,27,1,3.0,3.0,h
+S2425-G0116,2,09:11,GSW,24.0,NOP,36.0,J. Alvarado,NOP,Alvarado 6' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,54,25,6,1,2.0,2.0,v
+S2425-G0116,2,08:55,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 8' Driving Layup,Missed Shot,Driving Layup Shot,72,38,8,1,2.0,0.0,h
+S2425-G0116,2,08:55,GSW,,NOP,,Y. Missi,NOP,Missi BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0116,2,08:55,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,08:53,GSW,,NOP,,D. Green,GSW,MISS Green Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0116,2,08:53,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,08:53,GSW,,NOP,,Z. Williamson,NOP,Williamson S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,2,08:53,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0116,2,08:53,GSW,,NOP,,D. Green,GSW,SUB: Looney FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,08:53,GSW,,NOP,,Y. Missi,NOP,SUB: McCollum FOR Missi,Substitution,,0,0,0,0,,,v
+S2425-G0116,2,08:53,GSW,,NOP,,J. Alvarado,NOP,SUB: Robinson-Earl FOR Alvarado,Substitution,,0,0,0,0,,,v
+S2425-G0116,2,08:53,GSW,25.0,NOP,36.0,L. Waters III,GSW,Waters III Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,2,08:53,GSW,26.0,NOP,36.0,L. Waters III,GSW,Waters III Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,2,08:33,GSW,26.0,NOP,38.0,Z. Williamson,NOP,Williamson 1' Driving Reverse Layup (12 PTS) (McCollum 2 AST),Made Shot,Driving Reverse Layup Shot,-7,-1,1,1,2.0,2.0,v
+S2425-G0116,2,08:15,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,21,69,7,1,2.0,0.0,h
+S2425-G0116,2,08:15,GSW,,NOP,,C. McCollum,NOP,McCollum BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0116,2,08:10,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,08:09,GSW,,NOP,,C. McCollum,NOP,McCollum Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,2,08:09,GSW,,NOP,,K. Anderson,GSW,Anderson STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0116,2,08:05,GSW,,NOP,,J. Hawkins,NOP,Hawkins S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,2,08:05,GSW,27.0,NOP,38.0,K. Anderson,GSW,Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,2,08:05,GSW,,NOP,,B. Hield,GSW,SUB: Podziemski FOR Hield,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,08:05,GSW,,NOP,,K. Anderson,GSW,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0116,2,08:00,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,07:48,GSW,,NOP,,K. Anderson,GSW,MISS Anderson 14' Jump Shot,Missed Shot,Jump Shot,140,36,14,1,2.0,0.0,h
+S2425-G0116,2,07:47,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,07:40,GSW,,NOP,,Z. Williamson,NOP,Williamson Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,2,07:40,GSW,,NOP,,J. Kuminga,GSW,Kuminga STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,2,07:28,GSW,29.0,NOP,38.0,J. Kuminga,GSW,Kuminga 2' Cutting Layup Shot (6 PTS) (Anderson 3 AST),Made Shot,Cutting Layup Shot,-12,9,2,1,2.0,2.0,h
+S2425-G0116,2,07:10,GSW,29.0,NOP,40.0,Z. Williamson,NOP,Williamson 8' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,47,65,8,1,2.0,2.0,v
+S2425-G0116,2,06:59,GSW,,NOP,,J. Kuminga,GSW,Kuminga Traveling Turnover (P2.T6),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0116,2,06:59,GSW,,NOP,,Z. Williamson,NOP,SUB: Jones FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0116,2,06:59,GSW,,NOP,,J. Green,NOP,SUB: Ingram FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0116,2,06:40,GSW,,NOP,,J. Hawkins,NOP,Hawkins Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0116,2,06:23,GSW,31.0,NOP,40.0,J. Kuminga,GSW,Kuminga 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,42,52,7,1,2.0,2.0,h
+S2425-G0116,2,06:01,GSW,,NOP,,B. Ingram,NOP,Ingram Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,2,06:01,GSW,,NOP,,K. Anderson,GSW,Anderson STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0116,2,05:58,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 1' Running Layup,Missed Shot,Running Layup Shot,10,1,1,1,2.0,0.0,h
+S2425-G0116,2,05:52,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,05:51,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,103,254,27,1,3.0,0.0,v
+S2425-G0116,2,05:51,GSW,,NOP,,J. Robinson-Earl,NOP,Robinson-Earl REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,05:45,GSW,31.0,NOP,42.0,J. Robinson-Earl,NOP,Robinson-Earl Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0116,2,05:33,GSW,,NOP,,K. Anderson,GSW,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,271,27,1,3.0,0.0,h
+S2425-G0116,2,05:30,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,05:24,GSW,33.0,NOP,42.0,K. Looney,GSW,Looney 4' Layup (2 PTS) (Waters III 1 AST),Made Shot,Layup Shot,-25,29,4,1,2.0,2.0,h
+S2425-G0116,2,05:11,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 28' 3PT Jump Shot,Missed Shot,Jump Shot,-174,217,28,1,3.0,0.0,v
+S2425-G0116,2,05:07,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,05:03,GSW,,NOP,,J. Hawkins,NOP,Hawkins S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,2,05:03,GSW,34.0,NOP,42.0,J. Kuminga,GSW,Kuminga Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,2,05:03,GSW,35.0,NOP,42.0,J. Kuminga,GSW,Kuminga Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,2,05:03,GSW,,NOP,,K. Anderson,GSW,SUB: Payton II FOR Anderson,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,04:57,GSW,,NOP,,C. McCollum,NOP,McCollum Lost Ball Turnover (P4.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,2,04:57,GSW,,NOP,,K. Looney,GSW,Looney STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0116,2,04:43,GSW,37.0,NOP,42.0,G. Payton II,GSW,Payton II 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-9,27,3,1,2.0,2.0,h
+S2425-G0116,2,04:23,GSW,,NOP,,J. Robinson-Earl,NOP,MISS Robinson-Earl 1' Reverse Layup,Missed Shot,Reverse Layup Shot,2,10,1,1,2.0,0.0,v
+S2425-G0116,2,04:21,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,04:09,GSW,,NOP,,K. Looney,GSW,MISS Looney 2' Layup,Missed Shot,Layup Shot,6,15,2,1,2.0,0.0,h
+S2425-G0116,2,04:07,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,04:01,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 27' 3PT Jump Shot,Missed Shot,Jump Shot,-129,235,27,1,3.0,0.0,h
+S2425-G0116,2,03:59,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,03:59,GSW,,NOP,,K. Looney,GSW,Looney P.FOUL (P1.T4) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2425-G0116,2,03:59,GSW,,NOP,,K. Looney,GSW,SUB: Green FOR Looney,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,03:59,GSW,,NOP,,L. Waters III,GSW,SUB: Hield FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,03:59,GSW,,NOP,,J. Hawkins,NOP,SUB: Theis FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0116,2,03:59,GSW,,NOP,,J. Robinson-Earl,NOP,SUB: Williamson FOR Robinson-Earl,Substitution,,0,0,0,0,,,v
+S2425-G0116,2,03:48,GSW,,NOP,,B. Hield,GSW,Hield P.FOUL (P1.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2425-G0116,2,03:48,GSW,,NOP,,D. Theis,NOP,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0116,2,03:48,GSW,,NOP,,,,Pelicans Rebound,Rebound,Normal Rebound,0,0,0,0,,,v
+S2425-G0116,2,03:48,GSW,,NOP,,J. Kuminga,GSW,SUB: Looney FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,03:48,GSW,37.0,NOP,43.0,D. Theis,NOP,Theis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,2,03:33,GSW,,NOP,,G. Payton II,GSW,MISS Payton II 6' Driving Layup,Missed Shot,Driving Layup Shot,-44,37,6,1,2.0,0.0,h
+S2425-G0116,2,03:33,GSW,,NOP,,D. Theis,NOP,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0116,2,03:30,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,03:22,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 7' Driving Layup,Missed Shot,Driving Layup Shot,-59,42,7,1,2.0,0.0,v
+S2425-G0116,2,03:20,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,03:10,GSW,40.0,NOP,43.0,G. Payton II,GSW,Payton II 3PT Jump Shot (5 PTS) (Podziemski 2 AST),Made Shot,Jump Shot,225,24,0,1,3.0,3.0,h
+S2425-G0116,2,02:53,GSW,40.0,NOP,45.0,Z. Williamson,NOP,Williamson 4' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,37,8,4,1,2.0,2.0,v
+S2425-G0116,2,02:39,GSW,42.0,NOP,45.0,B. Podziemski,GSW,Podziemski 11' Floating Jump Shot (9 PTS) (Hield 1 AST),Made Shot,Floating Jump shot,-12,114,11,1,2.0,2.0,h
+S2425-G0116,2,02:19,GSW,,NOP,,H. Jones,NOP,Jones Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,2,02:19,GSW,,NOP,,B. Podziemski,GSW,Podziemski STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,2,02:15,GSW,44.0,NOP,45.0,G. Payton II,GSW,Payton II 1' Running Dunk (7 PTS) (Podziemski 3 AST),Made Shot,Running Dunk Shot,-2,6,1,1,2.0,2.0,h
+S2425-G0116,2,02:01,GSW,,NOP,,K. Looney,GSW,Looney S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,2,02:01,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0116,2,02:01,GSW,,NOP,,,,Pelicans Rebound,Rebound,Normal Rebound,0,0,0,0,,,v
+S2425-G0116,2,02:01,GSW,44.0,NOP,46.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,2,01:49,GSW,,NOP,,B. Hield,GSW,MISS Hield 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,124,32,13,1,2.0,0.0,h
+S2425-G0116,2,01:46,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,01:44,GSW,,NOP,,D. Green,GSW,MISS Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,-70,271,28,1,3.0,0.0,h
+S2425-G0116,2,01:41,GSW,,NOP,,G. Payton II,GSW,Payton II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,01:34,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-48,268,27,1,3.0,0.0,h
+S2425-G0116,2,01:30,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,01:18,GSW,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-222,17,0,1,3.0,0.0,v
+S2425-G0116,2,01:13,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,01:12,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 1' Layup,Missed Shot,Layup Shot,-2,13,1,1,2.0,0.0,v
+S2425-G0116,2,01:12,GSW,,NOP,,K. Looney,GSW,Looney BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,2,01:10,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,01:10,GSW,44.0,NOP,48.0,B. Ingram,NOP,Ingram 17' Floating Jump Shot (14 PTS) (Williamson 2 AST),Made Shot,Floating Jump shot,-4,172,17,1,2.0,2.0,v
+S2425-G0116,2,01:10,GSW,,NOP,,B. Hield,GSW,Hield S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,2,01:10,GSW,44.0,NOP,49.0,B. Ingram,NOP,Ingram Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0116,2,01:01,GSW,,NOP,,C. McCollum,NOP,McCollum P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0116,2,01:01,GSW,,NOP,,G. Payton II,GSW,SUB: Waters III FOR Payton II,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,00:54.300000,GSW,,NOP,,B. Hield,GSW,MISS Hield 27' 3PT Jump Shot,Missed Shot,Jump Shot,114,247,27,1,3.0,0.0,h
+S2425-G0116,2,00:50.400000,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,00:41.600000,GSW,44.0,NOP,51.0,Z. Williamson,NOP,Williamson 10' Turnaround Jump Shot (19 PTS),Made Shot,Turnaround Jump Shot,-50,85,10,1,2.0,2.0,v
+S2425-G0116,2,00:31.800000,GSW,47.0,NOP,51.0,D. Green,GSW,Green 29' 3PT Jump Shot (3 PTS) (Podziemski 4 AST),Made Shot,Jump Shot,-125,257,29,1,3.0,3.0,h
+S2425-G0116,2,00:11.500000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,177,18,1,2.0,0.0,v
+S2425-G0116,2,00:08.800000,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,00:01.400000,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-42,67,8,1,2.0,0.0,h
+S2425-G0116,2,00:00.300000,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,00:00.200000,GSW,,NOP,,K. Looney,GSW,MISS Looney Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0116,2,00:00.100000,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,00:00,GSW,47.0,NOP,51.0,,,End of 2nd Period (11:03 PM EST),period,end,0,0,0,0,,,
+S2425-G0116,3,12:00,GSW,47.0,NOP,51.0,,,Start of 3rd Period (11:20 PM EST),period,start,0,0,0,0,,,
+S2425-G0116,3,11:44,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,125,13,1,2.0,0.0,v
+S2425-G0116,3,11:41,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,11:33,GSW,50.0,NOP,51.0,L. Waters III,GSW,Waters III 26' 3PT Jump Shot (12 PTS) (Green 2 AST),Made Shot,Jump Shot,-76,247,26,1,3.0,3.0,h
+S2425-G0116,3,11:15,GSW,50.0,NOP,53.0,Z. Williamson,NOP,Williamson 4' Driving Floating Jump Shot (21 PTS) (McCollum 3 AST),Made Shot,Driving Floating Jump Shot,29,29,4,1,2.0,2.0,v
+S2425-G0116,3,11:15,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P3.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,3,11:15,GSW,50.0,NOP,54.0,Z. Williamson,NOP,Williamson Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0116,3,11:03,GSW,,NOP,,D. Theis,NOP,Theis S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,3,11:03,GSW,,NOP,,T. Jackson-Davis,GSW,MISS Jackson-Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0116,3,11:03,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Normal Rebound,0,0,0,0,,,h
+S2425-G0116,3,11:03,GSW,51.0,NOP,54.0,T. Jackson-Davis,GSW,Jackson-Davis Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,3,10:52,GSW,51.0,NOP,56.0,Z. Williamson,NOP,Williamson 5' Turnaround Hook Shot (24 PTS),Made Shot,Turnaround Hook Shot,20,51,5,1,2.0,2.0,v
+S2425-G0116,3,10:40,GSW,54.0,NOP,56.0,M. Moody,GSW,Moody 28' 3PT Jump Shot (6 PTS) (Green 3 AST),Made Shot,Jump Shot,202,189,28,1,3.0,3.0,h
+S2425-G0116,3,10:21,GSW,54.0,NOP,59.0,H. Jones,NOP,Jones 3PT Jump Shot (5 PTS) (Ingram 1 AST),Made Shot,Jump Shot,-225,-13,0,1,3.0,3.0,v
+S2425-G0116,3,10:03,GSW,57.0,NOP,59.0,B. Podziemski,GSW,Podziemski 28' 3PT Jump Shot (12 PTS) (Waters III 2 AST),Made Shot,Jump Shot,42,278,28,1,3.0,3.0,h
+S2425-G0116,3,09:47,GSW,57.0,NOP,61.0,B. Ingram,NOP,Ingram 18' Pullup Jump Shot (17 PTS) (Theis 3 AST),Made Shot,Pullup Jump shot,59,168,18,1,2.0,2.0,v
+S2425-G0116,3,09:47,GSW,,NOP,,M. Moody,GSW,Moody S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,3,09:47,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0116,3,09:47,GSW,,NOP,,H. Jones,NOP,SUB: Green FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0116,3,09:47,GSW,57.0,NOP,62.0,B. Ingram,NOP,Ingram Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0116,3,09:39,GSW,59.0,NOP,62.0,B. Podziemski,GSW,Podziemski 3' Cutting Layup Shot (14 PTS) (Green 4 AST),Made Shot,Cutting Layup Shot,-20,20,3,1,2.0,2.0,h
+S2425-G0116,3,09:18,GSW,59.0,NOP,64.0,B. Ingram,NOP,Ingram 16' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,-5,158,16,1,2.0,2.0,v
+S2425-G0116,3,09:06,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 26' 3PT Jump Shot,Missed Shot,Jump Shot,223,142,26,1,3.0,0.0,h
+S2425-G0116,3,09:03,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,3,08:57,GSW,,NOP,,B. Ingram,NOP,Ingram Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,3,08:57,GSW,,NOP,,D. Green,GSW,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,3,08:54,GSW,61.0,NOP,64.0,L. Waters III,GSW,Waters III 1' Running Reverse Layup (14 PTS),Made Shot,Running Reverse Layup Shot,11,0,1,1,2.0,2.0,h
+S2425-G0116,3,08:39,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-148,221,27,1,3.0,0.0,v
+S2425-G0116,3,08:38,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,08:38,GSW,,NOP,,D. Theis,NOP,Theis P.FOUL (P2.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0116,3,08:22,GSW,64.0,NOP,64.0,B. Podziemski,GSW,Podziemski 3PT Jump Shot (17 PTS) (Moody 1 AST),Made Shot,Jump Shot,-224,38,0,1,3.0,3.0,h
+S2425-G0116,3,08:03,GSW,64.0,NOP,66.0,Z. Williamson,NOP,Williamson 5' Turnaround Hook Shot (26 PTS),Made Shot,Turnaround Hook Shot,44,15,5,1,2.0,2.0,v
+S2425-G0116,3,07:51,GSW,66.0,NOP,66.0,B. Podziemski,GSW,Podziemski 12' Pullup Jump Shot (19 PTS) (Jackson-Davis 2 AST),Made Shot,Pullup Jump shot,20,120,12,1,2.0,2.0,h
+S2425-G0116,3,07:33,GSW,,NOP,,D. Theis,NOP,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,224,29,0,1,3.0,0.0,v
+S2425-G0116,3,07:28,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,07:17,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 28' 3PT Jump Shot,Missed Shot,Jump Shot,176,220,28,1,3.0,0.0,h
+S2425-G0116,3,07:14,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,3,07:02,GSW,,NOP,,M. Moody,GSW,Moody S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,3,07:02,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0116,3,07:02,GSW,,NOP,,,,Pelicans Rebound,Rebound,Normal Rebound,0,0,0,0,,,v
+S2425-G0116,3,07:02,GSW,,NOP,,B. Ingram,NOP,SUB: Hawkins FOR Ingram,Substitution,,0,0,0,0,,,v
+S2425-G0116,3,07:02,GSW,66.0,NOP,67.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,3,06:54,GSW,,NOP,,J. Hawkins,NOP,Hawkins P.FOUL (P3.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0116,3,06:49,GSW,69.0,NOP,67.0,L. Waters III,GSW,Waters III 28' 3PT Jump Shot (17 PTS) (Green 5 AST),Made Shot,Jump Shot,121,256,28,1,3.0,3.0,h
+S2425-G0116,3,06:38,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,41,4,1,2.0,0.0,v
+S2425-G0116,3,06:36,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,06:26,GSW,71.0,NOP,67.0,M. Moody,GSW,Moody 3' Cutting Layup Shot (8 PTS) (Jackson-Davis 3 AST),Made Shot,Cutting Layup Shot,-25,16,3,1,2.0,2.0,h
+S2425-G0116,3,06:26,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0116,3,06:26,GSW,,NOP,,D. Theis,NOP,SUB: Missi FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0116,3,06:10,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,48,147,15,1,2.0,0.0,v
+S2425-G0116,3,06:03,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,05:45,GSW,74.0,NOP,67.0,M. Moody,GSW,Moody 25' 3PT Jump Shot (11 PTS) (Podziemski 5 AST),Made Shot,Jump Shot,248,2,25,1,3.0,3.0,h
+S2425-G0116,3,05:30,GSW,,NOP,,B. Podziemski,GSW,Podziemski P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2425-G0116,3,05:22,GSW,74.0,NOP,70.0,J. Green,NOP,Green 3PT Jump Shot (3 PTS) (Williamson 3 AST),Made Shot,Jump Shot,227,27,0,1,3.0,3.0,v
+S2425-G0116,3,05:02,GSW,,NOP,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,h
+S2425-G0116,3,05:02,GSW,,NOP,,D. Green,GSW,SUB: Anderson FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0116,3,05:02,GSW,,NOP,,Z. Williamson,NOP,SUB: Ingram FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0116,3,05:02,GSW,,NOP,,L. Waters III,GSW,Jump Ball Waters III vs. Missi: Tip to Jackson-Davis,Jump Ball,,0,0,0,0,,,h
+S2425-G0116,3,04:51,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,16,326,33,1,3.0,0.0,h
+S2425-G0116,3,04:46,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,04:45,GSW,76.0,NOP,70.0,J. Kuminga,GSW,Kuminga 2' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,-6,20,2,1,2.0,2.0,h
+S2425-G0116,3,04:22,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 4' Driving Layup,Missed Shot,Driving Layup Shot,22,36,4,1,2.0,0.0,v
+S2425-G0116,3,04:22,GSW,,NOP,,J. Kuminga,GSW,Kuminga BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,3,04:19,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,04:16,GSW,78.0,NOP,70.0,T. Jackson-Davis,GSW,Jackson-Davis 1' Running Alley Oop Dunk Shot (3 PTS) (Kuminga 1 AST),Made Shot,Running Alley Oop Dunk Shot,7,11,1,1,2.0,2.0,h
+S2425-G0116,3,03:56,GSW,,NOP,,B. Ingram,NOP,MISS Ingram 26' 3PT Jump Shot,Missed Shot,Jump Shot,142,222,26,1,3.0,0.0,v
+S2425-G0116,3,03:56,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,3,03:52,GSW,,NOP,,J. Green,NOP,MISS Green 1' Layup,Missed Shot,Layup Shot,-6,5,1,1,2.0,0.0,v
+S2425-G0116,3,03:52,GSW,,NOP,,T. Jackson-Davis,GSW,Jackson-Davis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,3,03:50,GSW,,NOP,,Y. Missi,NOP,Missi REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,3,03:48,GSW,78.0,NOP,72.0,Y. Missi,NOP,Missi 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-22,1,2,1,2.0,2.0,v
+S2425-G0116,3,03:40,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0116,3,03:40,GSW,,NOP,,T. Jackson-Davis,GSW,SUB: Looney FOR Jackson-Davis,Substitution,,0,0,0,0,,,h
+S2425-G0116,3,03:40,GSW,,NOP,,C. McCollum,NOP,SUB: Alvarado FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0116,3,03:29,GSW,81.0,NOP,72.0,J. Kuminga,GSW,Kuminga 27' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,-168,212,27,1,3.0,3.0,h
+S2425-G0116,3,03:04,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,224,21,0,1,3.0,0.0,v
+S2425-G0116,3,03:04,GSW,,NOP,,B. Podziemski,GSW,Podziemski BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0116,3,03:00,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,02:43,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20,55,6,1,2.0,0.0,h
+S2425-G0116,3,02:38,GSW,,NOP,,Y. Missi,NOP,Missi REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,3,02:36,GSW,81.0,NOP,74.0,Y. Missi,NOP,Missi 2' Layup (4 PTS) (Ingram 2 AST),Made Shot,Layup Shot,23,5,2,1,2.0,2.0,v
+S2425-G0116,3,02:36,GSW,,NOP,,K. Looney,GSW,Looney S.FOUL (P3.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,3,02:36,GSW,,NOP,,L. Waters III,GSW,SUB: Hield FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0116,3,02:36,GSW,,NOP,,Y. Missi,NOP,MISS Missi Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0116,3,02:33,GSW,,NOP,,K. Anderson,GSW,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,02:27,GSW,,NOP,,K. Looney,GSW,Looney OFF.Foul (P4) (J.Schroeder),Foul,Offensive,0,0,0,0,,,h
+S2425-G0116,3,02:27,GSW,,NOP,,K. Looney,GSW,Looney Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0116,3,02:05,GSW,81.0,NOP,77.0,B. Ingram,NOP,Ingram 26' 3PT Jump Shot (23 PTS) (Missi 2 AST),Made Shot,Jump Shot,-141,222,26,1,3.0,3.0,v
+S2425-G0116,3,01:45,GSW,84.0,NOP,77.0,B. Hield,GSW,Hield 27' 3PT Jump Shot (6 PTS) (Looney 1 AST),Made Shot,Jump Shot,-44,267,27,1,3.0,3.0,h
+S2425-G0116,3,01:25,GSW,,NOP,,Y. Missi,NOP,MISS Missi 3' Hook Shot,Missed Shot,Hook Shot,-13,32,3,1,2.0,0.0,v
+S2425-G0116,3,01:23,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,01:06,GSW,,NOP,,K. Anderson,GSW,MISS Anderson 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-221,28,0,1,3.0,0.0,h
+S2425-G0116,3,00:59.200000,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,3,00:53.100000,GSW,84.0,NOP,79.0,B. Ingram,NOP,Ingram 12' Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,31,119,12,1,2.0,2.0,v
+S2425-G0116,3,00:35.400000,GSW,,NOP,,K. Anderson,GSW,MISS Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-2,24,1,3.0,0.0,h
+S2425-G0116,3,00:31.200000,GSW,,NOP,,Y. Missi,NOP,Missi REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,3,00:11.700000,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-11,24,1,3.0,0.0,v
+S2425-G0116,3,00:05.900000,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,3,00:05.400000,GSW,,NOP,,J. Green,NOP,Green Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,3,00:05.400000,GSW,,NOP,,K. Anderson,GSW,Anderson STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0116,3,00:02.800000,GSW,87.0,NOP,79.0,B. Hield,GSW,Hield 25' 3PT Running Jump Shot (9 PTS) (Anderson 4 AST),Made Shot,Running Jump Shot,-237,67,25,1,3.0,3.0,h
+S2425-G0116,3,00:00,GSW,87.0,NOP,79.0,,,End of 3rd Period (11:48 PM EST),period,end,0,0,0,0,,,
+S2425-G0116,4,12:00,GSW,87.0,NOP,79.0,,,Start of 4th Period (11:51 PM EST),period,start,0,0,0,0,,,
+S2425-G0116,4,11:47,GSW,90.0,NOP,79.0,B. Hield,GSW,Hield 27' 3PT Pullup Jump Shot (12 PTS) (Green 6 AST),Made Shot,Pullup Jump shot,-148,223,27,1,3.0,3.0,h
+S2425-G0116,4,11:29,GSW,90.0,NOP,81.0,Z. Williamson,NOP,Williamson 5' Pullup Jump Shot (29 PTS),Made Shot,Pullup Jump shot,-36,34,5,1,2.0,2.0,v
+S2425-G0116,4,11:09,GSW,92.0,NOP,81.0,L. Waters III,GSW,Waters III 4' Cutting Dunk Shot (19 PTS) (Kuminga 2 AST),Made Shot,Cutting Dunk Shot,2,41,4,1,2.0,2.0,h
+S2425-G0116,4,10:50,GSW,,NOP,,J. Alvarado,NOP,Alvarado Lost Ball Turnover (P1.T18),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,4,10:50,GSW,,NOP,,K. Anderson,GSW,Anderson STEAL (5 STL),,,0,0,0,0,,,h
+S2425-G0116,4,10:46,GSW,94.0,NOP,81.0,B. Hield,GSW,Hield 1' Running Layup (14 PTS) (Waters III 3 AST),Made Shot,Running Layup Shot,-10,0,1,1,2.0,2.0,h
+S2425-G0116,4,10:19,GSW,,NOP,,L. Waters III,GSW,Waters III S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,4,10:19,GSW,94.0,NOP,82.0,J. Hawkins,NOP,Hawkins Free Throw 1 of 3 (2 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,10:19,GSW,94.0,NOP,83.0,J. Hawkins,NOP,Hawkins Free Throw 2 of 3 (3 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,10:19,GSW,94.0,NOP,84.0,J. Hawkins,NOP,Hawkins Free Throw 3 of 3 (4 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,10:06,GSW,97.0,NOP,84.0,B. Hield,GSW,Hield 28' 3PT Jump Shot (17 PTS) (Kuminga 3 AST),Made Shot,Jump Shot,-40,276,28,1,3.0,3.0,h
+S2425-G0116,4,09:54,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P4.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,4,09:54,GSW,97.0,NOP,85.0,Z. Williamson,NOP,Williamson Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,09:54,GSW,97.0,NOP,86.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,09:32,GSW,,NOP,,K. Anderson,GSW,MISS Anderson 3PT Jump Shot,Missed Shot,Jump Shot,-232,37,0,1,3.0,0.0,h
+S2425-G0116,4,09:30,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,09:30,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0116,4,09:20,GSW,,NOP,,B. Hield,GSW,MISS Hield 3' Floating Jump Shot,Missed Shot,Floating Jump shot,5,33,3,1,2.0,0.0,h
+S2425-G0116,4,09:20,GSW,,NOP,,Y. Missi,NOP,Missi REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,4,09:20,GSW,,NOP,,B. Hield,GSW,Hield P.FOUL (P3.T3) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2425-G0116,4,09:12,GSW,,NOP,,J. Hawkins,NOP,Hawkins Out of Bounds - Bad Pass Turnover Turnover (P2.T19),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0116,4,08:49,GSW,99.0,NOP,86.0,B. Hield,GSW,Hield 2' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,-23,8,2,1,2.0,2.0,h
+S2425-G0116,4,08:38,GSW,,NOP,,Z. Williamson,NOP,Williamson Bad Pass Turnover (P5.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,4,08:38,GSW,,NOP,,J. Kuminga,GSW,Kuminga STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0116,4,08:29,GSW,,NOP,,K. Anderson,GSW,MISS Anderson 4' Hook Shot,Missed Shot,Hook Shot,-5,43,4,1,2.0,0.0,h
+S2425-G0116,4,08:24,GSW,,NOP,,Y. Missi,NOP,Missi REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,4,08:10,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Charge Foul (P3) (M.Lindsay),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0116,4,08:10,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Foul Turnover (P6.T21),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0116,4,08:10,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0116,4,08:10,GSW,99.0,NOP,86.0,,,Instant Replay4th Period (12:02 AM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,0,0,,,
+S2425-G0116,4,08:10,GSW,,NOP,,J. Hawkins,NOP,SUB: Ingram FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,08:10,GSW,,NOP,,J. Robinson-Earl,NOP,SUB: McCollum FOR Robinson-Earl,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,07:55,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 26' 3PT Jump Shot,Missed Shot,Jump Shot,136,226,26,1,3.0,0.0,h
+S2425-G0116,4,07:52,GSW,,NOP,,Y. Missi,NOP,Missi REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,4,07:33,GSW,99.0,NOP,88.0,B. Ingram,NOP,Ingram 10' Pullup Jump Shot (27 PTS) (McCollum 4 AST),Made Shot,Pullup Jump shot,-43,92,10,1,2.0,2.0,v
+S2425-G0116,4,07:10,GSW,,NOP,,K. Anderson,GSW,MISS Anderson 9' Floating Jump Shot,Missed Shot,Floating Jump shot,27,89,9,1,2.0,0.0,h
+S2425-G0116,4,07:09,GSW,,NOP,,,,WARRIORS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,07:09,GSW,,NOP,,Z. Williamson,NOP,SUB: Green FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,07:09,GSW,,NOP,,K. Anderson,GSW,SUB: Looney FOR Anderson,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,07:09,GSW,,NOP,,D. Green,GSW,SUB: Podziemski FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,07:00,GSW,,NOP,,K. Looney,GSW,MISS Looney 13' Jump Shot,Missed Shot,Jump Shot,127,31,13,1,2.0,0.0,h
+S2425-G0116,4,06:55,GSW,,NOP,,J. Green,NOP,Green REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,4,06:42,GSW,,NOP,,Y. Missi,NOP,Missi Bad Pass Turnover (P2.T22),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,4,06:42,GSW,,NOP,,B. Hield,GSW,Hield STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0116,4,06:39,GSW,101.0,NOP,88.0,J. Kuminga,GSW,Kuminga 1' Running Dunk (17 PTS),Made Shot,Running Dunk Shot,2,10,1,1,2.0,2.0,h
+S2425-G0116,4,06:23,GSW,,NOP,,B. Podziemski,GSW,Podziemski S.FOUL (P2.T4) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,4,06:23,GSW,101.0,NOP,89.0,Y. Missi,NOP,Missi Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,06:23,GSW,,NOP,,Y. Missi,NOP,MISS Missi Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0116,4,06:20,GSW,,NOP,,J. Kuminga,GSW,Kuminga REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,06:06,GSW,103.0,NOP,89.0,L. Waters III,GSW,Waters III 19' Pullup Jump Shot (21 PTS) (Looney 2 AST),Made Shot,Pullup Jump shot,-180,55,19,1,2.0,2.0,h
+S2425-G0116,4,05:51,GSW,103.0,NOP,91.0,Y. Missi,NOP,Missi 3' Alley Oop Dunk (7 PTS) (Alvarado 2 AST),Made Shot,Alley Oop Dunk Shot,25,21,3,1,2.0,2.0,v
+S2425-G0116,4,05:30,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-29,25,4,1,2.0,0.0,h
+S2425-G0116,4,05:28,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,4,05:26,GSW,103.0,NOP,93.0,B. Ingram,NOP,Ingram 4' Running Layup (29 PTS) (McCollum 5 AST),Made Shot,Running Layup Shot,34,20,4,1,2.0,2.0,v
+S2425-G0116,4,05:26,GSW,,NOP,,L. Waters III,GSW,Waters III S.FOUL (P3.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,4,05:26,GSW,,NOP,,Y. Missi,NOP,SUB: Theis FOR Missi,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,05:26,GSW,103.0,NOP,94.0,B. Ingram,NOP,Ingram Free Throw 1 of 1 (30 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,05:02,GSW,,NOP,,J. Kuminga,GSW,MISS Kuminga 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-107,95,14,1,2.0,0.0,h
+S2425-G0116,4,04:59,GSW,,NOP,,B. Ingram,NOP,Ingram REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,4,04:46,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 28' 3PT Jump Shot,Missed Shot,Jump Shot,86,264,28,1,3.0,0.0,v
+S2425-G0116,4,04:43,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,04:38,GSW,106.0,NOP,94.0,B. Hield,GSW,Hield 24' 3PT Jump Shot (22 PTS) (Waters III 4 AST),Made Shot,Jump Shot,235,60,24,1,3.0,3.0,h
+S2425-G0116,4,04:19,GSW,106.0,NOP,96.0,D. Theis,NOP,Theis 3' Floating Jump Shot (5 PTS) (Alvarado 3 AST),Made Shot,Floating Jump shot,-1,32,3,1,2.0,2.0,v
+S2425-G0116,4,04:12,GSW,,NOP,,,,WARRIORS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0116,4,04:12,GSW,,NOP,,J. Kuminga,GSW,SUB: Green FOR Kuminga,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,04:12,GSW,,NOP,,J. Green,NOP,SUB: Williamson FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,04:06,GSW,,NOP,,J. Alvarado,NOP,Alvarado S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,4,04:06,GSW,107.0,NOP,96.0,B. Hield,GSW,Hield Free Throw 1 of 3 (23 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0116,4,04:06,GSW,108.0,NOP,96.0,B. Hield,GSW,Hield Free Throw 2 of 3 (24 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0116,4,04:06,GSW,109.0,NOP,96.0,B. Hield,GSW,Hield Free Throw 3 of 3 (25 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0116,4,03:52,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,4,3,1,2.0,0.0,v
+S2425-G0116,4,03:49,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,03:44,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,230,34,0,1,3.0,0.0,h
+S2425-G0116,4,03:40,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,4,03:36,GSW,,NOP,,D. Theis,NOP,MISS Theis 3' Running Layup,Missed Shot,Running Layup Shot,-33,5,3,1,2.0,0.0,v
+S2425-G0116,4,03:35,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,03:19,GSW,,NOP,,B. Ingram,NOP,Ingram P.FOUL (P2.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0116,4,03:19,GSW,,NOP,,C. McCollum,NOP,SUB: Green FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,03:08,GSW,,NOP,,B. Hield,GSW,MISS Hield 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,54,16,6,1,2.0,0.0,h
+S2425-G0116,4,03:02,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,03:02,GSW,111.0,NOP,96.0,K. Looney,GSW,Looney Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0116,4,02:56,GSW,,NOP,,Z. Williamson,NOP,Williamson Out of Bounds - Bad Pass Turnover Turnover (P7.T23),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0116,4,02:45,GSW,114.0,NOP,96.0,B. Hield,GSW,Hield 28' 3PT Jump Shot (28 PTS) (Green 7 AST),Made Shot,Jump Shot,170,227,28,1,3.0,3.0,h
+S2425-G0116,4,02:43,GSW,,NOP,,,,Pelicans Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0116,4,02:43,GSW,,NOP,,B. Podziemski,GSW,SUB: Spencer FOR Podziemski,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,02:43,GSW,,NOP,,K. Looney,GSW,SUB: Jackson-Davis FOR Looney,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,02:43,GSW,,NOP,,B. Hield,GSW,SUB: Moody FOR Hield,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,02:43,GSW,,NOP,,D. Green,GSW,SUB: Santos FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,02:43,GSW,,NOP,,L. Waters III,GSW,SUB: Beekman FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,02:43,GSW,,NOP,,Z. Williamson,NOP,SUB: Missi FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,02:43,GSW,,NOP,,D. Theis,NOP,SUB: Cain FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,02:43,GSW,,NOP,,B. Ingram,NOP,SUB: Boston Jr. FOR Ingram,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,02:43,GSW,,NOP,,J. Green,NOP,SUB: Robinson-Earl FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,02:25,GSW,,NOP,,R. Beekman,GSW,Beekman S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,4,02:25,GSW,114.0,NOP,97.0,J. Alvarado,NOP,Alvarado Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,02:25,GSW,114.0,NOP,98.0,J. Alvarado,NOP,Alvarado Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,02:14,GSW,,NOP,,G. Santos,GSW,Santos Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0116,4,02:14,GSW,,NOP,,J. Alvarado,NOP,Alvarado STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0116,4,02:04,GSW,,NOP,,J. Alvarado,NOP,Alvarado Bad Pass Turnover (P2.T24),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,4,02:04,GSW,,NOP,,R. Beekman,GSW,Beekman STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,4,02:00,GSW,116.0,NOP,98.0,P. Spencer,GSW,Spencer 3' Running Layup (2 PTS) (Beekman 1 AST),Made Shot,Running Layup Shot,29,8,3,1,2.0,2.0,h
+S2425-G0116,4,01:40,GSW,,NOP,,Y. Missi,NOP,MISS Missi 7' Layup,Missed Shot,Layup Shot,58,34,7,1,2.0,0.0,v
+S2425-G0116,4,01:38,GSW,,NOP,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,01:24,GSW,,NOP,,P. Spencer,GSW,MISS Spencer 2' Driving Layup,Missed Shot,Driving Layup Shot,-10,20,2,1,2.0,0.0,h
+S2425-G0116,4,01:22,GSW,,NOP,,Y. Missi,NOP,Missi REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,4,01:14,GSW,116.0,NOP,101.0,J. Robinson-Earl,NOP,Robinson-Earl 26' 3PT Jump Shot (5 PTS) (Alvarado 4 AST),Made Shot,Jump Shot,83,248,26,1,3.0,3.0,v
+S2425-G0116,4,01:01,GSW,118.0,NOP,101.0,P. Spencer,GSW,Spencer 4' Driving Finger Roll Layup (4 PTS) (Jackson-Davis 4 AST),Made Shot,Driving Finger Roll Layup Shot,-31,22,4,1,2.0,2.0,h
+S2425-G0116,4,00:49.800000,GSW,118.0,NOP,104.0,J. Cain,NOP,Cain 27' 3PT Jump Shot (3 PTS) (Missi 3 AST),Made Shot,Jump Shot,-159,213,27,1,3.0,3.0,v
+S2425-G0116,4,00:37.700000,GSW,121.0,NOP,104.0,M. Moody,GSW,Moody 28' 3PT Jump Shot (14 PTS) (Santos 1 AST),Made Shot,Jump Shot,-188,209,28,1,3.0,3.0,h
+S2425-G0116,4,00:25.800000,GSW,121.0,NOP,106.0,Y. Missi,NOP,Missi 3' Driving Dunk (9 PTS) (Boston Jr. 1 AST),Made Shot,Driving Dunk Shot,18,27,3,1,2.0,2.0,v
+S2425-G0116,4,00:04,GSW,124.0,NOP,106.0,M. Moody,GSW,Moody 24' 3PT Jump Shot (17 PTS) (Jackson-Davis 5 AST),Made Shot,Jump Shot,-232,39,24,1,3.0,3.0,h
+S2425-G0116,4,00:00,GSW,124.0,NOP,106.0,,,End of 4th Period (12:24 AM EST),period,end,0,0,0,0,,,
+S2425-G0069,1,12:00,NOP,0.0,CHI,0.0,,,Start of 1st Period (8:14 PM EST),period,start,0,0,0,0,,,
+S2425-G0069,1,12:00,NOP,,CHI,,D. Theis,NOP,Jump Ball Theis vs. Vučević: Tip to Jones,Jump Ball,,0,0,0,0,,,h
+S2425-G0069,1,11:42,NOP,2.0,CHI,0.0,D. Theis,NOP,Theis 2' Layup (2 PTS) (Murray 1 AST),Made Shot,Layup Shot,-15,-2,2,1,2.0,2.0,h
+S2425-G0069,1,11:31,NOP,2.0,CHI,2.0,N. Vučević,CHI,Vučević 11' Hook Shot (2 PTS) (Giddey 1 AST),Made Shot,Hook Shot,-16,112,11,1,2.0,2.0,v
+S2425-G0069,1,11:12,NOP,,CHI,,D. Murray,NOP,MISS Murray 25' 3PT Jump Shot,Missed Shot,Jump Shot,9,248,25,1,3.0,0.0,h
+S2425-G0069,1,11:10,NOP,,CHI,,J. Giddey,CHI,Giddey REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,10:57,NOP,,CHI,,P. Williams,CHI,MISS Williams 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-132,239,27,1,3.0,0.0,v
+S2425-G0069,1,10:53,NOP,,CHI,,D. Murray,NOP,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,10:39,NOP,4.0,CHI,2.0,C. McCollum,NOP,McCollum 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,7,121,12,1,2.0,2.0,h
+S2425-G0069,1,10:33,NOP,,CHI,,N. Vučević,CHI,MISS Vučević 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,204,26,1,3.0,0.0,v
+S2425-G0069,1,10:28,NOP,,CHI,,D. Murray,NOP,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,10:25,NOP,,CHI,,C. White,CHI,White S.FOUL (P1.T1) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,1,10:25,NOP,5.0,CHI,2.0,D. Murray,NOP,Murray Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,1,10:25,NOP,6.0,CHI,2.0,D. Murray,NOP,Murray Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,1,10:08,NOP,6.0,CHI,5.0,P. Williams,CHI,Williams 27' 3PT Jump Shot (3 PTS) (LaVine 1 AST),Made Shot,Jump Shot,136,231,27,1,3.0,3.0,v
+S2425-G0069,1,09:45,NOP,,CHI,,B. Ingram,NOP,MISS Ingram 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-6,80,8,1,2.0,0.0,h
+S2425-G0069,1,09:42,NOP,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,09:38,NOP,,CHI,,H. Jones,NOP,Jones S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,1,09:38,NOP,6.0,CHI,6.0,J. Giddey,CHI,Giddey Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,1,09:38,NOP,6.0,CHI,7.0,J. Giddey,CHI,Giddey Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,1,09:20,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,29,260,26,1,3.0,0.0,h
+S2425-G0069,1,09:17,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,08:59,NOP,,CHI,,C. White,CHI,MISS White 29' 3PT Jump Shot,Missed Shot,Jump Shot,-85,279,29,1,3.0,0.0,v
+S2425-G0069,1,08:56,NOP,,CHI,,B. Ingram,NOP,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,08:46,NOP,,CHI,,B. Ingram,NOP,MISS Ingram 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-21,145,15,1,2.0,0.0,h
+S2425-G0069,1,08:46,NOP,,CHI,,,,PELICANS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,08:43,NOP,8.0,CHI,7.0,H. Jones,NOP,Jones 1' Layup (2 PTS) (Murray 2 AST),Made Shot,Layup Shot,-11,-4,1,1,2.0,2.0,h
+S2425-G0069,1,08:25,NOP,,CHI,,J. Giddey,CHI,Giddey Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,1,08:25,NOP,,CHI,,B. Ingram,NOP,Ingram STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,1,08:17,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,109,16,1,2.0,0.0,h
+S2425-G0069,1,08:13,NOP,,CHI,,J. Giddey,CHI,Giddey REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,07:59,NOP,,CHI,,J. Giddey,CHI,MISS Giddey 26' 3PT Jump Shot,Missed Shot,Jump Shot,159,211,26,1,3.0,0.0,v
+S2425-G0069,1,07:57,NOP,,CHI,,,,PELICANS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,07:57,NOP,,CHI,,N. Vučević,CHI,Vučević L.B.FOUL (P1.T2) (N.Green),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0069,1,07:41,NOP,,CHI,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-151,199,25,1,3.0,0.0,h
+S2425-G0069,1,07:38,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,07:32,NOP,,CHI,,D. Theis,NOP,Theis Violation:Kicked Ball (G.Petraitis),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0069,1,07:25,NOP,,CHI,,C. White,CHI,MISS White 27' 3PT Jump Shot,Missed Shot,Jump Shot,136,228,27,1,3.0,0.0,v
+S2425-G0069,1,07:22,NOP,,CHI,,,,Bulls Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,07:07,NOP,8.0,CHI,9.0,N. Vučević,CHI,Vučević 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-23,1,2,1,2.0,2.0,v
+S2425-G0069,1,06:52,NOP,,CHI,,B. Ingram,NOP,MISS Ingram 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,39,147,15,1,2.0,0.0,h
+S2425-G0069,1,06:51,NOP,,CHI,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,06:51,NOP,,CHI,,H. Jones,NOP,MISS Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0069,1,06:50,NOP,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,06:44,NOP,,CHI,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0069,1,06:44,NOP,,CHI,,D. Theis,NOP,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,1,06:26,NOP,10.0,CHI,9.0,B. Ingram,NOP,Ingram 19' Pullup Jump Shot (2 PTS) (Theis 1 AST),Made Shot,Pullup Jump shot,70,177,19,1,2.0,2.0,h
+S2425-G0069,1,06:14,NOP,10.0,CHI,11.0,N. Vučević,CHI,Vučević 1' Cutting Layup Shot (6 PTS) (Giddey 2 AST),Made Shot,Cutting Layup Shot,12,4,1,1,2.0,2.0,v
+S2425-G0069,1,06:14,NOP,,CHI,,,,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0069,1,06:14,NOP,,CHI,,D. Theis,NOP,SUB: Missi FOR Theis,Substitution,,0,0,0,0,,,h
+S2425-G0069,1,06:14,NOP,,CHI,,D. Murray,NOP,SUB: Hawkins FOR Murray,Substitution,,0,0,0,0,,,h
+S2425-G0069,1,06:14,NOP,,CHI,,J. Giddey,CHI,SUB: Ball FOR Giddey,Substitution,,0,0,0,0,,,v
+S2425-G0069,1,06:05,NOP,12.0,CHI,11.0,B. Ingram,NOP,Ingram Cutting Dunk Shot (4 PTS) (McCollum 1 AST),Made Shot,Cutting Dunk Shot,2,-1,0,1,2.0,2.0,h
+S2425-G0069,1,05:45,NOP,,CHI,,P. Williams,CHI,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,167,207,27,1,3.0,0.0,v
+S2425-G0069,1,05:44,NOP,,CHI,,Y. Missi,NOP,Missi REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,05:23,NOP,,CHI,,B. Ingram,NOP,MISS Ingram 14' Jump Shot,Missed Shot,Jump Shot,-126,56,14,1,2.0,0.0,h
+S2425-G0069,1,05:19,NOP,,CHI,,L. Ball,CHI,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,05:03,NOP,,CHI,,C. White,CHI,MISS White 29' 3PT Jump Shot,Missed Shot,Jump Shot,137,253,29,1,3.0,0.0,v
+S2425-G0069,1,04:59,NOP,,CHI,,P. Williams,CHI,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,04:58,NOP,,CHI,,P. Williams,CHI,MISS Williams 5' Reverse Layup,Missed Shot,Reverse Layup Shot,47,10,5,1,2.0,0.0,v
+S2425-G0069,1,04:54,NOP,,CHI,,P. Williams,CHI,Williams REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,04:50,NOP,12.0,CHI,14.0,Z. LaVine,CHI,LaVine 26' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,-229,120,26,1,3.0,3.0,v
+S2425-G0069,1,04:40,NOP,15.0,CHI,14.0,B. Ingram,NOP,Ingram 25' 3PT Jump Shot (7 PTS) (McCollum 2 AST),Made Shot,Jump Shot,-214,126,25,1,3.0,3.0,h
+S2425-G0069,1,04:30,NOP,,CHI,,L. Ball,CHI,Ball Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,1,04:30,NOP,,CHI,,Y. Missi,NOP,Missi STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,1,04:21,NOP,17.0,CHI,14.0,C. McCollum,NOP,McCollum 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,21,1,2,1,2.0,2.0,h
+S2425-G0069,1,04:06,NOP,17.0,CHI,17.0,L. Ball,CHI,Ball 25' 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,175,183,25,1,3.0,3.0,v
+S2425-G0069,1,03:47,NOP,,CHI,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,34,24,1,3.0,0.0,h
+S2425-G0069,1,03:44,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,03:40,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 4' Running Layup,Missed Shot,Running Layup Shot,-37,11,4,1,2.0,0.0,v
+S2425-G0069,1,03:40,NOP,,CHI,,J. Hawkins,NOP,Hawkins BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0069,1,03:40,NOP,,CHI,,,,PELICANS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,03:40,NOP,,CHI,,,,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0069,1,03:40,NOP,17.0,CHI,17.0,N. Anderson,,Instant Replay1st Period (8:29 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,0,0,,,
+S2425-G0069,1,03:40,NOP,,CHI,,B. Ingram,NOP,SUB: Green FOR Ingram,Substitution,,0,0,0,0,,,h
+S2425-G0069,1,03:40,NOP,,CHI,,C. White,CHI,SUB: Dosunmu FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0069,1,03:40,NOP,,CHI,,N. Vučević,CHI,SUB: Phillips FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0069,1,03:40,NOP,,CHI,,P. Williams,CHI,SUB: Smith FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0069,1,03:27,NOP,20.0,CHI,17.0,J. Hawkins,NOP,Hawkins 26' 3PT Jump Shot (3 PTS) (McCollum 3 AST),Made Shot,Jump Shot,168,197,26,1,3.0,3.0,h
+S2425-G0069,1,03:17,NOP,,CHI,,J. Smith,CHI,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,184,26,1,3.0,0.0,v
+S2425-G0069,1,03:14,NOP,,CHI,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,03:00,NOP,23.0,CHI,17.0,C. McCollum,NOP,McCollum 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,115,222,25,1,3.0,3.0,h
+S2425-G0069,1,02:58,NOP,,CHI,,,,Bulls Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0069,1,02:58,NOP,,CHI,,L. Ball,CHI,SUB: Horton-Tucker FOR Ball,Substitution,,0,0,0,0,,,v
+S2425-G0069,1,02:58,NOP,,CHI,,Z. LaVine,CHI,SUB: Giddey FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0069,1,02:48,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0069,1,02:37,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,37,89,10,1,2.0,0.0,h
+S2425-G0069,1,02:35,NOP,,CHI,,Y. Missi,NOP,Missi REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,02:35,NOP,,CHI,,Y. Missi,NOP,MISS Missi Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0069,1,02:34,NOP,,CHI,,,,PELICANS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,02:34,NOP,,CHI,,C. McCollum,NOP,SUB: Murray FOR McCollum,Substitution,,0,0,0,0,,,h
+S2425-G0069,1,02:28,NOP,,CHI,,J. Smith,CHI,Smith S.FOUL (P1.T3) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,1,02:28,NOP,24.0,CHI,17.0,Y. Missi,NOP,Missi Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,1,02:28,NOP,25.0,CHI,17.0,Y. Missi,NOP,Missi Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,1,02:12,NOP,25.0,CHI,19.0,J. Phillips,CHI,Phillips 2' Driving Layup (2 PTS) (Dosunmu 1 AST),Made Shot,Driving Layup Shot,18,10,2,1,2.0,2.0,v
+S2425-G0069,1,02:04,NOP,,CHI,,D. Murray,NOP,Murray Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0069,1,01:53,NOP,25.0,CHI,21.0,A. Dosunmu,CHI,Dosunmu 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,10,5,1,1,2.0,2.0,v
+S2425-G0069,1,01:32,NOP,,CHI,,H. Jones,NOP,MISS Jones 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-70,8,7,1,2.0,0.0,h
+S2425-G0069,1,01:30,NOP,,CHI,,J. Smith,CHI,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,01:25,NOP,,CHI,,J. Giddey,CHI,MISS Giddey 2' Running Layup,Missed Shot,Running Layup Shot,-18,7,2,1,2.0,0.0,v
+S2425-G0069,1,01:25,NOP,,CHI,,Y. Missi,NOP,Missi BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0069,1,01:22,NOP,,CHI,,D. Murray,NOP,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,1,01:19,NOP,,CHI,,J. Green,NOP,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0069,1,01:07,NOP,25.0,CHI,23.0,A. Dosunmu,CHI,Dosunmu 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,12,11,2,1,2.0,2.0,v
+S2425-G0069,1,00:55.900000,NOP,27.0,CHI,23.0,Y. Missi,NOP,Missi 4' Hook Shot (4 PTS) (Murray 3 AST),Made Shot,Hook Shot,-7,37,4,1,2.0,2.0,h
+S2425-G0069,1,00:44,NOP,,CHI,,J. Giddey,CHI,Giddey Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,1,00:44,NOP,,CHI,,J. Green,NOP,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,1,00:43.600000,NOP,29.0,CHI,23.0,J. Hawkins,NOP,Hawkins 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,6,1,1,2.0,2.0,h
+S2425-G0069,1,00:25.200000,NOP,,CHI,,J. Giddey,CHI,MISS Giddey 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,64,6,1,2.0,0.0,v
+S2425-G0069,1,00:23.300000,NOP,,CHI,,J. Giddey,CHI,Giddey REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,00:23.200000,NOP,29.0,CHI,25.0,J. Giddey,CHI,Giddey 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,26,-1,3,1,2.0,2.0,v
+S2425-G0069,1,00:04.900000,NOP,,CHI,,D. Murray,NOP,MISS Murray 25' 3PT Jump Shot,Missed Shot,Jump Shot,-69,243,25,1,3.0,0.0,h
+S2425-G0069,1,00:01.900000,NOP,,CHI,,J. Giddey,CHI,Giddey REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,00:00,NOP,29.0,CHI,25.0,,,End of 1st Period (8:39 PM EST),period,end,0,0,0,0,,,
+S2425-G0069,2,12:00,NOP,29.0,CHI,25.0,,,Start of 2nd Period (8:42 PM EST),period,start,0,0,0,0,,,
+S2425-G0069,2,11:44,NOP,29.0,CHI,27.0,J. Smith,CHI,Smith 1' Layup (2 PTS) (Dosunmu 2 AST),Made Shot,Layup Shot,-13,6,1,1,2.0,2.0,v
+S2425-G0069,2,11:44,NOP,,CHI,,J. Robinson-Earl,NOP,Robinson-Earl S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,2,11:44,NOP,29.0,CHI,28.0,J. Smith,CHI,Smith Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0069,2,11:27,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu P.FOUL (P1.T1) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2425-G0069,2,11:21,NOP,,CHI,,J. Hawkins,NOP,MISS Hawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,121,224,25,1,3.0,0.0,h
+S2425-G0069,2,11:20,NOP,,CHI,,,,Bulls Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,11:05,NOP,,CHI,,J. Phillips,CHI,MISS Phillips 3PT Jump Shot,Missed Shot,Jump Shot,-233,6,0,1,3.0,0.0,v
+S2425-G0069,2,11:02,NOP,,CHI,,B. Ingram,NOP,Ingram REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,10:58,NOP,,CHI,,B. Ingram,NOP,MISS Ingram 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-56,247,25,1,3.0,0.0,h
+S2425-G0069,2,10:53,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,10:48,NOP,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-48,249,25,1,3.0,0.0,v
+S2425-G0069,2,10:45,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,10:37,NOP,32.0,CHI,28.0,J. Robinson-Earl,NOP,Robinson-Earl 25' 3PT Jump Shot (3 PTS) (Alvarado 1 AST),Made Shot,Jump Shot,131,210,25,1,3.0,3.0,h
+S2425-G0069,2,10:24,NOP,32.0,CHI,30.0,J. Giddey,CHI,Giddey 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-26,13,3,1,2.0,2.0,v
+S2425-G0069,2,10:06,NOP,34.0,CHI,30.0,B. Ingram,NOP,Ingram 3' Driving Layup (9 PTS) (Robinson-Earl 1 AST),Made Shot,Driving Layup Shot,4,31,3,1,2.0,2.0,h
+S2425-G0069,2,09:53,NOP,,CHI,,J. Phillips,CHI,MISS Phillips 27' 3PT Jump Shot,Missed Shot,Jump Shot,136,230,27,1,3.0,0.0,v
+S2425-G0069,2,09:50,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,09:45,NOP,37.0,CHI,30.0,J. Robinson-Earl,NOP,Robinson-Earl 25' 3PT Running Jump Shot (6 PTS) (Alvarado 2 AST),Made Shot,Running Jump Shot,170,185,25,1,3.0,3.0,h
+S2425-G0069,2,09:30,NOP,37.0,CHI,32.0,J. Giddey,CHI,Giddey 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,18,8,2,1,2.0,2.0,v
+S2425-G0069,2,09:16,NOP,,CHI,,J. Alvarado,NOP,MISS Alvarado 3PT Jump Shot,Missed Shot,Jump Shot,-229,-12,0,1,3.0,0.0,h
+S2425-G0069,2,09:13,NOP,,CHI,,,,Bulls Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,09:13,NOP,,CHI,,J. Giddey,CHI,SUB: Buzelis FOR Giddey,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,09:13,NOP,,CHI,,A. Dosunmu,CHI,SUB: Ball FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,09:13,NOP,,CHI,,J. Phillips,CHI,SUB: LaVine FOR Phillips,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,09:13,NOP,,CHI,,T. Horton-Tucker,CHI,SUB: White FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,09:02,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 2' Driving Layup,Missed Shot,Driving Layup Shot,-5,16,2,1,2.0,0.0,v
+S2425-G0069,2,08:58,NOP,,CHI,,J. Smith,CHI,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,08:58,NOP,37.0,CHI,34.0,J. Smith,CHI,Smith Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0069,2,08:45,NOP,40.0,CHI,34.0,J. Alvarado,NOP,Alvarado 26' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,163,197,26,1,3.0,3.0,h
+S2425-G0069,2,08:23,NOP,40.0,CHI,37.0,Z. LaVine,CHI,LaVine 26' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,184,186,26,1,3.0,3.0,v
+S2425-G0069,2,08:09,NOP,,CHI,,B. Ingram,NOP,MISS Ingram 25' 3PT Jump Shot,Missed Shot,Jump Shot,21,248,25,1,3.0,0.0,h
+S2425-G0069,2,08:06,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,07:56,NOP,,CHI,,M. Buzelis,CHI,MISS Buzelis 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,70,24,1,3.0,0.0,v
+S2425-G0069,2,07:54,NOP,,CHI,,J. Robinson-Earl,NOP,Robinson-Earl REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,07:46,NOP,,CHI,,M. Buzelis,CHI,Buzelis S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,2,07:46,NOP,41.0,CHI,37.0,B. Ingram,NOP,Ingram Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,2,07:46,NOP,42.0,CHI,37.0,B. Ingram,NOP,Ingram Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,2,07:35,NOP,,CHI,,M. Buzelis,CHI,MISS Buzelis 3PT Jump Shot,Missed Shot,Jump Shot,233,0,0,1,3.0,0.0,v
+S2425-G0069,2,07:33,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,07:27,NOP,,CHI,,J. Robinson-Earl,NOP,MISS Robinson-Earl 3PT Jump Shot,Missed Shot,Jump Shot,234,9,0,1,3.0,0.0,h
+S2425-G0069,2,07:24,NOP,,CHI,,M. Buzelis,CHI,Buzelis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,07:19,NOP,,CHI,,C. White,CHI,MISS White 4' Running Layup,Missed Shot,Running Layup Shot,-28,26,4,1,2.0,0.0,v
+S2425-G0069,2,07:19,NOP,,CHI,,J. Smith,CHI,Smith REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,07:19,NOP,42.0,CHI,39.0,J. Smith,CHI,Smith 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,17,12,2,1,2.0,2.0,v
+S2425-G0069,2,07:19,NOP,,CHI,,J. Alvarado,NOP,Alvarado S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,2,07:19,NOP,,CHI,,J. Green,NOP,SUB: Jones FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0069,2,07:19,NOP,,CHI,,B. Ingram,NOP,SUB: Murray FOR Ingram,Substitution,,0,0,0,0,,,h
+S2425-G0069,2,07:19,NOP,42.0,CHI,40.0,J. Smith,CHI,Smith Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0069,2,07:00,NOP,45.0,CHI,40.0,J. Hawkins,NOP,Hawkins 27' 3PT Jump Shot (8 PTS) (Alvarado 3 AST),Made Shot,Jump Shot,97,248,27,1,3.0,3.0,h
+S2425-G0069,2,06:40,NOP,45.0,CHI,43.0,Z. LaVine,CHI,LaVine 29' 3PT Jump Shot (9 PTS) (Buzelis 1 AST),Made Shot,Jump Shot,-126,260,29,1,3.0,3.0,v
+S2425-G0069,2,06:26,NOP,,CHI,,D. Murray,NOP,MISS Murray 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-78,53,9,1,2.0,0.0,h
+S2425-G0069,2,06:22,NOP,,CHI,,M. Buzelis,CHI,Buzelis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,06:17,NOP,45.0,CHI,45.0,Z. LaVine,CHI,LaVine 2' Driving Reverse Layup (11 PTS) (Ball 1 AST),Made Shot,Driving Reverse Layup Shot,16,7,2,1,2.0,2.0,v
+S2425-G0069,2,06:17,NOP,,CHI,,,,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0069,2,06:17,NOP,,CHI,,J. Alvarado,NOP,SUB: McCollum FOR Alvarado,Substitution,,0,0,0,0,,,h
+S2425-G0069,2,06:17,NOP,,CHI,,J. Robinson-Earl,NOP,SUB: Missi FOR Robinson-Earl,Substitution,,0,0,0,0,,,h
+S2425-G0069,2,06:17,NOP,,CHI,,J. Smith,CHI,SUB: Williams FOR Smith,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,06:17,NOP,,CHI,,M. Buzelis,CHI,SUB: Vučević FOR Buzelis,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,05:53,NOP,,CHI,,,,PELICANS Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,0,0,0,0,,,h
+S2425-G0069,2,05:43,NOP,,CHI,,L. Ball,CHI,MISS Ball 28' 3PT Jump Shot,Missed Shot,Jump Shot,15,275,28,1,3.0,0.0,v
+S2425-G0069,2,05:39,NOP,,CHI,,Y. Missi,NOP,Missi REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,05:39,NOP,,CHI,,Z. LaVine,CHI,LaVine P.FOUL (P1.T3) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2425-G0069,2,05:20,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,-107,235,26,1,3.0,0.0,h
+S2425-G0069,2,05:17,NOP,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,05:16,NOP,,CHI,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0069,2,05:16,NOP,,CHI,,D. Murray,NOP,Murray STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,2,05:12,NOP,48.0,CHI,45.0,C. McCollum,NOP,McCollum 25' 3PT Jump Shot (10 PTS) (Missi 1 AST),Made Shot,Jump Shot,-39,247,25,1,3.0,3.0,h
+S2425-G0069,2,04:56,NOP,48.0,CHI,47.0,Z. LaVine,CHI,LaVine 22' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,-137,178,22,1,2.0,2.0,v
+S2425-G0069,2,04:29,NOP,,CHI,,Y. Missi,NOP,MISS Missi 6' Hook Shot,Missed Shot,Hook Shot,64,4,6,1,2.0,0.0,h
+S2425-G0069,2,04:27,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,04:19,NOP,48.0,CHI,49.0,C. White,CHI,White 2' Driving Layup (2 PTS) (LaVine 2 AST),Made Shot,Driving Layup Shot,17,5,2,1,2.0,2.0,v
+S2425-G0069,2,04:08,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 27' 3PT Jump Shot,Missed Shot,Jump Shot,58,267,27,1,3.0,0.0,h
+S2425-G0069,2,04:05,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,03:55,NOP,48.0,CHI,52.0,Z. LaVine,CHI,LaVine 28' 3PT Jump Shot (16 PTS) (Ball 2 AST),Made Shot,Jump Shot,-208,181,28,1,3.0,3.0,v
+S2425-G0069,2,03:35,NOP,,CHI,,D. Murray,NOP,MISS Murray 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,77,8,1,2.0,0.0,h
+S2425-G0069,2,03:34,NOP,,CHI,,Y. Missi,NOP,Missi REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,03:32,NOP,50.0,CHI,52.0,Y. Missi,NOP,Missi 1' Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,-13,3,1,1,2.0,2.0,h
+S2425-G0069,2,03:07,NOP,50.0,CHI,54.0,N. Vučević,CHI,Vučević 2' Layup (8 PTS) (Ball 3 AST),Made Shot,Layup Shot,15,5,2,1,2.0,2.0,v
+S2425-G0069,2,02:49,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,27,124,13,1,2.0,0.0,h
+S2425-G0069,2,02:47,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,02:45,NOP,50.0,CHI,57.0,Z. LaVine,CHI,LaVine 28' 3PT Running Jump Shot (19 PTS) (White 2 AST),Made Shot,Running Jump Shot,-137,246,28,1,3.0,3.0,v
+S2425-G0069,2,02:30,NOP,,CHI,,L. Ball,CHI,Ball S.FOUL (P1.T4) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,2,02:30,NOP,,CHI,,,,Bulls Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0069,2,02:30,NOP,,CHI,,J. Hawkins,NOP,SUB: Theis FOR Hawkins,Substitution,,0,0,0,0,,,h
+S2425-G0069,2,02:30,NOP,,CHI,,Y. Missi,NOP,SUB: Ingram FOR Missi,Substitution,,0,0,0,0,,,h
+S2425-G0069,2,02:30,NOP,,CHI,,L. Ball,CHI,SUB: Dosunmu FOR Ball,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,02:30,NOP,,CHI,,P. Williams,CHI,SUB: Giddey FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,02:30,NOP,51.0,CHI,57.0,D. Murray,NOP,Murray Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,2,02:30,NOP,52.0,CHI,57.0,D. Murray,NOP,Murray Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,2,02:14,NOP,,CHI,,Z. LaVine,CHI,LaVine Out of Bounds Lost Ball Turnover (P3.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0069,2,02:00,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,2,02:00,NOP,53.0,CHI,57.0,D. Theis,NOP,Theis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,2,02:00,NOP,54.0,CHI,57.0,D. Theis,NOP,Theis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,2,01:52,NOP,,CHI,,N. Vučević,CHI,Vučević Offensive Charge Foul (P2) (G.Petraitis),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0069,2,01:52,NOP,,CHI,,N. Vučević,CHI,Vučević Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0069,2,01:33,NOP,,CHI,,B. Ingram,NOP,MISS Ingram 20' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-97,172,20,1,2.0,0.0,h
+S2425-G0069,2,01:32,NOP,,CHI,,B. Ingram,NOP,Ingram REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,01:29,NOP,,CHI,,B. Ingram,NOP,MISS Ingram 6' Jump Shot,Missed Shot,Jump Shot,-28,54,6,1,2.0,0.0,h
+S2425-G0069,2,01:25,NOP,,CHI,,B. Ingram,NOP,Ingram REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,01:25,NOP,56.0,CHI,57.0,B. Ingram,NOP,Ingram Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0069,2,01:19,NOP,,CHI,,C. White,CHI,MISS White 28' 3PT Jump Shot,Missed Shot,Jump Shot,-150,232,28,1,3.0,0.0,v
+S2425-G0069,2,01:16,NOP,,CHI,,D. Murray,NOP,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,01:12,NOP,,CHI,,D. Murray,NOP,MISS Murray 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-67,243,25,1,3.0,0.0,h
+S2425-G0069,2,01:08,NOP,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,00:57.600000,NOP,,CHI,,B. Ingram,NOP,Ingram S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,2,00:57.600000,NOP,,CHI,,J. Giddey,CHI,MISS Giddey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0069,2,00:57.600000,NOP,,CHI,,,,Bulls Rebound,Rebound,Normal Rebound,0,0,0,0,,,v
+S2425-G0069,2,00:57.600000,NOP,56.0,CHI,58.0,J. Giddey,CHI,Giddey Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,2,00:38.400000,NOP,59.0,CHI,58.0,C. McCollum,NOP,McCollum 25' 3PT Jump Shot (13 PTS) (Murray 4 AST),Made Shot,Jump Shot,109,230,25,1,3.0,3.0,h
+S2425-G0069,2,00:32.200000,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-39,281,28,1,3.0,0.0,v
+S2425-G0069,2,00:31.500000,NOP,,CHI,,,,PELICANS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,00:11.900000,NOP,,CHI,,D. Theis,NOP,Theis OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2425-G0069,2,00:11.900000,NOP,,CHI,,D. Theis,NOP,Theis Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0069,2,00:11.900000,NOP,,CHI,,C. McCollum,NOP,SUB: Green FOR McCollum,Substitution,,0,0,0,0,,,h
+S2425-G0069,2,00:01.500000,NOP,,CHI,,Z. LaVine,CHI,LaVine Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,2,00:01.500000,NOP,,CHI,,J. Green,NOP,Green STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0069,2,00:00.200000,NOP,,CHI,,H. Jones,NOP,MISS Jones 46' 3PT Jump Shot,Missed Shot,Jump Shot,70,453,46,1,3.0,0.0,h
+S2425-G0069,2,00:00.100000,NOP,,CHI,,,,PELICANS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,00:00,NOP,59.0,CHI,58.0,,,End of 2nd Period (9:08 PM EST),period,end,0,0,0,0,,,
+S2425-G0069,3,12:00,NOP,59.0,CHI,58.0,,,Start of 3rd Period (9:23 PM EST),period,start,0,0,0,0,,,
+S2425-G0069,3,11:50,NOP,59.0,CHI,60.0,N. Vučević,CHI,Vučević 1' Cutting Dunk Shot (10 PTS) (Giddey 3 AST),Made Shot,Cutting Dunk Shot,0,-7,1,1,2.0,2.0,v
+S2425-G0069,3,11:50,NOP,,CHI,,H. Jones,NOP,Jones S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,3,11:50,NOP,,CHI,,,,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0069,3,11:50,NOP,,CHI,,H. Jones,NOP,SUB: Green FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0069,3,11:50,NOP,59.0,CHI,61.0,N. Vučević,CHI,Vučević Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,11:31,NOP,61.0,CHI,61.0,B. Ingram,NOP,Ingram 2' Layup (15 PTS) (Green 1 AST),Made Shot,Layup Shot,-15,7,2,1,2.0,2.0,h
+S2425-G0069,3,11:13,NOP,,CHI,,N. Vučević,CHI,MISS Vučević 11' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,-105,4,11,1,2.0,0.0,v
+S2425-G0069,3,11:09,NOP,,CHI,,D. Theis,NOP,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,11:01,NOP,63.0,CHI,61.0,D. Theis,NOP,Theis 1' Cutting Dunk Shot (6 PTS) (McCollum 4 AST),Made Shot,Cutting Dunk Shot,2,8,1,1,2.0,2.0,h
+S2425-G0069,3,10:45,NOP,63.0,CHI,63.0,C. White,CHI,White 2' Driving Layup (4 PTS) (Vučević 1 AST),Made Shot,Driving Layup Shot,18,-7,2,1,2.0,2.0,v
+S2425-G0069,3,10:24,NOP,,CHI,,D. Murray,NOP,MISS Murray 6' Driving Layup,Missed Shot,Driving Layup Shot,-7,62,6,1,2.0,0.0,h
+S2425-G0069,3,10:22,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,10:19,NOP,,CHI,,J. Giddey,CHI,MISS Giddey 3' Driving Layup,Missed Shot,Driving Layup Shot,32,1,3,1,2.0,0.0,v
+S2425-G0069,3,10:19,NOP,,CHI,,D. Theis,NOP,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0069,3,10:19,NOP,,CHI,,D. Murray,NOP,Murray REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,10:12,NOP,65.0,CHI,63.0,D. Murray,NOP,Murray 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,13,17,2,1,2.0,2.0,h
+S2425-G0069,3,10:00,NOP,,CHI,,P. Williams,CHI,MISS Williams 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,21,159,16,1,2.0,0.0,v
+S2425-G0069,3,09:54,NOP,,CHI,,C. McCollum,NOP,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,09:48,NOP,67.0,CHI,63.0,D. Murray,NOP,Murray 3' Running Finger Roll Layup (8 PTS) (McCollum 5 AST),Made Shot,Running Finger Roll Layup Shot,5,29,3,1,2.0,2.0,h
+S2425-G0069,3,09:32,NOP,67.0,CHI,65.0,P. Williams,CHI,Williams 14' Pullup Jump Shot (5 PTS) (White 3 AST),Made Shot,Pullup Jump shot,142,-10,14,1,2.0,2.0,v
+S2425-G0069,3,09:19,NOP,,CHI,,D. Murray,NOP,MISS Murray 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-2,91,9,1,2.0,0.0,h
+S2425-G0069,3,09:17,NOP,,CHI,,J. Giddey,CHI,Giddey REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,09:13,NOP,,CHI,,B. Ingram,NOP,Ingram S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,3,09:13,NOP,67.0,CHI,66.0,P. Williams,CHI,Williams Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,09:13,NOP,,CHI,,P. Williams,CHI,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0069,3,09:10,NOP,,CHI,,J. Green,NOP,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,08:53,NOP,69.0,CHI,66.0,B. Ingram,NOP,Ingram Dunk (17 PTS) (Theis 2 AST),Made Shot,Dunk Shot,-2,2,0,1,2.0,2.0,h
+S2425-G0069,3,08:45,NOP,,CHI,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P5.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0069,3,08:45,NOP,,CHI,,C. McCollum,NOP,McCollum STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,3,08:40,NOP,71.0,CHI,66.0,C. McCollum,NOP,McCollum 2' Running Finger Roll Layup (15 PTS) (Theis 3 AST),Made Shot,Running Finger Roll Layup Shot,17,12,2,1,2.0,2.0,h
+S2425-G0069,3,08:22,NOP,,CHI,,C. White,CHI,White Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,3,08:22,NOP,,CHI,,D. Theis,NOP,Theis STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0069,3,08:18,NOP,74.0,CHI,66.0,C. McCollum,NOP,McCollum 3PT Running Jump Shot (18 PTS) (Murray 5 AST),Made Shot,Running Jump Shot,-230,33,0,1,3.0,3.0,h
+S2425-G0069,3,08:17,NOP,,CHI,,,,Bulls Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0069,3,08:17,NOP,,CHI,,J. Green,NOP,SUB: Jones FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0069,3,08:00,NOP,,CHI,,C. White,CHI,White Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,3,08:00,NOP,,CHI,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,3,07:44,NOP,,CHI,,D. Theis,NOP,Theis Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0069,3,07:44,NOP,,CHI,,C. White,CHI,SUB: Ball FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,07:44,NOP,,CHI,,J. Giddey,CHI,SUB: Dosunmu FOR Giddey,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,07:33,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-158,155,22,1,2.0,0.0,v
+S2425-G0069,3,07:29,NOP,,CHI,,C. McCollum,NOP,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,07:25,NOP,76.0,CHI,66.0,B. Ingram,NOP,Ingram 13' Running Pull-Up Jump Shot (19 PTS),Made Shot,Running Pull-Up Jump Shot,-4,128,13,1,2.0,2.0,h
+S2425-G0069,3,07:12,NOP,,CHI,,Z. LaVine,CHI,LaVine Out of Bounds Lost Ball Turnover (P6.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0069,3,07:04,NOP,,CHI,,L. Ball,CHI,Ball P.FOUL (P2.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2425-G0069,3,06:52,NOP,,CHI,,B. Ingram,NOP,MISS Ingram 14' Jump Shot,Missed Shot,Jump Shot,53,127,14,1,2.0,0.0,h
+S2425-G0069,3,06:52,NOP,,CHI,,P. Williams,CHI,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0069,3,06:50,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,06:44,NOP,,CHI,,L. Ball,CHI,MISS Ball 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,92,241,26,1,3.0,0.0,v
+S2425-G0069,3,06:38,NOP,,CHI,,D. Theis,NOP,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,06:29,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 27' 3PT Jump Shot,Missed Shot,Jump Shot,-61,263,27,1,3.0,0.0,h
+S2425-G0069,3,06:26,NOP,,CHI,,P. Williams,CHI,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,06:15,NOP,76.0,CHI,68.0,L. Ball,CHI,Ball 2' Driving Finger Roll Layup (5 PTS) (Williams 2 AST),Made Shot,Driving Finger Roll Layup Shot,-16,-6,2,1,2.0,2.0,v
+S2425-G0069,3,06:05,NOP,,CHI,,D. Murray,NOP,MISS Murray 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-15,18,2,1,2.0,0.0,h
+S2425-G0069,3,06:03,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,06:00,NOP,,CHI,,P. Williams,CHI,Williams Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0069,3,06:00,NOP,,CHI,,B. Ingram,NOP,Ingram STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0069,3,05:52,NOP,,CHI,,D. Theis,NOP,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,225,-8,0,1,3.0,0.0,h
+S2425-G0069,3,05:48,NOP,,CHI,,L. Ball,CHI,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,05:41,NOP,,CHI,,N. Vučević,CHI,MISS Vučević 5' Driving Layup,Missed Shot,Driving Layup Shot,-7,50,5,1,2.0,0.0,v
+S2425-G0069,3,05:41,NOP,,CHI,,B. Ingram,NOP,Ingram BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0069,3,05:39,NOP,,CHI,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,05:33,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,219,136,26,1,3.0,0.0,h
+S2425-G0069,3,05:31,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,05:22,NOP,76.0,CHI,70.0,Z. LaVine,CHI,LaVine Alley Oop Dunk (21 PTS) (Ball 4 AST),Made Shot,Alley Oop Dunk Shot,-2,-2,0,1,2.0,2.0,v
+S2425-G0069,3,05:05,NOP,78.0,CHI,70.0,D. Theis,NOP,Theis 1' Cutting Dunk Shot (8 PTS) (Murray 6 AST),Made Shot,Cutting Dunk Shot,5,8,1,1,2.0,2.0,h
+S2425-G0069,3,05:05,NOP,,CHI,,,,Bulls Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0069,3,05:05,NOP,,CHI,,D. Murray,NOP,SUB: Hawkins FOR Murray,Substitution,,0,0,0,0,,,h
+S2425-G0069,3,05:05,NOP,,CHI,,D. Theis,NOP,SUB: Missi FOR Theis,Substitution,,0,0,0,0,,,h
+S2425-G0069,3,05:05,NOP,,CHI,,Z. LaVine,CHI,SUB: White FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,05:05,NOP,,CHI,,P. Williams,CHI,SUB: Phillips FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,05:05,NOP,,CHI,,B. Ingram,NOP,SUB: Green FOR Ingram,Substitution,,0,0,0,0,,,h
+S2425-G0069,3,04:48,NOP,,CHI,,C. White,CHI,White Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0069,3,04:30,NOP,80.0,CHI,70.0,C. McCollum,NOP,McCollum 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,-16,7,2,1,2.0,2.0,h
+S2425-G0069,3,04:22,NOP,80.0,CHI,73.0,N. Vučević,CHI,Vučević 26' 3PT Jump Shot (14 PTS) (Phillips 1 AST),Made Shot,Jump Shot,88,245,26,1,3.0,3.0,v
+S2425-G0069,3,04:09,NOP,,CHI,,J. Hawkins,NOP,Hawkins Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0069,3,04:04,NOP,,CHI,,L. Ball,CHI,SUB: Giddey FOR Ball,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,04:04,NOP,,CHI,,C. McCollum,NOP,McCollum P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2425-G0069,3,03:59,NOP,,CHI,,Y. Missi,NOP,Missi S.FOUL (P1.T4) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,3,03:59,NOP,80.0,CHI,74.0,N. Vučević,CHI,Vučević Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,03:59,NOP,80.0,CHI,75.0,N. Vučević,CHI,Vučević Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,03:45,NOP,,CHI,,J. Hawkins,NOP,MISS Hawkins 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-62,130,14,1,2.0,0.0,h
+S2425-G0069,3,03:43,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,03:37,NOP,80.0,CHI,77.0,A. Dosunmu,CHI,Dosunmu 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,-2,29,3,1,2.0,2.0,v
+S2425-G0069,3,03:20,NOP,83.0,CHI,77.0,C. McCollum,NOP,McCollum 26' 3PT Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,136,225,26,1,3.0,3.0,h
+S2425-G0069,3,03:09,NOP,,CHI,,J. Giddey,CHI,MISS Giddey 1' Layup,Missed Shot,Layup Shot,10,5,1,1,2.0,0.0,v
+S2425-G0069,3,03:09,NOP,,CHI,,Y. Missi,NOP,Missi BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0069,3,03:06,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,03:05,NOP,,CHI,,J. Hawkins,NOP,Hawkins Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0069,3,03:05,NOP,,CHI,,J. Phillips,CHI,Phillips STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0069,3,03:01,NOP,,CHI,,C. White,CHI,MISS White 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,152,195,25,1,3.0,0.0,v
+S2425-G0069,3,02:57,NOP,,CHI,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,02:52,NOP,85.0,CHI,77.0,Y. Missi,NOP,Missi 1' Running Alley Oop Dunk Shot (8 PTS) (Jones 1 AST),Made Shot,Running Alley Oop Dunk Shot,0,10,1,1,2.0,2.0,h
+S2425-G0069,3,02:33,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,3,02:33,NOP,,CHI,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0069,3,02:30,NOP,87.0,CHI,77.0,J. Green,NOP,Green 2' Running Layup (2 PTS) (Hawkins 1 AST),Made Shot,Running Layup Shot,-23,8,2,1,2.0,2.0,h
+S2425-G0069,3,02:30,NOP,,CHI,,J. Giddey,CHI,Giddey S.FOUL (P1.T2) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,3,02:30,NOP,,CHI,,C. McCollum,NOP,SUB: Murray FOR McCollum,Substitution,,0,0,0,0,,,h
+S2425-G0069,3,02:30,NOP,,CHI,,N. Vučević,CHI,SUB: Smith FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,02:30,NOP,88.0,CHI,77.0,J. Green,NOP,Green Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0069,3,02:17,NOP,,CHI,,C. White,CHI,MISS White 23' Jump Shot,Missed Shot,Jump Shot,75,215,23,1,2.0,0.0,v
+S2425-G0069,3,02:14,NOP,,CHI,,D. Murray,NOP,Murray REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,02:11,NOP,,CHI,,J. Hawkins,NOP,MISS Hawkins 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,145,223,27,1,3.0,0.0,h
+S2425-G0069,3,02:07,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,02:03,NOP,88.0,CHI,79.0,C. White,CHI,White 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,17,-2,2,1,2.0,2.0,v
+S2425-G0069,3,01:50,NOP,90.0,CHI,79.0,Y. Missi,NOP,Missi 1' Alley Oop Dunk (10 PTS) (Murray 7 AST),Made Shot,Alley Oop Dunk Shot,5,7,1,1,2.0,2.0,h
+S2425-G0069,3,01:38,NOP,,CHI,,J. Smith,CHI,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-140,204,25,1,3.0,0.0,v
+S2425-G0069,3,01:35,NOP,,CHI,,Y. Missi,NOP,Missi REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,01:26,NOP,,CHI,,D. Murray,NOP,MISS Murray 4' Floating Jump Shot,Missed Shot,Floating Jump shot,5,36,4,1,2.0,0.0,h
+S2425-G0069,3,01:26,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,01:22,NOP,,CHI,,J. Hawkins,NOP,Hawkins S.FOUL (P1.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,3,01:22,NOP,90.0,CHI,80.0,C. White,CHI,White Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,01:22,NOP,,CHI,,A. Dosunmu,CHI,SUB: LaVine FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,01:22,NOP,90.0,CHI,81.0,C. White,CHI,White Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,00:57.600000,NOP,,CHI,,D. Murray,NOP,MISS Murray 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,80,80,11,1,2.0,0.0,h
+S2425-G0069,3,00:56.700000,NOP,,CHI,,Y. Missi,NOP,Missi REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,00:56.700000,NOP,,CHI,,Y. Missi,NOP,MISS Missi Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0069,3,00:56.700000,NOP,,CHI,,,,PELICANS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,00:54.600000,NOP,92.0,CHI,81.0,J. Green,NOP,Green 6' Layup (5 PTS) (Murray 8 AST),Made Shot,Layup Shot,-34,54,6,1,2.0,2.0,h
+S2425-G0069,3,00:54.600000,NOP,,CHI,,Z. LaVine,CHI,LaVine S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,3,00:54.600000,NOP,93.0,CHI,81.0,J. Green,NOP,Green Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0069,3,00:43.700000,NOP,93.0,CHI,83.0,C. White,CHI,White 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,17,-6,2,1,2.0,2.0,v
+S2425-G0069,3,00:35.400000,NOP,95.0,CHI,83.0,D. Murray,NOP,Murray 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,15,26,3,1,2.0,2.0,h
+S2425-G0069,3,00:19.200000,NOP,,CHI,,C. White,CHI,MISS White 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,82,8,1,2.0,0.0,v
+S2425-G0069,3,00:16.700000,NOP,,CHI,,Y. Missi,NOP,Missi REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,00:00,NOP,95.0,CHI,83.0,,,Instant Replay3rd Period (9:50 PM EST),Instant Replay,Support Ruling,0,0,0,0,,,
+S2425-G0069,3,00:00,NOP,95.0,CHI,83.0,,,End of 3rd Period (9:51 PM EST),period,end,0,0,0,0,,,
+S2425-G0069,4,12:00,NOP,95.0,CHI,83.0,,,Start of 4th Period (9:52 PM EST),period,start,0,0,0,0,,,
+S2425-G0069,4,11:42,NOP,,CHI,,B. Ingram,NOP,Ingram Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0069,4,11:42,NOP,,CHI,,J. Smith,CHI,Smith STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0069,4,11:39,NOP,,CHI,,C. White,CHI,White Bad Pass Turnover (P4.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,4,11:39,NOP,,CHI,,J. Alvarado,NOP,Alvarado STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,4,11:36,NOP,,CHI,,B. Ingram,NOP,Ingram Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0069,4,11:36,NOP,,CHI,,C. White,CHI,White STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0069,4,11:33,NOP,95.0,CHI,85.0,Z. LaVine,CHI,LaVine 1' Running Dunk (23 PTS) (Williams 3 AST),Made Shot,Running Dunk Shot,-4,5,1,1,2.0,2.0,v
+S2425-G0069,4,11:21,NOP,,CHI,,J. Alvarado,NOP,MISS Alvarado 25' 3PT Jump Shot,Missed Shot,Jump Shot,212,136,25,1,3.0,0.0,h
+S2425-G0069,4,11:19,NOP,,CHI,,C. White,CHI,White REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,11:16,NOP,,CHI,,B. Ingram,NOP,Ingram S.FOUL (P3.T1) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,4,11:16,NOP,95.0,CHI,86.0,J. Smith,CHI,Smith Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,11:16,NOP,95.0,CHI,87.0,J. Smith,CHI,Smith Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,11:02,NOP,,CHI,,J. Hawkins,NOP,MISS Hawkins 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,16,10,1,2.0,0.0,h
+S2425-G0069,4,10:58,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,10:49,NOP,95.0,CHI,90.0,J. Smith,CHI,Smith 24' 3PT Jump Shot (13 PTS) (White 4 AST),Made Shot,Jump Shot,235,57,24,1,3.0,3.0,v
+S2425-G0069,4,10:34,NOP,98.0,CHI,90.0,B. Ingram,NOP,Ingram 26' 3PT Jump Shot (22 PTS),Made Shot,Jump Shot,-27,262,26,1,3.0,3.0,h
+S2425-G0069,4,10:18,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 25' 3PT Jump Shot,Missed Shot,Jump Shot,233,103,25,1,3.0,0.0,v
+S2425-G0069,4,10:16,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,10:12,NOP,,CHI,,B. Ingram,NOP,Ingram Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0069,4,09:56,NOP,,CHI,,P. Williams,CHI,Williams Lost Ball Turnover (P2.T18),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0069,4,09:56,NOP,,CHI,,J. Green,NOP,Green STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0069,4,09:54,NOP,,CHI,,Z. LaVine,CHI,LaVine S.FOUL (P3.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,4,09:54,NOP,,CHI,,J. Green,NOP,MISS Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0069,4,09:54,NOP,,CHI,,,,PELICANS Rebound,Rebound,Normal Rebound,0,0,0,0,,,h
+S2425-G0069,4,09:54,NOP,,CHI,,C. White,CHI,SUB: Giddey FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,09:54,NOP,99.0,CHI,90.0,J. Green,NOP,Green Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,4,09:36,NOP,,CHI,,J. Giddey,CHI,MISS Giddey 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,5,2,1,2.0,0.0,v
+S2425-G0069,4,09:35,NOP,,CHI,,J. Smith,CHI,Smith REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,09:35,NOP,99.0,CHI,92.0,J. Smith,CHI,Smith Putback Dunk (15 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0069,4,09:21,NOP,,CHI,,Y. Missi,NOP,Missi Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0069,4,09:07,NOP,,CHI,,J. Smith,CHI,MISS Smith 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,3,2,1,2.0,0.0,v
+S2425-G0069,4,09:02,NOP,,CHI,,B. Ingram,NOP,Ingram REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,09:01,NOP,102.0,CHI,92.0,J. Hawkins,NOP,Hawkins 26' 3PT Running Jump Shot (11 PTS) (Ingram 2 AST),Made Shot,Running Jump Shot,-213,151,26,1,3.0,3.0,h
+S2425-G0069,4,08:42,NOP,,CHI,,J. Giddey,CHI,Giddey Out of Bounds - Bad Pass Turnover Turnover (P3.T19),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0069,4,08:21,NOP,,CHI,,J. Smith,CHI,Smith S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,4,08:21,NOP,103.0,CHI,92.0,B. Ingram,NOP,Ingram Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,4,08:21,NOP,,CHI,,J. Smith,CHI,SUB: Vučević FOR Smith,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,08:21,NOP,104.0,CHI,92.0,B. Ingram,NOP,Ingram Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,4,08:05,NOP,,CHI,,P. Williams,CHI,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-175,183,25,1,3.0,0.0,v
+S2425-G0069,4,08:03,NOP,,CHI,,,,PELICANS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,07:49,NOP,107.0,CHI,92.0,B. Ingram,NOP,Ingram 26' 3PT Jump Shot (27 PTS),Made Shot,Jump Shot,89,242,26,1,3.0,3.0,h
+S2425-G0069,4,07:33,NOP,107.0,CHI,94.0,J. Giddey,CHI,Giddey 4' Driving Floating Bank Jump Shot (11 PTS),Made Shot,Driving Floating Bank Jump Shot,-34,11,4,1,2.0,2.0,v
+S2425-G0069,4,07:33,NOP,,CHI,,J. Alvarado,NOP,Alvarado S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,4,07:33,NOP,,CHI,,A. Dosunmu,CHI,SUB: White FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,07:33,NOP,,CHI,,J. Giddey,CHI,MISS Giddey Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0069,4,07:31,NOP,,CHI,,B. Ingram,NOP,Ingram REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,07:11,NOP,,CHI,,B. Ingram,NOP,MISS Ingram 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-119,176,21,1,2.0,0.0,h
+S2425-G0069,4,07:07,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,07:02,NOP,,CHI,,Z. LaVine,CHI,LaVine Bad Pass Turnover (P7.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,4,07:02,NOP,,CHI,,J. Green,NOP,Green STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0069,4,06:58,NOP,109.0,CHI,94.0,J. Green,NOP,Green 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,-2,7,1,1,2.0,2.0,h
+S2425-G0069,4,06:58,NOP,,CHI,,,,Bulls Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0069,4,06:58,NOP,,CHI,,P. Williams,CHI,SUB: Dosunmu FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,06:45,NOP,,CHI,,J. Alvarado,NOP,Alvarado S.FOUL (P3.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,4,06:45,NOP,109.0,CHI,95.0,J. Giddey,CHI,Giddey Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,06:45,NOP,,CHI,,J. Giddey,CHI,MISS Giddey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0069,4,06:43,NOP,,CHI,,J. Green,NOP,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,06:27,NOP,,CHI,,N. Vučević,CHI,Vučević S.FOUL (P3.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,4,06:27,NOP,110.0,CHI,95.0,J. Hawkins,NOP,Hawkins Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,4,06:27,NOP,111.0,CHI,95.0,J. Hawkins,NOP,Hawkins Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,4,06:11,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 3PT Jump Shot,Missed Shot,Jump Shot,232,21,0,1,3.0,0.0,v
+S2425-G0069,4,06:08,NOP,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,06:05,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 4' Driving Layup,Missed Shot,Driving Layup Shot,-6,37,4,1,2.0,0.0,v
+S2425-G0069,4,06:05,NOP,,CHI,,Y. Missi,NOP,Missi BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0069,4,06:05,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,06:00,NOP,,CHI,,J. Hawkins,NOP,MISS Hawkins 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-173,185,25,1,3.0,0.0,h
+S2425-G0069,4,05:55,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,05:55,NOP,,CHI,,Y. Missi,NOP,Missi S.FOUL (P2.T4) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,4,05:55,NOP,111.0,CHI,96.0,Z. LaVine,CHI,LaVine Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,05:55,NOP,,CHI,,B. Ingram,NOP,SUB: McCollum FOR Ingram,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,05:55,NOP,,CHI,,J. Alvarado,NOP,SUB: Murray FOR Alvarado,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,05:55,NOP,,CHI,,J. Hawkins,NOP,SUB: Jones FOR Hawkins,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,05:55,NOP,111.0,CHI,97.0,Z. LaVine,CHI,LaVine Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,05:33,NOP,113.0,CHI,97.0,D. Murray,NOP,Murray 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,72,163,18,1,2.0,2.0,h
+S2425-G0069,4,05:10,NOP,113.0,CHI,99.0,A. Dosunmu,CHI,Dosunmu 2' Driving Finger Roll Layup (8 PTS) (White 5 AST),Made Shot,Driving Finger Roll Layup Shot,16,-8,2,1,2.0,2.0,v
+S2425-G0069,4,04:55,NOP,115.0,CHI,99.0,Y. Missi,NOP,Missi 1' Cutting Layup Shot (12 PTS) (Murray 9 AST),Made Shot,Cutting Layup Shot,11,10,1,1,2.0,2.0,h
+S2425-G0069,4,04:40,NOP,115.0,CHI,101.0,J. Giddey,CHI,Giddey 2' Driving Floating Bank Jump Shot (14 PTS) (White 6 AST),Made Shot,Driving Floating Bank Jump Shot,-17,6,2,1,2.0,2.0,v
+S2425-G0069,4,04:26,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,170,201,26,1,3.0,0.0,h
+S2425-G0069,4,04:24,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,04:20,NOP,115.0,CHI,103.0,Z. LaVine,CHI,LaVine 1' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,4,6,1,1,2.0,2.0,v
+S2425-G0069,4,04:20,NOP,,CHI,,H. Jones,NOP,Jones S.FOUL (P3.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,4,04:20,NOP,,CHI,,Y. Missi,NOP,SUB: Theis FOR Missi,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,04:20,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0069,4,04:20,NOP,,CHI,,J. Green,NOP,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,04:08,NOP,,CHI,,D. Theis,NOP,MISS Theis 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,37,4,1,2.0,0.0,h
+S2425-G0069,4,04:08,NOP,,CHI,,A. Dosunmu,CHI,Dosunmu REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,03:57,NOP,115.0,CHI,105.0,N. Vučević,CHI,Vučević 2' Hook Shot (18 PTS) (LaVine 3 AST),Made Shot,Hook Shot,11,22,2,1,2.0,2.0,v
+S2425-G0069,4,03:57,NOP,,CHI,,,,PELICANS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,0,0,,,h
+S2425-G0069,4,03:57,NOP,,CHI,,J. Green,NOP,SUB: Ingram FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,03:38,NOP,117.0,CHI,105.0,B. Ingram,NOP,Ingram 2' Dunk (29 PTS) (Jones 2 AST),Made Shot,Dunk Shot,6,15,2,1,2.0,2.0,h
+S2425-G0069,4,03:22,NOP,117.0,CHI,107.0,N. Vučević,CHI,Vučević 3' Hook Shot (20 PTS) (Dosunmu 3 AST),Made Shot,Hook Shot,-1,27,3,1,2.0,2.0,v
+S2425-G0069,4,03:03,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 7' Layup,Missed Shot,Layup Shot,-34,65,7,1,2.0,0.0,h
+S2425-G0069,4,03:03,NOP,,CHI,,C. White,CHI,White BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0069,4,03:03,NOP,,CHI,,,,PELICANS Rebound,Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,02:59,NOP,119.0,CHI,107.0,B. Ingram,NOP,Ingram 8' Layup (31 PTS) (Murray 10 AST),Made Shot,Layup Shot,-47,67,8,1,2.0,2.0,h
+S2425-G0069,4,02:41,NOP,,CHI,,C. White,CHI,MISS White 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-27,-1,3,1,2.0,0.0,v
+S2425-G0069,4,02:41,NOP,,CHI,,D. Theis,NOP,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0069,4,02:37,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,02:36,NOP,,CHI,,N. Vučević,CHI,MISS Vučević 4' Putback Layup,Missed Shot,Putback Layup Shot,-18,32,4,1,2.0,0.0,v
+S2425-G0069,4,02:36,NOP,,CHI,,D. Theis,NOP,Theis BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0069,4,02:25,NOP,,CHI,,D. Murray,NOP,Murray REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,02:21,NOP,,CHI,,Z. LaVine,CHI,LaVine S.FOUL (P4.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,4,02:21,NOP,,CHI,,D. Murray,NOP,MISS Murray Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2425-G0069,4,02:21,NOP,,CHI,,,,PELICANS Rebound,Rebound,Normal Rebound,0,0,0,0,,,h
+S2425-G0069,4,02:21,NOP,120.0,CHI,107.0,D. Murray,NOP,Murray Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0069,4,02:21,NOP,121.0,CHI,107.0,D. Murray,NOP,Murray Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0069,4,02:09,NOP,,CHI,,A. Dosunmu,CHI,MISS Dosunmu 25' 3PT Jump Shot,Missed Shot,Jump Shot,-188,163,25,1,3.0,0.0,v
+S2425-G0069,4,02:09,NOP,,CHI,,C. McCollum,NOP,McCollum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0069,4,02:08,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,02:08,NOP,,CHI,,D. Theis,NOP,Theis P.FOUL (P2.PN) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2425-G0069,4,02:08,NOP,121.0,CHI,108.0,N. Vučević,CHI,Vučević Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,02:08,NOP,,CHI,,N. Vučević,CHI,MISS Vučević Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0069,4,02:05,NOP,,CHI,,D. Murray,NOP,Murray REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,01:48,NOP,123.0,CHI,108.0,B. Ingram,NOP,Ingram 13' Turnaround Fadeaway (33 PTS),Made Shot,Turnaround Fadeaway shot,131,0,13,1,2.0,2.0,h
+S2425-G0069,4,01:46,NOP,,CHI,,,,Bulls Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,0,0,,,v
+S2425-G0069,4,01:46,NOP,,CHI,,C. White,CHI,SUB: Terry FOR White,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,01:46,NOP,,CHI,,J. Giddey,CHI,SUB: Horton-Tucker FOR Giddey,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,01:46,NOP,,CHI,,Z. LaVine,CHI,SUB: Smith FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,01:46,NOP,,CHI,,N. Vučević,CHI,SUB: Buzelis FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,01:46,NOP,,CHI,,A. Dosunmu,CHI,SUB: Duarte FOR Dosunmu,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,01:31,NOP,,CHI,,M. Buzelis,CHI,MISS Buzelis 25' 3PT Jump Shot,Missed Shot,Jump Shot,102,226,25,1,3.0,0.0,v
+S2425-G0069,4,01:26,NOP,,CHI,,B. Ingram,NOP,Ingram REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,01:04,NOP,,CHI,,D. Murray,NOP,MISS Murray 13' Jump Shot,Missed Shot,Jump Shot,-130,26,13,1,2.0,0.0,h
+S2425-G0069,4,01:00,NOP,,CHI,,T. Horton-Tucker,CHI,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,01:00,NOP,,CHI,,B. Ingram,NOP,Ingram P.FOUL (P4.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2425-G0069,4,01:00,NOP,,CHI,,T. Horton-Tucker,CHI,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0069,4,01:00,NOP,,CHI,,,,Bulls Rebound,Rebound,Normal Rebound,0,0,0,0,,,v
+S2425-G0069,4,01:00,NOP,,CHI,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,01:00,NOP,,CHI,,C. McCollum,NOP,SUB: Reeves FOR McCollum,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,01:00,NOP,,CHI,,D. Murray,NOP,SUB: Hawkins FOR Murray,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,01:00,NOP,,CHI,,D. Theis,NOP,SUB: Robinson-Earl FOR Theis,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,01:00,NOP,,CHI,,B. Ingram,NOP,SUB: Matković FOR Ingram,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,01:00,NOP,,CHI,,T. Horton-Tucker,CHI,MISS Horton-Tucker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0069,4,00:57.600000,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,00:49.600000,NOP,,CHI,,A. Reeves,NOP,MISS Reeves 4' Driving Layup,Missed Shot,Driving Layup Shot,28,26,4,1,2.0,0.0,h
+S2425-G0069,4,00:45.900000,NOP,,CHI,,T. Horton-Tucker,CHI,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,00:45.200000,NOP,,CHI,,T. Horton-Tucker,CHI,Horton-Tucker Bad Pass Turnover (P1.T21),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,4,00:45.200000,NOP,,CHI,,J. Robinson-Earl,NOP,Robinson-Earl STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,4,00:37.200000,NOP,,CHI,,A. Reeves,NOP,MISS Reeves 26' 3PT Jump Shot,Missed Shot,Jump Shot,218,148,26,1,3.0,0.0,h
+S2425-G0069,4,00:35.900000,NOP,,CHI,,J. Smith,CHI,Smith REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,00:35.900000,NOP,,CHI,,T. Horton-Tucker,CHI,MISS Horton-Tucker 3' Running Layup,Missed Shot,Running Layup Shot,-25,9,3,1,2.0,0.0,v
+S2425-G0069,4,00:35.900000,NOP,,CHI,,K. Matkovic,NOP,Matković BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0069,4,00:34.900000,NOP,,CHI,,,,Bulls Rebound,Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,00:27.900000,NOP,123.0,CHI,111.0,C. Duarte,CHI,Duarte 25' 3PT Jump Shot (3 PTS) (Horton-Tucker 1 AST),Made Shot,Jump Shot,-123,221,25,1,3.0,3.0,v
+S2425-G0069,4,00:14.200000,NOP,,CHI,,A. Reeves,NOP,MISS Reeves 3PT Jump Shot,Missed Shot,Jump Shot,-227,25,0,1,3.0,0.0,h
+S2425-G0069,4,00:10.800000,NOP,,CHI,,K. Matkovic,NOP,Matković REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,00:03.100000,NOP,,CHI,,A. Reeves,NOP,Reeves Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0069,4,00:03.100000,NOP,,CHI,,D. Terry,CHI,Terry STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0069,4,00:00,NOP,123.0,CHI,111.0,,,End of 4th Period (10:28 PM EST),period,end,0,0,0,0,,,

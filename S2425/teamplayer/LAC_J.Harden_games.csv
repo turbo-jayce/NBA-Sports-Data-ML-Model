@@ -1,0 +1,193 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0127,1,11:02,LAC,,POR,,J. Harden,LAC,MISS Harden 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-161,210,26,1,3.0,0.0,h
+S2425-G0127,1,10:40,LAC,,POR,,J. Harden,LAC,Harden P.FOUL (P1.T1) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0127,1,10:09,LAC,,POR,,J. Harden,LAC,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,1,10:01,LAC,,POR,,J. Harden,LAC,MISS Harden 28' 3PT Jump Shot,Missed Shot,Jump Shot,-53,280,28,1,3.0,0.0,h
+S2425-G0127,1,08:42,LAC,,POR,,J. Harden,LAC,MISS Harden 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,142,14,1,2.0,0.0,h
+S2425-G0127,1,07:59,LAC,,POR,,J. Harden,LAC,MISS Harden 4' Driving Layup,Missed Shot,Driving Layup Shot,4,39,4,1,2.0,0.0,h
+S2425-G0127,1,05:34,LAC,,POR,,J. Harden,LAC,Harden OFF.Foul (P2) (E.Dalen),Foul,Offensive,0,0,0,0,,,h
+S2425-G0127,1,05:34,LAC,,POR,,J. Harden,LAC,Harden Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0127,1,05:13,LAC,,POR,,J. Harden,LAC,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,1,05:08,LAC,15.0,POR,8.0,J. Harden,LAC,Harden 27' 3PT Jump Shot (3 PTS) (Powell 1 AST),Made Shot,Jump Shot,-71,257,27,1,3.0,3.0,h
+S2425-G0127,1,04:35,LAC,18.0,POR,8.0,J. Harden,LAC,Harden 28' 3PT Running Pull-Up Jump Shot (6 PTS) (Jones Jr. 1 AST),Made Shot,Running Pull-Up Jump Shot,-124,246,28,1,3.0,3.0,h
+S2425-G0127,1,04:09,LAC,,POR,,J. Harden,LAC,SUB: Porter Jr. FOR Harden,Substitution,,0,0,0,0,,,h
+S2425-G0127,2,06:46,LAC,,POR,,J. Harden,LAC,MISS Harden 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-141,168,22,1,2.0,0.0,h
+S2425-G0127,2,06:09,LAC,,POR,,J. Harden,LAC,MISS Harden 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-119,254,28,1,3.0,0.0,h
+S2425-G0127,2,05:06,LAC,,POR,,J. Harden,LAC,Harden Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0127,2,03:05,LAC,,POR,,J. Harden,LAC,MISS Harden 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,115,242,27,1,3.0,0.0,h
+S2425-G0127,2,01:29,LAC,,POR,,J. Harden,LAC,SUB: Dunn FOR Harden,Substitution,,0,0,0,0,,,h
+S2425-G0127,3,09:59,LAC,58.0,POR,63.0,J. Harden,LAC,Harden 24' 3PT Pullup Jump Shot (9 PTS) (Zubac 1 AST),Made Shot,Pullup Jump shot,-64,232,24,1,3.0,3.0,h
+S2425-G0127,3,09:42,LAC,61.0,POR,63.0,J. Harden,LAC,Harden 25' 3PT Running Pull-Up Jump Shot (12 PTS),Made Shot,Running Pull-Up Jump Shot,151,201,25,1,3.0,3.0,h
+S2425-G0127,3,08:32,LAC,,POR,,J. Harden,LAC,MISS Harden 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,45,5,1,2.0,0.0,h
+S2425-G0127,3,07:36,LAC,,POR,,J. Harden,LAC,Harden REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,07:31,LAC,67.0,POR,70.0,J. Harden,LAC,Harden 2' Running Layup (14 PTS),Made Shot,Running Layup Shot,-17,9,2,1,2.0,2.0,h
+S2425-G0127,3,07:07,LAC,,POR,,J. Harden,LAC,Harden STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0127,3,05:17,LAC,,POR,,J. Harden,LAC,Harden STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0127,3,03:46,LAC,,POR,,J. Harden,LAC,MISS Harden 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,143,215,26,1,3.0,0.0,h
+S2425-G0127,3,03:28,LAC,,POR,,J. Harden,LAC,MISS Harden 3' Driving Layup,Missed Shot,Driving Layup Shot,-17,22,3,1,2.0,0.0,h
+S2425-G0127,3,02:56,LAC,,POR,,J. Harden,LAC,Harden REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,02:39,LAC,,POR,,J. Harden,LAC,Harden REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,02:14,LAC,,POR,,J. Harden,LAC,SUB: Coffey FOR Harden,Substitution,,0,0,0,0,,,h
+S2425-G0127,4,07:58,LAC,,POR,,J. Harden,LAC,MISS Harden 27' 3PT Jump Shot,Missed Shot,Jump Shot,116,243,27,1,3.0,0.0,h
+S2425-G0127,4,06:24,LAC,,POR,,J. Harden,LAC,Harden Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0127,4,04:40,LAC,,POR,,J. Harden,LAC,MISS Harden 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,101,12,1,2.0,0.0,h
+S2425-G0127,4,04:12,LAC,,POR,,J. Harden,LAC,Harden STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0127,4,04:05,LAC,99.0,POR,97.0,J. Harden,LAC,Harden Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0127,4,04:05,LAC,,POR,,J. Harden,LAC,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0127,4,03:35,LAC,102.0,POR,99.0,J. Harden,LAC,Harden 27' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,132,234,27,1,3.0,3.0,h
+S2425-G0127,4,02:57,LAC,103.0,POR,102.0,J. Harden,LAC,Harden Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0127,4,02:57,LAC,,POR,,J. Harden,LAC,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0127,4,02:17,LAC,,POR,,J. Harden,LAC,Harden Lost Ball Turnover (P4.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0127,4,00:01.100000,LAC,,POR,,J. Harden,LAC,Harden Bad Pass Turnover (P5.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0087,1,11:37,DEN,,LAC,,J. Harden,LAC,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,11:16,DEN,,LAC,,J. Harden,LAC,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,10:28,DEN,,LAC,,J. Harden,LAC,Harden Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0087,1,09:35,DEN,,LAC,,J. Harden,LAC,Harden S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0087,1,09:29,DEN,,LAC,,J. Harden,LAC,Harden REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,04:49,DEN,,LAC,,J. Harden,LAC,Harden REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,02:53,DEN,,LAC,,J. Harden,LAC,Harden Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0087,1,01:28,DEN,17.0,LAC,22.0,J. Harden,LAC,Harden 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-32,23,4,1,2.0,2.0,v
+S2425-G0087,1,01:15,DEN,,LAC,,J. Harden,LAC,Harden REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,00:42.800000,DEN,17.0,LAC,25.0,J. Harden,LAC,Harden 30' 3PT Jump Shot (5 PTS) (Coffey 1 AST),Made Shot,Jump Shot,-5,299,30,1,3.0,3.0,v
+S2425-G0087,1,00:12.100000,DEN,19.0,LAC,26.0,J. Harden,LAC,Harden Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,1,00:12.100000,DEN,19.0,LAC,27.0,J. Harden,LAC,Harden Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,2,06:21,DEN,,LAC,,J. Harden,LAC,MISS Harden 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,50,274,28,1,3.0,0.0,v
+S2425-G0087,2,05:26,DEN,,LAC,,J. Harden,LAC,MISS Harden 9' Jump Shot,Missed Shot,Jump Shot,-34,88,9,1,2.0,0.0,v
+S2425-G0087,2,05:16,DEN,,LAC,,J. Harden,LAC,Harden BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0087,2,05:07,DEN,,LAC,,J. Harden,LAC,Harden STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0087,2,03:03,DEN,33.0,LAC,44.0,J. Harden,LAC,Harden 8' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,-56,50,8,1,2.0,2.0,v
+S2425-G0087,2,02:51,DEN,,LAC,,J. Harden,LAC,Clippers T.Foul (Def. 3 Sec Harden ) (J.Van Duyne),Foul,Defense 3 Second,0,0,0,0,,,v
+S2425-G0087,2,02:42,DEN,,LAC,,J. Harden,LAC,Harden REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,2,02:36,DEN,,LAC,,J. Harden,LAC,MISS Harden 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-9,278,28,1,3.0,0.0,v
+S2425-G0087,2,02:03,DEN,,LAC,,J. Harden,LAC,Harden Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0087,2,01:33,DEN,,LAC,,J. Harden,LAC,Harden P.FOUL (P2.PN) (A.Abazi),Foul,Personal,0,0,0,0,,,v
+S2425-G0087,2,00:08.400000,DEN,41.0,LAC,47.0,J. Harden,LAC,Harden Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,2,00:08.400000,DEN,41.0,LAC,48.0,J. Harden,LAC,Harden Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,2,00:01,DEN,,LAC,,J. Harden,LAC,Harden Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0087,3,11:04,DEN,,LAC,,J. Harden,LAC,Harden P.FOUL (P3.T1) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0087,3,06:34,DEN,,LAC,,J. Harden,LAC,MISS Harden 27' 3PT Jump Shot,Missed Shot,Jump Shot,115,240,27,1,3.0,0.0,v
+S2425-G0087,3,04:57,DEN,61.0,LAC,64.0,J. Harden,LAC,Harden 7' Driving Floating Jump Shot (13 PTS) (Zubac 2 AST),Made Shot,Driving Floating Jump Shot,23,68,7,1,2.0,2.0,v
+S2425-G0087,3,03:16,DEN,,LAC,,J. Harden,LAC,MISS Harden 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-126,38,13,1,2.0,0.0,v
+S2425-G0087,3,02:42,DEN,,LAC,,J. Harden,LAC,Harden Lost Ball Turnover (P5.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0087,3,01:42,DEN,69.0,LAC,67.0,J. Harden,LAC,Harden Free Throw 1 of 3 (14 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0087,3,01:42,DEN,69.0,LAC,68.0,J. Harden,LAC,Harden Free Throw 2 of 3 (15 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0087,3,01:42,DEN,,LAC,,J. Harden,LAC,MISS Harden Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,0.0,v
+S2425-G0087,3,01:21,DEN,,LAC,,J. Harden,LAC,Harden Bad Pass Turnover (P6.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0087,3,00:03.500000,DEN,,LAC,,J. Harden,LAC,MISS Harden 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,15,285,29,1,3.0,0.0,v
+S2425-G0087,4,04:39,DEN,91.0,LAC,89.0,J. Harden,LAC,Harden Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,4,04:39,DEN,91.0,LAC,90.0,J. Harden,LAC,Harden Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,4,01:53,DEN,98.0,LAC,100.0,J. Harden,LAC,Harden 14' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,100,100,14,1,2.0,2.0,v
+S2425-G0087,4,01:18,DEN,,LAC,,J. Harden,LAC,Harden OFF.Foul (P4) (A.Abazi),Foul,Offensive,0,0,0,0,,,v
+S2425-G0087,4,01:18,DEN,,LAC,,J. Harden,LAC,Harden Offensive Foul Turnover (P7.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0087,4,00:30.500000,DEN,103.0,LAC,104.0,J. Harden,LAC,Harden Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,4,00:30.500000,DEN,103.0,LAC,105.0,J. Harden,LAC,Harden Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,4,00:19.700000,DEN,,LAC,,J. Harden,LAC,Harden S.FOUL (P5.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0087,4,00:14.300000,DEN,104.0,LAC,106.0,J. Harden,LAC,Harden Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,4,00:14.300000,DEN,104.0,LAC,107.0,J. Harden,LAC,Harden Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,1,09:46,GSW,,LAC,,J. Harden,LAC,MISS Harden 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-60,262,27,1,3.0,0.0,v
+S2425-G0101,1,07:47,GSW,,LAC,,J. Harden,LAC,Harden Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0101,1,07:36,GSW,,LAC,,J. Harden,LAC,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,1,07:28,GSW,,LAC,,J. Harden,LAC,Harden Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0101,1,06:08,GSW,22.0,LAC,21.0,J. Harden,LAC,Harden 25' 3PT Pullup Jump Shot (3 PTS) (Zubac 2 AST),Made Shot,Pullup Jump shot,176,183,25,1,3.0,3.0,v
+S2425-G0101,1,05:16,GSW,,LAC,,J. Harden,LAC,MISS Harden 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-211,148,26,1,3.0,0.0,v
+S2425-G0101,1,04:32,GSW,,LAC,,J. Harden,LAC,MISS Harden 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,163,181,24,1,3.0,0.0,v
+S2425-G0101,1,04:24,GSW,,LAC,,J. Harden,LAC,Harden Violation:Kicked Ball (B.Schwab),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0101,1,02:49,GSW,28.0,LAC,26.0,J. Harden,LAC,Harden Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0101,1,02:25,GSW,,LAC,,J. Harden,LAC,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,1,02:20,GSW,28.0,LAC,29.0,J. Harden,LAC,Harden Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,1,02:20,GSW,28.0,LAC,30.0,J. Harden,LAC,Harden Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,1,02:02,GSW,,LAC,,J. Harden,LAC,SUB: Batum FOR Harden,Substitution,,0,0,0,0,,,v
+S2425-G0101,2,06:25,GSW,,LAC,,J. Harden,LAC,MISS Harden 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,23,69,7,1,2.0,0.0,v
+S2425-G0101,2,05:27,GSW,42.0,LAC,44.0,J. Harden,LAC,Harden Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,2,05:27,GSW,42.0,LAC,45.0,J. Harden,LAC,Harden Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,2,04:57,GSW,44.0,LAC,47.0,J. Harden,LAC,Harden 4' Cutting Dunk Shot (10 PTS) (Zubac 3 AST),Made Shot,Cutting Dunk Shot,10,37,4,1,2.0,2.0,v
+S2425-G0101,2,04:15,GSW,,LAC,,J. Harden,LAC,MISS Harden 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,38,257,26,1,3.0,0.0,v
+S2425-G0101,2,04:01,GSW,,LAC,,J. Harden,LAC,MISS Harden 3' Running Layup,Missed Shot,Running Layup Shot,-22,18,3,1,2.0,0.0,v
+S2425-G0101,2,03:25,GSW,44.0,LAC,52.0,J. Harden,LAC,Harden Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,2,03:25,GSW,44.0,LAC,53.0,J. Harden,LAC,Harden Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,2,02:41,GSW,45.0,LAC,56.0,J. Harden,LAC,Harden 27' 3PT Jump Shot (15 PTS) (Dunn 1 AST),Made Shot,Jump Shot,-48,264,27,1,3.0,3.0,v
+S2425-G0101,2,02:28,GSW,,LAC,,J. Harden,LAC,Harden Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0101,2,01:20,GSW,,LAC,,J. Harden,LAC,MISS Harden 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,178,204,27,1,3.0,0.0,v
+S2425-G0101,2,00:07.100000,GSW,,LAC,,J. Harden,LAC,MISS Harden 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,169,204,26,1,3.0,0.0,v
+S2425-G0101,3,07:49,GSW,,LAC,,J. Harden,LAC,Harden REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,3,07:33,GSW,,LAC,,J. Harden,LAC,MISS Harden 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,95,10,1,2.0,0.0,v
+S2425-G0101,3,07:30,GSW,,LAC,,J. Harden,LAC,Harden REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,3,07:29,GSW,,LAC,,J. Harden,LAC,Harden Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0101,3,06:49,GSW,,LAC,,J. Harden,LAC,MISS Harden 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,230,0,0,1,3.0,0.0,v
+S2425-G0101,3,06:37,GSW,,LAC,,J. Harden,LAC,Harden Out of Bounds - Bad Pass Turnover Turnover (P4.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0101,3,06:04,GSW,67.0,LAC,71.0,J. Harden,LAC,Harden 6' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,2,61,6,1,2.0,2.0,v
+S2425-G0101,3,05:53,GSW,,LAC,,J. Harden,LAC,Harden REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,3,03:02,GSW,,LAC,,J. Harden,LAC,Harden REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,3,02:43,GSW,,LAC,,J. Harden,LAC,Harden S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0101,3,00:51.700000,GSW,,LAC,,J. Harden,LAC,MISS Harden 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-183,188,26,1,3.0,0.0,v
+S2425-G0101,3,00:37.100000,GSW,,LAC,,J. Harden,LAC,MISS Harden 29' 3PT Jump Shot,Missed Shot,Jump Shot,206,197,29,1,3.0,0.0,v
+S2425-G0101,4,06:14,GSW,90.0,LAC,100.0,J. Harden,LAC,Harden 15' Pullup Jump Shot (19 PTS) (Zubac 5 AST),Made Shot,Pullup Jump shot,-102,110,15,1,2.0,2.0,v
+S2425-G0101,4,06:02,GSW,,LAC,,J. Harden,LAC,Harden REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,4,05:00,GSW,,LAC,,J. Harden,LAC,Harden Lost Ball Turnover (P5.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0101,4,03:27,GSW,100.0,LAC,103.0,J. Harden,LAC,Harden 6' Layup (21 PTS),Made Shot,Layup Shot,15,53,6,1,2.0,2.0,v
+S2425-G0101,4,01:30,GSW,,LAC,,J. Harden,LAC,MISS Harden 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,185,209,28,1,3.0,0.0,v
+S2425-G0101,4,01:04,GSW,102.0,LAC,108.0,J. Harden,LAC,Harden Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,4,01:04,GSW,102.0,LAC,109.0,J. Harden,LAC,Harden Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,1,11:23,LAC,,PHX,,J. Harden,LAC,Harden P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2425-G0071,1,10:50,LAC,,PHX,,J. Harden,LAC,MISS Harden 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,169,184,25,1,3.0,0.0,h
+S2425-G0071,1,10:09,LAC,,PHX,,J. Harden,LAC,Harden Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0071,1,09:44,LAC,5.0,PHX,3.0,J. Harden,LAC,Harden 2' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-7,21,2,1,2.0,2.0,h
+S2425-G0071,1,09:14,LAC,,PHX,,J. Harden,LAC,MISS Harden 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,102,239,26,1,3.0,0.0,h
+S2425-G0071,1,06:16,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,05:50,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,03:45,LAC,,PHX,,J. Harden,LAC,MISS Harden 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,165,204,26,1,3.0,0.0,h
+S2425-G0071,1,03:27,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,03:20,LAC,,PHX,,J. Harden,LAC,SUB: Dunn FOR Harden,Substitution,,0,0,0,0,,,h
+S2425-G0071,2,08:51,LAC,,PHX,,J. Harden,LAC,MISS Harden 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,-15,2,1,2.0,0.0,h
+S2425-G0071,2,08:43,LAC,,PHX,,J. Harden,LAC,MISS Harden 1' Running Layup,Missed Shot,Running Layup Shot,5,8,1,1,2.0,0.0,h
+S2425-G0071,2,08:13,LAC,,PHX,,J. Harden,LAC,MISS Harden 3' Running Layup,Missed Shot,Running Layup Shot,22,26,3,1,2.0,0.0,h
+S2425-G0071,2,06:41,LAC,,PHX,,J. Harden,LAC,MISS Harden 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,172,215,28,1,3.0,0.0,h
+S2425-G0071,2,06:16,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,2,04:31,LAC,,PHX,,J. Harden,LAC,MISS Harden 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,55,246,25,1,3.0,0.0,h
+S2425-G0071,2,04:17,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,2,04:16,LAC,,PHX,,J. Harden,LAC,Harden Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0071,2,04:11,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,2,02:56,LAC,,PHX,,J. Harden,LAC,Harden Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0071,2,02:32,LAC,,PHX,,J. Harden,LAC,Harden Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0071,2,01:29,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,2,01:18,LAC,37.0,PHX,45.0,J. Harden,LAC,Harden 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,2,22,2,1,2.0,2.0,h
+S2425-G0071,2,01:18,LAC,,PHX,,J. Harden,LAC,MISS Harden Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0071,2,01:16,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,2,01:05,LAC,,PHX,,J. Harden,LAC,MISS Harden 2' Driving Layup,Missed Shot,Driving Layup Shot,-6,15,2,1,2.0,0.0,h
+S2425-G0071,2,01:03,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,2,00:52.800000,LAC,,PHX,,J. Harden,LAC,Harden P.FOUL (P2.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2425-G0071,2,00:52.800000,LAC,,PHX,,J. Harden,LAC,SUB: Porter Jr. FOR Harden,Substitution,,0,0,0,0,,,h
+S2425-G0071,3,10:49,LAC,,PHX,,J. Harden,LAC,Harden Lost Ball Turnover (P5.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0071,3,10:16,LAC,46.0,PHX,49.0,J. Harden,LAC,Harden 11' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,62,96,11,1,2.0,2.0,h
+S2425-G0071,3,09:00,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,3,05:42,LAC,56.0,PHX,55.0,J. Harden,LAC,Harden 7' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-34,63,7,1,2.0,2.0,h
+S2425-G0071,3,05:42,LAC,57.0,PHX,55.0,J. Harden,LAC,Harden Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0071,3,05:19,LAC,60.0,PHX,55.0,J. Harden,LAC,Harden 27' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,39,266,27,1,3.0,3.0,h
+S2425-G0071,3,04:29,LAC,,PHX,,J. Harden,LAC,Harden STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0071,3,04:25,LAC,,PHX,,J. Harden,LAC,MISS Harden 2' Running Layup,Missed Shot,Running Layup Shot,-4,23,2,1,2.0,0.0,h
+S2425-G0071,3,04:05,LAC,,PHX,,J. Harden,LAC,MISS Harden 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,91,9,1,2.0,0.0,h
+S2425-G0071,3,03:31,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,3,02:58,LAC,65.0,PHX,61.0,J. Harden,LAC,Harden Free Throw 1 of 3 (13 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0071,3,02:58,LAC,66.0,PHX,61.0,J. Harden,LAC,Harden Free Throw 2 of 3 (14 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0071,3,02:58,LAC,67.0,PHX,61.0,J. Harden,LAC,Harden Free Throw 3 of 3 (15 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0071,3,02:36,LAC,,PHX,,J. Harden,LAC,MISS Harden 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-102,104,15,1,2.0,0.0,h
+S2425-G0071,3,01:47,LAC,70.0,PHX,65.0,J. Harden,LAC,Harden 27' 3PT Jump Shot (18 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,141,232,27,1,3.0,3.0,h
+S2425-G0071,3,01:08,LAC,,PHX,,J. Harden,LAC,MISS Harden 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,162,209,26,1,3.0,0.0,h
+S2425-G0071,3,00:10.500000,LAC,74.0,PHX,72.0,J. Harden,LAC,Harden 13' Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,-62,113,13,1,2.0,2.0,h
+S2425-G0071,4,04:39,LAC,96.0,PHX,88.0,J. Harden,LAC,Harden 13' Pullup Jump Shot (22 PTS) (Zubac 3 AST),Made Shot,Pullup Jump shot,-37,128,13,1,2.0,2.0,h
+S2425-G0071,4,04:09,LAC,98.0,PHX,90.0,J. Harden,LAC,Harden 12' Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,-48,112,12,1,2.0,2.0,h
+S2425-G0071,4,03:56,LAC,,PHX,,J. Harden,LAC,Harden REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,4,03:22,LAC,,PHX,,J. Harden,LAC,MISS Harden 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-190,233,30,1,3.0,0.0,h
+S2425-G0071,4,02:58,LAC,,PHX,,J. Harden,LAC,MISS Harden 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,80,8,1,2.0,0.0,h
+S2425-G0071,4,02:37,LAC,,PHX,,J. Harden,LAC,Harden Bad Pass Turnover (P6.T19),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0071,4,01:53,LAC,,PHX,,J. Harden,LAC,MISS Harden 2' Driving Layup,Missed Shot,Driving Layup Shot,4,23,2,1,2.0,0.0,h
+S2425-G0071,4,01:39,LAC,,PHX,,J. Harden,LAC,Harden S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0071,4,01:14,LAC,101.0,PHX,101.0,J. Harden,LAC,Harden 18' Step Back Jump Shot (26 PTS),Made Shot,Step Back Jump shot,-6,184,18,1,2.0,2.0,h
+S2425-G0071,4,00:41.500000,LAC,102.0,PHX,101.0,J. Harden,LAC,Harden Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0071,4,00:41.500000,LAC,103.0,PHX,101.0,J. Harden,LAC,Harden Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0071,4,00:01,LAC,,PHX,,J. Harden,LAC,MISS Harden 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-31,42,5,1,2.0,0.0,h
+S2425-G0071,5,04:02,LAC,,PHX,,J. Harden,LAC,MISS Harden 3' Running Layup,Missed Shot,Running Layup Shot,-25,17,3,1,2.0,0.0,h
+S2425-G0071,5,02:56,LAC,,PHX,,J. Harden,LAC,Harden Lost Ball Turnover (P7.T21),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0071,5,00:04.800000,LAC,113.0,PHX,114.0,J. Harden,LAC,Harden Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0071,5,00:04.800000,LAC,,PHX,,J. Harden,LAC,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0071,5,00:01.600000,LAC,,PHX,,J. Harden,LAC,Harden Lost Ball Turnover (P8.T22),Turnover,Lost Ball,0,0,0,0,,,h

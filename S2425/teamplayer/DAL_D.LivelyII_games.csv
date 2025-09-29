@@ -1,0 +1,104 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,06:01,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,1,05:57,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,1,03:07,DAL,,SAS,,D. Lively II,DAL,Lively II Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0074,1,02:42,DAL,20.0,SAS,20.0,D. Lively II,DAL,Lively II 2' Cutting Dunk Shot (2 PTS) (Kleber 1 AST),Made Shot,Cutting Dunk Shot,18,16,2,1,2.0,2.0,h
+S2425-G0074,2,06:08,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,06:08,DAL,32.0,SAS,36.0,D. Lively II,DAL,Lively II Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0074,2,04:42,DAL,,SAS,,D. Lively II,DAL,Lively II Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0074,2,04:35,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,02:21,DAL,42.0,SAS,42.0,D. Lively II,DAL,Lively II 1' Running Dunk (6 PTS) (Hardy 1 AST),Made Shot,Running Dunk Shot,10,5,1,1,2.0,2.0,h
+S2425-G0074,2,02:21,DAL,,SAS,,D. Lively II,DAL,MISS Lively II Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0074,2,00:48.600000,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,00:38.600000,DAL,,SAS,,D. Lively II,DAL,MISS Lively II 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,6,37,4,1,2.0,0.0,h
+S2425-G0074,2,00:34.400000,DAL,,SAS,,D. Lively II,DAL,Lively II STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0074,3,05:11,DAL,70.0,SAS,62.0,D. Lively II,DAL,Lively II Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,3,05:11,DAL,71.0,SAS,62.0,D. Lively II,DAL,Lively II Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,3,04:06,DAL,,SAS,,D. Lively II,DAL,Lively II L.B.FOUL (P1.PN) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0074,3,03:03,DAL,78.0,SAS,73.0,D. Lively II,DAL,Lively II 1' Cutting Layup Shot (10 PTS) (Hardy 2 AST),Made Shot,Cutting Layup Shot,-10,7,1,1,2.0,2.0,h
+S2425-G0074,3,01:21,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,3,01:08,DAL,,SAS,,D. Lively II,DAL,MISS Lively II 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,59,6,1,2.0,0.0,h
+S2425-G0074,3,00:30.100000,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,3,00:10.700000,DAL,,SAS,,D. Lively II,DAL,Lively II L.B.FOUL (P2.PN) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0074,3,00:10.700000,DAL,,SAS,,D. Lively II,DAL,SUB: Gafford FOR Lively II,Substitution,,0,0,0,0,,,h
+S2425-G0074,4,09:07,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,4,06:37,DAL,108.0,SAS,87.0,D. Lively II,DAL,Lively II 1' Cutting Dunk Shot (12 PTS) (Washington 2 AST),Made Shot,Cutting Dunk Shot,0,6,1,1,2.0,2.0,h
+S2425-G0074,4,06:02,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,4,05:27,DAL,112.0,SAS,92.0,D. Lively II,DAL,Lively II Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,4,05:27,DAL,,SAS,,D. Lively II,DAL,MISS Lively II Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0074,4,05:19,DAL,,SAS,,D. Lively II,DAL,Lively II S.FOUL (P3.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0074,4,05:10,DAL,114.0,SAS,95.0,D. Lively II,DAL,Lively II 2' Alley Oop Dunk (15 PTS) (Marshall 3 AST),Made Shot,Alley Oop Dunk Shot,-15,11,2,1,2.0,2.0,h
+S2425-G0074,4,04:09,DAL,,SAS,,D. Lively II,DAL,Lively II S.FOUL (P4.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2425-G0074,4,04:07,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,4,01:45,DAL,,SAS,,D. Lively II,DAL,Lively II REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,4,01:42,DAL,,SAS,,D. Lively II,DAL,SUB: Grimes FOR Lively II,Substitution,,0,0,0,0,,,h
+S2425-G0110,1,05:08,DAL,15.0,UTA,12.0,D. Lively II,DAL,Lively II 1' Running Layup (2 PTS) (Dončić 2 AST),Made Shot,Running Layup Shot,-1,5,1,1,2.0,2.0,h
+S2425-G0110,1,02:45,DAL,21.0,UTA,14.0,D. Lively II,DAL,Lively II 1' Running Dunk (4 PTS) (Grimes 1 AST),Made Shot,Running Dunk Shot,10,6,1,1,2.0,2.0,h
+S2425-G0110,2,06:02,DAL,39.0,UTA,31.0,D. Lively II,DAL,Lively II 1' Running Alley Oop Dunk Shot (6 PTS) (Washington 2 AST),Made Shot,Running Alley Oop Dunk Shot,6,3,1,1,2.0,2.0,h
+S2425-G0110,2,05:22,DAL,,UTA,,D. Lively II,DAL,Lively II BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0110,2,03:23,DAL,41.0,UTA,33.0,D. Lively II,DAL,Lively II 11' Floating Jump Shot (8 PTS) (Irving 3 AST),Made Shot,Floating Jump shot,37,103,11,1,2.0,2.0,h
+S2425-G0110,2,03:07,DAL,,UTA,,D. Lively II,DAL,Lively II BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0110,2,00:51.200000,DAL,,UTA,,D. Lively II,DAL,MISS Lively II 6' Hook Shot,Missed Shot,Hook Shot,17,57,6,1,2.0,0.0,h
+S2425-G0110,2,00:31.300000,DAL,,UTA,,D. Lively II,DAL,Lively II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,2,00:07,DAL,,UTA,,D. Lively II,DAL,Lively II S.FOUL (P1.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0110,3,02:54,DAL,72.0,UTA,67.0,D. Lively II,DAL,Lively II 1' Running Dunk (10 PTS) (Marshall 2 AST),Made Shot,Running Dunk Shot,9,10,1,1,2.0,2.0,h
+S2425-G0110,3,01:49,DAL,,UTA,,D. Lively II,DAL,Lively II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,01:42,DAL,,UTA,,D. Lively II,DAL,Lively II REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,01:02,DAL,,UTA,,D. Lively II,DAL,Lively II S.FOUL (P2.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0110,3,00:48.200000,DAL,79.0,UTA,69.0,D. Lively II,DAL,Lively II 1' Reverse Dunk (12 PTS) (Dinwiddie 1 AST),Made Shot,Reverse Dunk Shot,-5,5,1,1,2.0,2.0,h
+S2425-G0110,4,09:36,DAL,,UTA,,D. Lively II,DAL,Lively II S.FOUL (P3.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2425-G0110,4,08:09,DAL,,UTA,,D. Lively II,DAL,Lively II BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0110,4,07:43,DAL,94.0,UTA,83.0,D. Lively II,DAL,Lively II 6' Hook Shot (14 PTS) (Dončić 6 AST),Made Shot,Hook Shot,-48,36,6,1,2.0,2.0,h
+S2425-G0110,4,06:47,DAL,,UTA,,D. Lively II,DAL,MISS Lively II 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-33,55,6,1,2.0,0.0,h
+S2425-G0110,4,05:55,DAL,,UTA,,D. Lively II,DAL,MISS Lively II 4' Hook Shot,Missed Shot,Hook Shot,36,4,4,1,2.0,0.0,h
+S2425-G0110,4,05:53,DAL,,UTA,,D. Lively II,DAL,Lively II REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,4,05:53,DAL,,UTA,,D. Lively II,DAL,SUB: Gafford FOR Lively II,Substitution,,0,0,0,0,,,h
+S2425-G0110,4,01:08,DAL,,UTA,,D. Lively II,DAL,Lively II STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0110,4,01:06,DAL,,UTA,,D. Lively II,DAL,SUB: Edwards FOR Lively II,Substitution,,0,0,0,0,,,h
+S2425-G0114,1,02:46,MIN,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,09:13,MIN,,DAL,,D. Lively II,DAL,Lively II Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0114,2,08:07,MIN,,DAL,,D. Lively II,DAL,Lively II STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0114,2,07:44,MIN,,DAL,,D. Lively II,DAL,Lively II STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0114,2,06:56,MIN,,DAL,,D. Lively II,DAL,Lively II P.FOUL (P1.T1) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2425-G0114,2,05:16,MIN,,DAL,,D. Lively II,DAL,Lively II BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0114,2,04:47,MIN,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,04:38,MIN,47.0,DAL,48.0,D. Lively II,DAL,Lively II 2' Alley Oop Dunk (2 PTS) (Dončić 5 AST),Made Shot,Alley Oop Dunk Shot,-12,18,2,1,2.0,2.0,v
+S2425-G0114,2,04:06,MIN,,DAL,,D. Lively II,DAL,MISS Lively II 4' Hook Shot,Missed Shot,Hook Shot,-2,44,4,1,2.0,0.0,v
+S2425-G0114,2,04:04,MIN,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,04:03,MIN,49.0,DAL,50.0,D. Lively II,DAL,Lively II 6' Hook Shot (4 PTS),Made Shot,Hook Shot,36,54,6,1,2.0,2.0,v
+S2425-G0114,2,03:44,MIN,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,03:31,MIN,,DAL,,D. Lively II,DAL,SUB: Gafford FOR Lively II,Substitution,,0,0,0,0,,,v
+S2425-G0114,3,05:08,MIN,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,3,04:39,MIN,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,3,03:37,MIN,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,3,03:19,MIN,,DAL,,D. Lively II,DAL,Lively II S.FOUL (P2.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,3,00:43.600000,MIN,,DAL,,D. Lively II,DAL,Lively II STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0114,4,07:34,MIN,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,4,03:04,MIN,,DAL,,D. Lively II,DAL,Lively II S.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,4,02:41,MIN,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,4,00:59,MIN,,DAL,,D. Lively II,DAL,Lively II S.FOUL (P4.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,4,00:38.200000,MIN,,DAL,,D. Lively II,DAL,MISS Lively II Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0114,4,00:38.200000,MIN,111.0,DAL,118.0,D. Lively II,DAL,Lively II Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0114,4,00:19.600000,MIN,,DAL,,D. Lively II,DAL,SUB: Marshall FOR Lively II,Substitution,,0,0,0,0,,,v
+S2425-G0095,1,05:41,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,05:11,PHX,,DAL,,D. Lively II,DAL,Lively II OFF.Foul (P1) (S.Mehta),Foul,Offensive,0,0,0,0,,,v
+S2425-G0095,1,05:11,PHX,,DAL,,D. Lively II,DAL,Lively II Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0095,1,04:06,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,03:07,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,02:46,PHX,19.0,DAL,19.0,D. Lively II,DAL,Lively II 4' Cutting Layup Shot (2 PTS) (Irving 1 AST),Made Shot,Cutting Layup Shot,17,35,4,1,2.0,2.0,v
+S2425-G0095,1,02:01,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,00:45,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,00:32.500000,PHX,27.0,DAL,24.0,D. Lively II,DAL,Lively II 1' Layup (4 PTS) (Irving 2 AST),Made Shot,Layup Shot,1,5,1,1,2.0,2.0,v
+S2425-G0095,1,00:07.800000,PHX,,DAL,,D. Lively II,DAL,Lively II S.FOUL (P2.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,1,00:07.800000,PHX,,DAL,,D. Lively II,DAL,SUB: Thompson FOR Lively II,Substitution,,0,0,0,0,,,v
+S2425-G0095,2,06:37,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,2,05:36,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,2,04:29,PHX,,DAL,,D. Lively II,DAL,Lively II L.B.FOUL (P3.PN) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0095,2,04:29,PHX,,DAL,,D. Lively II,DAL,SUB: Marshall FOR Lively II,Substitution,,0,0,0,0,,,v
+S2425-G0095,3,02:52,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,3,00:55,PHX,,DAL,,D. Lively II,DAL,MISS Lively II Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0095,3,00:55,PHX,87.0,DAL,78.0,D. Lively II,DAL,Lively II Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0095,3,00:31.100000,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,4,06:51,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,4,05:21,PHX,,DAL,,D. Lively II,DAL,Lively II REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,4,03:57,PHX,,DAL,,D. Lively II,DAL,SUB: Marshall FOR Lively II,Substitution,,0,0,0,0,,,v

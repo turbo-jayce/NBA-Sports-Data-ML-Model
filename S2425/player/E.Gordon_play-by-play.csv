@@ -1,0 +1,55 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,1,02:39,TOR,,PHI,,E. Gordon,PHI,MISS Gordon 1' Driving Layup,Missed Shot,Driving Layup Shot,-9,6,1,1,2.0,0.0,v
+S2425-G0078,1,01:13,TOR,,PHI,,E. Gordon,PHI,MISS Gordon 2' Driving Dunk,Missed Shot,Driving Dunk Shot,15,19,2,1,2.0,0.0,v
+S2425-G0078,1,00:42.500000,TOR,28.0,PHI,28.0,E. Gordon,PHI,Gordon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0078,1,00:42.500000,TOR,28.0,PHI,29.0,E. Gordon,PHI,Gordon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0078,1,00:28.200000,TOR,,PHI,,E. Gordon,PHI,SUB: K. Martin FOR Gordon,Substitution,,0,0,0,0,,,v
+S2425-G0078,3,06:04,TOR,72.0,PHI,65.0,E. Gordon,PHI,Gordon Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0078,3,05:23,TOR,74.0,PHI,66.0,E. Gordon,PHI,Gordon Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0078,3,05:23,TOR,,PHI,,E. Gordon,PHI,MISS Gordon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0078,3,04:14,TOR,76.0,PHI,69.0,E. Gordon,PHI,Gordon 28' 3PT Jump Shot (7 PTS) (Oubre Jr. 2 AST),Made Shot,Jump Shot,140,248,28,1,3.0,3.0,v
+S2425-G0078,3,00:27.700000,TOR,,PHI,,E. Gordon,PHI,MISS Gordon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0078,3,00:27.700000,TOR,83.0,PHI,77.0,E. Gordon,PHI,Gordon Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0078,4,11:39,TOR,,PHI,,E. Gordon,PHI,Gordon S.FOUL (P1.T1) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,v
+S2425-G0078,4,09:54,TOR,,PHI,,E. Gordon,PHI,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,4,09:50,TOR,,PHI,,E. Gordon,PHI,MISS Gordon 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,77,254,27,1,3.0,0.0,v
+S2425-G0078,4,09:37,TOR,,PHI,,E. Gordon,PHI,SUB: Maxey FOR Gordon,Substitution,,0,0,0,0,,,v
+S2425-G0097,1,04:57,IND,14.0,PHI,13.0,E. Gordon,PHI,Gordon 25' 3PT Jump Shot (3 PTS) (Maxey 2 AST),Made Shot,Jump Shot,-38,248,25,1,3.0,3.0,v
+S2425-G0097,1,04:12,IND,14.0,PHI,18.0,E. Gordon,PHI,Gordon 2' Cutting Layup Shot (5 PTS) (K. Martin 1 AST),Made Shot,Cutting Layup Shot,-16,4,2,1,2.0,2.0,v
+S2425-G0097,1,03:47,IND,,PHI,,E. Gordon,PHI,Gordon Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0097,1,03:28,IND,16.0,PHI,19.0,E. Gordon,PHI,Gordon Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0097,1,03:28,IND,16.0,PHI,20.0,E. Gordon,PHI,Gordon Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0097,1,02:31,IND,,PHI,,E. Gordon,PHI,MISS Gordon 29' 3PT Jump Shot,Missed Shot,Jump Shot,51,288,29,1,3.0,0.0,v
+S2425-G0097,1,01:12,IND,,PHI,,E. Gordon,PHI,MISS Gordon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-81,250,26,1,3.0,0.0,v
+S2425-G0097,1,01:06,IND,,PHI,,E. Gordon,PHI,SUB: Lowry FOR Gordon,Substitution,,0,0,0,0,,,v
+S2425-G0097,2,07:21,IND,,PHI,,E. Gordon,PHI,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,2,06:39,IND,37.0,PHI,39.0,E. Gordon,PHI,Gordon 5' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,33,32,5,1,2.0,2.0,v
+S2425-G0097,2,06:05,IND,37.0,PHI,42.0,E. Gordon,PHI,Gordon 31' 3PT Running Jump Shot (12 PTS) (Maxey 3 AST),Made Shot,Running Jump Shot,181,257,31,1,3.0,3.0,v
+S2425-G0097,2,04:59,IND,,PHI,,E. Gordon,PHI,MISS Gordon 31' 3PT Jump Shot,Missed Shot,Jump Shot,157,262,31,1,3.0,0.0,v
+S2425-G0097,2,04:23,IND,,PHI,,E. Gordon,PHI,Gordon S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2425-G0097,2,04:23,IND,,PHI,,E. Gordon,PHI,SUB: C. Martin FOR Gordon,Substitution,,0,0,0,0,,,v
+S2425-G0097,3,01:35,IND,,PHI,,E. Gordon,PHI,SUB: Lowry FOR Gordon,Substitution,,0,0,0,0,,,v
+S2425-G0097,4,09:28,IND,,PHI,,E. Gordon,PHI,MISS Gordon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0097,4,09:28,IND,85.0,PHI,85.0,E. Gordon,PHI,Gordon Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0097,4,08:07,IND,,PHI,,E. Gordon,PHI,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,219,143,26,1,3.0,0.0,v
+S2425-G0097,4,02:50,IND,,PHI,,E. Gordon,PHI,MISS Gordon 28' 3PT Jump Shot,Missed Shot,Jump Shot,175,214,28,1,3.0,0.0,v
+S2425-G0097,4,00:58.200000,IND,,PHI,,E. Gordon,PHI,Gordon BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0097,5,03:31,IND,107.0,PHI,110.0,E. Gordon,PHI,Gordon 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,9,27,3,1,2.0,2.0,v
+S2425-G0120,1,01:21,PHI,,DET,,E. Gordon,PHI,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,152,216,26,1,3.0,0.0,h
+S2425-G0120,2,08:25,PHI,,DET,,E. Gordon,PHI,Gordon P.FOUL (P1.T1) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2425-G0120,2,06:49,PHI,,DET,,E. Gordon,PHI,SUB: K. Martin FOR Gordon,Substitution,,0,0,0,0,,,h
+S2425-G0120,3,01:20,PHI,66.0,DET,83.0,E. Gordon,PHI,Gordon 2' Driving Layup (2 PTS) (McCain 2 AST),Made Shot,Driving Layup Shot,-22,7,2,1,2.0,2.0,h
+S2425-G0120,3,01:20,PHI,67.0,DET,83.0,E. Gordon,PHI,Gordon Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0120,3,00:51.400000,PHI,,DET,,E. Gordon,PHI,MISS Gordon 28' 3PT Jump Shot,Missed Shot,Jump Shot,-2,284,28,1,3.0,0.0,h
+S2425-G0066,1,10:07,PHI,,MIL,,E. Gordon,PHI,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,70,251,26,1,3.0,0.0,h
+S2425-G0066,1,07:20,PHI,,MIL,,E. Gordon,PHI,MISS Gordon 2' Driving Layup,Missed Shot,Driving Layup Shot,18,-10,2,1,2.0,0.0,h
+S2425-G0066,1,03:46,PHI,,MIL,,E. Gordon,PHI,SUB: Oubre Jr. FOR Gordon,Substitution,,0,0,0,0,,,h
+S2425-G0066,2,07:45,PHI,,MIL,,E. Gordon,PHI,Gordon P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2425-G0066,2,07:20,PHI,,MIL,,E. Gordon,PHI,MISS Gordon 29' 3PT Jump Shot,Missed Shot,Jump Shot,145,252,29,1,3.0,0.0,h
+S2425-G0066,2,07:04,PHI,,MIL,,E. Gordon,PHI,MISS Gordon 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,22,0,2,1,2.0,0.0,h
+S2425-G0066,2,06:25,PHI,33.0,MIL,33.0,E. Gordon,PHI,Gordon 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,10,-6,1,1,2.0,2.0,h
+S2425-G0066,2,03:53,PHI,,MIL,,E. Gordon,PHI,SUB: Yabusele FOR Gordon,Substitution,,0,0,0,0,,,h
+S2425-G0066,2,00:52.400000,PHI,,MIL,,E. Gordon,PHI,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,3,07:36,PHI,,MIL,,E. Gordon,PHI,SUB: K. Martin FOR Gordon,Substitution,,0,0,0,0,,,h
+S2425-G0066,4,10:24,PHI,,MIL,,E. Gordon,PHI,MISS Gordon 3' Driving Layup,Missed Shot,Driving Layup Shot,34,-8,3,1,2.0,0.0,h
+S2425-G0066,4,09:21,PHI,,MIL,,E. Gordon,PHI,SUB: Oubre Jr. FOR Gordon,Substitution,,0,0,0,0,,,h

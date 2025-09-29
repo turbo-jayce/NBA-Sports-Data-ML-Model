@@ -1,0 +1,121 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0079,1,12:00,ATL,,CHA,,C. Capela,ATL,Jump Ball Capela vs. Richards: Tip to Ball,Jump Ball,,0,0,0,0,,,h
+S2425-G0079,1,11:10,ATL,,CHA,,C. Capela,ATL,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,1,11:03,ATL,4.0,CHA,0.0,C. Capela,ATL,Capela Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,1,11:03,ATL,5.0,CHA,0.0,C. Capela,ATL,Capela Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,1,10:48,ATL,,CHA,,C. Capela,ATL,Capela REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,1,08:27,ATL,,CHA,,C. Capela,ATL,Capela REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,1,06:56,ATL,,CHA,,C. Capela,ATL,Capela STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0079,1,06:05,ATL,,CHA,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,h
+S2425-G0079,2,09:26,ATL,36.0,CHA,24.0,C. Capela,ATL,Capela 1' Alley Oop Dunk (4 PTS) (Johnson 2 AST),Made Shot,Alley Oop Dunk Shot,-1,13,1,1,2.0,2.0,h
+S2425-G0079,2,07:02,ATL,,CHA,,C. Capela,ATL,Capela OFF.Foul (P1) (B.Forte),Foul,Offensive,0,0,0,0,,,h
+S2425-G0079,2,07:02,ATL,,CHA,,C. Capela,ATL,Capela Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0079,2,06:14,ATL,,CHA,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,h
+S2425-G0079,3,10:58,ATL,,CHA,,C. Capela,ATL,Capela BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0079,3,10:26,ATL,,CHA,,C. Capela,ATL,Capela S.FOUL (P2.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0079,3,09:42,ATL,,CHA,,C. Capela,ATL,Capela S.FOUL (P3.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2425-G0079,3,09:14,ATL,,CHA,,C. Capela,ATL,Capela REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,3,08:28,ATL,,CHA,,C. Capela,ATL,Capela REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,3,08:28,ATL,,CHA,,C. Capela,ATL,Capela Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0079,3,07:58,ATL,,CHA,,C. Capela,ATL,Capela BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0079,3,07:52,ATL,,CHA,,C. Capela,ATL,Capela REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,3,06:58,ATL,75.0,CHA,67.0,C. Capela,ATL,Capela 2' Running Alley Oop Dunk Shot (6 PTS) (Daniels 3 AST),Made Shot,Running Alley Oop Dunk Shot,-9,20,2,1,2.0,2.0,h
+S2425-G0079,3,05:37,ATL,,CHA,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,h
+S2425-G0079,4,09:02,ATL,,CHA,,C. Capela,ATL,Capela REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,4,06:50,ATL,,CHA,,C. Capela,ATL,SUB: Daniels FOR Capela,Substitution,,0,0,0,0,,,h
+S2425-G0064,1,12:00,ATL,,BKN,,C. Capela,ATL,Jump Ball Capela vs. Simmons: Tip to Johnson,Jump Ball,,0,0,0,0,,,h
+S2425-G0064,1,11:26,ATL,,BKN,,C. Capela,ATL,Capela STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0064,1,10:48,ATL,8.0,BKN,2.0,C. Capela,ATL,Capela 1' Alley Oop Dunk (2 PTS) (Young 1 AST),Made Shot,Alley Oop Dunk Shot,11,8,1,1,2.0,2.0,h
+S2425-G0064,1,09:53,ATL,,BKN,,C. Capela,ATL,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,1,09:20,ATL,,BKN,,C. Capela,ATL,Capela REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,1,07:49,ATL,,BKN,,C. Capela,ATL,Capela Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0064,1,07:43,ATL,,BKN,,C. Capela,ATL,Capela REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,1,06:52,ATL,,BKN,,C. Capela,ATL,Capela REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,1,06:50,ATL,,BKN,,C. Capela,ATL,MISS Capela 4' Putback Layup,Missed Shot,Putback Layup Shot,-15,42,4,1,2.0,0.0,h
+S2425-G0064,1,05:48,ATL,,BKN,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,h
+S2425-G0064,2,04:25,ATL,44.0,BKN,43.0,C. Capela,ATL,Capela 1' Alley Oop Dunk (4 PTS) (Young 7 AST),Made Shot,Alley Oop Dunk Shot,4,10,1,1,2.0,2.0,h
+S2425-G0064,2,03:37,ATL,46.0,BKN,46.0,C. Capela,ATL,Capela 3' Alley Oop Layup (6 PTS) (Johnson 3 AST),Made Shot,Alley Oop Layup shot,-1,28,3,1,2.0,2.0,h
+S2425-G0064,2,02:29,ATL,,BKN,,C. Capela,ATL,Capela REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,2,00:50.300000,ATL,,BKN,,C. Capela,ATL,MISS Capela 1' Layup,Missed Shot,Layup Shot,6,-3,1,1,2.0,0.0,h
+S2425-G0064,3,11:03,ATL,,BKN,,C. Capela,ATL,Capela REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,3,09:42,ATL,,BKN,,C. Capela,ATL,Capela REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,3,06:18,ATL,,BKN,,C. Capela,ATL,Capela BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0064,3,06:05,ATL,,BKN,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,h
+S2425-G0064,4,08:03,ATL,,BKN,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,h
+S2425-G0121,1,10:55,WAS,,ATL,,C. Capela,ATL,Capela S.FOUL (P1.T1) (S.Jelks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0121,1,10:24,WAS,6.0,ATL,2.0,C. Capela,ATL,Capela 1' Dunk (2 PTS) (Risacher 1 AST),Made Shot,Dunk Shot,13,6,1,1,2.0,2.0,v
+S2425-G0121,1,06:56,WAS,16.0,ATL,11.0,C. Capela,ATL,Capela 3' Alley Oop Dunk (4 PTS) (Young 2 AST),Made Shot,Alley Oop Dunk Shot,-7,25,3,1,2.0,2.0,v
+S2425-G0121,1,06:10,WAS,,ATL,,C. Capela,ATL,MISS Capela 11' Driving Hook Shot,Missed Shot,Driving Hook Shot,76,78,11,1,2.0,0.0,v
+S2425-G0121,1,05:51,WAS,,ATL,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,v
+S2425-G0121,2,09:49,WAS,36.0,ATL,42.0,C. Capela,ATL,Capela 1' Dunk (6 PTS) (Roddy 1 AST),Made Shot,Dunk Shot,11,5,1,1,2.0,2.0,v
+S2425-G0121,2,08:37,WAS,,ATL,,C. Capela,ATL,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,06:55,WAS,,ATL,,C. Capela,ATL,Capela REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,06:29,WAS,38.0,ATL,48.0,C. Capela,ATL,Capela 1' Running Alley Oop Dunk Shot (8 PTS) (Johnson 4 AST),Made Shot,Running Alley Oop Dunk Shot,12,8,1,1,2.0,2.0,v
+S2425-G0121,2,06:29,WAS,,ATL,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,v
+S2425-G0121,3,09:51,WAS,,ATL,,C. Capela,ATL,Capela Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0121,3,09:35,WAS,,ATL,,C. Capela,ATL,Capela REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,3,09:27,WAS,,ATL,,C. Capela,ATL,MISS Capela 3' Layup,Missed Shot,Layup Shot,-29,8,3,1,2.0,0.0,v
+S2425-G0121,3,07:42,WAS,,ATL,,C. Capela,ATL,Capela REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,3,07:41,WAS,,ATL,,C. Capela,ATL,Capela Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0121,3,05:56,WAS,,ATL,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,v
+S2425-G0121,4,10:23,WAS,99.0,ATL,94.0,C. Capela,ATL,Capela 3' Hook Shot (10 PTS),Made Shot,Hook Shot,-1,28,3,1,2.0,2.0,v
+S2425-G0121,4,09:38,WAS,104.0,ATL,95.0,C. Capela,ATL,Capela Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,4,09:38,WAS,104.0,ATL,96.0,C. Capela,ATL,Capela Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,4,09:07,WAS,,ATL,,C. Capela,ATL,Capela L.B.FOUL (P2.T1) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0121,4,09:07,WAS,,ATL,,C. Capela,ATL,SUB: Mathews FOR Capela,Substitution,,0,0,0,0,,,v
+S2425-G0121,4,05:24,WAS,,ATL,,C. Capela,ATL,Capela REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,4,03:13,WAS,,ATL,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,09:56,OKC,,ATL,,C. Capela,ATL,Capela REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,09:56,OKC,,ATL,,C. Capela,ATL,MISS Capela 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,11,20,2,1,2.0,0.0,v
+S2425-G0100,1,08:44,OKC,,ATL,,C. Capela,ATL,Capela REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,08:44,OKC,,ATL,,C. Capela,ATL,MISS Capela 6' Hook Shot,Missed Shot,Hook Shot,-54,31,6,1,2.0,0.0,v
+S2425-G0100,1,08:32,OKC,,ATL,,C. Capela,ATL,Capela BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0100,1,08:16,OKC,,ATL,,C. Capela,ATL,Capela L.B.FOUL (P1.T1) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0100,1,07:04,OKC,,ATL,,C. Capela,ATL,Capela REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,05:34,OKC,,ATL,,C. Capela,ATL,Capela STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0100,1,05:30,OKC,,ATL,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,v
+S2425-G0100,2,11:27,OKC,,ATL,,C. Capela,ATL,MISS Capela 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-26,54,6,1,2.0,0.0,v
+S2425-G0100,2,10:28,OKC,,ATL,,C. Capela,ATL,Capela REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,2,06:52,OKC,,ATL,,C. Capela,ATL,MISS Capela 2' Layup,Missed Shot,Layup Shot,-11,15,2,1,2.0,0.0,v
+S2425-G0100,2,06:33,OKC,,ATL,,C. Capela,ATL,Capela REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,2,06:20,OKC,,ATL,,C. Capela,ATL,SUB: Mathews FOR Capela,Substitution,,0,0,0,0,,,v
+S2425-G0100,3,10:29,OKC,,ATL,,C. Capela,ATL,Capela REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,10:29,OKC,61.0,ATL,62.0,C. Capela,ATL,Capela 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-11,11,2,1,2.0,2.0,v
+S2425-G0100,3,10:29,OKC,,ATL,,C. Capela,ATL,MISS Capela Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0100,3,08:55,OKC,,ATL,,C. Capela,ATL,Capela REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,06:47,OKC,73.0,ATL,69.0,C. Capela,ATL,Capela 1' Alley Oop Dunk (4 PTS) (Young 5 AST),Made Shot,Alley Oop Dunk Shot,10,6,1,1,2.0,2.0,v
+S2425-G0100,3,05:24,OKC,,ATL,,C. Capela,ATL,SUB: Krejčí FOR Capela,Substitution,,0,0,0,0,,,v
+S2425-G0100,4,11:23,OKC,91.0,ATL,90.0,C. Capela,ATL,Capela Cutting Dunk Shot (6 PTS) (Johnson 2 AST),Made Shot,Cutting Dunk Shot,1,-2,0,1,2.0,2.0,v
+S2425-G0100,4,11:01,OKC,,ATL,,C. Capela,ATL,Capela REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,4,10:34,OKC,,ATL,,C. Capela,ATL,Capela REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,4,10:34,OKC,,ATL,,C. Capela,ATL,MISS Capela 1' Layup,Missed Shot,Layup Shot,9,-6,1,1,2.0,0.0,v
+S2425-G0100,4,10:24,OKC,,ATL,,C. Capela,ATL,Capela REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,4,09:11,OKC,,ATL,,C. Capela,ATL,SUB: Okongwu FOR Capela,Substitution,,0,0,0,0,,,v
+S2425-G0103,1,12:00,ATL,,WAS,,C. Capela,ATL,Jump Ball Capela vs. Sarr: Tip to Coulibaly,Jump Ball,,0,0,0,0,,,h
+S2425-G0103,1,10:11,ATL,,WAS,,C. Capela,ATL,Capela STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0103,1,09:38,ATL,10.0,WAS,2.0,C. Capela,ATL,Capela 1' Alley Oop Dunk (2 PTS) (Young 2 AST),Made Shot,Alley Oop Dunk Shot,4,7,1,1,2.0,2.0,h
+S2425-G0103,1,09:11,ATL,,WAS,,C. Capela,ATL,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,1,06:57,ATL,,WAS,,C. Capela,ATL,Capela BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0103,1,06:02,ATL,,WAS,,C. Capela,ATL,SUB: Krejčí FOR Capela,Substitution,,0,0,0,0,,,h
+S2425-G0103,2,05:38,ATL,,WAS,,C. Capela,ATL,Capela REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,2,02:50,ATL,50.0,WAS,40.0,C. Capela,ATL,Capela 1' Alley Oop Dunk (4 PTS) (Young 9 AST),Made Shot,Alley Oop Dunk Shot,-1,6,1,1,2.0,2.0,h
+S2425-G0103,2,02:30,ATL,,WAS,,C. Capela,ATL,Capela S.FOUL (P1.T4) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2425-G0103,2,01:08,ATL,58.0,WAS,49.0,C. Capela,ATL,Capela 6' Driving Hook Shot (6 PTS) (Johnson 2 AST),Made Shot,Driving Hook Shot,11,63,6,1,2.0,2.0,h
+S2425-G0103,2,00:30.400000,ATL,,WAS,,C. Capela,ATL,Capela REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,2,00:30.400000,ATL,,WAS,,C. Capela,ATL,MISS Capela Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0103,2,00:30.400000,ATL,59.0,WAS,51.0,C. Capela,ATL,Capela Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,2,00:17.800000,ATL,61.0,WAS,51.0,C. Capela,ATL,Capela 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,7,7,1,1,2.0,2.0,h
+S2425-G0103,3,10:47,ATL,,WAS,,C. Capela,ATL,Capela OFF.Foul (P2) (M.Ervin),Foul,Offensive,0,0,0,0,,,h
+S2425-G0103,3,10:47,ATL,,WAS,,C. Capela,ATL,Capela Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0103,3,09:41,ATL,,WAS,,C. Capela,ATL,Capela Traveling Turnover (P2.T7),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0103,3,06:18,ATL,,WAS,,C. Capela,ATL,Capela REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,3,06:03,ATL,73.0,WAS,65.0,C. Capela,ATL,Capela 1' Running Layup (11 PTS) (Johnson 3 AST),Made Shot,Running Layup Shot,-7,8,1,1,2.0,2.0,h
+S2425-G0103,3,06:02,ATL,,WAS,,C. Capela,ATL,SUB: Roddy FOR Capela,Substitution,,0,0,0,0,,,h
+S2425-G0103,4,04:56,ATL,,WAS,,C. Capela,ATL,Capela S.FOUL (P3.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0103,4,04:22,ATL,,WAS,,C. Capela,ATL,Capela S.FOUL (P4.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0103,4,03:31,ATL,104.0,WAS,113.0,C. Capela,ATL,Capela Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,03:31,ATL,105.0,WAS,113.0,C. Capela,ATL,Capela Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,03:05,ATL,106.0,WAS,113.0,C. Capela,ATL,Capela Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,03:05,ATL,,WAS,,C. Capela,ATL,MISS Capela Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0103,4,02:00,ATL,110.0,WAS,115.0,C. Capela,ATL,Capela 1' Cutting Dunk Shot (16 PTS) (Johnson 6 AST),Made Shot,Cutting Dunk Shot,-5,10,1,1,2.0,2.0,h
+S2425-G0103,4,00:16,ATL,,WAS,,C. Capela,ATL,SUB: Risacher FOR Capela,Substitution,,0,0,0,0,,,h

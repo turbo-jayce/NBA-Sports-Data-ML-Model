@@ -1,0 +1,288 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,1,10:26,TOR,7.0,PHI,3.0,D. Mitchell,TOR,Mitchell 27' 3PT Jump Shot (3 PTS) (Barnes 1 AST),Made Shot,Jump Shot,78,256,27,1,3.0,3.0,h
+S2425-G0078,1,09:54,TOR,,PHI,,D. Mitchell,TOR,Mitchell Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0078,1,09:46,TOR,,PHI,,D. Mitchell,TOR,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,1,09:25,TOR,10.0,PHI,5.0,D. Mitchell,TOR,Mitchell 27' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-154,220,27,1,3.0,3.0,h
+S2425-G0078,1,07:07,TOR,,PHI,,D. Mitchell,TOR,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,1,05:31,TOR,,PHI,,D. Mitchell,TOR,Mitchell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,1,05:19,TOR,,PHI,,D. Mitchell,TOR,SUB: Battle FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0078,2,09:05,TOR,,PHI,,D. Mitchell,TOR,Mitchell P.FOUL (P1.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2425-G0078,2,08:35,TOR,,PHI,,D. Mitchell,TOR,Mitchell P.FOUL (P2.T3) (T.Mirkovich),Foul,Personal,0,0,0,0,,,h
+S2425-G0078,2,04:56,TOR,,PHI,,D. Mitchell,TOR,MISS Mitchell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-151,215,26,1,3.0,0.0,h
+S2425-G0078,2,03:38,TOR,,PHI,,D. Mitchell,TOR,Mitchell P.FOUL (P3.PN) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2425-G0078,2,03:38,TOR,,PHI,,D. Mitchell,TOR,SUB: Shead FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0078,3,10:02,TOR,66.0,PHI,57.0,D. Mitchell,TOR,Mitchell 6' Driving Layup (8 PTS) (Mogbo 3 AST),Made Shot,Driving Layup Shot,44,41,6,1,2.0,2.0,h
+S2425-G0078,3,09:13,TOR,,PHI,,D. Mitchell,TOR,Mitchell Offensive Charge Foul (P4) (T.Mirkovich),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0078,3,09:13,TOR,,PHI,,D. Mitchell,TOR,Mitchell Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0078,3,09:13,TOR,,PHI,,D. Mitchell,TOR,SUB: Shead FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0078,4,07:01,TOR,,PHI,,D. Mitchell,TOR,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,198,25,1,3.0,0.0,h
+S2425-G0078,4,06:51,TOR,,PHI,,D. Mitchell,TOR,Mitchell S.FOUL (P5.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0078,4,04:07,TOR,,PHI,,D. Mitchell,TOR,Mitchell Lost Ball Turnover (P3.T26),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0078,4,03:38,TOR,,PHI,,D. Mitchell,TOR,Mitchell S.FOUL (P6.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0078,4,03:38,TOR,,PHI,,D. Mitchell,TOR,SUB: Dick FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0107,1,06:59,TOR,,DEN,,D. Mitchell,TOR,Mitchell Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0107,1,06:37,TOR,17.0,DEN,18.0,D. Mitchell,TOR,Mitchell 2' Driving Layup (2 PTS) (Barnes 4 AST),Made Shot,Driving Layup Shot,-18,8,2,1,2.0,2.0,h
+S2425-G0107,1,06:21,TOR,,DEN,,D. Mitchell,TOR,Mitchell P.FOUL (P1.T1) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0107,1,05:08,TOR,,DEN,,D. Mitchell,TOR,Mitchell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,05:06,TOR,,DEN,,D. Mitchell,TOR,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0107,1,04:51,TOR,,DEN,,D. Mitchell,TOR,SUB: Shead FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0107,2,07:01,TOR,,DEN,,D. Mitchell,TOR,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-170,183,25,1,3.0,0.0,h
+S2425-G0107,2,06:10,TOR,47.0,DEN,41.0,D. Mitchell,TOR,Mitchell 26' 3PT Running Jump Shot (5 PTS) (Dick 2 AST),Made Shot,Running Jump Shot,-123,231,26,1,3.0,3.0,h
+S2425-G0107,2,04:42,TOR,51.0,DEN,45.0,D. Mitchell,TOR,Mitchell 5' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,-43,33,5,1,2.0,2.0,h
+S2425-G0107,2,02:06,TOR,58.0,DEN,49.0,D. Mitchell,TOR,Mitchell 25' 3PT Pullup Jump Shot (10 PTS) (Barnes 6 AST),Made Shot,Pullup Jump shot,-206,142,25,1,3.0,3.0,h
+S2425-G0107,2,01:24,TOR,,DEN,,D. Mitchell,TOR,Mitchell Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0107,3,08:14,TOR,,DEN,,D. Mitchell,TOR,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-16,24,1,3.0,0.0,h
+S2425-G0107,3,07:56,TOR,,DEN,,D. Mitchell,TOR,Mitchell P.FOUL (P2.T2) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0107,3,06:57,TOR,,DEN,,D. Mitchell,TOR,MISS Mitchell 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-70,174,19,1,2.0,0.0,h
+S2425-G0107,3,06:08,TOR,,DEN,,D. Mitchell,TOR,SUB: Shead FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0107,4,07:32,TOR,,DEN,,D. Mitchell,TOR,Mitchell P.FOUL (P3.T3) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0107,4,06:15,TOR,,DEN,,D. Mitchell,TOR,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0107,4,03:46,TOR,,DEN,,D. Mitchell,TOR,Mitchell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,4,00:09.200000,TOR,,DEN,,D. Mitchell,TOR,MISS Mitchell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0107,4,00:09.200000,TOR,114.0,DEN,112.0,D. Mitchell,TOR,Mitchell Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0107,4,00:00.100000,TOR,,DEN,,D. Mitchell,TOR,MISS Mitchell 65' 3PT Jump Shot,Missed Shot,Jump Shot,5,645,65,1,3.0,0.0,h
+S2425-G0107,5,04:05,TOR,,DEN,,D. Mitchell,TOR,Mitchell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0107,5,03:02,TOR,,DEN,,D. Mitchell,TOR,MISS Mitchell 3' Running Layup,Missed Shot,Running Layup Shot,-29,8,3,1,2.0,0.0,h
+S2425-G0107,5,02:02,TOR,121.0,DEN,124.0,D. Mitchell,TOR,Mitchell 27' 3PT Jump Shot (14 PTS) (Dick 4 AST),Made Shot,Jump Shot,114,242,27,1,3.0,3.0,h
+S2425-G0107,5,00:32.200000,TOR,124.0,DEN,127.0,D. Mitchell,TOR,Mitchell Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0107,5,00:32.200000,TOR,125.0,DEN,127.0,D. Mitchell,TOR,Mitchell Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0106,1,10:39,NYK,,CLE,,D. Mitchell,CLE,MISS Mitchell 1' Driving Layup,Missed Shot,Driving Layup Shot,6,7,1,1,2.0,0.0,v
+S2425-G0106,1,09:42,NYK,,CLE,,D. Mitchell,CLE,MISS Mitchell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,151,196,25,1,3.0,0.0,v
+S2425-G0106,1,09:21,NYK,,CLE,,D. Mitchell,CLE,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,09:07,NYK,2.0,CLE,6.0,D. Mitchell,CLE,Mitchell 2' Cutting Finger Roll Layup Shot (2 PTS) (Allen 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-15,-5,2,1,2.0,2.0,v
+S2425-G0106,1,08:34,NYK,,CLE,,D. Mitchell,CLE,Mitchell Offensive Charge Foul (P1) (R.Hussey),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0106,1,08:34,NYK,,CLE,,D. Mitchell,CLE,Mitchell Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0106,1,07:57,NYK,,CLE,,D. Mitchell,CLE,Mitchell Backcourt Turnover (P2.T2),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2425-G0106,1,07:37,NYK,,CLE,,D. Mitchell,CLE,SUB: LeVert FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0106,1,01:52,NYK,13.0,CLE,19.0,D. Mitchell,CLE,Mitchell 22' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,-127,179,22,1,2.0,2.0,v
+S2425-G0106,1,00:39.800000,NYK,16.0,CLE,22.0,D. Mitchell,CLE,Mitchell 25' 3PT Jump Shot (7 PTS) (Merrill 1 AST),Made Shot,Jump Shot,-192,160,25,1,3.0,3.0,v
+S2425-G0106,1,00:14.700000,NYK,,CLE,,D. Mitchell,CLE,MISS Mitchell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,136,218,26,1,3.0,0.0,v
+S2425-G0106,2,10:58,NYK,20.0,CLE,26.0,D. Mitchell,CLE,Mitchell 1' Running Layup (9 PTS) (Okoro 1 AST),Made Shot,Running Layup Shot,11,2,1,1,2.0,2.0,v
+S2425-G0106,2,10:10,NYK,,CLE,,D. Mitchell,CLE,Mitchell P.FOUL (P2.T1) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2425-G0106,2,08:28,NYK,,CLE,,D. Mitchell,CLE,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,2,07:11,NYK,,CLE,,D. Mitchell,CLE,SUB: Garland FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0106,2,01:16,NYK,48.0,CLE,45.0,D. Mitchell,CLE,Mitchell 6' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,2,57,6,1,2.0,2.0,v
+S2425-G0106,2,00:36.200000,NYK,,CLE,,D. Mitchell,CLE,Mitchell Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0106,2,00:23.900000,NYK,,CLE,,D. Mitchell,CLE,Mitchell L.B.FOUL (P3.T4) (S.Corbin),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0106,2,00:23.900000,NYK,,CLE,,D. Mitchell,CLE,SUB: Wade FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0106,3,11:37,NYK,,CLE,,D. Mitchell,CLE,MISS Mitchell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,47,247,25,1,3.0,0.0,v
+S2425-G0106,3,11:06,NYK,52.0,CLE,48.0,D. Mitchell,CLE,Mitchell 24' 3PT Jump Shot (14 PTS) (Wade 3 AST),Made Shot,Jump Shot,238,30,24,1,3.0,3.0,v
+S2425-G0106,3,09:34,NYK,,CLE,,D. Mitchell,CLE,MISS Mitchell 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,48,215,22,1,2.0,0.0,v
+S2425-G0106,3,07:27,NYK,60.0,CLE,54.0,D. Mitchell,CLE,Mitchell 9' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,32,83,9,1,2.0,2.0,v
+S2425-G0106,3,06:52,NYK,,CLE,,D. Mitchell,CLE,SUB: LeVert FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0106,3,00:42.200000,NYK,,CLE,,D. Mitchell,CLE,MISS Mitchell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-87,231,25,1,3.0,0.0,v
+S2425-G0106,4,11:05,NYK,78.0,CLE,78.0,D. Mitchell,CLE,Mitchell 2' Running Layup (18 PTS),Made Shot,Running Layup Shot,7,20,2,1,2.0,2.0,v
+S2425-G0106,4,09:50,NYK,80.0,CLE,84.0,D. Mitchell,CLE,Mitchell 26' 3PT Jump Shot (21 PTS) (Mobley 1 AST),Made Shot,Jump Shot,-135,220,26,1,3.0,3.0,v
+S2425-G0106,4,09:05,NYK,,CLE,,D. Mitchell,CLE,MISS Mitchell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,271,27,1,3.0,0.0,v
+S2425-G0106,4,08:36,NYK,,CLE,,D. Mitchell,CLE,Mitchell Lost Ball Turnover (P4.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0106,4,06:12,NYK,,CLE,,D. Mitchell,CLE,SUB: Allen FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,02:17,NYK,,CLE,,D. Mitchell,CLE,MISS Mitchell 1' Running Layup,Missed Shot,Running Layup Shot,4,14,1,1,2.0,0.0,v
+S2425-G0106,4,00:07.900000,NYK,102.0,CLE,107.0,D. Mitchell,CLE,Mitchell Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,4,00:07.900000,NYK,102.0,CLE,108.0,D. Mitchell,CLE,Mitchell Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,4,00:04.700000,NYK,104.0,CLE,109.0,D. Mitchell,CLE,Mitchell Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,4,00:04.700000,NYK,104.0,CLE,110.0,D. Mitchell,CLE,Mitchell Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0080,1,08:13,CLE,,DET,,D. Mitchell,CLE,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0080,1,07:42,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 21' Jump Shot,Missed Shot,Jump Shot,-206,17,21,1,2.0,0.0,h
+S2425-G0080,1,06:39,CLE,,DET,,D. Mitchell,CLE,Mitchell Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0080,1,06:02,CLE,,DET,,D. Mitchell,CLE,SUB: LeVert FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0080,1,01:03,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-114,243,27,1,3.0,0.0,h
+S2425-G0080,1,00:00,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,175,188,26,1,3.0,0.0,h
+S2425-G0080,2,11:41,CLE,,DET,,D. Mitchell,CLE,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,2,11:23,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-163,-22,16,1,2.0,0.0,h
+S2425-G0080,2,09:15,CLE,33.0,DET,35.0,D. Mitchell,CLE,Mitchell 1' Driving Layup (2 PTS) (Mobley 1 AST),Made Shot,Driving Layup Shot,-4,10,1,1,2.0,2.0,h
+S2425-G0080,2,08:52,CLE,35.0,DET,35.0,D. Mitchell,CLE,Mitchell 1' Running Dunk (4 PTS) (Okoro 1 AST),Made Shot,Running Dunk Shot,9,2,1,1,2.0,2.0,h
+S2425-G0080,2,08:13,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-167,191,25,1,3.0,0.0,h
+S2425-G0080,2,06:41,CLE,42.0,DET,38.0,D. Mitchell,CLE,Mitchell 17' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-69,151,17,1,2.0,2.0,h
+S2425-G0080,2,06:15,CLE,,DET,,D. Mitchell,CLE,SUB: Garland FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0080,2,01:47,CLE,,DET,,D. Mitchell,CLE,Mitchell P.FOUL (P1.T3) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2425-G0080,2,01:26,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,23,79,8,1,2.0,0.0,h
+S2425-G0080,3,10:15,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-222,115,25,1,3.0,0.0,h
+S2425-G0080,3,09:49,CLE,69.0,DET,57.0,D. Mitchell,CLE,Mitchell 18' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,151,89,18,1,2.0,2.0,h
+S2425-G0080,3,09:11,CLE,72.0,DET,60.0,D. Mitchell,CLE,Mitchell 31' 3PT Jump Shot (11 PTS) (Garland 5 AST),Made Shot,Jump Shot,112,288,31,1,3.0,3.0,h
+S2425-G0080,3,08:25,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-137,214,25,1,3.0,0.0,h
+S2425-G0080,3,07:41,CLE,,DET,,D. Mitchell,CLE,Mitchell S.FOUL (P2.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0080,3,07:25,CLE,,DET,,D. Mitchell,CLE,Mitchell P.FOUL (P3.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2425-G0080,3,07:25,CLE,,DET,,D. Mitchell,CLE,SUB: LeVert FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0080,3,01:45,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,77,147,17,1,2.0,0.0,h
+S2425-G0080,3,00:41.800000,CLE,88.0,DET,79.0,D. Mitchell,CLE,Mitchell 18' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,94,157,18,1,2.0,2.0,h
+S2425-G0080,3,00:41.800000,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0080,3,00:08,CLE,89.0,DET,79.0,D. Mitchell,CLE,Mitchell Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,3,00:08,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0080,3,00:07,CLE,,DET,,D. Mitchell,CLE,Mitchell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,00:07,CLE,91.0,DET,79.0,D. Mitchell,CLE,Mitchell 2' Putback Layup (16 PTS),Made Shot,Putback Layup Shot,5,21,2,1,2.0,2.0,h
+S2425-G0080,4,12:00,CLE,92.0,DET,79.0,D. Mitchell,CLE,Mitchell Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0080,4,10:41,CLE,94.0,DET,82.0,D. Mitchell,CLE,Mitchell 17' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,135,100,17,1,2.0,2.0,h
+S2425-G0080,4,10:07,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-154,194,25,1,3.0,0.0,h
+S2425-G0080,4,08:40,CLE,,DET,,D. Mitchell,CLE,SUB: Wade FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0080,4,02:41,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-78,142,16,1,2.0,0.0,h
+S2425-G0080,4,02:09,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-158,16,16,1,2.0,0.0,h
+S2425-G0080,4,01:17,CLE,,DET,,D. Mitchell,CLE,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,126,225,26,1,3.0,0.0,h
+S2425-G0080,4,01:17,CLE,,DET,,D. Mitchell,CLE,SUB: Tyson FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0117,1,11:17,CHA,,TOR,,D. Mitchell,TOR,MISS Mitchell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-87,257,27,1,3.0,0.0,v
+S2425-G0117,1,08:10,CHA,,TOR,,D. Mitchell,TOR,Mitchell P.FOUL (P1.T2) (P.O'Connell),Foul,Personal,0,0,0,0,,,v
+S2425-G0117,1,06:45,CHA,,TOR,,D. Mitchell,TOR,Mitchell OFF.Foul (P2) (N.Buchert),Foul,Offensive,0,0,0,0,,,v
+S2425-G0117,1,06:45,CHA,,TOR,,D. Mitchell,TOR,Mitchell Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0117,1,06:23,CHA,,TOR,,D. Mitchell,TOR,MISS Mitchell 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,120,227,26,1,3.0,0.0,v
+S2425-G0117,1,06:23,CHA,,TOR,,D. Mitchell,TOR,SUB: Shead FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0117,2,08:22,CHA,,TOR,,D. Mitchell,TOR,SUB: Shead FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0117,3,11:29,CHA,,TOR,,D. Mitchell,TOR,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-120,215,25,1,3.0,0.0,v
+S2425-G0117,3,08:58,CHA,,TOR,,D. Mitchell,TOR,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-173,179,25,1,3.0,0.0,v
+S2425-G0117,3,08:38,CHA,,TOR,,D. Mitchell,TOR,MISS Mitchell 1' Running Layup,Missed Shot,Running Layup Shot,-6,3,1,1,2.0,0.0,v
+S2425-G0117,3,07:23,CHA,77.0,TOR,74.0,D. Mitchell,TOR,Mitchell 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,-9,-1,1,1,2.0,2.0,v
+S2425-G0117,3,07:09,CHA,,TOR,,D. Mitchell,TOR,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,3,06:29,CHA,,TOR,,D. Mitchell,TOR,Mitchell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,3,04:06,CHA,,TOR,,D. Mitchell,TOR,SUB: Mogbo FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0117,3,00:48.400000,CHA,,TOR,,D. Mitchell,TOR,Mitchell Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0117,4,09:10,CHA,,TOR,,D. Mitchell,TOR,Mitchell L.B.FOUL (P3.T2) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0117,4,06:31,CHA,113.0,TOR,108.0,D. Mitchell,TOR,Mitchell 1' Driving Layup (4 PTS) (Pöltl 2 AST),Made Shot,Driving Layup Shot,-13,4,1,1,2.0,2.0,v
+S2425-G0117,4,05:43,CHA,115.0,TOR,110.0,D. Mitchell,TOR,Mitchell 9' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,45,77,9,1,2.0,2.0,v
+S2425-G0117,4,05:32,CHA,,TOR,,D. Mitchell,TOR,SUB: Barrett FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0117,4,01:48,CHA,,TOR,,D. Mitchell,TOR,Mitchell S.FOUL (P4.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0117,4,01:18,CHA,,TOR,,D. Mitchell,TOR,MISS Mitchell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0117,4,01:18,CHA,130.0,TOR,125.0,D. Mitchell,TOR,Mitchell Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0117,4,00:47,CHA,130.0,TOR,127.0,D. Mitchell,TOR,Mitchell 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,-9,-1,1,1,2.0,2.0,v
+S2425-G0117,4,00:10.800000,CHA,134.0,TOR,131.0,D. Mitchell,TOR,Mitchell 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,-2,10,1,1,2.0,2.0,v
+S2425-G0117,4,00:00,CHA,,TOR,,D. Mitchell,TOR,MISS Mitchell 50' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-199,455,50,1,3.0,0.0,v
+S2425-G0090,1,09:34,WAS,,CLE,,D. Mitchell,CLE,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,1,09:33,WAS,,CLE,,D. Mitchell,CLE,Mitchell Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0090,1,09:12,WAS,,CLE,,D. Mitchell,CLE,Mitchell Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0090,1,07:52,WAS,,CLE,,D. Mitchell,CLE,MISS Mitchell 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,77,28,8,1,2.0,0.0,v
+S2425-G0090,1,07:13,WAS,,CLE,,D. Mitchell,CLE,SUB: Merrill FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0090,2,10:39,WAS,,CLE,,D. Mitchell,CLE,MISS Mitchell 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-154,231,28,1,3.0,0.0,v
+S2425-G0090,2,10:27,WAS,,CLE,,D. Mitchell,CLE,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,20,24,1,3.0,0.0,v
+S2425-G0090,2,09:54,WAS,,CLE,,D. Mitchell,CLE,MISS Mitchell 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-234,71,24,1,3.0,0.0,v
+S2425-G0090,2,08:40,WAS,28.0,CLE,33.0,D. Mitchell,CLE,Mitchell 28' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,125,248,28,1,3.0,3.0,v
+S2425-G0090,2,07:58,WAS,,CLE,,D. Mitchell,CLE,Mitchell Lost Ball Turnover (P3.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0090,2,06:47,WAS,,CLE,,D. Mitchell,CLE,Mitchell STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0090,2,06:41,WAS,32.0,CLE,39.0,D. Mitchell,CLE,Mitchell 3' Running Layup (5 PTS),Made Shot,Running Layup Shot,4,25,3,1,2.0,2.0,v
+S2425-G0090,2,06:08,WAS,,CLE,,D. Mitchell,CLE,SUB: Allen FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0090,2,00:16.800000,WAS,51.0,CLE,59.0,D. Mitchell,CLE,Mitchell 17' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,-134,111,17,1,2.0,2.0,v
+S2425-G0090,3,10:34,WAS,,CLE,,D. Mitchell,CLE,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,10:04,WAS,,CLE,,D. Mitchell,CLE,Mitchell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,10:03,WAS,,CLE,,D. Mitchell,CLE,MISS Mitchell 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,239,35,24,1,3.0,0.0,v
+S2425-G0090,3,09:40,WAS,55.0,CLE,64.0,D. Mitchell,CLE,Mitchell 29' 3PT Jump Shot (10 PTS) (Mobley 3 AST),Made Shot,Jump Shot,183,227,29,1,3.0,3.0,v
+S2425-G0090,3,09:18,WAS,,CLE,,D. Mitchell,CLE,Mitchell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,09:11,WAS,55.0,CLE,66.0,D. Mitchell,CLE,Mitchell 7' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,64,38,7,1,2.0,2.0,v
+S2425-G0090,3,08:33,WAS,,CLE,,D. Mitchell,CLE,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-113,232,26,1,3.0,0.0,v
+S2425-G0090,3,08:20,WAS,,CLE,,D. Mitchell,CLE,Mitchell STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0090,3,06:57,WAS,,CLE,,D. Mitchell,CLE,MISS Mitchell 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-43,100,11,1,2.0,0.0,v
+S2425-G0090,3,06:45,WAS,,CLE,,D. Mitchell,CLE,SUB: Merrill FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0090,3,01:51,WAS,75.0,CLE,90.0,D. Mitchell,CLE,Mitchell 28' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,2,279,28,1,3.0,3.0,v
+S2425-G0090,3,00:00.500000,WAS,81.0,CLE,97.0,D. Mitchell,CLE,Mitchell 6' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,7,62,6,1,2.0,2.0,v
+S2425-G0090,3,00:00.500000,WAS,,CLE,,D. Mitchell,CLE,MISS Mitchell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0090,4,11:00,WAS,,CLE,,D. Mitchell,CLE,Mitchell Out of Bounds Lost Ball Turnover (P4.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0090,4,10:53,WAS,,CLE,,D. Mitchell,CLE,Mitchell P.FOUL (P1.T1) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2425-G0090,4,10:06,WAS,87.0,CLE,105.0,D. Mitchell,CLE,Mitchell 15' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,-109,106,15,1,2.0,2.0,v
+S2425-G0090,4,09:47,WAS,87.0,CLE,108.0,D. Mitchell,CLE,Mitchell 26' 3PT Running Jump Shot (22 PTS) (Merrill 1 AST),Made Shot,Running Jump Shot,-202,157,26,1,3.0,3.0,v
+S2425-G0090,4,09:18,WAS,87.0,CLE,111.0,D. Mitchell,CLE,Mitchell 24' 3PT Jump Shot (25 PTS) (Okoro 1 AST),Made Shot,Jump Shot,229,85,24,1,3.0,3.0,v
+S2425-G0090,4,07:23,WAS,,CLE,,D. Mitchell,CLE,Mitchell STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0090,4,07:23,WAS,,CLE,,D. Mitchell,CLE,Mitchell Traveling Turnover (P5.T13),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0090,4,07:18,WAS,,CLE,,D. Mitchell,CLE,Mitchell STEAL (4 STL),,,0,0,0,0,,,v
+S2425-G0090,4,07:15,WAS,92.0,CLE,115.0,D. Mitchell,CLE,Mitchell Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,4,07:15,WAS,92.0,CLE,116.0,D. Mitchell,CLE,Mitchell Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,4,06:34,WAS,94.0,CLE,119.0,D. Mitchell,CLE,Mitchell 28' 3PT Pullup Jump Shot (30 PTS),Made Shot,Pullup Jump shot,-82,269,28,1,3.0,3.0,v
+S2425-G0090,4,06:19,WAS,,CLE,,D. Mitchell,CLE,SUB: Allen FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0093,1,08:51,MIN,,TOR,,D. Mitchell,TOR,MISS Mitchell 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-40,100,11,1,2.0,0.0,v
+S2425-G0093,1,06:26,MIN,,TOR,,D. Mitchell,TOR,SUB: Shead FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0093,2,09:39,MIN,,TOR,,D. Mitchell,TOR,Mitchell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0093,2,08:43,MIN,,TOR,,D. Mitchell,TOR,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-5,242,24,1,3.0,0.0,v
+S2425-G0093,2,02:50,MIN,,TOR,,D. Mitchell,TOR,SUB: Shead FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0093,3,11:43,MIN,,TOR,,D. Mitchell,TOR,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,3,08:00,MIN,,TOR,,D. Mitchell,TOR,MISS Mitchell 7' Driving Layup,Missed Shot,Driving Layup Shot,53,43,7,1,2.0,0.0,v
+S2425-G0093,3,07:01,MIN,,TOR,,D. Mitchell,TOR,Mitchell S.FOUL (P1.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2425-G0093,3,06:10,MIN,,TOR,,D. Mitchell,TOR,SUB: Mogbo FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0093,4,07:44,MIN,,TOR,,D. Mitchell,TOR,MISS Mitchell 6' Driving Layup,Missed Shot,Driving Layup Shot,-50,29,6,1,2.0,0.0,v
+S2425-G0093,4,06:55,MIN,,TOR,,D. Mitchell,TOR,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,03:50,MIN,,TOR,,D. Mitchell,TOR,MISS Mitchell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-17,149,15,1,2.0,0.0,v
+S2425-G0093,4,02:49,MIN,,TOR,,D. Mitchell,TOR,Mitchell STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0093,4,00:25.100000,MIN,,TOR,,D. Mitchell,TOR,Mitchell Personal Take Foul (P2.PN) (D.Scott),Foul,Personal Take,0,0,0,0,,,v
+S2425-G0067,1,08:49,TOR,9.0,CLE,9.0,D. Mitchell,CLE,Mitchell 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-200,179,27,1,3.0,3.0,v
+S2425-G0067,1,07:42,TOR,,CLE,,D. Mitchell,CLE,MISS Mitchell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-174,194,26,1,3.0,0.0,v
+S2425-G0067,1,07:16,TOR,,CLE,,D. Mitchell,CLE,Mitchell Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0067,1,06:45,TOR,,CLE,,D. Mitchell,CLE,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,06:35,TOR,,CLE,,D. Mitchell,CLE,MISS Mitchell 4' Driving Layup,Missed Shot,Driving Layup Shot,-5,42,4,1,2.0,0.0,v
+S2425-G0067,1,06:26,TOR,,CLE,,D. Mitchell,CLE,SUB: Merrill FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0067,1,04:30,TOR,,CLE,,D. Mitchell,TOR,Mitchell STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0067,1,04:22,TOR,,CLE,,D. Mitchell,TOR,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,46,24,1,3.0,0.0,h
+S2425-G0067,1,03:15,TOR,,CLE,,D. Mitchell,CLE,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-42,258,26,1,3.0,0.0,v
+S2425-G0067,1,02:45,TOR,27.0,CLE,22.0,D. Mitchell,CLE,Mitchell 5' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,39,33,5,1,2.0,2.0,v
+S2425-G0067,1,02:19,TOR,,CLE,,D. Mitchell,CLE,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,02:11,TOR,27.0,CLE,26.0,D. Mitchell,CLE,Mitchell Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,1,02:11,TOR,,CLE,,D. Mitchell,CLE,MISS Mitchell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0067,1,02:01,TOR,,CLE,,D. Mitchell,TOR,MISS Mitchell 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-37,9,4,1,2.0,0.0,h
+S2425-G0067,1,00:00.600000,TOR,32.0,CLE,32.0,D. Mitchell,CLE,Mitchell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,1,00:00.600000,TOR,32.0,CLE,33.0,D. Mitchell,CLE,Mitchell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,2,11:14,TOR,,CLE,,D. Mitchell,TOR,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,176,180,25,1,3.0,0.0,h
+S2425-G0067,2,09:40,TOR,,CLE,,D. Mitchell,TOR,SUB: Quickley FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0067,2,09:12,TOR,35.0,CLE,43.0,D. Mitchell,CLE,Mitchell Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,0,4,0,1,2.0,2.0,v
+S2425-G0067,2,08:37,TOR,35.0,CLE,45.0,D. Mitchell,CLE,Mitchell 19' Jump Shot (12 PTS),Made Shot,Jump Shot,-173,80,19,1,2.0,2.0,v
+S2425-G0067,2,07:20,TOR,,CLE,,D. Mitchell,CLE,MISS Mitchell 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,47,32,6,1,2.0,0.0,v
+S2425-G0067,2,07:20,TOR,,CLE,,D. Mitchell,CLE,Mitchell P.FOUL (P1.T4) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2425-G0067,2,06:26,TOR,,CLE,,D. Mitchell,CLE,Mitchell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0067,2,06:26,TOR,,CLE,,D. Mitchell,CLE,SUB: Garland FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0067,2,04:58,TOR,,CLE,,D. Mitchell,TOR,SUB: Barnes FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0067,2,03:25,TOR,46.0,CLE,60.0,D. Mitchell,CLE,Mitchell 28' 3PT Jump Shot (15 PTS) (Wade 1 AST),Made Shot,Jump Shot,48,273,28,1,3.0,3.0,v
+S2425-G0067,2,03:05,TOR,,CLE,,D. Mitchell,CLE,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0067,2,02:39,TOR,,CLE,,D. Mitchell,CLE,MISS Mitchell 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-16,1,2,1,2.0,0.0,v
+S2425-G0067,2,01:29,TOR,,CLE,,D. Mitchell,CLE,MISS Mitchell 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-31,100,10,1,2.0,0.0,v
+S2425-G0067,2,00:04.800000,TOR,,CLE,,D. Mitchell,CLE,Mitchell STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0067,3,10:58,TOR,53.0,CLE,71.0,D. Mitchell,TOR,Mitchell 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,113,159,20,1,2.0,2.0,h
+S2425-G0067,3,10:14,TOR,,CLE,,D. Mitchell,CLE,Mitchell STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0067,3,10:12,TOR,53.0,CLE,75.0,D. Mitchell,CLE,Mitchell 2' Running Layup (17 PTS),Made Shot,Running Layup Shot,16,8,2,1,2.0,2.0,v
+S2425-G0067,3,10:12,TOR,,CLE,,D. Mitchell,CLE,MISS Mitchell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0067,3,09:25,TOR,,CLE,,D. Mitchell,TOR,Mitchell Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0067,3,09:19,TOR,,CLE,,D. Mitchell,CLE,MISS Mitchell 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,47,24,1,3.0,0.0,v
+S2425-G0067,3,08:16,TOR,,CLE,,D. Mitchell,TOR,MISS Mitchell 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-13,2,1,1,2.0,0.0,h
+S2425-G0067,3,07:07,TOR,56.0,CLE,82.0,D. Mitchell,CLE,Mitchell Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,3,07:07,TOR,,CLE,,D. Mitchell,TOR,SUB: Boucher FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0067,3,07:07,TOR,56.0,CLE,83.0,D. Mitchell,CLE,Mitchell Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,3,06:42,TOR,,CLE,,D. Mitchell,CLE,Mitchell S.FOUL (P2.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2425-G0067,3,06:42,TOR,,CLE,,D. Mitchell,CLE,SUB: Merrill FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0067,4,11:20,TOR,,CLE,,D. Mitchell,TOR,MISS Mitchell 4' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,32,21,4,1,2.0,0.0,h
+S2425-G0067,4,11:04,TOR,79.0,CLE,109.0,D. Mitchell,CLE,Mitchell 5' Driving Hook Shot (21 PTS),Made Shot,Driving Hook Shot,11,52,5,1,2.0,2.0,v
+S2425-G0067,4,10:50,TOR,81.0,CLE,109.0,D. Mitchell,TOR,Mitchell 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-20,13,2,1,2.0,2.0,h
+S2425-G0067,4,10:27,TOR,83.0,CLE,109.0,D. Mitchell,TOR,Mitchell 1' Running Layup (6 PTS) (Boucher 1 AST),Made Shot,Running Layup Shot,9,-5,1,1,2.0,2.0,h
+S2425-G0067,4,09:15,TOR,,CLE,,D. Mitchell,TOR,Mitchell Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0067,4,08:36,TOR,,CLE,,D. Mitchell,TOR,Mitchell Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0067,4,08:36,TOR,,CLE,,D. Mitchell,CLE,Mitchell STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0067,4,08:30,TOR,,CLE,,D. Mitchell,TOR,SUB: Temple FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0067,4,08:30,TOR,,CLE,,D. Mitchell,CLE,SUB: Thompson FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0067,4,03:25,TOR,,CLE,,D. Mitchell,TOR,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P4.T18),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0067,4,02:48,TOR,,CLE,,D. Mitchell,TOR,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-44,259,26,1,3.0,0.0,h
+S2425-G0067,4,02:39,TOR,,CLE,,D. Mitchell,TOR,Mitchell STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0067,4,02:34,TOR,104.0,CLE,130.0,D. Mitchell,TOR,Mitchell Running Layup (8 PTS),Made Shot,Running Layup Shot,4,1,0,1,2.0,2.0,h
+S2425-G0067,4,00:56.300000,TOR,,CLE,,D. Mitchell,TOR,Mitchell Bad Pass Turnover (P5.T19),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0118,1,11:05,CLE,2.0,LAL,4.0,D. Mitchell,CLE,Mitchell 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-11,-10,1,1,2.0,2.0,h
+S2425-G0118,1,10:30,CLE,5.0,LAL,6.0,D. Mitchell,CLE,Mitchell 24' 3PT Step Back Jump Shot (5 PTS) (Garland 1 AST),Made Shot,Step Back Jump shot,-159,178,24,1,3.0,3.0,h
+S2425-G0118,1,10:00,CLE,7.0,LAL,8.0,D. Mitchell,CLE,Mitchell 14' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,86,113,14,1,2.0,2.0,h
+S2425-G0118,1,09:47,CLE,,LAL,,D. Mitchell,CLE,Mitchell P.FOUL (P1.T3) (S.Mitchell),Foul,Personal,0,0,0,0,,,h
+S2425-G0118,1,08:18,CLE,,LAL,,D. Mitchell,CLE,MISS Mitchell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-22,252,25,1,3.0,0.0,h
+S2425-G0118,1,07:13,CLE,17.0,LAL,15.0,D. Mitchell,CLE,Mitchell 26' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,-162,198,26,1,3.0,3.0,h
+S2425-G0118,1,06:58,CLE,,LAL,,D. Mitchell,CLE,Mitchell STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0118,1,06:55,CLE,20.0,LAL,15.0,D. Mitchell,CLE,Mitchell 25' 3PT Running Jump Shot (13 PTS) (LeVert 2 AST),Made Shot,Running Jump Shot,-230,105,25,1,3.0,3.0,h
+S2425-G0118,1,05:54,CLE,,LAL,,D. Mitchell,CLE,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-167,204,26,1,3.0,0.0,h
+S2425-G0118,1,05:37,CLE,,LAL,,D. Mitchell,CLE,Mitchell STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0118,1,05:03,CLE,,LAL,,D. Mitchell,CLE,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,1,04:50,CLE,,LAL,,D. Mitchell,CLE,Mitchell Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0118,1,03:36,CLE,28.0,LAL,15.0,D. Mitchell,CLE,Mitchell 1' Running Layup (15 PTS) (LeVert 4 AST),Made Shot,Running Layup Shot,-1,8,1,1,2.0,2.0,h
+S2425-G0118,1,03:01,CLE,,LAL,,D. Mitchell,CLE,SUB: Niang FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0118,2,07:11,CLE,,LAL,,D. Mitchell,CLE,MISS Mitchell 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,75,129,15,1,2.0,0.0,h
+S2425-G0118,2,05:54,CLE,,LAL,,D. Mitchell,CLE,MISS Mitchell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-104,225,25,1,3.0,0.0,h
+S2425-G0118,2,05:45,CLE,,LAL,,D. Mitchell,CLE,Mitchell STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0118,2,04:09,CLE,,LAL,,D. Mitchell,CLE,MISS Mitchell 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,142,90,17,1,2.0,0.0,h
+S2425-G0118,2,02:04,CLE,61.0,LAL,42.0,D. Mitchell,CLE,Mitchell 8' Turnaround Fadeaway (17 PTS),Made Shot,Turnaround Fadeaway shot,-32,73,8,1,2.0,2.0,h
+S2425-G0118,2,01:15,CLE,,LAL,,D. Mitchell,CLE,MISS Mitchell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-107,230,25,1,3.0,0.0,h
+S2425-G0118,3,11:43,CLE,,LAL,,D. Mitchell,CLE,Mitchell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,3,11:29,CLE,70.0,LAL,48.0,D. Mitchell,CLE,Mitchell 24' 3PT Jump Shot (20 PTS) (Garland 3 AST),Made Shot,Jump Shot,-233,47,24,1,3.0,3.0,h
+S2425-G0118,3,11:12,CLE,,LAL,,D. Mitchell,CLE,Mitchell S.FOUL (P2.T1) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,3,09:46,CLE,,LAL,,D. Mitchell,CLE,Mitchell Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0118,3,09:12,CLE,,LAL,,D. Mitchell,CLE,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,156,211,26,1,3.0,0.0,h
+S2425-G0118,3,07:30,CLE,,LAL,,D. Mitchell,CLE,MISS Mitchell 1' Driving Layup,Missed Shot,Driving Layup Shot,7,12,1,1,2.0,0.0,h
+S2425-G0118,3,06:41,CLE,,LAL,,D. Mitchell,CLE,SUB: Merrill FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0118,3,01:52,CLE,,LAL,,D. Mitchell,CLE,Mitchell S.FOUL (P3.PN) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,3,01:30,CLE,94.0,LAL,75.0,D. Mitchell,CLE,Mitchell 1' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,-1,10,1,1,2.0,2.0,h
+S2425-G0118,4,11:40,CLE,,LAL,,D. Mitchell,CLE,Mitchell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,4,08:30,CLE,,LAL,,D. Mitchell,CLE,MISS Mitchell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-28,260,26,1,3.0,0.0,h
+S2425-G0118,4,07:38,CLE,,LAL,,D. Mitchell,CLE,MISS Mitchell 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-43,136,14,1,2.0,0.0,h
+S2425-G0118,4,07:14,CLE,112.0,LAL,92.0,D. Mitchell,CLE,Mitchell 15' Turnaround Jump Shot (24 PTS),Made Shot,Turnaround Jump Shot,44,139,15,1,2.0,2.0,h
+S2425-G0118,4,07:06,CLE,,LAL,,D. Mitchell,CLE,SUB: Garland FOR Mitchell,Substitution,,0,0,0,0,,,h

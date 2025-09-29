@@ -1,0 +1,52 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,1,01:02,NYK,,IND,,J. Walker,IND,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,1,00:08.600000,NYK,,IND,,J. Walker,IND,Walker P.FOUL (P1.T3) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2425-G0081,1,00:08.600000,NYK,,IND,,J. Walker,IND,SUB: Nembhard FOR Walker,Substitution,,0,0,0,0,,,v
+S2425-G0081,2,10:30,NYK,29.0,IND,29.0,J. Walker,IND,Walker 26' 3PT Jump Shot (3 PTS) (McConnell 2 AST),Made Shot,Jump Shot,132,220,26,1,3.0,3.0,v
+S2425-G0081,2,09:10,NYK,,IND,,J. Walker,IND,MISS Walker 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-114,213,24,1,3.0,0.0,v
+S2425-G0081,2,06:28,NYK,,IND,,J. Walker,IND,SUB: Nembhard FOR Walker,Substitution,,0,0,0,0,,,v
+S2425-G0081,4,09:40,NYK,,IND,,J. Walker,IND,Walker STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0081,4,09:35,NYK,,IND,,J. Walker,IND,MISS Walker 3' Running Dunk,Missed Shot,Running Dunk Shot,-13,27,3,1,2.0,0.0,v
+S2425-G0081,4,09:23,NYK,,IND,,J. Walker,IND,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,4,07:44,NYK,,IND,,J. Walker,IND,MISS Walker 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,233,26,1,3.0,0.0,v
+S2425-G0081,4,06:23,NYK,,IND,,J. Walker,IND,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,4,04:24,NYK,113.0,IND,84.0,J. Walker,IND,Walker Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0081,4,04:24,NYK,113.0,IND,85.0,J. Walker,IND,Walker Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0081,4,03:55,NYK,115.0,IND,87.0,J. Walker,IND,Walker 5' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,-40,34,5,1,2.0,2.0,v
+S2425-G0081,4,03:55,NYK,115.0,IND,88.0,J. Walker,IND,Walker Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0081,4,03:43,NYK,,IND,,J. Walker,IND,Walker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,4,03:17,NYK,117.0,IND,90.0,J. Walker,IND,Walker 6' Driving Floating Jump Shot (10 PTS) (Q. Jackson 1 AST),Made Shot,Driving Floating Jump Shot,-39,48,6,1,2.0,2.0,v
+S2425-G0081,4,03:06,NYK,,IND,,J. Walker,IND,Walker STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0081,4,03:01,NYK,117.0,IND,92.0,J. Walker,IND,Walker 1' Running Layup (12 PTS) (Johnson 1 AST),Made Shot,Running Layup Shot,-2,8,1,1,2.0,2.0,v
+S2425-G0081,4,01:58,NYK,,IND,,J. Walker,IND,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,23,256,26,1,3.0,0.0,v
+S2425-G0097,2,09:44,IND,30.0,PHI,34.0,J. Walker,IND,Walker 6' Driving Floating Jump Shot (2 PTS) (McConnell 2 AST),Made Shot,Driving Floating Jump Shot,17,53,6,1,2.0,2.0,h
+S2425-G0097,2,09:44,IND,31.0,PHI,34.0,J. Walker,IND,Walker Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0097,2,09:09,IND,,PHI,,J. Walker,IND,Walker P.FOUL (P1.T2) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2425-G0097,2,07:55,IND,,PHI,,J. Walker,IND,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,2,06:01,IND,,PHI,,J. Walker,IND,SUB: Sheppard FOR Walker,Substitution,,0,0,0,0,,,h
+S2425-G0063,1,00:28.500000,DET,,IND,,J. Walker,IND,Walker OFF.Foul (P1) (T.Ricks),Foul,Offensive,0,0,0,0,,,v
+S2425-G0063,1,00:28.500000,DET,,IND,,J. Walker,IND,Walker Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0063,1,00:01.300000,DET,,IND,,J. Walker,IND,MISS Walker 34' 3PT Jump Shot,Missed Shot,Jump Shot,141,312,34,1,3.0,0.0,v
+S2425-G0063,2,10:33,DET,,IND,,J. Walker,IND,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,2,08:47,DET,38.0,IND,37.0,J. Walker,IND,Walker 24' 3PT Jump Shot (3 PTS) (McConnell 4 AST),Made Shot,Jump Shot,233,37,24,1,3.0,3.0,v
+S2425-G0063,2,08:25,DET,,IND,,J. Walker,IND,Walker S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0063,2,07:45,DET,,IND,,J. Walker,IND,SUB: Nesmith FOR Walker,Substitution,,0,0,0,0,,,v
+S2425-G0119,1,03:07,IND,,BOS,,J. Walker,IND,Walker Offensive Charge Foul (P1) (E.Malloy),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0119,1,03:07,IND,,BOS,,J. Walker,IND,Walker Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0119,1,02:54,IND,,BOS,,J. Walker,IND,Walker S.FOUL (P2.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0119,1,02:54,IND,,BOS,,J. Walker,IND,SUB: Siakam FOR Walker,Substitution,,0,0,0,0,,,h
+S2425-G0119,2,04:57,IND,,BOS,,J. Walker,IND,SUB: Siakam FOR Walker,Substitution,,0,0,0,0,,,h
+S2425-G0119,3,04:07,IND,,BOS,,J. Walker,IND,Walker STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0119,3,04:04,IND,,BOS,,J. Walker,IND,Walker Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0119,3,04:01,IND,,BOS,,J. Walker,IND,Walker STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0119,3,03:02,IND,,BOS,,J. Walker,IND,MISS Walker 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-9,17,2,1,2.0,0.0,h
+S2425-G0119,3,02:16,IND,,BOS,,J. Walker,IND,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,3,02:12,IND,,BOS,,J. Walker,IND,Walker Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0119,3,02:12,IND,,BOS,,J. Walker,IND,SUB: Siakam FOR Walker,Substitution,,0,0,0,0,,,h
+S2425-G0119,3,00:41.400000,IND,,BOS,,J. Walker,IND,Walker Bad Pass Turnover (P4.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0119,3,00:24.600000,IND,,BOS,,J. Walker,IND,SUB: Haliburton FOR Walker,Substitution,,0,0,0,0,,,h
+S2425-G0102,3,03:46,ORL,,IND,,J. Walker,IND,Walker STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0102,3,02:51,ORL,,IND,,J. Walker,IND,Walker Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0102,3,02:32,ORL,,IND,,J. Walker,IND,Walker P.FOUL (P1.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2425-G0102,3,01:37,ORL,,IND,,J. Walker,IND,Walker P.FOUL (P2.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2425-G0102,3,01:37,ORL,,IND,,J. Walker,IND,SUB: Nesmith FOR Walker,Substitution,,0,0,0,0,,,v

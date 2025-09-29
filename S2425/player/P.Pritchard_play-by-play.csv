@@ -1,0 +1,105 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0073,1,03:54,WAS,24.0,BOS,20.0,P. Pritchard,BOS,Pritchard 25' 3PT Pullup Jump Shot (3 PTS) (Tillman 1 AST),Made Shot,Pullup Jump shot,-124,222,25,1,3.0,3.0,v
+S2425-G0073,1,02:35,WAS,,BOS,,P. Pritchard,BOS,MISS Pritchard 1' Running Layup,Missed Shot,Running Layup Shot,-9,4,1,1,2.0,0.0,v
+S2425-G0073,2,11:14,WAS,,BOS,,P. Pritchard,BOS,MISS Pritchard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-212,138,25,1,3.0,0.0,v
+S2425-G0073,2,08:47,WAS,36.0,BOS,41.0,P. Pritchard,BOS,Pritchard 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-116,234,26,1,3.0,3.0,v
+S2425-G0073,2,04:50,WAS,,BOS,,P. Pritchard,BOS,MISS Pritchard 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-233,-21,0,1,3.0,0.0,v
+S2425-G0073,2,03:50,WAS,,BOS,,P. Pritchard,BOS,SUB: Horford FOR Pritchard,Substitution,,0,0,0,0,,,v
+S2425-G0073,3,05:50,WAS,60.0,BOS,83.0,P. Pritchard,BOS,Pritchard 29' 3PT Jump Shot (9 PTS) (Tatum 5 AST),Made Shot,Jump Shot,-227,180,29,1,3.0,3.0,v
+S2425-G0073,3,05:45,WAS,,BOS,,P. Pritchard,BOS,Pritchard P.FOUL (P1.T1) (J.Reneau),Foul,Personal,0,0,0,0,,,v
+S2425-G0073,3,03:35,WAS,68.0,BOS,90.0,P. Pritchard,BOS,Pritchard 29' 3PT Jump Shot (12 PTS) (Tatum 6 AST),Made Shot,Jump Shot,-181,222,29,1,3.0,3.0,v
+S2425-G0073,3,01:09,WAS,70.0,BOS,94.0,P. Pritchard,BOS,Pritchard 24' 3PT Jump Shot (15 PTS) (White 4 AST),Made Shot,Jump Shot,-237,49,24,1,3.0,3.0,v
+S2425-G0073,3,00:55.300000,WAS,,BOS,,P. Pritchard,BOS,MISS Pritchard 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,94,277,29,1,3.0,0.0,v
+S2425-G0073,4,11:23,WAS,,BOS,,P. Pritchard,BOS,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0073,4,06:34,WAS,,BOS,,P. Pritchard,BOS,MISS Pritchard 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-64,302,31,1,3.0,0.0,v
+S2425-G0073,4,05:58,WAS,,BOS,,P. Pritchard,BOS,MISS Pritchard 31' 3PT Jump Shot,Missed Shot,Jump Shot,12,309,31,1,3.0,0.0,v
+S2425-G0073,4,05:33,WAS,,BOS,,P. Pritchard,BOS,SUB: Springer FOR Pritchard,Substitution,,0,0,0,0,,,v
+S2425-G0119,1,06:11,IND,,BOS,,P. Pritchard,BOS,Pritchard Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0119,1,06:09,IND,,BOS,,P. Pritchard,BOS,Pritchard STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0119,1,06:04,IND,,BOS,,P. Pritchard,BOS,Pritchard Transition Take Foul (P1.T3) (K.Cutler),Foul                                    ,Transition Take,0,0,0,0,,,v
+S2425-G0119,1,04:03,IND,,BOS,,P. Pritchard,BOS,Pritchard REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,1,04:00,IND,,BOS,,P. Pritchard,BOS,MISS Pritchard 2' Putback Layup,Missed Shot,Putback Layup Shot,5,19,2,1,2.0,0.0,v
+S2425-G0119,1,03:15,IND,,BOS,,P. Pritchard,BOS,MISS Pritchard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,197,147,25,1,3.0,0.0,v
+S2425-G0119,2,09:34,IND,42.0,BOS,37.0,P. Pritchard,BOS,Pritchard 28' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,123,257,28,1,3.0,3.0,v
+S2425-G0119,2,08:20,IND,44.0,BOS,42.0,P. Pritchard,BOS,Pritchard 28' 3PT Running Jump Shot (6 PTS) (Brown 3 AST),Made Shot,Running Jump Shot,173,221,28,1,3.0,3.0,v
+S2425-G0119,2,06:48,IND,,BOS,,P. Pritchard,BOS,Pritchard P.FOUL (P2.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2425-G0119,2,06:31,IND,,BOS,,P. Pritchard,BOS,MISS Pritchard 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,70,308,32,1,3.0,0.0,v
+S2425-G0119,2,04:08,IND,,BOS,,P. Pritchard,BOS,SUB: White FOR Pritchard,Substitution,,0,0,0,0,,,v
+S2425-G0119,3,04:40,IND,92.0,BOS,71.0,P. Pritchard,BOS,Pritchard 26' 3PT Pullup Jump Shot (9 PTS) (Holiday 4 AST),Made Shot,Pullup Jump shot,-170,196,26,1,3.0,3.0,v
+S2425-G0119,3,00:58.400000,IND,,BOS,,P. Pritchard,BOS,Pritchard REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,3,00:54.100000,IND,,BOS,,P. Pritchard,BOS,MISS Pritchard 4' Running Layup,Missed Shot,Running Layup Shot,33,13,4,1,2.0,0.0,v
+S2425-G0119,3,00:13,IND,,BOS,,P. Pritchard,BOS,MISS Pritchard 3PT Jump Shot,Missed Shot,Jump Shot,234,8,0,1,3.0,0.0,v
+S2425-G0119,4,11:16,IND,103.0,BOS,89.0,P. Pritchard,BOS,Pritchard 3PT Pullup Jump Shot (12 PTS) (Kornet 2 AST),Made Shot,Pullup Jump shot,221,50,0,1,3.0,3.0,v
+S2425-G0119,4,10:32,IND,,BOS,,P. Pritchard,BOS,Pritchard REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,4,10:31,IND,,BOS,,P. Pritchard,BOS,MISS Pritchard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-211,160,26,1,3.0,0.0,v
+S2425-G0119,4,09:55,IND,,BOS,,P. Pritchard,BOS,Pritchard REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,4,06:43,IND,,BOS,,P. Pritchard,BOS,MISS Pritchard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,78,262,27,1,3.0,0.0,v
+S2425-G0119,4,06:05,IND,115.0,BOS,100.0,P. Pritchard,BOS,Pritchard 2' Running Reverse Layup (14 PTS) (Queta 1 AST),Made Shot,Running Reverse Layup Shot,-20,6,2,1,2.0,2.0,v
+S2425-G0119,4,03:03,IND,,BOS,,P. Pritchard,BOS,MISS Pritchard 3PT Running Jump Shot,Missed Shot,Running Jump Shot,223,10,0,1,3.0,0.0,v
+S2425-G0119,4,01:51,IND,,BOS,,P. Pritchard,BOS,MISS Pritchard 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-130,283,31,1,3.0,0.0,v
+S2425-G0119,5,01:09,IND,130.0,BOS,129.0,P. Pritchard,BOS,Pritchard Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0119,5,01:09,IND,130.0,BOS,130.0,P. Pritchard,BOS,Pritchard Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0089,1,04:42,DET,,BOS,,P. Pritchard,BOS,Pritchard STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0089,1,04:41,DET,,BOS,,P. Pritchard,BOS,MISS Pritchard 3' Running Layup,Missed Shot,Running Layup Shot,32,-1,3,1,2.0,0.0,v
+S2425-G0089,1,02:58,DET,21.0,BOS,29.0,P. Pritchard,BOS,Pritchard 24' 3PT Jump Shot (3 PTS) (Kornet 2 AST),Made Shot,Jump Shot,237,-7,24,1,3.0,3.0,v
+S2425-G0089,1,02:21,DET,24.0,BOS,30.0,P. Pritchard,BOS,Pritchard Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0089,1,02:04,DET,24.0,BOS,33.0,P. Pritchard,BOS,Pritchard 26' 3PT Jump Shot (7 PTS) (Holiday 2 AST),Made Shot,Jump Shot,-100,245,26,1,3.0,3.0,v
+S2425-G0089,1,01:45,DET,26.0,BOS,34.0,P. Pritchard,BOS,Pritchard Free Throw 1 of 3 (8 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0089,1,01:45,DET,26.0,BOS,35.0,P. Pritchard,BOS,Pritchard Free Throw 2 of 3 (9 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0089,1,01:45,DET,26.0,BOS,36.0,P. Pritchard,BOS,Pritchard Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0089,1,01:00,DET,,BOS,,P. Pritchard,BOS,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0089,1,00:55.400000,DET,,BOS,,P. Pritchard,BOS,MISS Pritchard 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-211,156,26,1,3.0,0.0,v
+S2425-G0089,1,00:40.700000,DET,,BOS,,P. Pritchard,BOS,Pritchard S.FOUL (P1.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0089,2,10:44,DET,33.0,BOS,45.0,P. Pritchard,BOS,Pritchard 27' 3PT Jump Shot (13 PTS) (White 1 AST),Made Shot,Jump Shot,-121,245,27,1,3.0,3.0,v
+S2425-G0089,2,10:13,DET,35.0,BOS,48.0,P. Pritchard,BOS,Pritchard 27' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,-53,260,27,1,3.0,3.0,v
+S2425-G0089,2,09:40,DET,,BOS,,P. Pritchard,BOS,Pritchard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0089,2,09:36,DET,,BOS,,P. Pritchard,BOS,MISS Pritchard 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,165,218,27,1,3.0,0.0,v
+S2425-G0089,2,08:30,DET,,BOS,,P. Pritchard,BOS,SUB: Kornet FOR Pritchard,Substitution,,0,0,0,0,,,v
+S2425-G0089,4,11:09,DET,93.0,BOS,99.0,P. Pritchard,BOS,Pritchard 3PT Jump Shot (19 PTS) (Tillman 1 AST),Made Shot,Jump Shot,233,22,0,1,3.0,3.0,v
+S2425-G0089,4,07:39,DET,,BOS,,P. Pritchard,BOS,SUB: Kornet FOR Pritchard,Substitution,,0,0,0,0,,,v
+S2425-G0104,1,05:30,BOS,,MIL,,P. Pritchard,BOS,MISS Pritchard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,199,159,25,1,3.0,0.0,h
+S2425-G0104,1,04:42,BOS,19.0,MIL,19.0,P. Pritchard,BOS,Pritchard 25' 3PT Running Jump Shot (3 PTS) (Holiday 1 AST),Made Shot,Running Jump Shot,234,74,25,1,3.0,3.0,h
+S2425-G0104,1,03:43,BOS,,MIL,,P. Pritchard,BOS,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,1,03:31,BOS,21.0,MIL,19.0,P. Pritchard,BOS,Pritchard 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-10,6,1,1,2.0,2.0,h
+S2425-G0104,1,02:05,BOS,,MIL,,P. Pritchard,BOS,Pritchard STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0104,1,01:53,BOS,26.0,MIL,21.0,P. Pritchard,BOS,Pritchard 26' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-140,222,26,1,3.0,3.0,h
+S2425-G0104,1,00:47.300000,BOS,,MIL,,P. Pritchard,BOS,Pritchard REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,2,10:09,BOS,33.0,MIL,35.0,P. Pritchard,BOS,Pritchard 27' 3PT Running Jump Shot (11 PTS) (White 3 AST),Made Shot,Running Jump Shot,138,235,27,1,3.0,3.0,h
+S2425-G0104,2,09:36,BOS,,MIL,,P. Pritchard,BOS,MISS Pritchard 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-152,249,29,1,3.0,0.0,h
+S2425-G0104,2,09:20,BOS,35.0,MIL,37.0,P. Pritchard,BOS,Pritchard 1' Running Layup (13 PTS) (Brown 3 AST),Made Shot,Running Layup Shot,-2,10,1,1,2.0,2.0,h
+S2425-G0104,2,08:54,BOS,38.0,MIL,39.0,P. Pritchard,BOS,Pritchard 35' 3PT Jump Shot (16 PTS) (White 4 AST),Made Shot,Jump Shot,-59,340,35,1,3.0,3.0,h
+S2425-G0104,2,08:05,BOS,,MIL,,P. Pritchard,BOS,Pritchard STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0104,2,07:27,BOS,41.0,MIL,41.0,P. Pritchard,BOS,Pritchard 25' 3PT Jump Shot (19 PTS) (White 5 AST),Made Shot,Jump Shot,127,218,25,1,3.0,3.0,h
+S2425-G0104,2,05:00,BOS,,MIL,,P. Pritchard,BOS,MISS Pritchard 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,210,26,1,3.0,0.0,h
+S2425-G0104,2,04:40,BOS,,MIL,,P. Pritchard,BOS,Pritchard Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0104,2,03:44,BOS,,MIL,,P. Pritchard,BOS,SUB: White FOR Pritchard,Substitution,,0,0,0,0,,,h
+S2425-G0104,3,04:12,BOS,,MIL,,P. Pritchard,BOS,Pritchard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,3,02:04,BOS,,MIL,,P. Pritchard,BOS,Pritchard REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,3,01:04,BOS,,MIL,,P. Pritchard,BOS,MISS Pritchard 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,129,230,26,1,3.0,0.0,h
+S2425-G0104,3,00:24.200000,BOS,,MIL,,P. Pritchard,BOS, ,Jump Ball,,0,0,0,0,,,h
+S2425-G0104,3,00:24.200000,BOS,,MIL,,P. Pritchard,BOS,Pritchard L.B.FOUL (P1.T4) (T.Brothers),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0104,3,00:01.200000,BOS,90.0,MIL,82.0,P. Pritchard,BOS,Pritchard 26' 3PT Step Back Jump Shot (22 PTS),Made Shot,Step Back Jump shot,175,193,26,1,3.0,3.0,h
+S2425-G0104,4,10:55,BOS,95.0,MIL,82.0,P. Pritchard,BOS,Pritchard 3PT Jump Shot (25 PTS) (Brown 4 AST),Made Shot,Jump Shot,228,35,0,1,3.0,3.0,h
+S2425-G0104,4,10:04,BOS,,MIL,,P. Pritchard,BOS,Pritchard REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,4,09:49,BOS,,MIL,,P. Pritchard,BOS,Pritchard S.FOUL (P2.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2425-G0104,4,07:19,BOS,103.0,MIL,92.0,P. Pritchard,BOS,Pritchard 3PT Jump Shot (28 PTS) (Tatum 2 AST),Made Shot,Jump Shot,-234,14,0,1,3.0,3.0,h
+S2425-G0104,4,05:07,BOS,,MIL,,P. Pritchard,BOS,Pritchard Step Out of Bounds Turnover (P2.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0104,4,04:54,BOS,,MIL,,P. Pritchard,BOS,SUB: White FOR Pritchard,Substitution,,0,0,0,0,,,h
+S2425-G0061,1,05:04,BOS,,NYK,,P. Pritchard,BOS,Pritchard P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2425-G0061,1,04:10,BOS,,NYK,,P. Pritchard,BOS,Pritchard S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2425-G0061,1,00:30,BOS,43.0,NYK,22.0,P. Pritchard,BOS,Pritchard 3PT Jump Shot (3 PTS) (Tatum 5 AST),Made Shot,Jump Shot,-228,51,0,1,3.0,3.0,h
+S2425-G0061,1,00:01.900000,BOS,,NYK,,P. Pritchard,BOS,MISS Pritchard 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,94,309,32,1,3.0,0.0,h
+S2425-G0061,2,06:01,BOS,,NYK,,P. Pritchard,BOS,MISS Pritchard 26' 3PT Jump Shot,Missed Shot,Jump Shot,168,204,26,1,3.0,0.0,h
+S2425-G0061,2,03:15,BOS,,NYK,,P. Pritchard,BOS,SUB: Horford FOR Pritchard,Substitution,,0,0,0,0,,,h
+S2425-G0061,3,04:42,BOS,,NYK,,P. Pritchard,BOS,MISS Pritchard 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,66,24,1,3.0,0.0,h
+S2425-G0061,3,00:00.100000,BOS,,NYK,,P. Pritchard,BOS,Pritchard Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0061,4,09:48,BOS,,NYK,,P. Pritchard,BOS,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,4,08:15,BOS,,NYK,,P. Pritchard,BOS,Pritchard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,4,07:17,BOS,,NYK,,P. Pritchard,BOS,Pritchard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,4,06:18,BOS,,NYK,,P. Pritchard,BOS,MISS Pritchard 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,193,25,1,3.0,0.0,h
+S2425-G0061,4,05:26,BOS,,NYK,,P. Pritchard,BOS,MISS Pritchard 7' Driving Layup,Missed Shot,Driving Layup Shot,-59,37,7,1,2.0,0.0,h
+S2425-G0061,4,04:31,BOS,,NYK,,P. Pritchard,BOS,MISS Pritchard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-126,230,26,1,3.0,0.0,h
+S2425-G0061,4,02:34,BOS,,NYK,,P. Pritchard,BOS,MISS Pritchard 30' 3PT Jump Shot,Missed Shot,Jump Shot,115,281,30,1,3.0,0.0,h
+S2425-G0061,4,02:28,BOS,,NYK,,P. Pritchard,BOS,Pritchard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,4,02:25,BOS,,NYK,,P. Pritchard,BOS,MISS Pritchard 28' 3PT Jump Shot,Missed Shot,Jump Shot,159,230,28,1,3.0,0.0,h
+S2425-G0061,4,01:26,BOS,,NYK,,P. Pritchard,BOS,MISS Pritchard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-156,216,27,1,3.0,0.0,h

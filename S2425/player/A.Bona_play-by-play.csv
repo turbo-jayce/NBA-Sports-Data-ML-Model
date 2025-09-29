@@ -1,0 +1,7 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,1,00:56.400000,TOR,,PHI,,A. Bona,PHI,Bona S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0078,1,00:32.600000,TOR,,PHI,,A. Bona,PHI,SUB: Council IV FOR Bona,Substitution,,0,0,0,0,,,v
+S2425-G0120,4,00:34.400000,PHI,,DET,,A. Bona,PHI,Bona BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0066,4,01:26,PHI,,MIL,,A. Bona,PHI,Bona REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,4,01:26,PHI,105.0,MIL,120.0,A. Bona,PHI,Bona Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0066,4,00:44.500000,PHI,,MIL,,A. Bona,PHI,Bona S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h

@@ -1,0 +1,6 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0123,4,09:31,CHI,,ORL,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,4,09:04,CHI,,ORL,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-1,24,1,3.0,0.0,h
+S2425-G0123,4,08:08,CHI,,ORL,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,4,07:29,CHI,,ORL,,T. Craig,CHI,Craig P.FOUL (P1.T2) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2425-G0123,4,07:09,CHI,,ORL,,T. Craig,CHI,SUB: Dosunmu FOR Craig,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,128 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0116,1,10:43,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,08:29,GSW,,NOP,,C. McCollum,NOP,McCollum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0116,1,07:30,GSW,,NOP,,C. McCollum,NOP,McCollum Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0116,1,07:05,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-56,265,27,1,3.0,0.0,v
+S2425-G0116,1,06:20,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,04:35,GSW,14.0,NOP,20.0,C. McCollum,NOP,McCollum 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-37,65,7,1,2.0,2.0,v
+S2425-G0116,1,04:25,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,04:15,GSW,14.0,NOP,23.0,C. McCollum,NOP,McCollum 27' 3PT Jump Shot (5 PTS) (Theis 2 AST),Made Shot,Jump Shot,-49,267,27,1,3.0,3.0,v
+S2425-G0116,1,03:28,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,02:59,GSW,,NOP,,C. McCollum,NOP,SUB: Alvarado FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,00:02.400000,GSW,,NOP,,C. McCollum,NOP,McCollum Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,2,08:15,GSW,,NOP,,C. McCollum,NOP,McCollum BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0116,2,08:10,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,08:09,GSW,,NOP,,C. McCollum,NOP,McCollum Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,2,05:51,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,103,254,27,1,3.0,0.0,v
+S2425-G0116,2,04:57,GSW,,NOP,,C. McCollum,NOP,McCollum Lost Ball Turnover (P4.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,2,01:01,GSW,,NOP,,C. McCollum,NOP,McCollum P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0116,3,11:44,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,125,13,1,2.0,0.0,v
+S2425-G0116,3,06:38,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,41,4,1,2.0,0.0,v
+S2425-G0116,3,04:22,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 4' Driving Layup,Missed Shot,Driving Layup Shot,22,36,4,1,2.0,0.0,v
+S2425-G0116,3,03:40,GSW,,NOP,,C. McCollum,NOP,SUB: Alvarado FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,05:28,GSW,,NOP,,C. McCollum,NOP,McCollum REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,4,04:46,GSW,,NOP,,C. McCollum,NOP,MISS McCollum 28' 3PT Jump Shot,Missed Shot,Jump Shot,86,264,28,1,3.0,0.0,v
+S2425-G0116,4,03:19,GSW,,NOP,,C. McCollum,NOP,SUB: Green FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0069,1,10:39,NOP,4.0,CHI,2.0,C. McCollum,NOP,McCollum 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,7,121,12,1,2.0,2.0,h
+S2425-G0069,1,09:20,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,29,260,26,1,3.0,0.0,h
+S2425-G0069,1,08:17,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,109,16,1,2.0,0.0,h
+S2425-G0069,1,04:21,NOP,17.0,CHI,14.0,C. McCollum,NOP,McCollum 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,21,1,2,1,2.0,2.0,h
+S2425-G0069,1,03:00,NOP,23.0,CHI,17.0,C. McCollum,NOP,McCollum 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,115,222,25,1,3.0,3.0,h
+S2425-G0069,1,02:37,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,37,89,10,1,2.0,0.0,h
+S2425-G0069,1,02:34,NOP,,CHI,,C. McCollum,NOP,SUB: Murray FOR McCollum,Substitution,,0,0,0,0,,,h
+S2425-G0069,2,05:20,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,-107,235,26,1,3.0,0.0,h
+S2425-G0069,2,05:12,NOP,48.0,CHI,45.0,C. McCollum,NOP,McCollum 25' 3PT Jump Shot (10 PTS) (Missi 1 AST),Made Shot,Jump Shot,-39,247,25,1,3.0,3.0,h
+S2425-G0069,2,04:08,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 27' 3PT Jump Shot,Missed Shot,Jump Shot,58,267,27,1,3.0,0.0,h
+S2425-G0069,2,02:49,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,27,124,13,1,2.0,0.0,h
+S2425-G0069,2,00:38.400000,NOP,59.0,CHI,58.0,C. McCollum,NOP,McCollum 25' 3PT Jump Shot (13 PTS) (Murray 4 AST),Made Shot,Jump Shot,109,230,25,1,3.0,3.0,h
+S2425-G0069,2,00:11.900000,NOP,,CHI,,C. McCollum,NOP,SUB: Green FOR McCollum,Substitution,,0,0,0,0,,,h
+S2425-G0069,3,09:54,NOP,,CHI,,C. McCollum,NOP,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,08:45,NOP,,CHI,,C. McCollum,NOP,McCollum STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,3,08:40,NOP,71.0,CHI,66.0,C. McCollum,NOP,McCollum 2' Running Finger Roll Layup (15 PTS) (Theis 3 AST),Made Shot,Running Finger Roll Layup Shot,17,12,2,1,2.0,2.0,h
+S2425-G0069,3,08:18,NOP,74.0,CHI,66.0,C. McCollum,NOP,McCollum 3PT Running Jump Shot (18 PTS) (Murray 5 AST),Made Shot,Running Jump Shot,-230,33,0,1,3.0,3.0,h
+S2425-G0069,3,07:29,NOP,,CHI,,C. McCollum,NOP,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,06:29,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 27' 3PT Jump Shot,Missed Shot,Jump Shot,-61,263,27,1,3.0,0.0,h
+S2425-G0069,3,05:33,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,219,136,26,1,3.0,0.0,h
+S2425-G0069,3,04:30,NOP,80.0,CHI,70.0,C. McCollum,NOP,McCollum 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,-16,7,2,1,2.0,2.0,h
+S2425-G0069,3,04:04,NOP,,CHI,,C. McCollum,NOP,McCollum P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2425-G0069,3,03:20,NOP,83.0,CHI,77.0,C. McCollum,NOP,McCollum 26' 3PT Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,136,225,26,1,3.0,3.0,h
+S2425-G0069,3,02:30,NOP,,CHI,,C. McCollum,NOP,SUB: Murray FOR McCollum,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,04:26,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,170,201,26,1,3.0,0.0,h
+S2425-G0069,4,03:03,NOP,,CHI,,C. McCollum,NOP,MISS McCollum 7' Layup,Missed Shot,Layup Shot,-34,65,7,1,2.0,0.0,h
+S2425-G0069,4,02:09,NOP,,CHI,,C. McCollum,NOP,McCollum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0069,4,01:00,NOP,,CHI,,C. McCollum,NOP,SUB: Reeves FOR McCollum,Substitution,,0,0,0,0,,,h
+S2425-G0086,1,11:25,POR,0.0,,3.0,C. McCollum,NOP,McCollum 28' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,143,235,28,1,3.0,3.0,v
+S2425-G0086,1,09:36,POR,,,,C. McCollum,NOP,MISS McCollum 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,156,226,27,1,3.0,0.0,v
+S2425-G0086,1,09:13,POR,,,,C. McCollum,NOP,McCollum Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0086,1,09:10,POR,,,,C. McCollum,NOP,McCollum STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0086,1,06:42,POR,,,,C. McCollum,NOP,McCollum STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0086,1,05:09,POR,19.0,,12.0,C. McCollum,NOP,McCollum 7' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,-62,34,7,1,2.0,2.0,v
+S2425-G0086,1,04:28,POR,,,,C. McCollum,NOP,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,1,04:15,POR,,,,C. McCollum,NOP,MISS McCollum 28' 3PT Jump Shot,Missed Shot,Jump Shot,-167,225,28,1,3.0,0.0,v
+S2425-G0086,1,02:58,POR,,,,C. McCollum,NOP,SUB: Green FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0086,2,11:27,POR,27.0,,17.0,C. McCollum,NOP,McCollum 10' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,-59,86,10,1,2.0,2.0,v
+S2425-G0086,2,09:20,POR,,,,C. McCollum,NOP,MISS McCollum 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,289,29,1,3.0,0.0,v
+S2425-G0086,2,07:28,POR,,,,C. McCollum,NOP,MISS McCollum 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,153,17,1,2.0,0.0,v
+S2425-G0086,2,06:52,POR,,,,C. McCollum,NOP,SUB: Robinson-Earl FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0086,2,02:42,POR,44.0,,31.0,C. McCollum,NOP,McCollum 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,-138,220,26,1,3.0,3.0,v
+S2425-G0086,2,00:33.300000,POR,,,,C. McCollum,NOP,MISS McCollum 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,59,180,19,1,2.0,0.0,v
+S2425-G0086,3,09:04,POR,,,,C. McCollum,NOP,MISS McCollum 24' 3PT Jump Shot,Missed Shot,Jump Shot,-216,111,24,1,3.0,0.0,v
+S2425-G0086,3,06:59,POR,65.0,,54.0,C. McCollum,NOP,McCollum 27' 3PT Running Pull-Up Jump Shot (13 PTS),Made Shot,Running Pull-Up Jump Shot,70,256,27,1,3.0,3.0,v
+S2425-G0086,3,03:25,POR,,,,C. McCollum,NOP,SUB: Alvarado FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0086,4,10:34,POR,,,,C. McCollum,NOP,McCollum P.FOUL (P1.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0086,4,08:59,POR,91.0,,89.0,C. McCollum,NOP,McCollum 24' 3PT Running Jump Shot (16 PTS) (Williamson 6 AST),Made Shot,Running Jump Shot,-230,55,24,1,3.0,3.0,v
+S2425-G0086,4,08:25,POR,,,,C. McCollum,NOP,MISS McCollum 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-148,219,26,1,3.0,0.0,v
+S2425-G0086,4,08:20,POR,91.0,,91.0,C. McCollum,NOP,McCollum 11' Driving Floating Jump Shot (18 PTS) (Theis 4 AST),Made Shot,Driving Floating Jump Shot,77,79,11,1,2.0,2.0,v
+S2425-G0086,4,08:02,POR,,,,C. McCollum,NOP,McCollum STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0086,4,07:25,POR,,,,C. McCollum,NOP,MISS McCollum 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,114,114,16,1,2.0,0.0,v
+S2425-G0086,4,07:11,POR,,,,C. McCollum,NOP,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,4,06:28,POR,,,,C. McCollum,NOP,McCollum STEAL (4 STL),,,0,0,0,0,,,v
+S2425-G0086,4,06:25,POR,91.0,,95.0,C. McCollum,NOP,McCollum 1' Driving Reverse Layup (20 PTS),Made Shot,Driving Reverse Layup Shot,10,8,1,1,2.0,2.0,v
+S2425-G0086,4,04:52,POR,,,,C. McCollum,NOP,MISS McCollum 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,18,30,3,1,2.0,0.0,v
+S2425-G0086,4,01:50,POR,,,,C. McCollum,NOP,McCollum P.FOUL (P2.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0086,4,00:30.800000,POR,,,,C. McCollum,NOP,McCollum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0086,4,00:04.900000,POR,,,,C. McCollum,NOP,SUB: Green FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0099,1,10:50,POR,,,,C. McCollum,NOP,MISS McCollum 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,188,183,26,1,3.0,0.0,v
+S2425-G0099,1,10:39,POR,0.0,,4.0,C. McCollum,NOP,McCollum 1' Driving Layup (2 PTS) (Ingram 1 AST),Made Shot,Driving Layup Shot,-11,-1,1,1,2.0,2.0,v
+S2425-G0099,1,09:29,POR,,,,C. McCollum,NOP,McCollum STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0099,1,09:16,POR,0.0,,8.0,C. McCollum,NOP,McCollum 20' Step Back Jump Shot (4 PTS) (Theis 1 AST),Made Shot,Step Back Jump shot,-136,148,20,1,2.0,2.0,v
+S2425-G0099,1,08:35,POR,,,,C. McCollum,NOP,MISS McCollum 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-72,132,15,1,2.0,0.0,v
+S2425-G0099,1,07:00,POR,10.0,,13.0,C. McCollum,NOP,McCollum 28' 3PT Jump Shot (7 PTS) (Williamson 2 AST),Made Shot,Jump Shot,6,280,28,1,3.0,3.0,v
+S2425-G0099,1,06:40,POR,,,,C. McCollum,NOP,McCollum STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0099,1,06:37,POR,,,,C. McCollum,NOP,MISS McCollum 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,5,257,26,1,3.0,0.0,v
+S2425-G0099,1,05:13,POR,14.0,,17.0,C. McCollum,NOP,McCollum 1' Layup (9 PTS) (Ingram 2 AST),Made Shot,Layup Shot,-11,1,1,1,2.0,2.0,v
+S2425-G0099,1,03:40,POR,,,,C. McCollum,NOP,MISS McCollum 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,50,274,28,1,3.0,0.0,v
+S2425-G0099,1,03:27,POR,,,,C. McCollum,NOP,SUB: Missi FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0099,2,08:29,POR,,,,C. McCollum,NOP,MISS McCollum 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-53,54,8,1,2.0,0.0,v
+S2425-G0099,2,08:00,POR,,,,C. McCollum,NOP,SUB: Alvarado FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0099,2,04:26,POR,49.0,,38.0,C. McCollum,NOP,McCollum Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,2,04:26,POR,49.0,,39.0,C. McCollum,NOP,McCollum Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,2,03:57,POR,,,,C. McCollum,NOP,McCollum Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0099,2,03:40,POR,,,,C. McCollum,NOP,McCollum STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0099,2,03:38,POR,49.0,,41.0,C. McCollum,NOP,McCollum 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,4,13,1,1,2.0,2.0,v
+S2425-G0099,2,03:11,POR,,,,C. McCollum,NOP,McCollum L.B.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0099,2,03:05,POR,,,,C. McCollum,NOP,McCollum S.FOUL (P2.T4) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0099,2,03:02,POR,,,,C. McCollum,NOP,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,2,00:44.100000,POR,59.0,,47.0,C. McCollum,NOP,McCollum 3' Driving Floating Jump Shot (15 PTS) (Ingram 3 AST),Made Shot,Driving Floating Jump Shot,-22,17,3,1,2.0,2.0,v
+S2425-G0099,2,00:11,POR,,,,C. McCollum,NOP,MISS McCollum 27' 3PT Jump Shot,Missed Shot,Jump Shot,-141,228,27,1,3.0,0.0,v
+S2425-G0099,3,11:47,POR,,,,C. McCollum,NOP,McCollum Traveling Turnover (P2.T6),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0099,3,11:18,POR,61.0,,49.0,C. McCollum,NOP,McCollum 1' Driving Floating Bank Jump Shot (17 PTS),Made Shot,Driving Floating Bank Jump Shot,-7,4,1,1,2.0,2.0,v
+S2425-G0099,3,10:11,POR,,,,C. McCollum,NOP,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,93,246,26,1,3.0,0.0,v
+S2425-G0099,3,10:04,POR,,,,C. McCollum,NOP,MISS McCollum 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-89,179,20,1,2.0,0.0,v
+S2425-G0099,3,07:26,POR,71.0,,58.0,C. McCollum,NOP,McCollum 1' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,12,-2,1,1,2.0,2.0,v
+S2425-G0099,3,06:45,POR,,,,C. McCollum,NOP,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,205,26,1,3.0,0.0,v
+S2425-G0099,3,05:25,POR,,,,C. McCollum,NOP,MISS McCollum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0099,3,05:25,POR,80.0,,59.0,C. McCollum,NOP,McCollum Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,3,04:44,POR,83.0,,62.0,C. McCollum,NOP,McCollum 25' 3PT Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,132,211,25,1,3.0,3.0,v
+S2425-G0099,3,04:35,POR,,,,C. McCollum,NOP,McCollum STEAL (4 STL),,,0,0,0,0,,,v
+S2425-G0099,3,02:47,POR,,,,C. McCollum,NOP,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,3,02:45,POR,,,,C. McCollum,NOP,SUB: Williamson FOR McCollum,Substitution,,0,0,0,0,,,v
+S2425-G0099,3,00:01.500000,POR,93.0,,77.0,C. McCollum,NOP,McCollum Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,3,00:01.500000,POR,,,,C. McCollum,NOP,MISS McCollum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0099,4,08:40,POR,104.0,,84.0,C. McCollum,NOP,McCollum 26' 3PT Jump Shot (27 PTS) (Ingram 4 AST),Made Shot,Jump Shot,102,237,26,1,3.0,3.0,v
+S2425-G0099,4,08:12,POR,,,,C. McCollum,NOP,McCollum Out of Bounds - Bad Pass Turnover Turnover (P3.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0099,4,07:57,POR,,,,C. McCollum,NOP,McCollum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,4,06:36,POR,,,,C. McCollum,NOP,MISS McCollum 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,50,155,16,1,2.0,0.0,v
+S2425-G0099,4,05:33,POR,,,,C. McCollum,NOP,McCollum REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,4,05:31,POR,,,,C. McCollum,NOP,MISS McCollum 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,147,200,25,1,3.0,0.0,v
+S2425-G0099,4,03:43,POR,,,,C. McCollum,NOP,SUB: Robinson-Earl FOR McCollum,Substitution,,0,0,0,0,,,v

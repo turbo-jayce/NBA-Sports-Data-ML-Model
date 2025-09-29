@@ -1,0 +1,2 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0110,4,00:41.700000,DAL,,UTA,,B. Williams,DAL,MISS Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,28,20,3,1,2.0,0.0,h

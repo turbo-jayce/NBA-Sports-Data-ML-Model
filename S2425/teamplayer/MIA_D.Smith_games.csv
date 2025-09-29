@@ -1,0 +1,22 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,4,04:32,MIA,,ORL,,D. Smith,MIA,Smith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0065,4,03:40,MIA,,ORL,,D. Smith,MIA,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,4,03:27,MIA,,ORL,,D. Smith,MIA,MISS Smith 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,51,111,12,1,2.0,0.0,h
+S2425-G0088,1,02:13,CHA,,MIA,,D. Smith,MIA,Smith P.FOUL (P1.T3) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2425-G0088,1,01:46,CHA,,MIA,,D. Smith,MIA,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,1,00:39.300000,CHA,,MIA,,D. Smith,MIA,Smith S.FOUL (P2.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2425-G0088,1,00:23.400000,CHA,,MIA,,D. Smith,MIA,Smith Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0088,1,00:18.200000,CHA,,MIA,,D. Smith,MIA,Smith S.FOUL (P3.PN) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2425-G0088,1,00:18.200000,CHA,,MIA,,D. Smith,MIA,SUB: Rozier FOR Smith,Substitution,,0,0,0,0,,,v
+S2425-G0122,2,11:27,MIA,34.0,NYK,28.0,D. Smith,MIA,Smith 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-1,71,7,1,2.0,2.0,h
+S2425-G0122,2,09:34,MIA,,NYK,,D. Smith,MIA,Smith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0122,2,08:11,MIA,,NYK,,D. Smith,MIA,Smith BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0122,2,08:04,MIA,,NYK,,D. Smith,MIA,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,07:56,MIA,,NYK,,D. Smith,MIA,MISS Smith 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-39,251,25,1,3.0,0.0,h
+S2425-G0122,2,07:42,MIA,,NYK,,D. Smith,MIA,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,06:39,MIA,,NYK,,D. Smith,MIA,Smith BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0122,2,06:36,MIA,,NYK,,D. Smith,MIA,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,03:19,MIA,,NYK,,D. Smith,MIA,SUB: Jaquez Jr. FOR Smith,Substitution,,0,0,0,0,,,h
+S2425-G0122,3,01:30,MIA,,NYK,,D. Smith,MIA,Smith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,3,01:28,MIA,,NYK,,D. Smith,MIA,MISS Smith 11' Running Layup,Missed Shot,Running Layup Shot,98,54,11,1,2.0,0.0,h
+S2425-G0122,3,00:00,MIA,,NYK,,D. Smith,MIA,MISS Smith 10' Driving Hook Shot,Missed Shot,Driving Hook Shot,64,74,10,1,2.0,0.0,h

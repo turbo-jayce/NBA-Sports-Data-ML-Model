@@ -1,0 +1,23 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0067,1,10:56,TOR,3.0,CLE,2.0,I. Quickley,TOR,Quickley 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,137,218,26,1,3.0,3.0,h
+S2425-G0067,1,09:00,TOR,8.0,CLE,6.0,I. Quickley,TOR,Quickley Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,1,09:00,TOR,9.0,CLE,6.0,I. Quickley,TOR,Quickley Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,1,07:30,TOR,13.0,CLE,11.0,I. Quickley,TOR,Quickley 3' Driving Layup (7 PTS) (Barnes 2 AST),Made Shot,Driving Layup Shot,32,10,3,1,2.0,2.0,h
+S2425-G0067,1,07:16,TOR,,CLE,,I. Quickley,TOR,Quickley STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0067,1,06:33,TOR,,CLE,,I. Quickley,TOR,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,1,06:30,TOR,,CLE,,I. Quickley,TOR,MISS Quickley 2' Driving Layup,Missed Shot,Driving Layup Shot,-15,-2,2,1,2.0,0.0,h
+S2425-G0067,1,06:03,TOR,,CLE,,I. Quickley,TOR,Quickley Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0067,1,05:02,TOR,,CLE,,I. Quickley,TOR,Quickley P.FOUL (P1.T2) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2425-G0067,1,05:02,TOR,,CLE,,I. Quickley,TOR,SUB: Mitchell FOR Quickley,Substitution,,0,0,0,0,,,h
+S2425-G0067,2,09:30,TOR,35.0,CLE,41.0,I. Quickley,TOR,Quickley 29' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,143,257,29,1,3.0,3.0,h
+S2425-G0067,2,08:49,TOR,,CLE,,I. Quickley,TOR,MISS Quickley 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-5,38,4,1,2.0,0.0,h
+S2425-G0067,2,06:41,TOR,,CLE,,I. Quickley,TOR,MISS Quickley 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-104,267,29,1,3.0,0.0,h
+S2425-G0067,2,05:58,TOR,,CLE,,I. Quickley,TOR,Quickley Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0067,2,05:32,TOR,45.0,CLE,49.0,I. Quickley,TOR,Quickley 12' Driving Floating Jump Shot (12 PTS) (Pöltl 1 AST),Made Shot,Driving Floating Jump Shot,110,43,12,1,2.0,2.0,h
+S2425-G0067,2,04:19,TOR,,CLE,,I. Quickley,TOR,MISS Quickley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0067,2,04:19,TOR,46.0,CLE,53.0,I. Quickley,TOR,Quickley Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,2,04:09,TOR,,CLE,,I. Quickley,TOR,Quickley P.FOUL (P2.T4) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2425-G0067,2,03:42,TOR,,CLE,,I. Quickley,TOR,MISS Quickley 26' 3PT Jump Shot,Missed Shot,Jump Shot,167,203,26,1,3.0,0.0,h
+S2425-G0067,2,03:10,TOR,,CLE,,I. Quickley,TOR,MISS Quickley 4' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,15,42,4,1,2.0,0.0,h
+S2425-G0067,2,02:37,TOR,,CLE,,I. Quickley,TOR,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,2,02:24,TOR,,CLE,,I. Quickley,TOR,SUB: Shead FOR Quickley,Substitution,,0,0,0,0,,,h

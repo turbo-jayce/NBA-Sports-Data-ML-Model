@@ -1,0 +1,59 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,1,00:44.300000,NYK,,IND,,C. Payne,NYK,MISS Payne 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-22,17,3,1,2.0,0.0,h
+S2425-G0081,1,00:37.700000,NYK,,IND,,C. Payne,NYK,MISS Payne 25' 3PT Jump Shot,Missed Shot,Jump Shot,197,160,25,1,3.0,0.0,h
+S2425-G0081,1,00:08.600000,NYK,,IND,,C. Payne,NYK,SUB: Towns FOR Payne,Substitution,,0,0,0,0,,,h
+S2425-G0081,2,10:41,NYK,,IND,,C. Payne,NYK,Payne P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2425-G0081,2,08:59,NYK,,IND,,C. Payne,NYK,MISS Payne 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-186,175,26,1,3.0,0.0,h
+S2425-G0081,2,07:50,NYK,36.0,IND,35.0,C. Payne,NYK,Payne 1' Driving Finger Roll Layup (2 PTS) (Hart 2 AST),Made Shot,Driving Finger Roll Layup Shot,9,-5,1,1,2.0,2.0,h
+S2425-G0081,2,06:14,NYK,43.0,IND,37.0,C. Payne,NYK,Payne 25' 3PT Jump Shot (5 PTS) (Brunson 2 AST),Made Shot,Jump Shot,-168,185,25,1,3.0,3.0,h
+S2425-G0081,2,02:33,NYK,,IND,,C. Payne,NYK,Payne STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0081,4,10:20,NYK,,IND,,C. Payne,NYK,MISS Payne 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,43,4,1,2.0,0.0,h
+S2425-G0081,4,10:19,NYK,,IND,,C. Payne,NYK,Payne REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,4,09:30,NYK,,IND,,C. Payne,NYK,MISS Payne 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,141,216,26,1,3.0,0.0,h
+S2425-G0081,4,08:25,NYK,,IND,,C. Payne,NYK,MISS Payne 26' 3PT Jump Shot,Missed Shot,Jump Shot,-2,255,26,1,3.0,0.0,h
+S2425-G0081,4,08:00,NYK,,IND,,C. Payne,NYK,SUB: Brunson FOR Payne,Substitution,,0,0,0,0,,,h
+S2425-G0081,4,04:40,NYK,,IND,,C. Payne,NYK,Payne REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,4,03:45,NYK,117.0,IND,88.0,C. Payne,NYK,Payne 2' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,11,13,2,1,2.0,2.0,h
+S2425-G0081,4,03:45,NYK,,IND,,C. Payne,NYK,MISS Payne Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0081,4,02:08,NYK,,IND,,C. Payne,NYK,SUB: Toppin FOR Payne,Substitution,,0,0,0,0,,,h
+S2425-G0106,1,02:07,NYK,13.0,CLE,17.0,C. Payne,NYK,Payne 24' 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,-241,-1,24,1,3.0,3.0,h
+S2425-G0106,1,01:13,NYK,,CLE,,C. Payne,NYK,MISS Payne 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,89,9,1,2.0,0.0,h
+S2425-G0106,1,01:11,NYK,,CLE,,C. Payne,NYK,Payne REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,1,01:09,NYK,,CLE,,C. Payne,NYK,MISS Payne 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-40,38,6,1,2.0,0.0,h
+S2425-G0106,1,00:58.800000,NYK,,CLE,,C. Payne,NYK,Payne REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,2,11:42,NYK,,CLE,,C. Payne,NYK,MISS Payne 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,13,24,1,3.0,0.0,h
+S2425-G0106,2,09:38,NYK,27.0,CLE,28.0,C. Payne,NYK,Payne 25' 3PT Jump Shot (6 PTS) (McBride 3 AST),Made Shot,Jump Shot,-62,247,25,1,3.0,3.0,h
+S2425-G0106,2,09:03,NYK,,CLE,,C. Payne,NYK,SUB: Hukporti FOR Payne,Substitution,,0,0,0,0,,,h
+S2425-G0106,3,03:16,NYK,,CLE,,C. Payne,NYK,Payne Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0106,3,03:14,NYK,,CLE,,C. Payne,NYK,Payne S.FOUL (P1.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0106,3,02:29,NYK,,CLE,,C. Payne,NYK,MISS Payne 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,36,-1,4,1,2.0,0.0,h
+S2425-G0106,3,02:18,NYK,,CLE,,C. Payne,NYK,Payne REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,3,02:07,NYK,,CLE,,C. Payne,NYK,MISS Payne 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-20,207,21,1,2.0,0.0,h
+S2425-G0106,4,11:01,NYK,,CLE,,C. Payne,NYK,SUB: Anunoby FOR Payne,Substitution,,0,0,0,0,,,h
+S2425-G0122,2,09:56,MIA,,NYK,,C. Payne,NYK,Payne BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0122,2,09:40,MIA,,NYK,,C. Payne,NYK,Payne STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0122,2,08:40,MIA,,NYK,,C. Payne,NYK,SUB: Sims FOR Payne,Substitution,,0,0,0,0,,,v
+S2425-G0122,3,01:36,MIA,,NYK,,C. Payne,NYK,MISS Payne 28' 3PT Jump Shot,Missed Shot,Jump Shot,87,267,28,1,3.0,0.0,v
+S2425-G0122,3,00:24.700000,MIA,,NYK,,C. Payne,NYK,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,4,10:26,MIA,,NYK,,C. Payne,NYK,Payne S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2425-G0122,4,09:36,MIA,,NYK,,C. Payne,NYK,SUB: Brunson FOR Payne,Substitution,,0,0,0,0,,,v
+S2425-G0061,1,02:27,BOS,,NYK,,C. Payne,NYK,Payne Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0061,1,01:29,BOS,,NYK,,C. Payne,NYK,MISS Payne 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-59,256,26,1,3.0,0.0,v
+S2425-G0061,1,01:24,BOS,,NYK,,C. Payne,NYK,Payne P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0061,2,09:48,BOS,,NYK,,C. Payne,NYK,MISS Payne 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,57,6,1,2.0,0.0,v
+S2425-G0061,2,07:45,BOS,,NYK,,C. Payne,NYK,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,2,06:18,BOS,54.0,NYK,35.0,C. Payne,NYK,Payne 6' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-53,19,6,1,2.0,2.0,v
+S2425-G0061,2,06:18,BOS,,NYK,,C. Payne,NYK,SUB: Hart FOR Payne,Substitution,,0,0,0,0,,,v
+S2425-G0061,3,02:24,BOS,,NYK,,C. Payne,NYK,Payne REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,3,02:17,BOS,108.0,NYK,81.0,C. Payne,NYK,Payne 27' 3PT Jump Shot (5 PTS) (Anunoby 3 AST),Made Shot,Jump Shot,-6,268,27,1,3.0,3.0,v
+S2425-G0061,3,00:07.300000,BOS,,NYK,,C. Payne,NYK,MISS Payne 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,7,52,5,1,2.0,0.0,v
+S2425-G0061,3,00:00.100000,BOS,,NYK,,C. Payne,NYK,Payne STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0061,4,10:39,BOS,,NYK,,C. Payne,NYK,Payne P.FOUL (P2.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0061,4,10:10,BOS,,NYK,,C. Payne,NYK,Payne P.FOUL (P3.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0061,4,08:25,BOS,,NYK,,C. Payne,NYK,MISS Payne 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,252,27,1,3.0,0.0,v
+S2425-G0061,4,07:19,BOS,,NYK,,C. Payne,NYK,MISS Payne 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-113,249,27,1,3.0,0.0,v
+S2425-G0061,4,06:16,BOS,,NYK,,C. Payne,NYK,Payne REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,4,05:17,BOS,130.0,NYK,102.0,C. Payne,NYK,Payne 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-4,7,1,1,2.0,2.0,v
+S2425-G0061,4,04:48,BOS,130.0,NYK,104.0,C. Payne,NYK,Payne 7' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,-56,38,7,1,2.0,2.0,v
+S2425-G0061,4,03:44,BOS,132.0,NYK,109.0,C. Payne,NYK,Payne 16' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,98,132,16,1,2.0,2.0,v
+S2425-G0061,4,02:47,BOS,,NYK,,C. Payne,NYK,SUB: Toppin FOR Payne,Substitution,,0,0,0,0,,,v

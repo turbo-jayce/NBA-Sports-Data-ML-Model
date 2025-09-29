@@ -1,0 +1,116 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,09:37,DAL,,SAS,,P. Washington,DAL,Washington P.FOUL (P1.T2) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2425-G0074,1,08:40,DAL,,SAS,,P. Washington,DAL,MISS Washington 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,141,215,26,1,3.0,0.0,h
+S2425-G0074,1,07:38,DAL,,SAS,,P. Washington,DAL,MISS Washington 2' Driving Layup,Missed Shot,Driving Layup Shot,9,16,2,1,2.0,0.0,h
+S2425-G0074,1,07:34,DAL,,SAS,,P. Washington,DAL,Washington REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,1,07:34,DAL,9.0,SAS,10.0,P. Washington,DAL,Washington Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0074,1,05:59,DAL,,SAS,,P. Washington,DAL,MISS Washington 24' 3PT Jump Shot,Missed Shot,Jump Shot,-162,177,24,1,3.0,0.0,h
+S2425-G0074,1,04:32,DAL,,SAS,,P. Washington,DAL,SUB: Kleber FOR Washington,Substitution,,0,0,0,0,,,h
+S2425-G0074,2,09:08,DAL,,SAS,,P. Washington,DAL,MISS Washington 25' 3PT Jump Shot,Missed Shot,Jump Shot,60,245,25,1,3.0,0.0,h
+S2425-G0074,2,07:26,DAL,,SAS,,P. Washington,DAL,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,-222,-10,0,1,3.0,0.0,h
+S2425-G0074,2,07:19,DAL,,SAS,,P. Washington,DAL,MISS Washington Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0074,2,07:19,DAL,28.0,SAS,30.0,P. Washington,DAL,Washington Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,2,05:19,DAL,,SAS,,P. Washington,DAL,Washington REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,04:35,DAL,,SAS,,P. Washington,DAL,SUB: Dončić FOR Washington,Substitution,,0,0,0,0,,,h
+S2425-G0074,3,11:31,DAL,,SAS,,P. Washington,DAL,Washington REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,3,09:15,DAL,,SAS,,P. Washington,DAL,Washington STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0074,3,07:11,DAL,69.0,SAS,55.0,P. Washington,DAL,Washington 3PT Jump Shot (6 PTS) (Dončić 6 AST),Made Shot,Jump Shot,221,12,0,1,3.0,3.0,h
+S2425-G0074,3,06:20,DAL,,SAS,,P. Washington,DAL,MISS Washington 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,114,223,25,1,3.0,0.0,h
+S2425-G0074,3,05:23,DAL,,SAS,,P. Washington,DAL,Washington REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,3,04:08,DAL,,SAS,,P. Washington,DAL,SUB: Kleber FOR Washington,Substitution,,0,0,0,0,,,h
+S2425-G0074,4,06:01,DAL,111.0,SAS,90.0,P. Washington,DAL,Washington 26' 3PT Jump Shot (9 PTS) (Lively II 6 AST),Made Shot,Jump Shot,-142,221,26,1,3.0,3.0,h
+S2425-G0074,4,01:59,DAL,,SAS,,P. Washington,DAL,MISS Washington 2' Driving Layup,Missed Shot,Driving Layup Shot,20,-5,2,1,2.0,0.0,h
+S2425-G0074,4,01:59,DAL,,SAS,,P. Washington,DAL,Washington REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,4,01:59,DAL,118.0,SAS,105.0,P. Washington,DAL,Washington Tip Dunk Shot (11 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0074,4,01:42,DAL,,SAS,,P. Washington,DAL,SUB: Prosper FOR Washington,Substitution,,0,0,0,0,,,h
+S2425-G0110,1,10:59,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,1,10:51,DAL,,UTA,,P. Washington,DAL,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,-222,4,0,1,3.0,0.0,h
+S2425-G0110,1,09:59,DAL,5.0,UTA,2.0,P. Washington,DAL,Washington 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,10,115,12,1,2.0,2.0,h
+S2425-G0110,1,09:40,DAL,,UTA,,P. Washington,DAL,Washington S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2425-G0110,1,09:25,DAL,7.0,UTA,2.0,P. Washington,DAL,Washington 4' Hook Shot (4 PTS) (Irving 1 AST),Made Shot,Hook Shot,44,8,4,1,2.0,2.0,h
+S2425-G0110,1,08:10,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,1,07:38,DAL,,UTA,,P. Washington,DAL,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,-228,-6,0,1,3.0,0.0,h
+S2425-G0110,1,06:29,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,1,05:30,DAL,,UTA,,P. Washington,DAL,Washington Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0110,1,05:12,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,1,04:45,DAL,17.0,UTA,12.0,P. Washington,DAL,Washington 1' Running Reverse Layup (6 PTS) (Dončić 3 AST),Made Shot,Running Reverse Layup Shot,13,4,1,1,2.0,2.0,h
+S2425-G0110,1,03:18,DAL,,UTA,,P. Washington,DAL,SUB: Irving FOR Washington,Substitution,,0,0,0,0,,,h
+S2425-G0110,2,08:47,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,2,08:46,DAL,35.0,UTA,25.0,P. Washington,DAL,Washington 3' Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,25,6,3,1,2.0,2.0,h
+S2425-G0110,2,07:55,DAL,,UTA,,P. Washington,DAL,Washington BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0110,2,06:38,DAL,,UTA,,P. Washington,DAL,Washington STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0110,2,04:58,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,2,04:44,DAL,,UTA,,P. Washington,DAL,Washington BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0110,2,04:43,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,2,02:36,DAL,,UTA,,P. Washington,DAL,Washington STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0110,2,01:27,DAL,,UTA,,P. Washington,DAL,Washington STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0110,2,01:24,DAL,,UTA,,P. Washington,DAL,Washington Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0110,2,00:56.400000,DAL,,UTA,,P. Washington,DAL,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,h
+S2425-G0110,2,00:46.900000,DAL,,UTA,,P. Washington,DAL,Washington S.FOUL (P2.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2425-G0110,3,08:12,DAL,,UTA,,P. Washington,DAL,MISS Washington 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-74,65,10,1,2.0,0.0,h
+S2425-G0110,3,07:54,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,07:52,DAL,64.0,UTA,51.0,P. Washington,DAL,Washington 2' Running Dunk (10 PTS) (Thompson 2 AST),Made Shot,Running Dunk Shot,2,18,2,1,2.0,2.0,h
+S2425-G0110,3,07:03,DAL,,UTA,,P. Washington,DAL,Washington STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0110,3,04:14,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,04:05,DAL,,UTA,,P. Washington,DAL,Washington Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0110,3,03:49,DAL,,UTA,,P. Washington,DAL,SUB: Marshall FOR Washington,Substitution,,0,0,0,0,,,h
+S2425-G0110,4,04:56,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,4,03:58,DAL,,UTA,,P. Washington,DAL,MISS Washington 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-56,256,26,1,3.0,0.0,h
+S2425-G0110,4,01:40,DAL,,UTA,,P. Washington,DAL,Washington REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,4,01:26,DAL,110.0,UTA,97.0,P. Washington,DAL,Washington 1' Dunk (12 PTS) (Dončić 8 AST),Made Shot,Dunk Shot,-12,7,1,1,2.0,2.0,h
+S2425-G0110,4,01:06,DAL,,UTA,,P. Washington,DAL,SUB: Williams FOR Washington,Substitution,,0,0,0,0,,,h
+S2425-G0114,1,10:09,MIN,2.0,DAL,6.0,P. Washington,DAL,Washington 5' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,-27,43,5,1,2.0,2.0,v
+S2425-G0114,1,09:50,MIN,,DAL,,P. Washington,DAL,Washington S.FOUL (P1.T1) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,1,06:22,MIN,,DAL,,P. Washington,DAL,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,-233,-4,0,1,3.0,0.0,v
+S2425-G0114,1,05:55,MIN,,DAL,,P. Washington,DAL,Washington REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,1,05:29,MIN,,DAL,,P. Washington,DAL,Washington REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,1,05:11,MIN,,DAL,,P. Washington,DAL,Washington REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,1,05:11,MIN,18.0,DAL,20.0,P. Washington,DAL,Washington 7' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-2,74,7,1,2.0,2.0,v
+S2425-G0114,1,04:08,MIN,,DAL,,P. Washington,DAL,SUB: Grimes FOR Washington,Substitution,,0,0,0,0,,,v
+S2425-G0114,2,08:59,MIN,,DAL,,P. Washington,DAL,Washington REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,08:01,MIN,42.0,DAL,34.0,P. Washington,DAL,Washington 2' Running Layup (6 PTS) (Hardy 1 AST),Made Shot,Running Layup Shot,10,13,2,1,2.0,2.0,v
+S2425-G0114,2,05:14,MIN,,DAL,,P. Washington,DAL,Washington REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,05:11,MIN,,DAL,,P. Washington,DAL,Washington REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,05:06,MIN,47.0,DAL,46.0,P. Washington,DAL,Washington 25' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,-20,251,25,1,3.0,3.0,v
+S2425-G0114,2,02:12,MIN,55.0,DAL,57.0,P. Washington,DAL,Washington 26' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,124,226,26,1,3.0,3.0,v
+S2425-G0114,2,01:34,MIN,,DAL,,P. Washington,DAL,MISS Washington 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-11,104,10,1,2.0,0.0,v
+S2425-G0114,2,00:04.900000,MIN,,DAL,,P. Washington,DAL,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,233,26,0,1,3.0,0.0,v
+S2425-G0114,3,11:19,MIN,,DAL,,P. Washington,DAL,Washington S.FOUL (P2.T1) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,3,09:17,MIN,69.0,DAL,64.0,P. Washington,DAL,Washington 25' 3PT Jump Shot (15 PTS) (Irving 4 AST),Made Shot,Jump Shot,205,143,25,1,3.0,3.0,v
+S2425-G0114,3,08:28,MIN,,DAL,,P. Washington,DAL,MISS Washington 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,69,237,25,1,3.0,0.0,v
+S2425-G0114,3,08:25,MIN,,DAL,,P. Washington,DAL,Washington REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,3,08:07,MIN,,DAL,,P. Washington,DAL,Washington STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0114,3,07:00,MIN,,DAL,,P. Washington,DAL,Washington P.FOUL (P3.T4) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2425-G0114,3,06:49,MIN,,DAL,,P. Washington,DAL,Washington S.FOUL (P4.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,3,06:49,MIN,,DAL,,P. Washington,DAL,SUB: Marshall FOR Washington,Substitution,,0,0,0,0,,,v
+S2425-G0114,4,07:36,MIN,,DAL,,P. Washington,DAL,MISS Washington 11' Floating Jump Shot,Missed Shot,Floating Jump shot,47,104,11,1,2.0,0.0,v
+S2425-G0114,4,04:54,MIN,,DAL,,P. Washington,DAL,MISS Washington 7' Driving Layup,Missed Shot,Driving Layup Shot,-42,57,7,1,2.0,0.0,v
+S2425-G0114,4,03:52,MIN,104.0,DAL,109.0,P. Washington,DAL,Washington 1' Alley Oop Dunk (17 PTS) (Dončić 8 AST),Made Shot,Alley Oop Dunk Shot,-5,-5,1,1,2.0,2.0,v
+S2425-G0114,4,03:42,MIN,,DAL,,P. Washington,DAL,Washington S.FOUL (P5.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,4,01:22,MIN,,DAL,,P. Washington,DAL,Washington REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,09:56,PHX,,DAL,,P. Washington,DAL,Washington P.FOUL (P1.T2) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2425-G0095,1,09:12,PHX,,DAL,,P. Washington,DAL,MISS Washington 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,4,24,1,3.0,0.0,v
+S2425-G0095,1,06:13,PHX,,DAL,,P. Washington,DAL,Washington REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,03:39,PHX,,DAL,,P. Washington,DAL,SUB: Kleber FOR Washington,Substitution,,0,0,0,0,,,v
+S2425-G0095,2,08:34,PHX,,DAL,,P. Washington,DAL,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,230,9,0,1,3.0,0.0,v
+S2425-G0095,2,07:15,PHX,,DAL,,P. Washington,DAL,Washington S.FOUL (P2.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,2,06:39,PHX,,DAL,,P. Washington,DAL,MISS Washington 4' Running Layup,Missed Shot,Running Layup Shot,32,27,4,1,2.0,0.0,v
+S2425-G0095,2,03:55,PHX,,DAL,,P. Washington,DAL,Washington REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,2,03:49,PHX,52.0,DAL,43.0,P. Washington,DAL,Washington 24' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-162,183,24,1,3.0,3.0,v
+S2425-G0095,3,11:11,PHX,,DAL,,P. Washington,DAL,MISS Washington 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-75,88,12,1,2.0,0.0,v
+S2425-G0095,3,07:57,PHX,,DAL,,P. Washington,DAL,Washington REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,3,07:57,PHX,72.0,DAL,69.0,P. Washington,DAL,Washington Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0095,3,06:20,PHX,,DAL,,P. Washington,DAL,MISS Washington 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,11,24,1,3.0,0.0,v
+S2425-G0095,3,04:49,PHX,,DAL,,P. Washington,DAL,Washington STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0095,3,03:44,PHX,,DAL,,P. Washington,DAL,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,-233,23,0,1,3.0,0.0,v
+S2425-G0095,3,03:32,PHX,,DAL,,P. Washington,DAL,Washington REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,3,02:27,PHX,,DAL,,P. Washington,DAL,SUB: Irving FOR Washington,Substitution,,0,0,0,0,,,v
+S2425-G0095,4,06:53,PHX,,DAL,,P. Washington,DAL,MISS Washington 2' Driving Dunk,Missed Shot,Driving Dunk Shot,-2,15,2,1,2.0,0.0,v
+S2425-G0095,4,06:04,PHX,,DAL,,P. Washington,DAL,MISS Washington 6' Hook Shot,Missed Shot,Hook Shot,-4,63,6,1,2.0,0.0,v
+S2425-G0095,4,03:09,PHX,,DAL,,P. Washington,DAL,Washington REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,4,03:01,PHX,,DAL,,P. Washington,DAL,Washington P.FOUL (P3.T4) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2425-G0095,4,02:40,PHX,,DAL,,P. Washington,DAL,Washington BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0095,4,01:53,PHX,,DAL,,P. Washington,DAL,Washington REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,4,01:51,PHX,,DAL,,P. Washington,DAL,Washington Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0095,4,01:38,PHX,,DAL,,P. Washington,DAL,Washington S.FOUL (P4.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,4,01:01,PHX,,DAL,,P. Washington,DAL,SUB: Powell FOR Washington,Substitution,,0,0,0,0,,,v

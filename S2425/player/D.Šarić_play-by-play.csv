@@ -1,0 +1,31 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0107,1,00:54.900000,TOR,,DEN,,D. Šarić,DEN,MISS Šarić 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-16,-5,2,1,2.0,0.0,v
+S2425-G0107,1,00:01.400000,TOR,,DEN,,D. Šarić,DEN,Šarić Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0107,2,11:08,TOR,,DEN,,D. Šarić,DEN,Šarić REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,2,10:41,TOR,,DEN,,D. Šarić,DEN,MISS Šarić 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,36,37,5,1,2.0,0.0,v
+S2425-G0107,2,10:17,TOR,,DEN,,D. Šarić,DEN,MISS Šarić 5' Layup,Missed Shot,Layup Shot,-40,34,5,1,2.0,0.0,v
+S2425-G0107,2,09:27,TOR,,DEN,,D. Šarić,DEN,Šarić Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0107,2,09:18,TOR,,DEN,,D. Šarić,DEN,SUB: Gordon FOR Šarić,Substitution,,0,0,0,0,,,v
+S2425-G0075,2,10:25,DEN,,OKC,,D. Šarić,DEN,Šarić S.FOUL (P1.T1) (D.Scott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0075,2,10:07,DEN,30.0,OKC,35.0,D. Šarić,DEN,Šarić 2' Layup (2 PTS),Made Shot,Layup Shot,17,10,2,1,2.0,2.0,h
+S2425-G0075,2,09:54,DEN,,OKC,,D. Šarić,DEN,Šarić REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0075,2,09:15,DEN,,OKC,,D. Šarić,DEN,MISS Šarić 25' 3PT Jump Shot,Missed Shot,Jump Shot,142,206,25,1,3.0,0.0,h
+S2425-G0075,2,08:22,DEN,,OKC,,D. Šarić,DEN,SUB: Porter Jr. FOR Šarić,Substitution,,0,0,0,0,,,h
+S2425-G0075,4,09:24,DEN,,OKC,,D. Šarić,DEN,Šarić STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0075,4,09:16,DEN,,OKC,,D. Šarić,DEN,SUB: Jokić FOR Šarić,Substitution,,0,0,0,0,,,h
+S2425-G0087,1,02:09,DEN,,LAC,,D. Šarić,DEN,MISS Šarić 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,27,31,4,1,2.0,0.0,h
+S2425-G0087,1,00:12.100000,DEN,,LAC,,D. Šarić,DEN,Šarić S.FOUL (P1.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0087,2,10:49,DEN,,LAC,,D. Šarić,DEN,Šarić REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0087,2,10:49,DEN,,LAC,,D. Šarić,DEN,MISS Šarić Reverse Layup,Missed Shot,Reverse Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0087,2,10:29,DEN,,LAC,,D. Šarić,DEN,Šarić REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0087,2,10:06,DEN,,LAC,,D. Šarić,DEN,Šarić S.FOUL (P2.T1) (A.Abazi),Foul,Shooting,0,0,0,0,,,h
+S2425-G0087,2,07:42,DEN,,LAC,,D. Šarić,DEN,SUB: Jokić FOR Šarić,Substitution,,0,0,0,0,,,h
+S2425-G0087,4,09:53,DEN,,LAC,,D. Šarić,DEN,SUB: Gordon FOR Šarić,Substitution,,0,0,0,0,,,h
+S2425-G0113,1,02:25,BKN,30.0,DEN,23.0,D. Šarić,DEN,Šarić 20' Jump Shot (2 PTS) (Westbrook 1 AST),Made Shot,Jump Shot,194,26,20,1,2.0,2.0,v
+S2425-G0113,1,01:34,BKN,,DEN,,D. Šarić,DEN,MISS Šarić 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-15,32,4,1,2.0,0.0,v
+S2425-G0113,2,10:00,BKN,,DEN,,D. Šarić,DEN,Šarić REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0113,2,10:00,BKN,44.0,DEN,30.0,D. Šarić,DEN,Šarić Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0113,2,10:00,BKN,,DEN,,D. Šarić,DEN,MISS Šarić Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0113,2,09:03,BKN,,DEN,,D. Šarić,DEN,Šarić REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0113,2,08:08,BKN,,DEN,,D. Šarić,DEN,SUB: Jokić FOR Šarić,Substitution,,0,0,0,0,,,v
+S2425-G0113,4,07:35,BKN,,DEN,,D. Šarić,DEN,SUB: Murray FOR Šarić,Substitution,,0,0,0,0,,,v

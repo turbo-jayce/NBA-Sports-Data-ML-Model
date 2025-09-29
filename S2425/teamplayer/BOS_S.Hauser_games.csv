@@ -1,0 +1,33 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0119,1,03:34,IND,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,1,02:40,IND,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,2,11:41,IND,,BOS,,S. Hauser,BOS,MISS Hauser 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,131,247,28,1,3.0,0.0,v
+S2425-G0119,2,11:12,IND,,BOS,,S. Hauser,BOS,MISS Hauser 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-22,21,3,1,2.0,0.0,v
+S2425-G0119,2,08:55,IND,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-8,24,1,3.0,0.0,v
+S2425-G0119,2,08:40,IND,44.0,BOS,39.0,S. Hauser,BOS,Hauser 2' Cutting Dunk Shot (2 PTS) (Brown 2 AST),Made Shot,Cutting Dunk Shot,0,24,2,1,2.0,2.0,v
+S2425-G0119,2,08:17,IND,,BOS,,S. Hauser,BOS,SUB: Walsh FOR Hauser,Substitution,,0,0,0,0,,,v
+S2425-G0119,3,02:52,IND,,BOS,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0119,3,02:48,IND,96.0,BOS,78.0,S. Hauser,BOS,Hauser 25' 3PT Running Jump Shot (5 PTS) (Tatum 2 AST),Made Shot,Running Jump Shot,168,188,25,1,3.0,3.0,v
+S2425-G0119,3,02:18,IND,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-234,143,27,1,3.0,0.0,v
+S2425-G0119,3,00:41.400000,IND,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0119,3,00:38.400000,IND,,BOS,,S. Hauser,BOS,Hauser Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0119,5,00:27.300000,IND,,BOS,,S. Hauser,BOS,SUB: Queta FOR Hauser,Substitution,,0,0,0,0,,,v
+S2425-G0061,1,02:05,BOS,,NYK,,S. Hauser,BOS,Hauser S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2425-G0061,1,02:05,BOS,,NYK,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,1,01:22,BOS,38.0,NYK,20.0,S. Hauser,BOS,Hauser 25' 3PT Pullup Jump Shot (3 PTS) (Tatum 4 AST),Made Shot,Pullup Jump shot,137,212,25,1,3.0,3.0,h
+S2425-G0061,1,01:05,BOS,,NYK,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,2,11:23,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-107,239,26,1,3.0,0.0,h
+S2425-G0061,2,11:05,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 2' Running Layup,Missed Shot,Running Layup Shot,-9,17,2,1,2.0,0.0,h
+S2425-G0061,2,09:47,BOS,,NYK,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,2,08:17,BOS,,NYK,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,2,07:38,BOS,,NYK,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,2,06:34,BOS,54.0,NYK,33.0,S. Hauser,BOS,Hauser 16' Pullup Jump Shot (5 PTS) (Horford 1 AST),Made Shot,Pullup Jump shot,-152,57,16,1,2.0,2.0,h
+S2425-G0061,2,06:18,BOS,,NYK,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,h
+S2425-G0061,3,03:07,BOS,,NYK,,S. Hauser,BOS,Hauser P.FOUL (P2.T3) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2425-G0061,4,11:33,BOS,116.0,NYK,87.0,S. Hauser,BOS,Hauser 30' 3PT Jump Shot (8 PTS) (Tillman 2 AST),Made Shot,Jump Shot,108,283,30,1,3.0,3.0,h
+S2425-G0061,4,09:54,BOS,,NYK,,S. Hauser,BOS,SUB: Pritchard FOR Hauser,Substitution,,0,0,0,0,,,h
+S2425-G0061,4,04:59,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,134,218,26,1,3.0,0.0,h
+S2425-G0061,4,04:04,BOS,132.0,NYK,107.0,S. Hauser,BOS,Hauser 14' Driving Floating Bank Jump Shot (10 PTS) (Walsh 1 AST),Made Shot,Driving Floating Bank Jump Shot,115,88,14,1,2.0,2.0,h
+S2425-G0061,4,03:02,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-105,247,27,1,3.0,0.0,h
+S2425-G0061,4,02:30,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-56,262,27,1,3.0,0.0,h
+S2425-G0061,4,00:57.900000,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-154,214,26,1,3.0,0.0,h

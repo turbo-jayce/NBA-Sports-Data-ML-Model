@@ -1,0 +1,165 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0066,1,10:46,PHI,,MIL,,D. Lillard,MIL,MISS Lillard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,274,27,1,3.0,0.0,v
+S2425-G0066,1,10:36,PHI,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,1,08:02,PHI,,MIL,,D. Lillard,MIL,MISS Lillard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,106,25,1,3.0,0.0,v
+S2425-G0066,1,07:16,PHI,8.0,MIL,5.0,D. Lillard,MIL,Lillard Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0066,1,07:16,PHI,8.0,MIL,6.0,D. Lillard,MIL,Lillard Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0066,1,06:48,PHI,10.0,MIL,8.0,D. Lillard,MIL,Lillard 7' Step Back Bank Jump Shot (4 PTS),Made Shot,Step Back Bank Jump Shot,61,37,7,1,2.0,2.0,v
+S2425-G0066,1,04:32,PHI,,MIL,,D. Lillard,MIL,MISS Lillard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,162,211,27,1,3.0,0.0,v
+S2425-G0066,1,01:56,PHI,,MIL,,D. Lillard,MIL,MISS Lillard 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,47,5,1,2.0,0.0,v
+S2425-G0066,1,01:24,PHI,,MIL,,D. Lillard,MIL,SUB: Wright FOR Lillard,Substitution,,0,0,0,0,,,v
+S2425-G0066,2,07:17,PHI,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,2,06:44,PHI,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,2,06:07,PHI,33.0,MIL,36.0,D. Lillard,MIL,Lillard 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-229,-5,0,1,3.0,3.0,v
+S2425-G0066,2,05:09,PHI,,MIL,,D. Lillard,MIL,MISS Lillard 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,23,20,3,1,2.0,0.0,v
+S2425-G0066,2,05:09,PHI,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,2,05:09,PHI,,MIL,,D. Lillard,MIL,MISS Lillard Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0066,2,05:09,PHI,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,2,04:36,PHI,37.0,MIL,41.0,D. Lillard,MIL,Lillard 1' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,6,8,1,1,2.0,2.0,v
+S2425-G0066,2,02:25,PHI,42.0,MIL,54.0,D. Lillard,MIL,Lillard 26' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,170,200,26,1,3.0,3.0,v
+S2425-G0066,2,00:57.800000,PHI,44.0,MIL,56.0,D. Lillard,MIL,Lillard Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0066,2,00:57.800000,PHI,,MIL,,D. Lillard,MIL,MISS Lillard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0066,2,00:33.400000,PHI,45.0,MIL,58.0,D. Lillard,MIL,Lillard 1' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,6,11,1,1,2.0,2.0,v
+S2425-G0066,2,00:09.200000,PHI,,MIL,,D. Lillard,MIL,MISS Lillard 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,104,258,28,1,3.0,0.0,v
+S2425-G0066,3,08:19,PHI,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,3,08:14,PHI,,MIL,,D. Lillard,MIL,Lillard Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0066,3,06:52,PHI,63.0,MIL,77.0,D. Lillard,MIL,Lillard 26' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,61,255,26,1,3.0,3.0,v
+S2425-G0066,3,05:59,PHI,64.0,MIL,80.0,D. Lillard,MIL,Lillard 27' 3PT Jump Shot (21 PTS) (Lopez 2 AST),Made Shot,Jump Shot,16,271,27,1,3.0,3.0,v
+S2425-G0066,3,04:38,PHI,,MIL,,D. Lillard,MIL,Lillard Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0066,3,04:15,PHI,,MIL,,D. Lillard,MIL,MISS Lillard 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-2,30,3,1,2.0,0.0,v
+S2425-G0066,3,03:31,PHI,72.0,MIL,85.0,D. Lillard,MIL,Lillard Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0066,3,03:31,PHI,72.0,MIL,86.0,D. Lillard,MIL,Lillard Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0066,3,03:19,PHI,72.0,MIL,89.0,D. Lillard,MIL,Lillard 25' 3PT Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,-9,250,25,1,3.0,3.0,v
+S2425-G0066,3,02:51,PHI,73.0,MIL,92.0,D. Lillard,MIL,Lillard 28' 3PT Pullup Jump Shot (29 PTS),Made Shot,Pullup Jump shot,37,281,28,1,3.0,3.0,v
+S2425-G0066,3,02:13,PHI,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,3,00:56.400000,PHI,78.0,MIL,95.0,D. Lillard,MIL,Lillard Free Throw Technical (30 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0066,4,08:14,PHI,,MIL,,D. Lillard,MIL,Lillard Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0066,4,07:00,PHI,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,4,06:56,PHI,,MIL,,D. Lillard,MIL,MISS Lillard 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-51,255,26,1,3.0,0.0,v
+S2425-G0066,4,06:37,PHI,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,4,02:18,PHI,,MIL,,D. Lillard,MIL,MISS Lillard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-10,273,27,1,3.0,0.0,v
+S2425-G0066,4,02:13,PHI,,MIL,,D. Lillard,MIL,Lillard P.FOUL (P1.T3) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2425-G0066,4,01:06,PHI,,MIL,,D. Lillard,MIL,SUB: Jackson Jr. FOR Lillard,Substitution,,0,0,0,0,,,v
+S2425-G0083,1,11:42,MIL,,CHI,,D. Lillard,MIL,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,126,230,26,1,3.0,0.0,h
+S2425-G0083,1,09:40,MIL,,CHI,,D. Lillard,MIL,MISS Lillard 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-58,21,6,1,2.0,0.0,h
+S2425-G0083,1,06:51,MIL,,CHI,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,06:44,MIL,,CHI,,D. Lillard,MIL,Lillard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0083,1,06:11,MIL,15.0,CHI,14.0,D. Lillard,MIL,Lillard 28' 3PT Running Jump Shot (3 PTS) (Antetokounmpo 1 AST),Made Shot,Running Jump Shot,-205,184,28,1,3.0,3.0,h
+S2425-G0083,1,05:24,MIL,17.0,CHI,14.0,D. Lillard,MIL,Lillard 1' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,2,8,1,1,2.0,2.0,h
+S2425-G0083,1,04:14,MIL,22.0,CHI,18.0,D. Lillard,MIL,Lillard 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,58,251,26,1,3.0,3.0,h
+S2425-G0083,1,03:46,MIL,24.0,CHI,21.0,D. Lillard,MIL,Lillard 18' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,-77,160,18,1,2.0,2.0,h
+S2425-G0083,1,03:46,MIL,25.0,CHI,21.0,D. Lillard,MIL,Lillard Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0083,1,03:22,MIL,27.0,CHI,21.0,D. Lillard,MIL,Lillard 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,-33,-1,3,1,2.0,2.0,h
+S2425-G0083,1,02:39,MIL,,CHI,,D. Lillard,MIL,Lillard Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0083,1,02:35,MIL,,CHI,,D. Lillard,MIL,Lillard S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2425-G0083,1,01:26,MIL,,CHI,,D. Lillard,MIL,SUB: Wright FOR Lillard,Substitution,,0,0,0,0,,,h
+S2425-G0083,2,03:50,MIL,,CHI,,D. Lillard,MIL,MISS Lillard 28' 3PT Jump Shot,Missed Shot,Jump Shot,-156,230,28,1,3.0,0.0,h
+S2425-G0083,2,03:25,MIL,54.0,CHI,50.0,D. Lillard,MIL,Lillard Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0083,2,03:25,MIL,55.0,CHI,50.0,D. Lillard,MIL,Lillard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0083,2,01:43,MIL,,CHI,,D. Lillard,MIL,MISS Lillard 3PT Jump Shot,Missed Shot,Jump Shot,-232,-3,0,1,3.0,0.0,h
+S2425-G0083,2,01:00,MIL,,CHI,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,3,11:01,MIL,,CHI,,D. Lillard,MIL,Lillard Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0083,3,08:39,MIL,,CHI,,D. Lillard,MIL,MISS Lillard 28' 3PT Jump Shot,Missed Shot,Jump Shot,-21,284,28,1,3.0,0.0,h
+S2425-G0083,3,06:47,MIL,76.0,CHI,81.0,D. Lillard,MIL,Lillard 6' Driving Floating Jump Shot (17 PTS) (Antetokounmpo 3 AST),Made Shot,Driving Floating Jump Shot,37,50,6,1,2.0,2.0,h
+S2425-G0083,3,05:22,MIL,83.0,CHI,87.0,D. Lillard,MIL,Lillard 17' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,114,121,17,1,2.0,2.0,h
+S2425-G0083,3,04:53,MIL,,CHI,,D. Lillard,MIL,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-124,231,26,1,3.0,0.0,h
+S2425-G0083,3,03:30,MIL,,CHI,,D. Lillard,MIL,Lillard Out of Bounds Lost Ball Turnover (P4.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0083,3,03:00,MIL,,CHI,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,3,02:51,MIL,87.0,CHI,94.0,D. Lillard,MIL,Lillard 10' Fadeaway Jumper (21 PTS) (Antetokounmpo 4 AST),Made Shot,Fadeaway Jump Shot,100,3,10,1,2.0,2.0,h
+S2425-G0083,3,00:02.900000,MIL,,CHI,,D. Lillard,MIL,SUB: Wright FOR Lillard,Substitution,,0,0,0,0,,,h
+S2425-G0083,4,07:37,MIL,105.0,CHI,115.0,D. Lillard,MIL,Lillard 19' Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,119,147,19,1,2.0,2.0,h
+S2425-G0083,4,07:13,MIL,,CHI,,D. Lillard,MIL,MISS Lillard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-125,226,26,1,3.0,0.0,h
+S2425-G0083,4,06:29,MIL,,CHI,,D. Lillard,MIL,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,72,250,26,1,3.0,0.0,h
+S2425-G0083,4,05:31,MIL,,CHI,,D. Lillard,MIL,MISS Lillard 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,134,243,28,1,3.0,0.0,h
+S2425-G0083,4,04:12,MIL,116.0,CHI,128.0,D. Lillard,MIL,Lillard 25' 3PT Jump Shot (26 PTS) (Prince 2 AST),Made Shot,Jump Shot,-98,231,25,1,3.0,3.0,h
+S2425-G0083,4,03:47,MIL,,CHI,,D. Lillard,MIL,Lillard Bad Pass Turnover (P5.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0083,4,03:31,MIL,,CHI,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,4,02:53,MIL,120.0,CHI,128.0,D. Lillard,MIL,Lillard 14' Driving Floating Jump Shot (28 PTS),Made Shot,Driving Floating Jump Shot,34,131,14,1,2.0,2.0,h
+S2425-G0083,4,02:29,MIL,,CHI,,D. Lillard,MIL,MISS Lillard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-110,235,26,1,3.0,0.0,h
+S2425-G0083,4,01:49,MIL,,CHI,,D. Lillard,MIL,SUB: Beauchamp FOR Lillard,Substitution,,0,0,0,0,,,h
+S2425-G0104,1,11:26,BOS,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,1,11:08,BOS,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,1,10:23,BOS,0.0,MIL,2.0,D. Lillard,MIL,Lillard 22' Running Pull-Up Jump Shot (2 PTS),Made Shot,Running Pull-Up Jump Shot,143,163,22,1,2.0,2.0,v
+S2425-G0104,1,09:44,BOS,,MIL,,D. Lillard,MIL,Lillard STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0104,1,09:44,BOS,0.0,MIL,3.0,D. Lillard,MIL,Lillard Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0104,1,09:44,BOS,0.0,MIL,4.0,D. Lillard,MIL,Lillard Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0104,1,08:54,BOS,,MIL,,D. Lillard,MIL,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-86,248,26,1,3.0,0.0,v
+S2425-G0104,1,08:16,BOS,7.0,MIL,7.0,D. Lillard,MIL,Lillard 13' Pullup Jump Shot (6 PTS) (Antetokounmpo 1 AST),Made Shot,Pullup Jump shot,47,117,13,1,2.0,2.0,v
+S2425-G0104,1,08:16,BOS,7.0,MIL,8.0,D. Lillard,MIL,Lillard Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0104,1,07:55,BOS,7.0,MIL,11.0,D. Lillard,MIL,Lillard 25' 3PT Running Pull-Up Jump Shot (10 PTS),Made Shot,Running Pull-Up Jump Shot,120,222,25,1,3.0,3.0,v
+S2425-G0104,1,07:37,BOS,,MIL,,D. Lillard,MIL,Lillard P.FOUL (P1.T1) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2425-G0104,1,06:50,BOS,,MIL,,D. Lillard,MIL,Lillard P.FOUL (P2.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2425-G0104,1,06:44,BOS,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,1,05:49,BOS,,MIL,,D. Lillard,MIL,SUB: Wright FOR Lillard,Substitution,,0,0,0,0,,,v
+S2425-G0104,2,11:21,BOS,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,2,10:50,BOS,30.0,MIL,33.0,D. Lillard,MIL,Lillard Free Throw 1 of 3 (11 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0104,2,10:50,BOS,30.0,MIL,34.0,D. Lillard,MIL,Lillard Free Throw 2 of 3 (12 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0104,2,10:50,BOS,30.0,MIL,35.0,D. Lillard,MIL,Lillard Free Throw 3 of 3 (13 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0104,2,10:17,BOS,,MIL,,D. Lillard,MIL,MISS Lillard 25' 3PT Jump Shot,Missed Shot,Jump Shot,163,193,25,1,3.0,0.0,v
+S2425-G0104,2,09:25,BOS,,MIL,,D. Lillard,MIL,MISS Lillard 4' Running Layup,Missed Shot,Running Layup Shot,-42,13,4,1,2.0,0.0,v
+S2425-G0104,2,06:45,BOS,,MIL,,D. Lillard,MIL,MISS Lillard 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,241,24,1,3.0,0.0,v
+S2425-G0104,2,06:43,BOS,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,2,06:42,BOS,41.0,MIL,44.0,D. Lillard,MIL,Lillard 24' 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,-234,38,24,1,3.0,3.0,v
+S2425-G0104,2,04:49,BOS,,MIL,,D. Lillard,MIL,MISS Lillard 6' Driving Layup,Missed Shot,Driving Layup Shot,-52,19,6,1,2.0,0.0,v
+S2425-G0104,2,04:08,BOS,,MIL,,D. Lillard,MIL,Lillard BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0104,2,02:05,BOS,,MIL,,D. Lillard,MIL,SUB: Wright FOR Lillard,Substitution,,0,0,0,0,,,v
+S2425-G0104,3,10:17,BOS,,MIL,,D. Lillard,MIL,Lillard Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0104,3,07:50,BOS,67.0,MIL,65.0,D. Lillard,MIL,Lillard Driving Reverse Layup (18 PTS),Made Shot,Driving Reverse Layup Shot,0,2,0,1,2.0,2.0,v
+S2425-G0104,3,06:59,BOS,70.0,MIL,70.0,D. Lillard,MIL,Lillard Free Throw Technical (19 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0104,3,06:30,BOS,70.0,MIL,72.0,D. Lillard,MIL,Lillard Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0104,3,06:30,BOS,70.0,MIL,73.0,D. Lillard,MIL,Lillard Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0104,3,05:11,BOS,,MIL,,D. Lillard,MIL,MISS Lillard 33' 3PT Jump Shot,Missed Shot,Jump Shot,-138,295,33,1,3.0,0.0,v
+S2425-G0104,3,04:14,BOS,,MIL,,D. Lillard,MIL,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,223,127,26,1,3.0,0.0,v
+S2425-G0104,3,03:49,BOS,79.0,MIL,77.0,D. Lillard,MIL,Lillard 4' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,39,7,4,1,2.0,2.0,v
+S2425-G0104,3,02:42,BOS,79.0,MIL,80.0,D. Lillard,MIL,Lillard Free Throw Technical (24 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0104,3,01:04,BOS,,MIL,,D. Lillard,MIL,SUB: Wright FOR Lillard,Substitution,,0,0,0,0,,,v
+S2425-G0104,4,09:54,BOS,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,4,09:49,BOS,97.0,MIL,83.0,D. Lillard,MIL,Lillard Free Throw 1 of 3 (25 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0104,4,09:49,BOS,97.0,MIL,84.0,D. Lillard,MIL,Lillard Free Throw 2 of 3 (26 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0104,4,09:49,BOS,97.0,MIL,85.0,D. Lillard,MIL,Lillard Free Throw 3 of 3 (27 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0104,4,09:31,BOS,,MIL,,D. Lillard,MIL,Lillard STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0104,4,08:02,BOS,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,4,07:01,BOS,103.0,MIL,93.0,D. Lillard,MIL,Lillard Free Throw 1 of 3 (28 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0104,4,07:01,BOS,103.0,MIL,94.0,D. Lillard,MIL,Lillard Free Throw 2 of 3 (29 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0104,4,07:01,BOS,,MIL,,D. Lillard,MIL,MISS Lillard Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,0.0,v
+S2425-G0104,4,05:33,BOS,108.0,MIL,96.0,D. Lillard,MIL,Lillard 3' Driving Layup (31 PTS),Made Shot,Driving Layup Shot,22,12,3,1,2.0,2.0,v
+S2425-G0104,4,04:54,BOS,108.0,MIL,97.0,D. Lillard,MIL,Lillard Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0104,4,04:54,BOS,108.0,MIL,98.0,D. Lillard,MIL,Lillard Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0104,4,02:52,BOS,,MIL,,D. Lillard,MIL,MISS Lillard 28' 3PT Jump Shot,Missed Shot,Jump Shot,-162,227,28,1,3.0,0.0,v
+S2425-G0104,4,02:44,BOS,,MIL,,D. Lillard,MIL,SUB: Green FOR Lillard,Substitution,,0,0,0,0,,,v
+S2425-G0098,1,09:47,BKN,,MIL,,D. Lillard,MIL,MISS Lillard 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-129,243,28,1,3.0,0.0,v
+S2425-G0098,1,08:55,BKN,4.0,MIL,8.0,D. Lillard,MIL,Lillard 20' Fadeaway Jumper (2 PTS) (Prince 1 AST),Made Shot,Fadeaway Jump Shot,-156,123,20,1,2.0,2.0,v
+S2425-G0098,1,08:31,BKN,,MIL,,D. Lillard,MIL,Lillard S.FOUL (P1.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2425-G0098,1,08:04,BKN,,MIL,,D. Lillard,MIL,MISS Lillard 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,65,73,10,1,2.0,0.0,v
+S2425-G0098,1,06:19,BKN,9.0,MIL,12.0,D. Lillard,MIL,Lillard 23' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,36,225,23,1,2.0,2.0,v
+S2425-G0098,1,05:13,BKN,,MIL,,D. Lillard,MIL,Lillard Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0098,1,04:24,BKN,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,1,04:14,BKN,14.0,MIL,15.0,D. Lillard,MIL,Lillard 1' Driving Reverse Layup (6 PTS) (Portis 1 AST),Made Shot,Driving Reverse Layup Shot,-13,4,1,1,2.0,2.0,v
+S2425-G0098,1,03:57,BKN,16.0,MIL,16.0,D. Lillard,MIL,Lillard Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0098,1,03:57,BKN,16.0,MIL,17.0,D. Lillard,MIL,Lillard Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0098,1,03:38,BKN,,MIL,,D. Lillard,MIL,Lillard S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2425-G0098,1,03:38,BKN,,MIL,,D. Lillard,MIL,SUB: Connaughton FOR Lillard,Substitution,,0,0,0,0,,,v
+S2425-G0098,2,06:48,BKN,,MIL,,D. Lillard,MIL,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-156,210,26,1,3.0,0.0,v
+S2425-G0098,2,06:28,BKN,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,05:02,BKN,37.0,MIL,36.0,D. Lillard,MIL,Lillard 11' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,22,110,11,1,2.0,2.0,v
+S2425-G0098,2,04:12,BKN,37.0,MIL,37.0,D. Lillard,MIL,Lillard Free Throw 1 of 3 (11 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0098,2,04:12,BKN,37.0,MIL,38.0,D. Lillard,MIL,Lillard Free Throw 2 of 3 (12 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0098,2,04:12,BKN,37.0,MIL,39.0,D. Lillard,MIL,Lillard Free Throw 3 of 3 (13 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0098,2,03:46,BKN,,MIL,,D. Lillard,MIL,MISS Lillard 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-129,149,20,1,2.0,0.0,v
+S2425-G0098,2,03:16,BKN,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,02:15,BKN,,MIL,,D. Lillard,MIL,MISS Lillard 32' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,20,321,32,1,3.0,0.0,v
+S2425-G0098,2,02:06,BKN,,MIL,,D. Lillard,MIL,Lillard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,00:01.600000,BKN,,MIL,,D. Lillard,MIL,MISS Lillard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,107,225,25,1,3.0,0.0,v
+S2425-G0098,3,11:36,BKN,48.0,MIL,46.0,D. Lillard,MIL,Lillard Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0098,3,11:36,BKN,48.0,MIL,47.0,D. Lillard,MIL,Lillard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0098,3,11:05,BKN,,MIL,,D. Lillard,MIL,Lillard Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0098,3,04:28,BKN,70.0,MIL,71.0,D. Lillard,MIL,Lillard 25' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,125,222,25,1,3.0,3.0,v
+S2425-G0098,3,03:40,BKN,,MIL,,D. Lillard,MIL,MISS Lillard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-10,252,25,1,3.0,0.0,v
+S2425-G0098,3,03:17,BKN,74.0,MIL,72.0,D. Lillard,MIL,Lillard Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0098,3,03:17,BKN,74.0,MIL,73.0,D. Lillard,MIL,Lillard Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0098,3,00:28.400000,BKN,,MIL,,D. Lillard,MIL,MISS Lillard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0098,3,00:28.400000,BKN,80.0,MIL,78.0,D. Lillard,MIL,Lillard Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0098,4,04:48,BKN,,MIL,,D. Lillard,MIL,Lillard Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0098,4,04:00,BKN,,MIL,,D. Lillard,MIL,Lillard Lost Ball Turnover (P4.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0098,4,03:35,BKN,,MIL,,D. Lillard,MIL,MISS Lillard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-119,219,25,1,3.0,0.0,v
+S2425-G0098,4,03:26,BKN,,MIL,,D. Lillard,MIL,SUB: Beauchamp FOR Lillard,Substitution,,0,0,0,0,,,v

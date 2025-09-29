@@ -1,0 +1,134 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0062,1,09:33,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,1,09:16,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,1,09:02,LAL,,MIN,,R. Gobert,MIN,MISS Gobert 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-26,10,3,1,2.0,0.0,v
+S2425-G0062,1,08:30,LAL,,MIN,,R. Gobert,MIN,Gobert OFF.Foul (P1) (J.Orr),Foul,Offensive,0,0,0,0,,,v
+S2425-G0062,1,08:30,LAL,,MIN,,R. Gobert,MIN,Gobert Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0062,1,08:14,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,1,04:27,LAL,16.0,MIN,12.0,R. Gobert,MIN,Gobert 1' Running Layup (2 PTS) (DiVincenzo 1 AST),Made Shot,Running Layup Shot,-4,9,1,1,2.0,2.0,v
+S2425-G0062,1,03:24,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,1,03:04,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,1,03:03,LAL,18.0,MIN,13.0,R. Gobert,MIN,Gobert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,1,03:03,LAL,,MIN,,R. Gobert,MIN,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0062,1,02:12,LAL,,MIN,,R. Gobert,MIN,SUB: Randle FOR Gobert,Substitution,,0,0,0,0,,,v
+S2425-G0062,2,07:07,LAL,,MIN,,R. Gobert,MIN,MISS Gobert 3' Running Layup,Missed Shot,Running Layup Shot,18,24,3,1,2.0,0.0,v
+S2425-G0062,2,06:46,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,2,04:23,LAL,,MIN,,R. Gobert,MIN,Gobert Violation:Defensive Goaltending (J.Orr),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0062,2,03:52,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,2,03:24,LAL,,MIN,,R. Gobert,MIN,Gobert BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0062,2,02:27,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,2,02:27,LAL,51.0,MIN,39.0,R. Gobert,MIN,Gobert Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0062,2,00:11.900000,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,3,09:55,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,3,07:14,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,3,07:08,LAL,,MIN,,R. Gobert,MIN,MISS Gobert 3' Dunk,Missed Shot,Dunk Shot,23,23,3,1,2.0,0.0,v
+S2425-G0062,3,03:37,LAL,72.0,MIN,62.0,R. Gobert,MIN,Gobert Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,3,03:37,LAL,72.0,MIN,63.0,R. Gobert,MIN,Gobert Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,3,03:13,LAL,74.0,MIN,65.0,R. Gobert,MIN,Gobert 4' Cutting Dunk Shot (9 PTS) (Reid 1 AST),Made Shot,Cutting Dunk Shot,-9,34,4,1,2.0,2.0,v
+S2425-G0062,3,03:00,LAL,,MIN,,R. Gobert,MIN,SUB: Randle FOR Gobert,Substitution,,0,0,0,0,,,v
+S2425-G0062,4,11:34,LAL,,MIN,,R. Gobert,MIN,Gobert S.FOUL (P2.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0062,4,11:12,LAL,85.0,MIN,78.0,R. Gobert,MIN,Gobert 3' Alley Oop Dunk (11 PTS) (Conley 2 AST),Made Shot,Alley Oop Dunk Shot,2,31,3,1,2.0,2.0,v
+S2425-G0062,4,10:43,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,4,09:55,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,4,08:51,LAL,,MIN,,R. Gobert,MIN,Gobert L.B.FOUL (P3.T3) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0062,4,08:36,LAL,,MIN,,R. Gobert,MIN,SUB: Alexander-Walker FOR Gobert,Substitution,,0,0,0,0,,,v
+S2425-G0062,4,03:21,LAL,103.0,MIN,95.0,R. Gobert,MIN,Gobert 3' Driving Layup (13 PTS) (Edwards 3 AST),Made Shot,Driving Layup Shot,-15,25,3,1,2.0,2.0,v
+S2425-G0062,4,02:10,LAL,,MIN,,R. Gobert,MIN,Gobert P.FOUL (P4.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0062,4,00:27,LAL,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,4,00:27,LAL,,MIN,,R. Gobert,MIN,SUB: Reid FOR Gobert,Substitution,,0,0,0,0,,,v
+S2425-G0093,1,12:00,MIN,,TOR,,R. Gobert,MIN,Jump Ball Gobert vs. Pöltl: Tip to Mitchell,Jump Ball,,0,0,0,0,,,h
+S2425-G0093,1,11:38,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,08:45,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,07:48,MIN,10.0,TOR,3.0,R. Gobert,MIN,Gobert 1' Alley Oop Dunk (2 PTS) (Edwards 1 AST),Made Shot,Alley Oop Dunk Shot,10,7,1,1,2.0,2.0,h
+S2425-G0093,1,07:33,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,06:45,MIN,,TOR,,R. Gobert,MIN,Gobert BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0093,1,06:36,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,05:34,MIN,,TOR,,R. Gobert,MIN,SUB: Reid FOR Gobert,Substitution,,0,0,0,0,,,h
+S2425-G0093,1,01:25,MIN,27.0,TOR,14.0,R. Gobert,MIN,Gobert 5' Hook Shot (4 PTS) (Ingles 1 AST),Made Shot,Hook Shot,-9,52,5,1,2.0,2.0,h
+S2425-G0093,1,01:00,MIN,29.0,TOR,14.0,R. Gobert,MIN,Gobert 1' Alley Oop Dunk (6 PTS) (Ingles 2 AST),Made Shot,Alley Oop Dunk Shot,5,8,1,1,2.0,2.0,h
+S2425-G0093,1,00:43.300000,MIN,,TOR,,R. Gobert,MIN,Gobert P.FOUL (P1.T4) (D.Scott),Foul,Personal,0,0,0,0,,,h
+S2425-G0093,2,09:39,MIN,,TOR,,R. Gobert,MIN,MISS Gobert 3' Layup,Missed Shot,Layup Shot,15,31,3,1,2.0,0.0,h
+S2425-G0093,2,08:41,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,2,08:29,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,2,08:04,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,2,03:49,MIN,,TOR,,R. Gobert,MIN,SUB: Reid FOR Gobert,Substitution,,0,0,0,0,,,h
+S2425-G0093,3,08:45,MIN,,TOR,,R. Gobert,MIN,Gobert S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2425-G0093,3,05:13,MIN,,TOR,,R. Gobert,MIN,SUB: Reid FOR Gobert,Substitution,,0,0,0,0,,,h
+S2425-G0093,3,00:59.500000,MIN,,TOR,,R. Gobert,MIN,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0093,3,00:59.500000,MIN,87.0,TOR,68.0,R. Gobert,MIN,Gobert Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,4,10:39,MIN,,TOR,,R. Gobert,MIN,MISS Gobert 7' Hook Shot,Missed Shot,Hook Shot,60,25,7,1,2.0,0.0,h
+S2425-G0093,4,10:14,MIN,91.0,TOR,75.0,R. Gobert,MIN,Gobert 1' Alley Oop Dunk (9 PTS) (Conley 5 AST),Made Shot,Alley Oop Dunk Shot,4,-4,1,1,2.0,2.0,h
+S2425-G0093,4,09:56,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,09:26,MIN,93.0,TOR,77.0,R. Gobert,MIN,Gobert 1' Alley Oop Dunk (11 PTS) (Alexander-Walker 4 AST),Made Shot,Alley Oop Dunk Shot,6,0,1,1,2.0,2.0,h
+S2425-G0093,4,08:35,MIN,94.0,TOR,79.0,R. Gobert,MIN,Gobert Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,4,08:35,MIN,95.0,TOR,79.0,R. Gobert,MIN,Gobert Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,4,08:18,MIN,,TOR,,R. Gobert,MIN,Gobert BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0093,4,08:15,MIN,,TOR,,R. Gobert,MIN,Gobert BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0093,4,08:09,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,07:43,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,04:48,MIN,,TOR,,R. Gobert,MIN,Gobert OFF.Foul (P3) (C.Blair),Foul,Offensive,0,0,0,0,,,h
+S2425-G0093,4,04:48,MIN,,TOR,,R. Gobert,MIN,Gobert Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0093,4,04:06,MIN,,TOR,,R. Gobert,MIN,Gobert STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0093,4,04:00,MIN,104.0,TOR,90.0,R. Gobert,MIN,Gobert 4' Running Layup (15 PTS) (Conley 6 AST),Made Shot,Running Layup Shot,37,24,4,1,2.0,2.0,h
+S2425-G0093,4,01:43,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,00:54.400000,MIN,,TOR,,R. Gobert,MIN,Gobert BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0093,4,00:15,MIN,,TOR,,R. Gobert,MIN,Gobert REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,1,12:00,MIN,,DAL,,R. Gobert,MIN,Jump Ball Gobert vs. Gafford: Tip to Washington,Jump Ball,,0,0,0,0,,,h
+S2425-G0114,1,09:50,MIN,4.0,DAL,6.0,R. Gobert,MIN,Gobert 1' Cutting Dunk Shot (2 PTS) (Randle 1 AST),Made Shot,Cutting Dunk Shot,-12,3,1,1,2.0,2.0,h
+S2425-G0114,1,09:50,MIN,,DAL,,R. Gobert,MIN,MISS Gobert Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0114,1,09:16,MIN,,DAL,,R. Gobert,MIN,Gobert L.B.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0114,1,06:35,MIN,,DAL,,R. Gobert,MIN,MISS Gobert 3' Layup,Missed Shot,Layup Shot,1,32,3,1,2.0,0.0,h
+S2425-G0114,1,06:18,MIN,,DAL,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,1,05:32,MIN,,DAL,,R. Gobert,MIN,SUB: Reid FOR Gobert,Substitution,,0,0,0,0,,,h
+S2425-G0114,2,11:49,MIN,,DAL,,R. Gobert,MIN,MISS Gobert 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-15,8,2,1,2.0,0.0,h
+S2425-G0114,2,11:09,MIN,,DAL,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,2,10:58,MIN,36.0,DAL,28.0,R. Gobert,MIN,Gobert 1' Layup (4 PTS) (DiVincenzo 2 AST),Made Shot,Layup Shot,-2,8,1,1,2.0,2.0,h
+S2425-G0114,2,07:44,MIN,,DAL,,R. Gobert,MIN,Gobert Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0114,2,07:35,MIN,,DAL,,R. Gobert,MIN,SUB: Ingles FOR Gobert,Substitution,,0,0,0,0,,,h
+S2425-G0114,2,00:28.700000,MIN,,DAL,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,2,00:27.900000,MIN,,DAL,,R. Gobert,MIN,Gobert OFF.Foul (P2) (A.Moyer-Gleich),Foul,Offensive,0,0,0,0,,,h
+S2425-G0114,2,00:27.900000,MIN,,DAL,,R. Gobert,MIN,Gobert Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0114,3,11:28,MIN,,DAL,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,11:16,MIN,,DAL,,R. Gobert,MIN,Gobert REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,10:57,MIN,,DAL,,R. Gobert,MIN,Gobert REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,05:10,MIN,,DAL,,R. Gobert,MIN,MISS Gobert 6' Layup,Missed Shot,Layup Shot,26,55,6,1,2.0,0.0,h
+S2425-G0114,3,04:21,MIN,,DAL,,R. Gobert,MIN,SUB: Randle FOR Gobert,Substitution,,0,0,0,0,,,h
+S2425-G0114,4,11:18,MIN,,DAL,,R. Gobert,MIN,Gobert REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,4,11:18,MIN,83.0,DAL,93.0,R. Gobert,MIN,Gobert Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,4,11:18,MIN,,DAL,,R. Gobert,MIN,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0114,4,09:19,MIN,,DAL,,R. Gobert,MIN,Gobert P.FOUL (P3.T1) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2425-G0114,4,09:19,MIN,,DAL,,R. Gobert,MIN,SUB: McDaniels FOR Gobert,Substitution,,0,0,0,0,,,h
+S2425-G0114,4,03:04,MIN,,DAL,,R. Gobert,MIN,Gobert REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,4,03:04,MIN,106.0,DAL,109.0,R. Gobert,MIN,Gobert Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,4,03:04,MIN,107.0,DAL,109.0,R. Gobert,MIN,Gobert Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,4,01:04,MIN,,DAL,,R. Gobert,MIN,SUB: Reid FOR Gobert,Substitution,,0,0,0,0,,,h
+S2425-G0114,4,00:38.200000,MIN,,DAL,,R. Gobert,MIN,SUB: Reid FOR Gobert,Substitution,,0,0,0,0,,,h
+S2425-G0076,1,10:12,SAC,,MIN,,R. Gobert,MIN,Gobert STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0076,1,09:36,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,1,09:35,SAC,,MIN,,R. Gobert,MIN,Gobert Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0076,1,09:32,SAC,,MIN,,R. Gobert,MIN,Gobert STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0076,1,08:37,SAC,,MIN,,R. Gobert,MIN,Gobert Lane Violation Turnover (P2.T3),Turnover,Lane Violation,0,0,0,0,,,v
+S2425-G0076,1,07:51,SAC,,MIN,,R. Gobert,MIN,Gobert OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,v
+S2425-G0076,1,07:51,SAC,,MIN,,R. Gobert,MIN,Gobert Offensive Foul Turnover (P3.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0076,1,07:34,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,1,06:24,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,1,05:27,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,1,02:55,SAC,23.0,MIN,21.0,R. Gobert,MIN,Gobert 4' Alley Oop Layup (2 PTS) (Reid 1 AST),Made Shot,Alley Oop Layup shot,-38,6,4,1,2.0,2.0,v
+S2425-G0076,1,02:21,SAC,,MIN,,R. Gobert,MIN,SUB: Ingles FOR Gobert,Substitution,,0,0,0,0,,,v
+S2425-G0076,2,07:42,SAC,,MIN,,R. Gobert,MIN,Gobert S.FOUL (P2.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2425-G0076,2,05:56,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,2,05:22,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,2,02:48,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,3,07:59,SAC,,MIN,,R. Gobert,MIN,MISS Gobert 6' Hook Shot,Missed Shot,Hook Shot,29,49,6,1,2.0,0.0,v
+S2425-G0076,3,07:28,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,3,05:53,SAC,,MIN,,R. Gobert,MIN,SUB: DiVincenzo FOR Gobert,Substitution,,0,0,0,0,,,v
+S2425-G0076,3,02:35,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,10:58,SAC,,MIN,,R. Gobert,MIN,Gobert S.FOUL (P3.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0076,4,09:58,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,08:47,SAC,,MIN,,R. Gobert,MIN,SUB: Randle FOR Gobert,Substitution,,0,0,0,0,,,v
+S2425-G0076,4,03:03,SAC,,MIN,,R. Gobert,MIN,Gobert P.FOUL (P4.PN) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2425-G0076,4,03:00,SAC,,MIN,,R. Gobert,MIN,Gobert REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,00:38.200000,SAC,115.0,MIN,115.0,R. Gobert,MIN,Gobert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0076,4,00:38.200000,SAC,,MIN,,R. Gobert,MIN,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0076,4,00:25.700000,SAC,,MIN,,R. Gobert,MIN,SUB: Conley FOR Gobert,Substitution,,0,0,0,0,,,v
+S2425-G0076,4,00:02.400000,SAC,,MIN,,R. Gobert,MIN,SUB: Reid FOR Gobert,Substitution,,0,0,0,0,,,v

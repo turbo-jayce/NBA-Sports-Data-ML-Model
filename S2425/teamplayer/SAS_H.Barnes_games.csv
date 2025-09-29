@@ -1,0 +1,77 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,09:37,DAL,,SAS,,H. Barnes,SAS,Barnes STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0074,1,08:50,DAL,,SAS,,H. Barnes,SAS,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,1,08:17,DAL,4.0,SAS,8.0,H. Barnes,SAS,Barnes 5' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,16,43,5,1,2.0,2.0,v
+S2425-G0074,1,06:58,DAL,12.0,SAS,12.0,H. Barnes,SAS,Barnes 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,2,6,1,1,2.0,2.0,v
+S2425-G0074,1,05:30,DAL,13.0,SAS,15.0,H. Barnes,SAS,Barnes 25' 3PT Jump Shot (7 PTS) (Jones 1 AST),Made Shot,Jump Shot,-221,113,25,1,3.0,3.0,v
+S2425-G0074,1,05:09,DAL,13.0,SAS,18.0,H. Barnes,SAS,Barnes 26' 3PT Running Jump Shot (10 PTS) (Sochan 1 AST),Made Shot,Running Jump Shot,-116,231,26,1,3.0,3.0,v
+S2425-G0074,1,04:41,DAL,15.0,SAS,20.0,H. Barnes,SAS,Barnes 13' Pullup Jump Shot (12 PTS) (Jones 2 AST),Made Shot,Pullup Jump shot,-131,-14,13,1,2.0,2.0,v
+S2425-G0074,1,03:27,DAL,,SAS,,H. Barnes,SAS,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,1,01:53,DAL,,SAS,,H. Barnes,SAS,SUB: Paul FOR Barnes,Substitution,,0,0,0,0,,,v
+S2425-G0074,2,05:38,DAL,,SAS,,H. Barnes,SAS,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,-130,225,26,1,3.0,0.0,v
+S2425-G0074,2,05:27,DAL,,SAS,,H. Barnes,SAS,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,04:36,DAL,,SAS,,H. Barnes,SAS,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,223,-6,0,1,3.0,0.0,v
+S2425-G0074,2,03:26,DAL,40.0,SAS,42.0,H. Barnes,SAS,Barnes 12' Driving Floating Bank Jump Shot (14 PTS) (Jones 3 AST),Made Shot,Driving Floating Bank Jump Shot,115,26,12,1,2.0,2.0,v
+S2425-G0074,2,02:21,DAL,,SAS,,H. Barnes,SAS,Barnes S.FOUL (P1.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2425-G0074,3,07:51,DAL,63.0,SAS,55.0,H. Barnes,SAS,Barnes 9' Driving Floating Jump Shot (16 PTS) (Paul 5 AST),Made Shot,Driving Floating Jump Shot,-90,10,9,1,2.0,2.0,v
+S2425-G0074,3,04:08,DAL,,SAS,,H. Barnes,SAS,Barnes P.FOUL (P2.PN) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2425-G0074,3,03:22,DAL,,SAS,,H. Barnes,SAS,MISS Barnes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0074,3,03:22,DAL,76.0,SAS,73.0,H. Barnes,SAS,Barnes Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,02:58,DAL,,SAS,,H. Barnes,SAS,SUB: Champagnie FOR Barnes,Substitution,,0,0,0,0,,,v
+S2425-G0074,4,09:51,DAL,,SAS,,H. Barnes,SAS,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,-222,-11,0,1,3.0,0.0,v
+S2425-G0074,4,07:28,DAL,,SAS,,H. Barnes,SAS,Barnes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,4,05:59,DAL,,SAS,,H. Barnes,SAS,SUB: Branham FOR Barnes,Substitution,,0,0,0,0,,,v
+S2425-G0109,1,08:44,SAS,,HOU,,H. Barnes,SAS,MISS Barnes 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,7,-1,1,1,2.0,0.0,h
+S2425-G0109,1,07:36,SAS,,HOU,,H. Barnes,SAS,Barnes Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0109,1,07:12,SAS,,HOU,,H. Barnes,SAS,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,1,04:33,SAS,,HOU,,H. Barnes,SAS,SUB: Johnson FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0109,2,07:19,SAS,,HOU,,H. Barnes,SAS,MISS Barnes 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,62,6,1,2.0,0.0,h
+S2425-G0109,2,07:19,SAS,,HOU,,H. Barnes,SAS,Barnes Traveling Turnover (P2.T11),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0109,2,02:09,SAS,,HOU,,H. Barnes,SAS,SUB: Johnson FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0109,3,11:26,SAS,,HOU,,H. Barnes,SAS,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,11:21,SAS,,HOU,,H. Barnes,SAS,MISS Barnes 25' 3PT Jump Shot,Missed Shot,Jump Shot,120,216,25,1,3.0,0.0,h
+S2425-G0109,3,07:41,SAS,,HOU,,H. Barnes,SAS,Barnes S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,3,06:17,SAS,57.0,HOU,70.0,H. Barnes,SAS,Barnes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,3,06:17,SAS,58.0,HOU,70.0,H. Barnes,SAS,Barnes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,3,03:31,SAS,,HOU,,H. Barnes,SAS,SUB: Castle FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0109,4,05:01,SAS,,HOU,,H. Barnes,SAS,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,01:44,SAS,,HOU,,H. Barnes,SAS,SUB: Branham FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,09:32,OKC,2.0,SAS,8.0,H. Barnes,SAS,Barnes 1' Cutting Layup Shot (2 PTS) (Paul 1 AST),Made Shot,Cutting Layup Shot,-9,8,1,1,2.0,2.0,v
+S2425-G0125,1,08:23,OKC,7.0,SAS,9.0,H. Barnes,SAS,Barnes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0125,1,08:23,OKC,7.0,SAS,10.0,H. Barnes,SAS,Barnes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0125,1,07:48,OKC,,SAS,,H. Barnes,SAS,Barnes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,06:30,OKC,,SAS,,H. Barnes,SAS,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,-234,-15,0,1,3.0,0.0,v
+S2425-G0125,1,05:36,OKC,,SAS,,H. Barnes,SAS,MISS Barnes 5' Layup,Missed Shot,Layup Shot,43,21,5,1,2.0,0.0,v
+S2425-G0125,1,05:35,OKC,,SAS,,H. Barnes,SAS,Barnes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,04:59,OKC,,SAS,,H. Barnes,SAS,SUB: Castle FOR Barnes,Substitution,,0,0,0,0,,,v
+S2425-G0125,2,06:39,OKC,,SAS,,H. Barnes,SAS,Barnes REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,05:57,OKC,45.0,SAS,28.0,H. Barnes,SAS,Barnes 13' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,13,130,13,1,2.0,2.0,v
+S2425-G0125,2,04:14,OKC,,SAS,,H. Barnes,SAS,Barnes REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,04:13,OKC,,SAS,,H. Barnes,SAS,MISS Barnes 1' Putback Layup,Missed Shot,Putback Layup Shot,-6,1,1,1,2.0,0.0,v
+S2425-G0125,3,11:02,OKC,,SAS,,H. Barnes,SAS,MISS Barnes 3' Layup,Missed Shot,Layup Shot,27,10,3,1,2.0,0.0,v
+S2425-G0125,3,09:34,OKC,66.0,SAS,52.0,H. Barnes,SAS,Barnes 1' Driving Dunk (8 PTS) (Paul 4 AST),Made Shot,Driving Dunk Shot,11,5,1,1,2.0,2.0,v
+S2425-G0125,3,07:20,OKC,,SAS,,H. Barnes,SAS,Barnes Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,3,06:13,OKC,75.0,SAS,62.0,H. Barnes,SAS,Barnes 3PT Running Jump Shot (11 PTS) (Paul 6 AST),Made Shot,Running Jump Shot,-232,-16,0,1,3.0,3.0,v
+S2425-G0125,3,05:36,OKC,75.0,SAS,64.0,H. Barnes,SAS,Barnes 8' Turnaround Bank Shot (13 PTS) (Paul 7 AST),Made Shot,Turnaround Bank shot,-71,26,8,1,2.0,2.0,v
+S2425-G0125,3,04:27,OKC,75.0,SAS,67.0,H. Barnes,SAS,Barnes 24' 3PT Jump Shot (16 PTS) (Johnson 2 AST),Made Shot,Jump Shot,207,127,24,1,3.0,3.0,v
+S2425-G0125,3,03:42,OKC,,SAS,,H. Barnes,SAS,SUB: Castle FOR Barnes,Substitution,,0,0,0,0,,,v
+S2425-G0125,4,08:33,OKC,,SAS,,H. Barnes,SAS,Barnes STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0125,4,08:30,OKC,86.0,SAS,77.0,H. Barnes,SAS,Barnes 1' Running Dunk (18 PTS),Made Shot,Running Dunk Shot,-1,6,1,1,2.0,2.0,v
+S2425-G0125,4,07:17,OKC,,SAS,,H. Barnes,SAS,MISS Barnes 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,78,120,14,1,2.0,0.0,v
+S2425-G0125,4,07:04,OKC,,SAS,,H. Barnes,SAS,SUB: Champagnie FOR Barnes,Substitution,,0,0,0,0,,,v
+S2425-G0094,1,11:23,SAS,,HOU,,H. Barnes,SAS,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,225,22,0,1,3.0,0.0,h
+S2425-G0094,1,11:17,SAS,,HOU,,H. Barnes,SAS,MISS Barnes 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-9,5,1,1,2.0,0.0,h
+S2425-G0094,1,09:49,SAS,8.0,HOU,6.0,H. Barnes,SAS,Barnes 25' 3PT Pullup Jump Shot (3 PTS) (Paul 2 AST),Made Shot,Pullup Jump shot,184,176,25,1,3.0,3.0,h
+S2425-G0094,1,03:34,SAS,30.0,HOU,22.0,H. Barnes,SAS,Barnes 5' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,39,24,5,1,2.0,2.0,h
+S2425-G0094,1,02:57,SAS,,HOU,,H. Barnes,SAS,SUB: Castle FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0094,2,04:28,SAS,53.0,HOU,38.0,H. Barnes,SAS,Barnes 25' 3PT Jump Shot (8 PTS) (Castle 1 AST),Made Shot,Jump Shot,-170,183,25,1,3.0,3.0,h
+S2425-G0094,2,04:05,SAS,,HOU,,H. Barnes,SAS,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,02:19,SAS,,HOU,,H. Barnes,SAS,Barnes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0094,2,00:46.500000,SAS,,HOU,,H. Barnes,SAS,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,09:20,SAS,64.0,HOU,48.0,H. Barnes,SAS,Barnes 2' Driving Reverse Layup (10 PTS) (Sochan 1 AST),Made Shot,Driving Reverse Layup Shot,-13,13,2,1,2.0,2.0,h
+S2425-G0094,3,09:20,SAS,65.0,HOU,48.0,H. Barnes,SAS,Barnes Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0094,3,04:41,SAS,,HOU,,H. Barnes,SAS,SUB: Branham FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,09:07,SAS,,HOU,,H. Barnes,SAS,Barnes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,4,03:46,SAS,,HOU,,H. Barnes,SAS,SUB: Paul FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,00:17.500000,SAS,,HOU,,H. Barnes,SAS,SUB: Sochan FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,00:11.600000,SAS,,HOU,,H. Barnes,SAS,SUB: Sochan FOR Barnes,Substitution,,0,0,0,0,,,h

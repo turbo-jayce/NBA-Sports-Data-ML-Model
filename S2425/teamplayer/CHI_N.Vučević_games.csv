@@ -1,0 +1,192 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0091,1,12:00,CHI,,OKC,,N. Vučević,CHI,Jump Ball Vučević vs. Holmgren: Tip to Dort,Jump Ball,,0,0,0,0,,,h
+S2425-G0091,1,11:24,CHI,3.0,OKC,2.0,N. Vučević,CHI,Vučević 3' Floating Jump Shot (2 PTS) (White 1 AST),Made Shot,Floating Jump shot,-32,3,3,1,2.0,2.0,h
+S2425-G0091,1,09:17,CHI,,OKC,,N. Vučević,CHI,Vučević Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0091,1,08:59,CHI,,OKC,,N. Vučević,CHI,MISS Vučević 3' Driving Layup,Missed Shot,Driving Layup Shot,0,26,3,1,2.0,0.0,h
+S2425-G0091,1,08:57,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,1,08:57,CHI,,OKC,,N. Vučević,CHI,MISS Vučević Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0091,1,07:38,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,1,07:14,CHI,,OKC,,N. Vučević,CHI,MISS Vučević 10' Jump Shot,Missed Shot,Jump Shot,-9,96,10,1,2.0,0.0,h
+S2425-G0091,1,07:04,CHI,,OKC,,N. Vučević,CHI,Vučević S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2425-G0091,1,06:46,CHI,10.0,OKC,12.0,N. Vučević,CHI,Vučević 27' 3PT Jump Shot (5 PTS) (Dosunmu 1 AST),Made Shot,Jump Shot,11,268,27,1,3.0,3.0,h
+S2425-G0091,1,06:01,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,1,05:52,CHI,,OKC,,N. Vučević,CHI,MISS Vučević 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-32,27,4,1,2.0,0.0,h
+S2425-G0091,1,03:52,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,1,03:44,CHI,13.0,OKC,16.0,N. Vučević,CHI,Vučević Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,1,03:44,CHI,14.0,OKC,16.0,N. Vučević,CHI,Vučević Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,1,03:29,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,1,03:07,CHI,,OKC,,N. Vučević,CHI,SUB: Smith FOR Vučević,Substitution,,0,0,0,0,,,h
+S2425-G0091,2,06:49,CHI,34.0,OKC,35.0,N. Vučević,CHI,Vučević 26' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,-1,255,26,1,3.0,3.0,h
+S2425-G0091,2,06:32,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,2,06:21,CHI,,OKC,,N. Vučević,CHI,Vučević S.FOUL (P2.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2425-G0091,2,06:10,CHI,36.0,OKC,37.0,N. Vučević,CHI,Vučević 9' Floating Jump Shot (12 PTS) (Dosunmu 2 AST),Made Shot,Floating Jump shot,-5,87,9,1,2.0,2.0,h
+S2425-G0091,2,02:15,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,2,02:15,CHI,,OKC,,N. Vučević,CHI,Vučević Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0091,3,10:25,CHI,44.0,OKC,61.0,N. Vučević,CHI,Vučević 11' Floating Jump Shot (14 PTS) (White 3 AST),Made Shot,Floating Jump shot,-70,85,11,1,2.0,2.0,h
+S2425-G0091,3,10:01,CHI,,OKC,,N. Vučević,CHI,Vučević Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0091,3,09:54,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,09:38,CHI,,OKC,,N. Vučević,CHI,Vučević BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0091,3,08:47,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,06:57,CHI,46.0,OKC,67.0,N. Vučević,CHI,Vučević 2' Driving Hook Shot (16 PTS),Made Shot,Driving Hook Shot,-12,17,2,1,2.0,2.0,h
+S2425-G0091,3,06:25,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,03:19,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,03:19,CHI,,OKC,,N. Vučević,CHI,MISS Vučević Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0091,3,03:13,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,03:01,CHI,,OKC,,N. Vučević,CHI,SUB: Smith FOR Vučević,Substitution,,0,0,0,0,,,h
+S2425-G0091,4,08:15,CHI,,OKC,,N. Vučević,CHI,Vučević REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,4,06:47,CHI,79.0,OKC,101.0,N. Vučević,CHI,Vučević 1' Layup (18 PTS) (LaVine 3 AST),Made Shot,Layup Shot,-10,0,1,1,2.0,2.0,h
+S2425-G0091,4,04:26,CHI,,OKC,,N. Vučević,CHI,SUB: Buzelis FOR Vučević,Substitution,,0,0,0,0,,,h
+S2425-G0069,1,11:31,NOP,2.0,CHI,2.0,N. Vučević,CHI,Vučević 11' Hook Shot (2 PTS) (Giddey 1 AST),Made Shot,Hook Shot,-16,112,11,1,2.0,2.0,v
+S2425-G0069,1,10:33,NOP,,CHI,,N. Vučević,CHI,MISS Vučević 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,204,26,1,3.0,0.0,v
+S2425-G0069,1,09:17,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,07:57,NOP,,CHI,,N. Vučević,CHI,Vučević L.B.FOUL (P1.T2) (N.Green),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0069,1,07:38,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,07:07,NOP,8.0,CHI,9.0,N. Vučević,CHI,Vučević 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-23,1,2,1,2.0,2.0,v
+S2425-G0069,1,06:14,NOP,10.0,CHI,11.0,N. Vučević,CHI,Vučević 1' Cutting Layup Shot (6 PTS) (Giddey 2 AST),Made Shot,Cutting Layup Shot,12,4,1,1,2.0,2.0,v
+S2425-G0069,1,03:40,NOP,,CHI,,N. Vučević,CHI,SUB: Phillips FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,03:07,NOP,50.0,CHI,54.0,N. Vučević,CHI,Vučević 2' Layup (8 PTS) (Ball 3 AST),Made Shot,Layup Shot,15,5,2,1,2.0,2.0,v
+S2425-G0069,2,01:52,NOP,,CHI,,N. Vučević,CHI,Vučević Offensive Charge Foul (P2) (G.Petraitis),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0069,2,01:52,NOP,,CHI,,N. Vučević,CHI,Vučević Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0069,3,11:50,NOP,59.0,CHI,60.0,N. Vučević,CHI,Vučević 1' Cutting Dunk Shot (10 PTS) (Giddey 3 AST),Made Shot,Cutting Dunk Shot,0,-7,1,1,2.0,2.0,v
+S2425-G0069,3,11:50,NOP,59.0,CHI,61.0,N. Vučević,CHI,Vučević Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,11:13,NOP,,CHI,,N. Vučević,CHI,MISS Vučević 11' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,-105,4,11,1,2.0,0.0,v
+S2425-G0069,3,10:22,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,06:50,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,06:03,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,05:41,NOP,,CHI,,N. Vučević,CHI,MISS Vučević 5' Driving Layup,Missed Shot,Driving Layup Shot,-7,50,5,1,2.0,0.0,v
+S2425-G0069,3,05:31,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,04:22,NOP,80.0,CHI,73.0,N. Vučević,CHI,Vučević 26' 3PT Jump Shot (14 PTS) (Phillips 1 AST),Made Shot,Jump Shot,88,245,26,1,3.0,3.0,v
+S2425-G0069,3,03:59,NOP,80.0,CHI,74.0,N. Vučević,CHI,Vučević Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,03:59,NOP,80.0,CHI,75.0,N. Vučević,CHI,Vučević Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,3,03:43,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,3,02:30,NOP,,CHI,,N. Vučević,CHI,SUB: Smith FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,07:07,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,06:27,NOP,,CHI,,N. Vučević,CHI,Vučević S.FOUL (P3.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,4,04:24,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,03:57,NOP,115.0,CHI,105.0,N. Vučević,CHI,Vučević 2' Hook Shot (18 PTS) (LaVine 3 AST),Made Shot,Hook Shot,11,22,2,1,2.0,2.0,v
+S2425-G0069,4,03:22,NOP,117.0,CHI,107.0,N. Vučević,CHI,Vučević 3' Hook Shot (20 PTS) (Dosunmu 3 AST),Made Shot,Hook Shot,-1,27,3,1,2.0,2.0,v
+S2425-G0069,4,02:37,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,02:36,NOP,,CHI,,N. Vučević,CHI,MISS Vučević 4' Putback Layup,Missed Shot,Putback Layup Shot,-18,32,4,1,2.0,0.0,v
+S2425-G0069,4,02:08,NOP,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,02:08,NOP,121.0,CHI,108.0,N. Vučević,CHI,Vučević Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,02:08,NOP,,CHI,,N. Vučević,CHI,MISS Vučević Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0069,4,01:46,NOP,,CHI,,N. Vučević,CHI,SUB: Buzelis FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0123,1,12:00,CHI,,ORL,,N. Vučević,CHI,Jump Ball Vučević vs. Carter Jr.: Tip to Banchero,Jump Ball,,0,0,0,0,,,h
+S2425-G0123,1,10:58,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,1,09:40,CHI,,ORL,,N. Vučević,CHI,MISS Vučević 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,-17,10,2,1,2.0,0.0,h
+S2425-G0123,1,08:38,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,1,07:54,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,1,05:33,CHI,,ORL,,N. Vučević,CHI,MISS Vučević 10' Hook Shot,Missed Shot,Hook Shot,-7,100,10,1,2.0,0.0,h
+S2425-G0123,1,01:36,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,1,01:34,CHI,16.0,ORL,33.0,N. Vučević,CHI,Vučević 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,33,78,8,1,2.0,2.0,h
+S2425-G0123,1,01:19,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,1,01:11,CHI,,ORL,,N. Vučević,CHI,MISS Vučević 25' 3PT Jump Shot,Missed Shot,Jump Shot,-97,226,25,1,3.0,0.0,h
+S2425-G0123,2,07:07,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,07:07,CHI,,ORL,,N. Vučević,CHI,MISS Vučević Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0123,2,07:07,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,06:55,CHI,,ORL,,N. Vučević,CHI,MISS Vučević 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,26,96,10,1,2.0,0.0,h
+S2425-G0123,2,06:47,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,06:34,CHI,36.0,ORL,52.0,N. Vučević,CHI,Vučević 4' Driving Floating Jump Shot (4 PTS) (Williams 1 AST),Made Shot,Driving Floating Jump Shot,-16,34,4,1,2.0,2.0,h
+S2425-G0123,2,06:08,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,05:37,CHI,,ORL,,N. Vučević,CHI,Vučević Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0123,2,02:20,CHI,48.0,ORL,59.0,N. Vučević,CHI,Vučević 13' Jump Shot (6 PTS) (Dosunmu 2 AST),Made Shot,Jump Shot,-130,9,13,1,2.0,2.0,h
+S2425-G0123,2,01:40,CHI,50.0,ORL,59.0,N. Vučević,CHI,Vučević 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-5,1,1,1,2.0,2.0,h
+S2425-G0123,3,11:34,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,3,11:34,CHI,,ORL,,N. Vučević,CHI,Vučević Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0123,3,11:09,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,3,11:02,CHI,,ORL,,N. Vučević,CHI,MISS Vučević 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,7,29,3,1,2.0,0.0,h
+S2425-G0123,3,10:38,CHI,53.0,ORL,64.0,N. Vučević,CHI,Vučević Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,3,10:38,CHI,54.0,ORL,64.0,N. Vučević,CHI,Vučević Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,3,09:25,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,3,07:36,CHI,,ORL,,N. Vučević,CHI,Vučević STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0123,3,05:38,CHI,,ORL,,N. Vučević,CHI,MISS Vučević 25' 3PT Jump Shot,Missed Shot,Jump Shot,-153,200,25,1,3.0,0.0,h
+S2425-G0123,3,05:23,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:6 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,3,04:47,CHI,77.0,ORL,71.0,N. Vučević,CHI,Vučević 6' Turnaround Hook Shot (12 PTS) (Giddey 4 AST),Made Shot,Turnaround Hook Shot,-22,60,6,1,2.0,2.0,h
+S2425-G0123,3,04:18,CHI,,ORL,,N. Vučević,CHI,MISS Vučević 26' 3PT Jump Shot,Missed Shot,Jump Shot,-13,256,26,1,3.0,0.0,h
+S2425-G0123,3,04:06,CHI,79.0,ORL,71.0,N. Vučević,CHI,Vučević 6' Turnaround Hook Shot (14 PTS) (LaVine 3 AST),Made Shot,Turnaround Hook Shot,-5,62,6,1,2.0,2.0,h
+S2425-G0123,3,03:04,CHI,,ORL,,N. Vučević,CHI,Vučević S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2425-G0123,3,02:43,CHI,,ORL,,N. Vučević,CHI,SUB: Sanogo FOR Vučević,Substitution,,0,0,0,0,,,h
+S2425-G0123,4,05:24,CHI,,ORL,,N. Vučević,CHI,Vučević S.FOUL (P2.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0123,4,03:51,CHI,94.0,ORL,91.0,N. Vučević,CHI,Vučević 11' Turnaround Fadeaway (16 PTS),Made Shot,Turnaround Fadeaway shot,-65,83,11,1,2.0,2.0,h
+S2425-G0123,4,03:35,CHI,,ORL,,N. Vučević,CHI,Vučević S.FOUL (P3.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2425-G0123,4,03:18,CHI,,ORL,,N. Vučević,CHI,MISS Vučević 14' Jump Shot,Missed Shot,Jump Shot,-127,68,14,1,2.0,0.0,h
+S2425-G0123,4,03:15,CHI,,ORL,,N. Vučević,CHI,Vučević Backcourt Turnover (P3.T12),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2425-G0123,4,02:13,CHI,96.0,ORL,95.0,N. Vučević,CHI,Vučević Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,4,02:13,CHI,97.0,ORL,95.0,N. Vučević,CHI,Vučević Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,4,01:52,CHI,,ORL,,N. Vučević,CHI,Vučević BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0123,4,01:49,CHI,,ORL,,N. Vučević,CHI,Vučević REBOUND (Off:6 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,4,01:46,CHI,,ORL,,N. Vučević,CHI,Vučević OFF.Foul (P4) (E.Scott),Foul,Offensive,0,0,0,0,,,h
+S2425-G0123,4,01:46,CHI,,ORL,,N. Vučević,CHI,Vučević Offensive Foul Turnover (P4.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0123,4,00:19.800000,CHI,,ORL,,N. Vučević,CHI,SUB: White FOR Vučević,Substitution,,0,0,0,0,,,h
+S2425-G0083,1,09:38,MIL,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,1,09:28,MIL,,CHI,,N. Vučević,CHI,MISS Vučević 13' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,87,94,13,1,2.0,0.0,v
+S2425-G0083,1,08:47,MIL,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,1,07:44,MIL,7.0,CHI,10.0,N. Vučević,CHI,Vučević 28' 3PT Jump Shot (3 PTS) (Giddey 1 AST),Made Shot,Jump Shot,142,242,28,1,3.0,3.0,v
+S2425-G0083,1,05:39,MIL,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,1,05:39,MIL,,CHI,,N. Vučević,CHI,MISS Vučević 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,18,2,1,2.0,0.0,v
+S2425-G0083,1,04:32,MIL,19.0,CHI,18.0,N. Vučević,CHI,Vučević 17' Jump Shot (5 PTS),Made Shot,Jump Shot,-108,126,17,1,2.0,2.0,v
+S2425-G0083,1,03:46,MIL,,CHI,,N. Vučević,CHI,SUB: Smith FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0083,2,08:02,MIL,,CHI,,N. Vučević,CHI,MISS Vučević 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,143,15,1,2.0,0.0,v
+S2425-G0083,2,07:41,MIL,,CHI,,N. Vučević,CHI,Vučević S.FOUL (P1.T3) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,2,05:27,MIL,,CHI,,N. Vučević,CHI,MISS Vučević 26' 3PT Jump Shot,Missed Shot,Jump Shot,-23,255,26,1,3.0,0.0,v
+S2425-G0083,2,03:00,MIL,,CHI,,N. Vučević,CHI,MISS Vučević 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,22,61,6,1,2.0,0.0,v
+S2425-G0083,2,01:34,MIL,59.0,CHI,58.0,N. Vučević,CHI,Vučević 27' 3PT Jump Shot (8 PTS) (White 2 AST),Made Shot,Jump Shot,-71,264,27,1,3.0,3.0,v
+S2425-G0083,2,01:13,MIL,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,2,01:04,MIL,,CHI,,N. Vučević,CHI,MISS Vučević 28' 3PT Jump Shot,Missed Shot,Jump Shot,110,260,28,1,3.0,0.0,v
+S2425-G0083,3,11:16,MIL,66.0,CHI,65.0,N. Vučević,CHI,Vučević 10' Floating Jump Shot (10 PTS) (Giddey 4 AST),Made Shot,Floating Jump shot,-7,101,10,1,2.0,2.0,v
+S2425-G0083,3,10:33,MIL,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,3,10:05,MIL,68.0,CHI,69.0,N. Vučević,CHI,Vučević 18' Jump Shot (12 PTS) (Giddey 5 AST),Made Shot,Jump Shot,120,139,18,1,2.0,2.0,v
+S2425-G0083,3,09:40,MIL,,CHI,,N. Vučević,CHI,MISS Vučević 25' 3PT Jump Shot,Missed Shot,Jump Shot,-17,251,25,1,3.0,0.0,v
+S2425-G0083,3,07:47,MIL,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,3,07:34,MIL,72.0,CHI,79.0,N. Vučević,CHI,Vučević 3PT Jump Shot (15 PTS) (Dosunmu 3 AST),Made Shot,Jump Shot,-233,-3,0,1,3.0,3.0,v
+S2425-G0083,3,06:26,MIL,79.0,CHI,84.0,N. Vučević,CHI,Vučević 27' 3PT Jump Shot (18 PTS) (Giddey 7 AST),Made Shot,Jump Shot,-118,244,27,1,3.0,3.0,v
+S2425-G0083,3,05:59,MIL,81.0,CHI,85.0,N. Vučević,CHI,Vučević Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,3,05:59,MIL,81.0,CHI,86.0,N. Vučević,CHI,Vučević Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,3,05:38,MIL,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,3,04:36,MIL,,CHI,,N. Vučević,CHI,Vučević Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0083,3,04:03,MIL,,CHI,,N. Vučević,CHI,Vučević P.FOUL (P2.T3) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2425-G0083,3,03:30,MIL,,CHI,,N. Vučević,CHI,SUB: Smith FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0083,4,07:47,MIL,,CHI,,N. Vučević,CHI,MISS Vučević 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-6,84,8,1,2.0,0.0,v
+S2425-G0083,4,06:17,MIL,,CHI,,N. Vučević,CHI,Vučević S.FOUL (P3.T3) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,4,05:28,MIL,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,04:31,MIL,,CHI,,N. Vučević,CHI,MISS Vučević 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,46,24,1,3.0,0.0,v
+S2425-G0083,4,03:21,MIL,,CHI,,N. Vučević,CHI,Vučević S.FOUL (P4.T4) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,4,03:03,MIL,,CHI,,N. Vučević,CHI,MISS Vučević 28' 3PT Jump Shot,Missed Shot,Jump Shot,-80,267,28,1,3.0,0.0,v
+S2425-G0083,4,02:38,MIL,120.0,CHI,129.0,N. Vučević,CHI,Vučević Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,4,02:38,MIL,120.0,CHI,130.0,N. Vučević,CHI,Vučević Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,4,02:23,MIL,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,02:13,MIL,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,01:10,MIL,,CHI,,N. Vučević,CHI,SUB: Terry FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0108,1,09:22,MEM,,CHI,,N. Vučević,CHI,MISS Vučević 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-47,46,7,1,2.0,0.0,v
+S2425-G0108,1,08:51,MEM,,CHI,,N. Vučević,CHI,MISS Vučević 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,58,94,11,1,2.0,0.0,v
+S2425-G0108,1,08:24,MEM,,CHI,,N. Vučević,CHI,MISS Vučević 25' 3PT Jump Shot,Missed Shot,Jump Shot,-39,246,25,1,3.0,0.0,v
+S2425-G0108,1,07:42,MEM,14.0,CHI,7.0,N. Vučević,CHI,Vučević 8' Turnaround Hook Shot (2 PTS) (Giddey 2 AST),Made Shot,Turnaround Hook Shot,-22,73,8,1,2.0,2.0,v
+S2425-G0108,1,06:46,MEM,16.0,CHI,9.0,N. Vučević,CHI,Vučević 4' Driving Floating Jump Shot (4 PTS) (Giddey 3 AST),Made Shot,Driving Floating Jump Shot,-17,32,4,1,2.0,2.0,v
+S2425-G0108,1,05:44,MEM,,CHI,,N. Vučević,CHI,Vučević Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0108,1,04:59,MEM,21.0,CHI,12.0,N. Vučević,CHI,Vučević 25' 3PT Jump Shot (7 PTS) (Ball 1 AST),Made Shot,Jump Shot,-105,230,25,1,3.0,3.0,v
+S2425-G0108,1,04:11,MEM,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,1,04:01,MEM,,CHI,,N. Vučević,CHI,MISS Vučević 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,25,58,6,1,2.0,0.0,v
+S2425-G0108,1,03:45,MEM,,CHI,,N. Vučević,CHI,SUB: Smith FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0108,2,09:02,MEM,,CHI,,N. Vučević,CHI,Vučević P.FOUL (P1.T2) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2425-G0108,2,08:58,MEM,,CHI,,N. Vučević,CHI,Vučević BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0108,2,07:51,MEM,,CHI,,N. Vučević,CHI,MISS Vučević 25' 3PT Jump Shot,Missed Shot,Jump Shot,-93,230,25,1,3.0,0.0,v
+S2425-G0108,2,05:50,MEM,,CHI,,N. Vučević,CHI,Vučević P.FOUL (P2.T4) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2425-G0108,2,05:20,MEM,50.0,CHI,33.0,N. Vučević,CHI,Vučević 25' 3PT Jump Shot (10 PTS) (Ball 2 AST),Made Shot,Jump Shot,135,214,25,1,3.0,3.0,v
+S2425-G0108,2,04:31,MEM,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,2,03:50,MEM,52.0,CHI,39.0,N. Vučević,CHI,Vučević 26' 3PT Jump Shot (13 PTS) (White 2 AST),Made Shot,Jump Shot,120,226,26,1,3.0,3.0,v
+S2425-G0108,2,00:58,MEM,62.0,CHI,51.0,N. Vučević,CHI,Vučević 6' Layup (15 PTS) (White 3 AST),Made Shot,Layup Shot,-12,55,6,1,2.0,2.0,v
+S2425-G0108,3,10:18,MEM,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,3,10:01,MEM,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,3,09:03,MEM,,CHI,,N. Vučević,CHI,Vučević L.B.FOUL (P3.T1) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0108,3,08:15,MEM,,CHI,,N. Vučević,CHI,MISS Vučević 26' 3PT Jump Shot,Missed Shot,Jump Shot,-75,253,26,1,3.0,0.0,v
+S2425-G0108,3,07:09,MEM,,CHI,,N. Vučević,CHI,MISS Vučević 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-33,46,6,1,2.0,0.0,v
+S2425-G0108,3,05:42,MEM,,CHI,,N. Vučević,CHI,MISS Vučević 4' Hook Shot,Missed Shot,Hook Shot,-17,37,4,1,2.0,0.0,v
+S2425-G0108,3,04:55,MEM,,CHI,,N. Vučević,CHI,SUB: Phillips FOR Vučević,Substitution,,0,0,0,0,,,v
+S2425-G0108,4,08:07,MEM,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,4,07:57,MEM,109.0,CHI,105.0,N. Vučević,CHI,Vučević 12' Floating Jump Shot (17 PTS) (LaVine 3 AST),Made Shot,Floating Jump shot,-22,116,12,1,2.0,2.0,v
+S2425-G0108,4,06:39,MEM,112.0,CHI,114.0,N. Vučević,CHI,Vučević 26' 3PT Jump Shot (20 PTS) (LaVine 4 AST),Made Shot,Jump Shot,-86,242,26,1,3.0,3.0,v
+S2425-G0108,4,05:18,MEM,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,4,04:27,MEM,,CHI,,N. Vučević,CHI,MISS Vučević 27' 3PT Jump Shot,Missed Shot,Jump Shot,-77,254,27,1,3.0,0.0,v
+S2425-G0108,4,03:58,MEM,,CHI,,N. Vučević,CHI,MISS Vučević 3' Hook Shot,Missed Shot,Hook Shot,5,32,3,1,2.0,0.0,v
+S2425-G0108,4,03:54,MEM,,CHI,,N. Vučević,CHI,Vučević REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,4,03:54,MEM,117.0,CHI,122.0,N. Vučević,CHI,Vučević Tip Layup Shot (22 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v

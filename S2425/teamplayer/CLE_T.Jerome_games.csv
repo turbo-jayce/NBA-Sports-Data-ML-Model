@@ -1,0 +1,75 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0106,2,08:20,NYK,,CLE,,T. Jerome,CLE,MISS Jerome 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,169,200,26,1,3.0,0.0,v
+S2425-G0106,2,07:02,NYK,,CLE,,T. Jerome,CLE,Jerome P.FOUL (P1.T2) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2425-G0106,2,06:10,NYK,,CLE,,T. Jerome,CLE,MISS Jerome 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,41,24,1,3.0,0.0,v
+S2425-G0106,2,06:00,NYK,,CLE,,T. Jerome,CLE,Jerome STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0106,2,05:49,NYK,,CLE,,T. Jerome,CLE,Jerome Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0106,2,05:25,NYK,,CLE,,T. Jerome,CLE,MISS Jerome 2' Driving Layup,Missed Shot,Driving Layup Shot,-9,21,2,1,2.0,0.0,v
+S2425-G0106,2,04:11,NYK,,CLE,,T. Jerome,CLE,MISS Jerome 9' Driving Layup,Missed Shot,Driving Layup Shot,-74,44,9,1,2.0,0.0,v
+S2425-G0106,2,04:05,NYK,,CLE,,T. Jerome,CLE,Jerome STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0106,2,04:02,NYK,43.0,CLE,38.0,T. Jerome,CLE,Jerome 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,6,4,1,1,2.0,2.0,v
+S2425-G0106,2,03:29,NYK,,CLE,,T. Jerome,CLE,SUB: Mitchell FOR Jerome,Substitution,,0,0,0,0,,,v
+S2425-G0080,2,09:57,CLE,,DET,,T. Jerome,CLE,MISS Jerome 3PT Jump Shot,Missed Shot,Jump Shot,228,49,0,1,3.0,0.0,h
+S2425-G0080,2,08:10,CLE,,DET,,T. Jerome,CLE,Jerome REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,2,07:46,CLE,36.0,DET,38.0,T. Jerome,CLE,Jerome Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,2,07:46,CLE,37.0,DET,38.0,T. Jerome,CLE,Jerome Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,2,05:46,CLE,44.0,DET,43.0,T. Jerome,CLE,Jerome 9' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,78,34,9,1,2.0,2.0,h
+S2425-G0080,2,05:16,CLE,46.0,DET,43.0,T. Jerome,CLE,Jerome 12' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,-97,76,12,1,2.0,2.0,h
+S2425-G0080,2,04:44,CLE,48.0,DET,46.0,T. Jerome,CLE,Jerome 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,5,18,2,1,2.0,2.0,h
+S2425-G0080,2,04:02,CLE,,DET,,T. Jerome,CLE,Jerome STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0080,2,03:55,CLE,51.0,DET,48.0,T. Jerome,CLE,Jerome Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,2,03:55,CLE,52.0,DET,48.0,T. Jerome,CLE,Jerome Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,2,02:19,CLE,,DET,,T. Jerome,CLE,SUB: Mobley FOR Jerome,Substitution,,0,0,0,0,,,h
+S2425-G0080,4,09:50,CLE,,DET,,T. Jerome,CLE,Jerome REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,4,09:46,CLE,,DET,,T. Jerome,CLE,MISS Jerome 2' Running Layup,Missed Shot,Running Layup Shot,10,14,2,1,2.0,0.0,h
+S2425-G0080,4,08:40,CLE,,DET,,T. Jerome,CLE,Jerome Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0080,4,07:38,CLE,,DET,,T. Jerome,CLE,MISS Jerome Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0080,4,07:38,CLE,99.0,DET,88.0,T. Jerome,CLE,Jerome Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,4,04:39,CLE,,DET,,T. Jerome,CLE,SUB: Mobley FOR Jerome,Substitution,,0,0,0,0,,,h
+S2425-G0080,4,00:40.500000,CLE,113.0,DET,101.0,T. Jerome,CLE,Jerome 11' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,-108,-7,11,1,2.0,2.0,h
+S2425-G0090,2,05:57,WAS,34.0,CLE,41.0,T. Jerome,CLE,Jerome 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,25,10,3,1,2.0,2.0,v
+S2425-G0090,2,05:25,WAS,,CLE,,T. Jerome,CLE,MISS Jerome 11' Floating Jump Shot,Missed Shot,Floating Jump shot,70,79,11,1,2.0,0.0,v
+S2425-G0090,2,04:04,WAS,,CLE,,T. Jerome,CLE,Jerome STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0090,2,04:02,WAS,,CLE,,T. Jerome,CLE,MISS Jerome 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-13,6,1,1,2.0,0.0,v
+S2425-G0090,2,01:39,WAS,,CLE,,T. Jerome,CLE,SUB: Mitchell FOR Jerome,Substitution,,0,0,0,0,,,v
+S2425-G0090,4,05:49,WAS,100.0,CLE,121.0,T. Jerome,CLE,Jerome 9' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-36,82,9,1,2.0,2.0,v
+S2425-G0090,4,05:29,WAS,,CLE,,T. Jerome,CLE,Jerome REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,4,05:19,WAS,,CLE,,T. Jerome,CLE,MISS Jerome Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0090,4,05:19,WAS,100.0,CLE,122.0,T. Jerome,CLE,Jerome Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,4,04:43,WAS,103.0,CLE,123.0,T. Jerome,CLE,Jerome Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,4,04:43,WAS,103.0,CLE,124.0,T. Jerome,CLE,Jerome Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,4,04:21,WAS,,CLE,,T. Jerome,CLE,Jerome Offensive Charge Foul (P1) (K.Cutler),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0090,4,04:21,WAS,,CLE,,T. Jerome,CLE,Jerome Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0090,4,03:24,WAS,,CLE,,T. Jerome,CLE,Jerome REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,4,02:13,WAS,108.0,CLE,130.0,T. Jerome,CLE,Jerome 15' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,7,147,15,1,2.0,2.0,v
+S2425-G0090,4,00:53.300000,WAS,114.0,CLE,133.0,T. Jerome,CLE,Jerome 27' 3PT Jump Shot (12 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,-212,161,27,1,3.0,3.0,v
+S2425-G0090,4,00:34.500000,WAS,114.0,CLE,134.0,T. Jerome,CLE,Jerome Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,4,00:34.500000,WAS,114.0,CLE,135.0,T. Jerome,CLE,Jerome Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,2,07:35,TOR,,CLE,,T. Jerome,CLE,Jerome S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0067,2,07:33,TOR,,CLE,,T. Jerome,CLE,Jerome REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,2,06:29,TOR,,CLE,,T. Jerome,CLE,Jerome Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0067,2,04:37,TOR,45.0,CLE,53.0,T. Jerome,CLE,Jerome 8' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,51,65,8,1,2.0,2.0,v
+S2425-G0067,2,04:02,TOR,46.0,CLE,55.0,T. Jerome,CLE,Jerome 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-56,57,8,1,2.0,2.0,v
+S2425-G0067,4,09:32,TOR,85.0,CLE,112.0,T. Jerome,CLE,Jerome 28' 3PT Pullup Jump Shot (7 PTS) (Mobley 2 AST),Made Shot,Pullup Jump shot,165,225,28,1,3.0,3.0,v
+S2425-G0067,4,09:15,TOR,,CLE,,T. Jerome,CLE,Jerome STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0067,4,09:09,TOR,,CLE,,T. Jerome,CLE,MISS Jerome 2' Running Layup,Missed Shot,Running Layup Shot,21,3,2,1,2.0,0.0,v
+S2425-G0067,4,06:52,TOR,90.0,CLE,118.0,T. Jerome,CLE,Jerome 10' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,37,90,10,1,2.0,2.0,v
+S2425-G0067,4,06:15,TOR,90.0,CLE,121.0,T. Jerome,CLE,Jerome 27' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,21,266,27,1,3.0,3.0,v
+S2425-G0067,4,03:08,TOR,,CLE,,T. Jerome,CLE,Jerome REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,4,02:39,TOR,,CLE,,T. Jerome,CLE,Jerome Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0067,4,01:42,TOR,104.0,CLE,132.0,T. Jerome,CLE,Jerome 5' Driving Floating Bank Jump Shot (14 PTS),Made Shot,Driving Floating Bank Jump Shot,-32,32,5,1,2.0,2.0,v
+S2425-G0067,4,00:56.300000,TOR,,CLE,,T. Jerome,CLE,Jerome STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0118,2,06:17,CLE,,LAL,,T. Jerome,CLE,MISS Jerome 2' Layup,Missed Shot,Layup Shot,7,16,2,1,2.0,0.0,h
+S2425-G0118,2,03:38,CLE,59.0,LAL,38.0,T. Jerome,CLE,Jerome 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,0,38,4,1,2.0,2.0,h
+S2425-G0118,2,01:28,CLE,,LAL,,T. Jerome,CLE,SUB: Merrill FOR Jerome,Substitution,,0,0,0,0,,,h
+S2425-G0118,4,05:57,CLE,,LAL,,T. Jerome,CLE,Jerome REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,4,05:16,CLE,119.0,LAL,98.0,T. Jerome,CLE,Jerome Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0118,4,05:16,CLE,120.0,LAL,98.0,T. Jerome,CLE,Jerome Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0118,4,02:17,CLE,125.0,LAL,103.0,T. Jerome,CLE,Jerome 27' 3PT Jump Shot (7 PTS) (Thompson 1 AST),Made Shot,Jump Shot,-113,247,27,1,3.0,3.0,h
+S2425-G0118,4,01:52,CLE,127.0,LAL,105.0,T. Jerome,CLE,Jerome 8' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,-76,21,8,1,2.0,2.0,h
+S2425-G0118,4,01:41,CLE,,LAL,,T. Jerome,CLE,Jerome STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0118,4,01:34,CLE,,LAL,,T. Jerome,CLE,MISS Jerome 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,218,118,25,1,3.0,0.0,h
+S2425-G0118,4,01:27,CLE,,LAL,,T. Jerome,CLE,Jerome S.FOUL (P1.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,4,00:52.600000,CLE,,LAL,,T. Jerome,CLE,Jerome REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,4,00:46.400000,CLE,132.0,LAL,107.0,T. Jerome,CLE,Jerome 30' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,62,293,30,1,3.0,3.0,h
+S2425-G0118,4,00:21.500000,CLE,134.0,LAL,110.0,T. Jerome,CLE,Jerome 16' Jump Shot (14 PTS),Made Shot,Jump Shot,-42,157,16,1,2.0,2.0,h

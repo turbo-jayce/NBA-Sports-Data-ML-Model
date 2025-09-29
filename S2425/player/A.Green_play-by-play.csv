@@ -1,0 +1,23 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0066,2,08:49,PHI,,MIL,,A. Green,MIL,Green STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0066,2,08:43,PHI,,MIL,,A. Green,MIL,SUB: Trent Jr. FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0083,1,00:02.800000,MIL,,CHI,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,-203,173,27,1,3.0,0.0,h
+S2425-G0083,2,09:20,MIL,41.0,CHI,39.0,A. Green,MIL,Green 3PT Jump Shot (3 PTS) (Wright 1 AST),Made Shot,Jump Shot,-233,12,0,1,3.0,3.0,h
+S2425-G0083,2,07:41,MIL,,CHI,,A. Green,MIL,SUB: Prince FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0083,4,11:41,MIL,98.0,CHI,102.0,A. Green,MIL,Green 24' 3PT Jump Shot (6 PTS) (Wright 3 AST),Made Shot,Jump Shot,-221,99,24,1,3.0,3.0,h
+S2425-G0083,4,11:02,MIL,101.0,CHI,102.0,A. Green,MIL,Green 26' 3PT Pullup Jump Shot (9 PTS) (Antetokounmpo 5 AST),Made Shot,Pullup Jump shot,53,253,26,1,3.0,3.0,h
+S2425-G0083,4,09:08,MIL,,CHI,,A. Green,MIL,Green S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2425-G0083,4,08:05,MIL,,CHI,,A. Green,MIL,SUB: Lillard FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0083,4,01:40,MIL,,CHI,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,4,01:46,BOS,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,4,01:40,BOS,,MIL,,A. Green,MIL,MISS Green 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,25,265,27,1,3.0,0.0,v
+S2425-G0104,4,01:16,BOS,119.0,MIL,106.0,A. Green,MIL,Green 26' 3PT Step Back Bank Jump Shot (3 PTS) (Jackson Jr. 2 AST),Made Shot,Step Back Bank Jump Shot,-219,134,26,1,3.0,3.0,v
+S2425-G0098,2,10:53,BKN,,MIL,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,-229,-20,0,1,3.0,0.0,v
+S2425-G0098,2,09:34,BKN,,MIL,,A. Green,MIL,MISS Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,151,235,28,1,3.0,0.0,v
+S2425-G0098,2,08:29,BKN,,MIL,,A. Green,MIL,Green Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0098,2,05:57,BKN,,MIL,,A. Green,MIL,SUB: Trent Jr. FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0098,4,08:51,BKN,,MIL,,A. Green,MIL,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,223,95,24,1,3.0,0.0,v
+S2425-G0098,4,08:37,BKN,,MIL,,A. Green,MIL,SUB: Trent Jr. FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0098,4,02:22,BKN,111.0,MIL,92.0,A. Green,MIL,Green 26' 3PT Jump Shot (3 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,60,252,26,1,3.0,3.0,v
+S2425-G0098,4,01:58,BKN,111.0,MIL,93.0,A. Green,MIL,Green Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0098,4,01:58,BKN,111.0,MIL,94.0,A. Green,MIL,Green Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v

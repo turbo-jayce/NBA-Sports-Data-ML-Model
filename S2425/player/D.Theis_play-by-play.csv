@@ -1,0 +1,88 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,11:24,GSW,,NOP,,D. Theis,NOP,MISS Theis 18' Jump Shot,Missed Shot,Jump Shot,19,176,18,1,2.0,0.0,v
+S2425-G0126,1,09:29,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,09:20,GSW,,NOP,,D. Theis,NOP,Theis Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0126,1,08:56,GSW,,NOP,,D. Theis,NOP,MISS Theis 5' Hook Shot,Missed Shot,Hook Shot,-45,13,5,1,2.0,0.0,v
+S2425-G0126,1,08:35,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,08:08,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,06:44,GSW,,NOP,,D. Theis,NOP,SUB: Green FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,09:53,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,09:37,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,08:35,GSW,,NOP,,D. Theis,NOP,Theis Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0116,1,07:56,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,07:44,GSW,,NOP,,D. Theis,NOP,MISS Theis 26' 3PT Jump Shot,Missed Shot,Jump Shot,199,169,26,1,3.0,0.0,v
+S2425-G0116,1,07:01,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,07:00,GSW,8.0,NOP,14.0,D. Theis,NOP,Theis 8' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,-71,32,8,1,2.0,2.0,v
+S2425-G0116,1,03:03,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,02:59,GSW,,NOP,,D. Theis,NOP,SUB: Williamson FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0116,2,03:48,GSW,,NOP,,D. Theis,NOP,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0116,2,03:48,GSW,37.0,NOP,43.0,D. Theis,NOP,Theis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,2,03:33,GSW,,NOP,,D. Theis,NOP,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0116,2,03:30,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,3,11:03,GSW,,NOP,,D. Theis,NOP,Theis S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,3,08:38,GSW,,NOP,,D. Theis,NOP,Theis P.FOUL (P2.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0116,3,07:33,GSW,,NOP,,D. Theis,NOP,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,224,29,0,1,3.0,0.0,v
+S2425-G0116,3,07:14,GSW,,NOP,,D. Theis,NOP,Theis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,3,06:26,GSW,,NOP,,D. Theis,NOP,SUB: Missi FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,04:19,GSW,106.0,NOP,96.0,D. Theis,NOP,Theis 3' Floating Jump Shot (5 PTS) (Alvarado 3 AST),Made Shot,Floating Jump shot,-1,32,3,1,2.0,2.0,v
+S2425-G0116,4,03:36,GSW,,NOP,,D. Theis,NOP,MISS Theis 3' Running Layup,Missed Shot,Running Layup Shot,-33,5,3,1,2.0,0.0,v
+S2425-G0116,4,02:43,GSW,,NOP,,D. Theis,NOP,SUB: Cain FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0069,1,12:00,NOP,,CHI,,D. Theis,NOP,Jump Ball Theis vs. Vučević: Tip to Jones,Jump Ball,,0,0,0,0,,,h
+S2425-G0069,1,11:42,NOP,2.0,CHI,0.0,D. Theis,NOP,Theis 2' Layup (2 PTS) (Murray 1 AST),Made Shot,Layup Shot,-15,-2,2,1,2.0,2.0,h
+S2425-G0069,1,07:32,NOP,,CHI,,D. Theis,NOP,Theis Violation:Kicked Ball (G.Petraitis),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0069,1,06:44,NOP,,CHI,,D. Theis,NOP,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,1,06:14,NOP,,CHI,,D. Theis,NOP,SUB: Missi FOR Theis,Substitution,,0,0,0,0,,,h
+S2425-G0069,2,02:00,NOP,53.0,CHI,57.0,D. Theis,NOP,Theis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,2,02:00,NOP,54.0,CHI,57.0,D. Theis,NOP,Theis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,2,00:11.900000,NOP,,CHI,,D. Theis,NOP,Theis OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2425-G0069,2,00:11.900000,NOP,,CHI,,D. Theis,NOP,Theis Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0069,3,11:09,NOP,,CHI,,D. Theis,NOP,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,11:01,NOP,63.0,CHI,61.0,D. Theis,NOP,Theis 1' Cutting Dunk Shot (6 PTS) (McCollum 4 AST),Made Shot,Cutting Dunk Shot,2,8,1,1,2.0,2.0,h
+S2425-G0069,3,10:19,NOP,,CHI,,D. Theis,NOP,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0069,3,08:22,NOP,,CHI,,D. Theis,NOP,Theis STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0069,3,07:44,NOP,,CHI,,D. Theis,NOP,Theis Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0069,3,06:38,NOP,,CHI,,D. Theis,NOP,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,05:52,NOP,,CHI,,D. Theis,NOP,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,225,-8,0,1,3.0,0.0,h
+S2425-G0069,3,05:05,NOP,78.0,CHI,70.0,D. Theis,NOP,Theis 1' Cutting Dunk Shot (8 PTS) (Murray 6 AST),Made Shot,Cutting Dunk Shot,5,8,1,1,2.0,2.0,h
+S2425-G0069,3,05:05,NOP,,CHI,,D. Theis,NOP,SUB: Missi FOR Theis,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,04:08,NOP,,CHI,,D. Theis,NOP,MISS Theis 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,37,4,1,2.0,0.0,h
+S2425-G0069,4,02:41,NOP,,CHI,,D. Theis,NOP,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0069,4,02:36,NOP,,CHI,,D. Theis,NOP,Theis BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0069,4,02:08,NOP,,CHI,,D. Theis,NOP,Theis P.FOUL (P2.PN) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2425-G0069,4,01:00,NOP,,CHI,,D. Theis,NOP,SUB: Robinson-Earl FOR Theis,Substitution,,0,0,0,0,,,h
+S2425-G0086,1,09:54,POR,,,,D. Theis,NOP,Theis S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2425-G0086,1,09:05,POR,,,,D. Theis,NOP,MISS Theis 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,54,24,1,3.0,0.0,v
+S2425-G0086,1,06:39,POR,,,,D. Theis,NOP,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0086,1,06:39,POR,12.0,,8.0,D. Theis,NOP,Theis Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,1,06:07,POR,,,,D. Theis,NOP,Theis Violation:Kicked Ball (J.Williams),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0086,1,03:59,POR,,,,D. Theis,NOP,SUB: Missi FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0086,2,01:18,POR,,,,D. Theis,NOP,Theis OFF.Foul (P2) (J.Williams),Foul,Offensive,0,0,0,0,,,v
+S2425-G0086,2,01:18,POR,,,,D. Theis,NOP,Theis Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0086,2,00:31.700000,POR,45.0,,36.0,D. Theis,NOP,Theis Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,2,00:31.700000,POR,45.0,,37.0,D. Theis,NOP,Theis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,2,00:11.500000,POR,,,,D. Theis,NOP,Theis S.FOUL (P3.T4) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2425-G0086,3,11:24,POR,,,,D. Theis,NOP,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,3,10:57,POR,,,,D. Theis,NOP,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,3,10:33,POR,,,,D. Theis,NOP,Theis S.FOUL (P4.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0086,3,10:21,POR,,,,D. Theis,NOP,SUB: Missi FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0086,4,11:38,POR,,,,D. Theis,NOP,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,4,09:57,POR,,,,D. Theis,NOP,Theis Violation:Defensive Goaltending (J.Williams),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0086,4,08:23,POR,,,,D. Theis,NOP,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,4,07:31,POR,,,,D. Theis,NOP,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,4,07:02,POR,,,,D. Theis,NOP,MISS Theis 10' Jump Shot,Missed Shot,Jump Shot,91,30,10,1,2.0,0.0,v
+S2425-G0086,4,06:46,POR,,,,D. Theis,NOP,Theis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,4,06:33,POR,,,,D. Theis,NOP,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-214,127,25,1,3.0,0.0,v
+S2425-G0086,4,05:52,POR,91.0,,97.0,D. Theis,NOP,Theis 8' Floating Jump Shot (5 PTS) (Ingram 3 AST),Made Shot,Floating Jump shot,-62,56,8,1,2.0,2.0,v
+S2425-G0086,4,05:51,POR,,,,D. Theis,NOP,SUB: Missi FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0099,1,10:19,POR,,,,D. Theis,NOP,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0099,1,08:23,POR,,,,D. Theis,NOP,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,1,04:20,POR,,,,D. Theis,NOP,Theis BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0099,1,03:27,POR,,,,D. Theis,NOP,SUB: Green FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0099,2,05:24,POR,,,,D. Theis,NOP,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,2,05:02,POR,,,,D. Theis,NOP,MISS Theis 44' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-211,389,44,1,3.0,0.0,v
+S2425-G0099,2,03:52,POR,,,,D. Theis,NOP,SUB: Williamson FOR Theis,Substitution,,0,0,0,0,,,v
+S2425-G0099,3,09:08,POR,,,,D. Theis,NOP,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,3,08:00,POR,,,,D. Theis,NOP,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,3,08:00,POR,69.0,,56.0,D. Theis,NOP,Theis Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0099,3,06:38,POR,,,,D. Theis,NOP,Theis S.FOUL (P1.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2425-G0099,3,06:24,POR,,,,D. Theis,NOP,SUB: Missi FOR Theis,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,5 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0066,4,00:02.100000,PHI,,MIL,,R. Rollins,MIL,Rollins S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,4,00:38.400000,MIL,121.0,CHI,133.0,R. Rollins,MIL,Rollins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0083,4,00:38.400000,MIL,122.0,CHI,133.0,R. Rollins,MIL,Rollins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0104,4,02:16,BOS,,MIL,,R. Rollins,MIL,Rollins S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v

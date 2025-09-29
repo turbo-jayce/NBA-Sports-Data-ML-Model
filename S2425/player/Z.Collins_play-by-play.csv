@@ -1,0 +1,69 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,05:14,DAL,,SAS,,Z. Collins,SAS,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,1,04:32,DAL,,SAS,,Z. Collins,SAS,Collins P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2425-G0074,1,03:38,DAL,,SAS,,Z. Collins,SAS,MISS Collins 15' Jump Shot,Missed Shot,Jump Shot,152,-6,15,1,2.0,0.0,v
+S2425-G0074,1,02:54,DAL,,SAS,,Z. Collins,SAS,Collins OFF.Foul (P2) (J.Tiven),Foul,Offensive,0,0,0,0,,,v
+S2425-G0074,1,02:54,DAL,,SAS,,Z. Collins,SAS,Collins Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0074,1,02:54,DAL,,SAS,,Z. Collins,SAS,SUB: Wembanyama FOR Collins,Substitution,,0,0,0,0,,,v
+S2425-G0074,2,07:04,DAL,28.0,SAS,33.0,Z. Collins,SAS,Collins 25' 3PT Jump Shot (3 PTS) (Sochan 2 AST),Made Shot,Jump Shot,-96,236,25,1,3.0,3.0,v
+S2425-G0074,2,05:44,DAL,,SAS,,Z. Collins,SAS,Collins STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0074,2,04:53,DAL,,SAS,,Z. Collins,SAS,Collins REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,04:01,DAL,38.0,SAS,40.0,Z. Collins,SAS,Collins 3' Cutting Layup Shot (5 PTS) (Castle 1 AST),Made Shot,Cutting Layup Shot,22,27,3,1,2.0,2.0,v
+S2425-G0074,2,03:07,DAL,,SAS,,Z. Collins,SAS,Collins REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,02:48,DAL,,SAS,,Z. Collins,SAS,SUB: Paul FOR Collins,Substitution,,0,0,0,0,,,v
+S2425-G0074,3,02:43,DAL,,SAS,,Z. Collins,SAS,Collins P.FOUL (P3.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2425-G0074,3,00:59.200000,DAL,,SAS,,Z. Collins,SAS,Collins REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,00:11.400000,DAL,,SAS,,Z. Collins,SAS,Collins REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,1,06:01,SAS,10.0,HOU,16.0,Z. Collins,SAS,Collins 24' 3PT Jump Shot (3 PTS) (Champagnie 1 AST),Made Shot,Jump Shot,227,75,24,1,3.0,3.0,h
+S2425-G0109,1,05:02,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,1,03:09,SAS,,HOU,,Z. Collins,SAS,Collins S.FOUL (P1.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,1,03:09,SAS,,HOU,,Z. Collins,SAS,SUB: Branham FOR Collins,Substitution,,0,0,0,0,,,h
+S2425-G0109,2,06:11,SAS,24.0,HOU,38.0,Z. Collins,SAS,Collins Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,2,06:11,SAS,25.0,HOU,38.0,Z. Collins,SAS,Collins Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,2,05:39,SAS,27.0,HOU,38.0,Z. Collins,SAS,Collins 1' Cutting Dunk Shot (7 PTS) (Paul 1 AST),Made Shot,Cutting Dunk Shot,-7,3,1,1,2.0,2.0,h
+S2425-G0109,2,03:38,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,2,02:17,SAS,,HOU,,Z. Collins,SAS,Collins STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0109,2,02:09,SAS,42.0,HOU,53.0,Z. Collins,SAS,Collins 2' Cutting Layup Shot (9 PTS) (Sochan 3 AST),Made Shot,Cutting Layup Shot,6,16,2,1,2.0,2.0,h
+S2425-G0109,2,02:09,SAS,,HOU,,Z. Collins,SAS,SUB: Wembanyama FOR Collins,Substitution,,0,0,0,0,,,h
+S2425-G0109,3,04:11,SAS,,HOU,,Z. Collins,SAS,MISS Collins 3PT Jump Shot,Missed Shot,Jump Shot,224,15,0,1,3.0,0.0,h
+S2425-G0109,3,03:41,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,03:17,SAS,,HOU,,Z. Collins,SAS,Collins S.FOUL (P2.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,3,03:12,SAS,60.0,HOU,80.0,Z. Collins,SAS,Collins Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,3,03:12,SAS,61.0,HOU,80.0,Z. Collins,SAS,Collins Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,3,02:35,SAS,,HOU,,Z. Collins,SAS,Collins STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0109,3,01:12,SAS,,HOU,,Z. Collins,SAS,SUB: Wembanyama FOR Collins,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,06:16,OKC,,SAS,,Z. Collins,SAS,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,06:07,OKC,,SAS,,Z. Collins,SAS,MISS Collins 25' 3PT Jump Shot,Missed Shot,Jump Shot,-55,248,25,1,3.0,0.0,v
+S2425-G0125,1,04:53,OKC,,SAS,,Z. Collins,SAS,Collins S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2425-G0125,1,04:05,OKC,20.0,SAS,13.0,Z. Collins,SAS,Collins 26' 3PT Jump Shot (3 PTS) (Sochan 1 AST),Made Shot,Jump Shot,26,256,26,1,3.0,3.0,v
+S2425-G0125,1,03:13,OKC,,SAS,,Z. Collins,SAS,Collins REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,01:52,OKC,,SAS,,Z. Collins,SAS,Collins Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0125,1,01:35,OKC,,SAS,,Z. Collins,SAS,SUB: Wembanyama FOR Collins,Substitution,,0,0,0,0,,,v
+S2425-G0125,2,10:19,OKC,,SAS,,Z. Collins,SAS,Collins REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,10:19,OKC,,SAS,,Z. Collins,SAS,MISS Collins 2' Putback Layup,Missed Shot,Putback Layup Shot,13,16,2,1,2.0,0.0,v
+S2425-G0125,2,10:09,OKC,,SAS,,Z. Collins,SAS,Collins BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0125,2,06:56,OKC,,SAS,,Z. Collins,SAS,SUB: Sochan FOR Collins,Substitution,,0,0,0,0,,,v
+S2425-G0125,3,03:46,OKC,,SAS,,Z. Collins,SAS,Collins Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0125,3,02:43,OKC,,SAS,,Z. Collins,SAS,Collins REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,3,01:13,OKC,,SAS,,Z. Collins,SAS,SUB: Mamukelashvili FOR Collins,Substitution,,0,0,0,0,,,v
+S2425-G0094,1,05:02,SAS,25.0,HOU,19.0,Z. Collins,SAS,Collins 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-12,1,1,1,2.0,2.0,h
+S2425-G0094,1,03:05,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,05:44,SAS,,HOU,,Z. Collins,SAS,MISS Collins 6' Hook Shot,Missed Shot,Hook Shot,-26,57,6,1,2.0,0.0,h
+S2425-G0094,2,05:32,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,04:34,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,03:34,SAS,54.0,HOU,38.0,Z. Collins,SAS,Collins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,2,03:34,SAS,55.0,HOU,38.0,Z. Collins,SAS,Collins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,2,03:05,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,02:45,SAS,,HOU,,Z. Collins,SAS,SUB: Wembanyama FOR Collins,Substitution,,0,0,0,0,,,h
+S2425-G0094,3,07:21,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,07:05,SAS,,HOU,,Z. Collins,SAS,Collins S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2425-G0094,3,05:58,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,05:44,SAS,,HOU,,Z. Collins,SAS,MISS Collins 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,15,12,2,1,2.0,0.0,h
+S2425-G0094,3,05:44,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,05:44,SAS,,HOU,,Z. Collins,SAS,MISS Collins Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0094,3,05:24,SAS,,HOU,,Z. Collins,SAS,Collins Violation:Kicked Ball (B.Haskill),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0094,3,03:27,SAS,,HOU,,Z. Collins,SAS,Collins S.FOUL (P2.T4) (B.Haskill),Foul,Shooting,0,0,0,0,,,h
+S2425-G0094,3,03:24,SAS,,HOU,,Z. Collins,SAS,Collins REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,02:24,SAS,,HOU,,Z. Collins,SAS,Collins P.FOUL (P3.PN) (B.Haskill),Foul,Personal,0,0,0,0,,,h
+S2425-G0094,3,02:24,SAS,,HOU,,Z. Collins,SAS,SUB: Champagnie FOR Collins,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,06:10,SAS,,HOU,,Z. Collins,SAS,SUB: Wembanyama FOR Collins,Substitution,,0,0,0,0,,,h

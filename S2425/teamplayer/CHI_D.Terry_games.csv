@@ -1,0 +1,38 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0091,4,02:33,CHI,88.0,OKC,108.0,D. Terry,CHI,Terry Driving Layup (2 PTS) (Duarte 1 AST),Made Shot,Driving Layup Shot,2,-1,0,1,2.0,2.0,h
+S2425-G0091,4,00:21.600000,CHI,,OKC,,D. Terry,CHI,Terry Step Out of Bounds Turnover (P1.T26),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0069,4,00:03.100000,NOP,,CHI,,D. Terry,CHI,Terry STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0123,1,02:24,CHI,,ORL,,D. Terry,CHI,MISS Terry 25' 3PT Jump Shot,Missed Shot,Jump Shot,12,253,25,1,3.0,0.0,h
+S2425-G0123,1,02:01,CHI,,ORL,,D. Terry,CHI,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,10:55,CHI,,ORL,,D. Terry,CHI,Terry S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2425-G0123,2,10:55,CHI,,ORL,,D. Terry,CHI,SUB: Giddey FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0123,2,07:07,CHI,,ORL,,D. Terry,CHI,MISS Terry 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,6,5,1,1,2.0,0.0,h
+S2425-G0123,2,06:49,CHI,,ORL,,D. Terry,CHI,SUB: Williams FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0123,2,00:07.300000,CHI,,ORL,,D. Terry,CHI,SUB: LaVine FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0123,3,02:09,CHI,81.0,ORL,77.0,D. Terry,CHI,Terry 2' Driving Layup (2 PTS) (Sanogo 1 AST),Made Shot,Driving Layup Shot,13,10,2,1,2.0,2.0,h
+S2425-G0123,4,11:33,CHI,,ORL,,D. Terry,CHI,MISS Terry 26' 3PT Jump Shot,Missed Shot,Jump Shot,141,220,26,1,3.0,0.0,h
+S2425-G0123,4,10:35,CHI,,ORL,,D. Terry,CHI,MISS Terry 2' Running Layup,Missed Shot,Running Layup Shot,20,12,2,1,2.0,0.0,h
+S2425-G0123,4,09:54,CHI,,ORL,,D. Terry,CHI,Terry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,4,09:27,CHI,,ORL,,D. Terry,CHI,MISS Terry 2' Running Layup,Missed Shot,Running Layup Shot,15,6,2,1,2.0,0.0,h
+S2425-G0123,4,09:02,CHI,,ORL,,D. Terry,CHI,Terry L.B.FOUL (P2.T1) (E.Scott),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0123,4,09:02,CHI,,ORL,,D. Terry,CHI,SUB: LaVine FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0083,1,02:39,MIL,,CHI,,D. Terry,CHI,Terry STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0083,1,01:46,MIL,,CHI,,D. Terry,CHI,MISS Terry 7' Driving Layup,Missed Shot,Driving Layup Shot,-37,63,7,1,2.0,0.0,v
+S2425-G0083,1,01:12,MIL,,CHI,,D. Terry,CHI,MISS Terry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0083,1,01:12,MIL,32.0,CHI,25.0,D. Terry,CHI,Terry Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,1,00:56.400000,MIL,,CHI,,D. Terry,CHI,Terry BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0083,2,11:14,MIL,,CHI,,D. Terry,CHI,Terry S.FOUL (P1.T1) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,2,11:14,MIL,,CHI,,D. Terry,CHI,SUB: Buzelis FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0083,4,09:08,MIL,,CHI,,D. Terry,CHI,Terry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,09:08,MIL,102.0,CHI,111.0,D. Terry,CHI,Terry Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,4,09:08,MIL,102.0,CHI,112.0,D. Terry,CHI,Terry Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,4,08:05,MIL,,CHI,,D. Terry,CHI,Terry S.FOUL (P2.T2) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,4,06:24,MIL,,CHI,,D. Terry,CHI,SUB: White FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0083,4,00:04.500000,MIL,,CHI,,D. Terry,CHI,Terry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,1,00:13.500000,MEM,,CHI,,D. Terry,CHI,Terry S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2425-G0108,3,02:20,MEM,,CHI,,D. Terry,CHI,Terry STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0108,3,00:05.500000,MEM,,CHI,,D. Terry,CHI,Terry Personal Take Foul (P2.T4) (B.Barnaky),Foul,Personal Take,0,0,0,0,,,v
+S2425-G0108,3,00:05.500000,MEM,,CHI,,D. Terry,CHI,Terry AWAY.FROM.PLAY.FOUL (P3.PN) (S.Jelks),Foul,Away From Play,0,0,0,0,,,v
+S2425-G0108,4,10:26,MEM,,CHI,,D. Terry,CHI,Terry P.FOUL (P4.T3) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2425-G0108,4,10:03,MEM,,CHI,,D. Terry,CHI,Terry Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0108,4,09:57,MEM,,CHI,,D. Terry,CHI,SUB: Giddey FOR Terry,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,4 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,4,01:11,DAL,,SAS,,D. Powell,DAL,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,4,01:11,DAL,120.0,SAS,107.0,D. Powell,DAL,Powell Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0110,4,01:02,DAL,,UTA,,D. Powell,DAL,Powell S.FOUL (P1.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,h

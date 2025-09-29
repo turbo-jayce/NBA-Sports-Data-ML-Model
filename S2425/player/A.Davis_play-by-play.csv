@@ -1,0 +1,267 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0062,1,12:00,LAL,,MIN,,A. Davis,LAL,Jump Ball Davis vs. Gobert: Tip to Conley,Jump Ball,,0,0,0,0,,,h
+S2425-G0062,1,08:58,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,1,08:39,LAL,,MIN,,A. Davis,LAL,Davis STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0062,1,08:08,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,1,08:08,LAL,,MIN,,A. Davis,LAL,Davis Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0062,1,07:11,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,1,07:09,LAL,11.0,MIN,7.0,A. Davis,LAL,Davis 2' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,-7,17,2,1,2.0,2.0,h
+S2425-G0062,1,06:25,LAL,13.0,MIN,7.0,A. Davis,LAL,Davis 19' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,-104,159,19,1,2.0,2.0,h
+S2425-G0062,1,05:17,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,1,04:34,LAL,,MIN,,A. Davis,LAL,MISS Davis 5' Hook Shot,Missed Shot,Hook Shot,-1,53,5,1,2.0,0.0,h
+S2425-G0062,1,03:27,LAL,,MIN,,A. Davis,LAL,MISS Davis 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,4,106,11,1,2.0,0.0,h
+S2425-G0062,1,02:58,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,1,02:12,LAL,19.0,MIN,15.0,A. Davis,LAL,Davis Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,1,02:12,LAL,20.0,MIN,15.0,A. Davis,LAL,Davis Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,1,01:38,LAL,,MIN,,A. Davis,LAL,MISS Davis 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,36,4,1,2.0,0.0,h
+S2425-G0062,1,01:35,LAL,,MIN,,A. Davis,LAL,MISS Davis 10' Hook Shot,Missed Shot,Hook Shot,5,100,10,1,2.0,0.0,h
+S2425-G0062,1,01:08,LAL,,MIN,,A. Davis,LAL,SUB: Russell FOR Davis,Substitution,,0,0,0,0,,,h
+S2425-G0062,2,07:24,LAL,38.0,MIN,29.0,A. Davis,LAL,Davis Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,2,07:24,LAL,39.0,MIN,29.0,A. Davis,LAL,Davis Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,2,07:04,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,2,05:40,LAL,47.0,MIN,32.0,A. Davis,LAL,Davis 2' Layup (10 PTS),Made Shot,Layup Shot,10,21,2,1,2.0,2.0,h
+S2425-G0062,2,04:23,LAL,51.0,MIN,32.0,A. Davis,LAL,Davis 4' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,-18,37,4,1,2.0,2.0,h
+S2425-G0062,2,03:28,LAL,,MIN,,A. Davis,LAL,MISS Davis 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-66,254,26,1,3.0,0.0,h
+S2425-G0062,2,01:05,LAL,,MIN,,A. Davis,LAL,MISS Davis 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-23,62,7,1,2.0,0.0,h
+S2425-G0062,2,00:50.500000,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,3,11:44,LAL,57.0,MIN,42.0,A. Davis,LAL,Davis 3' Alley Oop Dunk (14 PTS) (L. James 1 AST),Made Shot,Alley Oop Dunk Shot,28,17,3,1,2.0,2.0,h
+S2425-G0062,3,11:03,LAL,,MIN,,A. Davis,LAL,MISS Davis 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,48,61,8,1,2.0,0.0,h
+S2425-G0062,3,10:06,LAL,60.0,MIN,44.0,A. Davis,LAL,Davis Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,3,10:06,LAL,,MIN,,A. Davis,LAL,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0062,3,09:06,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,3,07:42,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,3,07:40,LAL,,MIN,,A. Davis,LAL,MISS Davis 3' Putback Layup,Missed Shot,Putback Layup Shot,5,32,3,1,2.0,0.0,h
+S2425-G0062,3,07:21,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,3,07:08,LAL,,MIN,,A. Davis,LAL,Davis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0062,3,06:48,LAL,65.0,MIN,53.0,A. Davis,LAL,Davis Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,3,06:48,LAL,66.0,MIN,53.0,A. Davis,LAL,Davis Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,3,06:26,LAL,,MIN,,A. Davis,LAL,MISS Davis 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,9,2,1,2.0,0.0,h
+S2425-G0062,3,05:58,LAL,,MIN,,A. Davis,LAL,MISS Davis 3' Driving Layup,Missed Shot,Driving Layup Shot,20,21,3,1,2.0,0.0,h
+S2425-G0062,3,03:51,LAL,72.0,MIN,61.0,A. Davis,LAL,Davis 15' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,-71,129,15,1,2.0,2.0,h
+S2425-G0062,3,03:00,LAL,76.0,MIN,65.0,A. Davis,LAL,Davis 3' Driving Floating Jump Shot (21 PTS) (Vincent 2 AST),Made Shot,Driving Floating Jump Shot,-5,27,3,1,2.0,2.0,h
+S2425-G0062,3,03:00,LAL,77.0,MIN,65.0,A. Davis,LAL,Davis Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0062,3,02:34,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,3,02:14,LAL,80.0,MIN,67.0,A. Davis,LAL,Davis 26' 3PT Jump Shot (25 PTS) (Knecht 2 AST),Made Shot,Jump Shot,-186,179,26,1,3.0,3.0,h
+S2425-G0062,3,00:59.800000,LAL,,MIN,,A. Davis,LAL,MISS Davis 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,11,6,1,1,2.0,0.0,h
+S2425-G0062,3,00:46.900000,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,3,00:01.100000,LAL,,MIN,,A. Davis,LAL,MISS Davis 28' 3PT Jump Shot,Missed Shot,Jump Shot,123,247,28,1,3.0,0.0,h
+S2425-G0062,4,06:52,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,4,06:52,LAL,93.0,MIN,84.0,A. Davis,LAL,Davis Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,4,06:52,LAL,,MIN,,A. Davis,LAL,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0062,4,06:36,LAL,,MIN,,A. Davis,LAL,Davis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0062,4,06:05,LAL,95.0,MIN,86.0,A. Davis,LAL,Davis 8' Fadeaway Jumper (28 PTS),Made Shot,Fadeaway Jump Shot,-58,55,8,1,2.0,2.0,h
+S2425-G0062,4,05:45,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:2 Def:12),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,4,05:31,LAL,96.0,MIN,86.0,A. Davis,LAL,Davis Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,4,05:31,LAL,97.0,MIN,86.0,A. Davis,LAL,Davis Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,4,04:16,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:3 Def:12),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,4,04:16,LAL,101.0,MIN,91.0,A. Davis,LAL,Davis Tip Layup Shot (32 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0062,4,03:37,LAL,103.0,MIN,93.0,A. Davis,LAL,Davis 11' Driving Floating Jump Shot (34 PTS) (L. James 3 AST),Made Shot,Driving Floating Jump Shot,-39,105,11,1,2.0,2.0,h
+S2425-G0062,4,02:43,LAL,,MIN,,A. Davis,LAL,Davis BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0062,4,02:17,LAL,,MIN,,A. Davis,LAL,Davis REBOUND (Off:3 Def:13),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,4,02:10,LAL,106.0,MIN,95.0,A. Davis,LAL,Davis Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,4,02:10,LAL,107.0,MIN,95.0,A. Davis,LAL,Davis Free Throw 2 of 2 (36 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0062,4,01:25,LAL,,MIN,,A. Davis,LAL,Davis Violation:Kicked Ball (N.Buchert),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0062,4,01:20,LAL,,MIN,,A. Davis,LAL,Davis P.FOUL (P1.PN) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2425-G0111,1,11:41,PHX,,LAL,,A. Davis,LAL,Davis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0111,1,11:35,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,1,11:16,PHX,,LAL,,A. Davis,LAL,MISS Davis 21' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-94,184,21,1,2.0,0.0,v
+S2425-G0111,1,10:23,PHX,,LAL,,A. Davis,LAL,MISS Davis 6' Driving Layup,Missed Shot,Driving Layup Shot,-15,54,6,1,2.0,0.0,v
+S2425-G0111,1,09:46,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,1,09:15,PHX,,LAL,,A. Davis,LAL,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,-20,264,26,1,3.0,0.0,v
+S2425-G0111,1,08:02,PHX,6.0,LAL,12.0,A. Davis,LAL,Davis 2' Cutting Layup Shot (2 PTS) (Reaves 1 AST),Made Shot,Cutting Layup Shot,-5,21,2,1,2.0,2.0,v
+S2425-G0111,1,07:39,PHX,,LAL,,A. Davis,LAL,Davis Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0111,1,07:34,PHX,6.0,LAL,14.0,A. Davis,LAL,Davis 2' Layup (4 PTS) (L. James 1 AST),Made Shot,Layup Shot,-2,18,2,1,2.0,2.0,v
+S2425-G0111,1,07:34,PHX,6.0,LAL,15.0,A. Davis,LAL,Davis Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0111,1,07:12,PHX,6.0,LAL,17.0,A. Davis,LAL,Davis 23' Alley Oop Layup (7 PTS) (Russell 2 AST),Made Shot,Alley Oop Layup shot,-182,141,23,1,2.0,2.0,v
+S2425-G0111,1,06:25,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,1,06:25,PHX,8.0,LAL,19.0,A. Davis,LAL,Davis Tip Dunk Shot (9 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0111,1,06:10,PHX,8.0,LAL,21.0,A. Davis,LAL,Davis 2' Cutting Layup Shot (11 PTS) (Russell 3 AST),Made Shot,Cutting Layup Shot,-10,18,2,1,2.0,2.0,v
+S2425-G0111,1,05:26,PHX,,LAL,,A. Davis,LAL,Davis BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0111,1,05:24,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,1,04:54,PHX,,LAL,,A. Davis,LAL,MISS Davis 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-145,154,21,1,2.0,0.0,v
+S2425-G0111,1,04:22,PHX,12.0,LAL,28.0,A. Davis,LAL,Davis 4' Cutting Layup Shot (13 PTS) (Russell 5 AST),Made Shot,Cutting Layup Shot,-25,26,4,1,2.0,2.0,v
+S2425-G0111,1,04:22,PHX,12.0,LAL,29.0,A. Davis,LAL,Davis Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0111,1,03:29,PHX,15.0,LAL,31.0,A. Davis,LAL,Davis 19' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,-43,181,19,1,2.0,2.0,v
+S2425-G0111,1,02:38,PHX,,LAL,,A. Davis,LAL,SUB: L. James FOR Davis,Substitution,,0,0,0,0,,,v
+S2425-G0111,2,05:32,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,2,04:31,PHX,,LAL,,A. Davis,LAL,Davis STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0111,2,02:27,PHX,41.0,LAL,46.0,A. Davis,LAL,Davis 4' Cutting Layup Shot (18 PTS) (L. James 3 AST),Made Shot,Cutting Layup Shot,-33,28,4,1,2.0,2.0,v
+S2425-G0111,2,01:32,PHX,45.0,LAL,48.0,A. Davis,LAL,Davis 6' Driving Floating Jump Shot (20 PTS) (L. James 4 AST),Made Shot,Driving Floating Jump Shot,-17,59,6,1,2.0,2.0,v
+S2425-G0111,2,01:14,PHX,,LAL,,A. Davis,LAL,Davis Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0111,2,00:24.100000,PHX,,LAL,,A. Davis,LAL,MISS Davis 28' 3PT Jump Shot,Missed Shot,Jump Shot,-162,223,28,1,3.0,0.0,v
+S2425-G0111,3,11:44,PHX,,LAL,,A. Davis,LAL,Davis Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0111,3,09:11,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,3,09:11,PHX,,LAL,,A. Davis,LAL,MISS Davis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0111,3,09:10,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,3,09:10,PHX,59.0,LAL,58.0,A. Davis,LAL,Davis Tip Layup Shot (22 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0111,3,07:10,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,3,06:26,PHX,66.0,LAL,64.0,A. Davis,LAL,Davis 2' Driving Layup (24 PTS) (L. James 7 AST),Made Shot,Driving Layup Shot,-22,1,2,1,2.0,2.0,v
+S2425-G0111,3,06:26,PHX,66.0,LAL,65.0,A. Davis,LAL,Davis Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0111,3,06:05,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,3,05:36,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,3,05:27,PHX,,LAL,,A. Davis,LAL,MISS Davis 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-10,192,19,1,2.0,0.0,v
+S2425-G0111,3,05:15,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,3,02:09,PHX,,LAL,,A. Davis,LAL,MISS Davis 11' Driving Layup,Missed Shot,Driving Layup Shot,61,94,11,1,2.0,0.0,v
+S2425-G0111,3,01:56,PHX,,LAL,,A. Davis,LAL,SUB: Hayes FOR Davis,Substitution,,0,0,0,0,,,v
+S2425-G0111,4,07:33,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,4,07:16,PHX,,LAL,,A. Davis,LAL,MISS Davis 4' Layup,Missed Shot,Layup Shot,-27,30,4,1,2.0,0.0,v
+S2425-G0111,4,07:16,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,4,07:16,PHX,90.0,LAL,89.0,A. Davis,LAL,Davis Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0111,4,07:16,PHX,,LAL,,A. Davis,LAL,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0111,4,06:35,PHX,90.0,LAL,91.0,A. Davis,LAL,Davis 2' Layup (28 PTS),Made Shot,Layup Shot,-15,5,2,1,2.0,2.0,v
+S2425-G0111,4,06:35,PHX,90.0,LAL,92.0,A. Davis,LAL,Davis Free Throw 1 of 1 (29 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0111,4,05:37,PHX,,LAL,,A. Davis,LAL,MISS Davis 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,67,78,10,1,2.0,0.0,v
+S2425-G0111,4,04:30,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,4,03:30,PHX,,LAL,,A. Davis,LAL,Davis S.FOUL (P1.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2425-G0111,4,02:38,PHX,,LAL,,A. Davis,LAL,MISS Davis 18' Jump Shot,Missed Shot,Jump Shot,-60,172,18,1,2.0,0.0,v
+S2425-G0111,4,01:03,PHX,,LAL,,A. Davis,LAL,MISS Davis 2' Layup,Missed Shot,Layup Shot,-4,17,2,1,2.0,0.0,v
+S2425-G0111,4,00:41.800000,PHX,,LAL,,A. Davis,LAL,Davis BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0111,4,00:07.900000,PHX,,LAL,,A. Davis,LAL,Davis REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,1,12:00,LAL,,SAC,,A. Davis,LAL,Jump Ball Davis vs. Sabonis: Tip to Russell,Jump Ball,,0,0,0,0,,,h
+S2425-G0096,1,10:38,LAL,2.0,SAC,2.0,A. Davis,LAL,Davis 3' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,29,3,1,2.0,2.0,h
+S2425-G0096,1,10:38,LAL,3.0,SAC,2.0,A. Davis,LAL,Davis Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0096,1,08:53,LAL,,SAC,,A. Davis,LAL,MISS Davis 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-23,192,19,1,2.0,0.0,h
+S2425-G0096,1,08:48,LAL,,SAC,,A. Davis,LAL,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,1,08:40,LAL,,SAC,,A. Davis,LAL,Davis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,1,08:35,LAL,8.0,SAC,4.0,A. Davis,LAL,Davis Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0096,1,04:23,LAL,18.0,SAC,14.0,A. Davis,LAL,Davis 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-9,14,2,1,2.0,2.0,h
+S2425-G0096,1,03:23,LAL,,SAC,,A. Davis,LAL,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,1,02:17,LAL,25.0,SAC,18.0,A. Davis,LAL,Davis Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0096,1,02:17,LAL,26.0,SAC,18.0,A. Davis,LAL,Davis Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0096,1,01:53,LAL,,SAC,,A. Davis,LAL,SUB: Russell FOR Davis,Substitution,,0,0,0,0,,,h
+S2425-G0096,2,07:46,LAL,,SAC,,A. Davis,LAL,Davis S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0096,2,07:20,LAL,,SAC,,A. Davis,LAL,MISS Davis 4' Driving Layup,Missed Shot,Driving Layup Shot,-32,26,4,1,2.0,0.0,h
+S2425-G0096,2,04:06,LAL,,SAC,,A. Davis,LAL,MISS Davis 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,17,80,8,1,2.0,0.0,h
+S2425-G0096,2,01:46,LAL,,SAC,,A. Davis,LAL,Davis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,2,01:46,LAL,58.0,SAC,51.0,A. Davis,LAL,Davis Putback Layup (11 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0096,2,01:27,LAL,,SAC,,A. Davis,LAL,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0096,2,01:27,LAL,59.0,SAC,53.0,A. Davis,LAL,Davis Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0096,2,00:31.500000,LAL,60.0,SAC,58.0,A. Davis,LAL,Davis Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0096,2,00:31.500000,LAL,61.0,SAC,58.0,A. Davis,LAL,Davis Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0096,3,10:35,LAL,,SAC,,A. Davis,LAL,Davis REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,3,09:04,LAL,,SAC,,A. Davis,LAL,Davis STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0096,3,09:04,LAL,,SAC,,A. Davis,LAL,Jump Ball Davis vs. Fox: Tip to Russell,Jump Ball,,0,0,0,0,,,h
+S2425-G0096,3,08:51,LAL,,SAC,,A. Davis,LAL,Jump Ball (CC) Davis vs. Sabonis: Tip to Russell,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2425-G0096,3,07:19,LAL,70.0,SAC,74.0,A. Davis,LAL,Davis 11' Floating Jump Shot (16 PTS) (L. James 3 AST),Made Shot,Floating Jump shot,-50,96,11,1,2.0,2.0,h
+S2425-G0096,3,07:08,LAL,,SAC,,A. Davis,LAL,Davis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0096,3,07:05,LAL,,SAC,,A. Davis,LAL,Davis REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,3,05:20,LAL,,SAC,,A. Davis,LAL,Davis REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,3,05:16,LAL,,SAC,,A. Davis,LAL,MISS Davis 27' 3PT Jump Shot,Missed Shot,Jump Shot,130,236,27,1,3.0,0.0,h
+S2425-G0096,3,04:06,LAL,,SAC,,A. Davis,LAL,Davis REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,3,03:58,LAL,,SAC,,A. Davis,LAL,MISS Davis 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-58,104,12,1,2.0,0.0,h
+S2425-G0096,3,01:33,LAL,,SAC,,A. Davis,LAL,Davis STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0096,3,01:32,LAL,85.0,SAC,88.0,A. Davis,LAL,Davis Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0096,3,01:32,LAL,,SAC,,A. Davis,LAL,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0096,3,01:05,LAL,,SAC,,A. Davis,LAL,Davis STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0096,4,06:31,LAL,,SAC,,A. Davis,LAL,Davis REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,4,06:07,LAL,113.0,SAC,102.0,A. Davis,LAL,Davis Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0096,4,06:07,LAL,114.0,SAC,102.0,A. Davis,LAL,Davis Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0096,4,05:36,LAL,116.0,SAC,102.0,A. Davis,LAL,Davis 6' Driving Floating Jump Shot (21 PTS) (Reaves 5 AST),Made Shot,Driving Floating Jump Shot,-33,54,6,1,2.0,2.0,h
+S2425-G0096,4,04:35,LAL,,SAC,,A. Davis,LAL,Davis Out of Bounds Lost Ball Turnover (P1.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0096,4,03:24,LAL,121.0,SAC,111.0,A. Davis,LAL,Davis 2' Alley Oop Dunk (23 PTS) (L. James 6 AST),Made Shot,Alley Oop Dunk Shot,4,17,2,1,2.0,2.0,h
+S2425-G0096,4,02:34,LAL,123.0,SAC,116.0,A. Davis,LAL,Davis 6' Floating Jump Shot (25 PTS) (L. James 7 AST),Made Shot,Floating Jump shot,-17,55,6,1,2.0,2.0,h
+S2425-G0096,4,02:25,LAL,,SAC,,A. Davis,LAL,Davis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0096,4,01:59,LAL,125.0,SAC,118.0,A. Davis,LAL,Davis 2' Cutting Layup Shot (27 PTS) (L. James 8 AST),Made Shot,Cutting Layup Shot,-2,20,2,1,2.0,2.0,h
+S2425-G0096,4,00:58.600000,LAL,,SAC,,A. Davis,LAL,Davis Lost Ball Turnover (P2.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0096,4,00:37.700000,LAL,128.0,SAC,123.0,A. Davis,LAL,Davis 27' 3PT Jump Shot (30 PTS) (L. James 9 AST),Made Shot,Jump Shot,-66,257,27,1,3.0,3.0,h
+S2425-G0096,4,00:10.600000,LAL,,SAC,,A. Davis,LAL,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0096,4,00:10.600000,LAL,131.0,SAC,127.0,A. Davis,LAL,Davis Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,1,12:00,LAL,,PHX,,A. Davis,LAL,Jump Ball Davis vs. Nurkić: Tip to Jones,Jump Ball,,0,0,0,0,,,h
+S2425-G0085,1,10:54,LAL,,PHX,,A. Davis,LAL,Davis STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0085,1,10:50,LAL,4.0,PHX,3.0,A. Davis,LAL,Davis 2' Running Dunk (2 PTS) (L. James 1 AST),Made Shot,Running Dunk Shot,9,13,2,1,2.0,2.0,h
+S2425-G0085,1,09:50,LAL,,PHX,,A. Davis,LAL,MISS Davis 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-11,164,16,1,2.0,0.0,h
+S2425-G0085,1,05:51,LAL,12.0,PHX,16.0,A. Davis,LAL,Davis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,1,05:51,LAL,13.0,PHX,16.0,A. Davis,LAL,Davis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,1,05:25,LAL,,PHX,,A. Davis,LAL,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,1,03:57,LAL,18.0,PHX,21.0,A. Davis,LAL,Davis Cutting Dunk Shot (6 PTS) (Reaves 2 AST),Made Shot,Cutting Dunk Shot,2,-4,0,1,2.0,2.0,h
+S2425-G0085,1,02:50,LAL,,PHX,,A. Davis,LAL,MISS Davis 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-42,43,6,1,2.0,0.0,h
+S2425-G0085,1,01:17,LAL,,PHX,,A. Davis,LAL,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0085,1,01:17,LAL,21.0,PHX,32.0,A. Davis,LAL,Davis Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,1,00:49.200000,LAL,,PHX,,A. Davis,LAL,SUB: Russell FOR Davis,Substitution,,0,0,0,0,,,h
+S2425-G0085,2,05:11,LAL,36.0,PHX,55.0,A. Davis,LAL,Davis Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,2,05:11,LAL,37.0,PHX,55.0,A. Davis,LAL,Davis Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,2,04:50,LAL,,PHX,,A. Davis,LAL,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,2,04:42,LAL,39.0,PHX,55.0,A. Davis,LAL,Davis 2' Cutting Layup Shot (11 PTS) (Reaves 3 AST),Made Shot,Cutting Layup Shot,10,15,2,1,2.0,2.0,h
+S2425-G0085,2,04:15,LAL,,PHX,,A. Davis,LAL,MISS Davis 12' Jump Shot,Missed Shot,Jump Shot,-67,105,12,1,2.0,0.0,h
+S2425-G0085,2,03:31,LAL,,PHX,,A. Davis,LAL,MISS Davis 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-65,65,9,1,2.0,0.0,h
+S2425-G0085,2,03:09,LAL,44.0,PHX,56.0,A. Davis,LAL,Davis 1' Dunk (13 PTS) (Reaves 4 AST),Made Shot,Dunk Shot,5,4,1,1,2.0,2.0,h
+S2425-G0085,2,01:16,LAL,50.0,PHX,61.0,A. Davis,LAL,Davis 9' Floating Jump Shot (15 PTS) (Reaves 5 AST),Made Shot,Floating Jump shot,-10,88,9,1,2.0,2.0,h
+S2425-G0085,2,00:00.200000,LAL,,PHX,,A. Davis,LAL,Davis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0085,3,11:01,LAL,,PHX,,A. Davis,LAL,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,3,08:35,LAL,67.0,PHX,67.0,A. Davis,LAL,Davis Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,3,08:35,LAL,68.0,PHX,67.0,A. Davis,LAL,Davis Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,3,06:54,LAL,,PHX,,A. Davis,LAL,Davis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,3,06:49,LAL,,PHX,,A. Davis,LAL,Davis OFF.Foul (P1) (D.Collins),Foul,Offensive,0,0,0,0,,,h
+S2425-G0085,3,06:49,LAL,,PHX,,A. Davis,LAL,Davis Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0085,3,06:17,LAL,72.0,PHX,74.0,A. Davis,LAL,Davis 2' Cutting Layup Shot (19 PTS) (Reaves 6 AST),Made Shot,Cutting Layup Shot,-7,15,2,1,2.0,2.0,h
+S2425-G0085,3,05:23,LAL,74.0,PHX,76.0,A. Davis,LAL,Davis 14' Pullup Jump Shot (21 PTS) (Russell 5 AST),Made Shot,Pullup Jump shot,-58,126,14,1,2.0,2.0,h
+S2425-G0085,3,04:14,LAL,,PHX,,A. Davis,LAL,MISS Davis 10' Floating Jump Shot,Missed Shot,Floating Jump shot,36,92,10,1,2.0,0.0,h
+S2425-G0085,3,02:48,LAL,,PHX,,A. Davis,LAL,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0085,3,02:48,LAL,75.0,PHX,81.0,A. Davis,LAL,Davis Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,3,02:30,LAL,,PHX,,A. Davis,LAL,Davis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0085,3,01:58,LAL,79.0,PHX,81.0,A. Davis,LAL,Davis 1' Running Layup (24 PTS) (L. James 4 AST),Made Shot,Running Layup Shot,-1,8,1,1,2.0,2.0,h
+S2425-G0085,3,01:38,LAL,,PHX,,A. Davis,LAL,Davis REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,3,00:34.200000,LAL,85.0,PHX,83.0,A. Davis,LAL,Davis 2' Driving Layup (26 PTS) (Knecht 2 AST),Made Shot,Driving Layup Shot,13,13,2,1,2.0,2.0,h
+S2425-G0085,3,00:24,LAL,,PHX,,A. Davis,LAL,Davis S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2425-G0085,4,05:22,LAL,109.0,PHX,97.0,A. Davis,LAL,Davis Dunk (28 PTS),Made Shot,Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0085,4,04:50,LAL,,PHX,,A. Davis,LAL,MISS Davis 6' Jump Shot,Missed Shot,Jump Shot,25,55,6,1,2.0,0.0,h
+S2425-G0085,4,04:26,LAL,,PHX,,A. Davis,LAL,Davis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,4,04:26,LAL,,PHX,,A. Davis,LAL,MISS Davis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0085,4,03:20,LAL,110.0,PHX,102.0,A. Davis,LAL,Davis Free Throw 1 of 3 (29 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0085,4,03:20,LAL,,PHX,,A. Davis,LAL,MISS Davis Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2425-G0085,4,03:20,LAL,111.0,PHX,102.0,A. Davis,LAL,Davis Free Throw 3 of 3 (30 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0085,4,02:59,LAL,113.0,PHX,102.0,A. Davis,LAL,Davis 1' Running Dunk (32 PTS) (L. James 6 AST),Made Shot,Running Dunk Shot,-2,5,1,1,2.0,2.0,h
+S2425-G0085,4,01:26,LAL,,PHX,,A. Davis,LAL,Davis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,4,01:24,LAL,,PHX,,A. Davis,LAL,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0085,4,01:24,LAL,119.0,PHX,109.0,A. Davis,LAL,Davis Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,4,01:01,LAL,120.0,PHX,111.0,A. Davis,LAL,Davis Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,4,01:01,LAL,121.0,PHX,111.0,A. Davis,LAL,Davis Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,4,00:37.300000,LAL,,PHX,,A. Davis,LAL,Davis REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,1,11:19,CLE,,LAL,,A. Davis,LAL,Davis STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0118,1,10:09,CLE,5.0,LAL,8.0,A. Davis,LAL,Davis 1' Layup (2 PTS) (Russell 3 AST),Made Shot,Layup Shot,-1,7,1,1,2.0,2.0,v
+S2425-G0118,1,07:37,CLE,14.0,LAL,15.0,A. Davis,LAL,Davis 2' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,5,16,2,1,2.0,2.0,v
+S2425-G0118,1,07:37,CLE,,LAL,,A. Davis,LAL,MISS Davis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0118,1,07:25,CLE,,LAL,,A. Davis,LAL,Davis STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0118,1,07:19,CLE,,LAL,,A. Davis,LAL,Davis Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0118,1,06:58,CLE,,LAL,,A. Davis,LAL,Davis Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0118,1,06:35,CLE,,LAL,,A. Davis,LAL,Davis Traveling Turnover (P3.T3),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0118,1,05:07,CLE,,LAL,,A. Davis,LAL,MISS Davis 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,5,21,2,1,2.0,0.0,v
+S2425-G0118,1,04:04,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,1,03:44,CLE,,LAL,,A. Davis,LAL,MISS Davis 17' Jump Shot,Missed Shot,Jump Shot,-136,105,17,1,2.0,0.0,v
+S2425-G0118,1,03:19,CLE,28.0,LAL,17.0,A. Davis,LAL,Davis 12' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,-77,86,12,1,2.0,2.0,v
+S2425-G0118,1,02:13,CLE,,LAL,,A. Davis,LAL,MISS Davis 2' Driving Layup,Missed Shot,Driving Layup Shot,12,21,2,1,2.0,0.0,v
+S2425-G0118,1,01:44,CLE,,LAL,,A. Davis,LAL,SUB: L. James FOR Davis,Substitution,,0,0,0,0,,,v
+S2425-G0118,2,07:08,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,2,05:51,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,2,04:45,CLE,,LAL,,A. Davis,LAL,MISS Davis 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-1,21,2,1,2.0,0.0,v
+S2425-G0118,2,03:05,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,2,02:39,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,2,02:29,CLE,59.0,LAL,42.0,A. Davis,LAL,Davis 2' Cutting Layup Shot (8 PTS) (L. James 2 AST),Made Shot,Cutting Layup Shot,12,15,2,1,2.0,2.0,v
+S2425-G0118,2,01:28,CLE,63.0,LAL,45.0,A. Davis,LAL,Davis Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0118,2,01:28,CLE,63.0,LAL,46.0,A. Davis,LAL,Davis Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0118,2,00:29.200000,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,2,00:28.200000,CLE,65.0,LAL,48.0,A. Davis,LAL,Davis Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0118,2,00:00.600000,CLE,,LAL,,A. Davis,LAL,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,145,212,26,1,3.0,0.0,v
+S2425-G0118,3,11:38,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,3,11:12,CLE,,LAL,,A. Davis,LAL,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0118,3,11:12,CLE,,LAL,,A. Davis,LAL,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0118,3,10:24,CLE,,LAL,,A. Davis,LAL,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0118,3,10:24,CLE,70.0,LAL,51.0,A. Davis,LAL,Davis Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0118,3,08:45,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,3,08:28,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,3,06:47,CLE,,LAL,,A. Davis,LAL,MISS Davis 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-96,26,10,1,2.0,0.0,v
+S2425-G0118,3,06:03,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,3,05:21,CLE,79.0,LAL,63.0,A. Davis,LAL,Davis 1' Layup (15 PTS),Made Shot,Layup Shot,-4,4,1,1,2.0,2.0,v
+S2425-G0118,3,04:50,CLE,82.0,LAL,65.0,A. Davis,LAL,Davis 3' Cutting Layup Shot (17 PTS) (Hachimura 1 AST),Made Shot,Cutting Layup Shot,18,24,3,1,2.0,2.0,v
+S2425-G0118,3,04:50,CLE,82.0,LAL,66.0,A. Davis,LAL,Davis Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0118,3,04:09,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,3,03:22,CLE,,LAL,,A. Davis,LAL,MISS Davis 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-11,3,1,1,2.0,0.0,v
+S2425-G0118,3,03:00,CLE,89.0,LAL,70.0,A. Davis,LAL,Davis 1' Cutting Dunk Shot (20 PTS) (Knecht 1 AST),Made Shot,Cutting Dunk Shot,-4,6,1,1,2.0,2.0,v
+S2425-G0118,3,02:09,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:1 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,3,01:54,CLE,,LAL,,A. Davis,LAL,Davis REBOUND (Off:1 Def:12),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,3,00:47.600000,CLE,96.0,LAL,77.0,A. Davis,LAL,Davis 11' Turnaround Jump Shot (22 PTS),Made Shot,Turnaround Jump Shot,108,-2,11,1,2.0,2.0,v
+S2425-G0118,4,11:43,CLE,,LAL,,A. Davis,LAL,MISS Davis 5' Hook Shot,Missed Shot,Hook Shot,-9,51,5,1,2.0,0.0,v
+S2425-G0118,4,10:53,CLE,,LAL,,A. Davis,LAL,Davis FLAGRANT.FOUL.TYPE1 (P1.T1) (J.Capers),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2425-G0118,4,10:53,CLE,,LAL,,A. Davis,LAL,Davis Offensive Foul Turnover (P4.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0118,4,10:53,CLE,,LAL,,A. Davis,LAL,SUB: Christie FOR Davis,Substitution,,0,0,0,0,,,v
+S2425-G0105,2,07:21,MIA,39.0,DET,37.0,A. Davis,,Instant Replay2nd Period (8:22 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,0,0,,,

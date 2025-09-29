@@ -1,0 +1,2 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0095,4,00:42.300000,PHX,,DAL,,J. Gortman,DAL,Gortman Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v

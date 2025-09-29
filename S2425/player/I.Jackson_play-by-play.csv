@@ -1,0 +1,94 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,1,02:07,NYK,,IND,,I. Jackson,IND,I. Jackson OFF.Foul (P1) (J.DeRosa),Foul,Offensive,0,0,0,0,,,v
+S2425-G0081,1,02:07,NYK,,IND,,I. Jackson,IND,I. Jackson Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0081,1,01:27,NYK,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,1,01:27,NYK,,IND,,I. Jackson,IND,MISS I. Jackson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0081,1,01:25,NYK,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,1,01:25,NYK,21.0,IND,20.0,I. Jackson,IND,I. Jackson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0081,1,00:35.300000,NYK,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,1,00:00,NYK,,IND,,I. Jackson,IND,I. Jackson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0081,2,11:45,NYK,25.0,IND,26.0,I. Jackson,IND,I. Jackson 8' Floating Jump Shot (4 PTS) (McConnell 1 AST),Made Shot,Floating Jump shot,21,77,8,1,2.0,2.0,v
+S2425-G0081,2,07:29,NYK,,IND,,I. Jackson,IND,SUB: Nesmith FOR I. Jackson,Substitution,,0,0,0,0,,,v
+S2425-G0081,3,03:31,NYK,,IND,,I. Jackson,IND,I. Jackson Violation:Defensive Goaltending (J.Butler),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0081,3,01:33,NYK,90.0,IND,62.0,I. Jackson,IND,I. Jackson 1' Reverse Layup (6 PTS) (Toppin 2 AST),Made Shot,Reverse Layup Shot,11,5,1,1,2.0,2.0,v
+S2425-G0081,3,00:35.600000,NYK,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,3,00:32.600000,NYK,,IND,,I. Jackson,IND,I. Jackson Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0081,3,00:28.100000,NYK,,IND,,I. Jackson,IND,I. Jackson S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2425-G0081,3,00:19.600000,NYK,,IND,,I. Jackson,IND,MISS I. Jackson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0081,3,00:19.600000,NYK,,IND,,I. Jackson,IND,MISS I. Jackson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0081,4,11:35,NYK,97.0,IND,66.0,I. Jackson,IND,I. Jackson 1' Layup (8 PTS) (Toppin 3 AST),Made Shot,Layup Shot,-11,6,1,1,2.0,2.0,v
+S2425-G0081,4,11:20,NYK,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,4,11:10,NYK,97.0,IND,68.0,I. Jackson,IND,I. Jackson 1' Alley Oop Dunk (10 PTS) (Walker 2 AST),Made Shot,Alley Oop Dunk Shot,-4,-3,1,1,2.0,2.0,v
+S2425-G0081,4,09:30,NYK,,IND,,I. Jackson,IND,I. Jackson L.B.FOUL (P3.T1) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0081,4,09:30,NYK,,IND,,I. Jackson,IND,SUB: Freeman FOR I. Jackson,Substitution,,0,0,0,0,,,v
+S2425-G0097,1,05:03,IND,,PHI,,I. Jackson,IND,I. Jackson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0097,1,04:04,IND,16.0,PHI,18.0,I. Jackson,IND,I. Jackson 1' Dunk (2 PTS) (McConnell 1 AST),Made Shot,Dunk Shot,4,6,1,1,2.0,2.0,h
+S2425-G0097,1,03:28,IND,,PHI,,I. Jackson,IND,I. Jackson S.FOUL (P1.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2425-G0097,1,02:06,IND,,PHI,,I. Jackson,IND,SUB: Siakam FOR I. Jackson,Substitution,,0,0,0,0,,,h
+S2425-G0097,3,01:48,IND,,PHI,,I. Jackson,IND,I. Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,3,01:39,IND,,PHI,,I. Jackson,IND,I. Jackson Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0119,1,12:00,IND,,BOS,,I. Jackson,IND,Jump Ball I. Jackson vs. Horford: Tip to Nembhard,Jump Ball,,0,0,0,0,,,h
+S2425-G0119,1,10:11,IND,,BOS,,I. Jackson,IND,MISS I. Jackson 3' Driving Layup,Missed Shot,Driving Layup Shot,23,17,3,1,2.0,0.0,h
+S2425-G0119,1,09:56,IND,4.0,BOS,2.0,I. Jackson,IND,I. Jackson 2' Running Layup (2 PTS) (Haliburton 1 AST),Made Shot,Running Layup Shot,5,16,2,1,2.0,2.0,h
+S2425-G0119,1,07:25,IND,13.0,BOS,13.0,I. Jackson,IND,I. Jackson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,1,07:25,IND,14.0,BOS,13.0,I. Jackson,IND,I. Jackson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,1,07:08,IND,16.0,BOS,13.0,I. Jackson,IND,I. Jackson 3' Running Dunk (6 PTS) (Siakam 1 AST),Made Shot,Running Dunk Shot,1,25,3,1,2.0,2.0,h
+S2425-G0119,1,06:28,IND,18.0,BOS,13.0,I. Jackson,IND,I. Jackson 3' Layup (8 PTS),Made Shot,Layup Shot,-7,32,3,1,2.0,2.0,h
+S2425-G0119,1,06:06,IND,,BOS,,I. Jackson,IND,I. Jackson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0119,1,05:38,IND,,BOS,,I. Jackson,IND,I. Jackson S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2425-G0119,1,05:38,IND,,BOS,,I. Jackson,IND,SUB: Walker FOR I. Jackson,Substitution,,0,0,0,0,,,h
+S2425-G0119,2,10:11,IND,,BOS,,I. Jackson,IND,I. Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,2,07:26,IND,,BOS,,I. Jackson,IND,I. Jackson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0119,2,05:59,IND,,BOS,,I. Jackson,IND,I. Jackson P.FOUL (P2.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2425-G0119,2,04:57,IND,,BOS,,I. Jackson,IND,I. Jackson S.FOUL (P3.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0119,2,04:57,IND,,BOS,,I. Jackson,IND,SUB: Toppin FOR I. Jackson,Substitution,,0,0,0,0,,,h
+S2425-G0119,3,08:01,IND,,BOS,,I. Jackson,IND,I. Jackson STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0119,3,07:12,IND,,BOS,,I. Jackson,IND,I. Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,3,05:55,IND,,BOS,,I. Jackson,IND,I. Jackson P.FOUL (P4.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2425-G0119,3,05:55,IND,,BOS,,I. Jackson,IND,SUB: Walker FOR I. Jackson,Substitution,,0,0,0,0,,,h
+S2425-G0119,4,07:37,IND,,BOS,,I. Jackson,IND,I. Jackson BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0119,4,05:17,IND,,BOS,,I. Jackson,IND,I. Jackson S.FOUL (P5.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0119,4,05:17,IND,,BOS,,I. Jackson,IND,SUB: Siakam FOR I. Jackson,Substitution,,0,0,0,0,,,h
+S2425-G0119,4,02:41,IND,,BOS,,I. Jackson,IND,I. Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,4,02:41,IND,121.0,BOS,110.0,I. Jackson,IND,I. Jackson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,4,02:41,IND,122.0,BOS,110.0,I. Jackson,IND,I. Jackson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,4,02:02,IND,,BOS,,I. Jackson,IND,I. Jackson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,4,02:02,IND,,BOS,,I. Jackson,IND,MISS I. Jackson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0119,4,01:47,IND,,BOS,,I. Jackson,IND,I. Jackson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,4,01:42,IND,,BOS,,I. Jackson,IND,I. Jackson OFF.Foul (P6) (E.Malloy),Foul,Offensive,0,0,0,0,,,h
+S2425-G0119,4,01:42,IND,,BOS,,I. Jackson,IND,I. Jackson Offensive Foul Turnover (P1.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0119,4,01:42,IND,,BOS,,I. Jackson,IND,SUB: Toppin FOR I. Jackson,Substitution,,0,0,0,0,,,h
+S2425-G0102,1,05:06,ORL,23.0,IND,18.0,I. Jackson,IND,I. Jackson 3' Cutting Dunk Shot (2 PTS) (Haliburton 3 AST),Made Shot,Cutting Dunk Shot,-4,29,3,1,2.0,2.0,v
+S2425-G0102,1,04:52,ORL,,IND,,I. Jackson,IND,I. Jackson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0102,1,04:25,ORL,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,1,04:25,ORL,,IND,,I. Jackson,IND,MISS I. Jackson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0102,2,11:13,ORL,,IND,,I. Jackson,IND,I. Jackson BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0102,2,10:55,ORL,,IND,,I. Jackson,IND,MISS I. Jackson 3' Dunk,Missed Shot,Dunk Shot,-7,25,3,1,2.0,0.0,v
+S2425-G0102,2,10:06,ORL,,IND,,I. Jackson,IND,MISS I. Jackson 6' Hook Shot,Missed Shot,Hook Shot,-61,4,6,1,2.0,0.0,v
+S2425-G0102,2,09:51,ORL,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,2,09:35,ORL,,IND,,I. Jackson,IND,I. Jackson BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0102,2,08:49,ORL,,IND,,I. Jackson,IND,I. Jackson BLOCK (4 BLK),,,0,0,0,0,,,v
+S2425-G0102,2,08:03,ORL,,IND,,I. Jackson,IND,SUB: Turner FOR I. Jackson,Substitution,,0,0,0,0,,,v
+S2425-G0102,3,04:16,ORL,,IND,,I. Jackson,IND,MISS I. Jackson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0102,3,04:16,ORL,83.0,IND,87.0,I. Jackson,IND,I. Jackson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,3,03:50,ORL,84.0,IND,88.0,I. Jackson,IND,I. Jackson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,3,03:50,ORL,,IND,,I. Jackson,IND,MISS I. Jackson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0102,3,03:41,ORL,,IND,,I. Jackson,IND,MISS I. Jackson 3' Layup,Missed Shot,Layup Shot,7,33,3,1,2.0,0.0,v
+S2425-G0102,3,03:41,ORL,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,3,03:23,ORL,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,3,03:23,ORL,,IND,,I. Jackson,IND,MISS I. Jackson 1' Layup,Missed Shot,Layup Shot,-5,2,1,1,2.0,0.0,v
+S2425-G0102,3,03:23,ORL,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,3,02:32,ORL,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,3,02:32,ORL,88.0,IND,90.0,I. Jackson,IND,I. Jackson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,3,02:32,ORL,,IND,,I. Jackson,IND,MISS I. Jackson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0102,3,00:00.900000,ORL,,IND,,I. Jackson,IND,I. Jackson S.FOUL (P1.PN) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,4,09:20,ORL,,IND,,I. Jackson,IND,I. Jackson Offensive Charge Foul (P2) (B.Forte),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0102,4,09:20,ORL,,IND,,I. Jackson,IND,I. Jackson Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0102,4,08:05,ORL,97.0,IND,105.0,I. Jackson,IND,I. Jackson 3' Floating Jump Shot (7 PTS) (Nembhard 5 AST),Made Shot,Floating Jump shot,25,23,3,1,2.0,2.0,v
+S2425-G0102,4,07:23,ORL,,IND,,I. Jackson,IND,I. Jackson S.FOUL (P3.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,4,07:02,ORL,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:6 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,4,07:02,ORL,,IND,,I. Jackson,IND,MISS I. Jackson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0102,4,06:30,ORL,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:7 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,4,04:34,ORL,,IND,,I. Jackson,IND,SUB: Siakam FOR I. Jackson,Substitution,,0,0,0,0,,,v
+S2425-G0102,4,00:09.500000,ORL,,IND,,I. Jackson,IND,I. Jackson REBOUND (Off:7 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,4,00:09.500000,ORL,,IND,,I. Jackson,IND,SUB: Haliburton FOR I. Jackson,Substitution,,0,0,0,0,,,v

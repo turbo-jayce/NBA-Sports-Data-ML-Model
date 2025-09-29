@@ -1,0 +1,20 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0064,1,06:31,ATL,,BKN,,B. Bogdanović,ATL,MISS Bogdanović 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,-13,24,1,3.0,0.0,h
+S2425-G0064,1,03:44,ATL,,BKN,,B. Bogdanović,ATL,Bogdanović BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0064,1,01:50,ATL,,BKN,,B. Bogdanović,ATL,MISS Bogdanović 26' 3PT Jump Shot,Missed Shot,Jump Shot,13,259,26,1,3.0,0.0,h
+S2425-G0064,1,00:05.800000,ATL,,BKN,,B. Bogdanović,ATL,Bogdanović BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0064,2,08:42,ATL,,BKN,,B. Bogdanović,ATL,MISS Bogdanović 3PT Jump Shot,Missed Shot,Jump Shot,233,-10,0,1,3.0,0.0,h
+S2425-G0064,2,08:18,ATL,,BKN,,B. Bogdanović,ATL,SUB: Daniels FOR Bogdanović,Substitution,,0,0,0,0,,,h
+S2425-G0064,2,01:53,ATL,,BKN,,B. Bogdanović,ATL,MISS Bogdanović 26' 3PT Jump Shot,Missed Shot,Jump Shot,180,184,26,1,3.0,0.0,h
+S2425-G0064,3,03:28,ATL,,BKN,,B. Bogdanović,ATL,Bogdanović P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2425-G0064,3,01:52,ATL,80.0,BKN,77.0,B. Bogdanović,ATL,Bogdanović 26' 3PT Jump Shot (3 PTS) (Krejčí 2 AST),Made Shot,Jump Shot,154,211,26,1,3.0,3.0,h
+S2425-G0064,3,01:27,ATL,81.0,BKN,79.0,B. Bogdanović,ATL,Bogdanović Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,3,01:27,ATL,82.0,BKN,79.0,B. Bogdanović,ATL,Bogdanović Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,4,11:47,ATL,86.0,BKN,83.0,B. Bogdanović,ATL,Bogdanović 3PT Jump Shot (8 PTS) (Young 10 AST),Made Shot,Jump Shot,227,0,0,1,3.0,3.0,h
+S2425-G0064,4,10:46,ATL,,BKN,,B. Bogdanović,ATL,Bogdanović L.B.FOUL (P2.T2) (S.Corbin),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0064,4,09:09,ATL,,BKN,,B. Bogdanović,ATL,Bogdanović Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0064,4,09:07,ATL,,BKN,,B. Bogdanović,ATL,Bogdanović S.FOUL (P3.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0064,4,08:44,ATL,,BKN,,B. Bogdanović,ATL,Bogdanović Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0064,4,08:23,ATL,,BKN,,B. Bogdanović,ATL,Bogdanović REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,4,06:58,ATL,,BKN,,B. Bogdanović,ATL,Bogdanović REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,4,04:40,ATL,,BKN,,B. Bogdanović,ATL,SUB: Johnson FOR Bogdanović,Substitution,,0,0,0,0,,,h

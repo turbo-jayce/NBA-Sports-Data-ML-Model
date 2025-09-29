@@ -1,0 +1,4 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,4,04:32,MIA,,ORL,,C. Joseph,ORL,MISS Joseph 3' Driving Layup,Missed Shot,Driving Layup Shot,28,15,3,1,2.0,0.0,v
+S2425-G0065,4,02:49,MIA,,ORL,,C. Joseph,ORL,MISS Joseph 26' 3PT Jump Shot,Missed Shot,Jump Shot,221,140,26,1,3.0,0.0,v
+S2425-G0092,4,00:20.600000,MEM,124.0,ORL,111.0,C. Joseph,ORL,Joseph 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-92,236,25,1,3.0,3.0,v

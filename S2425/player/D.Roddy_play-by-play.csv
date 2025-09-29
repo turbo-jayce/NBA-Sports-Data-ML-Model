@@ -1,0 +1,68 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0121,1,11:03,WAS,,ATL,,D. Roddy,ATL,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,21,24,1,3.0,0.0,v
+S2425-G0121,1,09:52,WAS,,ATL,,D. Roddy,ATL,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,232,100,25,1,3.0,0.0,v
+S2425-G0121,1,09:34,WAS,,ATL,,D. Roddy,ATL,Roddy STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0121,1,08:54,WAS,8.0,ATL,7.0,D. Roddy,ATL,Roddy 3' Driving Layup (2 PTS) (Young 1 AST),Made Shot,Driving Layup Shot,0,26,3,1,2.0,2.0,v
+S2425-G0121,1,08:30,WAS,,ATL,,D. Roddy,ATL,Roddy Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0121,1,07:30,WAS,14.0,ATL,9.0,D. Roddy,ATL,Roddy 2' Cutting Layup Shot (4 PTS) (Johnson 1 AST),Made Shot,Cutting Layup Shot,-15,8,2,1,2.0,2.0,v
+S2425-G0121,1,07:08,WAS,,ATL,,D. Roddy,ATL,Roddy S.FOUL (P1.T3) (S.Jelks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0121,1,04:40,WAS,,ATL,,D. Roddy,ATL,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,1,04:13,WAS,26.0,ATL,20.0,D. Roddy,ATL,Roddy Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,1,04:13,WAS,26.0,ATL,21.0,D. Roddy,ATL,Roddy Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,1,03:54,WAS,,ATL,,D. Roddy,ATL,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,1,03:22,WAS,,ATL,,D. Roddy,ATL,SUB: Johnson FOR Roddy,Substitution,,0,0,0,0,,,v
+S2425-G0121,2,11:22,WAS,33.0,ATL,38.0,D. Roddy,ATL,Roddy 6' Driving Floating Jump Shot (8 PTS) (Johnson 2 AST),Made Shot,Driving Floating Jump Shot,38,43,6,1,2.0,2.0,v
+S2425-G0121,2,10:50,WAS,33.0,ATL,40.0,D. Roddy,ATL,Roddy 7' Driving Floating Jump Shot (10 PTS) (Wallace 1 AST),Made Shot,Driving Floating Jump Shot,-11,71,7,1,2.0,2.0,v
+S2425-G0121,2,08:56,WAS,,ATL,,D. Roddy,ATL,Roddy OFF.Foul (P2) (S.Wright),Foul,Offensive,0,0,0,0,,,v
+S2425-G0121,2,08:56,WAS,,ATL,,D. Roddy,ATL,Roddy Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0121,2,06:16,WAS,,ATL,,D. Roddy,ATL,Roddy S.FOUL (P3.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2425-G0121,2,06:16,WAS,,ATL,,D. Roddy,ATL,SUB: Risacher FOR Roddy,Substitution,,0,0,0,0,,,v
+S2425-G0121,3,11:02,WAS,,ATL,,D. Roddy,ATL,Roddy STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0121,3,10:42,WAS,,ATL,,D. Roddy,ATL,MISS Roddy 3' Reverse Layup,Missed Shot,Reverse Layup Shot,23,16,3,1,2.0,0.0,v
+S2425-G0121,3,10:20,WAS,61.0,ATL,68.0,D. Roddy,ATL,Roddy 24' 3PT Jump Shot (13 PTS) (Risacher 2 AST),Made Shot,Jump Shot,-238,-9,24,1,3.0,3.0,v
+S2425-G0121,3,07:52,WAS,,ATL,,D. Roddy,ATL,Roddy Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0121,3,06:59,WAS,,ATL,,D. Roddy,ATL,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,3,06:36,WAS,,ATL,,D. Roddy,ATL,SUB: Nance Jr. FOR Roddy,Substitution,,0,0,0,0,,,v
+S2425-G0121,4,08:28,WAS,,ATL,,D. Roddy,ATL,Roddy REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,4,06:01,WAS,,ATL,,D. Roddy,ATL,Roddy P.FOUL (P4.T3) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2425-G0121,4,05:15,WAS,,ATL,,D. Roddy,ATL,MISS Roddy 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,2,63,6,1,2.0,0.0,v
+S2425-G0121,4,03:40,WAS,,ATL,,D. Roddy,ATL,Roddy Lost Ball Turnover (P4.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0121,4,02:12,WAS,,ATL,,D. Roddy,ATL,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,207,152,26,1,3.0,0.0,v
+S2425-G0121,4,00:47.800000,WAS,131.0,ATL,117.0,D. Roddy,ATL,Roddy Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,4,00:47.800000,WAS,131.0,ATL,118.0,D. Roddy,ATL,Roddy Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,4,00:08.800000,WAS,133.0,ATL,119.0,D. Roddy,ATL,Roddy Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,4,00:08.800000,WAS,133.0,ATL,120.0,D. Roddy,ATL,Roddy Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0100,1,05:04,OKC,13.0,ATL,18.0,D. Roddy,ATL,Roddy 7' Hook Shot (2 PTS) (Risacher 2 AST),Made Shot,Hook Shot,0,69,7,1,2.0,2.0,v
+S2425-G0100,1,05:04,OKC,,ATL,,D. Roddy,ATL,MISS Roddy Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0100,1,05:01,OKC,,ATL,,D. Roddy,ATL,Roddy REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,04:58,OKC,13.0,ATL,20.0,D. Roddy,ATL,Roddy 12' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,-80,83,12,1,2.0,2.0,v
+S2425-G0100,1,03:46,OKC,,ATL,,D. Roddy,ATL,SUB: Johnson FOR Roddy,Substitution,,0,0,0,0,,,v
+S2425-G0100,2,07:46,OKC,,ATL,,D. Roddy,ATL,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,2,07:25,OKC,33.0,ATL,39.0,D. Roddy,ATL,Roddy 27' 3PT Jump Shot (7 PTS) (Young 3 AST),Made Shot,Jump Shot,10,267,27,1,3.0,3.0,v
+S2425-G0100,2,04:45,OKC,41.0,ATL,45.0,D. Roddy,ATL,Roddy 3' Driving Layup (9 PTS) (Mathews 1 AST),Made Shot,Driving Layup Shot,-4,32,3,1,2.0,2.0,v
+S2425-G0100,2,04:27,OKC,,ATL,,D. Roddy,ATL,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,2,04:04,OKC,,ATL,,D. Roddy,ATL,SUB: Johnson FOR Roddy,Substitution,,0,0,0,0,,,v
+S2425-G0100,2,01:20,OKC,,ATL,,D. Roddy,ATL,MISS Roddy 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-66,28,7,1,2.0,0.0,v
+S2425-G0100,3,04:26,OKC,,ATL,,D. Roddy,ATL,Roddy REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,01:26,OKC,,ATL,,D. Roddy,ATL,SUB: Daniels FOR Roddy,Substitution,,0,0,0,0,,,v
+S2425-G0100,4,07:18,OKC,104.0,ATL,93.0,D. Roddy,ATL,Roddy Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0100,4,07:18,OKC,,ATL,,D. Roddy,ATL,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0100,4,06:16,OKC,,ATL,,D. Roddy,ATL,SUB: Risacher FOR Roddy,Substitution,,0,0,0,0,,,v
+S2425-G0100,4,02:52,OKC,,ATL,,D. Roddy,ATL,Roddy REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,1,06:41,ATL,,WAS,,D. Roddy,ATL,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,1,03:47,ATL,,WAS,,D. Roddy,ATL,SUB: Johnson FOR Roddy,Substitution,,0,0,0,0,,,h
+S2425-G0103,2,08:21,ATL,,WAS,,D. Roddy,ATL,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,2,06:17,ATL,,WAS,,D. Roddy,ATL,Roddy STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0103,2,06:06,ATL,42.0,WAS,31.0,D. Roddy,ATL,Roddy 6' Turnaround Hook Shot (2 PTS) (Young 7 AST),Made Shot,Turnaround Hook Shot,-4,58,6,1,2.0,2.0,h
+S2425-G0103,2,05:41,ATL,,WAS,,D. Roddy,ATL,Roddy BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0103,2,04:32,ATL,,WAS,,D. Roddy,ATL,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,2,03:55,ATL,45.0,WAS,36.0,D. Roddy,ATL,Roddy Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,2,03:55,ATL,46.0,WAS,36.0,D. Roddy,ATL,Roddy Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,2,03:38,ATL,,WAS,,D. Roddy,ATL,Roddy REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,2,02:59,ATL,,WAS,,D. Roddy,ATL,SUB: Risacher FOR Roddy,Substitution,,0,0,0,0,,,h
+S2425-G0103,3,02:04,ATL,,WAS,,D. Roddy,ATL,Roddy REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,3,00:00.700000,ATL,,WAS,,D. Roddy,ATL,MISS Roddy 36' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-9,362,36,1,3.0,0.0,h
+S2425-G0103,4,09:22,ATL,88.0,WAS,89.0,D. Roddy,ATL,Roddy 26' 3PT Jump Shot (7 PTS) (Nance Jr. 4 AST),Made Shot,Jump Shot,-175,187,26,1,3.0,3.0,h
+S2425-G0103,4,07:25,ATL,,WAS,,D. Roddy,ATL,Roddy REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,4,06:12,ATL,100.0,WAS,102.0,D. Roddy,ATL,Roddy 2' Driving Layup (9 PTS) (Young 13 AST),Made Shot,Driving Layup Shot,13,16,2,1,2.0,2.0,h
+S2425-G0103,4,05:55,ATL,,WAS,,D. Roddy,ATL,SUB: Mathews FOR Roddy,Substitution,,0,0,0,0,,,h

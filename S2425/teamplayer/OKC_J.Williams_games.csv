@@ -1,0 +1,157 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0075,1,11:36,DEN,,OKC,,J. Williams,OKC,Williams P.FOUL (P1.T1) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0075,1,10:12,DEN,3.0,OKC,5.0,J. Williams,OKC,Williams 25' 3PT Jump Shot (3 PTS) (Holmgren 1 AST),Made Shot,Jump Shot,94,230,25,1,3.0,3.0,v
+S2425-G0075,1,09:52,DEN,,OKC,,J. Williams,OKC,Williams S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0075,1,09:36,DEN,,OKC,,J. Williams,OKC,Williams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0075,1,08:08,DEN,,OKC,,J. Williams,OKC,Williams Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0075,1,06:26,DEN,,OKC,,J. Williams,OKC,SUB: Wallace FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0075,1,02:01,DEN,,OKC,,J. Williams,OKC,MISS Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,86,237,25,1,3.0,0.0,v
+S2425-G0075,1,00:03,DEN,,OKC,,J. Williams,OKC,MISS Williams 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-88,106,14,1,2.0,0.0,v
+S2425-G0075,2,11:29,DEN,,OKC,,J. Williams,OKC,MISS Williams 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,109,13,1,2.0,0.0,v
+S2425-G0075,2,10:25,DEN,28.0,OKC,35.0,J. Williams,OKC,Williams 3' Layup (5 PTS),Made Shot,Layup Shot,26,23,3,1,2.0,2.0,v
+S2425-G0075,2,10:25,DEN,,OKC,,J. Williams,OKC,MISS Williams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0075,2,10:20,DEN,,OKC,,J. Williams,OKC,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,2,07:44,DEN,,OKC,,J. Williams,OKC,SUB: Gilgeous-Alexander FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0075,2,00:58,DEN,,OKC,,J. Williams,OKC,MISS Williams 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-4,17,2,1,2.0,0.0,v
+S2425-G0075,2,00:07.700000,DEN,,OKC,,J. Williams,OKC,SUB: Caruso FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0075,3,09:50,DEN,,OKC,,J. Williams,OKC,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,08:36,DEN,,OKC,,J. Williams,OKC,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,86,243,26,1,3.0,0.0,v
+S2425-G0075,3,08:31,DEN,,OKC,,J. Williams,OKC,Williams S.FOUL (P3.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0075,3,07:06,DEN,64.0,OKC,71.0,J. Williams,OKC,Williams 12' Driving Floating Jump Shot (7 PTS) (Holmgren 5 AST),Made Shot,Driving Floating Jump Shot,-64,101,12,1,2.0,2.0,v
+S2425-G0075,3,04:02,DEN,,OKC,,J. Williams,OKC,MISS Williams 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-201,137,24,1,3.0,0.0,v
+S2425-G0075,3,03:42,DEN,,OKC,,J. Williams,OKC,SUB: Dieng FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0075,4,11:47,DEN,,OKC,,J. Williams,OKC,MISS Williams 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,38,31,5,1,2.0,0.0,v
+S2425-G0075,4,10:45,DEN,,OKC,,J. Williams,OKC,MISS Williams 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-114,29,12,1,2.0,0.0,v
+S2425-G0075,4,10:36,DEN,,OKC,,J. Williams,OKC,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0075,4,10:00,DEN,73.0,OKC,89.0,J. Williams,OKC,Williams 1' Driving Dunk (9 PTS) (Wiggins 1 AST),Made Shot,Driving Dunk Shot,6,0,1,1,2.0,2.0,v
+S2425-G0075,4,09:24,DEN,,OKC,,J. Williams,OKC,Williams Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0075,4,09:08,DEN,,OKC,,J. Williams,OKC,Williams BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0075,4,08:46,DEN,75.0,OKC,92.0,J. Williams,OKC,Williams 26' 3PT Jump Shot (12 PTS) (Caruso 4 AST),Made Shot,Jump Shot,-33,253,26,1,3.0,3.0,v
+S2425-G0075,4,07:54,DEN,,OKC,,J. Williams,OKC,Williams Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0075,4,07:52,DEN,,OKC,,J. Williams,OKC,SUB: Gilgeous-Alexander FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0075,4,05:38,DEN,,OKC,,J. Williams,OKC,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,05:24,DEN,,OKC,,J. Williams,OKC,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-38,245,25,1,3.0,0.0,v
+S2425-G0075,4,05:17,DEN,,OKC,,J. Williams,OKC,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,148,193,24,1,3.0,0.0,v
+S2425-G0075,4,02:52,DEN,,OKC,,J. Williams,OKC,MISS Williams 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,76,246,26,1,3.0,0.0,v
+S2425-G0075,4,02:21,DEN,,OKC,,J. Williams,OKC,Williams Bad Pass Turnover (P5.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0075,4,01:11,DEN,,OKC,,J. Williams,OKC,SUB: Flagler FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0091,1,09:44,CHI,7.0,OKC,7.0,J. Williams,OKC,Williams 17' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-137,94,17,1,2.0,2.0,v
+S2425-G0091,1,09:27,CHI,,OKC,,J. Williams,OKC,MISS Williams 2' Running Layup,Missed Shot,Running Layup Shot,15,-3,2,1,2.0,0.0,v
+S2425-G0091,1,07:41,CHI,,OKC,,J. Williams,OKC,MISS Williams 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-56,101,12,1,2.0,0.0,v
+S2425-G0091,1,06:05,CHI,,OKC,,J. Williams,OKC,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,1,06:03,CHI,,OKC,,J. Williams,OKC,MISS Williams 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-17,99,10,1,2.0,0.0,v
+S2425-G0091,1,05:19,CHI,,OKC,,J. Williams,OKC,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,230,-8,0,1,3.0,0.0,v
+S2425-G0091,1,05:14,CHI,,OKC,,J. Williams,OKC,SUB: Dieng FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0091,2,10:24,CHI,24.0,OKC,28.0,J. Williams,OKC,Williams 8' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,-10,78,8,1,2.0,2.0,v
+S2425-G0091,2,09:57,CHI,26.0,OKC,29.0,J. Williams,OKC,Williams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,2,09:57,CHI,26.0,OKC,30.0,J. Williams,OKC,Williams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,2,09:14,CHI,,OKC,,J. Williams,OKC,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,2,08:44,CHI,,OKC,,J. Williams,OKC,Williams Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0091,2,08:27,CHI,,OKC,,J. Williams,OKC,MISS Williams 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,10,21,2,1,2.0,0.0,v
+S2425-G0091,2,07:57,CHI,,OKC,,J. Williams,OKC,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,2,06:22,CHI,,OKC,,J. Williams,OKC,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,2,06:21,CHI,,OKC,,J. Williams,OKC,SUB: Gilgeous-Alexander FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0091,2,00:01.200000,CHI,39.0,OKC,59.0,J. Williams,OKC,Williams 12' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-75,90,12,1,2.0,2.0,v
+S2425-G0091,3,11:23,CHI,,OKC,,J. Williams,OKC,Williams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,11:15,CHI,,OKC,,J. Williams,OKC,MISS Williams 10' Jump Shot,Missed Shot,Jump Shot,6,100,10,1,2.0,0.0,v
+S2425-G0091,3,09:56,CHI,,OKC,,J. Williams,OKC,MISS Williams 2' Layup,Missed Shot,Layup Shot,-12,15,2,1,2.0,0.0,v
+S2425-G0091,3,08:40,CHI,,OKC,,J. Williams,OKC,Williams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,07:19,CHI,44.0,OKC,67.0,J. Williams,OKC,Williams 9' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,-85,-2,9,1,2.0,2.0,v
+S2425-G0091,3,05:05,CHI,54.0,OKC,71.0,J. Williams,OKC,Williams 1' Cutting Dunk Shot (12 PTS) (Wallace 2 AST),Made Shot,Cutting Dunk Shot,-9,3,1,1,2.0,2.0,v
+S2425-G0091,3,04:29,CHI,54.0,OKC,73.0,J. Williams,OKC,Williams 17' Pullup Jump Shot (14 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Pullup Jump shot,158,51,17,1,2.0,2.0,v
+S2425-G0091,3,04:05,CHI,,OKC,,J. Williams,OKC,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,132,229,26,1,3.0,0.0,v
+S2425-G0091,3,03:41,CHI,59.0,OKC,76.0,J. Williams,OKC,Williams 27' 3PT Jump Shot (17 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,147,221,27,1,3.0,3.0,v
+S2425-G0091,3,03:01,CHI,,OKC,,J. Williams,OKC,SUB: Caruso FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0091,4,11:43,CHI,,OKC,,J. Williams,OKC,MISS Williams 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,13,8,2,1,2.0,0.0,v
+S2425-G0091,4,11:01,CHI,,OKC,,J. Williams,OKC,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,198,25,1,3.0,0.0,v
+S2425-G0091,4,10:54,CHI,,OKC,,J. Williams,OKC,Williams S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0091,4,10:40,CHI,,OKC,,J. Williams,OKC,Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0091,4,08:58,CHI,74.0,OKC,97.0,J. Williams,OKC,Williams 3' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,-26,4,3,1,2.0,2.0,v
+S2425-G0091,4,08:58,CHI,74.0,OKC,98.0,J. Williams,OKC,Williams Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0091,4,08:39,CHI,,OKC,,J. Williams,OKC,Williams REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,4,08:35,CHI,,OKC,,J. Williams,OKC,MISS Williams 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,66,122,14,1,2.0,0.0,v
+S2425-G0091,4,07:27,CHI,,OKC,,J. Williams,OKC,MISS Williams 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-7,8,1,1,2.0,0.0,v
+S2425-G0091,4,07:17,CHI,,OKC,,J. Williams,OKC,Williams REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,4,05:44,CHI,82.0,OKC,103.0,J. Williams,OKC,Williams 9' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,-86,30,9,1,2.0,2.0,v
+S2425-G0091,4,04:44,CHI,,OKC,,J. Williams,OKC,Williams REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,4,04:26,CHI,85.0,OKC,105.0,J. Williams,OKC,Williams 6' Driving Floating Bank Jump Shot (24 PTS),Made Shot,Driving Floating Bank Jump Shot,55,19,6,1,2.0,2.0,v
+S2425-G0091,4,04:26,CHI,,OKC,,J. Williams,OKC,SUB: Mitchell FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,11:24,OKC,2.0,ATL,3.0,J. Williams,OKC,Williams 3' Layup (2 PTS) (Holmgren 1 AST),Made Shot,Layup Shot,-32,0,3,1,2.0,2.0,h
+S2425-G0100,1,10:14,OKC,,ATL,,J. Williams,OKC,MISS Williams 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-100,84,13,1,2.0,0.0,h
+S2425-G0100,1,09:27,OKC,,ATL,,J. Williams,OKC,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,1,08:00,OKC,,ATL,,J. Williams,OKC,MISS Williams 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-48,135,14,1,2.0,0.0,h
+S2425-G0100,1,06:52,OKC,,ATL,,J. Williams,OKC,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,1,05:30,OKC,,ATL,,J. Williams,OKC,Williams S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,1,05:13,OKC,,ATL,,J. Williams,OKC,MISS Williams 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-33,45,6,1,2.0,0.0,h
+S2425-G0100,1,03:28,OKC,,ATL,,J. Williams,OKC,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0100,1,03:28,OKC,,ATL,,J. Williams,OKC,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0100,1,03:12,OKC,,ATL,,J. Williams,OKC,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,1,02:39,OKC,,ATL,,J. Williams,OKC,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,1,02:33,OKC,,ATL,,J. Williams,OKC,SUB: Gilgeous-Alexander FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0100,2,05:17,OKC,,ATL,,J. Williams,OKC,Williams P.FOUL (P2.PN) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0100,2,05:04,OKC,,ATL,,J. Williams,OKC,MISS Williams 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-6,68,7,1,2.0,0.0,h
+S2425-G0100,2,04:30,OKC,,ATL,,J. Williams,OKC,MISS Williams 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-5,6,1,1,2.0,0.0,h
+S2425-G0100,2,02:03,OKC,48.0,ATL,56.0,J. Williams,OKC,Williams 1' Cutting Dunk Shot (4 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Cutting Dunk Shot,-6,9,1,1,2.0,2.0,h
+S2425-G0100,2,01:13,OKC,50.0,ATL,56.0,J. Williams,OKC,Williams 1' Alley Oop Dunk (6 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Alley Oop Dunk Shot,-7,-2,1,1,2.0,2.0,h
+S2425-G0100,2,00:00.100000,OKC,,ATL,,J. Williams,OKC,Williams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,2,00:00.100000,OKC,57.0,ATL,58.0,J. Williams,OKC,Williams Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0100,3,11:47,OKC,59.0,ATL,58.0,J. Williams,OKC,Williams 2' Cutting Dunk Shot (10 PTS) (Holmgren 2 AST),Made Shot,Cutting Dunk Shot,9,12,2,1,2.0,2.0,h
+S2425-G0100,3,10:41,OKC,,ATL,,J. Williams,OKC,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,153,209,26,1,3.0,0.0,h
+S2425-G0100,3,10:27,OKC,,ATL,,J. Williams,OKC,Williams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,3,09:19,OKC,68.0,ATL,62.0,J. Williams,OKC,Williams 1' Cutting Finger Roll Layup Shot (12 PTS) (Holmgren 3 AST),Made Shot,Cutting Finger Roll Layup Shot,5,6,1,1,2.0,2.0,h
+S2425-G0100,3,06:35,OKC,74.0,ATL,69.0,J. Williams,OKC,Williams Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,3,06:35,OKC,,ATL,,J. Williams,OKC,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0100,3,06:00,OKC,,ATL,,J. Williams,OKC,MISS Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-146,200,25,1,3.0,0.0,h
+S2425-G0100,3,05:12,OKC,,ATL,,J. Williams,OKC,Jump Ball Williams vs. Okongwu: Tip to Wiggins,Jump Ball,,0,0,0,0,,,h
+S2425-G0100,3,05:12,OKC,,ATL,,J. Williams,OKC,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0100,3,02:48,OKC,,ATL,,J. Williams,OKC,MISS Williams 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,55,23,6,1,2.0,0.0,h
+S2425-G0100,3,01:49,OKC,86.0,ATL,85.0,J. Williams,OKC,Williams 14' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,20,136,14,1,2.0,2.0,h
+S2425-G0100,3,01:30,OKC,,ATL,,J. Williams,OKC,Williams REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,3,01:26,OKC,,ATL,,J. Williams,OKC,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0100,3,01:26,OKC,87.0,ATL,85.0,J. Williams,OKC,Williams Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,3,01:12,OKC,,ATL,,J. Williams,OKC,SUB: Joe FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0100,4,08:00,OKC,,ATL,,J. Williams,OKC,Williams REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,07:18,OKC,,ATL,,J. Williams,OKC,Williams S.FOUL (P3.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,4,05:59,OKC,108.0,ATL,95.0,J. Williams,OKC,Williams Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,4,05:59,OKC,109.0,ATL,95.0,J. Williams,OKC,Williams Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,4,05:32,OKC,111.0,ATL,97.0,J. Williams,OKC,Williams 1' Driving Reverse Layup (20 PTS),Made Shot,Driving Reverse Layup Shot,12,4,1,1,2.0,2.0,h
+S2425-G0100,4,05:23,OKC,,ATL,,J. Williams,OKC,Williams P.FOUL (P4.T4) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2425-G0100,4,03:52,OKC,,ATL,,J. Williams,OKC,Williams REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,02:55,OKC,,ATL,,J. Williams,OKC,MISS Williams 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-15,267,27,1,3.0,0.0,h
+S2425-G0100,4,01:53,OKC,,ATL,,J. Williams,OKC,Williams STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0100,4,01:53,OKC,,ATL,,J. Williams,OKC,SUB: Jones FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,11:01,OKC,,SAS,,J. Williams,OKC,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,1,10:48,OKC,,SAS,,J. Williams,OKC,Williams Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0125,1,10:01,OKC,,SAS,,J. Williams,OKC,MISS Williams 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-188,160,25,1,3.0,0.0,h
+S2425-G0125,1,08:42,OKC,,SAS,,J. Williams,OKC,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0125,1,07:14,OKC,,SAS,,J. Williams,OKC,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,1,06:49,OKC,,SAS,,J. Williams,OKC,Williams STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0125,1,06:46,OKC,15.0,SAS,10.0,J. Williams,OKC,Williams 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,0,17,2,1,2.0,2.0,h
+S2425-G0125,1,06:19,OKC,,SAS,,J. Williams,OKC,MISS Williams 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-67,75,10,1,2.0,0.0,h
+S2425-G0125,1,06:04,OKC,,SAS,,J. Williams,OKC,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,1,05:34,OKC,,SAS,,J. Williams,OKC,SUB: Dieng FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0125,2,11:15,OKC,,SAS,,J. Williams,OKC,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,2,10:51,OKC,,SAS,,J. Williams,OKC,Williams STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0125,2,08:39,OKC,35.0,SAS,24.0,J. Williams,OKC,Williams 2' Running Layup (4 PTS) (Wiggins 1 AST),Made Shot,Running Layup Shot,-16,12,2,1,2.0,2.0,h
+S2425-G0125,2,08:14,OKC,,SAS,,J. Williams,OKC,MISS Williams 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-43,111,12,1,2.0,0.0,h
+S2425-G0125,2,07:19,OKC,,SAS,,J. Williams,OKC,Williams STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0125,2,06:56,OKC,,SAS,,J. Williams,OKC,Williams P.FOUL (P1.T1) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0125,2,06:43,OKC,,SAS,,J. Williams,OKC,Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0125,2,06:35,OKC,,SAS,,J. Williams,OKC,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,2,05:46,OKC,,SAS,,J. Williams,OKC,SUB: Caruso FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0125,2,01:09,OKC,,SAS,,J. Williams,OKC,Williams S.FOUL (P2.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2425-G0125,2,00:25.500000,OKC,59.0,SAS,44.0,J. Williams,OKC,Williams 26' 3PT Jump Shot (7 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Jump Shot,-158,207,26,1,3.0,3.0,h
+S2425-G0125,3,09:43,OKC,,SAS,,J. Williams,OKC,MISS Williams 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,41,8,1,2.0,0.0,h
+S2425-G0125,3,06:51,OKC,75.0,SAS,59.0,J. Williams,OKC,Williams 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,23,13,3,1,2.0,2.0,h
+S2425-G0125,3,06:20,OKC,,SAS,,J. Williams,OKC,MISS Williams 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-172,177,25,1,3.0,0.0,h
+S2425-G0125,3,05:50,OKC,,SAS,,J. Williams,OKC,SUB: Dieng FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0125,4,10:40,OKC,,SAS,,J. Williams,OKC,MISS Williams 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-147,45,15,1,2.0,0.0,h
+S2425-G0125,4,10:01,OKC,,SAS,,J. Williams,OKC,MISS Williams 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-132,121,18,1,2.0,0.0,h
+S2425-G0125,4,09:44,OKC,,SAS,,J. Williams,OKC,Williams REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,4,08:48,OKC,,SAS,,J. Williams,OKC,MISS Williams 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,47,32,6,1,2.0,0.0,h
+S2425-G0125,4,07:55,OKC,,SAS,,J. Williams,OKC,Williams P.FOUL (P3.T1) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0125,4,07:12,OKC,,SAS,,J. Williams,OKC,Williams REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,4,06:27,OKC,93.0,SAS,79.0,J. Williams,OKC,Williams 14' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,-64,127,14,1,2.0,2.0,h
+S2425-G0125,4,05:52,OKC,,SAS,,J. Williams,OKC,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0125,4,05:52,OKC,94.0,SAS,81.0,J. Williams,OKC,Williams Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0125,4,05:44,OKC,,SAS,,J. Williams,OKC,SUB: Caruso FOR Williams,Substitution,,0,0,0,0,,,h

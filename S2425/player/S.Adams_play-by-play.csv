@@ -1,0 +1,12 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0109,1,02:24,SAS,,HOU,,S. Adams,HOU,Adams Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0109,1,02:07,SAS,,HOU,,S. Adams,HOU,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,1,00:40.200000,SAS,,HOU,,S. Adams,HOU,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,2,03:40,SAS,35.0,HOU,48.0,S. Adams,HOU,Adams 2' Driving Layup (2 PTS) (VanVleet 7 AST),Made Shot,Driving Layup Shot,11,21,2,1,2.0,2.0,v
+S2425-G0109,2,03:40,SAS,,HOU,,S. Adams,HOU,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0109,3,03:56,SAS,58.0,HOU,78.0,S. Adams,HOU,Adams 4' Hook Shot (4 PTS) (Eason 2 AST),Made Shot,Hook Shot,0,38,4,1,2.0,2.0,v
+S2425-G0109,3,03:31,SAS,,HOU,,S. Adams,HOU,Adams S.FOUL (P1.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0109,3,02:57,SAS,,HOU,,S. Adams,HOU,Adams S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0109,3,01:12,SAS,,HOU,,S. Adams,HOU,Adams S.FOUL (P3.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0109,3,00:36.800000,SAS,,HOU,,S. Adams,HOU,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,3,00:36.800000,SAS,72.0,HOU,87.0,S. Adams,HOU,Adams Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v

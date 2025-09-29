@@ -1,0 +1,130 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,1,04:17,NYK,14.0,IND,14.0,B. Mathurin,IND,Mathurin 3PT Jump Shot (3 PTS) (Haliburton 2 AST),Made Shot,Jump Shot,-230,-7,0,1,3.0,3.0,v
+S2425-G0081,1,03:43,NYK,17.0,IND,16.0,B. Mathurin,IND,Mathurin 18' Pullup Jump Shot (5 PTS) (Haliburton 3 AST),Made Shot,Pullup Jump shot,-102,147,18,1,2.0,2.0,v
+S2425-G0081,1,02:35,NYK,19.0,IND,18.0,B. Mathurin,IND,Mathurin 2' Driving Finger Roll Layup (7 PTS) (Haliburton 4 AST),Made Shot,Driving Finger Roll Layup Shot,16,6,2,1,2.0,2.0,v
+S2425-G0081,1,02:10,NYK,,IND,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,1,01:04,NYK,,IND,,B. Mathurin,IND,MISS Mathurin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,251,25,1,3.0,0.0,v
+S2425-G0081,1,00:01.700000,NYK,,IND,,B. Mathurin,IND,Mathurin S.FOUL (P1.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0081,2,10:58,NYK,,IND,,B. Mathurin,IND,MISS Mathurin 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,131,-8,13,1,2.0,0.0,v
+S2425-G0081,2,09:48,NYK,32.0,IND,32.0,B. Mathurin,IND,Mathurin 25' 3PT Jump Shot (10 PTS) (Toppin 1 AST),Made Shot,Jump Shot,-121,215,25,1,3.0,3.0,v
+S2425-G0081,2,08:31,NYK,,IND,,B. Mathurin,IND,Mathurin STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0081,2,08:29,NYK,34.0,IND,35.0,B. Mathurin,IND,Mathurin Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0081,2,08:29,NYK,,IND,,B. Mathurin,IND,MISS Mathurin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0081,2,07:29,NYK,,IND,,B. Mathurin,IND,Mathurin Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0081,2,07:29,NYK,,IND,,B. Mathurin,IND,SUB: Siakam FOR Mathurin,Substitution,,0,0,0,0,,,v
+S2425-G0081,3,01:59,NYK,,IND,,B. Mathurin,IND,MISS Mathurin 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-202,33,20,1,2.0,0.0,v
+S2425-G0081,3,00:01.500000,NYK,,IND,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,4,10:33,NYK,97.0,IND,70.0,B. Mathurin,IND,Mathurin 1' Driving Layup (13 PTS) (McConnell 5 AST),Made Shot,Driving Layup Shot,-10,11,1,1,2.0,2.0,v
+S2425-G0081,4,09:14,NYK,100.0,IND,74.0,B. Mathurin,IND,Mathurin 17' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,6,165,17,1,2.0,2.0,v
+S2425-G0081,4,08:37,NYK,102.0,IND,76.0,B. Mathurin,IND,Mathurin 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,-20,8,2,1,2.0,2.0,v
+S2425-G0081,4,08:11,NYK,,IND,,B. Mathurin,IND,MISS Mathurin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0081,4,08:11,NYK,102.0,IND,77.0,B. Mathurin,IND,Mathurin Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0081,4,07:15,NYK,,IND,,B. Mathurin,IND,MISS Mathurin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-130,214,25,1,3.0,0.0,v
+S2425-G0081,4,06:17,NYK,108.0,IND,81.0,B. Mathurin,IND,Mathurin 1' Driving Layup (20 PTS) (Toppin 4 AST),Made Shot,Driving Layup Shot,5,0,1,1,2.0,2.0,v
+S2425-G0081,4,04:42,NYK,,IND,,B. Mathurin,IND,MISS Mathurin 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,26,248,25,1,3.0,0.0,v
+S2425-G0081,4,04:24,NYK,,IND,,B. Mathurin,IND,SUB: Q. Jackson FOR Mathurin,Substitution,,0,0,0,0,,,v
+S2425-G0097,1,05:41,IND,,PHI,,B. Mathurin,IND,Mathurin P.FOUL (P1.T2) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2425-G0097,1,03:14,IND,,PHI,,B. Mathurin,IND,MISS Mathurin 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-38,263,27,1,3.0,0.0,h
+S2425-G0097,1,00:15.400000,IND,,PHI,,B. Mathurin,IND,MISS Mathurin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-137,215,25,1,3.0,0.0,h
+S2425-G0097,2,10:18,IND,,PHI,,B. Mathurin,IND,SUB: Walker FOR Mathurin,Substitution,,0,0,0,0,,,h
+S2425-G0097,3,02:20,IND,75.0,PHI,77.0,B. Mathurin,IND,Mathurin 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,13,19,2,1,2.0,2.0,h
+S2425-G0097,3,00:53.800000,IND,,PHI,,B. Mathurin,IND,MISS Mathurin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0097,3,00:53.800000,IND,78.0,PHI,77.0,B. Mathurin,IND,Mathurin Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,3,00:30.800000,IND,,PHI,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,3,00:00,IND,,PHI,,B. Mathurin,IND,MISS Mathurin 56' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-36,560,56,1,3.0,0.0,h
+S2425-G0097,4,11:42,IND,,PHI,,B. Mathurin,IND,MISS Mathurin 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,131,289,32,1,3.0,0.0,h
+S2425-G0097,4,09:28,IND,,PHI,,B. Mathurin,IND,Mathurin S.FOUL (P2.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0097,4,07:31,IND,,PHI,,B. Mathurin,IND,Mathurin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,4,07:31,IND,92.0,PHI,91.0,B. Mathurin,IND,Mathurin 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,-15,9,2,1,2.0,2.0,h
+S2425-G0097,4,05:21,IND,,PHI,,B. Mathurin,IND,Mathurin Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0097,4,04:57,IND,,PHI,,B. Mathurin,IND,SUB: Nesmith FOR Mathurin,Substitution,,0,0,0,0,,,h
+S2425-G0097,5,00:02.500000,IND,,PHI,,B. Mathurin,IND,SUB: Sheppard FOR Mathurin,Substitution,,0,0,0,0,,,h
+S2425-G0063,1,02:43,DET,,IND,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,1,01:06,DET,,IND,,B. Mathurin,IND,Mathurin S.FOUL (P1.T3) (T.Ricks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0063,1,00:38.800000,DET,,IND,,B. Mathurin,IND,Mathurin Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0063,2,11:46,DET,31.0,IND,28.0,B. Mathurin,IND,Mathurin 26' 3PT Jump Shot (3 PTS) (McConnell 1 AST),Made Shot,Jump Shot,188,179,26,1,3.0,3.0,v
+S2425-G0063,2,11:24,DET,,IND,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,2,11:14,DET,,IND,,B. Mathurin,IND,Mathurin Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0063,2,10:18,DET,33.0,IND,30.0,B. Mathurin,IND,Mathurin 2' Cutting Dunk Shot (5 PTS) (McConnell 2 AST),Made Shot,Cutting Dunk Shot,11,17,2,1,2.0,2.0,v
+S2425-G0063,2,07:45,DET,,IND,,B. Mathurin,IND,Mathurin OFF.Foul (P2) (T.Brothers),Foul,Offensive,0,0,0,0,,,v
+S2425-G0063,2,07:45,DET,,IND,,B. Mathurin,IND,Mathurin Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0063,2,07:45,DET,,IND,,B. Mathurin,IND,SUB: Nembhard FOR Mathurin,Substitution,,0,0,0,0,,,v
+S2425-G0063,2,00:18.700000,DET,,IND,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,3,06:51,DET,,IND,,B. Mathurin,IND,MISS Mathurin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,58,24,1,3.0,0.0,v
+S2425-G0063,3,05:21,DET,,IND,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,3,04:47,DET,,IND,,B. Mathurin,IND,MISS Mathurin 1' Running Layup,Missed Shot,Running Layup Shot,-5,8,1,1,2.0,0.0,v
+S2425-G0063,3,02:30,DET,,IND,,B. Mathurin,IND,SUB: Sheppard FOR Mathurin,Substitution,,0,0,0,0,,,v
+S2425-G0063,3,00:24.300000,DET,,IND,,B. Mathurin,IND,MISS Mathurin 21' Jump Shot,Missed Shot,Jump Shot,55,205,21,1,2.0,0.0,v
+S2425-G0063,4,12:00,DET,90.0,IND,83.0,B. Mathurin,IND,Mathurin Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0063,4,11:07,DET,92.0,IND,86.0,B. Mathurin,IND,Mathurin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0063,4,11:07,DET,92.0,IND,87.0,B. Mathurin,IND,Mathurin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0063,4,09:17,DET,98.0,IND,94.0,B. Mathurin,IND,Mathurin Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0063,4,09:17,DET,,IND,,B. Mathurin,IND,MISS Mathurin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0063,4,09:13,DET,,IND,,B. Mathurin,IND,Mathurin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,4,08:58,DET,98.0,IND,96.0,B. Mathurin,IND,Mathurin 21' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,9,209,21,1,2.0,2.0,v
+S2425-G0063,4,08:19,DET,98.0,IND,97.0,B. Mathurin,IND,Mathurin Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0063,4,07:00,DET,100.0,IND,101.0,B. Mathurin,IND,Mathurin 19' Jump Shot (14 PTS) (Nembhard 7 AST),Made Shot,Jump Shot,-192,32,19,1,2.0,2.0,v
+S2425-G0063,4,04:03,DET,,IND,,B. Mathurin,IND,Mathurin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,4,02:55,DET,102.0,IND,106.0,B. Mathurin,IND,Mathurin 26' 3PT Jump Shot (17 PTS) (Siakam 8 AST),Made Shot,Jump Shot,192,169,26,1,3.0,3.0,v
+S2425-G0063,4,02:17,DET,,IND,,B. Mathurin,IND,Mathurin S.FOUL (P3.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0063,4,01:43,DET,,IND,,B. Mathurin,IND,MISS Mathurin Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2425-G0063,4,01:43,DET,104.0,IND,109.0,B. Mathurin,IND,Mathurin Free Throw 2 of 3 (18 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0063,4,01:43,DET,104.0,IND,110.0,B. Mathurin,IND,Mathurin Free Throw 3 of 3 (19 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0119,1,05:07,IND,,BOS,,B. Mathurin,IND,Mathurin S.FOUL (P1.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0119,1,05:06,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,1,00:30.400000,IND,,BOS,,B. Mathurin,IND,Mathurin Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0119,1,00:06.600000,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,2,11:10,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,2,10:36,IND,,BOS,,B. Mathurin,IND,Mathurin Offensive Charge Foul (P2) (K.Cutler),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0119,2,10:36,IND,,BOS,,B. Mathurin,IND,Mathurin Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0119,2,09:15,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,2,09:15,IND,44.0,BOS,37.0,B. Mathurin,IND,Mathurin 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-11,34,4,1,2.0,2.0,h
+S2425-G0119,2,08:49,IND,,BOS,,B. Mathurin,IND,MISS Mathurin 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,2,17,2,1,2.0,0.0,h
+S2425-G0119,2,07:30,IND,,BOS,,B. Mathurin,IND,MISS Mathurin 1' Driving Layup,Missed Shot,Driving Layup Shot,4,11,1,1,2.0,0.0,h
+S2425-G0119,2,07:22,IND,48.0,BOS,45.0,B. Mathurin,IND,Mathurin 1' Running Dunk (4 PTS) (Sheppard 1 AST),Made Shot,Running Dunk Shot,-9,-8,1,1,2.0,2.0,h
+S2425-G0119,2,06:47,IND,49.0,BOS,45.0,B. Mathurin,IND,Mathurin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,2,06:47,IND,50.0,BOS,45.0,B. Mathurin,IND,Mathurin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,2,06:20,IND,53.0,BOS,45.0,B. Mathurin,IND,Mathurin 27' 3PT Pullup Jump Shot (9 PTS) (Haliburton 4 AST),Made Shot,Pullup Jump shot,18,267,27,1,3.0,3.0,h
+S2425-G0119,2,04:08,IND,,BOS,,B. Mathurin,IND,SUB: Nesmith FOR Mathurin,Substitution,,0,0,0,0,,,h
+S2425-G0119,3,10:17,IND,75.0,BOS,61.0,B. Mathurin,IND,Mathurin 13' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,66,111,13,1,2.0,2.0,h
+S2425-G0119,3,09:40,IND,77.0,BOS,63.0,B. Mathurin,IND,Mathurin 4' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,-13,37,4,1,2.0,2.0,h
+S2425-G0119,3,09:11,IND,78.0,BOS,63.0,B. Mathurin,IND,Mathurin Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,3,09:11,IND,79.0,BOS,63.0,B. Mathurin,IND,Mathurin Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,3,08:19,IND,80.0,BOS,68.0,B. Mathurin,IND,Mathurin Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,3,08:19,IND,81.0,BOS,68.0,B. Mathurin,IND,Mathurin Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,3,07:57,IND,83.0,BOS,68.0,B. Mathurin,IND,Mathurin 5' Running Layup (19 PTS) (Haliburton 9 AST),Made Shot,Running Layup Shot,23,41,5,1,2.0,2.0,h
+S2425-G0119,3,07:57,IND,84.0,BOS,68.0,B. Mathurin,IND,Mathurin Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0119,3,07:37,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,3,06:33,IND,90.0,BOS,68.0,B. Mathurin,IND,Mathurin 27' 3PT Pullup Jump Shot (23 PTS) (Nesmith 3 AST),Made Shot,Pullup Jump shot,29,267,27,1,3.0,3.0,h
+S2425-G0119,3,05:19,IND,,BOS,,B. Mathurin,IND,MISS Mathurin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,199,159,25,1,3.0,0.0,h
+S2425-G0119,3,03:47,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,3,02:52,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,3,02:52,IND,,BOS,,B. Mathurin,IND,MISS Mathurin 6' Layup,Missed Shot,Layup Shot,-4,55,6,1,2.0,0.0,h
+S2425-G0119,3,01:36,IND,,BOS,,B. Mathurin,IND,MISS Mathurin 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-159,83,18,1,2.0,0.0,h
+S2425-G0119,3,01:35,IND,,BOS,,B. Mathurin,IND,SUB: Nesmith FOR Mathurin,Substitution,,0,0,0,0,,,h
+S2425-G0119,4,10:24,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,4,10:24,IND,107.0,BOS,89.0,B. Mathurin,IND,Mathurin 5' Tip Layup Shot (25 PTS),Made Shot,Tip Layup Shot,45,30,5,1,2.0,2.0,h
+S2425-G0119,4,09:42,IND,,BOS,,B. Mathurin,IND,MISS Mathurin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0119,4,09:42,IND,108.0,BOS,91.0,B. Mathurin,IND,Mathurin Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,4,09:21,IND,109.0,BOS,91.0,B. Mathurin,IND,Mathurin Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,4,09:21,IND,110.0,BOS,91.0,B. Mathurin,IND,Mathurin Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,4,09:03,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,4,07:10,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,4,06:40,IND,,BOS,,B. Mathurin,IND,Mathurin REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,4,05:31,IND,,BOS,,B. Mathurin,IND,MISS Mathurin 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,11,64,6,1,2.0,0.0,h
+S2425-G0119,4,03:07,IND,,BOS,,B. Mathurin,IND,Mathurin Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0119,4,01:06,IND,,BOS,,B. Mathurin,IND,Mathurin Lost Ball Turnover (P4.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0119,5,03:54,IND,,BOS,,B. Mathurin,IND,MISS Mathurin 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,30,24,1,3.0,0.0,h
+S2425-G0119,5,02:34,IND,,BOS,,B. Mathurin,IND,MISS Mathurin 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-92,269,28,1,3.0,0.0,h
+S2425-G0119,5,01:36,IND,130.0,BOS,128.0,B. Mathurin,IND,Mathurin 1' Driving Reverse Layup (30 PTS) (McConnell 3 AST),Made Shot,Driving Reverse Layup Shot,7,-13,1,1,2.0,2.0,h
+S2425-G0102,1,03:35,ORL,,IND,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,1,02:08,ORL,29.0,IND,28.0,B. Mathurin,IND,Mathurin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,1,02:08,ORL,29.0,IND,29.0,B. Mathurin,IND,Mathurin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,1,00:26.600000,ORL,35.0,IND,36.0,B. Mathurin,IND,Mathurin 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,130,236,27,1,3.0,3.0,v
+S2425-G0102,2,09:59,ORL,,IND,,B. Mathurin,IND,Mathurin P.FOUL (P1.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2425-G0102,2,09:09,ORL,,IND,,B. Mathurin,IND,Mathurin Offensive Charge Foul (P2) (P.Ransom),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0102,2,09:09,ORL,,IND,,B. Mathurin,IND,Mathurin Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0102,2,09:09,ORL,,IND,,B. Mathurin,IND,SUB: Nesmith FOR Mathurin,Substitution,,0,0,0,0,,,v
+S2425-G0102,4,10:13,ORL,,IND,,B. Mathurin,IND,Mathurin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,4,09:17,ORL,,IND,,B. Mathurin,IND,Mathurin P.FOUL (P3.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2425-G0102,4,06:56,ORL,,IND,,B. Mathurin,IND,SUB: Haliburton FOR Mathurin,Substitution,,0,0,0,0,,,v

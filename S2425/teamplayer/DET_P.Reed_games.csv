@@ -1,0 +1,6 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0080,2,07:56,CLE,,DET,,P. Reed,DET,Reed Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0080,2,05:31,CLE,,DET,,P. Reed,DET,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,2,05:31,CLE,,DET,,P. Reed,DET,Reed Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0080,2,05:16,CLE,,DET,,P. Reed,DET,SUB: Duren FOR Reed,Substitution,,0,0,0,0,,,v
+S2425-G0080,3,00:08,CLE,,DET,,P. Reed,DET,SUB: Harris FOR Reed,Substitution,,0,0,0,0,,,v

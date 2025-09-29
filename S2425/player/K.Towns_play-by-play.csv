@@ -1,0 +1,164 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,1,12:00,NYK,,IND,,K. Towns,NYK,Jump Ball Towns vs. Turner: Tip to Hart,Jump Ball,,0,0,0,0,,,h
+S2425-G0081,1,11:22,NYK,,IND,,K. Towns,NYK,Towns S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0081,1,11:05,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,1,10:55,NYK,,IND,,K. Towns,NYK,MISS Towns 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-66,188,20,1,2.0,0.0,h
+S2425-G0081,1,10:42,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,1,07:42,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,1,07:20,NYK,6.0,IND,8.0,K. Towns,NYK,Towns 5' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,53,11,5,1,2.0,2.0,h
+S2425-G0081,1,07:01,NYK,9.0,IND,8.0,K. Towns,NYK,Towns 26' 3PT Jump Shot (5 PTS) (Brunson 1 AST),Made Shot,Jump Shot,-45,259,26,1,3.0,3.0,h
+S2425-G0081,1,03:25,NYK,19.0,IND,16.0,K. Towns,NYK,Towns 1' Dunk (7 PTS) (Bridges 1 AST),Made Shot,Dunk Shot,-7,10,1,1,2.0,2.0,h
+S2425-G0081,1,02:11,NYK,,IND,,K. Towns,NYK,MISS Towns 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,6,3,1,2.0,0.0,h
+S2425-G0081,1,02:07,NYK,,IND,,K. Towns,NYK,SUB: Sims FOR Towns,Substitution,,0,0,0,0,,,h
+S2425-G0081,1,00:01.700000,NYK,,IND,,K. Towns,NYK,SUB: Sims FOR Towns,Substitution,,0,0,0,0,,,h
+S2425-G0081,2,05:40,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,2,05:27,NYK,,IND,,K. Towns,NYK,MISS Towns 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-75,48,9,1,2.0,0.0,h
+S2425-G0081,2,05:06,NYK,,IND,,K. Towns,NYK,Towns BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0081,2,01:43,NYK,53.0,IND,43.0,K. Towns,NYK,Towns Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,2,01:43,NYK,54.0,IND,43.0,K. Towns,NYK,Towns Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,2,01:11,NYK,,IND,,K. Towns,NYK,Towns BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0081,2,00:04.500000,NYK,61.0,IND,45.0,K. Towns,NYK,Towns 27' 3PT Jump Shot (12 PTS) (Brunson 5 AST),Made Shot,Jump Shot,-136,235,27,1,3.0,3.0,h
+S2425-G0081,3,11:42,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,11:07,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,09:08,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,08:37,NYK,,IND,,K. Towns,NYK,Towns P.FOUL (P2.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2425-G0081,3,08:29,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,07:26,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,06:42,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,06:37,NYK,71.0,IND,51.0,K. Towns,NYK,Towns 7' Hook Shot (14 PTS),Made Shot,Hook Shot,18,71,7,1,2.0,2.0,h
+S2425-G0081,3,05:08,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,04:55,NYK,,IND,,K. Towns,NYK,MISS Towns 3' Driving Layup,Missed Shot,Driving Layup Shot,4,29,3,1,2.0,0.0,h
+S2425-G0081,3,04:54,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,04:53,NYK,75.0,IND,55.0,K. Towns,NYK,Towns Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,3,04:53,NYK,76.0,IND,55.0,K. Towns,NYK,Towns Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,3,04:20,NYK,,IND,,K. Towns,NYK,SUB: Sims FOR Towns,Substitution,,0,0,0,0,,,h
+S2425-G0081,3,00:32.600000,NYK,,IND,,K. Towns,NYK,Towns STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0081,3,00:28.100000,NYK,94.0,IND,64.0,K. Towns,NYK,Towns Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,3,00:28.100000,NYK,95.0,IND,64.0,K. Towns,NYK,Towns Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,3,00:17.200000,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,00:01.500000,NYK,,IND,,K. Towns,NYK,MISS Towns 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,14,1,1,2.0,0.0,h
+S2425-G0081,4,09:25,NYK,,IND,,K. Towns,NYK,MISS Towns 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,-1,26,3,1,2.0,0.0,h
+S2425-G0081,4,07:52,NYK,,IND,,K. Towns,NYK,MISS Towns Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0081,4,07:52,NYK,103.0,IND,77.0,K. Towns,NYK,Towns Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,4,07:42,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,4,07:31,NYK,104.0,IND,77.0,K. Towns,NYK,Towns Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,4,07:31,NYK,105.0,IND,77.0,K. Towns,NYK,Towns Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,4,07:13,NYK,,IND,,K. Towns,NYK,Towns REBOUND (Off:4 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,4,05:43,NYK,,IND,,K. Towns,NYK,SUB: Payne FOR Towns,Substitution,,0,0,0,0,,,h
+S2425-G0106,1,12:00,NYK,,CLE,,K. Towns,NYK,Jump Ball Towns vs. Allen: Tip to Garland,Jump Ball,,0,0,0,0,,,h
+S2425-G0106,1,11:26,NYK,,CLE,,K. Towns,NYK,Towns Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0106,1,11:08,NYK,,CLE,,K. Towns,NYK,Towns REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,1,09:59,NYK,,CLE,,K. Towns,NYK,Towns OFF.Foul (P1) (R.Hussey),Foul,Offensive,0,0,0,0,,,h
+S2425-G0106,1,09:59,NYK,,CLE,,K. Towns,NYK,Towns Offensive Foul Turnover (P2.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0106,1,07:46,NYK,,CLE,,K. Towns,NYK,MISS Towns 28' 3PT Jump Shot,Missed Shot,Jump Shot,-188,203,28,1,3.0,0.0,h
+S2425-G0106,1,07:11,NYK,,CLE,,K. Towns,NYK,Towns Violation:Kicked Ball (R.Hussey),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0106,1,06:55,NYK,,CLE,,K. Towns,NYK,Towns REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,1,06:18,NYK,,CLE,,K. Towns,NYK,SUB: Sims FOR Towns,Substitution,,0,0,0,0,,,h
+S2425-G0106,1,01:39,NYK,16.0,CLE,19.0,K. Towns,NYK,Towns 27' 3PT Jump Shot (3 PTS) (McBride 1 AST),Made Shot,Jump Shot,125,241,27,1,3.0,3.0,h
+S2425-G0106,1,01:26,NYK,,CLE,,K. Towns,NYK,Towns REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,2,10:19,NYK,,CLE,,K. Towns,NYK,Towns REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,2,09:51,NYK,,CLE,,K. Towns,NYK,Towns S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0106,2,09:03,NYK,,CLE,,K. Towns,NYK,SUB: Brunson FOR Towns,Substitution,,0,0,0,0,,,h
+S2425-G0106,2,00:51.400000,NYK,,CLE,,K. Towns,NYK,Towns REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,2,00:51.400000,NYK,50.0,CLE,45.0,K. Towns,NYK,Towns Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0106,3,11:34,NYK,,CLE,,K. Towns,NYK,Towns REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,3,11:14,NYK,,CLE,,K. Towns,NYK,MISS Towns 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-9,12,2,1,2.0,0.0,h
+S2425-G0106,3,09:30,NYK,,CLE,,K. Towns,NYK,Towns REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,3,09:17,NYK,,CLE,,K. Towns,NYK,Towns OFF.Foul (P3) (R.Hussey),Foul,Offensive,0,0,0,0,,,h
+S2425-G0106,3,09:17,NYK,,CLE,,K. Towns,NYK,Towns Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0106,3,09:00,NYK,,CLE,,K. Towns,NYK,Towns REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,3,07:53,NYK,,CLE,,K. Towns,NYK,Towns REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,3,07:06,NYK,61.0,CLE,54.0,K. Towns,NYK,Towns Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0106,3,07:06,NYK,62.0,CLE,54.0,K. Towns,NYK,Towns Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0106,3,06:37,NYK,,CLE,,K. Towns,NYK,Towns REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,3,04:55,NYK,,CLE,,K. Towns,NYK,SUB: Hukporti FOR Towns,Substitution,,0,0,0,0,,,h
+S2425-G0106,3,01:43,NYK,,CLE,,K. Towns,NYK,Towns Violation:Defensive Goaltending (S.Corbin),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2425-G0106,3,00:15.500000,NYK,78.0,CLE,72.0,K. Towns,NYK,Towns 6' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,-50,29,6,1,2.0,2.0,h
+S2425-G0106,3,00:02,NYK,,CLE,,K. Towns,NYK,Towns S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0106,4,11:14,NYK,,CLE,,K. Towns,NYK,MISS Towns 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-42,-11,4,1,2.0,0.0,h
+S2425-G0106,4,06:51,NYK,,CLE,,K. Towns,NYK,Towns STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0106,4,06:41,NYK,,CLE,,K. Towns,NYK,MISS Towns 22' Jump Shot,Missed Shot,Jump Shot,-28,222,22,1,2.0,0.0,h
+S2425-G0106,4,05:35,NYK,,CLE,,K. Towns,NYK,SUB: Hukporti FOR Towns,Substitution,,0,0,0,0,,,h
+S2425-G0106,4,02:01,NYK,96.0,CLE,101.0,K. Towns,NYK,Towns Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0106,4,02:01,NYK,97.0,CLE,101.0,K. Towns,NYK,Towns Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0106,4,01:25,NYK,,CLE,,K. Towns,NYK,Towns S.FOUL (P5.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0106,4,00:06.700000,NYK,104.0,CLE,108.0,K. Towns,NYK,Towns 1' Cutting Layup Shot (13 PTS) (McBride 4 AST),Made Shot,Cutting Layup Shot,-5,13,1,1,2.0,2.0,h
+S2425-G0106,4,00:04.700000,NYK,,CLE,,K. Towns,NYK,Towns Personal Take Foul (P6.PN) (R.Hussey),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0106,4,00:04.700000,NYK,,CLE,,K. Towns,NYK,SUB: Hukporti FOR Towns,Substitution,,0,0,0,0,,,h
+S2425-G0122,1,11:21,MIA,0.0,NYK,2.0,K. Towns,NYK,Towns 10' Driving Floating Jump Shot (2 PTS) (Bridges 1 AST),Made Shot,Driving Floating Jump Shot,-36,90,10,1,2.0,2.0,v
+S2425-G0122,1,10:54,MIA,,NYK,,K. Towns,NYK,Towns OFF.Foul (P1) (T.Ricks),Foul,Offensive,0,0,0,0,,,v
+S2425-G0122,1,10:54,MIA,,NYK,,K. Towns,NYK,Towns Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0122,1,10:38,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,1,09:18,MIA,,NYK,,K. Towns,NYK,MISS Towns 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,59,6,1,2.0,0.0,v
+S2425-G0122,1,09:00,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,1,07:57,MIA,8.0,NYK,12.0,K. Towns,NYK,Towns 27' 3PT Jump Shot (5 PTS) (Brunson 1 AST),Made Shot,Jump Shot,59,267,27,1,3.0,3.0,v
+S2425-G0122,1,05:37,MIA,13.0,NYK,17.0,K. Towns,NYK,Towns 7' Turnaround Hook Shot (7 PTS) (Brunson 3 AST),Made Shot,Turnaround Hook Shot,29,64,7,1,2.0,2.0,v
+S2425-G0122,1,05:37,MIA,,NYK,,K. Towns,NYK,SUB: Sims FOR Towns,Substitution,,0,0,0,0,,,v
+S2425-G0122,1,02:33,MIA,23.0,NYK,20.0,K. Towns,NYK,Towns 15' Jump Shot (9 PTS) (Payne 1 AST),Made Shot,Jump Shot,-141,37,15,1,2.0,2.0,v
+S2425-G0122,1,01:58,MIA,,NYK,,K. Towns,NYK,MISS Towns 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,146,55,16,1,2.0,0.0,v
+S2425-G0122,1,00:38.400000,MIA,29.0,NYK,26.0,K. Towns,NYK,Towns 27' 3PT Jump Shot (12 PTS) (Hart 2 AST),Made Shot,Jump Shot,-65,260,27,1,3.0,3.0,v
+S2425-G0122,1,00:04.700000,MIA,,NYK,,K. Towns,NYK,MISS Towns 4' Driving Layup,Missed Shot,Driving Layup Shot,29,32,4,1,2.0,0.0,v
+S2425-G0122,2,10:46,MIA,34.0,NYK,30.0,K. Towns,NYK,Towns 5' Turnaround Hook Shot (14 PTS),Made Shot,Turnaround Hook Shot,-11,53,5,1,2.0,2.0,v
+S2425-G0122,2,09:54,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,2,09:09,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,2,08:53,MIA,,NYK,,K. Towns,NYK,Towns OFF.Foul (P2) (P.Fraher),Foul,Offensive,0,0,0,0,,,v
+S2425-G0122,2,08:53,MIA,,NYK,,K. Towns,NYK,Towns Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0122,2,08:40,MIA,,NYK,,K. Towns,NYK,SUB: Brunson FOR Towns,Substitution,,0,0,0,0,,,v
+S2425-G0122,2,05:35,MIA,40.0,NYK,40.0,K. Towns,NYK,Towns 5' Dunk (16 PTS) (Hart 3 AST),Made Shot,Dunk Shot,-32,32,5,1,2.0,2.0,v
+S2425-G0122,2,05:22,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,2,04:29,MIA,43.0,NYK,41.0,K. Towns,NYK,Towns Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,2,04:29,MIA,43.0,NYK,42.0,K. Towns,NYK,Towns Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,2,03:23,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,2,03:19,MIA,,NYK,,K. Towns,NYK,MISS Towns 6' Driving Layup,Missed Shot,Driving Layup Shot,-60,15,6,1,2.0,0.0,v
+S2425-G0122,2,03:09,MIA,46.0,NYK,46.0,K. Towns,NYK,Towns 3' Alley Oop Dunk (20 PTS) (Brunson 5 AST),Made Shot,Alley Oop Dunk Shot,-27,18,3,1,2.0,2.0,v
+S2425-G0122,2,02:23,MIA,,NYK,,K. Towns,NYK,MISS Towns 20' Jump Shot,Missed Shot,Jump Shot,113,162,20,1,2.0,0.0,v
+S2425-G0122,2,01:37,MIA,52.0,NYK,48.0,K. Towns,NYK,Towns 6' Turnaround Hook Shot (22 PTS),Made Shot,Turnaround Hook Shot,40,46,6,1,2.0,2.0,v
+S2425-G0122,2,01:01,MIA,55.0,NYK,49.0,K. Towns,NYK,Towns Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,2,01:01,MIA,55.0,NYK,50.0,K. Towns,NYK,Towns Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,2,00:09.700000,MIA,,NYK,,K. Towns,NYK,SUB: Bridges FOR Towns,Substitution,,0,0,0,0,,,v
+S2425-G0122,3,10:55,MIA,,NYK,,K. Towns,NYK,Towns S.FOUL (P3.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2425-G0122,3,09:07,MIA,,NYK,,K. Towns,NYK,MISS Towns 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-96,21,10,1,2.0,0.0,v
+S2425-G0122,3,07:32,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,3,05:03,MIA,72.0,NYK,70.0,K. Towns,NYK,Towns 4' Driving Finger Roll Layup (26 PTS) (Brunson 6 AST),Made Shot,Driving Finger Roll Layup Shot,-25,37,4,1,2.0,2.0,v
+S2425-G0122,3,05:03,MIA,72.0,NYK,71.0,K. Towns,NYK,Towns Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0122,3,04:35,MIA,74.0,NYK,74.0,K. Towns,NYK,Towns 25' 3PT Jump Shot (30 PTS) (Brunson 7 AST),Made Shot,Jump Shot,-97,235,25,1,3.0,3.0,v
+S2425-G0122,3,04:27,MIA,,NYK,,K. Towns,NYK,SUB: McBride FOR Towns,Substitution,,0,0,0,0,,,v
+S2425-G0122,3,02:00,MIA,,NYK,,K. Towns,NYK,Towns S.FOUL (P4.T4) (T.Ricks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0122,3,01:25,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,3,00:47.200000,MIA,,NYK,,K. Towns,NYK,MISS Towns 28' 3PT Jump Shot,Missed Shot,Jump Shot,138,245,28,1,3.0,0.0,v
+S2425-G0122,4,11:17,MIA,80.0,NYK,89.0,K. Towns,NYK,Towns 5' Driving Floating Jump Shot (32 PTS) (Bridges 5 AST),Made Shot,Driving Floating Jump Shot,31,43,5,1,2.0,2.0,v
+S2425-G0122,4,10:56,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,4,10:04,MIA,82.0,NYK,91.0,K. Towns,NYK,Towns 8' Driving Hook Shot (34 PTS),Made Shot,Driving Hook Shot,4,84,8,1,2.0,2.0,v
+S2425-G0122,4,09:36,MIA,,NYK,,K. Towns,NYK,SUB: Sims FOR Towns,Substitution,,0,0,0,0,,,v
+S2425-G0122,4,06:31,MIA,94.0,NYK,99.0,K. Towns,NYK,Towns 6' Cutting Finger Roll Layup Shot (36 PTS) (Hart 6 AST),Made Shot,Cutting Finger Roll Layup Shot,42,42,6,1,2.0,2.0,v
+S2425-G0122,4,04:22,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,4,02:10,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,4,02:10,MIA,,NYK,,K. Towns,NYK,MISS Towns 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,10,20,2,1,2.0,0.0,v
+S2425-G0122,4,02:09,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,4,02:08,MIA,98.0,NYK,108.0,K. Towns,NYK,Towns 5' Putback Layup (38 PTS),Made Shot,Putback Layup Shot,-10,52,5,1,2.0,2.0,v
+S2425-G0122,4,01:58,MIA,,NYK,,K. Towns,NYK,Towns S.FOUL (P5.T3) (T.Ricks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0122,4,01:46,MIA,99.0,NYK,111.0,K. Towns,NYK,Towns 25' 3PT Jump Shot (41 PTS) (Bridges 6 AST),Made Shot,Jump Shot,205,150,25,1,3.0,3.0,v
+S2425-G0122,4,01:16,MIA,,NYK,,K. Towns,NYK,Towns REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,4,01:16,MIA,102.0,NYK,113.0,K. Towns,NYK,Towns 5' Putback Layup (43 PTS),Made Shot,Putback Layup Shot,-6,51,5,1,2.0,2.0,v
+S2425-G0122,4,01:16,MIA,102.0,NYK,114.0,K. Towns,NYK,Towns Free Throw 1 of 1 (44 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0061,1,09:53,BOS,8.0,NYK,8.0,K. Towns,NYK,Towns 11' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-114,0,11,1,2.0,2.0,v
+S2425-G0061,1,08:51,BOS,,NYK,,K. Towns,NYK,MISS Towns 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-151,9,15,1,2.0,0.0,v
+S2425-G0061,1,07:55,BOS,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,1,06:35,BOS,,NYK,,K. Towns,NYK,SUB: Sims FOR Towns,Substitution,,0,0,0,0,,,v
+S2425-G0061,1,00:39.700000,BOS,40.0,NYK,22.0,K. Towns,NYK,Towns 6' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,25,51,6,1,2.0,2.0,v
+S2425-G0061,2,11:21,BOS,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,2,10:49,BOS,43.0,NYK,28.0,K. Towns,NYK,Towns 14' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,-135,14,14,1,2.0,2.0,v
+S2425-G0061,2,10:20,BOS,,NYK,,K. Towns,NYK,MISS Towns 3PT Jump Shot,Missed Shot,Jump Shot,-227,50,0,1,3.0,0.0,v
+S2425-G0061,2,09:59,BOS,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,2,07:16,BOS,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,2,06:18,BOS,,NYK,,K. Towns,NYK,SUB: Sims FOR Towns,Substitution,,0,0,0,0,,,v
+S2425-G0061,2,02:47,BOS,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,2,02:32,BOS,67.0,NYK,49.0,K. Towns,NYK,Towns 27' 3PT Jump Shot (9 PTS) (Bridges 2 AST),Made Shot,Jump Shot,92,250,27,1,3.0,3.0,v
+S2425-G0061,2,00:40.600000,BOS,,NYK,,K. Towns,NYK,MISS Towns 10' Driving Hook Shot,Missed Shot,Driving Hook Shot,-89,37,10,1,2.0,0.0,v
+S2425-G0061,2,00:34.100000,BOS,72.0,NYK,52.0,K. Towns,NYK,Towns 9' Driving Hook Shot (11 PTS),Made Shot,Driving Hook Shot,53,74,9,1,2.0,2.0,v
+S2425-G0061,2,00:34.100000,BOS,72.0,NYK,53.0,K. Towns,NYK,Towns Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0061,3,10:05,BOS,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,3,09:14,BOS,,NYK,,K. Towns,NYK,Towns P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0061,3,08:11,BOS,,NYK,,K. Towns,NYK,Towns REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,3,06:02,BOS,,NYK,,K. Towns,NYK,MISS Towns 3' Driving Layup,Missed Shot,Driving Layup Shot,-22,27,3,1,2.0,0.0,v
+S2425-G0061,3,05:26,BOS,,NYK,,K. Towns,NYK,SUB: Sims FOR Towns,Substitution,,0,0,0,0,,,v

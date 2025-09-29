@@ -1,0 +1,139 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0096,1,11:24,LAL,,SAC,,D. DeRozan,SAC,MISS DeRozan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-230,111,26,1,3.0,0.0,v
+S2425-G0096,1,09:22,LAL,,SAC,,D. DeRozan,SAC,DeRozan STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0096,1,06:33,LAL,14.0,SAC,8.0,D. DeRozan,SAC,DeRozan 2' Driving Layup (2 PTS) (Sabonis 2 AST),Made Shot,Driving Layup Shot,7,17,2,1,2.0,2.0,v
+S2425-G0096,1,03:57,LAL,,SAC,,D. DeRozan,SAC,DeRozan L.B.FOUL (P1.T3) (K.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0096,1,03:57,LAL,,SAC,,D. DeRozan,SAC,SUB: Fox FOR DeRozan,Substitution,,0,0,0,0,,,v
+S2425-G0096,2,09:19,LAL,,SAC,,D. DeRozan,SAC,MISS DeRozan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0096,2,09:19,LAL,40.0,SAC,27.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,2,08:43,LAL,,SAC,,D. DeRozan,SAC,MISS DeRozan 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,49,136,14,1,2.0,0.0,v
+S2425-G0096,2,07:00,LAL,,SAC,,D. DeRozan,SAC,DeRozan Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0096,2,05:55,LAL,49.0,SAC,38.0,D. DeRozan,SAC,DeRozan 4' Driving Layup (5 PTS) (Fox 4 AST),Made Shot,Driving Layup Shot,-22,33,4,1,2.0,2.0,v
+S2425-G0096,2,05:55,LAL,49.0,SAC,39.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0096,2,04:46,LAL,,SAC,,D. DeRozan,SAC,SUB: Monk FOR DeRozan,Substitution,,0,0,0,0,,,v
+S2425-G0096,2,01:39,LAL,58.0,SAC,53.0,D. DeRozan,SAC,DeRozan 15' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,77,128,15,1,2.0,2.0,v
+S2425-G0096,2,01:27,LAL,,SAC,,D. DeRozan,SAC,DeRozan S.FOUL (P2.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0096,2,00:25.100000,LAL,,SAC,,D. DeRozan,SAC,SUB: Lyles FOR DeRozan,Substitution,,0,0,0,0,,,v
+S2425-G0096,3,11:02,LAL,,SAC,,D. DeRozan,SAC,DeRozan STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0096,3,06:05,LAL,,SAC,,D. DeRozan,SAC,DeRozan Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0096,3,04:41,LAL,74.0,SAC,80.0,D. DeRozan,SAC,DeRozan 13' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,76,105,13,1,2.0,2.0,v
+S2425-G0096,3,03:49,LAL,,SAC,,D. DeRozan,SAC,SUB: Fox FOR DeRozan,Substitution,,0,0,0,0,,,v
+S2425-G0096,4,11:04,LAL,,SAC,,D. DeRozan,SAC,MISS DeRozan 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,77,152,17,1,2.0,0.0,v
+S2425-G0096,4,07:09,LAL,110.0,SAC,99.0,D. DeRozan,SAC,DeRozan 4' Turnaround Bank Shot (12 PTS) (Sabonis 9 AST),Made Shot,Turnaround Bank shot,-42,16,4,1,2.0,2.0,v
+S2425-G0096,4,06:19,LAL,112.0,SAC,101.0,D. DeRozan,SAC,DeRozan 8' Driving Floating Jump Shot (14 PTS) (Murray 1 AST),Made Shot,Driving Floating Jump Shot,15,80,8,1,2.0,2.0,v
+S2425-G0096,4,06:19,LAL,112.0,SAC,102.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0096,4,05:24,LAL,116.0,SAC,104.0,D. DeRozan,SAC,DeRozan 22' Jump Shot (17 PTS) (Sabonis 10 AST),Made Shot,Jump Shot,22,220,22,1,2.0,2.0,v
+S2425-G0096,4,04:27,LAL,116.0,SAC,109.0,D. DeRozan,SAC,DeRozan 28' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,-62,273,28,1,3.0,3.0,v
+S2425-G0096,4,01:42,LAL,125.0,SAC,121.0,D. DeRozan,SAC,DeRozan 28' 3PT Jump Shot (23 PTS) (Fox 9 AST),Made Shot,Jump Shot,-50,271,28,1,3.0,3.0,v
+S2425-G0096,4,01:25,LAL,,SAC,,D. DeRozan,SAC,DeRozan STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0115,1,10:45,UTA,2.0,SAC,4.0,D. DeRozan,SAC,DeRozan 20' Jump Shot (2 PTS) (Sabonis 1 AST),Made Shot,Jump Shot,-83,183,20,1,2.0,2.0,v
+S2425-G0115,1,08:48,UTA,,SAC,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,1,08:46,UTA,8.0,SAC,11.0,D. DeRozan,SAC,DeRozan 7' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,56,48,7,1,2.0,2.0,v
+S2425-G0115,1,08:05,UTA,,SAC,,D. DeRozan,SAC,MISS DeRozan 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-104,63,12,1,2.0,0.0,v
+S2425-G0115,1,07:19,UTA,15.0,SAC,13.0,D. DeRozan,SAC,DeRozan 9' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,-75,43,9,1,2.0,2.0,v
+S2425-G0115,1,06:36,UTA,,SAC,,D. DeRozan,SAC,DeRozan STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0115,1,05:29,UTA,,SAC,,D. DeRozan,SAC,MISS DeRozan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-124,214,25,1,3.0,0.0,v
+S2425-G0115,1,03:03,UTA,,SAC,,D. DeRozan,SAC,SUB: Fox FOR DeRozan,Substitution,,0,0,0,0,,,v
+S2425-G0115,2,10:31,UTA,25.0,SAC,35.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0115,2,10:31,UTA,25.0,SAC,36.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0115,2,09:36,UTA,,SAC,,D. DeRozan,SAC,MISS DeRozan 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-37,126,13,1,2.0,0.0,v
+S2425-G0115,2,09:33,UTA,,SAC,,D. DeRozan,SAC,DeRozan Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0115,2,07:49,UTA,35.0,SAC,46.0,D. DeRozan,SAC,DeRozan 14' Turnaround Jump Shot (10 PTS) (Fox 5 AST),Made Shot,Turnaround Jump Shot,-135,30,14,1,2.0,2.0,v
+S2425-G0115,2,05:56,UTA,,SAC,,D. DeRozan,SAC,MISS DeRozan 10' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,-97,37,10,1,2.0,0.0,v
+S2425-G0115,2,05:05,UTA,,SAC,,D. DeRozan,SAC,DeRozan Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0115,2,03:07,UTA,,SAC,,D. DeRozan,SAC,DeRozan L.B.FOUL (P1.T4) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0115,3,10:25,UTA,58.0,SAC,65.0,D. DeRozan,SAC,DeRozan 15' Turnaround Jump Shot (12 PTS),Made Shot,Turnaround Jump Shot,31,147,15,1,2.0,2.0,v
+S2425-G0115,3,09:23,UTA,,SAC,,D. DeRozan,SAC,DeRozan BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0115,3,09:22,UTA,,SAC,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,3,08:55,UTA,,SAC,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,3,06:43,UTA,,SAC,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,3,03:56,UTA,,SAC,,D. DeRozan,SAC,SUB: Fox FOR DeRozan,Substitution,,0,0,0,0,,,v
+S2425-G0115,4,09:32,UTA,71.0,SAC,94.0,D. DeRozan,SAC,DeRozan 14' Turnaround Jump Shot (14 PTS),Made Shot,Turnaround Jump Shot,77,122,14,1,2.0,2.0,v
+S2425-G0115,4,07:49,UTA,73.0,SAC,98.0,D. DeRozan,SAC,DeRozan 12' Turnaround Fadeaway (16 PTS),Made Shot,Turnaround Fadeaway shot,121,12,12,1,2.0,2.0,v
+S2425-G0115,4,05:33,UTA,80.0,SAC,107.0,D. DeRozan,SAC,DeRozan 17' Jump Shot (18 PTS) (Monk 3 AST),Made Shot,Jump Shot,77,157,17,1,2.0,2.0,v
+S2425-G0115,4,04:30,UTA,83.0,SAC,109.0,D. DeRozan,SAC,DeRozan 20' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,-45,196,20,1,2.0,2.0,v
+S2425-G0115,4,04:30,UTA,,SAC,,D. DeRozan,SAC,MISS DeRozan Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0115,4,03:48,UTA,,SAC,,D. DeRozan,SAC,MISS DeRozan 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,188,22,1,2.0,0.0,v
+S2425-G0115,4,03:36,UTA,,SAC,,D. DeRozan,SAC,SUB: McDermott FOR DeRozan,Substitution,,0,0,0,0,,,v
+S2425-G0076,1,11:26,SAC,3.0,MIN,0.0,D. DeRozan,SAC,DeRozan 1' Running Layup (2 PTS) (Fox 1 AST),Made Shot,Running Layup Shot,-2,8,1,1,2.0,2.0,h
+S2425-G0076,1,10:58,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 3PT Jump Shot,Missed Shot,Jump Shot,-230,8,0,1,3.0,0.0,h
+S2425-G0076,1,10:56,SAC,,MIN,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,1,09:38,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,88,155,18,1,2.0,0.0,h
+S2425-G0076,1,06:18,SAC,,MIN,,D. DeRozan,SAC,DeRozan STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0076,1,05:29,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 16' Jump Shot,Missed Shot,Jump Shot,92,132,16,1,2.0,0.0,h
+S2425-G0076,1,03:29,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0076,1,03:29,SAC,22.0,MIN,16.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,1,03:06,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0076,1,03:06,SAC,23.0,MIN,19.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,1,02:21,SAC,,MIN,,D. DeRozan,SAC,DeRozan Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0076,1,02:21,SAC,,MIN,,D. DeRozan,SAC,SUB: Fox FOR DeRozan,Substitution,,0,0,0,0,,,h
+S2425-G0076,2,11:23,SAC,34.0,MIN,29.0,D. DeRozan,SAC,DeRozan 16' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-25,160,16,1,2.0,2.0,h
+S2425-G0076,2,08:02,SAC,43.0,MIN,37.0,D. DeRozan,SAC,DeRozan 2' Driving Reverse Layup (8 PTS) (Monk 1 AST),Made Shot,Driving Reverse Layup Shot,17,13,2,1,2.0,2.0,h
+S2425-G0076,2,07:42,SAC,44.0,MIN,40.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,2,07:42,SAC,45.0,MIN,40.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,2,07:13,SAC,,MIN,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,2,07:08,SAC,47.0,MIN,40.0,D. DeRozan,SAC,DeRozan 18' Running Pull-Up Jump Shot (12 PTS),Made Shot,Running Pull-Up Jump Shot,65,168,18,1,2.0,2.0,h
+S2425-G0076,2,06:36,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,109,92,14,1,2.0,0.0,h
+S2425-G0076,2,04:37,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 4' Running Layup,Missed Shot,Running Layup Shot,-2,39,4,1,2.0,0.0,h
+S2425-G0076,2,04:34,SAC,50.0,MIN,45.0,D. DeRozan,SAC,DeRozan 8' Fadeaway Jumper (14 PTS) (Fox 4 AST),Made Shot,Fadeaway Jump Shot,49,64,8,1,2.0,2.0,h
+S2425-G0076,2,00:01.400000,SAC,,MIN,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,2,00:01,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 59' 3PT Jump Shot,Missed Shot,Jump Shot,-135,572,59,1,3.0,0.0,h
+S2425-G0076,3,09:08,SAC,71.0,MIN,64.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,3,09:08,SAC,72.0,MIN,64.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,3,06:22,SAC,80.0,MIN,69.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,3,06:22,SAC,81.0,MIN,69.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,3,05:08,SAC,,MIN,,D. DeRozan,SAC,DeRozan Traveling Turnover (P2.T8),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0076,3,03:07,SAC,,MIN,,D. DeRozan,SAC,SUB: Fox FOR DeRozan,Substitution,,0,0,0,0,,,h
+S2425-G0076,4,11:04,SAC,,MIN,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,4,09:23,SAC,94.0,MIN,91.0,D. DeRozan,SAC,DeRozan 21' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,-115,176,21,1,2.0,2.0,h
+S2425-G0076,4,08:38,SAC,98.0,MIN,94.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,4,08:38,SAC,99.0,MIN,94.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,4,07:33,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,83,121,15,1,2.0,0.0,h
+S2425-G0076,4,07:11,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-78,38,9,1,2.0,0.0,h
+S2425-G0076,4,06:28,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 10' Driving Layup,Missed Shot,Driving Layup Shot,80,61,10,1,2.0,0.0,h
+S2425-G0076,4,05:57,SAC,100.0,MIN,105.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,4,05:57,SAC,101.0,MIN,105.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,4,03:48,SAC,,MIN,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,4,02:38,SAC,111.0,MIN,112.0,D. DeRozan,SAC,DeRozan 4' Driving Reverse Layup (26 PTS),Made Shot,Driving Reverse Layup Shot,33,14,4,1,2.0,2.0,h
+S2425-G0076,4,02:21,SAC,,MIN,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,4,01:37,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 11' Jump Bank Shot,Missed Shot,Jump Bank Shot,100,41,11,1,2.0,0.0,h
+S2425-G0076,4,01:14,SAC,,MIN,,D. DeRozan,SAC,MISS DeRozan 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,118,4,12,1,2.0,0.0,h
+S2425-G0076,4,01:01,SAC,,MIN,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,4,00:36,SAC,,MIN,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,1,11:41,SAC,,POR,,D. DeRozan,SAC,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,1,10:09,SAC,,POR,,D. DeRozan,SAC,DeRozan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,1,10:01,SAC,,POR,,D. DeRozan,SAC,MISS DeRozan 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-113,117,16,1,2.0,0.0,h
+S2425-G0112,1,07:23,SAC,9.0,POR,4.0,D. DeRozan,SAC,DeRozan 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-21,11,2,1,2.0,2.0,h
+S2425-G0112,1,07:23,SAC,10.0,POR,4.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,05:38,SAC,,POR,,D. DeRozan,SAC,DeRozan P.FOUL (P1.T2) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2425-G0112,1,04:43,SAC,16.0,POR,8.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,04:43,SAC,17.0,POR,8.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,04:11,SAC,,POR,,D. DeRozan,SAC,MISS DeRozan 6' Driving Layup,Missed Shot,Driving Layup Shot,58,29,6,1,2.0,0.0,h
+S2425-G0112,1,03:30,SAC,,POR,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,1,03:17,SAC,,POR,,D. DeRozan,SAC,SUB: Fox FOR DeRozan,Substitution,,0,0,0,0,,,h
+S2425-G0112,2,10:20,SAC,,POR,,D. DeRozan,SAC,MISS DeRozan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0112,2,10:20,SAC,28.0,POR,22.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,2,09:19,SAC,,POR,,D. DeRozan,SAC,MISS DeRozan 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-110,20,11,1,2.0,0.0,h
+S2425-G0112,2,08:54,SAC,29.0,POR,27.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,2,08:54,SAC,30.0,POR,27.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,2,07:47,SAC,32.0,POR,29.0,D. DeRozan,SAC,DeRozan 8' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,10,84,8,1,2.0,2.0,h
+S2425-G0112,2,07:47,SAC,33.0,POR,29.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0112,2,07:28,SAC,,POR,,D. DeRozan,SAC,DeRozan STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0112,2,07:07,SAC,,POR,,D. DeRozan,SAC,DeRozan STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0112,2,05:42,SAC,39.0,POR,32.0,D. DeRozan,SAC,DeRozan Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,2,05:42,SAC,40.0,POR,32.0,D. DeRozan,SAC,DeRozan Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,2,05:10,SAC,42.0,POR,34.0,D. DeRozan,SAC,DeRozan 20' Pullup Jump Shot (15 PTS) (Fox 1 AST),Made Shot,Pullup Jump shot,-51,198,20,1,2.0,2.0,h
+S2425-G0112,2,04:43,SAC,,POR,,D. DeRozan,SAC,SUB: Murray FOR DeRozan,Substitution,,0,0,0,0,,,h
+S2425-G0112,2,03:20,SAC,44.0,POR,38.0,D. DeRozan,SAC,DeRozan 13' Turnaround Fadeaway (17 PTS) (Huerter 3 AST),Made Shot,Turnaround Fadeaway shot,-127,8,13,1,2.0,2.0,h
+S2425-G0112,2,00:00,SAC,51.0,POR,43.0,D. DeRozan,SAC,DeRozan 15' Jump Shot (19 PTS),Made Shot,Jump Shot,-146,8,15,1,2.0,2.0,h
+S2425-G0112,3,11:22,SAC,,POR,,D. DeRozan,SAC,DeRozan Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0112,3,09:31,SAC,,POR,,D. DeRozan,SAC,MISS DeRozan 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,82,128,15,1,2.0,0.0,h
+S2425-G0112,3,08:57,SAC,,POR,,D. DeRozan,SAC,DeRozan STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0112,3,08:36,SAC,,POR,,D. DeRozan,SAC,MISS DeRozan 24' 3PT Jump Shot,Missed Shot,Jump Shot,-227,85,24,1,3.0,0.0,h
+S2425-G0112,3,05:07,SAC,,POR,,D. DeRozan,SAC,DeRozan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,3,04:58,SAC,72.0,POR,58.0,D. DeRozan,SAC,DeRozan 12' Turnaround Fadeaway (21 PTS),Made Shot,Turnaround Fadeaway shot,105,54,12,1,2.0,2.0,h
+S2425-G0112,3,02:30,SAC,,POR,,D. DeRozan,SAC,MISS DeRozan 4' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,36,21,4,1,2.0,0.0,h
+S2425-G0112,3,01:46,SAC,,POR,,D. DeRozan,SAC,SUB: Murray FOR DeRozan,Substitution,,0,0,0,0,,,h
+S2425-G0112,4,05:50,SAC,,POR,,D. DeRozan,SAC,MISS DeRozan 19' Jump Shot,Missed Shot,Jump Shot,125,137,19,1,2.0,0.0,h
+S2425-G0112,4,03:34,SAC,105.0,POR,88.0,D. DeRozan,SAC,DeRozan 14' Fadeaway Jumper (23 PTS),Made Shot,Fadeaway Jump Shot,136,10,14,1,2.0,2.0,h
+S2425-G0112,4,02:49,SAC,,POR,,D. DeRozan,SAC,SUB: McDermott FOR DeRozan,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,113 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0068,1,11:42,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 26' 3PT Jump Shot,Missed Shot,Jump Shot,-134,218,26,1,3.0,0.0,h
+S2425-G0068,1,09:59,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,91,131,16,1,2.0,0.0,h
+S2425-G0068,1,08:30,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,77,251,26,1,3.0,0.0,h
+S2425-G0068,1,07:02,HOU,,CHA,,F. VanVleet,HOU,VanVleet Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0068,1,04:23,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 35' 3PT Jump Shot,Missed Shot,Jump Shot,10,347,35,1,3.0,0.0,h
+S2425-G0068,1,03:16,HOU,,CHA,,F. VanVleet,HOU,VanVleet REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0068,1,02:48,HOU,,CHA,,F. VanVleet,HOU,SUB: Ja. Green FOR VanVleet,Substitution,,0,0,0,0,,,h
+S2425-G0068,2,07:54,HOU,,CHA,,F. VanVleet,HOU,VanVleet REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0068,2,07:29,HOU,,CHA,,F. VanVleet,HOU,VanVleet STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0068,2,07:25,HOU,42.0,CHA,31.0,F. VanVleet,HOU,VanVleet 1' Running Reverse Layup (2 PTS) (Sheppard 3 AST),Made Shot,Running Reverse Layup Shot,13,7,1,1,2.0,2.0,h
+S2425-G0068,2,06:59,HOU,,CHA,,F. VanVleet,HOU,VanVleet STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0068,2,06:57,HOU,,CHA,,F. VanVleet,HOU,VanVleet Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0068,2,04:36,HOU,50.0,CHA,35.0,F. VanVleet,HOU,VanVleet 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,26,21,3,1,2.0,2.0,h
+S2425-G0068,2,04:00,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 4' Driving Layup,Missed Shot,Driving Layup Shot,-21,31,4,1,2.0,0.0,h
+S2425-G0068,2,02:43,HOU,,CHA,,F. VanVleet,HOU,VanVleet REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0068,2,02:17,HOU,,CHA,,F. VanVleet,HOU,VanVleet P.FOUL (P1.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0068,3,06:46,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-136,210,25,1,3.0,0.0,h
+S2425-G0068,3,05:16,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,173,189,26,1,3.0,0.0,h
+S2425-G0068,3,04:10,HOU,76.0,CHA,67.0,F. VanVleet,HOU,VanVleet Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0068,3,04:10,HOU,77.0,CHA,67.0,F. VanVleet,HOU,VanVleet Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0068,3,03:30,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,297,30,1,3.0,0.0,h
+S2425-G0068,3,02:53,HOU,,CHA,,F. VanVleet,HOU,SUB: Ja. Green FOR VanVleet,Substitution,,0,0,0,0,,,h
+S2425-G0068,4,07:49,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,122,14,1,2.0,0.0,h
+S2425-G0068,4,07:20,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-147,200,25,1,3.0,0.0,h
+S2425-G0068,4,07:08,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 3' Driving Layup,Missed Shot,Driving Layup Shot,23,15,3,1,2.0,0.0,h
+S2425-G0068,4,06:33,HOU,,CHA,,F. VanVleet,HOU,VanVleet REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0068,4,05:59,HOU,93.0,CHA,91.0,F. VanVleet,HOU,VanVleet 26' 3PT Jump Shot (9 PTS) (Sengun 3 AST),Made Shot,Jump Shot,-1,261,26,1,3.0,3.0,h
+S2425-G0068,4,05:26,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,11,3,1,2.0,0.0,h
+S2425-G0068,4,03:38,HOU,96.0,CHA,93.0,F. VanVleet,HOU,VanVleet 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,121,224,25,1,3.0,3.0,h
+S2425-G0068,4,03:07,HOU,97.0,CHA,96.0,F. VanVleet,HOU,VanVleet Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0068,4,03:07,HOU,98.0,CHA,96.0,F. VanVleet,HOU,VanVleet Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0068,4,01:57,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,18,253,25,1,3.0,0.0,h
+S2425-G0068,4,00:01,HOU,,CHA,,F. VanVleet,HOU,MISS VanVleet 46' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,87,447,46,1,3.0,0.0,h
+S2425-G0109,1,11:06,SAS,,HOU,,F. VanVleet,HOU,VanVleet REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,1,10:15,SAS,1.0,HOU,7.0,F. VanVleet,HOU,VanVleet 22' Pullup Jump Shot (2 PTS) (Sengun 1 AST),Made Shot,Pullup Jump shot,102,191,22,1,2.0,2.0,v
+S2425-G0109,1,07:45,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,150,206,25,1,3.0,0.0,v
+S2425-G0109,1,07:36,SAS,,HOU,,F. VanVleet,HOU,VanVleet STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0109,1,05:41,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 25' 3PT Jump Shot,Missed Shot,Jump Shot,-173,181,25,1,3.0,0.0,v
+S2425-G0109,1,05:40,SAS,,HOU,,F. VanVleet,HOU,SUB: Eason FOR VanVleet,Substitution,,0,0,0,0,,,v
+S2425-G0109,1,01:58,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,127,13,1,2.0,0.0,v
+S2425-G0109,1,00:57.100000,SAS,15.0,HOU,24.0,F. VanVleet,HOU,VanVleet 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-72,246,26,1,3.0,3.0,v
+S2425-G0109,1,00:03.500000,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 18' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,178,18,1,2.0,0.0,v
+S2425-G0109,2,11:18,SAS,,HOU,,F. VanVleet,HOU,VanVleet S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0109,2,07:50,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,42,168,17,1,2.0,0.0,v
+S2425-G0109,2,07:19,SAS,,HOU,,F. VanVleet,HOU,SUB: Ja. Green FOR VanVleet,Substitution,,0,0,0,0,,,v
+S2425-G0109,2,05:14,SAS,,HOU,,F. VanVleet,HOU,VanVleet REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,3,11:00,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-27,256,26,1,3.0,0.0,v
+S2425-G0109,3,05:31,SAS,,HOU,,F. VanVleet,HOU,VanVleet STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0109,3,05:24,SAS,,HOU,,F. VanVleet,HOU,SUB: Thompson FOR VanVleet,Substitution,,0,0,0,0,,,v
+S2425-G0109,3,02:08,SAS,65.0,HOU,83.0,F. VanVleet,HOU,VanVleet 24' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-83,230,24,1,3.0,3.0,v
+S2425-G0109,3,00:39,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,135,224,26,1,3.0,0.0,v
+S2425-G0109,3,00:06.500000,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,82,69,11,1,2.0,0.0,v
+S2425-G0109,4,07:15,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,31,52,6,1,2.0,0.0,v
+S2425-G0109,4,07:15,SAS,,HOU,,F. VanVleet,HOU,VanVleet P.FOUL (P2.T3) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2425-G0109,4,06:59,SAS,,HOU,,F. VanVleet,HOU,VanVleet REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,4,03:17,SAS,,HOU,,F. VanVleet,HOU,VanVleet S.FOUL (P3.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2425-G0109,4,01:14,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,173,222,28,1,3.0,0.0,v
+S2425-G0109,4,00:18.400000,SAS,99.0,HOU,104.0,F. VanVleet,HOU,VanVleet 25' 3PT Jump Shot (11 PTS) (Ja. Green 2 AST),Made Shot,Jump Shot,-36,248,25,1,3.0,3.0,v
+S2425-G0082,1,11:42,HOU,,MEM,,F. VanVleet,HOU,VanVleet REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0082,1,10:07,HOU,7.0,MEM,5.0,F. VanVleet,HOU,VanVleet 25' 3PT Pullup Jump Shot (3 PTS) (Sengun 1 AST),Made Shot,Pullup Jump shot,62,246,25,1,3.0,3.0,h
+S2425-G0082,1,08:50,HOU,,MEM,,F. VanVleet,HOU,VanVleet S.FOUL (P1.T3) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2425-G0082,1,07:45,HOU,,MEM,,F. VanVleet,HOU,VanVleet REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0082,1,06:14,HOU,,MEM,,F. VanVleet,HOU,VanVleet S.FOUL (P2.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0082,1,06:03,HOU,21.0,MEM,15.0,F. VanVleet,HOU,VanVleet 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,16,252,25,1,3.0,3.0,h
+S2425-G0082,1,05:41,HOU,,MEM,,F. VanVleet,HOU,MISS VanVleet 3PT Jump Shot,Missed Shot,Jump Shot,-234,5,0,1,3.0,0.0,h
+S2425-G0082,1,04:54,HOU,,MEM,,F. VanVleet,HOU,MISS VanVleet 3PT Jump Shot,Missed Shot,Jump Shot,-234,11,0,1,3.0,0.0,h
+S2425-G0082,1,04:54,HOU,,MEM,,F. VanVleet,HOU,SUB: Thompson FOR VanVleet,Substitution,,0,0,0,0,,,h
+S2425-G0082,1,00:45.900000,HOU,36.0,MEM,35.0,F. VanVleet,HOU,VanVleet 28' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,146,237,28,1,3.0,3.0,h
+S2425-G0082,2,06:51,HOU,41.0,MEM,50.0,F. VanVleet,HOU,VanVleet Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0082,2,06:51,HOU,,MEM,,F. VanVleet,HOU,MISS VanVleet Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0082,2,01:05,HOU,,MEM,,F. VanVleet,HOU,VanVleet L.B.FOUL (P3.T4) (D.Guthrie),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0082,2,01:05,HOU,,MEM,,F. VanVleet,HOU,SUB: Eason FOR VanVleet,Substitution,,0,0,0,0,,,h
+S2425-G0082,3,11:47,HOU,,MEM,,F. VanVleet,HOU,MISS VanVleet 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-112,233,26,1,3.0,0.0,h
+S2425-G0082,3,08:54,HOU,,MEM,,F. VanVleet,HOU,VanVleet S.FOUL (P4.T1) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2425-G0082,3,08:54,HOU,,MEM,,F. VanVleet,HOU,SUB: Thompson FOR VanVleet,Substitution,,0,0,0,0,,,h
+S2425-G0082,4,10:45,HOU,,MEM,,F. VanVleet,HOU,VanVleet REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0082,4,10:27,HOU,,MEM,,F. VanVleet,HOU,VanVleet STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0082,4,08:31,HOU,,MEM,,F. VanVleet,HOU,MISS VanVleet 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-89,253,27,1,3.0,0.0,h
+S2425-G0082,4,07:34,HOU,,MEM,,F. VanVleet,HOU,MISS VanVleet Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0082,4,07:34,HOU,,MEM,,F. VanVleet,HOU,MISS VanVleet Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0082,4,05:07,HOU,118.0,MEM,99.0,F. VanVleet,HOU,VanVleet 26' 3PT Jump Shot (13 PTS) (Smith Jr. 4 AST),Made Shot,Jump Shot,-158,205,26,1,3.0,3.0,h
+S2425-G0082,4,04:04,HOU,123.0,MEM,102.0,F. VanVleet,HOU,VanVleet 26' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,-173,199,26,1,3.0,3.0,h
+S2425-G0082,4,02:13,HOU,,MEM,,F. VanVleet,HOU,SUB: Sheppard FOR VanVleet,Substitution,,0,0,0,0,,,h
+S2425-G0094,1,09:19,SAS,8.0,HOU,9.0,F. VanVleet,HOU,VanVleet 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,123,218,25,1,3.0,3.0,v
+S2425-G0094,1,08:15,SAS,11.0,HOU,12.0,F. VanVleet,HOU,VanVleet 28' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-161,223,28,1,3.0,3.0,v
+S2425-G0094,1,06:38,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,76,241,25,1,3.0,0.0,v
+S2425-G0094,1,06:03,SAS,,HOU,,F. VanVleet,HOU,SUB: Eason FOR VanVleet,Substitution,,0,0,0,0,,,v
+S2425-G0094,1,00:33.600000,SAS,,HOU,,F. VanVleet,HOU,VanVleet Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0094,1,00:18.700000,SAS,,HOU,,F. VanVleet,HOU,VanVleet REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0094,2,06:46,SAS,,HOU,,F. VanVleet,HOU,VanVleet Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0094,2,06:23,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 29' 3PT Jump Shot,Missed Shot,Jump Shot,56,281,29,1,3.0,0.0,v
+S2425-G0094,2,01:33,SAS,,HOU,,F. VanVleet,HOU,VanVleet STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0094,2,01:27,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-186,223,29,1,3.0,0.0,v
+S2425-G0094,2,00:46.500000,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,95,10,1,2.0,0.0,v
+S2425-G0094,3,11:26,SAS,62.0,HOU,42.0,F. VanVleet,HOU,VanVleet Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0094,3,10:45,SAS,,HOU,,F. VanVleet,HOU,VanVleet REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0094,3,10:43,SAS,62.0,HOU,46.0,F. VanVleet,HOU,VanVleet Free Throw 1 of 3 (8 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0094,3,10:43,SAS,62.0,HOU,47.0,F. VanVleet,HOU,VanVleet Free Throw 2 of 3 (9 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0094,3,10:43,SAS,62.0,HOU,48.0,F. VanVleet,HOU,VanVleet Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0094,3,07:42,SAS,,HOU,,F. VanVleet,HOU,VanVleet P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2425-G0094,3,06:29,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 25' 3PT Jump Shot,Missed Shot,Jump Shot,-205,138,25,1,3.0,0.0,v
+S2425-G0094,3,04:41,SAS,,HOU,,F. VanVleet,HOU,SUB: Eason FOR VanVleet,Substitution,,0,0,0,0,,,v
+S2425-G0094,3,02:01,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,224,25,1,3.0,0.0,v
+S2425-G0094,4,11:18,SAS,,HOU,,F. VanVleet,HOU,VanVleet STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0094,4,10:18,SAS,90.0,HOU,74.0,F. VanVleet,HOU,VanVleet 24' 3PT Jump Shot (13 PTS) (Eason 2 AST),Made Shot,Jump Shot,-240,-12,24,1,3.0,3.0,v
+S2425-G0094,4,08:13,SAS,93.0,HOU,84.0,F. VanVleet,HOU,VanVleet 26' 3PT Step Back Jump Shot (16 PTS) (Ja. Green 3 AST),Made Shot,Step Back Jump shot,64,250,26,1,3.0,3.0,v
+S2425-G0094,4,06:10,SAS,,HOU,,F. VanVleet,HOU,VanVleet P.FOUL (P2.T3) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2425-G0094,4,02:26,SAS,,HOU,,F. VanVleet,HOU,MISS VanVleet 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,181,190,26,1,3.0,0.0,v
+S2425-G0094,4,02:11,SAS,,HOU,,F. VanVleet,HOU,VanVleet P.FOUL (P3.PN) (B.Haskill),Foul,Personal,0,0,0,0,,,v
+S2425-G0094,4,00:25.600000,SAS,,HOU,,F. VanVleet,HOU,VanVleet STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0094,4,00:11.600000,SAS,,HOU,,F. VanVleet,HOU,SUB: Thompson FOR VanVleet,Substitution,,0,0,0,0,,,v
+S2425-G0094,4,00:07.800000,SAS,108.0,HOU,106.0,F. VanVleet,HOU,VanVleet 2' Driving Finger Roll Layup (18 PTS) (Brooks 1 AST),Made Shot,Driving Finger Roll Layup Shot,-7,20,2,1,2.0,2.0,v

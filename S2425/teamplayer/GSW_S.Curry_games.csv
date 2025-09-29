@@ -1,0 +1,98 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0101,1,11:32,GSW,3.0,LAC,0.0,S. Curry,GSW,Curry 24' 3PT Jump Shot (3 PTS) (Jackson-Davis 1 AST),Made Shot,Jump Shot,239,52,24,1,3.0,3.0,h
+S2425-G0101,1,09:43,GSW,,LAC,,S. Curry,GSW,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,1,09:00,GSW,,LAC,,S. Curry,GSW,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0101,1,08:19,GSW,15.0,LAC,11.0,S. Curry,GSW,Curry 28' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,-16,277,28,1,3.0,3.0,h
+S2425-G0101,1,06:41,GSW,,LAC,,S. Curry,GSW,Curry BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0101,1,04:53,GSW,,LAC,,S. Curry,GSW,Curry OFF.Foul (P1) (C.Kirkland),Foul,Offensive,0,0,0,0,,,h
+S2425-G0101,1,04:53,GSW,,LAC,,S. Curry,GSW,Curry Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0101,1,03:26,GSW,,LAC,,S. Curry,GSW,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,-221,85,24,1,3.0,0.0,h
+S2425-G0101,1,03:02,GSW,,LAC,,S. Curry,GSW,SUB: Melton FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0101,2,07:40,GSW,,LAC,,S. Curry,GSW,Curry STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0101,2,03:49,GSW,,LAC,,S. Curry,GSW,Curry Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0101,2,03:37,GSW,,LAC,,S. Curry,GSW,MISS Curry 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,16,306,31,1,3.0,0.0,h
+S2425-G0101,2,01:39,GSW,50.0,LAC,56.0,S. Curry,GSW,Curry 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-28,260,26,1,3.0,3.0,h
+S2425-G0101,2,01:17,GSW,,LAC,,S. Curry,GSW,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,2,01:13,GSW,51.0,LAC,56.0,S. Curry,GSW,Curry Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0101,2,01:13,GSW,52.0,LAC,56.0,S. Curry,GSW,Curry Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0101,2,00:04.900000,GSW,,LAC,,S. Curry,GSW,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,2,00:01.600000,GSW,,LAC,,S. Curry,GSW,MISS Curry 43' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,15,425,43,1,3.0,0.0,h
+S2425-G0101,3,11:38,GSW,,LAC,,S. Curry,GSW,Curry Bad Pass Turnover (P4.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0101,3,10:40,GSW,,LAC,,S. Curry,GSW,Curry Bad Pass Turnover (P5.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0101,3,09:39,GSW,,LAC,,S. Curry,GSW,Curry REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,3,09:34,GSW,60.0,LAC,65.0,S. Curry,GSW,Curry 3' Running Finger Roll Layup (13 PTS),Made Shot,Running Finger Roll Layup Shot,-11,29,3,1,2.0,2.0,h
+S2425-G0101,3,09:09,GSW,62.0,LAC,67.0,S. Curry,GSW,Curry 10' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,51,84,10,1,2.0,2.0,h
+S2425-G0101,3,07:29,GSW,,LAC,,S. Curry,GSW,Curry STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0101,3,07:26,GSW,,LAC,,S. Curry,GSW,MISS Curry 3' Running Layup,Missed Shot,Running Layup Shot,29,15,3,1,2.0,0.0,h
+S2425-G0101,3,05:54,GSW,,LAC,,S. Curry,GSW,MISS Curry 4' Driving Layup,Missed Shot,Driving Layup Shot,32,23,4,1,2.0,0.0,h
+S2425-G0101,3,05:35,GSW,,LAC,,S. Curry,GSW,Curry Out of Bounds - Bad Pass Turnover Turnover (P6.T18),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0101,3,04:19,GSW,72.0,LAC,74.0,S. Curry,GSW,Curry 25' 3PT Pullup Jump Shot (18 PTS) (Looney 1 AST),Made Shot,Pullup Jump shot,202,153,25,1,3.0,3.0,h
+S2425-G0101,3,02:43,GSW,,LAC,,S. Curry,GSW,SUB: Melton FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0101,4,07:55,GSW,,LAC,,S. Curry,GSW,SUB: Wiggins FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0072,1,10:18,POR,,GSW,,S. Curry,GSW,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,-1,257,26,1,3.0,0.0,v
+S2425-G0072,1,09:59,POR,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,09:33,POR,8.0,GSW,2.0,S. Curry,GSW,Curry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,1,09:33,POR,8.0,GSW,3.0,S. Curry,GSW,Curry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,1,09:00,POR,,GSW,,S. Curry,GSW,MISS Curry 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,223,29,0,1,3.0,0.0,v
+S2425-G0072,1,07:42,POR,,GSW,,S. Curry,GSW,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,99,239,26,1,3.0,0.0,v
+S2425-G0072,1,07:17,POR,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,06:30,POR,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,04:34,POR,,GSW,,S. Curry,GSW,MISS Curry 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,23,8,2,1,2.0,0.0,v
+S2425-G0072,1,03:28,POR,18.0,GSW,14.0,S. Curry,GSW,Curry Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,1,03:28,POR,18.0,GSW,15.0,S. Curry,GSW,Curry Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,1,03:19,POR,,GSW,,S. Curry,GSW,SUB: Melton FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0072,2,06:52,POR,,GSW,,S. Curry,GSW,Curry STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0072,2,06:38,POR,,GSW,,S. Curry,GSW,MISS Curry 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,16,13,2,1,2.0,0.0,v
+S2425-G0072,2,06:19,POR,,GSW,,S. Curry,GSW,Curry STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0072,2,03:38,POR,40.0,GSW,46.0,S. Curry,GSW,Curry 2' Cutting Layup Shot (6 PTS) (Jackson-Davis 1 AST),Made Shot,Cutting Layup Shot,13,13,2,1,2.0,2.0,v
+S2425-G0072,2,02:30,POR,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,01:09,POR,48.0,GSW,57.0,S. Curry,GSW,Curry Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,2,01:09,POR,48.0,GSW,58.0,S. Curry,GSW,Curry Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,2,00:10,POR,,GSW,,S. Curry,GSW,SUB: Looney FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0072,2,00:03,POR,,GSW,,S. Curry,GSW,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,224,111,25,1,3.0,0.0,v
+S2425-G0072,3,11:47,POR,50.0,GSW,65.0,S. Curry,GSW,Curry 25' 3PT Jump Shot (11 PTS) (Green 1 AST),Made Shot,Jump Shot,201,151,25,1,3.0,3.0,v
+S2425-G0072,3,10:18,POR,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,10:00,POR,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,09:37,POR,,GSW,,S. Curry,GSW,Curry Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0072,3,09:16,POR,,GSW,,S. Curry,GSW,Curry Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0072,3,07:44,POR,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,06:36,POR,63.0,GSW,77.0,S. Curry,GSW,Curry 27' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,119,240,27,1,3.0,3.0,v
+S2425-G0072,3,06:20,POR,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,05:36,POR,63.0,GSW,83.0,S. Curry,GSW,Curry 3PT Jump Shot (17 PTS) (Green 3 AST),Made Shot,Jump Shot,-230,9,0,1,3.0,3.0,v
+S2425-G0072,3,04:02,POR,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,04:00,POR,,GSW,,S. Curry,GSW,SUB: Melton FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0084,1,11:24,UTA,3.0,GSW,2.0,S. Curry,GSW,Curry 2' Cutting Layup Shot (2 PTS) (Jackson-Davis 1 AST),Made Shot,Cutting Layup Shot,17,18,2,1,2.0,2.0,v
+S2425-G0084,1,10:54,UTA,,GSW,,S. Curry,GSW,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,51,251,26,1,3.0,0.0,v
+S2425-G0084,1,09:28,UTA,,GSW,,S. Curry,GSW,Curry Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0084,1,07:57,UTA,,GSW,,S. Curry,GSW,MISS Curry 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-143,211,25,1,3.0,0.0,v
+S2425-G0084,1,07:00,UTA,,GSW,,S. Curry,GSW,Curry P.FOUL (P1.T3) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2425-G0084,1,05:01,UTA,,GSW,,S. Curry,GSW,MISS Curry 28' 3PT Jump Shot,Missed Shot,Jump Shot,-172,225,28,1,3.0,0.0,v
+S2425-G0084,1,04:41,UTA,,GSW,,S. Curry,GSW,MISS Curry 5' Running Layup,Missed Shot,Running Layup Shot,43,33,5,1,2.0,0.0,v
+S2425-G0084,1,04:36,UTA,,GSW,,S. Curry,GSW,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,10,24,1,3.0,0.0,v
+S2425-G0084,1,03:49,UTA,19.0,GSW,19.0,S. Curry,GSW,Curry 26' 3PT Step Back Jump Shot (5 PTS) (Hield 1 AST),Made Shot,Step Back Jump shot,-207,157,26,1,3.0,3.0,v
+S2425-G0084,1,02:54,UTA,21.0,GSW,22.0,S. Curry,GSW,Curry Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0084,1,02:54,UTA,21.0,GSW,23.0,S. Curry,GSW,Curry Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0084,1,01:52,UTA,,GSW,,S. Curry,GSW,SUB: Melton FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0084,2,06:14,UTA,,GSW,,S. Curry,GSW,MISS Curry 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,-7,44,4,1,2.0,0.0,v
+S2425-G0084,2,04:55,UTA,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,03:01,UTA,,GSW,,S. Curry,GSW,Curry Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0084,2,00:30.200000,UTA,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,00:00.800000,UTA,,GSW,,S. Curry,GSW,MISS Curry 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,68,7,1,2.0,0.0,v
+S2425-G0084,3,11:50,UTA,42.0,GSW,59.0,S. Curry,GSW,Curry 26' 3PT Jump Shot (10 PTS) (Green 3 AST),Made Shot,Jump Shot,235,105,26,1,3.0,3.0,v
+S2425-G0084,3,11:10,UTA,,GSW,,S. Curry,GSW,Curry OFF.Foul (P2) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2425-G0084,3,11:10,UTA,,GSW,,S. Curry,GSW,Curry Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0084,3,10:21,UTA,,GSW,,S. Curry,GSW,Curry STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0084,3,10:10,UTA,45.0,GSW,64.0,S. Curry,GSW,Curry 18' Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,162,77,18,1,2.0,2.0,v
+S2425-G0084,3,09:31,UTA,,GSW,,S. Curry,GSW,MISS Curry 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-32,21,4,1,2.0,0.0,v
+S2425-G0084,3,09:18,UTA,,GSW,,S. Curry,GSW,Curry STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0084,3,08:44,UTA,47.0,GSW,72.0,S. Curry,GSW,Curry 3PT Jump Shot (15 PTS) (Green 4 AST),Made Shot,Jump Shot,-232,-2,0,1,3.0,3.0,v
+S2425-G0084,3,07:38,UTA,,GSW,,S. Curry,GSW,MISS Curry 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,172,219,28,1,3.0,0.0,v
+S2425-G0084,3,07:05,UTA,50.0,GSW,78.0,S. Curry,GSW,Curry 14' Fadeaway Jumper (17 PTS),Made Shot,Fadeaway Jump Shot,-34,136,14,1,2.0,2.0,v
+S2425-G0084,3,06:50,UTA,,GSW,,S. Curry,GSW,Curry P.FOUL (P3.T3) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2425-G0084,3,06:29,UTA,,GSW,,S. Curry,GSW,MISS Curry 27' 3PT Jump Shot,Missed Shot,Jump Shot,189,198,27,1,3.0,0.0,v
+S2425-G0084,3,04:09,UTA,,GSW,,S. Curry,GSW,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,56,24,1,3.0,0.0,v
+S2425-G0084,3,03:43,UTA,,GSW,,S. Curry,GSW,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,03:28,UTA,,GSW,,S. Curry,GSW,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,-223,3,0,1,3.0,0.0,v
+S2425-G0084,3,02:24,UTA,60.0,GSW,91.0,S. Curry,GSW,Curry 28' 3PT Jump Shot (20 PTS) (Hield 6 AST),Made Shot,Jump Shot,205,185,28,1,3.0,3.0,v
+S2425-G0084,3,02:02,UTA,,GSW,,S. Curry,GSW,MISS Curry 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,188,197,27,1,3.0,0.0,v
+S2425-G0084,3,01:52,UTA,,GSW,,S. Curry,GSW,SUB: Melton FOR Curry,Substitution,,0,0,0,0,,,v

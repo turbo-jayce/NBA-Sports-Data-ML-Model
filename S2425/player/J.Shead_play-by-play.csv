@@ -1,0 +1,89 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,1,04:13,TOR,,PHI,,J. Shead,TOR,Shead Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0078,1,03:31,TOR,,PHI,,J. Shead,TOR,MISS Shead 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,110,11,1,2.0,0.0,h
+S2425-G0078,1,00:32.600000,TOR,,PHI,,J. Shead,TOR,Shead Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0078,2,11:43,TOR,32.0,PHI,31.0,J. Shead,TOR,Shead 10' Driving Floating Jump Shot (2 PTS) (Barnes 3 AST),Made Shot,Driving Floating Jump Shot,-45,88,10,1,2.0,2.0,h
+S2425-G0078,2,10:30,TOR,,PHI,,J. Shead,TOR,Shead S.FOUL (P1.T1) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,h
+S2425-G0078,2,09:43,TOR,,PHI,,J. Shead,TOR,MISS Shead 5' Driving Layup,Missed Shot,Driving Layup Shot,40,25,5,1,2.0,0.0,h
+S2425-G0078,2,09:14,TOR,,PHI,,J. Shead,TOR,SUB: Mitchell FOR Shead,Substitution,,0,0,0,0,,,h
+S2425-G0078,2,03:20,TOR,,PHI,,J. Shead,TOR,Shead Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0078,2,02:04,TOR,,PHI,,J. Shead,TOR,Shead REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,2,01:21,TOR,62.0,PHI,54.0,J. Shead,TOR,Shead 28' 3PT Jump Shot (5 PTS) (Barnes 4 AST),Made Shot,Jump Shot,-80,267,28,1,3.0,3.0,h
+S2425-G0078,3,08:47,TOR,,PHI,,J. Shead,TOR,Shead Backcourt Turnover (P4.T18),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2425-G0078,3,08:04,TOR,,PHI,,J. Shead,TOR,MISS Shead 2' Running Layup,Missed Shot,Running Layup Shot,16,5,2,1,2.0,0.0,h
+S2425-G0078,3,05:42,TOR,74.0,PHI,65.0,J. Shead,TOR,Shead 10' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,51,89,10,1,2.0,2.0,h
+S2425-G0078,3,05:08,TOR,,PHI,,J. Shead,TOR,MISS Shead 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-43,74,9,1,2.0,0.0,h
+S2425-G0078,3,03:58,TOR,,PHI,,J. Shead,TOR,Shead Traveling Turnover (P5.T20),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0078,3,03:14,TOR,,PHI,,J. Shead,TOR,MISS Shead 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,156,193,25,1,3.0,0.0,h
+S2425-G0078,3,02:49,TOR,,PHI,,J. Shead,TOR,SUB: Carton FOR Shead,Substitution,,0,0,0,0,,,h
+S2425-G0078,4,06:02,TOR,,PHI,,J. Shead,TOR,MISS Shead 11' Driving Layup,Missed Shot,Driving Layup Shot,108,11,11,1,2.0,0.0,h
+S2425-G0078,4,05:17,TOR,,PHI,,J. Shead,TOR,Shead Out of Bounds - Bad Pass Turnover Turnover (P6.T24),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0078,4,04:23,TOR,,PHI,,J. Shead,TOR,Shead REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,4,04:05,TOR,,PHI,,J. Shead,TOR,Shead S.FOUL (P2.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0078,4,02:52,TOR,105.0,PHI,93.0,J. Shead,TOR,Shead 5' Driving Layup (9 PTS) (Pöltl 3 AST),Made Shot,Driving Layup Shot,40,36,5,1,2.0,2.0,h
+S2425-G0078,4,02:09,TOR,,PHI,,J. Shead,TOR,MISS Shead 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,0,3,1,2.0,0.0,h
+S2425-G0078,4,01:05,TOR,,PHI,,J. Shead,TOR,Shead Bad Pass Turnover (P7.T27),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0078,4,00:32.900000,TOR,112.0,PHI,105.0,J. Shead,TOR,Shead Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,4,00:32.900000,TOR,113.0,PHI,105.0,J. Shead,TOR,Shead Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0107,1,02:30,TOR,26.0,DEN,27.0,J. Shead,TOR,Shead 12' Driving Floating Jump Shot (2 PTS) (Mogbo 1 AST),Made Shot,Driving Floating Jump Shot,-23,120,12,1,2.0,2.0,h
+S2425-G0107,1,01:52,TOR,,DEN,,J. Shead,TOR,Shead S.FOUL (P1.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0107,1,00:01.400000,TOR,,DEN,,J. Shead,TOR,Shead STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0107,2,11:11,TOR,,DEN,,J. Shead,TOR,MISS Shead 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-174,199,26,1,3.0,0.0,h
+S2425-G0107,2,10:35,TOR,32.0,DEN,30.0,J. Shead,TOR,Shead 1' Running Layup (4 PTS) (Barnes 5 AST),Made Shot,Running Layup Shot,0,-10,1,1,2.0,2.0,h
+S2425-G0107,2,10:13,TOR,34.0,DEN,30.0,J. Shead,TOR,Shead 1' Running Layup (6 PTS) (Barrett 2 AST),Made Shot,Running Layup Shot,-10,1,1,1,2.0,2.0,h
+S2425-G0107,2,09:36,TOR,,DEN,,J. Shead,TOR,SUB: Carton FOR Shead,Substitution,,0,0,0,0,,,h
+S2425-G0107,2,05:42,TOR,,DEN,,J. Shead,TOR,MISS Shead 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-26,0,3,1,2.0,0.0,h
+S2425-G0107,2,05:16,TOR,49.0,DEN,45.0,J. Shead,TOR,Shead 12' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-11,122,12,1,2.0,2.0,h
+S2425-G0107,2,03:51,TOR,,DEN,,J. Shead,TOR,Shead Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0107,2,03:40,TOR,,DEN,,J. Shead,TOR,SUB: Mogbo FOR Shead,Substitution,,0,0,0,0,,,h
+S2425-G0107,3,04:58,TOR,,DEN,,J. Shead,TOR,MISS Shead 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,132,219,26,1,3.0,0.0,h
+S2425-G0107,3,04:44,TOR,,DEN,,J. Shead,TOR,Shead S.FOUL (P2.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0107,3,03:43,TOR,,DEN,,J. Shead,TOR,Shead REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,01:12,TOR,,DEN,,J. Shead,TOR,MISS Shead 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,115,12,1,2.0,0.0,h
+S2425-G0107,3,01:09,TOR,,DEN,,J. Shead,TOR,Shead P.FOUL (P3.PN) (S.Mitchell),Foul,Personal,0,0,0,0,,,h
+S2425-G0107,4,09:32,TOR,,DEN,,J. Shead,TOR,SUB: Pöltl FOR Shead,Substitution,,0,0,0,0,,,h
+S2425-G0117,1,05:17,CHA,,TOR,,J. Shead,TOR,Shead REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,1,05:09,CHA,,TOR,,J. Shead,TOR,MISS Shead 3' Driving Layup,Missed Shot,Driving Layup Shot,21,18,3,1,2.0,0.0,v
+S2425-G0117,1,03:40,CHA,,TOR,,J. Shead,TOR,Shead S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0117,1,03:25,CHA,,TOR,,J. Shead,TOR,MISS Shead 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,106,11,1,2.0,0.0,v
+S2425-G0117,1,03:19,CHA,,TOR,,J. Shead,TOR,MISS Shead 27' 3PT Jump Shot,Missed Shot,Jump Shot,13,265,27,1,3.0,0.0,v
+S2425-G0117,1,00:59.600000,CHA,,TOR,,J. Shead,TOR,Shead REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,2,06:44,CHA,54.0,TOR,34.0,J. Shead,TOR,Shead 28' 3PT Jump Bank Shot (3 PTS) (Barrett 5 AST),Made Shot,Jump Bank Shot,185,204,28,1,3.0,3.0,v
+S2425-G0117,2,05:37,CHA,,TOR,,J. Shead,TOR,Shead STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0117,2,02:46,CHA,59.0,TOR,51.0,J. Shead,TOR,Shead 9' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-9,92,9,1,2.0,2.0,v
+S2425-G0117,2,00:51,CHA,,TOR,,J. Shead,TOR,SUB: Mitchell FOR Shead,Substitution,,0,0,0,0,,,v
+S2425-G0117,3,02:29,CHA,,TOR,,J. Shead,TOR,MISS Shead Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2425-G0117,3,02:29,CHA,91.0,TOR,95.0,J. Shead,TOR,Shead Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0117,3,02:29,CHA,91.0,TOR,96.0,J. Shead,TOR,Shead Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0117,3,02:01,CHA,,TOR,,J. Shead,TOR,MISS Shead 4' Driving Layup,Missed Shot,Driving Layup Shot,40,3,4,1,2.0,0.0,v
+S2425-G0117,3,01:07,CHA,,TOR,,J. Shead,TOR,Shead Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0117,3,01:02,CHA,,TOR,,J. Shead,TOR,SUB: Barrett FOR Shead,Substitution,,0,0,0,0,,,v
+S2425-G0117,4,02:56,CHA,,TOR,,J. Shead,TOR,SUB: Mitchell FOR Shead,Substitution,,0,0,0,0,,,v
+S2425-G0093,1,03:31,MIN,,TOR,,J. Shead,TOR,Shead P.FOUL (P1.T3) (D.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0093,1,02:16,MIN,,TOR,,J. Shead,TOR,Shead P.FOUL (P2.T4) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2425-G0093,2,00:19.400000,MIN,,TOR,,J. Shead,TOR,SUB: Battle FOR Shead,Substitution,,0,0,0,0,,,v
+S2425-G0093,3,05:40,MIN,,TOR,,J. Shead,TOR,MISS Shead 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,83,9,1,2.0,0.0,v
+S2425-G0093,3,02:53,MIN,,TOR,,J. Shead,TOR,MISS Shead 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,135,210,25,1,3.0,0.0,v
+S2425-G0093,3,02:19,MIN,86.0,TOR,68.0,J. Shead,TOR,Shead 26' 3PT Jump Shot (3 PTS) (Fernando 1 AST),Made Shot,Jump Shot,-37,256,26,1,3.0,3.0,v
+S2425-G0093,3,00:27,MIN,87.0,TOR,72.0,J. Shead,TOR,Shead 3' Running Layup (5 PTS),Made Shot,Running Layup Shot,28,18,3,1,2.0,2.0,v
+S2425-G0093,4,08:39,MIN,,TOR,,J. Shead,TOR,Shead Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0093,4,08:14,MIN,,TOR,,J. Shead,TOR,SUB: Mitchell FOR Shead,Substitution,,0,0,0,0,,,v
+S2425-G0067,1,01:52,TOR,,CLE,,J. Shead,TOR,Shead P.FOUL (P1.PN) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2425-G0067,1,01:04,TOR,,CLE,,J. Shead,TOR,Shead REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,1,00:57.500000,TOR,29.0,CLE,28.0,J. Shead,TOR,Shead 12' Floating Jump Shot (2 PTS) (Fernando 1 AST),Made Shot,Floating Jump shot,-110,45,12,1,2.0,2.0,h
+S2425-G0067,2,11:39,TOR,,CLE,,J. Shead,TOR,MISS Shead 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-29,36,5,1,2.0,0.0,h
+S2425-G0067,2,10:42,TOR,,CLE,,J. Shead,TOR,SUB: Dick FOR Shead,Substitution,,0,0,0,0,,,h
+S2425-G0067,2,01:49,TOR,49.0,CLE,62.0,J. Shead,TOR,Shead 25' 3PT Jump Shot (5 PTS) (Barnes 5 AST),Made Shot,Jump Shot,-93,237,25,1,3.0,3.0,h
+S2425-G0067,3,07:19,TOR,,CLE,,J. Shead,TOR,MISS Shead 26' 3PT Jump Shot,Missed Shot,Jump Shot,-161,205,26,1,3.0,0.0,h
+S2425-G0067,3,05:54,TOR,58.0,CLE,85.0,J. Shead,TOR,Shead Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,3,05:54,TOR,59.0,CLE,85.0,J. Shead,TOR,Shead Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,3,05:21,TOR,61.0,CLE,87.0,J. Shead,TOR,Shead 4' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,37,8,4,1,2.0,2.0,h
+S2425-G0067,3,05:21,TOR,62.0,CLE,87.0,J. Shead,TOR,Shead Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0067,3,04:42,TOR,,CLE,,J. Shead,TOR,MISS Shead 26' 3PT Jump Shot,Missed Shot,Jump Shot,65,253,26,1,3.0,0.0,h
+S2425-G0067,3,03:38,TOR,,CLE,,J. Shead,TOR,Shead STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0067,3,01:09,TOR,,CLE,,J. Shead,TOR,Shead Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0067,4,07:23,TOR,,CLE,,J. Shead,TOR,Shead BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0067,4,06:40,TOR,,CLE,,J. Shead,TOR,Shead Offensive Charge Foul (P2) (M.Davis),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0067,4,06:40,TOR,,CLE,,J. Shead,TOR,Shead Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0067,4,05:53,TOR,,CLE,,J. Shead,TOR,MISS Shead 27' 3PT Jump Shot,Missed Shot,Jump Shot,154,218,27,1,3.0,0.0,h
+S2425-G0067,4,05:29,TOR,,CLE,,J. Shead,TOR,SUB: Mitchell FOR Shead,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,25 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2424-G124,4,00:27.500000,MEM,,BKN,,S. Milton,BKN,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,2,07:02,ATL,,BKN,,S. Milton,BKN,MISS Milton 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-39,103,11,1,2.0,0.0,v
+S2425-G0064,2,05:40,ATL,,BKN,,S. Milton,BKN,SUB: Wilson FOR Milton,Substitution,,0,0,0,0,,,v
+S2425-G0113,1,04:39,BKN,,DEN,,S. Milton,BKN,Milton STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0113,1,04:13,BKN,,DEN,,S. Milton,BKN,Milton S.FOUL (P1.T4) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,1,01:29,BKN,,DEN,,S. Milton,BKN,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,1,01:26,BKN,35.0,DEN,23.0,S. Milton,BKN,Milton 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Schröder 4 AST),Made Shot,Running Pull-Up Jump Shot,60,242,25,1,3.0,3.0,h
+S2425-G0113,1,00:00.300000,BKN,,DEN,,S. Milton,BKN,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,-228,-8,0,1,3.0,0.0,h
+S2425-G0113,2,05:00,BKN,,DEN,,S. Milton,BKN,SUB: Clowney FOR Milton,Substitution,,0,0,0,0,,,h
+S2425-G0113,3,04:03,BKN,,DEN,,S. Milton,BKN,MISS Milton 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,92,290,30,1,3.0,0.0,h
+S2425-G0113,3,03:25,BKN,,DEN,,S. Milton,BKN,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,228,24,0,1,3.0,0.0,h
+S2425-G0113,3,02:11,BKN,,DEN,,S. Milton,BKN,MISS Milton 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,-33,0,1,3.0,0.0,h
+S2425-G0113,3,01:36,BKN,,DEN,,S. Milton,BKN,Milton P.FOUL (P2.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2425-G0113,3,00:20.700000,BKN,,DEN,,S. Milton,BKN,SUB: C. Johnson FOR Milton,Substitution,,0,0,0,0,,,h
+S2425-G0124,4,00:27.500000,MEM,,BKN,,S. Milton,BKN,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,1,02:54,ORL,,BKN,,S. Milton,BKN,MISS Milton 26' 3PT Jump Shot,Missed Shot,Jump Shot,-66,254,26,1,3.0,0.0,v
+S2425-G0077,1,00:02.700000,ORL,,BKN,,S. Milton,BKN,SUB: C. Johnson FOR Milton,Substitution,,0,0,0,0,,,v
+S2425-G0077,2,11:43,ORL,22.0,BKN,26.0,S. Milton,BKN,Milton 25' 3PT Jump Shot (3 PTS) (Schröder 2 AST),Made Shot,Jump Shot,163,186,25,1,3.0,3.0,v
+S2425-G0077,2,09:39,ORL,,BKN,,S. Milton,BKN,Milton S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0077,2,08:50,ORL,,BKN,,S. Milton,BKN,SUB: Wilson FOR Milton,Substitution,,0,0,0,0,,,v
+S2425-G0077,3,05:14,ORL,,BKN,,S. Milton,BKN,Milton P.FOUL (P2.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2425-G0077,3,03:20,ORL,,BKN,,S. Milton,BKN,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,3,02:57,ORL,,BKN,,S. Milton,BKN,Milton S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0077,3,02:57,ORL,,BKN,,S. Milton,BKN,SUB: Schröder FOR Milton,Substitution,,0,0,0,0,,,v

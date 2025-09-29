@@ -1,0 +1,84 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0107,1,11:36,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-191,183,26,1,3.0,0.0,h
+S2425-G0107,1,10:43,TOR,4.0,DEN,3.0,R. Barrett,TOR,Barrett 2' Driving Layup (2 PTS) (Barnes 1 AST),Made Shot,Driving Layup Shot,-18,5,2,1,2.0,2.0,h
+S2425-G0107,1,10:11,TOR,7.0,DEN,5.0,R. Barrett,TOR,Barrett 24' 3PT Jump Shot (5 PTS) (Barnes 2 AST),Made Shot,Jump Shot,239,5,24,1,3.0,3.0,h
+S2425-G0107,1,09:50,TOR,9.0,DEN,5.0,R. Barrett,TOR,Barrett 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,-12,0,1,1,2.0,2.0,h
+S2425-G0107,1,08:52,TOR,13.0,DEN,8.0,R. Barrett,TOR,Barrett Running Dunk (9 PTS) (Barnes 3 AST),Made Shot,Running Dunk Shot,-2,0,0,1,2.0,2.0,h
+S2425-G0107,1,07:33,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,190,169,25,1,3.0,0.0,h
+S2425-G0107,1,07:06,TOR,,DEN,,R. Barrett,TOR,SUB: Agbaji FOR Barrett,Substitution,,0,0,0,0,,,h
+S2425-G0107,1,01:31,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 6' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,-55,28,6,1,2.0,0.0,h
+S2425-G0107,2,11:49,TOR,,DEN,,R. Barrett,TOR,Barrett S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0107,2,11:32,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-29,13,3,1,2.0,0.0,h
+S2425-G0107,2,10:15,TOR,,DEN,,R. Barrett,TOR,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,2,09:36,TOR,,DEN,,R. Barrett,TOR,Barrett P.FOUL (P2.T2) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2425-G0107,2,09:23,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 5' Running Layup,Missed Shot,Running Layup Shot,-45,22,5,1,2.0,0.0,h
+S2425-G0107,2,09:00,TOR,,DEN,,R. Barrett,TOR,Barrett S.FOUL (P3.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0107,2,09:00,TOR,,DEN,,R. Barrett,TOR,SUB: Agbaji FOR Barrett,Substitution,,0,0,0,0,,,h
+S2425-G0107,3,11:22,TOR,,DEN,,R. Barrett,TOR,Barrett P.FOUL (P4.T1) (S.Mitchell),Foul,Personal,0,0,0,0,,,h
+S2425-G0107,3,10:22,TOR,,DEN,,R. Barrett,TOR,Barrett REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,10:20,TOR,69.0,DEN,56.0,R. Barrett,TOR,Barrett 25' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,168,187,25,1,3.0,3.0,h
+S2425-G0107,3,09:44,TOR,71.0,DEN,56.0,R. Barrett,TOR,Barrett 6' Jump Shot (14 PTS),Made Shot,Jump Shot,11,58,6,1,2.0,2.0,h
+S2425-G0107,3,08:55,TOR,,DEN,,R. Barrett,TOR,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,07:17,TOR,,DEN,,R. Barrett,TOR,SUB: Agbaji FOR Barrett,Substitution,,0,0,0,0,,,h
+S2425-G0107,3,00:34.800000,TOR,,DEN,,R. Barrett,TOR,Barrett REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,00:29.200000,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,38,21,4,1,2.0,0.0,h
+S2425-G0107,4,11:39,TOR,,DEN,,R. Barrett,TOR,Barrett Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0107,4,10:38,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 6' Jump Shot,Missed Shot,Jump Shot,49,34,6,1,2.0,0.0,h
+S2425-G0107,4,09:42,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,233,9,0,1,3.0,0.0,h
+S2425-G0107,4,09:23,TOR,93.0,DEN,89.0,R. Barrett,TOR,Barrett 1' Driving Dunk (16 PTS) (Mitchell 3 AST),Made Shot,Driving Dunk Shot,-6,-8,1,1,2.0,2.0,h
+S2425-G0107,4,08:07,TOR,,DEN,,R. Barrett,TOR,Barrett S.FOUL (P5.T2) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0107,4,08:07,TOR,,DEN,,R. Barrett,TOR,SUB: Boucher FOR Barrett,Substitution,,0,0,0,0,,,h
+S2425-G0107,4,03:58,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 5' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,-39,34,5,1,2.0,0.0,h
+S2425-G0107,4,01:05,TOR,,DEN,,R. Barrett,TOR,Barrett Step Out of Bounds Turnover (P2.T15),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0107,5,03:54,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,10,9,1,1,2.0,0.0,h
+S2425-G0107,5,03:29,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 7' Driving Layup,Missed Shot,Driving Layup Shot,-13,69,7,1,2.0,0.0,h
+S2425-G0107,5,02:35,TOR,118.0,DEN,124.0,R. Barrett,TOR,Barrett 4' Layup (18 PTS) (Pöltl 2 AST),Made Shot,Layup Shot,-38,10,4,1,2.0,2.0,h
+S2425-G0107,5,02:10,TOR,,DEN,,R. Barrett,TOR,Barrett REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,5,01:20,TOR,123.0,DEN,126.0,R. Barrett,TOR,Barrett 3' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,-26,0,3,1,2.0,2.0,h
+S2425-G0107,5,00:03.500000,TOR,,DEN,,R. Barrett,TOR,MISS Barrett 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-151,241,28,1,3.0,0.0,h
+S2425-G0117,1,11:44,CHA,,TOR,,R. Barrett,TOR,Barrett Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0117,1,10:56,CHA,,TOR,,R. Barrett,TOR,MISS Barrett 3' Running Layup,Missed Shot,Running Layup Shot,-17,25,3,1,2.0,0.0,v
+S2425-G0117,1,10:31,CHA,,TOR,,R. Barrett,TOR,Barrett Out of Bounds Lost Ball Turnover (P2.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0117,1,08:47,CHA,,TOR,,R. Barrett,TOR,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,1,07:28,CHA,,TOR,,R. Barrett,TOR,MISS Barrett 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,96,239,26,1,3.0,0.0,v
+S2425-G0117,1,07:20,CHA,,TOR,,R. Barrett,TOR,Barrett STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0117,1,06:23,CHA,,TOR,,R. Barrett,TOR,SUB: Agbaji FOR Barrett,Substitution,,0,0,0,0,,,v
+S2425-G0117,1,01:44,CHA,,TOR,,R. Barrett,TOR,MISS Barrett 5' Driving Layup,Missed Shot,Driving Layup Shot,-50,20,5,1,2.0,0.0,v
+S2425-G0117,1,01:01,CHA,,TOR,,R. Barrett,TOR,MISS Barrett 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,59,6,1,2.0,0.0,v
+S2425-G0117,1,00:56.500000,CHA,26.0,TOR,15.0,R. Barrett,TOR,Barrett 3' Layup (2 PTS) (Shead 1 AST),Made Shot,Layup Shot,-15,21,3,1,2.0,2.0,v
+S2425-G0117,1,00:29.300000,CHA,,TOR,,R. Barrett,TOR,Barrett Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0117,2,10:11,CHA,35.0,TOR,20.0,R. Barrett,TOR,Barrett 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,13,17,2,1,2.0,2.0,v
+S2425-G0117,2,09:22,CHA,,TOR,,R. Barrett,TOR,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,2,09:18,CHA,,TOR,,R. Barrett,TOR,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0117,2,09:18,CHA,37.0,TOR,21.0,R. Barrett,TOR,Barrett Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0117,2,08:54,CHA,40.0,TOR,24.0,R. Barrett,TOR,Barrett 26' 3PT Pullup Jump Shot (8 PTS) (Mitchell 2 AST),Made Shot,Pullup Jump shot,54,256,26,1,3.0,3.0,v
+S2425-G0117,2,05:51,CHA,54.0,TOR,39.0,R. Barrett,TOR,Barrett 26' 3PT Jump Shot (11 PTS) (Shead 4 AST),Made Shot,Jump Shot,154,204,26,1,3.0,3.0,v
+S2425-G0117,2,03:51,CHA,,TOR,,R. Barrett,TOR,SUB: Agbaji FOR Barrett,Substitution,,0,0,0,0,,,v
+S2425-G0117,3,11:09,CHA,,TOR,,R. Barrett,TOR,Barrett S.FOUL (P1.T1) (P.O'Connell),Foul,Shooting,0,0,0,0,,,v
+S2425-G0117,3,09:57,CHA,69.0,TOR,65.0,R. Barrett,TOR,Barrett 8' Turnaround Fadeaway (13 PTS),Made Shot,Turnaround Fadeaway shot,-45,69,8,1,2.0,2.0,v
+S2425-G0117,3,08:15,CHA,,TOR,,R. Barrett,TOR,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,3,08:07,CHA,75.0,TOR,72.0,R. Barrett,TOR,Barrett Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0117,3,08:07,CHA,,TOR,,R. Barrett,TOR,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0117,3,07:46,CHA,,TOR,,R. Barrett,TOR,Barrett S.FOUL (P2.T3) (P.O'Connell),Foul,Shooting,0,0,0,0,,,v
+S2425-G0117,3,07:06,CHA,,TOR,,R. Barrett,TOR,MISS Barrett 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-6,38,4,1,2.0,0.0,v
+S2425-G0117,3,06:45,CHA,,TOR,,R. Barrett,TOR,SUB: Boucher FOR Barrett,Substitution,,0,0,0,0,,,v
+S2425-G0117,4,11:45,CHA,,TOR,,R. Barrett,TOR,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0117,4,11:45,CHA,103.0,TOR,97.0,R. Barrett,TOR,Barrett Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0117,4,10:45,CHA,,TOR,,R. Barrett,TOR,MISS Barrett 5' Driving Layup,Missed Shot,Driving Layup Shot,39,24,5,1,2.0,0.0,v
+S2425-G0117,4,10:42,CHA,,TOR,,R. Barrett,TOR,Barrett REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,4,10:41,CHA,109.0,TOR,98.0,R. Barrett,TOR,Barrett Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0117,4,10:41,CHA,109.0,TOR,99.0,R. Barrett,TOR,Barrett Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0117,4,09:40,CHA,,TOR,,R. Barrett,TOR,MISS Barrett 2' Driving Layup,Missed Shot,Driving Layup Shot,-23,6,2,1,2.0,0.0,v
+S2425-G0117,4,08:24,CHA,,TOR,,R. Barrett,TOR,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0117,4,08:24,CHA,,TOR,,R. Barrett,TOR,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0117,4,08:07,CHA,,TOR,,R. Barrett,TOR,Barrett STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0117,4,08:03,CHA,111.0,TOR,106.0,R. Barrett,TOR,Barrett 1' Running Layup (19 PTS),Made Shot,Running Layup Shot,-5,-4,1,1,2.0,2.0,v
+S2425-G0117,4,07:07,CHA,,TOR,,R. Barrett,TOR,SUB: Dick FOR Barrett,Substitution,,0,0,0,0,,,v
+S2425-G0117,4,04:20,CHA,119.0,TOR,114.0,R. Barrett,TOR,Barrett 7' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,61,31,7,1,2.0,2.0,v
+S2425-G0117,4,03:19,CHA,,TOR,,R. Barrett,TOR,MISS Barrett 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,159,200,26,1,3.0,0.0,v
+S2425-G0117,4,02:26,CHA,127.0,TOR,117.0,R. Barrett,TOR,Barrett Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0117,4,02:26,CHA,127.0,TOR,118.0,R. Barrett,TOR,Barrett Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0117,4,02:01,CHA,127.0,TOR,121.0,R. Barrett,TOR,Barrett 25' 3PT Running Jump Shot (26 PTS) (Dick 1 AST),Made Shot,Running Jump Shot,-202,143,25,1,3.0,3.0,v
+S2425-G0117,4,01:40,CHA,129.0,TOR,124.0,R. Barrett,TOR,Barrett 25' 3PT Pullup Jump Shot (29 PTS) (Mitchell 10 AST),Made Shot,Pullup Jump shot,-127,218,25,1,3.0,3.0,v
+S2425-G0117,4,00:22.200000,CHA,132.0,TOR,129.0,R. Barrett,TOR,Barrett 2' Driving Layup (31 PTS) (Mitchell 11 AST),Made Shot,Driving Layup Shot,17,0,2,1,2.0,2.0,v
+S2425-G0117,4,00:17.100000,CHA,,TOR,,R. Barrett,TOR,Barrett Personal Take Foul (P3.PN) (N.Buchert),Foul,Personal Take,0,0,0,0,,,v

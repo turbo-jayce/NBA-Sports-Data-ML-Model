@@ -1,0 +1,99 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,1,03:00,NYK,,IND,,O. Toppin,IND,MISS Toppin 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-116,126,17,1,2.0,0.0,v
+S2425-G0081,1,00:25.700000,NYK,24.0,IND,24.0,O. Toppin,IND,Toppin 1' Layup (2 PTS) (I. Jackson 1 AST),Made Shot,Layup Shot,-7,5,1,1,2.0,2.0,v
+S2425-G0081,2,08:54,NYK,34.0,IND,34.0,O. Toppin,IND,Toppin Running Layup (4 PTS) (McConnell 3 AST),Made Shot,Running Layup Shot,-4,0,0,1,2.0,2.0,v
+S2425-G0081,2,08:19,NYK,,IND,,O. Toppin,IND,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,2,08:14,NYK,,IND,,O. Toppin,IND,MISS Toppin 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,107,231,25,1,3.0,0.0,v
+S2425-G0081,2,07:29,NYK,,IND,,O. Toppin,IND,SUB: Turner FOR Toppin,Substitution,,0,0,0,0,,,v
+S2425-G0081,3,00:37.200000,NYK,,IND,,O. Toppin,IND,Toppin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0081,4,09:55,NYK,100.0,IND,72.0,O. Toppin,IND,Toppin 1' Layup (6 PTS) (I. Jackson 2 AST),Made Shot,Layup Shot,11,8,1,1,2.0,2.0,v
+S2425-G0081,4,05:34,NYK,111.0,IND,83.0,O. Toppin,IND,Toppin 2' Layup (8 PTS) (Walker 3 AST),Made Shot,Layup Shot,5,17,2,1,2.0,2.0,v
+S2425-G0081,4,04:59,NYK,,IND,,O. Toppin,IND,SUB: Furphy FOR Toppin,Substitution,,0,0,0,0,,,v
+S2425-G0097,1,05:19,IND,13.0,PHI,10.0,O. Toppin,IND,Toppin 9' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-43,79,9,1,2.0,2.0,h
+S2425-G0097,1,05:19,IND,14.0,PHI,10.0,O. Toppin,IND,Toppin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0097,1,04:41,IND,,PHI,,O. Toppin,IND,Toppin S.FOUL (P1.T3) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2425-G0097,1,02:06,IND,,PHI,,O. Toppin,IND,Toppin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,1,02:06,IND,17.0,PHI,23.0,O. Toppin,IND,Toppin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,1,02:06,IND,18.0,PHI,23.0,O. Toppin,IND,Toppin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,1,01:46,IND,,PHI,,O. Toppin,IND,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,2,10:54,IND,28.0,PHI,30.0,O. Toppin,IND,Toppin 25' 3PT Jump Shot (8 PTS) (Mathurin 1 AST),Made Shot,Jump Shot,-239,62,25,1,3.0,3.0,h
+S2425-G0097,2,10:07,IND,,PHI,,O. Toppin,IND,Toppin Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0097,2,08:55,IND,,PHI,,O. Toppin,IND,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,2,08:49,IND,,PHI,,O. Toppin,IND,SUB: Turner FOR Toppin,Substitution,,0,0,0,0,,,h
+S2425-G0097,2,06:32,IND,,PHI,,O. Toppin,IND,Toppin Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0097,2,06:27,IND,,PHI,,O. Toppin,IND,Jump Ball Toppin vs. C. Martin: Tip to Walker,Jump Ball,,0,0,0,0,,,h
+S2425-G0097,2,06:27,IND,,PHI,,O. Toppin,IND,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0097,2,06:13,IND,,PHI,,O. Toppin,IND,MISS Toppin 5' Driving Layup,Missed Shot,Driving Layup Shot,-44,22,5,1,2.0,0.0,h
+S2425-G0097,2,06:09,IND,,PHI,,O. Toppin,IND,Toppin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,2,06:09,IND,,PHI,,O. Toppin,IND,MISS Toppin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0097,2,04:23,IND,43.0,PHI,44.0,O. Toppin,IND,Toppin Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,2,04:23,IND,,PHI,,O. Toppin,IND,MISS Toppin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0097,2,03:52,IND,,PHI,,O. Toppin,IND,SUB: Siakam FOR Toppin,Substitution,,0,0,0,0,,,h
+S2425-G0097,3,02:50,IND,,PHI,,O. Toppin,IND,Toppin STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0097,3,02:48,IND,73.0,PHI,77.0,O. Toppin,IND,Toppin 1' Driving Dunk (11 PTS),Made Shot,Driving Dunk Shot,-11,-5,1,1,2.0,2.0,h
+S2425-G0097,3,02:32,IND,,PHI,,O. Toppin,IND,SUB: I. Jackson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2425-G0097,4,11:13,IND,79.0,PHI,81.0,O. Toppin,IND,Toppin Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,4,11:13,IND,80.0,PHI,81.0,O. Toppin,IND,Toppin Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,4,09:12,IND,,PHI,,O. Toppin,IND,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,65,253,26,1,3.0,0.0,h
+S2425-G0097,4,08:27,IND,90.0,PHI,88.0,O. Toppin,IND,Toppin 1' Driving Dunk (15 PTS) (Siakam 5 AST),Made Shot,Driving Dunk Shot,1,11,1,1,2.0,2.0,h
+S2425-G0097,4,07:34,IND,,PHI,,O. Toppin,IND,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-222,8,0,1,3.0,0.0,h
+S2425-G0097,4,05:09,IND,,PHI,,O. Toppin,IND,SUB: Siakam FOR Toppin,Substitution,,0,0,0,0,,,h
+S2425-G0063,2,11:08,DET,,IND,,O. Toppin,IND,Toppin P.FOUL (P1.T1) (T.Ricks),Foul,Personal,0,0,0,0,,,v
+S2425-G0063,2,10:00,DET,,IND,,O. Toppin,IND,Toppin Violation:Defensive Goaltending (T.Brothers),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0063,2,07:22,DET,,IND,,O. Toppin,IND,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,2,07:03,DET,,IND,,O. Toppin,IND,SUB: Siakam FOR Toppin,Substitution,,0,0,0,0,,,v
+S2425-G0063,3,02:15,DET,80.0,IND,80.0,O. Toppin,IND,Toppin 8' Floating Jump Shot (2 PTS) (Nembhard 6 AST),Made Shot,Floating Jump shot,33,73,8,1,2.0,2.0,v
+S2425-G0063,3,01:25,DET,,IND,,O. Toppin,IND,Toppin STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0063,3,00:37.800000,DET,,IND,,O. Toppin,IND,Toppin S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0063,4,08:54,DET,,IND,,O. Toppin,IND,Toppin P.FOUL (P3.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2425-G0063,4,08:20,DET,,IND,,O. Toppin,IND,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,19,24,1,3.0,0.0,v
+S2425-G0063,4,08:19,DET,,IND,,O. Toppin,IND,SUB: Nembhard FOR Toppin,Substitution,,0,0,0,0,,,v
+S2425-G0119,1,06:38,IND,,BOS,,O. Toppin,IND,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,1,06:11,IND,,BOS,,O. Toppin,IND,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0119,1,06:09,IND,,BOS,,O. Toppin,IND,Toppin Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0119,1,06:04,IND,,BOS,,O. Toppin,IND,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,1,05:59,IND,,BOS,,O. Toppin,IND,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,1,05:57,IND,,BOS,,O. Toppin,IND,MISS Toppin 3' Putback Layup,Missed Shot,Putback Layup Shot,-11,23,3,1,2.0,0.0,h
+S2425-G0119,1,05:01,IND,20.0,BOS,15.0,O. Toppin,IND,Toppin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,1,05:01,IND,21.0,BOS,15.0,O. Toppin,IND,Toppin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,1,04:22,IND,24.0,BOS,17.0,O. Toppin,IND,Toppin 29' 3PT Jump Shot (5 PTS) (McConnell 1 AST),Made Shot,Jump Shot,-49,286,29,1,3.0,3.0,h
+S2425-G0119,1,03:12,IND,,BOS,,O. Toppin,IND,Toppin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,1,02:43,IND,,BOS,,O. Toppin,IND,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,232,23,0,1,3.0,0.0,h
+S2425-G0119,1,01:39,IND,,BOS,,O. Toppin,IND,Toppin S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2425-G0119,1,00:03,IND,35.0,BOS,28.0,O. Toppin,IND,Toppin 4' Running Layup (7 PTS) (Mathurin 2 AST),Made Shot,Running Layup Shot,-15,36,4,1,2.0,2.0,h
+S2425-G0119,3,06:09,IND,,BOS,,O. Toppin,IND,Toppin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,3,04:17,IND,,BOS,,O. Toppin,IND,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-224,-2,0,1,3.0,0.0,h
+S2425-G0119,3,03:35,IND,96.0,BOS,72.0,O. Toppin,IND,Toppin 1' Cutting Dunk Shot (9 PTS) (Mathurin 4 AST),Made Shot,Cutting Dunk Shot,-6,6,1,1,2.0,2.0,h
+S2425-G0119,3,00:34.900000,IND,100.0,BOS,84.0,O. Toppin,IND,Toppin 3' Dunk (11 PTS) (Siakam 5 AST),Made Shot,Dunk Shot,-9,24,3,1,2.0,2.0,h
+S2425-G0119,3,00:26.300000,IND,,BOS,,O. Toppin,IND,Toppin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0119,4,11:48,IND,103.0,BOS,86.0,O. Toppin,IND,Toppin 28' 3PT Jump Shot (14 PTS) (Sheppard 2 AST),Made Shot,Jump Shot,129,248,28,1,3.0,3.0,h
+S2425-G0119,4,09:58,IND,,BOS,,O. Toppin,IND,MISS Toppin 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-124,37,13,1,2.0,0.0,h
+S2425-G0119,4,08:55,IND,112.0,BOS,91.0,O. Toppin,IND,Toppin 1' Cutting Dunk Shot (16 PTS) (McConnell 2 AST),Made Shot,Cutting Dunk Shot,-5,0,1,1,2.0,2.0,h
+S2425-G0119,4,07:58,IND,,BOS,,O. Toppin,IND,MISS Toppin 7' Layup,Missed Shot,Layup Shot,21,71,7,1,2.0,0.0,h
+S2425-G0119,4,07:54,IND,,BOS,,O. Toppin,IND,Toppin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,4,07:54,IND,,BOS,,O. Toppin,IND,MISS Toppin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0119,4,06:13,IND,,BOS,,O. Toppin,IND,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-227,-5,0,1,3.0,0.0,h
+S2425-G0119,4,03:59,IND,119.0,BOS,107.0,O. Toppin,IND,Toppin Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,4,03:59,IND,120.0,BOS,107.0,O. Toppin,IND,Toppin Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0119,4,03:42,IND,,BOS,,O. Toppin,IND,SUB: I. Jackson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2425-G0119,4,01:33,IND,,BOS,,O. Toppin,IND,Toppin Bad Pass Turnover (P2.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0119,5,05:00,IND,,BOS,,O. Toppin,IND,Jump Ball Toppin vs. Queta: Tip to Haliburton,Jump Ball,,0,0,0,0,,,h
+S2425-G0119,5,04:47,IND,,BOS,,O. Toppin,IND,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-230,5,0,1,3.0,0.0,h
+S2425-G0119,5,02:32,IND,,BOS,,O. Toppin,IND,Toppin REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,5,02:03,IND,,BOS,,O. Toppin,IND,Toppin S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0119,5,00:59.100000,IND,,BOS,,O. Toppin,IND,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-227,-2,0,1,3.0,0.0,h
+S2425-G0119,5,00:39.700000,IND,,BOS,,O. Toppin,IND,Toppin Violation:Defensive Goaltending (E.Malloy),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2425-G0102,1,07:20,ORL,15.0,IND,11.0,O. Toppin,IND,Toppin 3PT Jump Shot (3 PTS) (Haliburton 1 AST),Made Shot,Jump Shot,228,-25,0,1,3.0,3.0,v
+S2425-G0102,1,07:03,ORL,,IND,,O. Toppin,IND,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,1,06:16,ORL,18.0,IND,16.0,O. Toppin,IND,Toppin 8' Driving Floating Bank Jump Shot (5 PTS) (Haliburton 2 AST),Made Shot,Driving Floating Bank Jump Shot,36,71,8,1,2.0,2.0,v
+S2425-G0102,1,05:20,ORL,,IND,,O. Toppin,IND,Toppin S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,1,02:51,ORL,27.0,IND,27.0,O. Toppin,IND,Toppin 3PT Jump Shot (8 PTS) (I. Jackson 1 AST),Made Shot,Jump Shot,-227,-11,0,1,3.0,3.0,v
+S2425-G0102,1,00:56.900000,ORL,33.0,IND,33.0,O. Toppin,IND,Toppin 1' Driving Layup (10 PTS) (Nembhard 2 AST),Made Shot,Driving Layup Shot,0,5,1,1,2.0,2.0,v
+S2425-G0102,3,03:41,ORL,84.0,IND,89.0,O. Toppin,IND,Toppin Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,3,03:41,ORL,,IND,,O. Toppin,IND,MISS Toppin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0102,3,03:36,ORL,,IND,,O. Toppin,IND,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,3,02:00,ORL,,IND,,O. Toppin,IND,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,210,26,1,3.0,0.0,v
+S2425-G0102,4,06:30,ORL,,IND,,O. Toppin,IND,Toppin Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0102,4,05:12,ORL,105.0,IND,110.0,O. Toppin,IND,Toppin 3PT Jump Shot (14 PTS) (Nembhard 6 AST),Made Shot,Jump Shot,-232,21,0,1,3.0,3.0,v
+S2425-G0102,4,04:34,ORL,,IND,,O. Toppin,IND,SUB: Turner FOR Toppin,Substitution,,0,0,0,0,,,v
+S2425-G0102,4,00:09.500000,ORL,,IND,,O. Toppin,IND,SUB: Mathurin FOR Toppin,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,9 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0121,4,10:40,WAS,,ATL,,J. Davis,WAS,SUB: Coulibaly FOR Davis,Substitution,,0,0,0,0,,,h
+S2425-G0073,2,00:08.100000,WAS,,BOS,,J. Davis,WAS,MISS Davis 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,59,24,1,3.0,0.0,h
+S2425-G0090,4,04:43,WAS,,CLE,,J. Davis,WAS,Davis S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,4,03:14,WAS,,CLE,,J. Davis,WAS,MISS Davis 5' Running Layup,Missed Shot,Running Layup Shot,-10,53,5,1,2.0,0.0,h
+S2425-G0090,4,02:00,WAS,,CLE,,J. Davis,WAS,MISS Davis 5' Driving Layup,Missed Shot,Driving Layup Shot,47,27,5,1,2.0,0.0,h
+S2425-G0090,4,01:48,WAS,,CLE,,J. Davis,WAS,Davis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,4,00:34.500000,WAS,,CLE,,J. Davis,WAS,Davis S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,4,00:24.300000,WAS,116.0,CLE,135.0,J. Davis,WAS,Davis 7' Driving Floating Jump Shot (2 PTS) (Butler 3 AST),Made Shot,Driving Floating Jump Shot,-4,67,7,1,2.0,2.0,h

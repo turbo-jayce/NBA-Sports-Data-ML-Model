@@ -1,0 +1,86 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0091,1,00:19.100000,CHI,,OKC,,J. Smith,CHI,MISS Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0091,1,00:19.100000,CHI,21.0,OKC,26.0,J. Smith,CHI,Smith Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,2,11:51,CHI,,OKC,,J. Smith,CHI,MISS Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,-10,24,1,3.0,0.0,h
+S2425-G0091,2,11:37,CHI,,OKC,,J. Smith,CHI,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,2,11:01,CHI,,OKC,,J. Smith,CHI,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,2,10:44,CHI,,OKC,,J. Smith,CHI,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,2,10:40,CHI,24.0,OKC,26.0,J. Smith,CHI,Smith 24' 3PT Jump Shot (4 PTS) (Giddey 2 AST),Made Shot,Jump Shot,86,229,24,1,3.0,3.0,h
+S2425-G0091,2,09:57,CHI,,OKC,,J. Smith,CHI,Smith S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2425-G0091,2,08:56,CHI,,OKC,,J. Smith,CHI,SUB: Vučević FOR Smith,Substitution,,0,0,0,0,,,h
+S2425-G0091,3,02:36,CHI,,OKC,,J. Smith,CHI,Smith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,02:35,CHI,,OKC,,J. Smith,CHI,MISS Smith 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,12,7,1,1,2.0,0.0,h
+S2425-G0091,3,01:07,CHI,,OKC,,J. Smith,CHI,Smith REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,01:07,CHI,,OKC,,J. Smith,CHI,MISS Smith Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0091,4,11:41,CHI,,OKC,,J. Smith,CHI,Smith REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,4,11:30,CHI,,OKC,,J. Smith,CHI,Smith S.FOUL (P2.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0091,4,10:09,CHI,,OKC,,J. Smith,CHI,SUB: Vučević FOR Smith,Substitution,,0,0,0,0,,,h
+S2425-G0069,1,03:17,NOP,,CHI,,J. Smith,CHI,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,184,26,1,3.0,0.0,v
+S2425-G0069,1,02:28,NOP,,CHI,,J. Smith,CHI,Smith S.FOUL (P1.T3) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,1,01:30,NOP,,CHI,,J. Smith,CHI,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,11:44,NOP,29.0,CHI,27.0,J. Smith,CHI,Smith 1' Layup (2 PTS) (Dosunmu 2 AST),Made Shot,Layup Shot,-13,6,1,1,2.0,2.0,v
+S2425-G0069,2,11:44,NOP,29.0,CHI,28.0,J. Smith,CHI,Smith Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0069,2,08:58,NOP,,CHI,,J. Smith,CHI,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,08:58,NOP,37.0,CHI,34.0,J. Smith,CHI,Smith Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0069,2,07:19,NOP,,CHI,,J. Smith,CHI,Smith REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,07:19,NOP,42.0,CHI,39.0,J. Smith,CHI,Smith 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,17,12,2,1,2.0,2.0,v
+S2425-G0069,2,07:19,NOP,42.0,CHI,40.0,J. Smith,CHI,Smith Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0069,2,06:17,NOP,,CHI,,J. Smith,CHI,SUB: Williams FOR Smith,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,01:38,NOP,,CHI,,J. Smith,CHI,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-140,204,25,1,3.0,0.0,v
+S2425-G0069,4,11:42,NOP,,CHI,,J. Smith,CHI,Smith STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0069,4,11:16,NOP,95.0,CHI,86.0,J. Smith,CHI,Smith Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,11:16,NOP,95.0,CHI,87.0,J. Smith,CHI,Smith Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,10:49,NOP,95.0,CHI,90.0,J. Smith,CHI,Smith 24' 3PT Jump Shot (13 PTS) (White 4 AST),Made Shot,Jump Shot,235,57,24,1,3.0,3.0,v
+S2425-G0069,4,09:35,NOP,,CHI,,J. Smith,CHI,Smith REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,09:35,NOP,99.0,CHI,92.0,J. Smith,CHI,Smith Putback Dunk (15 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0069,4,09:07,NOP,,CHI,,J. Smith,CHI,MISS Smith 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,3,2,1,2.0,0.0,v
+S2425-G0069,4,08:21,NOP,,CHI,,J. Smith,CHI,Smith S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,4,08:21,NOP,,CHI,,J. Smith,CHI,SUB: Vučević FOR Smith,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,00:35.900000,NOP,,CHI,,J. Smith,CHI,Smith REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,1,03:11,MIL,,CHI,,J. Smith,CHI,MISS Smith 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,7,26,3,1,2.0,0.0,v
+S2425-G0083,1,02:22,MIL,,CHI,,J. Smith,CHI,Smith S.FOUL (P1.T2) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,1,01:46,MIL,,CHI,,J. Smith,CHI,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,1,01:43,MIL,,CHI,,J. Smith,CHI,MISS Smith Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0083,1,00:05.400000,MIL,,CHI,,J. Smith,CHI,Smith P.FOUL (P2.T3) (J.Ralls),Foul,Personal,0,0,0,0,,,v
+S2425-G0083,1,00:02.800000,MIL,,CHI,,J. Smith,CHI,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,2,10:55,MIL,,CHI,,J. Smith,CHI,MISS Smith 18' Jump Shot,Missed Shot,Jump Shot,-175,19,18,1,2.0,0.0,v
+S2425-G0083,2,09:41,MIL,38.0,CHI,39.0,J. Smith,CHI,Smith 27' 3PT Jump Shot (3 PTS) (Buzelis 1 AST),Made Shot,Jump Shot,38,263,27,1,3.0,3.0,v
+S2425-G0083,2,09:03,MIL,41.0,CHI,42.0,J. Smith,CHI,Smith 3PT Jump Shot (6 PTS) (Buzelis 2 AST),Made Shot,Jump Shot,-223,73,0,1,3.0,3.0,v
+S2425-G0083,2,08:21,MIL,,CHI,,J. Smith,CHI,Smith S.FOUL (P3.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,2,08:21,MIL,,CHI,,J. Smith,CHI,SUB: Giddey FOR Smith,Substitution,,0,0,0,0,,,v
+S2425-G0083,3,02:32,MIL,,CHI,,J. Smith,CHI,Smith REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,3,02:32,MIL,87.0,CHI,96.0,J. Smith,CHI,Smith Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0083,3,01:24,MIL,,CHI,,J. Smith,CHI,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-86,249,26,1,3.0,0.0,v
+S2425-G0083,3,00:45.100000,MIL,,CHI,,J. Smith,CHI,Smith Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0083,4,10:33,MIL,,CHI,,J. Smith,CHI,Smith S.FOUL (P4.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,4,09:31,MIL,102.0,CHI,110.0,J. Smith,CHI,Smith 3PT Jump Shot (11 PTS) (White 4 AST),Made Shot,Jump Shot,-233,11,0,1,3.0,3.0,v
+S2425-G0083,4,09:09,MIL,,CHI,,J. Smith,CHI,Smith REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,08:47,MIL,,CHI,,J. Smith,CHI,Smith REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,08:42,MIL,,CHI,,J. Smith,CHI,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,6,258,26,1,3.0,0.0,v
+S2425-G0083,4,08:05,MIL,,CHI,,J. Smith,CHI,SUB: LaVine FOR Smith,Substitution,,0,0,0,0,,,v
+S2425-G0108,1,03:18,MEM,,CHI,,J. Smith,CHI,MISS Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0108,1,03:18,MEM,,CHI,,J. Smith,CHI,MISS Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0108,1,02:21,MEM,29.0,CHI,18.0,J. Smith,CHI,Smith 25' 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,-80,234,25,1,3.0,3.0,v
+S2425-G0108,1,01:59,MEM,,CHI,,J. Smith,CHI,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,1,00:42.400000,MEM,,CHI,,J. Smith,CHI,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,1,00:35.900000,MEM,31.0,CHI,21.0,J. Smith,CHI,Smith 25' 3PT Jump Shot (6 PTS) (Phillips 1 AST),Made Shot,Jump Shot,53,248,25,1,3.0,3.0,v
+S2425-G0108,1,00:09.200000,MEM,,CHI,,J. Smith,CHI,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,1,00:02.400000,MEM,,CHI,,J. Smith,CHI,MISS Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0108,1,00:02.400000,MEM,32.0,CHI,22.0,J. Smith,CHI,Smith Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0108,2,10:43,MEM,,CHI,,J. Smith,CHI,SUB: Vučević FOR Smith,Substitution,,0,0,0,0,,,v
+S2425-G0108,3,03:52,MEM,,CHI,,J. Smith,CHI,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,77,243,25,1,3.0,0.0,v
+S2425-G0108,3,03:34,MEM,92.0,CHI,78.0,J. Smith,CHI,Smith 5' Cutting Layup Shot (9 PTS) (Dosunmu 4 AST),Made Shot,Cutting Layup Shot,32,32,5,1,2.0,2.0,v
+S2425-G0108,3,03:34,MEM,92.0,CHI,79.0,J. Smith,CHI,Smith Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0108,3,03:03,MEM,94.0,CHI,82.0,J. Smith,CHI,Smith 25' 3PT Jump Shot (13 PTS) (Terry 1 AST),Made Shot,Jump Shot,80,238,25,1,3.0,3.0,v
+S2425-G0108,3,02:45,MEM,,CHI,,J. Smith,CHI,Smith S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2425-G0108,3,01:51,MEM,,CHI,,J. Smith,CHI,Smith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,3,00:48,MEM,,CHI,,J. Smith,CHI,Smith REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,3,00:42.400000,MEM,95.0,CHI,91.0,J. Smith,CHI,Smith Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0108,3,00:42.400000,MEM,,CHI,,J. Smith,CHI,MISS Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0108,3,00:24,MEM,,CHI,,J. Smith,CHI,Smith STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0108,3,00:24,MEM,97.0,CHI,92.0,J. Smith,CHI,Smith Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0108,3,00:24,MEM,97.0,CHI,93.0,J. Smith,CHI,Smith Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0108,4,11:44,MEM,,CHI,,J. Smith,CHI,Smith P.FOUL (P2.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2425-G0108,4,11:30,MEM,,CHI,,J. Smith,CHI,Smith REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,4,11:07,MEM,,CHI,,J. Smith,CHI,Smith REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,4,10:26,MEM,,CHI,,J. Smith,CHI,SUB: White FOR Smith,Substitution,,0,0,0,0,,,v

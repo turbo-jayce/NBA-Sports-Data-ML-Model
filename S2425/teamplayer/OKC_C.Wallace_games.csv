@@ -1,0 +1,86 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0075,1,06:12,DEN,,OKC,,C. Wallace,OKC,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,135,222,26,1,3.0,0.0,v
+S2425-G0075,1,04:06,DEN,,OKC,,C. Wallace,OKC,Wallace REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,1,04:05,DEN,,OKC,,C. Wallace,OKC,MISS Wallace Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0075,1,04:04,DEN,,OKC,,C. Wallace,OKC,Wallace REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,1,04:03,DEN,,OKC,,C. Wallace,OKC,MISS Wallace 3' Putback Layup,Missed Shot,Putback Layup Shot,-4,25,3,1,2.0,0.0,v
+S2425-G0075,1,00:48.800000,DEN,,OKC,,C. Wallace,OKC,SUB: Joe FOR Wallace,Substitution,,0,0,0,0,,,v
+S2425-G0075,2,11:35,DEN,,OKC,,C. Wallace,OKC,MISS Wallace 3' Driving Layup,Missed Shot,Driving Layup Shot,12,32,3,1,2.0,0.0,v
+S2425-G0075,2,09:59,DEN,,OKC,,C. Wallace,OKC,MISS Wallace 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-9,27,3,1,2.0,0.0,v
+S2425-G0075,2,08:22,DEN,,OKC,,C. Wallace,OKC,SUB: Holmgren FOR Wallace,Substitution,,0,0,0,0,,,v
+S2425-G0075,3,06:23,DEN,64.0,OKC,73.0,C. Wallace,OKC,Wallace 1' Reverse Layup (2 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Reverse Layup Shot,-12,3,1,1,2.0,2.0,v
+S2425-G0075,3,04:09,DEN,,OKC,,C. Wallace,OKC,Wallace REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,02:56,DEN,,OKC,,C. Wallace,OKC,Wallace REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,02:36,DEN,,OKC,,C. Wallace,OKC,Wallace STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0075,3,02:00,DEN,,OKC,,C. Wallace,OKC,Wallace S.FOUL (P1.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0075,3,01:10,DEN,66.0,OKC,85.0,C. Wallace,OKC,Wallace 1' Cutting Layup Shot (4 PTS) (Caruso 3 AST),Made Shot,Cutting Layup Shot,5,11,1,1,2.0,2.0,v
+S2425-G0075,4,10:43,DEN,,OKC,,C. Wallace,OKC,SUB: Dort FOR Wallace,Substitution,,0,0,0,0,,,v
+S2425-G0075,4,07:39,DEN,,OKC,,C. Wallace,OKC,Wallace STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0075,4,05:48,DEN,,OKC,,C. Wallace,OKC,SUB: Williams FOR Wallace,Substitution,,0,0,0,0,,,v
+S2425-G0075,4,01:38,DEN,,OKC,,C. Wallace,OKC,SUB: Joe FOR Wallace,Substitution,,0,0,0,0,,,v
+S2425-G0091,1,10:57,CHI,,OKC,,C. Wallace,OKC,MISS Wallace 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-168,186,25,1,3.0,0.0,v
+S2425-G0091,1,09:33,CHI,,OKC,,C. Wallace,OKC,Wallace STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0091,1,09:10,CHI,,OKC,,C. Wallace,OKC,MISS Wallace 3PT Jump Shot,Missed Shot,Jump Shot,227,-6,0,1,3.0,0.0,v
+S2425-G0091,1,07:28,CHI,7.0,OKC,11.0,C. Wallace,OKC,Wallace Driving Dunk (2 PTS) (Williams 3 AST),Made Shot,Driving Dunk Shot,-2,-3,0,1,2.0,2.0,v
+S2425-G0091,1,06:34,CHI,10.0,OKC,14.0,C. Wallace,OKC,Wallace 1' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,-9,5,1,1,2.0,2.0,v
+S2425-G0091,1,06:22,CHI,,OKC,,C. Wallace,OKC,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,1,04:17,CHI,,OKC,,C. Wallace,OKC,Wallace REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,1,04:09,CHI,,OKC,,C. Wallace,OKC,MISS Wallace 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9,83,8,1,2.0,0.0,v
+S2425-G0091,1,03:44,CHI,,OKC,,C. Wallace,OKC,Wallace S.FOUL (P1.T2) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2425-G0091,1,03:44,CHI,,OKC,,C. Wallace,OKC,SUB: Joe FOR Wallace,Substitution,,0,0,0,0,,,v
+S2425-G0091,2,06:34,CHI,,OKC,,C. Wallace,OKC,MISS Wallace 1' Driving Layup,Missed Shot,Driving Layup Shot,11,6,1,1,2.0,0.0,v
+S2425-G0091,2,05:17,CHI,,OKC,,C. Wallace,OKC,Wallace REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,2,05:16,CHI,36.0,OKC,41.0,C. Wallace,OKC,Wallace Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0091,2,00:20.200000,CHI,,OKC,,C. Wallace,OKC,SUB: Mitchell FOR Wallace,Substitution,,0,0,0,0,,,v
+S2425-G0091,3,10:01,CHI,,OKC,,C. Wallace,OKC,Wallace STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0091,3,09:38,CHI,,OKC,,C. Wallace,OKC,MISS Wallace 1' Driving Layup,Missed Shot,Driving Layup Shot,2,13,1,1,2.0,0.0,v
+S2425-G0091,3,08:53,CHI,,OKC,,C. Wallace,OKC,MISS Wallace 25' 3PT Jump Shot,Missed Shot,Jump Shot,44,251,25,1,3.0,0.0,v
+S2425-G0091,3,07:27,CHI,,OKC,,C. Wallace,OKC,Wallace STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0091,3,05:38,CHI,,OKC,,C. Wallace,OKC,Wallace REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,03:01,CHI,,OKC,,C. Wallace,OKC,SUB: Dieng FOR Wallace,Substitution,,0,0,0,0,,,v
+S2425-G0091,4,09:02,CHI,,OKC,,C. Wallace,OKC,Wallace REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,4,08:18,CHI,,OKC,,C. Wallace,OKC,MISS Wallace 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-11,24,1,3.0,0.0,v
+S2425-G0091,4,07:01,CHI,77.0,OKC,100.0,C. Wallace,OKC,Wallace 1' Layup (8 PTS) (Mitchell 2 AST),Made Shot,Layup Shot,7,4,1,1,2.0,2.0,v
+S2425-G0091,4,07:01,CHI,77.0,OKC,101.0,C. Wallace,OKC,Wallace Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0091,4,06:19,CHI,,OKC,,C. Wallace,OKC,Wallace REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,4,03:54,CHI,,OKC,,C. Wallace,OKC,SUB: Jones FOR Wallace,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,00:00.700000,OKC,,ATL,,C. Wallace,OKC,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,-163,206,26,1,3.0,0.0,h
+S2425-G0100,2,11:24,OKC,,ATL,,C. Wallace,OKC,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,2,11:19,OKC,,ATL,,C. Wallace,OKC,Wallace Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0100,2,11:12,OKC,,ATL,,C. Wallace,OKC,Wallace REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,2,09:51,OKC,,ATL,,C. Wallace,OKC,Wallace P.FOUL (P1.T1) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2425-G0100,2,09:51,OKC,,ATL,,C. Wallace,OKC,Wallace AWAY.FROM.PLAY.FOUL (P2.T2) (C.Flores),Foul,Away From Play,0,0,0,0,,,h
+S2425-G0100,2,07:37,OKC,,ATL,,C. Wallace,OKC,Wallace STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0100,2,07:33,OKC,,ATL,,C. Wallace,OKC,Wallace Backcourt Turnover (P2.T7),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2425-G0100,2,06:36,OKC,,ATL,,C. Wallace,OKC,MISS Wallace 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,-37,24,1,3.0,0.0,h
+S2425-G0100,2,06:20,OKC,,ATL,,C. Wallace,OKC,SUB: Caruso FOR Wallace,Substitution,,0,0,0,0,,,h
+S2425-G0100,3,03:36,OKC,,ATL,,C. Wallace,OKC,Wallace REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,3,00:55.500000,OKC,89.0,ATL,86.0,C. Wallace,OKC,Wallace 1' Cutting Layup Shot (2 PTS) (Holmgren 4 AST),Made Shot,Cutting Layup Shot,-2,7,1,1,2.0,2.0,h
+S2425-G0100,3,00:44.100000,OKC,,ATL,,C. Wallace,OKC,Wallace REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,09:32,OKC,,ATL,,C. Wallace,OKC,Wallace STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0100,4,08:29,OKC,,ATL,,C. Wallace,OKC,Wallace STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0100,4,08:25,OKC,,ATL,,C. Wallace,OKC,MISS Wallace 2' Running Layup,Missed Shot,Running Layup Shot,11,21,2,1,2.0,0.0,h
+S2425-G0100,4,06:48,OKC,,ATL,,C. Wallace,OKC,MISS Wallace 3PT Jump Shot,Missed Shot,Jump Shot,-229,-17,0,1,3.0,0.0,h
+S2425-G0100,4,06:16,OKC,,ATL,,C. Wallace,OKC,SUB: Gilgeous-Alexander FOR Wallace,Substitution,,0,0,0,0,,,h
+S2425-G0100,4,02:16,OKC,123.0,ATL,102.0,C. Wallace,OKC,Wallace 24' 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 9 AST),Made Shot,Jump Shot,235,-19,24,1,3.0,3.0,h
+S2425-G0100,4,01:53,OKC,,ATL,,C. Wallace,OKC,SUB: Flagler FOR Wallace,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,09:21,OKC,4.0,SAS,8.0,C. Wallace,OKC,Wallace 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-29,8,3,1,2.0,2.0,h
+S2425-G0125,1,08:36,OKC,,SAS,,C. Wallace,OKC,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,-178,185,26,1,3.0,0.0,h
+S2425-G0125,1,08:23,OKC,,SAS,,C. Wallace,OKC,Wallace S.FOUL (P1.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2425-G0125,1,02:50,OKC,26.0,SAS,17.0,C. Wallace,OKC,Wallace 27' 3PT Step Back Jump Shot (5 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Step Back Jump shot,-34,263,27,1,3.0,3.0,h
+S2425-G0125,1,01:35,OKC,,SAS,,C. Wallace,OKC,MISS Wallace 7' Driving Layup,Missed Shot,Driving Layup Shot,62,27,7,1,2.0,0.0,h
+S2425-G0125,1,01:35,OKC,,SAS,,C. Wallace,OKC,SUB: Joe FOR Wallace,Substitution,,0,0,0,0,,,h
+S2425-G0125,2,02:56,OKC,,SAS,,C. Wallace,OKC,Wallace STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0125,2,02:52,OKC,,SAS,,C. Wallace,OKC,Wallace Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0125,3,11:49,OKC,61.0,SAS,44.0,C. Wallace,OKC,Wallace 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-38,16,4,1,2.0,2.0,h
+S2425-G0125,3,10:05,OKC,,SAS,,C. Wallace,OKC,Wallace AWAY.FROM.PLAY.FOUL (P2.T2) (J.Goble),Foul,Away From Play,0,0,0,0,,,h
+S2425-G0125,3,07:20,OKC,,SAS,,C. Wallace,OKC,Wallace STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0125,3,04:45,OKC,,SAS,,C. Wallace,OKC,MISS Wallace 2' Running Layup,Missed Shot,Running Layup Shot,15,4,2,1,2.0,0.0,h
+S2425-G0125,3,04:45,OKC,,SAS,,C. Wallace,OKC,SUB: Wiggins FOR Wallace,Substitution,,0,0,0,0,,,h
+S2425-G0125,4,04:37,OKC,,SAS,,C. Wallace,OKC,Wallace REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,4,04:30,OKC,,SAS,,C. Wallace,OKC,MISS Wallace 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,184,176,25,1,3.0,0.0,h
+S2425-G0125,4,04:01,OKC,99.0,SAS,82.0,C. Wallace,OKC,Wallace 2' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,-20,0,2,1,2.0,2.0,h
+S2425-G0125,4,02:47,OKC,,SAS,,C. Wallace,OKC,Wallace BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0125,4,01:38,OKC,,SAS,,C. Wallace,OKC,MISS Wallace 2' Driving Layup,Missed Shot,Driving Layup Shot,18,17,2,1,2.0,0.0,h
+S2425-G0125,4,01:00,OKC,,SAS,,C. Wallace,OKC,Wallace P.FOUL (P3.T3) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2425-G0125,4,01:00,OKC,,SAS,,C. Wallace,OKC,SUB: Ducas FOR Wallace,Substitution,,0,0,0,0,,,h

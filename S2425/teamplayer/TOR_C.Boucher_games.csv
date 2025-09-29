@@ -1,0 +1,101 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,1,03:38,TOR,,PHI,,C. Boucher,TOR,MISS Boucher 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,18,8,2,1,2.0,0.0,h
+S2425-G0078,1,01:13,TOR,,PHI,,C. Boucher,TOR,Boucher BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0078,2,10:01,TOR,,PHI,,C. Boucher,TOR,Boucher BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0078,2,10:00,TOR,,PHI,,C. Boucher,TOR,Boucher BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0078,2,09:21,TOR,,PHI,,C. Boucher,TOR,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,2,09:14,TOR,39.0,PHI,38.0,C. Boucher,TOR,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,2,09:14,TOR,40.0,PHI,38.0,C. Boucher,TOR,Boucher Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,2,08:50,TOR,,PHI,,C. Boucher,TOR,Boucher STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0078,2,08:43,TOR,,PHI,,C. Boucher,TOR,MISS Boucher 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-228,110,25,1,3.0,0.0,h
+S2425-G0078,2,08:35,TOR,,PHI,,C. Boucher,TOR,SUB: Agbaji FOR Boucher,Substitution,,0,0,0,0,,,h
+S2425-G0078,3,04:35,TOR,,PHI,,C. Boucher,TOR,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,157,197,25,1,3.0,0.0,h
+S2425-G0078,3,03:02,TOR,77.0,PHI,71.0,C. Boucher,TOR,Boucher Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,3,03:02,TOR,78.0,PHI,71.0,C. Boucher,TOR,Boucher Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,3,02:27,TOR,,PHI,,C. Boucher,TOR,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,-190,177,26,1,3.0,0.0,h
+S2425-G0078,3,01:27,TOR,,PHI,,C. Boucher,TOR,Boucher STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0078,4,11:12,TOR,,PHI,,C. Boucher,TOR,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,4,09:23,TOR,,PHI,,C. Boucher,TOR,Boucher BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0078,4,08:41,TOR,,PHI,,C. Boucher,TOR,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,4,08:40,TOR,,PHI,,C. Boucher,TOR,Boucher Lost Ball Turnover (P1.T23),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0078,4,07:31,TOR,,PHI,,C. Boucher,TOR,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,-148,208,26,1,3.0,0.0,h
+S2425-G0078,4,06:51,TOR,,PHI,,C. Boucher,TOR,SUB: Agbaji FOR Boucher,Substitution,,0,0,0,0,,,h
+S2425-G0107,1,04:51,TOR,,DEN,,C. Boucher,TOR,Boucher P.FOUL (P1.T2) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0107,1,01:57,TOR,,DEN,,C. Boucher,TOR,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,-232,-6,0,1,3.0,0.0,h
+S2425-G0107,1,00:48.900000,TOR,,DEN,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,00:47,TOR,,DEN,,C. Boucher,TOR,MISS Boucher Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0107,1,00:37.600000,TOR,,DEN,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,00:28.400000,TOR,30.0,DEN,29.0,C. Boucher,TOR,Boucher 3' Cutting Layup Shot (2 PTS) (Barrett 1 AST),Made Shot,Cutting Layup Shot,28,13,3,1,2.0,2.0,h
+S2425-G0107,3,04:21,TOR,,DEN,,C. Boucher,TOR,Boucher BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0107,3,03:28,TOR,84.0,DEN,73.0,C. Boucher,TOR,Boucher 17' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,167,19,17,1,2.0,2.0,h
+S2425-G0107,3,02:23,TOR,,DEN,,C. Boucher,TOR,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,-98,239,26,1,3.0,0.0,h
+S2425-G0107,3,00:01.200000,TOR,,DEN,,C. Boucher,TOR,MISS Boucher 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,137,8,14,1,2.0,0.0,h
+S2425-G0107,4,07:19,TOR,,DEN,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,4,07:02,TOR,,DEN,,C. Boucher,TOR,Boucher S.FOUL (P2.T4) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0107,4,06:15,TOR,,DEN,,C. Boucher,TOR,SUB: Barnes FOR Boucher,Substitution,,0,0,0,0,,,h
+S2425-G0117,1,04:24,CHA,,TOR,,C. Boucher,TOR,MISS Boucher 27' 3PT Jump Shot,Missed Shot,Jump Shot,-55,260,27,1,3.0,0.0,v
+S2425-G0117,1,04:00,CHA,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,1,02:43,CHA,,TOR,,C. Boucher,TOR,MISS Boucher 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,143,22,14,1,2.0,0.0,v
+S2425-G0117,1,02:33,CHA,,TOR,,C. Boucher,TOR,SUB: Barrett FOR Boucher,Substitution,,0,0,0,0,,,v
+S2425-G0117,2,04:26,CHA,54.0,TOR,45.0,C. Boucher,TOR,Boucher 2' Running Dunk (2 PTS) (Shead 6 AST),Made Shot,Running Dunk Shot,-7,15,2,1,2.0,2.0,v
+S2425-G0117,2,03:26,CHA,,TOR,,C. Boucher,TOR,Boucher BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0117,2,02:13,CHA,61.0,TOR,53.0,C. Boucher,TOR,Boucher 3' Cutting Layup Shot (4 PTS) (Shead 7 AST),Made Shot,Cutting Layup Shot,-23,16,3,1,2.0,2.0,v
+S2425-G0117,2,01:53,CHA,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,2,01:18,CHA,,TOR,,C. Boucher,TOR,Boucher Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0117,2,00:33.700000,CHA,64.0,TOR,59.0,C. Boucher,TOR,Boucher 1' Running Alley Oop Dunk Shot (6 PTS) (Agbaji 1 AST),Made Shot,Running Alley Oop Dunk Shot,0,12,1,1,2.0,2.0,v
+S2425-G0117,2,00:19.600000,CHA,,TOR,,C. Boucher,TOR,SUB: Barrett FOR Boucher,Substitution,,0,0,0,0,,,v
+S2425-G0117,3,06:42,CHA,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,3,06:33,CHA,,TOR,,C. Boucher,TOR,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,164,192,25,1,3.0,0.0,v
+S2425-G0117,3,06:27,CHA,,TOR,,C. Boucher,TOR,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,131,215,25,1,3.0,0.0,v
+S2425-G0117,3,06:08,CHA,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,3,06:07,CHA,77.0,TOR,80.0,C. Boucher,TOR,Boucher Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0117,3,03:33,CHA,87.0,TOR,91.0,C. Boucher,TOR,Boucher 2' Driving Dunk (10 PTS) (Shead 9 AST),Made Shot,Driving Dunk Shot,17,-1,2,1,2.0,2.0,v
+S2425-G0117,3,03:17,CHA,,TOR,,C. Boucher,TOR,Boucher P.FOUL (P1.PN) (P.O'Connell),Foul,Personal,0,0,0,0,,,v
+S2425-G0117,3,03:03,CHA,89.0,TOR,94.0,C. Boucher,TOR,Boucher 3PT Jump Shot (13 PTS) (Agbaji 2 AST),Made Shot,Jump Shot,-228,9,0,1,3.0,3.0,v
+S2425-G0117,3,00:32.800000,CHA,,TOR,,C. Boucher,TOR,SUB: Dick FOR Boucher,Substitution,,0,0,0,0,,,v
+S2425-G0093,1,06:23,MIN,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,1,05:34,MIN,,TOR,,C. Boucher,TOR,MISS Boucher 4' Floating Jump Shot,Missed Shot,Floating Jump shot,43,11,4,1,2.0,0.0,v
+S2425-G0093,1,05:04,MIN,,TOR,,C. Boucher,TOR,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0093,1,05:04,MIN,,TOR,,C. Boucher,TOR,MISS Boucher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0093,1,05:01,MIN,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,1,02:27,MIN,,TOR,,C. Boucher,TOR,MISS Boucher 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,6,0,1,3.0,0.0,v
+S2425-G0093,2,11:44,MIN,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,2,10:56,MIN,,TOR,,C. Boucher,TOR,MISS Boucher 4' Driving Layup,Missed Shot,Driving Layup Shot,31,26,4,1,2.0,0.0,v
+S2425-G0093,2,10:45,MIN,,TOR,,C. Boucher,TOR,Boucher S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2425-G0093,2,10:45,MIN,,TOR,,C. Boucher,TOR,SUB: Carton FOR Boucher,Substitution,,0,0,0,0,,,v
+S2425-G0093,3,03:07,MIN,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,3,01:34,MIN,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,3,01:08,MIN,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,3,01:00,MIN,,TOR,,C. Boucher,TOR,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,201,26,1,3.0,0.0,v
+S2425-G0093,3,00:42.800000,MIN,87.0,TOR,70.0,C. Boucher,TOR,Boucher 1' Cutting Dunk Shot (2 PTS) (Barnes 5 AST),Made Shot,Cutting Dunk Shot,5,10,1,1,2.0,2.0,v
+S2425-G0093,3,00:32.700000,MIN,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,11:34,MIN,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,10:33,MIN,,TOR,,C. Boucher,TOR,MISS Boucher 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-223,116,25,1,3.0,0.0,v
+S2425-G0093,4,08:45,MIN,,TOR,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,08:35,MIN,,TOR,,C. Boucher,TOR,Boucher S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2425-G0093,4,08:12,MIN,,TOR,,C. Boucher,TOR,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,-157,202,26,1,3.0,0.0,v
+S2425-G0093,4,06:52,MIN,98.0,TOR,84.0,C. Boucher,TOR,Boucher 3' Running Layup (4 PTS) (Mitchell 6 AST),Made Shot,Running Layup Shot,22,21,3,1,2.0,2.0,v
+S2425-G0093,4,06:52,MIN,,TOR,,C. Boucher,TOR,SUB: Pöltl FOR Boucher,Substitution,,0,0,0,0,,,v
+S2425-G0067,1,05:40,TOR,,CLE,,C. Boucher,TOR,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0067,1,05:40,TOR,17.0,CLE,11.0,C. Boucher,TOR,Boucher Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,1,04:45,TOR,20.0,CLE,17.0,C. Boucher,TOR,Boucher 26' 3PT Jump Shot (4 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,-168,199,26,1,3.0,3.0,h
+S2425-G0067,1,04:07,TOR,,CLE,,C. Boucher,TOR,Boucher STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0067,1,01:16,TOR,,CLE,,C. Boucher,TOR,Boucher BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0067,1,00:21.900000,TOR,32.0,CLE,31.0,C. Boucher,TOR,Boucher 24' 3PT Jump Shot (7 PTS) (Barnes 3 AST),Made Shot,Jump Shot,-234,32,24,1,3.0,3.0,h
+S2425-G0067,2,10:30,TOR,,CLE,,C. Boucher,TOR,MISS Boucher 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,-10,24,1,3.0,0.0,h
+S2425-G0067,2,09:04,TOR,,CLE,,C. Boucher,TOR,SUB: Pöltl FOR Boucher,Substitution,,0,0,0,0,,,h
+S2425-G0067,3,06:48,TOR,,CLE,,C. Boucher,TOR,MISS Boucher 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-42,29,5,1,2.0,0.0,h
+S2425-G0067,3,04:07,TOR,,CLE,,C. Boucher,TOR,MISS Boucher 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-50,50,7,1,2.0,0.0,h
+S2425-G0067,3,03:46,TOR,67.0,CLE,92.0,C. Boucher,TOR,Boucher 27' 3PT Jump Shot (10 PTS) (Shead 1 AST),Made Shot,Jump Shot,-134,237,27,1,3.0,3.0,h
+S2425-G0067,3,03:30,TOR,,CLE,,C. Boucher,TOR,Boucher Step Out of Bounds Turnover (P1.T13),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0067,3,02:45,TOR,,CLE,,C. Boucher,TOR,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0067,3,02:45,TOR,70.0,CLE,93.0,C. Boucher,TOR,Boucher Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,3,01:37,TOR,75.0,CLE,95.0,C. Boucher,TOR,Boucher 26' 3PT Jump Shot (14 PTS) (Shead 3 AST),Made Shot,Jump Shot,-190,178,26,1,3.0,3.0,h
+S2425-G0067,3,00:18.300000,TOR,,CLE,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,00:18.300000,TOR,79.0,CLE,102.0,C. Boucher,TOR,Boucher Tip Layup Shot (16 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0067,4,11:49,TOR,,CLE,,C. Boucher,TOR,Boucher P.FOUL (P1.T1) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2425-G0067,4,09:45,TOR,84.0,CLE,109.0,C. Boucher,TOR,Boucher Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,4,09:45,TOR,85.0,CLE,109.0,C. Boucher,TOR,Boucher Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,4,09:06,TOR,,CLE,,C. Boucher,TOR,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,4,09:04,TOR,,CLE,,C. Boucher,TOR,MISS Boucher 4' Running Jump Shot,Missed Shot,Running Jump Shot,-6,43,4,1,2.0,0.0,h
+S2425-G0067,4,08:30,TOR,,CLE,,C. Boucher,TOR,SUB: Shead FOR Boucher,Substitution,,0,0,0,0,,,h

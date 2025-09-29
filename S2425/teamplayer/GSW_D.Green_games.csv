@@ -1,0 +1,114 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,10:01,GSW,,NOP,,D. Green,GSW,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0126,1,09:11,GSW,,NOP,,D. Green,GSW,MISS Green 23' Jump Shot,Missed Shot,Jump Shot,-169,160,23,1,2.0,0.0,h
+S2425-G0126,1,08:53,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,08:38,GSW,,NOP,,D. Green,GSW,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-67,255,26,1,3.0,0.0,h
+S2425-G0126,1,08:19,GSW,,NOP,,D. Green,GSW,Green BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0126,1,08:05,GSW,,NOP,,D. Green,GSW,Green P.FOUL (P1.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,1,06:46,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,06:07,GSW,,NOP,,D. Green,GSW,MISS Green 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-6,58,6,1,2.0,0.0,h
+S2425-G0126,1,05:45,GSW,,NOP,,D. Green,GSW,Green Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0126,1,05:37,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,05:14,GSW,,NOP,,D. Green,GSW,SUB: Hield FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,07:55,GSW,,NOP,,D. Green,GSW,MISS Green 4' Driving Layup,Missed Shot,Driving Layup Shot,36,26,4,1,2.0,0.0,h
+S2425-G0126,2,06:40,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P2.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,2,05:43,GSW,37.0,NOP,36.0,D. Green,GSW,Green 26' 3PT Jump Shot (3 PTS) (Podziemski 2 AST),Made Shot,Jump Shot,10,255,26,1,3.0,3.0,h
+S2425-G0126,2,03:54,GSW,39.0,NOP,39.0,D. Green,GSW,Green 4' Layup (5 PTS) (Podziemski 3 AST),Made Shot,Layup Shot,-38,16,4,1,2.0,2.0,h
+S2425-G0126,2,03:24,GSW,42.0,NOP,39.0,D. Green,GSW,Green 26' 3PT Jump Shot (8 PTS) (Moody 2 AST),Made Shot,Jump Shot,10,255,26,1,3.0,3.0,h
+S2425-G0126,2,01:13,GSW,,NOP,,D. Green,GSW,Green BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0126,2,01:13,GSW,,NOP,,D. Green,GSW,Jump Ball (CC) Green vs. Williamson: Tip to Alvarado,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2425-G0126,2,00:56.300000,GSW,,NOP,,D. Green,GSW,Green BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0126,3,10:05,GSW,55.0,NOP,46.0,D. Green,GSW,Green 24' 3PT Jump Shot (11 PTS) (Podziemski 4 AST),Made Shot,Jump Shot,238,28,24,1,3.0,3.0,h
+S2425-G0126,3,07:21,GSW,64.0,NOP,50.0,D. Green,GSW,Green 3' Driving Layup (13 PTS) (Podziemski 7 AST),Made Shot,Driving Layup Shot,-28,12,3,1,2.0,2.0,h
+S2425-G0126,3,07:21,GSW,65.0,NOP,50.0,D. Green,GSW,Green Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0126,3,06:54,GSW,,NOP,,D. Green,GSW,MISS Green 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,-33,68,8,1,2.0,0.0,h
+S2425-G0126,3,06:51,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,06:32,GSW,,NOP,,D. Green,GSW,SUB: Anderson FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0126,3,00:54.200000,GSW,,NOP,,D. Green,GSW,Green Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0126,3,00:00.800000,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P3.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,4,11:25,GSW,,NOP,,D. Green,GSW,SUB: Jackson-Davis FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,07:37,GSW,,NOP,,D. Green,GSW,Green BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0126,4,05:52,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P4.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,4,04:20,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P5.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,4,02:39,GSW,,NOP,,D. Green,GSW,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0126,4,02:24,GSW,,NOP,,D. Green,GSW,Green BLOCK (5 BLK),,,0,0,0,0,,,h
+S2425-G0126,4,01:45,GSW,,NOP,,D. Green,GSW,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,80,25,1,3.0,0.0,h
+S2425-G0126,4,01:22,GSW,,NOP,,D. Green,GSW,SUB: Payton II FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0101,1,09:38,GSW,,LAC,,D. Green,GSW,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,234,16,0,1,3.0,0.0,h
+S2425-G0101,1,07:56,GSW,16.0,LAC,13.0,D. Green,GSW,Green Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0101,1,07:56,GSW,17.0,LAC,13.0,D. Green,GSW,Green Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0101,1,05:24,GSW,,LAC,,D. Green,GSW,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,1,05:20,GSW,,LAC,,D. Green,GSW,Green Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0101,1,04:53,GSW,,LAC,,D. Green,GSW,SUB: Payton II FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0101,2,06:03,GSW,,LAC,,D. Green,GSW,Green Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0101,2,04:05,GSW,,LAC,,D. Green,GSW,MISS Green 5' Running Layup,Missed Shot,Running Layup Shot,27,36,5,1,2.0,0.0,h
+S2425-G0101,2,03:43,GSW,,LAC,,D. Green,GSW,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,2,01:47,GSW,,LAC,,D. Green,GSW,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,3,10:19,GSW,,LAC,,D. Green,GSW,Green S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2425-G0101,3,09:57,GSW,,LAC,,D. Green,GSW,Green P.FOUL (P2.T2) (B.Schwab),Foul,Personal,0,0,0,0,,,h
+S2425-G0101,3,08:26,GSW,,LAC,,D. Green,GSW,Green P.FOUL (P3.T3) (B.Schwab),Foul,Personal,0,0,0,0,,,h
+S2425-G0101,3,07:56,GSW,,LAC,,D. Green,GSW,Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,3,04:32,GSW,,LAC,,D. Green,GSW,SUB: Looney FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0101,4,09:45,GSW,,LAC,,D. Green,GSW,Green REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,08:08,GSW,,LAC,,D. Green,GSW,Green P.FOUL (P4.T1) (B.Schwab),Foul,Personal,0,0,0,0,,,h
+S2425-G0101,4,08:00,GSW,,LAC,,D. Green,GSW,SUB: Looney FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0072,1,09:14,POR,,GSW,,D. Green,GSW,Green Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0072,1,09:11,POR,,GSW,,D. Green,GSW,Green BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0072,1,09:08,POR,,GSW,,D. Green,GSW,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,06:27,POR,12.0,GSW,7.0,D. Green,GSW,Green Running Layup (2 PTS) (Curry 1 AST),Made Shot,Running Layup Shot,2,-1,0,1,2.0,2.0,v
+S2425-G0072,1,05:44,POR,,GSW,,D. Green,GSW,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,04:54,POR,,GSW,,D. Green,GSW,SUB: Looney FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0072,2,05:13,POR,37.0,GSW,39.0,D. Green,GSW,Green 3PT Jump Shot (5 PTS) (Hield 1 AST),Made Shot,Jump Shot,-232,20,0,1,3.0,3.0,v
+S2425-G0072,2,04:19,POR,,GSW,,D. Green,GSW,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,02:51,POR,,GSW,,D. Green,GSW,Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,02:20,POR,,GSW,,D. Green,GSW,Green P.FOUL (P1.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2425-G0072,2,02:20,POR,,GSW,,D. Green,GSW,Green T.FOUL (P1.PN) (T.Maddox),Foul,Technical,0,0,0,0,,,v
+S2425-G0072,2,00:30.400000,POR,,GSW,,D. Green,GSW,Green REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,00:10,POR,50.0,GSW,62.0,D. Green,GSW,Green Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,2,00:10,POR,,GSW,,D. Green,GSW,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0072,3,11:06,POR,,GSW,,D. Green,GSW,Green BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0072,3,11:03,POR,,GSW,,D. Green,GSW,Green REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,10:29,POR,,GSW,,D. Green,GSW,Green Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0072,3,09:44,POR,,GSW,,D. Green,GSW,Green STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0072,3,09:13,POR,,GSW,,D. Green,GSW,Green S.FOUL (P2.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2425-G0072,3,07:01,POR,60.0,GSW,74.0,D. Green,GSW,Green 1' Layup (8 PTS) (Jackson-Davis 2 AST),Made Shot,Layup Shot,-6,1,1,1,2.0,2.0,v
+S2425-G0072,3,05:11,POR,,GSW,,D. Green,GSW,Green P.FOUL (P3.T3) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2425-G0072,3,04:57,POR,,GSW,,D. Green,GSW,Green Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0072,3,04:57,POR,,GSW,,D. Green,GSW,SUB: Looney FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,11:08,GSW,,NOP,,D. Green,GSW,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,-222,0,0,1,3.0,0.0,h
+S2425-G0116,1,09:50,GSW,,NOP,,D. Green,GSW,Green BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,1,06:53,GSW,,NOP,,D. Green,GSW,SUB: Payton II FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0116,1,01:44,GSW,,NOP,,D. Green,GSW,Green BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0116,1,01:33,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,11:42,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,2,09:49,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,2,08:55,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,08:53,GSW,,NOP,,D. Green,GSW,MISS Green Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0116,2,08:53,GSW,,NOP,,D. Green,GSW,SUB: Looney FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,01:44,GSW,,NOP,,D. Green,GSW,MISS Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,-70,271,28,1,3.0,0.0,h
+S2425-G0116,2,00:31.800000,GSW,47.0,NOP,51.0,D. Green,GSW,Green 29' 3PT Jump Shot (3 PTS) (Podziemski 4 AST),Made Shot,Jump Shot,-125,257,29,1,3.0,3.0,h
+S2425-G0116,3,11:15,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P3.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,3,08:57,GSW,,NOP,,D. Green,GSW,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,3,07:28,GSW,,NOP,,D. Green,GSW,Green REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,05:02,GSW,,NOP,,D. Green,GSW,SUB: Anderson FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,09:54,GSW,,NOP,,D. Green,GSW,Green S.FOUL (P4.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,4,07:09,GSW,,NOP,,D. Green,GSW,SUB: Podziemski FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,02:43,GSW,,NOP,,D. Green,GSW,SUB: Santos FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0084,1,09:53,UTA,,GSW,,D. Green,GSW,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-121,230,26,1,3.0,0.0,v
+S2425-G0084,1,07:36,UTA,,GSW,,D. Green,GSW,Green Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0084,1,07:02,UTA,,GSW,,D. Green,GSW,Green P.FOUL (P1.T2) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2425-G0084,1,06:50,UTA,,GSW,,D. Green,GSW,Green STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0084,1,05:36,UTA,,GSW,,D. Green,GSW,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,05:06,UTA,,GSW,,D. Green,GSW,SUB: Looney FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0084,2,04:39,UTA,,GSW,,D. Green,GSW,MISS Green 24' Jump Shot,Missed Shot,Jump Shot,-135,195,24,1,2.0,0.0,v
+S2425-G0084,2,04:18,UTA,,GSW,,D. Green,GSW,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0084,2,04:09,UTA,,GSW,,D. Green,GSW,Green S.FOUL (P2.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2425-G0084,2,03:35,UTA,,GSW,,D. Green,GSW,Green STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0084,2,01:50,UTA,,GSW,,D. Green,GSW,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,00:45.600000,UTA,,GSW,,D. Green,GSW,Green S.FOUL (P3.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2425-G0084,2,00:45.600000,UTA,,GSW,,D. Green,GSW,SUB: Looney FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0084,3,10:50,UTA,,GSW,,D. Green,GSW,Green STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0084,3,10:39,UTA,45.0,GSW,62.0,D. Green,GSW,Green 24' 3PT Jump Shot (3 PTS) (Wiggins 4 AST),Made Shot,Jump Shot,235,8,24,1,3.0,3.0,v
+S2425-G0084,3,08:20,UTA,,GSW,,D. Green,GSW,MISS Green 6' Layup,Missed Shot,Layup Shot,47,30,6,1,2.0,0.0,v
+S2425-G0084,3,04:30,UTA,,GSW,,D. Green,GSW,Green Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0084,3,04:14,UTA,,GSW,,D. Green,GSW,SUB: Podziemski FOR Green,Substitution,,0,0,0,0,,,v

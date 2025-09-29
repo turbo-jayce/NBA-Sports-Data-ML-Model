@@ -1,0 +1,96 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,11:35,DAL,,SAS,,K. Thompson,DAL,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,1,09:58,DAL,,SAS,,K. Thompson,DAL,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,1,09:16,DAL,4.0,SAS,6.0,K. Thompson,DAL,Thompson 19' Pullup Jump Shot (2 PTS) (Dončić 1 AST),Made Shot,Pullup Jump shot,145,125,19,1,2.0,2.0,h
+S2425-G0074,1,09:04,DAL,,SAS,,K. Thompson,DAL,Thompson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0074,1,08:44,DAL,,SAS,,K. Thompson,DAL,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,1,07:19,DAL,,SAS,,K. Thompson,DAL,Thompson STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0074,1,07:12,DAL,12.0,SAS,10.0,K. Thompson,DAL,Thompson 3PT Jump Shot (5 PTS) (Dončić 2 AST),Made Shot,Jump Shot,233,4,0,1,3.0,3.0,h
+S2425-G0074,1,06:03,DAL,,SAS,,K. Thompson,DAL,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,50,243,25,1,3.0,0.0,h
+S2425-G0074,1,05:17,DAL,,SAS,,K. Thompson,DAL,MISS Thompson 5' Driving Layup,Missed Shot,Driving Layup Shot,-34,34,5,1,2.0,0.0,h
+S2425-G0074,1,04:32,DAL,,SAS,,K. Thompson,DAL,SUB: Marshall FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0074,2,11:25,DAL,,SAS,,K. Thompson,DAL,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,10:55,DAL,,SAS,,K. Thompson,DAL,MISS Thompson 28' 3PT Jump Shot,Missed Shot,Jump Shot,167,221,28,1,3.0,0.0,h
+S2425-G0074,2,10:47,DAL,,SAS,,K. Thompson,DAL,MISS Thompson 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-183,157,24,1,3.0,0.0,h
+S2425-G0074,2,09:50,DAL,,SAS,,K. Thompson,DAL,Thompson S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2425-G0074,2,08:29,DAL,,SAS,,K. Thompson,DAL,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,08:26,DAL,25.0,SAS,26.0,K. Thompson,DAL,Thompson 25' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,-184,172,25,1,3.0,3.0,h
+S2425-G0074,2,07:24,DAL,,SAS,,K. Thompson,DAL,Thompson REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,05:59,DAL,,SAS,,K. Thompson,DAL,SUB: Hardy FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0074,3,11:04,DAL,50.0,SAS,49.0,K. Thompson,DAL,Thompson 3PT Jump Shot (11 PTS) (Washington 1 AST),Made Shot,Jump Shot,228,49,0,1,3.0,3.0,h
+S2425-G0074,3,10:00,DAL,,SAS,,K. Thompson,DAL,Thompson REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,3,09:56,DAL,56.0,SAS,51.0,K. Thompson,DAL,Thompson 26' 3PT Running Jump Shot (14 PTS) (Dončić 5 AST),Made Shot,Running Jump Shot,-165,205,26,1,3.0,3.0,h
+S2425-G0074,3,08:34,DAL,,SAS,,K. Thompson,DAL,Thompson STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0074,3,08:18,DAL,62.0,SAS,53.0,K. Thompson,DAL,Thompson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,3,08:18,DAL,63.0,SAS,53.0,K. Thompson,DAL,Thompson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,3,05:52,DAL,,SAS,,K. Thompson,DAL,MISS Thompson 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,127,116,17,1,2.0,0.0,h
+S2425-G0074,3,05:25,DAL,,SAS,,K. Thompson,DAL,SUB: Hardy FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0074,4,10:29,DAL,97.0,SAS,83.0,K. Thompson,DAL,Thompson 26' 3PT Jump Shot (19 PTS) (Dončić 7 AST),Made Shot,Jump Shot,97,239,26,1,3.0,3.0,h
+S2425-G0074,4,08:14,DAL,106.0,SAS,85.0,K. Thompson,DAL,Thompson 26' 3PT Jump Shot (22 PTS) (Dončić 8 AST),Made Shot,Jump Shot,-184,180,26,1,3.0,3.0,h
+S2425-G0074,4,06:04,DAL,,SAS,,K. Thompson,DAL,MISS Thompson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,64,241,25,1,3.0,0.0,h
+S2425-G0074,4,05:59,DAL,,SAS,,K. Thompson,DAL,SUB: Marshall FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0110,1,11:21,DAL,,UTA,,K. Thompson,DAL,MISS Thompson 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-165,178,24,1,3.0,0.0,h
+S2425-G0110,1,10:48,DAL,3.0,UTA,2.0,K. Thompson,DAL,Thompson 26' 3PT Jump Shot (3 PTS) (Dončić 1 AST),Made Shot,Jump Shot,100,242,26,1,3.0,3.0,h
+S2425-G0110,1,09:38,DAL,,UTA,,K. Thompson,DAL,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,1,08:04,DAL,,UTA,,K. Thompson,DAL,MISS Thompson 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-223,2,0,1,3.0,0.0,h
+S2425-G0110,1,04:09,DAL,,UTA,,K. Thompson,DAL,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,1,04:09,DAL,19.0,UTA,12.0,K. Thompson,DAL,Thompson 20' Jump Shot (5 PTS),Made Shot,Jump Shot,148,132,20,1,2.0,2.0,h
+S2425-G0110,1,03:44,DAL,,UTA,,K. Thompson,DAL,MISS Thompson 3PT Jump Shot,Missed Shot,Jump Shot,-223,-5,0,1,3.0,0.0,h
+S2425-G0110,1,03:18,DAL,,UTA,,K. Thompson,DAL,SUB: Marshall FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0110,2,06:28,DAL,37.0,UTA,31.0,K. Thompson,DAL,Thompson 6' Driving Floating Jump Shot (7 PTS) (Washington 1 AST),Made Shot,Driving Floating Jump Shot,33,52,6,1,2.0,2.0,h
+S2425-G0110,2,04:50,DAL,,UTA,,K. Thompson,DAL,MISS Thompson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,115,230,26,1,3.0,0.0,h
+S2425-G0110,2,04:43,DAL,,UTA,,K. Thompson,DAL,SUB: Marshall FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0110,2,00:29.800000,DAL,49.0,UTA,41.0,K. Thompson,DAL,Thompson 25' 3PT Jump Shot (10 PTS) (Lively II 1 AST),Made Shot,Jump Shot,-44,245,25,1,3.0,3.0,h
+S2425-G0110,3,11:49,DAL,52.0,UTA,43.0,K. Thompson,DAL,Thompson 26' 3PT Jump Shot (13 PTS) (Dončić 5 AST),Made Shot,Jump Shot,-123,227,26,1,3.0,3.0,h
+S2425-G0110,3,10:40,DAL,,UTA,,K. Thompson,DAL,MISS Thompson 3PT Jump Shot,Missed Shot,Jump Shot,-228,-10,0,1,3.0,0.0,h
+S2425-G0110,3,09:52,DAL,,UTA,,K. Thompson,DAL,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,07:11,DAL,,UTA,,K. Thompson,DAL,MISS Thompson 3PT Jump Shot,Missed Shot,Jump Shot,-230,15,0,1,3.0,0.0,h
+S2425-G0110,3,06:27,DAL,,UTA,,K. Thompson,DAL,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-189,162,25,1,3.0,0.0,h
+S2425-G0110,3,04:31,DAL,,UTA,,K. Thompson,DAL,SUB: Irving FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0110,4,05:46,DAL,98.0,UTA,87.0,K. Thompson,DAL,Thompson 14' Turnaround Jump Shot (15 PTS),Made Shot,Turnaround Jump Shot,143,12,14,1,2.0,2.0,h
+S2425-G0110,4,05:13,DAL,,UTA,,K. Thompson,DAL,MISS Thompson 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,56,133,14,1,2.0,0.0,h
+S2425-G0110,4,04:52,DAL,101.0,UTA,90.0,K. Thompson,DAL,Thompson 24' 3PT Jump Shot (18 PTS) (Dončić 7 AST),Made Shot,Jump Shot,225,71,24,1,3.0,3.0,h
+S2425-G0110,4,04:17,DAL,,UTA,,K. Thompson,DAL,Thompson Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0110,4,01:30,DAL,,UTA,,K. Thompson,DAL,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,4,01:06,DAL,,UTA,,K. Thompson,DAL,SUB: Powell FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0114,1,04:38,MIN,21.0,DAL,23.0,K. Thompson,DAL,Thompson 26' 3PT Jump Shot (3 PTS) (Dončić 2 AST),Made Shot,Jump Shot,-185,180,26,1,3.0,3.0,v
+S2425-G0114,1,04:08,MIN,,DAL,,K. Thompson,DAL,SUB: Marshall FOR Thompson,Substitution,,0,0,0,0,,,v
+S2425-G0114,2,03:31,MIN,49.0,DAL,51.0,K. Thompson,DAL,Thompson Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0114,2,03:24,MIN,49.0,DAL,54.0,K. Thompson,DAL,Thompson 25' 3PT Pullup Jump Shot (7 PTS) (Gafford 1 AST),Made Shot,Pullup Jump shot,-192,162,25,1,3.0,3.0,v
+S2425-G0114,2,03:08,MIN,,DAL,,K. Thompson,DAL,Thompson S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,2,02:37,MIN,,DAL,,K. Thompson,DAL,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,38,246,25,1,3.0,0.0,v
+S2425-G0114,2,01:22,MIN,,DAL,,K. Thompson,DAL,Thompson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0114,3,06:19,MIN,,DAL,,K. Thompson,DAL,MISS Thompson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-202,130,24,1,3.0,0.0,v
+S2425-G0114,3,05:58,MIN,,DAL,,K. Thompson,DAL,MISS Thompson 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-216,106,24,1,3.0,0.0,v
+S2425-G0114,3,05:33,MIN,,DAL,,K. Thompson,DAL,SUB: Dinwiddie FOR Thompson,Substitution,,0,0,0,0,,,v
+S2425-G0114,4,07:31,MIN,,DAL,,K. Thompson,DAL,MISS Thompson 3PT Jump Shot,Missed Shot,Jump Shot,-232,0,0,1,3.0,0.0,v
+S2425-G0114,4,01:26,MIN,,DAL,,K. Thompson,DAL,MISS Thompson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-165,180,24,1,3.0,0.0,v
+S2425-G0095,1,11:00,PHX,,DAL,,K. Thompson,DAL,Thompson S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,1,10:42,PHX,2.0,DAL,2.0,K. Thompson,DAL,Thompson 16' Pullup Jump Shot (2 PTS) (Gafford 1 AST),Made Shot,Pullup Jump shot,157,-23,16,1,2.0,2.0,v
+S2425-G0095,1,09:02,PHX,,DAL,,K. Thompson,DAL,MISS Thompson 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,181,242,30,1,3.0,0.0,v
+S2425-G0095,1,08:37,PHX,7.0,DAL,9.0,K. Thompson,DAL,Thompson 19' Pullup Jump Shot (4 PTS) (Gafford 2 AST),Made Shot,Pullup Jump shot,-15,189,19,1,2.0,2.0,v
+S2425-G0095,1,06:31,PHX,,DAL,,K. Thompson,DAL,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,06:24,PHX,,DAL,,K. Thompson,DAL,MISS Thompson 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,28,174,18,1,2.0,0.0,v
+S2425-G0095,1,06:09,PHX,,DAL,,K. Thompson,DAL,MISS Thompson 26' 3PT Jump Shot,Missed Shot,Jump Shot,137,225,26,1,3.0,0.0,v
+S2425-G0095,1,05:11,PHX,,DAL,,K. Thompson,DAL,SUB: Marshall FOR Thompson,Substitution,,0,0,0,0,,,v
+S2425-G0095,1,00:00.100000,PHX,,DAL,,K. Thompson,DAL,SUB: Marshall FOR Thompson,Substitution,,0,0,0,0,,,v
+S2425-G0095,2,07:34,PHX,44.0,DAL,35.0,K. Thompson,DAL,Thompson 27' 3PT Jump Shot (7 PTS) (Dončić 1 AST),Made Shot,Jump Shot,192,190,27,1,3.0,3.0,v
+S2425-G0095,2,07:02,PHX,,DAL,,K. Thompson,DAL,Thompson Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0095,2,06:34,PHX,,DAL,,K. Thompson,DAL,MISS Thompson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,229,110,25,1,3.0,0.0,v
+S2425-G0095,2,02:14,PHX,58.0,DAL,51.0,K. Thompson,DAL,Thompson 24' 3PT Jump Shot (10 PTS) (Irving 3 AST),Made Shot,Jump Shot,-186,159,24,1,3.0,3.0,v
+S2425-G0095,3,10:56,PHX,,DAL,,K. Thompson,DAL,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,3,10:50,PHX,66.0,DAL,60.0,K. Thompson,DAL,Thompson 3PT Jump Shot (13 PTS) (Dončić 3 AST),Made Shot,Jump Shot,222,2,0,1,3.0,3.0,v
+S2425-G0095,3,08:59,PHX,,DAL,,K. Thompson,DAL,Thompson S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,3,08:24,PHX,,DAL,,K. Thompson,DAL,MISS Thompson 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,99,8,10,1,2.0,0.0,v
+S2425-G0095,3,07:13,PHX,,DAL,,K. Thompson,DAL,Thompson S.FOUL (P3.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,3,05:56,PHX,,DAL,,K. Thompson,DAL,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,3,05:41,PHX,,DAL,,K. Thompson,DAL,SUB: Marshall FOR Thompson,Substitution,,0,0,0,0,,,v
+S2425-G0095,4,11:27,PHX,91.0,DAL,83.0,K. Thompson,DAL,Thompson 24' 3PT Jump Shot (16 PTS) (Kleber 2 AST),Made Shot,Jump Shot,-241,38,24,1,3.0,3.0,v
+S2425-G0095,4,08:28,PHX,,DAL,,K. Thompson,DAL,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,213,134,25,1,3.0,0.0,v
+S2425-G0095,4,06:50,PHX,,DAL,,K. Thompson,DAL,MISS Thompson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-167,205,26,1,3.0,0.0,v
+S2425-G0095,4,05:38,PHX,,DAL,,K. Thompson,DAL,Thompson S.FOUL (P4.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0095,4,05:23,PHX,,DAL,,K. Thompson,DAL,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,176,25,1,3.0,0.0,v
+S2425-G0095,4,05:19,PHX,106.0,DAL,96.0,K. Thompson,DAL,Thompson 26' 3PT Jump Shot (19 PTS) (Lively II 2 AST),Made Shot,Jump Shot,-158,211,26,1,3.0,3.0,v
+S2425-G0095,4,04:59,PHX,,DAL,,K. Thompson,DAL,Thompson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0095,4,04:48,PHX,,DAL,,K. Thompson,DAL,MISS Thompson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-164,212,27,1,3.0,0.0,v
+S2425-G0095,4,01:01,PHX,,DAL,,K. Thompson,DAL,SUB: Grimes FOR Thompson,Substitution,,0,0,0,0,,,v

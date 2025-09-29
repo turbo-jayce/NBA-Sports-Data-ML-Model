@@ -1,0 +1,176 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,1,11:37,TOR,2.0,PHI,0.0,S. Barnes,TOR,Barnes 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,6,4,1,1,2.0,2.0,h
+S2425-G0078,1,08:17,TOR,,PHI,,S. Barnes,TOR,MISS Barnes 27' 3PT Jump Shot,Missed Shot,Jump Shot,-37,265,27,1,3.0,0.0,h
+S2425-G0078,1,07:19,TOR,,PHI,,S. Barnes,TOR,Barnes Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0078,1,05:19,TOR,,PHI,,S. Barnes,TOR,SUB: Boucher FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0078,1,02:30,TOR,25.0,PHI,22.0,S. Barnes,TOR,Barnes 2' Driving Layup (4 PTS) (Boucher 1 AST),Made Shot,Driving Layup Shot,-23,4,2,1,2.0,2.0,h
+S2425-G0078,1,01:23,TOR,,PHI,,S. Barnes,TOR,MISS Barnes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0078,1,01:23,TOR,26.0,PHI,27.0,S. Barnes,TOR,Barnes Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,1,01:02,TOR,,PHI,,S. Barnes,TOR,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,1,00:56.400000,TOR,27.0,PHI,27.0,S. Barnes,TOR,Barnes Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,1,00:56.400000,TOR,28.0,PHI,27.0,S. Barnes,TOR,Barnes Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,1,00:08.400000,TOR,30.0,PHI,31.0,S. Barnes,TOR,Barnes 15' Turnaround Jump Shot (9 PTS) (Shead 2 AST),Made Shot,Turnaround Jump Shot,-148,12,15,1,2.0,2.0,h
+S2425-G0078,2,10:16,TOR,36.0,PHI,35.0,S. Barnes,TOR,Barnes 4' Cutting Layup Shot (11 PTS) (Shead 4 AST),Made Shot,Cutting Layup Shot,31,21,4,1,2.0,2.0,h
+S2425-G0078,2,09:40,TOR,,PHI,,S. Barnes,TOR,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,2,08:35,TOR,,PHI,,S. Barnes,TOR,SUB: Pöltl FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0078,2,03:35,TOR,,PHI,,S. Barnes,TOR,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,2,02:59,TOR,,PHI,,S. Barnes,TOR,Barnes Traveling Turnover (P2.T13),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0078,3,09:54,TOR,,PHI,,S. Barnes,TOR,Barnes STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0078,3,09:43,TOR,,PHI,,S. Barnes,TOR,Barnes Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0078,3,09:43,TOR,,PHI,,S. Barnes,TOR,Barnes L.B.FOUL (P1.T3) (P.Fraher),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0078,3,09:43,TOR,,PHI,,S. Barnes,TOR,Barnes T.FOUL (P1.T3) (P.Fraher),Foul,Technical,0,0,0,0,,,h
+S2425-G0078,3,07:10,TOR,,PHI,,S. Barnes,TOR,Barnes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0078,3,06:19,TOR,71.0,PHI,64.0,S. Barnes,TOR,Barnes Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,3,06:19,TOR,72.0,PHI,64.0,S. Barnes,TOR,Barnes Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,3,06:04,TOR,,PHI,,S. Barnes,TOR,SUB: Fernando FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0078,3,02:17,TOR,,PHI,,S. Barnes,TOR,Barnes Bad Pass Turnover (P4.T21),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0078,3,01:54,TOR,80.0,PHI,76.0,S. Barnes,TOR,Barnes 7' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,60,27,7,1,2.0,2.0,h
+S2425-G0078,3,00:39.200000,TOR,83.0,PHI,76.0,S. Barnes,TOR,Barnes Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,3,00:39.200000,TOR,,PHI,,S. Barnes,TOR,MISS Barnes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0078,3,00:04.800000,TOR,,PHI,,S. Barnes,TOR,MISS Barnes 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,44,117,13,1,2.0,0.0,h
+S2425-G0078,4,10:52,TOR,,PHI,,S. Barnes,TOR,Jump Ball Barnes vs. Lowry: Tip to Carton,Jump Ball,,0,0,0,0,,,h
+S2425-G0078,4,10:34,TOR,,PHI,,S. Barnes,TOR,Barnes STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0078,4,10:29,TOR,86.0,PHI,77.0,S. Barnes,TOR,Barnes 1' Running Dunk (18 PTS) (Mogbo 5 AST),Made Shot,Running Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2425-G0078,4,10:29,TOR,87.0,PHI,77.0,S. Barnes,TOR,Barnes Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0078,4,09:37,TOR,,PHI,,S. Barnes,TOR,SUB: Pöltl FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0078,4,05:55,TOR,,PHI,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,4,05:55,TOR,101.0,PHI,85.0,S. Barnes,TOR,Barnes Putback Layup (21 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0078,4,03:50,TOR,,PHI,,S. Barnes,TOR,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,-168,195,26,1,3.0,0.0,h
+S2425-G0078,4,03:23,TOR,102.0,PHI,92.0,S. Barnes,TOR,Barnes Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,4,03:23,TOR,103.0,PHI,92.0,S. Barnes,TOR,Barnes Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,4,01:36,TOR,,PHI,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,4,01:17,TOR,107.0,PHI,96.0,S. Barnes,TOR,Barnes 1' Driving Dunk (25 PTS),Made Shot,Driving Dunk Shot,7,3,1,1,2.0,2.0,h
+S2425-G0078,4,00:37.100000,TOR,,PHI,,S. Barnes,TOR,Barnes P.FOUL (P2.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2425-G0078,4,00:21.700000,TOR,114.0,PHI,107.0,S. Barnes,TOR,Barnes Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,4,00:21.700000,TOR,115.0,PHI,107.0,S. Barnes,TOR,Barnes Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0107,1,11:34,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,08:57,TOR,,DEN,,S. Barnes,TOR,Barnes STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0107,1,06:13,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,06:04,TOR,19.0,DEN,18.0,S. Barnes,TOR,Barnes 7' Running Layup (2 PTS),Made Shot,Running Layup Shot,36,62,7,1,2.0,2.0,h
+S2425-G0107,1,05:31,TOR,,DEN,,S. Barnes,TOR,SUB: Boucher FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0107,1,01:18,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,00:52.900000,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,00:50.100000,TOR,,DEN,,S. Barnes,TOR,MISS Barnes 7' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-28,62,7,1,2.0,0.0,h
+S2425-G0107,2,11:16,TOR,,DEN,,S. Barnes,TOR,Barnes STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0107,2,10:51,TOR,,DEN,,S. Barnes,TOR,MISS Barnes 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-123,127,18,1,2.0,0.0,h
+S2425-G0107,2,10:38,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,2,09:27,TOR,,DEN,,S. Barnes,TOR,Barnes STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0107,2,09:21,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,2,09:18,TOR,38.0,DEN,32.0,S. Barnes,TOR,Barnes 5' Hook Shot (4 PTS),Made Shot,Hook Shot,-2,53,5,1,2.0,2.0,h
+S2425-G0107,2,08:26,TOR,40.0,DEN,36.0,S. Barnes,TOR,Barnes 10' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,-56,83,10,1,2.0,2.0,h
+S2425-G0107,2,07:59,TOR,42.0,DEN,39.0,S. Barnes,TOR,Barnes 4' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-34,15,4,1,2.0,2.0,h
+S2425-G0107,2,07:44,TOR,,DEN,,S. Barnes,TOR,SUB: Pöltl FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0107,2,02:53,TOR,55.0,DEN,47.0,S. Barnes,TOR,Barnes 9' Turnaround Fadeaway (10 PTS) (Dick 3 AST),Made Shot,Turnaround Fadeaway shot,-51,70,9,1,2.0,2.0,h
+S2425-G0107,2,00:33.900000,TOR,62.0,DEN,54.0,S. Barnes,TOR,Barnes 8' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,-2,79,8,1,2.0,2.0,h
+S2425-G0107,2,00:11.500000,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,2,00:02.500000,TOR,,DEN,,S. Barnes,TOR,MISS Barnes 6' Driving Dunk,Missed Shot,Driving Dunk Shot,9,64,6,1,2.0,0.0,h
+S2425-G0107,3,11:38,TOR,,DEN,,S. Barnes,TOR,MISS Barnes 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,9,8,1,1,2.0,0.0,h
+S2425-G0107,3,09:51,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,08:49,TOR,,DEN,,S. Barnes,TOR,MISS Barnes 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-33,56,7,1,2.0,0.0,h
+S2425-G0107,3,07:43,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,07:35,TOR,75.0,DEN,60.0,S. Barnes,TOR,Barnes 8' Turnaround Bank Hook Shot (14 PTS),Made Shot,Turnaround Bank Hook Shot,60,48,8,1,2.0,2.0,h
+S2425-G0107,3,06:20,TOR,,DEN,,S. Barnes,TOR,Barnes OFF.Foul (P1) (A.Smith),Foul,Offensive,0,0,0,0,,,h
+S2425-G0107,3,06:20,TOR,,DEN,,S. Barnes,TOR,Barnes Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0107,3,06:08,TOR,,DEN,,S. Barnes,TOR,SUB: Boucher FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0107,3,02:06,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,01:52,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,01:40,TOR,,DEN,,S. Barnes,TOR,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,-70,252,26,1,3.0,0.0,h
+S2425-G0107,3,00:51.100000,TOR,,DEN,,S. Barnes,TOR,MISS Barnes 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,250,25,1,3.0,0.0,h
+S2425-G0107,3,00:21.700000,TOR,,DEN,,S. Barnes,TOR,Barnes Violation:Defensive Goaltending (S.Mitchell),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2425-G0107,4,11:26,TOR,,DEN,,S. Barnes,TOR,Barnes STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0107,4,11:24,TOR,,DEN,,S. Barnes,TOR,"Double Technical - Barnes, Gordon (J.Capers)",Foul,Double Technical,0,0,0,0,,,
+S2425-G0107,4,11:24,TOR,,DEN,,S. Barnes,TOR,MISS Barnes Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0107,4,11:24,TOR,89.0,DEN,83.0,S. Barnes,TOR,Barnes Free Throw Flagrant 2 of 2 (15 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0107,4,10:10,TOR,91.0,DEN,85.0,S. Barnes,TOR,Barnes 5' Jump Bank Shot (17 PTS),Made Shot,Jump Bank Shot,-33,32,5,1,2.0,2.0,h
+S2425-G0107,4,09:04,TOR,,DEN,,S. Barnes,TOR,Barnes STEAL (5 STL),,,0,0,0,0,,,h
+S2425-G0107,4,08:55,TOR,,DEN,,S. Barnes,TOR,SUB: Dick FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0107,4,04:20,TOR,,DEN,,S. Barnes,TOR,Barnes Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0107,4,04:16,TOR,,DEN,,S. Barnes,TOR,Barnes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0107,4,03:32,TOR,,DEN,,S. Barnes,TOR,MISS Barnes 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-44,40,6,1,2.0,0.0,h
+S2425-G0107,4,03:28,TOR,,DEN,,S. Barnes,TOR,MISS Barnes 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-7,58,6,1,2.0,0.0,h
+S2425-G0107,4,02:57,TOR,,DEN,,S. Barnes,TOR,Barnes Out of Bounds Lost Ball Turnover (P3.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0107,4,02:40,TOR,,DEN,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,4,02:34,TOR,,DEN,,S. Barnes,TOR,Barnes Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0107,4,02:17,TOR,111.0,DEN,101.0,S. Barnes,TOR,Barnes 26' 3PT Jump Shot (20 PTS) (Mitchell 6 AST),Made Shot,Jump Shot,-26,255,26,1,3.0,3.0,h
+S2425-G0107,4,01:43,TOR,112.0,DEN,104.0,S. Barnes,TOR,Barnes Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0107,4,01:43,TOR,,DEN,,S. Barnes,TOR,MISS Barnes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0107,4,00:34.600000,TOR,,DEN,,S. Barnes,TOR,MISS Barnes 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,36,82,9,1,2.0,0.0,h
+S2425-G0107,4,00:24,TOR,,DEN,,S. Barnes,TOR,SUB: Agbaji FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0093,1,11:40,MIN,,TOR,,S. Barnes,TOR,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,-173,188,26,1,3.0,0.0,v
+S2425-G0093,1,10:34,MIN,,TOR,,S. Barnes,TOR,Barnes Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0093,1,09:12,MIN,,TOR,,S. Barnes,TOR,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,1,08:21,MIN,,TOR,,S. Barnes,TOR,Barnes Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0093,1,07:08,MIN,,TOR,,S. Barnes,TOR,MISS Barnes 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-93,52,11,1,2.0,0.0,v
+S2425-G0093,1,06:26,MIN,,TOR,,S. Barnes,TOR,SUB: Boucher FOR Barnes,Substitution,,0,0,0,0,,,v
+S2425-G0093,1,02:40,MIN,22.0,TOR,14.0,S. Barnes,TOR,Barnes 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-40,109,12,1,2.0,2.0,v
+S2425-G0093,1,02:33,MIN,,TOR,,S. Barnes,TOR,Barnes STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0093,1,01:50,MIN,,TOR,,S. Barnes,TOR,MISS Barnes 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-34,242,24,1,3.0,0.0,v
+S2425-G0093,1,00:05.700000,MIN,32.0,TOR,18.0,S. Barnes,TOR,Barnes 17' Jump Shot (4 PTS),Made Shot,Jump Shot,-110,127,17,1,2.0,2.0,v
+S2425-G0093,2,10:04,MIN,,TOR,,S. Barnes,TOR,Barnes Traveling Turnover (P3.T7),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0093,2,09:08,MIN,,TOR,,S. Barnes,TOR,MISS Barnes 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-156,145,21,1,2.0,0.0,v
+S2425-G0093,2,08:25,MIN,,TOR,,S. Barnes,TOR,SUB: Pöltl FOR Barnes,Substitution,,0,0,0,0,,,v
+S2425-G0093,2,03:22,MIN,,TOR,,S. Barnes,TOR,Barnes S.FOUL (P1.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2425-G0093,2,02:52,MIN,,TOR,,S. Barnes,TOR,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,2,02:42,MIN,49.0,TOR,37.0,S. Barnes,TOR,Barnes 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,22,6,2,1,2.0,2.0,v
+S2425-G0093,2,01:39,MIN,,TOR,,S. Barnes,TOR,Barnes Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0093,3,11:33,MIN,56.0,TOR,46.0,S. Barnes,TOR,Barnes 5' Turnaround Fadeaway Bank Jump Shot (8 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,-47,18,5,1,2.0,2.0,v
+S2425-G0093,3,09:55,MIN,,TOR,,S. Barnes,TOR,MISS Barnes 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,4,181,18,1,2.0,0.0,v
+S2425-G0093,3,09:44,MIN,,TOR,,S. Barnes,TOR,Barnes P.FOUL (P2.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2425-G0093,3,09:27,MIN,,TOR,,S. Barnes,TOR,Barnes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,3,09:01,MIN,,TOR,,S. Barnes,TOR,Raptors T.Foul (Def. 3 Sec Barnes ) (C.Blair),Foul,Defense 3 Second,0,0,0,0,,,v
+S2425-G0093,3,07:24,MIN,,TOR,,S. Barnes,TOR,Barnes Out of Bounds Lost Ball Turnover (P5.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0093,3,06:10,MIN,,TOR,,S. Barnes,TOR,SUB: Shead FOR Barnes,Substitution,,0,0,0,0,,,v
+S2425-G0093,3,01:57,MIN,,TOR,,S. Barnes,TOR,Barnes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,3,01:54,MIN,,TOR,,S. Barnes,TOR,MISS Barnes 6' Running Layup,Missed Shot,Running Layup Shot,-5,58,6,1,2.0,0.0,v
+S2425-G0093,4,11:25,MIN,,TOR,,S. Barnes,TOR,Barnes REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,11:22,MIN,,TOR,,S. Barnes,TOR,MISS Barnes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0093,4,11:22,MIN,89.0,TOR,73.0,S. Barnes,TOR,Barnes Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0093,4,10:29,MIN,,TOR,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,10:29,MIN,89.0,TOR,75.0,S. Barnes,TOR,Barnes 5' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,45,15,5,1,2.0,2.0,v
+S2425-G0093,4,09:40,MIN,91.0,TOR,77.0,S. Barnes,TOR,Barnes 5' Running Layup (13 PTS) (Battle 1 AST),Made Shot,Running Layup Shot,-25,43,5,1,2.0,2.0,v
+S2425-G0093,4,09:09,MIN,,TOR,,S. Barnes,TOR,MISS Barnes 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-74,43,9,1,2.0,0.0,v
+S2425-G0093,4,07:18,MIN,98.0,TOR,82.0,S. Barnes,TOR,Barnes 24' 3PT Running Jump Shot (16 PTS) (Mitchell 5 AST),Made Shot,Running Jump Shot,-228,76,24,1,3.0,3.0,v
+S2425-G0093,4,06:37,MIN,,TOR,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,06:27,MIN,98.0,TOR,86.0,S. Barnes,TOR,Barnes 3' Driving Layup (18 PTS) (Dick 2 AST),Made Shot,Driving Layup Shot,13,31,3,1,2.0,2.0,v
+S2425-G0093,4,04:16,MIN,,TOR,,S. Barnes,TOR,Barnes S.FOUL (P3.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2425-G0093,4,04:06,MIN,,TOR,,S. Barnes,TOR,Barnes Bad Pass Turnover (P6.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0093,4,01:45,MIN,,TOR,,S. Barnes,TOR,Barnes P.FOUL (P4.PN) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2425-G0093,4,01:21,MIN,105.0,TOR,98.0,S. Barnes,TOR,Barnes 1' Running Dunk (20 PTS),Made Shot,Running Dunk Shot,1,8,1,1,2.0,2.0,v
+S2425-G0093,4,00:58.700000,MIN,,TOR,,S. Barnes,TOR,MISS Barnes 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-137,238,27,1,3.0,0.0,v
+S2425-G0093,4,00:56.300000,MIN,,TOR,,S. Barnes,TOR,Barnes REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,00:54.400000,MIN,,TOR,,S. Barnes,TOR,MISS Barnes 5' Driving Dunk,Missed Shot,Driving Dunk Shot,-18,42,5,1,2.0,0.0,v
+S2425-G0093,4,00:16.700000,MIN,,TOR,,S. Barnes,TOR,MISS Barnes 4' Driving Layup,Missed Shot,Driving Layup Shot,28,33,4,1,2.0,0.0,v
+S2425-G0067,1,11:07,TOR,,CLE,,S. Barnes,TOR,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,1,09:39,TOR,7.0,CLE,4.0,S. Barnes,TOR,Barnes 13' Jump Shot (2 PTS) (Quickley 1 AST),Made Shot,Jump Shot,-125,-2,13,1,2.0,2.0,h
+S2425-G0067,1,08:26,TOR,11.0,CLE,9.0,S. Barnes,TOR,Barnes 9' Floating Jump Shot (4 PTS) (Quickley 2 AST),Made Shot,Floating Jump shot,-34,84,9,1,2.0,2.0,h
+S2425-G0067,1,07:53,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-5,104,10,1,2.0,0.0,h
+S2425-G0067,1,06:50,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,229,95,25,1,3.0,0.0,h
+S2425-G0067,1,06:26,TOR,,CLE,,S. Barnes,TOR,SUB: Boucher FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0067,1,02:23,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-103,-8,10,1,2.0,0.0,h
+S2425-G0067,1,01:32,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,-168,194,26,1,3.0,0.0,h
+S2425-G0067,1,00:00.600000,TOR,,CLE,,S. Barnes,TOR,Barnes S.FOUL (P1.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,2,10:47,TOR,,CLE,,S. Barnes,TOR,Barnes Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0067,2,08:46,TOR,,CLE,,S. Barnes,TOR,Barnes P.FOUL (P2.T2) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2425-G0067,2,08:17,TOR,,CLE,,S. Barnes,TOR,SUB: Mitchell FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0067,2,03:47,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,10,120,12,1,2.0,0.0,h
+S2425-G0067,2,03:44,TOR,,CLE,,S. Barnes,TOR,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,2,01:26,TOR,,CLE,,S. Barnes,TOR,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,2,01:04,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 5' Driving Layup,Missed Shot,Driving Layup Shot,0,47,5,1,2.0,0.0,h
+S2425-G0067,2,01:03,TOR,,CLE,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,2,00:52.400000,TOR,,CLE,,S. Barnes,TOR,Barnes S.FOUL (P3.PN) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,2,00:30,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,39,51,6,1,2.0,0.0,h
+S2425-G0067,2,00:04.800000,TOR,,CLE,,S. Barnes,TOR,Barnes Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0067,3,11:43,TOR,51.0,CLE,69.0,S. Barnes,TOR,Barnes 6' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,-2,63,6,1,2.0,2.0,h
+S2425-G0067,3,11:09,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-44,5,4,1,2.0,0.0,h
+S2425-G0067,3,10:12,TOR,,CLE,,S. Barnes,TOR,Barnes S.FOUL (P4.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,3,08:52,TOR,,CLE,,S. Barnes,TOR,Barnes REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,08:47,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 4' Running Layup,Missed Shot,Running Layup Shot,-40,16,4,1,2.0,0.0,h
+S2425-G0067,3,06:43,TOR,,CLE,,S. Barnes,TOR,Barnes REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,06:42,TOR,,CLE,,S. Barnes,TOR,MISS Barnes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0067,3,06:42,TOR,57.0,CLE,83.0,S. Barnes,TOR,Barnes Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,3,06:11,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-140,143,20,1,2.0,0.0,h
+S2425-G0067,3,05:54,TOR,,CLE,,S. Barnes,TOR,SUB: Dick FOR Barnes,Substitution,,0,0,0,0,,,h
+S2425-G0067,3,00:45.900000,TOR,76.0,CLE,101.0,S. Barnes,TOR,Barnes Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,3,00:45.900000,TOR,77.0,CLE,101.0,S. Barnes,TOR,Barnes Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,3,00:34.400000,TOR,,CLE,,S. Barnes,TOR,Barnes S.FOUL (P5.PN) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,3,00:19.800000,TOR,,CLE,,S. Barnes,TOR,MISS Barnes 21' Jump Shot,Missed Shot,Jump Shot,-77,193,21,1,2.0,0.0,h

@@ -1,0 +1,125 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0121,1,10:28,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,1,10:28,WAS,6.0,ATL,0.0,B. Coulibaly,WAS,Coulibaly 2' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,6,16,2,1,2.0,2.0,h
+S2425-G0121,1,08:30,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0121,1,08:03,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,1,08:03,WAS,14.0,ATL,7.0,B. Coulibaly,WAS,Coulibaly Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0121,1,07:09,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,1,07:08,WAS,15.0,ATL,9.0,B. Coulibaly,WAS,Coulibaly Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,1,07:08,WAS,16.0,ATL,9.0,B. Coulibaly,WAS,Coulibaly Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,1,06:42,WAS,19.0,ATL,11.0,B. Coulibaly,WAS,Coulibaly 24' 3PT Jump Shot (9 PTS) (Poole 3 AST),Made Shot,Jump Shot,-243,-16,24,1,3.0,3.0,h
+S2425-G0121,1,06:28,WAS,21.0,ATL,11.0,B. Coulibaly,WAS,Coulibaly 2' Running Alley Oop Dunk Shot (11 PTS) (George 2 AST),Made Shot,Running Alley Oop Dunk Shot,-17,2,2,1,2.0,2.0,h
+S2425-G0121,1,06:17,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly P.FOUL (P1.T2) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2425-G0121,1,06:08,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,1,05:51,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly P.FOUL (P2.T3) (S.Jelks),Foul,Personal,0,0,0,0,,,h
+S2425-G0121,1,04:13,WAS,,ATL,,B. Coulibaly,WAS,SUB: Carrington FOR Coulibaly,Substitution,,0,0,0,0,,,h
+S2425-G0121,2,04:38,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0121,2,03:16,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0121,2,02:49,WAS,,ATL,,B. Coulibaly,WAS,MISS Coulibaly 27' 3PT Jump Shot,Missed Shot,Jump Shot,115,243,27,1,3.0,0.0,h
+S2425-G0121,2,02:30,WAS,51.0,ATL,60.0,B. Coulibaly,WAS,Coulibaly 2' Cutting Dunk Shot (13 PTS) (Sarr 1 AST),Made Shot,Cutting Dunk Shot,-23,6,2,1,2.0,2.0,h
+S2425-G0121,2,02:14,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0121,2,02:04,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,2,02:04,WAS,53.0,ATL,60.0,B. Coulibaly,WAS,Coulibaly Tip Dunk Shot (15 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0121,2,01:37,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly P.FOUL (P3.T3) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2425-G0121,2,01:37,WAS,,ATL,,B. Coulibaly,WAS,SUB: Kispert FOR Coulibaly,Substitution,,0,0,0,0,,,h
+S2425-G0121,3,10:02,WAS,,ATL,,B. Coulibaly,WAS,MISS Coulibaly 3PT Jump Shot,Missed Shot,Jump Shot,-230,-4,0,1,3.0,0.0,h
+S2425-G0121,3,09:18,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,3,07:41,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0121,3,05:00,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0121,3,05:00,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,3,04:46,WAS,77.0,ATL,82.0,B. Coulibaly,WAS,Coulibaly 17' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,129,108,17,1,2.0,2.0,h
+S2425-G0121,3,03:14,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,3,02:41,WAS,86.0,ATL,82.0,B. Coulibaly,WAS,Coulibaly 1' Running Dunk (19 PTS) (Poole 8 AST),Made Shot,Running Dunk Shot,13,3,1,1,2.0,2.0,h
+S2425-G0121,3,02:11,WAS,89.0,ATL,84.0,B. Coulibaly,WAS,Coulibaly 27' 3PT Jump Shot (22 PTS) (Valančiūnas 4 AST),Made Shot,Jump Shot,181,204,27,1,3.0,3.0,h
+S2425-G0121,3,00:35.400000,WAS,93.0,ATL,92.0,B. Coulibaly,WAS,Coulibaly 2' Cutting Finger Roll Layup Shot (24 PTS) (Valančiūnas 5 AST),Made Shot,Cutting Finger Roll Layup Shot,16,0,2,1,2.0,2.0,h
+S2425-G0121,3,00:24.300000,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,4,08:11,WAS,,ATL,,B. Coulibaly,WAS,MISS Coulibaly 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-21,50,5,1,2.0,0.0,h
+S2425-G0121,4,07:59,WAS,112.0,ATL,98.0,B. Coulibaly,WAS,Coulibaly 27' 3PT Jump Shot (27 PTS) (George 4 AST),Made Shot,Jump Shot,103,250,27,1,3.0,3.0,h
+S2425-G0121,4,04:58,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly P.FOUL (P4.T4) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2425-G0121,4,03:13,WAS,,ATL,,B. Coulibaly,WAS,Coulibaly Violation:Kicked Ball (S.Jelks),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0121,4,00:47.800000,WAS,,ATL,,B. Coulibaly,WAS,SUB: Butler FOR Coulibaly,Substitution,,0,0,0,0,,,h
+S2425-G0073,1,11:40,WAS,,BOS,,B. Coulibaly,WAS,Coulibaly Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0073,1,09:23,WAS,7.0,BOS,7.0,B. Coulibaly,WAS,Coulibaly 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,29,17,3,1,2.0,2.0,h
+S2425-G0073,1,08:53,WAS,,BOS,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,07:47,WAS,,BOS,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,06:47,WAS,,BOS,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,06:41,WAS,,BOS,,B. Coulibaly,WAS,MISS Coulibaly Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0073,1,06:41,WAS,16.0,BOS,12.0,B. Coulibaly,WAS,Coulibaly Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0073,1,03:19,WAS,,BOS,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,01:29,WAS,,BOS,,B. Coulibaly,WAS,SUB: Kuzma FOR Coulibaly,Substitution,,0,0,0,0,,,h
+S2425-G0073,2,04:46,WAS,,BOS,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,2,03:50,WAS,52.0,BOS,54.0,B. Coulibaly,WAS,Coulibaly Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0073,2,03:50,WAS,53.0,BOS,54.0,B. Coulibaly,WAS,Coulibaly Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0073,2,02:54,WAS,,BOS,,B. Coulibaly,WAS,Coulibaly Palming Turnover (P2.T10),Turnover,Palming Turnover,0,0,0,0,,,h
+S2425-G0073,2,00:12,WAS,,BOS,,B. Coulibaly,WAS,Coulibaly STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0073,3,10:02,WAS,,BOS,,B. Coulibaly,WAS,MISS Coulibaly 13' Floating Jump Shot,Missed Shot,Floating Jump shot,21,125,13,1,2.0,0.0,h
+S2425-G0073,3,09:29,WAS,,BOS,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,3,03:51,WAS,67.0,BOS,87.0,B. Coulibaly,WAS,Coulibaly Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0073,3,03:51,WAS,68.0,BOS,87.0,B. Coulibaly,WAS,Coulibaly Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0073,3,01:00,WAS,,BOS,,B. Coulibaly,WAS,MISS Coulibaly Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0073,3,01:00,WAS,71.0,BOS,94.0,B. Coulibaly,WAS,Coulibaly Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0073,3,00:27.100000,WAS,,BOS,,B. Coulibaly,WAS,Coulibaly Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0090,1,11:43,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly P.FOUL (P1.T1) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2425-G0090,1,09:36,WAS,,CLE,,B. Coulibaly,WAS,MISS Coulibaly 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,219,26,1,3.0,0.0,h
+S2425-G0090,1,07:45,WAS,8.0,CLE,9.0,B. Coulibaly,WAS,Coulibaly 2' Running Alley Oop Dunk Shot (2 PTS) (Poole 2 AST),Made Shot,Running Alley Oop Dunk Shot,23,9,2,1,2.0,2.0,h
+S2425-G0090,1,07:14,WAS,11.0,CLE,12.0,B. Coulibaly,WAS,Coulibaly 26' 3PT Jump Shot (5 PTS) (Poole 3 AST),Made Shot,Jump Shot,-13,258,26,1,3.0,3.0,h
+S2425-G0090,1,05:50,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,1,05:35,WAS,,CLE,,B. Coulibaly,WAS,SUB: George FOR Coulibaly,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,02:50,WAS,,CLE,,B. Coulibaly,WAS,MISS Coulibaly 30' 3PT Jump Shot,Missed Shot,Jump Shot,-21,295,30,1,3.0,0.0,h
+S2425-G0090,1,02:17,WAS,,CLE,,B. Coulibaly,WAS,MISS Coulibaly 27' 3PT Jump Shot,Missed Shot,Jump Shot,142,235,27,1,3.0,0.0,h
+S2425-G0090,1,02:13,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,1,01:34,WAS,23.0,CLE,28.0,B. Coulibaly,WAS,Coulibaly 1' Running Dunk (7 PTS) (George 2 AST),Made Shot,Running Dunk Shot,-1,14,1,1,2.0,2.0,h
+S2425-G0090,2,09:43,WAS,,CLE,,B. Coulibaly,WAS,MISS Coulibaly 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,10,193,19,1,2.0,0.0,h
+S2425-G0090,2,09:07,WAS,28.0,CLE,30.0,B. Coulibaly,WAS,Coulibaly 24' 3PT Jump Shot (10 PTS) (Butler 1 AST),Made Shot,Jump Shot,235,43,24,1,3.0,3.0,h
+S2425-G0090,2,07:56,WAS,,CLE,,B. Coulibaly,WAS,SUB: Poole FOR Coulibaly,Substitution,,0,0,0,0,,,h
+S2425-G0090,2,04:44,WAS,,CLE,,B. Coulibaly,WAS,MISS Coulibaly 26' 3PT Jump Shot,Missed Shot,Jump Shot,146,215,26,1,3.0,0.0,h
+S2425-G0090,2,04:39,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly P.FOUL (P2.T2) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2425-G0090,2,04:04,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0090,2,04:00,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,2,03:14,WAS,37.0,CLE,48.0,B. Coulibaly,WAS,Coulibaly 5' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,42,24,5,1,2.0,2.0,h
+S2425-G0090,2,00:07.700000,WAS,,CLE,,B. Coulibaly,WAS,SUB: Kispert FOR Coulibaly,Substitution,,0,0,0,0,,,h
+S2425-G0090,3,11:27,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0090,3,10:23,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,3,10:15,WAS,,CLE,,B. Coulibaly,WAS,MISS Coulibaly 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,43,24,1,3.0,0.0,h
+S2425-G0090,3,06:45,WAS,,CLE,,B. Coulibaly,WAS,SUB: Kispert FOR Coulibaly,Substitution,,0,0,0,0,,,h
+S2425-G0090,3,02:10,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,3,02:06,WAS,75.0,CLE,87.0,B. Coulibaly,WAS,Coulibaly 4' Running Layup (14 PTS),Made Shot,Running Layup Shot,23,32,4,1,2.0,2.0,h
+S2425-G0090,4,10:47,WAS,84.0,CLE,100.0,B. Coulibaly,WAS,Coulibaly 3PT Jump Shot (17 PTS) (Carrington 2 AST),Made Shot,Jump Shot,233,-4,0,1,3.0,3.0,h
+S2425-G0090,4,10:19,WAS,86.0,CLE,103.0,B. Coulibaly,WAS,Coulibaly 3' Driving Layup (19 PTS) (Sarr 1 AST),Made Shot,Driving Layup Shot,31,2,3,1,2.0,2.0,h
+S2425-G0090,4,10:19,WAS,87.0,CLE,103.0,B. Coulibaly,WAS,Coulibaly Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0090,4,09:31,WAS,,CLE,,B. Coulibaly,WAS,MISS Coulibaly 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-16,116,12,1,2.0,0.0,h
+S2425-G0090,4,09:29,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,4,09:27,WAS,,CLE,,B. Coulibaly,WAS,Coulibaly Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0090,4,08:13,WAS,90.0,CLE,114.0,B. Coulibaly,WAS,Coulibaly 27' 3PT Jump Shot (23 PTS) (Carrington 3 AST),Made Shot,Jump Shot,135,236,27,1,3.0,3.0,h
+S2425-G0090,4,05:19,WAS,,CLE,,B. Coulibaly,WAS,SUB: Baldwin Jr. FOR Coulibaly,Substitution,,0,0,0,0,,,h
+S2425-G0103,1,11:07,ATL,,WAS,,B. Coulibaly,WAS,Coulibaly Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0103,1,03:06,ATL,,WAS,,B. Coulibaly,WAS,MISS Coulibaly 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,42,55,7,1,2.0,0.0,v
+S2425-G0103,1,02:01,ATL,,WAS,,B. Coulibaly,WAS,SUB: Kuzma FOR Coulibaly,Substitution,,0,0,0,0,,,v
+S2425-G0103,1,00:06.600000,ATL,,WAS,,B. Coulibaly,WAS,Coulibaly P.FOUL (P1.T4) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2425-G0103,2,06:52,ATL,,WAS,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,2,00:50.800000,ATL,58.0,WAS,51.0,B. Coulibaly,WAS,Coulibaly 12' Pullup Jump Shot (2 PTS) (Valančiūnas 2 AST),Made Shot,Pullup Jump shot,-34,116,12,1,2.0,2.0,v
+S2425-G0103,3,11:10,ATL,,WAS,,B. Coulibaly,WAS,Coulibaly REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,3,10:11,ATL,,WAS,,B. Coulibaly,WAS,MISS Coulibaly 25' 3PT Jump Shot,Missed Shot,Jump Shot,-110,226,25,1,3.0,0.0,v
+S2425-G0103,3,09:50,ATL,,WAS,,B. Coulibaly,WAS,Coulibaly Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0103,3,09:01,ATL,65.0,WAS,63.0,B. Coulibaly,WAS,Coulibaly 26' 3PT Running Pull-Up Jump Shot (5 PTS) (Kuzma 5 AST),Made Shot,Running Pull-Up Jump Shot,-222,126,26,1,3.0,3.0,v
+S2425-G0103,3,07:59,ATL,,WAS,,B. Coulibaly,WAS,MISS Coulibaly 3PT Jump Shot,Missed Shot,Jump Shot,-230,20,0,1,3.0,0.0,v
+S2425-G0103,3,07:43,ATL,,WAS,,B. Coulibaly,WAS,Coulibaly P.FOUL (P2.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2425-G0103,3,07:07,ATL,,WAS,,B. Coulibaly,WAS,MISS Coulibaly Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0103,3,07:07,ATL,68.0,WAS,65.0,B. Coulibaly,WAS,Coulibaly Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0103,3,06:15,ATL,,WAS,,B. Coulibaly,WAS,Coulibaly STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0103,3,06:10,ATL,,WAS,,B. Coulibaly,WAS,MISS Coulibaly 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-186,173,25,1,3.0,0.0,v
+S2425-G0103,3,05:34,ATL,,WAS,,B. Coulibaly,WAS,Coulibaly STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0103,3,00:58.300000,ATL,,WAS,,B. Coulibaly,WAS,MISS Coulibaly 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,7,52,5,1,2.0,0.0,v
+S2425-G0103,3,00:55.900000,ATL,,WAS,,B. Coulibaly,WAS,SUB: Kuzma FOR Coulibaly,Substitution,,0,0,0,0,,,v
+S2425-G0103,4,07:00,ATL,96.0,WAS,99.0,B. Coulibaly,WAS,Coulibaly 6' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,28,50,6,1,2.0,2.0,v
+S2425-G0103,4,07:00,ATL,96.0,WAS,100.0,B. Coulibaly,WAS,Coulibaly Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0103,4,06:26,ATL,98.0,WAS,101.0,B. Coulibaly,WAS,Coulibaly Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0103,4,06:26,ATL,98.0,WAS,102.0,B. Coulibaly,WAS,Coulibaly Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0103,4,06:00,ATL,,WAS,,B. Coulibaly,WAS,MISS Coulibaly 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-59,126,14,1,2.0,0.0,v
+S2425-G0103,4,05:26,ATL,100.0,WAS,104.0,B. Coulibaly,WAS,Coulibaly 20' Jump Shot (13 PTS) (Kuzma 7 AST),Made Shot,Jump Shot,-199,37,20,1,2.0,2.0,v
+S2425-G0103,4,04:47,ATL,,WAS,,B. Coulibaly,WAS,Coulibaly P.FOUL (P3.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2425-G0103,4,04:22,ATL,101.0,WAS,107.0,B. Coulibaly,WAS,Coulibaly Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0103,4,04:22,ATL,101.0,WAS,108.0,B. Coulibaly,WAS,Coulibaly Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0103,4,02:48,ATL,106.0,WAS,115.0,B. Coulibaly,WAS,Coulibaly 8' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,21,73,8,1,2.0,2.0,v
+S2425-G0103,4,01:44,ATL,,WAS,,B. Coulibaly,WAS,Coulibaly P.FOUL (P4.PN) (I.Hwang),Foul,Personal,0,0,0,0,,,v
+S2425-G0103,4,00:22.400000,ATL,,WAS,,B. Coulibaly,WAS,MISS Coulibaly 25' 3PT Jump Shot,Missed Shot,Jump Shot,-158,194,25,1,3.0,0.0,v

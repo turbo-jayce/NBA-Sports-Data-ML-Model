@@ -1,0 +1,200 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0110,1,11:02,DAL,,UTA,,K. George,UTA,MISS George 27' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,118,243,27,1,3.0,0.0,v
+S2425-G0110,1,10:21,DAL,,UTA,,K. George,UTA,George REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,1,08:17,DAL,,UTA,,K. George,UTA,George REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,1,08:11,DAL,,UTA,,K. George,UTA,MISS George 1' Driving Layup,Missed Shot,Driving Layup Shot,13,7,1,1,2.0,0.0,v
+S2425-G0110,1,05:43,DAL,13.0,UTA,12.0,K. George,UTA,George 2' Running Finger Roll Layup (2 PTS) (Clarkson 2 AST),Made Shot,Running Finger Roll Layup Shot,-6,22,2,1,2.0,2.0,v
+S2425-G0110,1,04:52,DAL,,UTA,,K. George,UTA,MISS George 4' Driving Layup,Missed Shot,Driving Layup Shot,-29,31,4,1,2.0,0.0,v
+S2425-G0110,1,03:20,DAL,,UTA,,K. George,UTA,MISS George 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-61,269,28,1,3.0,0.0,v
+S2425-G0110,1,03:18,DAL,,UTA,,K. George,UTA,SUB: Collins FOR George,Substitution,,0,0,0,0,,,v
+S2425-G0110,2,06:38,DAL,,UTA,,K. George,UTA,George Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0110,2,05:36,DAL,,UTA,,K. George,UTA,MISS George 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-125,233,26,1,3.0,0.0,v
+S2425-G0110,2,05:19,DAL,,UTA,,K. George,UTA,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,232,-14,0,1,3.0,0.0,v
+S2425-G0110,2,04:44,DAL,,UTA,,K. George,UTA,MISS George 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,4,12,1,1,2.0,0.0,v
+S2425-G0110,2,02:31,DAL,,UTA,,K. George,UTA,George STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0110,2,02:25,DAL,43.0,UTA,37.0,K. George,UTA,George 5' Running Layup (4 PTS),Made Shot,Running Layup Shot,45,11,5,1,2.0,2.0,v
+S2425-G0110,2,00:33.300000,DAL,,UTA,,K. George,UTA,George S.FOUL (P1.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2425-G0110,3,11:22,DAL,52.0,UTA,45.0,K. George,UTA,George 3' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,11,31,3,1,2.0,2.0,v
+S2425-G0110,3,08:25,DAL,,UTA,,K. George,UTA,MISS George 4' Driving Layup,Missed Shot,Driving Layup Shot,32,21,4,1,2.0,0.0,v
+S2425-G0110,3,07:26,DAL,64.0,UTA,53.0,K. George,UTA,George Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,3,07:26,DAL,64.0,UTA,54.0,K. George,UTA,George Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,3,07:08,DAL,,UTA,,K. George,UTA,George REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,3,07:03,DAL,,UTA,,K. George,UTA,George Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0110,3,06:16,DAL,,UTA,,K. George,UTA,SUB: Williams FOR George,Substitution,,0,0,0,0,,,v
+S2425-G0110,3,04:01,DAL,67.0,UTA,65.0,K. George,UTA,George 1' Running Dunk (10 PTS) (Collins 1 AST),Made Shot,Running Dunk Shot,5,6,1,1,2.0,2.0,v
+S2425-G0110,3,03:10,DAL,,UTA,,K. George,UTA,MISS George 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-119,220,25,1,3.0,0.0,v
+S2425-G0110,3,03:07,DAL,,UTA,,K. George,UTA,George REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,3,01:53,DAL,,UTA,,K. George,UTA,MISS George 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,17,45,5,1,2.0,0.0,v
+S2425-G0110,4,09:43,DAL,,UTA,,K. George,UTA,MISS George 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,65,15,7,1,2.0,0.0,v
+S2425-G0110,4,08:05,DAL,92.0,UTA,83.0,K. George,UTA,George 2' Cutting Layup Shot (12 PTS),Made Shot,Cutting Layup Shot,20,9,2,1,2.0,2.0,v
+S2425-G0110,4,06:30,DAL,,UTA,,K. George,UTA,SUB: Mills FOR George,Substitution,,0,0,0,0,,,v
+S2425-G0110,4,04:29,DAL,,UTA,,K. George,UTA,George Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0110,4,03:29,DAL,,UTA,,K. George,UTA,George REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,4,02:21,DAL,104.0,UTA,96.0,K. George,UTA,George Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,4,02:21,DAL,104.0,UTA,97.0,K. George,UTA,George Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,4,01:43,DAL,,UTA,,K. George,UTA,MISS George 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-70,247,26,1,3.0,0.0,v
+S2425-G0110,4,00:34.400000,DAL,110.0,UTA,102.0,K. George,UTA,George 3PT Jump Shot (17 PTS) (Filipowski 2 AST),Made Shot,Jump Shot,233,19,0,1,3.0,3.0,v
+S2425-G0121,1,10:04,WAS,,ATL,,K. George,WAS,MISS George 29' 3PT Jump Shot,Missed Shot,Jump Shot,151,242,29,1,3.0,0.0,h
+S2425-G0121,1,09:09,WAS,8.0,ATL,5.0,K. George,WAS,George 3' Cutting Layup Shot (2 PTS) (Poole 2 AST),Made Shot,Cutting Layup Shot,23,10,3,1,2.0,2.0,h
+S2425-G0121,1,08:25,WAS,12.0,ATL,7.0,K. George,WAS,George 2' Running Dunk (4 PTS) (Coulibaly 1 AST),Made Shot,Running Dunk Shot,15,10,2,1,2.0,2.0,h
+S2425-G0121,1,08:08,WAS,,ATL,,K. George,WAS,MISS George 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,199,153,25,1,3.0,0.0,h
+S2425-G0121,1,02:57,WAS,,ATL,,K. George,WAS,SUB: Baldwin Jr. FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0121,2,03:22,WAS,,ATL,,K. George,WAS,George S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0121,2,02:41,WAS,,ATL,,K. George,WAS,George REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,2,01:28,WAS,,ATL,,K. George,WAS,George REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,2,01:01,WAS,,ATL,,K. George,WAS,MISS George 27' 3PT Jump Shot,Missed Shot,Jump Shot,221,160,27,1,3.0,0.0,h
+S2425-G0121,3,09:51,WAS,,ATL,,K. George,WAS,George STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0121,3,09:13,WAS,63.0,ATL,68.0,K. George,WAS,George 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-11,0,1,1,2.0,2.0,h
+S2425-G0121,3,07:52,WAS,,ATL,,K. George,WAS,George STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0121,3,07:47,WAS,,ATL,,K. George,WAS,MISS George 4' Running Layup,Missed Shot,Running Layup Shot,39,11,4,1,2.0,0.0,h
+S2425-G0121,3,04:28,WAS,,ATL,,K. George,WAS,SUB: Davis FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0121,4,10:40,WAS,,ATL,,K. George,WAS,George P.FOUL (P2.T1) (S.Jelks),Foul,Personal,0,0,0,0,,,h
+S2425-G0121,4,10:14,WAS,101.0,ATL,94.0,K. George,WAS,George 3' Cutting Layup Shot (8 PTS) (Sarr 2 AST),Made Shot,Cutting Layup Shot,-27,16,3,1,2.0,2.0,h
+S2425-G0121,4,09:52,WAS,104.0,ATL,94.0,K. George,WAS,George 27' 3PT Running Jump Shot (11 PTS) (Carrington 4 AST),Made Shot,Running Jump Shot,207,169,27,1,3.0,3.0,h
+S2425-G0121,4,09:38,WAS,,ATL,,K. George,WAS,George S.FOUL (P3.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0121,4,08:32,WAS,,ATL,,K. George,WAS,MISS George 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-217,135,26,1,3.0,0.0,h
+S2425-G0121,4,08:24,WAS,,ATL,,K. George,WAS,George S.FOUL (P4.T3) (S.Jelks),Foul,Shooting,0,0,0,0,,,h
+S2425-G0121,4,04:53,WAS,,ATL,,K. George,WAS,George STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0121,4,04:18,WAS,,ATL,,K. George,WAS,SUB: Carrington FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0073,1,01:40,WAS,,BOS,,K. George,WAS,MISS George 27' 3PT Jump Shot,Missed Shot,Jump Shot,181,195,27,1,3.0,0.0,h
+S2425-G0073,1,00:17.100000,WAS,,BOS,,K. George,WAS,George S.FOUL (P1.PN) (J.Reneau),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,2,11:34,WAS,,BOS,,K. George,WAS,MISS George 30' 3PT Jump Shot,Missed Shot,Jump Shot,-165,252,30,1,3.0,0.0,h
+S2425-G0073,2,08:25,WAS,38.0,BOS,41.0,K. George,WAS,George 2' Cutting Dunk Shot (2 PTS) (Bagley III 1 AST),Made Shot,Cutting Dunk Shot,21,13,2,1,2.0,2.0,h
+S2425-G0073,2,07:19,WAS,,BOS,,K. George,WAS,George S.FOUL (P2.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,2,06:50,WAS,,BOS,,K. George,WAS,George REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,2,06:32,WAS,,BOS,,K. George,WAS,George REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,2,06:25,WAS,,BOS,,K. George,WAS,SUB: Carrington FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0073,3,05:00,WAS,,BOS,,K. George,WAS,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,-230,-17,0,1,3.0,0.0,h
+S2425-G0073,3,04:44,WAS,64.0,BOS,85.0,K. George,WAS,George 1' Alley Oop Dunk (4 PTS) (Coulibaly 6 AST),Made Shot,Alley Oop Dunk Shot,-11,-4,1,1,2.0,2.0,h
+S2425-G0073,3,01:57,WAS,,BOS,,K. George,WAS,George P.FOUL (P3.T4) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2425-G0073,3,01:44,WAS,,BOS,,K. George,WAS,George REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,4,07:16,WAS,,BOS,,K. George,WAS,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,-27,253,25,1,3.0,0.0,h
+S2425-G0073,4,04:07,WAS,,BOS,,K. George,WAS,George STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0073,4,03:54,WAS,,BOS,,K. George,WAS,SUB: Davis FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,04:42,WAS,,CLE,,K. George,WAS,George P.FOUL (P1.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2425-G0090,1,02:03,WAS,,CLE,,K. George,WAS,George REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,1,00:42.400000,WAS,,CLE,,K. George,WAS,George BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0090,1,00:40.600000,WAS,,CLE,,K. George,WAS,George REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,2,10:51,WAS,,CLE,,K. George,WAS,MISS George 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,72,-7,7,1,2.0,0.0,h
+S2425-G0090,2,10:39,WAS,,CLE,,K. George,WAS,George BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0090,2,10:24,WAS,,CLE,,K. George,WAS,George REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,2,10:16,WAS,,CLE,,K. George,WAS,MISS George 27' 3PT Jump Shot,Missed Shot,Jump Shot,-44,268,27,1,3.0,0.0,h
+S2425-G0090,2,10:10,WAS,,CLE,,K. George,WAS,George S.FOUL (P2.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,2,07:56,WAS,,CLE,,K. George,WAS,SUB: Kuzma FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0090,3,04:23,WAS,,CLE,,K. George,WAS,MISS George 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,16,24,1,3.0,0.0,h
+S2425-G0090,3,01:34,WAS,,CLE,,K. George,WAS,MISS George 7' Driving Layup,Missed Shot,Driving Layup Shot,16,68,7,1,2.0,0.0,h
+S2425-G0090,3,01:25,WAS,,CLE,,K. George,WAS,George P.FOUL (P3.T4) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2425-G0090,4,11:18,WAS,,CLE,,K. George,WAS,George Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0090,4,09:51,WAS,,CLE,,K. George,WAS,George Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0090,4,08:31,WAS,,CLE,,K. George,WAS,George BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0090,4,07:43,WAS,,CLE,,K. George,WAS,George BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0090,4,06:19,WAS,95.0,CLE,119.0,K. George,WAS,George Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,4,06:19,WAS,,CLE,,K. George,WAS,MISS George Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0090,4,06:16,WAS,,CLE,,K. George,WAS,George REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,4,05:31,WAS,,CLE,,K. George,WAS,MISS George 5' Driving Layup,Missed Shot,Driving Layup Shot,33,31,5,1,2.0,0.0,h
+S2425-G0090,4,05:19,WAS,,CLE,,K. George,WAS,George S.FOUL (P4.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,4,04:37,WAS,104.0,CLE,124.0,K. George,WAS,George Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,4,04:37,WAS,,CLE,,K. George,WAS,MISS George Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0090,4,03:22,WAS,,CLE,,K. George,WAS,George S.FOUL (P5.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,4,01:52,WAS,,CLE,,K. George,WAS,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,107,25,1,3.0,0.0,h
+S2425-G0090,4,00:42.800000,WAS,,CLE,,K. George,WAS,MISS George 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-8,24,1,3.0,0.0,h
+S2425-G0103,1,02:43,ATL,,WAS,,K. George,WAS,MISS George 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-162,200,26,1,3.0,0.0,v
+S2425-G0103,1,02:01,ATL,,WAS,,K. George,WAS,George S.FOUL (P1.T3) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,1,01:45,ATL,,WAS,,K. George,WAS,MISS George 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,31,24,1,3.0,0.0,v
+S2425-G0103,2,11:37,ATL,,WAS,,K. George,WAS,George BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0103,2,07:27,ATL,,WAS,,K. George,WAS,SUB: Coulibaly FOR George,Substitution,,0,0,0,0,,,v
+S2425-G0103,2,01:42,ATL,,WAS,,K. George,WAS,George S.FOUL (P2.PN) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,2,01:40,ATL,,WAS,,K. George,WAS,George REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,2,01:17,ATL,,WAS,,K. George,WAS,Wizards T.Foul (Def. 3 Sec George ) (M.Ervin),Foul,Defense 3 Second,0,0,0,0,,,v
+S2425-G0103,2,00:30.400000,ATL,,WAS,,K. George,WAS,George S.FOUL (P3.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,4,09:49,ATL,85.0,WAS,89.0,K. George,WAS,George 25' 3PT Jump Shot (3 PTS) (Valančiūnas 4 AST),Made Shot,Jump Shot,-154,197,25,1,3.0,3.0,v
+S2425-G0103,4,09:28,ATL,,WAS,,K. George,WAS,George REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,4,09:27,ATL,,WAS,,K. George,WAS,George Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0103,4,06:26,ATL,,WAS,,K. George,WAS,SUB: Kuzma FOR George,Substitution,,0,0,0,0,,,v
+S2425-G0103,4,00:41.900000,ATL,,WAS,,K. George,WAS,George S.FOUL (P4.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,4,00:16,ATL,,WAS,,K. George,WAS,George S.FOUL (P5.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2425-G0115,1,10:15,UTA,5.0,SAC,4.0,K. George,UTA,George 25' 3PT Jump Shot (3 PTS) (Clarkson 1 AST),Made Shot,Jump Shot,123,223,25,1,3.0,3.0,h
+S2425-G0115,1,08:32,UTA,9.0,SAC,11.0,K. George,UTA,George Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0115,1,08:32,UTA,10.0,SAC,11.0,K. George,UTA,George Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0115,1,08:21,UTA,,SAC,,K. George,UTA,George REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,1,07:28,UTA,,SAC,,K. George,UTA,George Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0115,1,06:36,UTA,,SAC,,K. George,UTA,George Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0115,1,06:22,UTA,,SAC,,K. George,UTA,George REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,1,05:38,UTA,,SAC,,K. George,UTA,MISS George 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-120,227,26,1,3.0,0.0,h
+S2425-G0115,1,04:35,UTA,,SAC,,K. George,UTA,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,100,232,25,1,3.0,0.0,h
+S2425-G0115,1,03:45,UTA,,SAC,,K. George,UTA,SUB: Mills FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0115,2,04:58,UTA,46.0,SAC,49.0,K. George,UTA,George 3PT Running Jump Shot (8 PTS) (Williams 2 AST),Made Shot,Running Jump Shot,222,18,0,1,3.0,3.0,h
+S2425-G0115,2,00:29.800000,UTA,,SAC,,K. George,UTA,MISS George 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,107,232,26,1,3.0,0.0,h
+S2425-G0115,3,10:07,UTA,,SAC,,K. George,UTA,George Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0115,3,09:43,UTA,,SAC,,K. George,UTA,MISS George 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-145,204,25,1,3.0,0.0,h
+S2425-G0115,3,09:06,UTA,,SAC,,K. George,UTA,MISS George 5' Driving Layup,Missed Shot,Driving Layup Shot,28,47,5,1,2.0,0.0,h
+S2425-G0115,3,07:02,UTA,,SAC,,K. George,UTA,George REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,3,06:46,UTA,,SAC,,K. George,UTA,MISS George 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,224,122,26,1,3.0,0.0,h
+S2425-G0115,3,06:12,UTA,62.0,SAC,75.0,K. George,UTA,George 10' Driving Finger Roll Layup (10 PTS) (Kessler 2 AST),Made Shot,Driving Finger Roll Layup Shot,56,77,10,1,2.0,2.0,h
+S2425-G0115,3,05:16,UTA,,SAC,,K. George,UTA,MISS George 6' Driving Layup,Missed Shot,Driving Layup Shot,-26,50,6,1,2.0,0.0,h
+S2425-G0115,3,05:12,UTA,,SAC,,K. George,UTA,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,232,21,0,1,3.0,0.0,h
+S2425-G0115,3,03:56,UTA,,SAC,,K. George,UTA,SUB: Mills FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0115,4,06:29,UTA,,SAC,,K. George,UTA,George Out of Bounds - Bad Pass Turnover Turnover (P4.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0115,4,06:25,UTA,,SAC,,K. George,UTA,George P.FOUL (P1.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2425-G0115,4,04:47,UTA,,SAC,,K. George,UTA,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,15,250,25,1,3.0,0.0,h
+S2425-G0115,4,02:54,UTA,,SAC,,K. George,UTA,George REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,4,01:55,UTA,,SAC,,K. George,UTA,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,-25,250,25,1,3.0,0.0,h
+S2425-G0070,1,11:19,UTA,,MEM,,K. George,UTA,MISS George 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,42,46,6,1,2.0,0.0,h
+S2425-G0070,1,07:30,UTA,,MEM,,K. George,UTA,MISS George 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,45,278,28,1,3.0,0.0,h
+S2425-G0070,1,06:44,UTA,,MEM,,K. George,UTA,MISS George 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-60,36,7,1,2.0,0.0,h
+S2425-G0070,1,05:56,UTA,,MEM,,K. George,UTA,MISS George 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,75,125,15,1,2.0,0.0,h
+S2425-G0070,1,05:31,UTA,,MEM,,K. George,UTA,George REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,1,05:30,UTA,,MEM,,K. George,UTA,George Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0070,1,03:23,UTA,,MEM,,K. George,UTA,SUB: Mills FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0070,2,05:47,UTA,,MEM,,K. George,UTA,MISS George 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,121,227,26,1,3.0,0.0,h
+S2425-G0070,2,04:52,UTA,,MEM,,K. George,UTA,MISS George 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,-36,52,6,1,2.0,0.0,h
+S2425-G0070,2,04:20,UTA,,MEM,,K. George,UTA,MISS George 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-99,105,14,1,2.0,0.0,h
+S2425-G0070,2,03:58,UTA,,MEM,,K. George,UTA,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0070,2,03:58,UTA,38.0,MEM,54.0,K. George,UTA,George Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,2,03:29,UTA,,MEM,,K. George,UTA,MISS George 5' Driving Layup,Missed Shot,Driving Layup Shot,-43,22,5,1,2.0,0.0,h
+S2425-G0070,2,00:33.500000,UTA,,MEM,,K. George,UTA,MISS George 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,226,25,1,3.0,0.0,h
+S2425-G0070,3,10:18,UTA,57.0,MEM,64.0,K. George,UTA,George 26' 3PT Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,-77,251,26,1,3.0,3.0,h
+S2425-G0070,3,09:20,UTA,62.0,MEM,67.0,K. George,UTA,George 9' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,76,46,9,1,2.0,2.0,h
+S2425-G0070,3,08:26,UTA,,MEM,,K. George,UTA,MISS George 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-18,163,16,1,2.0,0.0,h
+S2425-G0070,3,06:25,UTA,,MEM,,K. George,UTA,MISS George 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,83,59,10,1,2.0,0.0,h
+S2425-G0070,3,04:58,UTA,72.0,MEM,79.0,K. George,UTA,George 11' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-62,86,11,1,2.0,2.0,h
+S2425-G0070,3,04:58,UTA,,MEM,,K. George,UTA,MISS George Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0070,3,04:08,UTA,,MEM,,K. George,UTA,George REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,3,02:23,UTA,,MEM,,K. George,UTA,MISS George 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,228,80,24,1,3.0,0.0,h
+S2425-G0070,3,02:16,UTA,,MEM,,K. George,UTA,SUB: Markkanen FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0070,4,06:13,UTA,,MEM,,K. George,UTA,MISS George 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-81,109,14,1,2.0,0.0,h
+S2425-G0070,4,05:04,UTA,,MEM,,K. George,UTA,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,115,225,25,1,3.0,0.0,h
+S2425-G0070,4,04:30,UTA,,MEM,,K. George,UTA,George P.FOUL (P1.PN) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2425-G0070,4,04:18,UTA,,MEM,,K. George,UTA,MISS George 15' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,87,116,15,1,2.0,0.0,h
+S2425-G0070,4,04:00,UTA,,MEM,,K. George,UTA,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0070,4,04:00,UTA,112.0,MEM,114.0,K. George,UTA,George Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,02:16,UTA,,MEM,,K. George,UTA,SUB: Clarkson FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0070,4,00:56.600000,UTA,,MEM,,K. George,UTA,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0070,4,00:56.600000,UTA,119.0,MEM,122.0,K. George,UTA,George Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,00:33.600000,UTA,120.0,MEM,124.0,K. George,UTA,George Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,00:33.600000,UTA,121.0,MEM,124.0,K. George,UTA,George Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,00:06,UTA,,MEM,,K. George,UTA,George Personal Take Foul (P2.PN) (K.Cutler),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0084,1,11:40,UTA,3.0,GSW,0.0,K. George,UTA,George 24' 3PT Jump Shot (3 PTS) (Kessler 1 AST),Made Shot,Jump Shot,-223,94,24,1,3.0,3.0,h
+S2425-G0084,1,10:30,UTA,,GSW,,K. George,UTA,George REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,1,09:28,UTA,,GSW,,K. George,UTA,George STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0084,1,08:15,UTA,13.0,GSW,4.0,K. George,UTA,George 27' 3PT Jump Shot (6 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,-143,224,27,1,3.0,3.0,h
+S2425-G0084,1,06:40,UTA,,GSW,,K. George,UTA,MISS George 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-153,226,27,1,3.0,0.0,h
+S2425-G0084,1,06:33,UTA,,GSW,,K. George,UTA,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,-227,20,0,1,3.0,0.0,h
+S2425-G0084,1,02:54,UTA,,GSW,,K. George,UTA,SUB: Mills FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0084,2,04:09,UTA,34.0,GSW,41.0,K. George,UTA,George 8' Driving Floating Bank Jump Shot (8 PTS) (Williams 1 AST),Made Shot,Driving Floating Bank Jump Shot,60,45,8,1,2.0,2.0,h
+S2425-G0084,2,04:09,UTA,35.0,GSW,41.0,K. George,UTA,George Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0084,2,02:51,UTA,,GSW,,K. George,UTA,George Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0084,2,01:54,UTA,,GSW,,K. George,UTA,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,-225,5,0,1,3.0,0.0,h
+S2425-G0084,3,09:18,UTA,,GSW,,K. George,UTA,George Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0084,3,09:13,UTA,,GSW,,K. George,UTA,SUB: Clarkson FOR George,Substitution,,0,0,0,0,,,h
+S2425-G0084,4,11:24,UTA,,GSW,,K. George,UTA,George REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,4,11:16,UTA,,GSW,,K. George,UTA,MISS George 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-17,111,11,1,2.0,0.0,h
+S2425-G0084,4,08:34,UTA,,GSW,,K. George,UTA,MISS George 7' Running Layup,Missed Shot,Running Layup Shot,59,36,7,1,2.0,0.0,h
+S2425-G0084,4,06:22,UTA,79.0,GSW,108.0,K. George,UTA,George 24' 3PT Jump Shot (12 PTS) (Markkanen 2 AST),Made Shot,Jump Shot,-237,7,24,1,3.0,3.0,h
+S2425-G0084,4,05:14,UTA,,GSW,,K. George,UTA,George Out of Bounds - Bad Pass Turnover Turnover (P3.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0084,4,04:45,UTA,,GSW,,K. George,UTA,George Lost Ball Turnover (P4.T17),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0084,4,01:44,UTA,,GSW,,K. George,UTA,MISS George 29' 3PT Jump Shot,Missed Shot,Jump Shot,-50,288,29,1,3.0,0.0,h
+S2425-G0084,4,01:27,UTA,,GSW,,K. George,UTA,George STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0084,4,01:24,UTA,,GSW,,K. George,UTA,MISS George 4' Running Dunk,Missed Shot,Running Dunk Shot,-5,43,4,1,2.0,0.0,h
+S2425-G0084,4,01:22,UTA,,GSW,,K. George,UTA,George Offensive Goaltending Turnover (P5.T22),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2425-G0084,4,00:26.900000,UTA,,GSW,,K. George,UTA,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,87,236,25,1,3.0,0.0,h

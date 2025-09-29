@@ -1,0 +1,14 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0091,4,03:29,CHI,,OKC,,T. Horton-Tucker,CHI,Horton-Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,4,02:58,CHI,,OKC,,T. Horton-Tucker,CHI,Horton-Tucker Lost Ball Turnover (P1.T24),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0091,4,01:17,CHI,94.0,OKC,112.0,T. Horton-Tucker,CHI,Horton-Tucker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,4,01:17,CHI,95.0,OKC,112.0,T. Horton-Tucker,CHI,Horton-Tucker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,4,00:49.400000,CHI,,OKC,,T. Horton-Tucker,CHI,Horton-Tucker Lost Ball Turnover (P2.T25),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0091,4,00:29.600000,CHI,,OKC,,T. Horton-Tucker,CHI,Horton-Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,09:13,NOP,,CHI,,T. Horton-Tucker,CHI,SUB: White FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,01:00,NOP,,CHI,,T. Horton-Tucker,CHI,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,01:00,NOP,,CHI,,T. Horton-Tucker,CHI,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0069,4,01:00,NOP,,CHI,,T. Horton-Tucker,CHI,MISS Horton-Tucker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0069,4,00:45.900000,NOP,,CHI,,T. Horton-Tucker,CHI,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,00:45.200000,NOP,,CHI,,T. Horton-Tucker,CHI,Horton-Tucker Bad Pass Turnover (P1.T21),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,4,00:35.900000,NOP,,CHI,,T. Horton-Tucker,CHI,MISS Horton-Tucker 3' Running Layup,Missed Shot,Running Layup Shot,-25,9,3,1,2.0,0.0,v

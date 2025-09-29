@@ -1,0 +1,196 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2424-G124,1,11:30,MEM,,BKN,,D. Schröder,BKN,Schröder Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2424-G124,1,08:01,MEM,12.0,BKN,10.0,D. Schröder,BKN,Schröder 3PT Jump Shot (3 PTS) (C. Johnson 2 AST),Made Shot,Jump Shot,228,21,0,1,3.0,3.0,v
+S2424-G124,1,06:28,MEM,,BKN,,D. Schröder,BKN,SUB: K. Johnson FOR Schröder,Substitution,,0,0,0,0,,,v
+S2424-G124,1,03:31,MEM,24.0,BKN,18.0,D. Schröder,BKN,Schröder 4' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,28,29,4,1,2.0,2.0,v
+S2424-G124,1,01:29,MEM,,BKN,,D. Schröder,BKN,MISS Schröder 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,10,0,1,3.0,0.0,v
+S2424-G124,2,11:13,MEM,,BKN,,D. Schröder,BKN,Schröder Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2424-G124,2,09:14,MEM,39.0,BKN,40.0,D. Schröder,BKN,Schröder 27' 3PT Jump Shot (8 PTS) (Williams 2 AST),Made Shot,Jump Shot,-2,273,27,1,3.0,3.0,v
+S2424-G124,2,08:29,MEM,,BKN,,D. Schröder,BKN,SUB: Simmons FOR Schröder,Substitution,,0,0,0,0,,,v
+S2424-G124,2,00:11.500000,MEM,,BKN,,D. Schröder,BKN,Schröder STEAL (1 STL),,,0,0,0,0,,,v
+S2424-G124,2,00:02.400000,MEM,60.0,BKN,66.0,D. Schröder,BKN,Schröder Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2424-G124,2,00:02.400000,MEM,60.0,BKN,67.0,D. Schröder,BKN,Schröder Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2424-G124,3,11:40,MEM,62.0,BKN,70.0,D. Schröder,BKN,Schröder 24' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,-145,197,24,1,3.0,3.0,v
+S2424-G124,3,11:19,MEM,,BKN,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2424-G124,3,10:21,MEM,62.0,BKN,73.0,D. Schröder,BKN,Schröder 25' 3PT Jump Shot (16 PTS) (Finney-Smith 3 AST),Made Shot,Jump Shot,-100,229,25,1,3.0,3.0,v
+S2424-G124,3,08:38,MEM,64.0,BKN,76.0,D. Schröder,BKN,Schröder Free Throw 1 of 3 (17 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2424-G124,3,08:38,MEM,64.0,BKN,77.0,D. Schröder,BKN,Schröder Free Throw 2 of 3 (18 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2424-G124,3,08:38,MEM,64.0,BKN,78.0,D. Schröder,BKN,Schröder Free Throw 3 of 3 (19 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2424-G124,3,07:12,MEM,70.0,BKN,81.0,D. Schröder,BKN,Schröder 25' 3PT Jump Shot (22 PTS) (C. Johnson 4 AST),Made Shot,Jump Shot,-116,221,25,1,3.0,3.0,v
+S2424-G124,3,04:27,MEM,,BKN,,D. Schröder,BKN,MISS Schröder 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-54,246,25,1,3.0,0.0,v
+S2424-G124,3,04:05,MEM,,BKN,,D. Schröder,BKN,SUB: Wilson FOR Schröder,Substitution,,0,0,0,0,,,v
+S2424-G124,4,10:25,MEM,92.0,BKN,95.0,D. Schröder,BKN,Schröder 2' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,-23,6,2,1,2.0,2.0,v
+S2424-G124,4,10:14,MEM,92.0,BKN,98.0,D. Schröder,BKN,Schröder 25' 3PT Jump Shot (27 PTS) (Williams 3 AST),Made Shot,Jump Shot,12,248,25,1,3.0,3.0,v
+S2424-G124,4,09:15,MEM,,BKN,,D. Schröder,BKN,MISS Schröder 25' 3PT Jump Shot,Missed Shot,Jump Shot,43,243,25,1,3.0,0.0,v
+S2424-G124,4,07:58,MEM,95.0,BKN,103.0,D. Schröder,BKN,Schröder 2' Driving Finger Roll Layup (29 PTS),Made Shot,Driving Finger Roll Layup Shot,-20,6,2,1,2.0,2.0,v
+S2424-G124,4,07:34,MEM,,BKN,,D. Schröder,BKN,SUB: Thomas FOR Schröder,Substitution,,0,0,0,0,,,v
+S2424-G124,4,03:05,MEM,104.0,BKN,114.0,D. Schröder,BKN,Schröder 3' Finger Roll Layup (31 PTS),Made Shot,Finger Roll Layup Shot,31,10,3,1,2.0,2.0,v
+S2424-G124,4,02:46,MEM,,BKN,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2424-G124,4,02:18,MEM,,BKN,,D. Schröder,BKN,Schröder L.B.FOUL (P1.T4) (A.Smith),Foul,Loose Ball,0,0,0,0,,,v
+S2424-G124,4,01:18,MEM,106.0,BKN,119.0,D. Schröder,BKN,Schröder 4' Driving Finger Roll Layup (33 PTS),Made Shot,Driving Finger Roll Layup Shot,16,42,4,1,2.0,2.0,v
+S2424-G124,4,01:07,MEM,,BKN,,D. Schröder,BKN,SUB: J. Martin FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0064,1,08:15,ATL,,BKN,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,1,07:08,ATL,13.0,BKN,8.0,D. Schröder,BKN,Schröder 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-123,115,17,1,2.0,2.0,v
+S2425-G0064,1,07:03,ATL,,BKN,,D. Schröder,BKN,Schröder P.FOUL (P1.T4) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2425-G0064,1,07:03,ATL,,BKN,,D. Schröder,BKN,SUB: Wilson FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0064,1,03:38,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 3PT Jump Shot,Missed Shot,Jump Shot,222,27,0,1,3.0,0.0,v
+S2425-G0064,1,02:40,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 9' Layup,Missed Shot,Layup Shot,45,74,9,1,2.0,0.0,v
+S2425-G0064,1,02:07,ATL,24.0,BKN,21.0,D. Schröder,BKN,Schröder 9' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,87,-12,9,1,2.0,2.0,v
+S2425-G0064,1,01:40,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,126,16,1,2.0,0.0,v
+S2425-G0064,1,00:34.800000,ATL,26.0,BKN,24.0,D. Schröder,BKN,Schröder 26' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,-93,242,26,1,3.0,3.0,v
+S2425-G0064,1,00:00,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 74' 3PT Jump Shot,Missed Shot,Jump Shot,170,722,74,1,3.0,0.0,v
+S2425-G0064,2,11:16,ATL,32.0,BKN,28.0,D. Schröder,BKN,Schröder 10' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,85,47,10,1,2.0,2.0,v
+S2425-G0064,2,10:55,ATL,,BKN,,D. Schröder,BKN,Schröder Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0064,2,09:54,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,10,3,1,1,2.0,0.0,v
+S2425-G0064,2,09:13,ATL,,BKN,,D. Schröder,BKN,SUB: Simmons FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0064,2,03:13,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-12,173,17,1,2.0,0.0,v
+S2425-G0064,2,03:07,ATL,,BKN,,D. Schröder,BKN,Schröder STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0064,2,02:59,ATL,,BKN,,D. Schröder,BKN,Schröder Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0064,3,10:37,ATL,53.0,BKN,61.0,D. Schröder,BKN,Schröder 26' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-189,172,26,1,3.0,3.0,v
+S2425-G0064,3,09:03,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,179,184,26,1,3.0,0.0,v
+S2425-G0064,3,08:00,ATL,,BKN,,D. Schröder,BKN,Schröder Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0064,3,06:28,ATL,,BKN,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,3,06:05,ATL,,BKN,,D. Schröder,BKN,Schröder P.FOUL (P2.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2425-G0064,3,03:50,ATL,,BKN,,D. Schröder,BKN,SUB: Simmons FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0064,3,00:58.700000,ATL,83.0,BKN,83.0,D. Schröder,BKN,Schröder Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0064,3,00:58.700000,ATL,,BKN,,D. Schröder,BKN,MISS Schröder Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0064,3,00:33,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-86,242,26,1,3.0,0.0,v
+S2425-G0064,3,00:02.700000,ATL,,BKN,,D. Schröder,BKN,Schröder Lost Ball Turnover (P4.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0064,4,10:33,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-4,64,6,1,2.0,0.0,v
+S2425-G0064,4,10:11,ATL,,BKN,,D. Schröder,BKN,Schröder S.FOUL (P3.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0064,4,10:11,ATL,,BKN,,D. Schröder,BKN,SUB: Finney-Smith FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0064,4,06:12,ATL,,BKN,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,4,03:01,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,110,6,11,1,2.0,0.0,v
+S2425-G0064,4,01:20,ATL,,BKN,,D. Schröder,BKN,Schröder S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0064,4,00:46.400000,ATL,,BKN,,D. Schröder,BKN,MISS Schröder 3' Driving Layup,Missed Shot,Driving Layup Shot,13,23,3,1,2.0,0.0,v
+S2425-G0064,4,00:02,ATL,,BKN,,D. Schröder,BKN,SUB: Clowney FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0064,4,00:01,ATL,,BKN,,D. Schröder,BKN,Schröder Bad Pass Turnover (P5.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0113,1,10:01,BKN,,DEN,,D. Schröder,BKN,MISS Schröder 25' 3PT Jump Shot,Missed Shot,Jump Shot,-181,168,25,1,3.0,0.0,h
+S2425-G0113,1,09:26,BKN,6.0,DEN,6.0,D. Schröder,BKN,Schröder 27' 3PT Jump Shot (3 PTS) (Clowney 1 AST),Made Shot,Jump Shot,16,267,27,1,3.0,3.0,h
+S2425-G0113,1,07:14,BKN,12.0,DEN,11.0,D. Schröder,BKN,Schröder 3' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,26,-3,3,1,2.0,2.0,h
+S2425-G0113,1,06:39,BKN,15.0,DEN,13.0,D. Schröder,BKN,Schröder 25' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,129,211,25,1,3.0,3.0,h
+S2425-G0113,1,06:12,BKN,,DEN,,D. Schröder,BKN,SUB: Milton FOR Schröder,Substitution,,0,0,0,0,,,h
+S2425-G0113,1,03:50,BKN,24.0,DEN,17.0,D. Schröder,BKN,Schröder 3' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,26,10,3,1,2.0,2.0,h
+S2425-G0113,1,03:24,BKN,27.0,DEN,19.0,D. Schröder,BKN,Schröder 25' 3PT Jump Shot (13 PTS) (Williams 1 AST),Made Shot,Jump Shot,82,236,25,1,3.0,3.0,h
+S2425-G0113,2,11:27,BKN,,DEN,,D. Schröder,BKN,MISS Schröder 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,200,142,25,1,3.0,0.0,h
+S2425-G0113,2,10:00,BKN,,DEN,,D. Schröder,BKN,Schröder S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,2,08:38,BKN,,DEN,,D. Schröder,BKN,Schröder Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0113,2,08:38,BKN,,DEN,,D. Schröder,BKN,SUB: Milton FOR Schröder,Substitution,,0,0,0,0,,,h
+S2425-G0113,2,04:38,BKN,,DEN,,D. Schröder,BKN,MISS Schröder 26' 3PT Jump Shot,Missed Shot,Jump Shot,-39,253,26,1,3.0,0.0,h
+S2425-G0113,2,01:49,BKN,65.0,DEN,56.0,D. Schröder,BKN,Schröder 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,18,6,2,1,2.0,2.0,h
+S2425-G0113,2,01:24,BKN,66.0,DEN,58.0,D. Schröder,BKN,Schröder Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0113,2,01:24,BKN,67.0,DEN,58.0,D. Schröder,BKN,Schröder Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0113,3,11:40,BKN,,DEN,,D. Schröder,BKN,MISS Schröder 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,17,16,2,1,2.0,0.0,h
+S2425-G0113,3,09:23,BKN,76.0,DEN,72.0,D. Schröder,BKN,Schröder 25' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,-113,224,25,1,3.0,3.0,h
+S2425-G0113,3,09:19,BKN,,DEN,,D. Schröder,BKN,Schröder S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,3,07:36,BKN,,DEN,,D. Schröder,BKN,MISS Schröder 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,15,120,12,1,2.0,0.0,h
+S2425-G0113,3,07:04,BKN,,DEN,,D. Schröder,BKN,SUB: Milton FOR Schröder,Substitution,,0,0,0,0,,,h
+S2425-G0113,3,03:42,BKN,,DEN,,D. Schröder,BKN,Schröder S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,3,00:33.300000,BKN,,DEN,,D. Schröder,BKN,MISS Schröder 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-121,219,25,1,3.0,0.0,h
+S2425-G0113,3,00:01.700000,BKN,,DEN,,D. Schröder,BKN,MISS Schröder 34' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-129,318,34,1,3.0,0.0,h
+S2425-G0113,4,11:25,BKN,,DEN,,D. Schröder,BKN,Schröder Traveling Turnover (P2.T5),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0113,4,09:14,BKN,103.0,DEN,106.0,D. Schröder,BKN,Schröder 2' Driving Finger Roll Layup (22 PTS) (Claxton 2 AST),Made Shot,Driving Finger Roll Layup Shot,17,5,2,1,2.0,2.0,h
+S2425-G0113,4,08:46,BKN,,DEN,,D. Schröder,BKN,SUB: Thomas FOR Schröder,Substitution,,0,0,0,0,,,h
+S2425-G0113,4,04:20,BKN,,DEN,,D. Schröder,BKN,MISS Schröder Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0113,4,04:20,BKN,116.0,DEN,114.0,D. Schröder,BKN,Schröder Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0113,5,02:17,BKN,129.0,DEN,133.0,D. Schröder,BKN,Schröder 2' Driving Finger Roll Layup (25 PTS),Made Shot,Driving Finger Roll Layup Shot,-20,5,2,1,2.0,2.0,h
+S2425-G0113,5,01:52,BKN,,DEN,,D. Schröder,BKN,Schröder S.FOUL (P4.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,5,01:43,BKN,,DEN,,D. Schröder,BKN,MISS Schröder 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-110,234,26,1,3.0,0.0,h
+S2425-G0113,5,01:16,BKN,132.0,DEN,135.0,D. Schröder,BKN,Schröder 24' 3PT Jump Shot (28 PTS) (C. Johnson 5 AST),Made Shot,Jump Shot,-100,222,24,1,3.0,3.0,h
+S2425-G0113,5,00:17.300000,BKN,,DEN,,D. Schröder,BKN,Schröder OFF.Foul (P5) (B.Kennedy),Foul,Offensive,0,0,0,0,,,h
+S2425-G0113,5,00:17.300000,BKN,,DEN,,D. Schröder,BKN,Schröder Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0124,1,11:30,MEM,,BKN,,D. Schröder,BKN,Schröder Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0124,1,08:01,MEM,12.0,BKN,10.0,D. Schröder,BKN,Schröder 3PT Jump Shot (3 PTS) (C. Johnson 2 AST),Made Shot,Jump Shot,228,21,0,1,3.0,3.0,v
+S2425-G0124,1,06:28,MEM,,BKN,,D. Schröder,BKN,SUB: K. Johnson FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0124,1,03:31,MEM,24.0,BKN,18.0,D. Schröder,BKN,Schröder 4' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,28,29,4,1,2.0,2.0,v
+S2425-G0124,1,01:29,MEM,,BKN,,D. Schröder,BKN,MISS Schröder 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,10,0,1,3.0,0.0,v
+S2425-G0124,2,11:13,MEM,,BKN,,D. Schröder,BKN,Schröder Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0124,2,09:14,MEM,39.0,BKN,40.0,D. Schröder,BKN,Schröder 27' 3PT Jump Shot (8 PTS) (Williams 2 AST),Made Shot,Jump Shot,-2,273,27,1,3.0,3.0,v
+S2425-G0124,2,08:29,MEM,,BKN,,D. Schröder,BKN,SUB: Simmons FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0124,2,00:11.500000,MEM,,BKN,,D. Schröder,BKN,Schröder STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0124,2,00:02.400000,MEM,60.0,BKN,66.0,D. Schröder,BKN,Schröder Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0124,2,00:02.400000,MEM,60.0,BKN,67.0,D. Schröder,BKN,Schröder Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0124,3,11:40,MEM,62.0,BKN,70.0,D. Schröder,BKN,Schröder 24' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,-145,197,24,1,3.0,3.0,v
+S2425-G0124,3,11:19,MEM,,BKN,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0124,3,10:21,MEM,62.0,BKN,73.0,D. Schröder,BKN,Schröder 25' 3PT Jump Shot (16 PTS) (Finney-Smith 3 AST),Made Shot,Jump Shot,-100,229,25,1,3.0,3.0,v
+S2425-G0124,3,08:38,MEM,64.0,BKN,76.0,D. Schröder,BKN,Schröder Free Throw 1 of 3 (17 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0124,3,08:38,MEM,64.0,BKN,77.0,D. Schröder,BKN,Schröder Free Throw 2 of 3 (18 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0124,3,08:38,MEM,64.0,BKN,78.0,D. Schröder,BKN,Schröder Free Throw 3 of 3 (19 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0124,3,07:12,MEM,70.0,BKN,81.0,D. Schröder,BKN,Schröder 25' 3PT Jump Shot (22 PTS) (C. Johnson 4 AST),Made Shot,Jump Shot,-116,221,25,1,3.0,3.0,v
+S2425-G0124,3,04:27,MEM,,BKN,,D. Schröder,BKN,MISS Schröder 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-54,246,25,1,3.0,0.0,v
+S2425-G0124,3,04:05,MEM,,BKN,,D. Schröder,BKN,SUB: Wilson FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0124,4,10:25,MEM,92.0,BKN,95.0,D. Schröder,BKN,Schröder 2' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,-23,6,2,1,2.0,2.0,v
+S2425-G0124,4,10:14,MEM,92.0,BKN,98.0,D. Schröder,BKN,Schröder 25' 3PT Jump Shot (27 PTS) (Williams 3 AST),Made Shot,Jump Shot,12,248,25,1,3.0,3.0,v
+S2425-G0124,4,09:15,MEM,,BKN,,D. Schröder,BKN,MISS Schröder 25' 3PT Jump Shot,Missed Shot,Jump Shot,43,243,25,1,3.0,0.0,v
+S2425-G0124,4,07:58,MEM,95.0,BKN,103.0,D. Schröder,BKN,Schröder 2' Driving Finger Roll Layup (29 PTS),Made Shot,Driving Finger Roll Layup Shot,-20,6,2,1,2.0,2.0,v
+S2425-G0124,4,07:34,MEM,,BKN,,D. Schröder,BKN,SUB: Thomas FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0124,4,03:05,MEM,104.0,BKN,114.0,D. Schröder,BKN,Schröder 3' Finger Roll Layup (31 PTS),Made Shot,Finger Roll Layup Shot,31,10,3,1,2.0,2.0,v
+S2425-G0124,4,02:46,MEM,,BKN,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0124,4,02:18,MEM,,BKN,,D. Schröder,BKN,Schröder L.B.FOUL (P1.T4) (A.Smith),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0124,4,01:18,MEM,106.0,BKN,119.0,D. Schröder,BKN,Schröder 4' Driving Finger Roll Layup (33 PTS),Made Shot,Driving Finger Roll Layup Shot,16,42,4,1,2.0,2.0,v
+S2425-G0124,4,01:07,MEM,,BKN,,D. Schröder,BKN,SUB: J. Martin FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0098,1,10:15,BKN,3.0,MIL,4.0,D. Schröder,BKN,Schröder Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0098,1,10:15,BKN,4.0,MIL,4.0,D. Schröder,BKN,Schröder Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0098,1,09:55,BKN,,MIL,,D. Schröder,BKN,Schröder P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2425-G0098,1,08:31,BKN,5.0,MIL,8.0,D. Schröder,BKN,Schröder Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0098,1,08:31,BKN,6.0,MIL,8.0,D. Schröder,BKN,Schröder Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0098,1,07:11,BKN,,MIL,,D. Schröder,BKN,SUB: Wilson FOR Schröder,Substitution,,0,0,0,0,,,h
+S2425-G0098,1,02:48,BKN,,MIL,,D. Schröder,BKN,MISS Schröder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-27,24,1,3.0,0.0,h
+S2425-G0098,1,00:39.100000,BKN,,MIL,,D. Schröder,BKN,MISS Schröder 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,70,74,10,1,2.0,0.0,h
+S2425-G0098,2,11:15,BKN,,MIL,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,2,10:03,BKN,32.0,MIL,27.0,D. Schröder,BKN,Schröder 18' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-18,180,18,1,2.0,2.0,h
+S2425-G0098,2,09:22,BKN,,MIL,,D. Schröder,BKN,MISS Schröder 2' Driving Layup,Missed Shot,Driving Layup Shot,17,0,2,1,2.0,0.0,h
+S2425-G0098,2,08:55,BKN,35.0,MIL,29.0,D. Schröder,BKN,Schröder 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-78,241,25,1,3.0,3.0,h
+S2425-G0098,2,08:38,BKN,,MIL,,D. Schröder,BKN,SUB: Finney-Smith FOR Schröder,Substitution,,0,0,0,0,,,h
+S2425-G0098,2,04:04,BKN,40.0,MIL,39.0,D. Schröder,BKN,Schröder 26' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-85,242,26,1,3.0,3.0,h
+S2425-G0098,2,03:43,BKN,,MIL,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,2,03:38,BKN,43.0,MIL,39.0,D. Schröder,BKN,Schröder 24' 3PT Jump Shot (15 PTS) (C. Johnson 1 AST),Made Shot,Jump Shot,-238,40,24,1,3.0,3.0,h
+S2425-G0098,2,02:39,BKN,,MIL,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,2,02:25,BKN,,MIL,,D. Schröder,BKN,MISS Schröder 25' 3PT Jump Shot,Missed Shot,Jump Shot,-137,215,25,1,3.0,0.0,h
+S2425-G0098,3,11:36,BKN,,MIL,,D. Schröder,BKN,Schröder S.FOUL (P2.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0098,3,10:22,BKN,53.0,MIL,49.0,D. Schröder,BKN,Schröder 4' Driving Finger Roll Layup (17 PTS) (Finney-Smith 2 AST),Made Shot,Driving Finger Roll Layup Shot,-13,33,4,1,2.0,2.0,h
+S2425-G0098,3,09:53,BKN,55.0,MIL,51.0,D. Schröder,BKN,Schröder 15' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,-89,123,15,1,2.0,2.0,h
+S2425-G0098,3,08:50,BKN,,MIL,,D. Schröder,BKN,Schröder Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0098,3,08:47,BKN,,MIL,,D. Schröder,BKN,Schröder STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0098,3,07:08,BKN,,MIL,,D. Schröder,BKN,SUB: Wilson FOR Schröder,Substitution,,0,0,0,0,,,h
+S2425-G0098,3,01:41,BKN,80.0,MIL,77.0,D. Schröder,BKN,Schröder 27' 3PT Jump Shot (22 PTS) (Wilson 2 AST),Made Shot,Jump Shot,-49,270,27,1,3.0,3.0,h
+S2425-G0098,3,01:21,BKN,,MIL,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,3,00:34.700000,BKN,,MIL,,D. Schröder,BKN,MISS Schröder 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,26,13,3,1,2.0,0.0,h
+S2425-G0098,4,11:25,BKN,,MIL,,D. Schröder,BKN,MISS Schröder 15' Jump Shot,Missed Shot,Jump Shot,152,15,15,1,2.0,0.0,h
+S2425-G0098,4,09:09,BKN,90.0,MIL,85.0,D. Schröder,BKN,Schröder Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0098,4,09:09,BKN,91.0,MIL,85.0,D. Schröder,BKN,Schröder Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0098,4,07:54,BKN,95.0,MIL,85.0,D. Schröder,BKN,Schröder Free Throw Flagrant 1 of 2 (25 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0098,4,07:54,BKN,96.0,MIL,85.0,D. Schröder,BKN,Schröder Free Throw Flagrant 2 of 2 (26 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0098,4,05:46,BKN,,MIL,,D. Schröder,BKN,Schröder P.FOUL (P3.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2425-G0098,4,05:21,BKN,104.0,MIL,86.0,D. Schröder,BKN,Schröder 25' 3PT Step Back Jump Shot (29 PTS),Made Shot,Step Back Jump shot,179,169,25,1,3.0,3.0,h
+S2425-G0098,4,03:51,BKN,,MIL,,D. Schröder,BKN,MISS Schröder 25' 3PT Jump Shot,Missed Shot,Jump Shot,110,226,25,1,3.0,0.0,h
+S2425-G0098,4,03:22,BKN,,MIL,,D. Schröder,BKN,Schröder Palming Turnover (P2.T9),Turnover,Palming Turnover,0,0,0,0,,,h
+S2425-G0098,4,01:58,BKN,,MIL,,D. Schröder,BKN,SUB: Whitehead FOR Schröder,Substitution,,0,0,0,0,,,h
+S2425-G0077,1,10:55,ORL,,BKN,,D. Schröder,BKN,Schröder P.FOUL (P1.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2425-G0077,1,09:42,ORL,,BKN,,D. Schröder,BKN,Schröder Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0077,1,09:29,ORL,,BKN,,D. Schröder,BKN,MISS Schröder 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-25,18,3,1,2.0,0.0,v
+S2425-G0077,1,08:03,ORL,12.0,BKN,8.0,D. Schröder,BKN,Schröder 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-134,225,26,1,3.0,3.0,v
+S2425-G0077,1,07:20,ORL,,BKN,,D. Schröder,BKN,MISS Schröder 27' 3PT Jump Shot,Missed Shot,Jump Shot,5,268,27,1,3.0,0.0,v
+S2425-G0077,1,06:58,ORL,,BKN,,D. Schröder,BKN,SUB: Milton FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0077,1,01:27,ORL,22.0,BKN,19.0,D. Schröder,BKN,Schröder 20' Pullup Jump Shot (5 PTS) (Claxton 1 AST),Made Shot,Pullup Jump shot,37,199,20,1,2.0,2.0,v
+S2425-G0077,1,00:39.400000,ORL,22.0,BKN,21.0,D. Schröder,BKN,Schröder 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,26,8,3,1,2.0,2.0,v
+S2425-G0077,1,00:30.500000,ORL,,BKN,,D. Schröder,BKN,Schröder STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0077,1,00:28.200000,ORL,22.0,BKN,23.0,D. Schröder,BKN,Schröder 2' Running Layup (9 PTS),Made Shot,Running Layup Shot,20,13,2,1,2.0,2.0,v
+S2425-G0077,1,00:28.200000,ORL,,BKN,,D. Schröder,BKN,MISS Schröder Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0077,1,00:14.700000,ORL,,BKN,,D. Schröder,BKN,MISS Schröder 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,96,74,12,1,2.0,0.0,v
+S2425-G0077,2,10:46,ORL,24.0,BKN,28.0,D. Schröder,BKN,Schröder 16' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,50,151,16,1,2.0,2.0,v
+S2425-G0077,2,09:39,ORL,,BKN,,D. Schröder,BKN,SUB: C. Johnson FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0077,2,03:45,ORL,,BKN,,D. Schröder,BKN,Schröder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,2,00:44,ORL,46.0,BKN,46.0,D. Schröder,BKN,Schröder 26' 3PT Jump Shot (14 PTS) (Claxton 2 AST),Made Shot,Jump Shot,114,235,26,1,3.0,3.0,v
+S2425-G0077,2,00:13,ORL,,BKN,,D. Schröder,BKN,MISS Schröder 19' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,98,157,19,1,2.0,0.0,v
+S2425-G0077,3,09:02,ORL,,BKN,,D. Schröder,BKN,Schröder Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0077,3,08:57,ORL,,BKN,,D. Schröder,BKN,Schröder P.FOUL (P2.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2425-G0077,3,06:20,ORL,,BKN,,D. Schröder,BKN,SUB: Williams FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0077,3,02:37,ORL,,BKN,,D. Schröder,BKN,MISS Schröder 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,137,14,1,2.0,0.0,v
+S2425-G0077,3,00:38.400000,ORL,80.0,BKN,71.0,D. Schröder,BKN,Schröder Free Throw Technical (15 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0077,4,09:35,ORL,,BKN,,D. Schröder,BKN,Schröder P.FOUL (P3.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2425-G0077,4,08:13,ORL,,BKN,,D. Schröder,BKN,SUB: Wilson FOR Schröder,Substitution,,0,0,0,0,,,v
+S2425-G0077,4,04:49,ORL,103.0,BKN,87.0,D. Schröder,BKN,Schröder Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0077,4,04:49,ORL,103.0,BKN,88.0,D. Schröder,BKN,Schröder Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0077,4,03:42,ORL,104.0,BKN,92.0,D. Schröder,BKN,Schröder 24' 3PT Jump Shot (20 PTS) (Thomas 3 AST),Made Shot,Jump Shot,-207,129,24,1,3.0,3.0,v
+S2425-G0077,4,02:04,ORL,,BKN,,D. Schröder,BKN,SUB: Williams FOR Schröder,Substitution,,0,0,0,0,,,v

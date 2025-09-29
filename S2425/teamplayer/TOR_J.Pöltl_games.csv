@@ -1,0 +1,187 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,1,12:00,TOR,,PHI,,J. Pöltl,TOR,Jump Ball Pöltl vs. Drummond: Tip to Maxey,Jump Ball,,0,0,0,0,,,h
+S2425-G0078,1,11:39,TOR,,PHI,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,1,08:51,TOR,12.0,PHI,8.0,J. Pöltl,TOR,Pöltl 1' Cutting Layup Shot (2 PTS) (Barnes 2 AST),Made Shot,Cutting Layup Shot,5,-1,1,1,2.0,2.0,h
+S2425-G0078,1,08:51,TOR,,PHI,,J. Pöltl,TOR,MISS Pöltl Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0078,1,07:41,TOR,,PHI,,J. Pöltl,TOR,MISS Pöltl 5' Driving Layup,Missed Shot,Driving Layup Shot,-47,27,5,1,2.0,0.0,h
+S2425-G0078,1,07:11,TOR,,PHI,,J. Pöltl,TOR,Pöltl BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0078,1,06:14,TOR,17.0,PHI,15.0,J. Pöltl,TOR,Pöltl Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,1,06:14,TOR,18.0,PHI,15.0,J. Pöltl,TOR,Pöltl Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,1,05:33,TOR,,PHI,,J. Pöltl,TOR,Pöltl BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0078,1,04:22,TOR,,PHI,,J. Pöltl,TOR,SUB: Fernando FOR Pöltl,Substitution,,0,0,0,0,,,h
+S2425-G0078,2,08:29,TOR,,PHI,,J. Pöltl,TOR,Pöltl BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0078,2,08:28,TOR,,PHI,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,2,07:05,TOR,,PHI,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,2,06:56,TOR,46.0,PHI,40.0,J. Pöltl,TOR,Pöltl 6' Turnaround Hook Shot (6 PTS) (Mitchell 3 AST),Made Shot,Turnaround Hook Shot,18,59,6,1,2.0,2.0,h
+S2425-G0078,2,06:13,TOR,50.0,PHI,40.0,J. Pöltl,TOR,Pöltl Cutting Layup Shot (8 PTS) (Agbaji 1 AST),Made Shot,Cutting Layup Shot,-2,-3,0,1,2.0,2.0,h
+S2425-G0078,2,05:22,TOR,51.0,PHI,45.0,J. Pöltl,TOR,Pöltl Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,2,05:22,TOR,52.0,PHI,45.0,J. Pöltl,TOR,Pöltl Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,2,05:01,TOR,,PHI,,J. Pöltl,TOR,Pöltl BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0078,2,04:58,TOR,,PHI,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,2,03:58,TOR,56.0,PHI,47.0,J. Pöltl,TOR,Pöltl Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,2,03:58,TOR,57.0,PHI,47.0,J. Pöltl,TOR,Pöltl Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,2,03:38,TOR,,PHI,,J. Pöltl,TOR,Pöltl L.B.FOUL (P1.PN) (P.Fraher),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0078,2,02:49,TOR,,PHI,,J. Pöltl,TOR,Pöltl S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0078,2,02:47,TOR,,PHI,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,2,02:35,TOR,59.0,PHI,52.0,J. Pöltl,TOR,Pöltl 2' Layup (14 PTS) (Mogbo 2 AST),Made Shot,Layup Shot,17,13,2,1,2.0,2.0,h
+S2425-G0078,2,00:13.200000,TOR,,PHI,,J. Pöltl,TOR,SUB: Temple FOR Pöltl,Substitution,,0,0,0,0,,,h
+S2425-G0078,3,11:41,TOR,,PHI,,J. Pöltl,TOR,MISS Pöltl 2' Layup,Missed Shot,Layup Shot,13,14,2,1,2.0,0.0,h
+S2425-G0078,3,11:40,TOR,,PHI,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,3,11:40,TOR,,PHI,,J. Pöltl,TOR,MISS Pöltl Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0078,3,10:31,TOR,,PHI,,J. Pöltl,TOR,Pöltl Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0078,3,10:31,TOR,,PHI,,J. Pöltl,TOR,Pöltl P.FOUL (P3.T1) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2425-G0078,3,10:13,TOR,,PHI,,J. Pöltl,TOR,Pöltl S.FOUL (P4.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0078,3,10:13,TOR,,PHI,,J. Pöltl,TOR,SUB: Mogbo FOR Pöltl,Substitution,,0,0,0,0,,,h
+S2425-G0078,4,06:33,TOR,,PHI,,J. Pöltl,TOR,MISS Pöltl Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0078,4,06:33,TOR,99.0,PHI,84.0,J. Pöltl,TOR,Pöltl Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,4,06:24,TOR,,PHI,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,4,04:35,TOR,,PHI,,J. Pöltl,TOR,Pöltl Lost Ball Turnover (P2.T25),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0078,4,04:03,TOR,,PHI,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,4,00:56.300000,TOR,109.0,PHI,100.0,J. Pöltl,TOR,Pöltl 1' Cutting Dunk Shot (17 PTS) (Shead 5 AST),Made Shot,Cutting Dunk Shot,4,5,1,1,2.0,2.0,h
+S2425-G0078,4,00:41.600000,TOR,110.0,PHI,103.0,J. Pöltl,TOR,Pöltl Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,4,00:41.600000,TOR,111.0,PHI,103.0,J. Pöltl,TOR,Pöltl Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0078,4,00:13.900000,TOR,,PHI,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,12:00,TOR,,DEN,,J. Pöltl,TOR,Jump Ball Pöltl vs. Jokić: Tip to Barnes,Jump Ball,,0,0,0,0,,,h
+S2425-G0107,1,11:20,TOR,,DEN,,J. Pöltl,TOR,MISS Pöltl 8' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-38,75,8,1,2.0,0.0,h
+S2425-G0107,1,11:16,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,11:16,TOR,2.0,DEN,0.0,J. Pöltl,TOR,Pöltl Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0107,1,09:54,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,09:10,TOR,11.0,DEN,8.0,J. Pöltl,TOR,Pöltl 10' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,96,16,10,1,2.0,2.0,h
+S2425-G0107,1,08:25,TOR,14.0,DEN,10.0,J. Pöltl,TOR,Pöltl Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0107,1,08:25,TOR,15.0,DEN,10.0,J. Pöltl,TOR,Pöltl Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0107,1,08:00,TOR,,DEN,,J. Pöltl,TOR,Pöltl Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0107,1,04:04,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,1,04:01,TOR,,DEN,,J. Pöltl,TOR,MISS Pöltl Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0107,1,02:51,TOR,,DEN,,J. Pöltl,TOR,Pöltl Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0107,1,02:51,TOR,,DEN,,J. Pöltl,TOR,SUB: Barnes FOR Pöltl,Substitution,,0,0,0,0,,,h
+S2425-G0107,2,06:29,TOR,44.0,DEN,41.0,J. Pöltl,TOR,Pöltl 7' Driving Hook Shot (8 PTS) (Dick 1 AST),Made Shot,Driving Hook Shot,9,74,7,1,2.0,2.0,h
+S2425-G0107,2,06:15,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,2,03:56,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,2,02:31,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,11:44,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,11:36,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,11:36,TOR,,DEN,,J. Pöltl,TOR,MISS Pöltl Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0107,3,11:36,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,11:33,TOR,64.0,DEN,54.0,J. Pöltl,TOR,Pöltl Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0107,3,11:12,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,10:53,TOR,,DEN,,J. Pöltl,TOR,MISS Pöltl 10' Floating Jump Shot,Missed Shot,Floating Jump shot,32,93,10,1,2.0,0.0,h
+S2425-G0107,3,08:12,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,08:01,TOR,73.0,DEN,60.0,J. Pöltl,TOR,Pöltl Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,-1,-1,0,1,2.0,2.0,h
+S2425-G0107,3,05:48,TOR,,DEN,,J. Pöltl,TOR,MISS Pöltl 1' Layup,Missed Shot,Layup Shot,0,10,1,1,2.0,0.0,h
+S2425-G0107,3,05:46,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,3,03:14,TOR,,DEN,,J. Pöltl,TOR,SUB: Barnes FOR Pöltl,Substitution,,0,0,0,0,,,h
+S2425-G0107,4,08:55,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:7 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,4,08:55,TOR,95.0,DEN,89.0,J. Pöltl,TOR,Pöltl Putback Layup (14 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0107,4,08:39,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:7 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,4,08:22,TOR,,DEN,,J. Pöltl,TOR,Pöltl Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0107,4,07:00,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:7 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,4,04:58,TOR,,DEN,,J. Pöltl,TOR,Pöltl BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0107,4,04:55,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:7 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,4,04:30,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:7 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,5,05:00,TOR,,DEN,,J. Pöltl,TOR,Jump Ball Pöltl vs. Jokić: Tip to Gordon,Jump Ball,,0,0,0,0,,,h
+S2425-G0107,5,04:30,TOR,116.0,DEN,116.0,J. Pöltl,TOR,Pöltl 1' Cutting Layup Shot (16 PTS) (Barrett 3 AST),Made Shot,Cutting Layup Shot,-7,11,1,1,2.0,2.0,h
+S2425-G0107,5,04:12,TOR,,DEN,,J. Pöltl,TOR,Pöltl P.FOUL (P1.T1) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2425-G0107,5,04:04,TOR,,DEN,,J. Pöltl,TOR,Pöltl S.FOUL (P2.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0107,5,00:09.300000,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:7 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,5,00:00,TOR,,DEN,,J. Pöltl,TOR,Pöltl REBOUND (Off:8 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0107,5,00:00,TOR,,DEN,,J. Pöltl,TOR,MISS Pöltl Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0117,1,11:05,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,1,09:54,CHA,,TOR,,J. Pöltl,TOR,MISS Pöltl 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-39,74,8,1,2.0,0.0,v
+S2425-G0117,1,09:24,CHA,,TOR,,J. Pöltl,TOR,Pöltl Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0117,1,09:07,CHA,9.0,TOR,2.0,J. Pöltl,TOR,Pöltl 2' Alley Oop Dunk (2 PTS) (Barrett 1 AST),Made Shot,Alley Oop Dunk Shot,-1,18,2,1,2.0,2.0,v
+S2425-G0117,1,08:34,CHA,,TOR,,J. Pöltl,TOR,MISS Pöltl 3' Layup,Missed Shot,Layup Shot,31,15,3,1,2.0,0.0,v
+S2425-G0117,1,08:14,CHA,,TOR,,J. Pöltl,TOR,Pöltl P.FOUL (P1.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0117,1,07:56,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,1,06:31,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,1,03:29,CHA,,TOR,,J. Pöltl,TOR,SUB: Fernando FOR Pöltl,Substitution,,0,0,0,0,,,v
+S2425-G0117,2,08:22,CHA,,TOR,,J. Pöltl,TOR,Pöltl S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0117,2,08:21,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,2,08:08,CHA,45.0,TOR,26.0,J. Pöltl,TOR,Pöltl 3' Cutting Layup Shot (4 PTS) (Shead 2 AST),Made Shot,Cutting Layup Shot,4,26,3,1,2.0,2.0,v
+S2425-G0117,2,07:42,CHA,48.0,TOR,28.0,J. Pöltl,TOR,Pöltl 3' Cutting Layup Shot (6 PTS) (Barrett 4 AST),Made Shot,Cutting Layup Shot,-17,26,3,1,2.0,2.0,v
+S2425-G0117,2,06:01,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,2,04:31,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,2,03:13,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,2,01:27,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,3,10:48,CHA,67.0,TOR,61.0,J. Pöltl,TOR,Pöltl 10' Floating Jump Shot (8 PTS) (Mitchell 3 AST),Made Shot,Floating Jump shot,-2,96,10,1,2.0,2.0,v
+S2425-G0117,3,10:40,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,3,08:56,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,3,08:54,CHA,75.0,TOR,69.0,J. Pöltl,TOR,Pöltl 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,9,11,1,1,2.0,2.0,v
+S2425-G0117,3,08:40,CHA,,TOR,,J. Pöltl,TOR,Pöltl STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0117,3,08:28,CHA,,TOR,,J. Pöltl,TOR,Pöltl STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0117,3,07:04,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,3,07:03,CHA,77.0,TOR,76.0,J. Pöltl,TOR,Pöltl Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0117,3,06:45,CHA,,TOR,,J. Pöltl,TOR,Pöltl S.FOUL (P3.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0117,3,06:25,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,3,06:24,CHA,,TOR,,J. Pöltl,TOR,MISS Pöltl 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,22,5,2,1,2.0,0.0,v
+S2425-G0117,3,05:05,CHA,82.0,TOR,84.0,J. Pöltl,TOR,Pöltl 3' Driving Layup (14 PTS) (Mitchell 6 AST),Made Shot,Driving Layup Shot,25,8,3,1,2.0,2.0,v
+S2425-G0117,3,04:36,CHA,85.0,TOR,86.0,J. Pöltl,TOR,Pöltl 3' Driving Layup (16 PTS) (Mitchell 7 AST),Made Shot,Driving Layup Shot,28,-1,3,1,2.0,2.0,v
+S2425-G0117,3,04:06,CHA,,TOR,,J. Pöltl,TOR,SUB: Battle FOR Pöltl,Substitution,,0,0,0,0,,,v
+S2425-G0117,4,10:24,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,4,09:38,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,4,09:37,CHA,111.0,TOR,102.0,J. Pöltl,TOR,Pöltl 2' Putback Dunk (18 PTS),Made Shot,Putback Dunk Shot,11,13,2,1,2.0,2.0,v
+S2425-G0117,4,09:20,CHA,,TOR,,J. Pöltl,TOR,Pöltl P.FOUL (P4.T1) (P.O'Connell),Foul,Personal,0,0,0,0,,,v
+S2425-G0117,4,09:03,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,4,08:55,CHA,111.0,TOR,104.0,J. Pöltl,TOR,Pöltl 3' Running Layup (20 PTS) (Mitchell 9 AST),Made Shot,Running Layup Shot,16,30,3,1,2.0,2.0,v
+S2425-G0117,4,07:17,CHA,,TOR,,J. Pöltl,TOR,MISS Pöltl 7' Hook Shot,Missed Shot,Hook Shot,74,4,7,1,2.0,0.0,v
+S2425-G0117,4,06:41,CHA,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:5 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0117,4,05:32,CHA,,TOR,,J. Pöltl,TOR,SUB: Agbaji FOR Pöltl,Substitution,,0,0,0,0,,,v
+S2425-G0093,1,08:48,MIN,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,1,08:47,MIN,,TOR,,J. Pöltl,TOR,MISS Pöltl 4' Putback Layup,Missed Shot,Putback Layup Shot,-39,6,4,1,2.0,0.0,v
+S2425-G0093,1,08:38,MIN,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,1,07:35,MIN,,TOR,,J. Pöltl,TOR,MISS Pöltl 2' Reverse Layup,Missed Shot,Reverse Layup Shot,20,0,2,1,2.0,0.0,v
+S2425-G0093,1,06:45,MIN,,TOR,,J. Pöltl,TOR,MISS Pöltl 11' Jump Shot,Missed Shot,Jump Shot,58,98,11,1,2.0,0.0,v
+S2425-G0093,1,06:26,MIN,,TOR,,J. Pöltl,TOR,Pöltl S.FOUL (P1.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2425-G0093,1,05:16,MIN,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,1,05:04,MIN,,TOR,,J. Pöltl,TOR,SUB: Fernando FOR Pöltl,Substitution,,0,0,0,0,,,v
+S2425-G0093,2,07:26,MIN,40.0,TOR,24.0,J. Pöltl,TOR,Pöltl 1' Cutting Layup Shot (2 PTS) (Mitchell 1 AST),Made Shot,Cutting Layup Shot,10,1,1,1,2.0,2.0,v
+S2425-G0093,2,06:42,MIN,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,2,06:28,MIN,,TOR,,J. Pöltl,TOR,MISS Pöltl 3' Driving Layup,Missed Shot,Driving Layup Shot,-17,29,3,1,2.0,0.0,v
+S2425-G0093,2,03:29,MIN,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,2,03:06,MIN,49.0,TOR,35.0,J. Pöltl,TOR,Pöltl 4' Hook Shot (4 PTS) (Dick 1 AST),Made Shot,Hook Shot,12,42,4,1,2.0,2.0,v
+S2425-G0093,2,02:23,MIN,,TOR,,J. Pöltl,TOR,Pöltl BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0093,2,02:20,MIN,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,2,00:19.400000,MIN,,TOR,,J. Pöltl,TOR,Pöltl S.FOUL (P2.T4) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0093,3,10:36,MIN,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,3,09:23,MIN,61.0,TOR,51.0,J. Pöltl,TOR,Pöltl 3' Running Layup (6 PTS) (Mitchell 3 AST),Made Shot,Running Layup Shot,28,16,3,1,2.0,2.0,v
+S2425-G0093,3,07:42,MIN,,TOR,,J. Pöltl,TOR,MISS Pöltl 8' Floating Jump Shot,Missed Shot,Floating Jump shot,70,43,8,1,2.0,0.0,v
+S2425-G0093,3,05:02,MIN,78.0,TOR,58.0,J. Pöltl,TOR,Pöltl 11' Floating Jump Shot (8 PTS) (Shead 4 AST),Made Shot,Floating Jump shot,20,106,11,1,2.0,2.0,v
+S2425-G0093,3,04:15,MIN,,TOR,,J. Pöltl,TOR,SUB: Battle FOR Pöltl,Substitution,,0,0,0,0,,,v
+S2425-G0093,4,05:57,MIN,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,05:45,MIN,,TOR,,J. Pöltl,TOR,Pöltl OFF.Foul (P3) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
+S2425-G0093,4,05:45,MIN,,TOR,,J. Pöltl,TOR,Pöltl Offensive Foul Turnover (P1.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0093,4,04:25,MIN,,TOR,,J. Pöltl,TOR,Pöltl P.FOUL (P4.T2) (D.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0093,4,03:47,MIN,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,03:22,MIN,,TOR,,J. Pöltl,TOR,Pöltl STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0093,4,02:02,MIN,,TOR,,J. Pöltl,TOR,Pöltl Lost Ball Turnover (P2.T20),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0093,4,00:35.400000,MIN,,TOR,,J. Pöltl,TOR,Pöltl REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,12:00,TOR,,CLE,,J. Pöltl,TOR,Jump Ball Pöltl vs. Allen: Tip to Garland,Jump Ball,,0,0,0,0,,,h
+S2425-G0067,1,10:25,TOR,,CLE,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,1,09:04,TOR,,CLE,,J. Pöltl,TOR,MISS Pöltl 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-18,11,2,1,2.0,0.0,h
+S2425-G0067,1,05:51,TOR,,CLE,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,1,05:12,TOR,,CLE,,J. Pöltl,TOR,MISS Pöltl 7' Floating Jump Shot,Missed Shot,Floating Jump shot,9,74,7,1,2.0,0.0,h
+S2425-G0067,1,03:25,TOR,,CLE,,J. Pöltl,TOR,SUB: Shead FOR Pöltl,Substitution,,0,0,0,0,,,h
+S2425-G0067,2,08:27,TOR,37.0,CLE,45.0,J. Pöltl,TOR,Pöltl 1' Cutting Layup Shot (2 PTS) (Barnes 4 AST),Made Shot,Cutting Layup Shot,-5,1,1,1,2.0,2.0,h
+S2425-G0067,2,08:17,TOR,,CLE,,J. Pöltl,TOR,Pöltl S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,2,07:35,TOR,,CLE,,J. Pöltl,TOR,MISS Pöltl Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0067,2,07:35,TOR,,CLE,,J. Pöltl,TOR,MISS Pöltl Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0067,2,07:20,TOR,,CLE,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,2,07:07,TOR,40.0,CLE,49.0,J. Pöltl,TOR,Pöltl Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,2,07:07,TOR,41.0,CLE,49.0,J. Pöltl,TOR,Pöltl Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0067,2,06:45,TOR,,CLE,,J. Pöltl,TOR,Pöltl REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,2,06:21,TOR,43.0,CLE,49.0,J. Pöltl,TOR,Pöltl 6' Floating Jump Shot (6 PTS) (Quickley 4 AST),Made Shot,Floating Jump shot,5,59,6,1,2.0,2.0,h
+S2425-G0067,2,05:37,TOR,,CLE,,J. Pöltl,TOR,MISS Pöltl 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10,-2,1,1,2.0,0.0,h
+S2425-G0067,2,04:58,TOR,,CLE,,J. Pöltl,TOR,Pöltl OFF.Foul (P2) (J.Ralls),Foul,Offensive,0,0,0,0,,,h
+S2425-G0067,2,04:58,TOR,,CLE,,J. Pöltl,TOR,Pöltl Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0067,2,04:23,TOR,,CLE,,J. Pöltl,TOR,Pöltl Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0067,2,03:28,TOR,,CLE,,J. Pöltl,TOR,Pöltl Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0067,2,02:45,TOR,,CLE,,J. Pöltl,TOR,Pöltl Lost Ball Turnover (P4.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0067,3,11:06,TOR,,CLE,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,10:14,TOR,,CLE,,J. Pöltl,TOR,Pöltl Lost Ball Turnover (P5.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0067,3,09:37,TOR,,CLE,,J. Pöltl,TOR,Pöltl REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,08:39,TOR,,CLE,,J. Pöltl,TOR,Pöltl S.FOUL (P3.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,3,07:34,TOR,,CLE,,J. Pöltl,TOR,MISS Pöltl 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-42,6,4,1,2.0,0.0,h
+S2425-G0067,3,07:07,TOR,,CLE,,J. Pöltl,TOR,Pöltl S.FOUL (P4.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,3,06:46,TOR,,CLE,,J. Pöltl,TOR,Pöltl REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,04:56,TOR,,CLE,,J. Pöltl,TOR,Pöltl REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,04:44,TOR,,CLE,,J. Pöltl,TOR,Pöltl REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0067,3,03:30,TOR,,CLE,,J. Pöltl,TOR,SUB: Fernando FOR Pöltl,Substitution,,0,0,0,0,,,h

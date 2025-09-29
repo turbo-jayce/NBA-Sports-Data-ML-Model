@@ -1,0 +1,130 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2424-G124,1,11:45,MEM,2.0,BKN,0.0,Z. Edey,MEM,Edey 1' Cutting Dunk Shot (2 PTS) (Morant 1 AST),Made Shot,Cutting Dunk Shot,-2,-7,1,1,2.0,2.0,h
+S2424-G124,1,11:30,MEM,,BKN,,Z. Edey,MEM,Edey STEAL (1 STL),,,0,0,0,0,,,h
+S2424-G124,1,11:23,MEM,3.0,BKN,0.0,Z. Edey,MEM,Edey Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2424-G124,1,11:23,MEM,,BKN,,Z. Edey,MEM,MISS Edey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2424-G124,1,07:47,MEM,14.0,BKN,10.0,Z. Edey,MEM,Edey 1' Alley Oop Dunk (5 PTS) (Morant 3 AST),Made Shot,Alley Oop Dunk Shot,13,0,1,1,2.0,2.0,h
+S2424-G124,1,05:10,MEM,20.0,BKN,12.0,Z. Edey,MEM,Edey 1' Dunk (7 PTS) (LaRavia 1 AST),Made Shot,Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2424-G124,1,04:38,MEM,,BKN,,Z. Edey,MEM,MISS Edey 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,17,37,4,1,2.0,0.0,h
+S2424-G124,1,04:37,MEM,,BKN,,Z. Edey,MEM,SUB: Huff FOR Edey,Substitution,,0,0,0,0,,,h
+S2424-G124,2,07:12,MEM,,BKN,,Z. Edey,MEM,MISS Edey 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-34,16,4,1,2.0,0.0,h
+S2424-G124,2,07:09,MEM,,BKN,,Z. Edey,MEM,Edey REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,2,07:08,MEM,43.0,BKN,44.0,Z. Edey,MEM,Edey 1' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,-10,5,1,1,2.0,2.0,h
+S2424-G124,2,05:59,MEM,47.0,BKN,47.0,Z. Edey,MEM,Edey 1' Cutting Layup Shot (11 PTS) (Wells 1 AST),Made Shot,Cutting Layup Shot,5,10,1,1,2.0,2.0,h
+S2424-G124,2,03:00,MEM,,BKN,,Z. Edey,MEM,MISS Edey 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,83,3,8,1,2.0,0.0,h
+S2424-G124,2,02:43,MEM,55.0,BKN,58.0,Z. Edey,MEM,Edey Cutting Dunk Shot (13 PTS) (Pippen Jr. 3 AST),Made Shot,Cutting Dunk Shot,-1,0,0,1,2.0,2.0,h
+S2424-G124,2,02:42,MEM,,BKN,,Z. Edey,MEM,SUB: Clarke FOR Edey,Substitution,,0,0,0,0,,,h
+S2424-G124,3,10:39,MEM,,BKN,,Z. Edey,MEM,Edey OFF.Foul (P1) (A.Smith),Foul,Offensive,0,0,0,0,,,h
+S2424-G124,3,10:39,MEM,,BKN,,Z. Edey,MEM,Edey Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2424-G124,3,08:50,MEM,,BKN,,Z. Edey,MEM,Edey L.B.FOUL (P2.T1) (B.Nansel),Foul,Loose Ball,0,0,0,0,,,h
+S2424-G124,3,08:38,MEM,,BKN,,Z. Edey,MEM,SUB: LaRavia FOR Edey,Substitution,,0,0,0,0,,,h
+S2424-G124,3,01:16,MEM,,BKN,,Z. Edey,MEM,Edey REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,3,00:54.300000,MEM,,BKN,,Z. Edey,MEM,SUB: Konchar FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0070,1,10:04,UTA,,MEM,,Z. Edey,MEM,Edey S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2425-G0070,1,09:47,UTA,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,1,09:47,UTA,8.0,MEM,5.0,Z. Edey,MEM,Edey Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0070,1,09:47,UTA,,MEM,,Z. Edey,MEM,MISS Edey Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0070,1,08:23,UTA,,MEM,,Z. Edey,MEM,Edey Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0070,1,07:27,UTA,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,1,07:06,UTA,,MEM,,Z. Edey,MEM,SUB: Bane FOR Edey,Substitution,,0,0,0,0,,,v
+S2425-G0070,2,09:26,UTA,,MEM,,Z. Edey,MEM,Edey L.B.FOUL (P2.T1) (J.Williams),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0070,2,06:50,UTA,,MEM,,Z. Edey,MEM,SUB: Wells FOR Edey,Substitution,,0,0,0,0,,,v
+S2425-G0070,3,10:41,UTA,,MEM,,Z. Edey,MEM,MISS Edey 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,21,37,4,1,2.0,0.0,v
+S2425-G0070,3,10:32,UTA,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,3,09:10,UTA,,MEM,,Z. Edey,MEM,MISS Edey 6' Layup,Missed Shot,Layup Shot,-51,31,6,1,2.0,0.0,v
+S2425-G0070,3,09:10,UTA,,MEM,,Z. Edey,MEM,Edey P.FOUL (P4.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2425-G0070,3,08:07,UTA,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,3,08:07,UTA,66.0,MEM,71.0,Z. Edey,MEM,Edey Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0070,3,07:49,UTA,,MEM,,Z. Edey,MEM,SUB: Huff FOR Edey,Substitution,,0,0,0,0,,,v
+S2425-G0070,4,11:48,UTA,,MEM,,Z. Edey,MEM,MISS Edey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0070,4,11:48,UTA,,MEM,,Z. Edey,MEM,MISS Edey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0070,4,10:32,UTA,,MEM,,Z. Edey,MEM,Edey S.FOUL (P5.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0070,4,09:47,UTA,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,4,09:47,UTA,91.0,MEM,102.0,Z. Edey,MEM,Edey Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0070,4,09:47,UTA,,MEM,,Z. Edey,MEM,MISS Edey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0070,4,09:15,UTA,,MEM,,Z. Edey,MEM,Edey L.B.FOUL (P6.T4) (J.Conley),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0070,4,09:15,UTA,,MEM,,Z. Edey,MEM,SUB: Huff FOR Edey,Substitution,,0,0,0,0,,,v
+S2425-G0092,1,12:00,MEM,,ORL,,Z. Edey,MEM,Jump Ball Edey vs. Carter Jr.: Tip to Jackson Jr.,Jump Ball,,0,0,0,0,,,h
+S2425-G0092,1,10:04,MEM,6.0,ORL,0.0,Z. Edey,MEM,Edey 2' Dunk (2 PTS) (Bane 2 AST),Made Shot,Dunk Shot,-13,20,2,1,2.0,2.0,h
+S2425-G0092,1,09:16,MEM,,ORL,,Z. Edey,MEM,Edey L.B.FOUL (P1.T2) (R.Hussey),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0092,1,08:54,MEM,,ORL,,Z. Edey,MEM,Edey P.FOUL (P2.T3) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2425-G0092,1,08:54,MEM,,ORL,,Z. Edey,MEM,SUB: Clarke FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0092,2,08:22,MEM,50.0,ORL,31.0,Z. Edey,MEM,Edey 24' 3PT Jump Shot (5 PTS) (Morant 3 AST),Made Shot,Jump Shot,235,-20,24,1,3.0,3.0,h
+S2425-G0092,2,04:59,MEM,,ORL,,Z. Edey,MEM,MISS Edey 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-81,14,8,1,2.0,0.0,h
+S2425-G0092,2,03:31,MEM,,ORL,,Z. Edey,MEM,Edey S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0092,2,03:31,MEM,,ORL,,Z. Edey,MEM,SUB: Clarke FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0092,3,11:32,MEM,,ORL,,Z. Edey,MEM,Edey REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,3,11:19,MEM,71.0,ORL,43.0,Z. Edey,MEM,Edey 1' Alley Oop Dunk (7 PTS) (Morant 6 AST),Made Shot,Alley Oop Dunk Shot,-10,11,1,1,2.0,2.0,h
+S2425-G0092,3,10:09,MEM,,ORL,,Z. Edey,MEM,Edey S.FOUL (P4.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2425-G0092,3,08:42,MEM,,ORL,,Z. Edey,MEM,SUB: Clarke FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0082,1,11:22,HOU,2.0,MEM,2.0,Z. Edey,MEM,Edey 1' Dunk (2 PTS) (Smart 1 AST),Made Shot,Dunk Shot,5,12,1,1,2.0,2.0,v
+S2425-G0082,1,10:49,HOU,,MEM,,Z. Edey,MEM,MISS Edey 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,95,10,1,2.0,0.0,v
+S2425-G0082,1,10:30,HOU,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,1,08:37,HOU,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,1,06:57,HOU,15.0,MEM,13.0,Z. Edey,MEM,Edey 2' Dunk (4 PTS) (Smart 2 AST),Made Shot,Dunk Shot,-1,22,2,1,2.0,2.0,v
+S2425-G0082,1,06:26,HOU,,MEM,,Z. Edey,MEM,SUB: Huff FOR Edey,Substitution,,0,0,0,0,,,v
+S2425-G0082,2,05:58,HOU,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,2,04:38,HOU,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,2,04:38,HOU,,MEM,,Z. Edey,MEM,MISS Edey 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,15,6,2,1,2.0,0.0,v
+S2425-G0082,2,04:37,HOU,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,2,04:36,HOU,45.0,MEM,57.0,Z. Edey,MEM,Edey 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-2,11,1,1,2.0,2.0,v
+S2425-G0082,2,04:17,HOU,,MEM,,Z. Edey,MEM,Edey BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0082,2,04:15,HOU,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,2,02:04,HOU,,MEM,,Z. Edey,MEM,SUB: Huff FOR Edey,Substitution,,0,0,0,0,,,v
+S2425-G0082,3,11:01,HOU,,MEM,,Z. Edey,MEM,MISS Edey 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,37,48,6,1,2.0,0.0,v
+S2425-G0082,3,10:37,HOU,,MEM,,Z. Edey,MEM,Edey S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0082,3,09:56,HOU,,MEM,,Z. Edey,MEM,Edey STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0082,3,09:48,HOU,,MEM,,Z. Edey,MEM,MISS Edey 5' Jump Shot,Missed Shot,Jump Shot,-34,42,5,1,2.0,0.0,v
+S2425-G0082,3,09:23,HOU,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,3,09:10,HOU,,MEM,,Z. Edey,MEM,Edey S.FOUL (P2.T2) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2425-G0082,3,07:19,HOU,,MEM,,Z. Edey,MEM,Edey S.FOUL (P3.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0082,3,06:34,HOU,,MEM,,Z. Edey,MEM,Edey S.FOUL (P4.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2425-G0082,3,06:34,HOU,,MEM,,Z. Edey,MEM,SUB: Huff FOR Edey,Substitution,,0,0,0,0,,,v
+S2425-G0082,4,09:24,HOU,106.0,MEM,87.0,Z. Edey,MEM,Edey 2' Layup (8 PTS) (LaRavia 4 AST),Made Shot,Layup Shot,-6,15,2,1,2.0,2.0,v
+S2425-G0082,4,09:02,HOU,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,4,05:52,HOU,115.0,MEM,95.0,Z. Edey,MEM,Edey 3' Layup (10 PTS) (Bane 4 AST),Made Shot,Layup Shot,-1,26,3,1,2.0,2.0,v
+S2425-G0082,4,05:52,HOU,,MEM,,Z. Edey,MEM,MISS Edey Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0082,4,04:53,HOU,118.0,MEM,100.0,Z. Edey,MEM,Edey Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0082,4,04:53,HOU,,MEM,,Z. Edey,MEM,MISS Edey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0082,4,03:44,HOU,,MEM,,Z. Edey,MEM,Edey REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,4,03:41,HOU,123.0,MEM,104.0,Z. Edey,MEM,Edey Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0082,4,03:34,HOU,,MEM,,Z. Edey,MEM,SUB: Kawamura FOR Edey,Substitution,,0,0,0,0,,,v
+S2425-G0124,1,11:45,MEM,2.0,BKN,0.0,Z. Edey,MEM,Edey 1' Cutting Dunk Shot (2 PTS) (Morant 1 AST),Made Shot,Cutting Dunk Shot,-2,-7,1,1,2.0,2.0,h
+S2425-G0124,1,11:30,MEM,,BKN,,Z. Edey,MEM,Edey STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0124,1,11:23,MEM,3.0,BKN,0.0,Z. Edey,MEM,Edey Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0124,1,11:23,MEM,,BKN,,Z. Edey,MEM,MISS Edey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0124,1,07:47,MEM,14.0,BKN,10.0,Z. Edey,MEM,Edey 1' Alley Oop Dunk (5 PTS) (Morant 3 AST),Made Shot,Alley Oop Dunk Shot,13,0,1,1,2.0,2.0,h
+S2425-G0124,1,05:10,MEM,20.0,BKN,12.0,Z. Edey,MEM,Edey 1' Dunk (7 PTS) (LaRavia 1 AST),Made Shot,Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2425-G0124,1,04:38,MEM,,BKN,,Z. Edey,MEM,MISS Edey 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,17,37,4,1,2.0,0.0,h
+S2425-G0124,1,04:37,MEM,,BKN,,Z. Edey,MEM,SUB: Huff FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0124,2,07:12,MEM,,BKN,,Z. Edey,MEM,MISS Edey 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-34,16,4,1,2.0,0.0,h
+S2425-G0124,2,07:09,MEM,,BKN,,Z. Edey,MEM,Edey REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,2,07:08,MEM,43.0,BKN,44.0,Z. Edey,MEM,Edey 1' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,-10,5,1,1,2.0,2.0,h
+S2425-G0124,2,05:59,MEM,47.0,BKN,47.0,Z. Edey,MEM,Edey 1' Cutting Layup Shot (11 PTS) (Wells 1 AST),Made Shot,Cutting Layup Shot,5,10,1,1,2.0,2.0,h
+S2425-G0124,2,03:00,MEM,,BKN,,Z. Edey,MEM,MISS Edey 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,83,3,8,1,2.0,0.0,h
+S2425-G0124,2,02:43,MEM,55.0,BKN,58.0,Z. Edey,MEM,Edey Cutting Dunk Shot (13 PTS) (Pippen Jr. 3 AST),Made Shot,Cutting Dunk Shot,-1,0,0,1,2.0,2.0,h
+S2425-G0124,2,02:42,MEM,,BKN,,Z. Edey,MEM,SUB: Clarke FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0124,3,10:39,MEM,,BKN,,Z. Edey,MEM,Edey OFF.Foul (P1) (A.Smith),Foul,Offensive,0,0,0,0,,,h
+S2425-G0124,3,10:39,MEM,,BKN,,Z. Edey,MEM,Edey Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0124,3,08:50,MEM,,BKN,,Z. Edey,MEM,Edey L.B.FOUL (P2.T1) (B.Nansel),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0124,3,08:38,MEM,,BKN,,Z. Edey,MEM,SUB: LaRavia FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0124,3,01:16,MEM,,BKN,,Z. Edey,MEM,Edey REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,3,00:54.300000,MEM,,BKN,,Z. Edey,MEM,SUB: Konchar FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0108,1,12:00,MEM,,CHI,,Z. Edey,MEM,Jump Ball Edey vs. Vučević: Tip to Smart,Jump Ball,,0,0,0,0,,,h
+S2425-G0108,1,10:51,MEM,,CHI,,Z. Edey,MEM,Edey REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,1,10:28,MEM,,CHI,,Z. Edey,MEM,Edey P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2425-G0108,1,10:21,MEM,,CHI,,Z. Edey,MEM,Edey REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,1,09:59,MEM,,CHI,,Z. Edey,MEM,Edey REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,1,09:52,MEM,,CHI,,Z. Edey,MEM,MISS Edey 25' 3PT Jump Shot,Missed Shot,Jump Shot,118,220,25,1,3.0,0.0,h
+S2425-G0108,1,09:19,MEM,,CHI,,Z. Edey,MEM,Edey REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,1,09:04,MEM,10.0,CHI,3.0,Z. Edey,MEM,Edey 1' Cutting Layup Shot (2 PTS) (Aldama 3 AST),Made Shot,Cutting Layup Shot,4,5,1,1,2.0,2.0,h
+S2425-G0108,1,07:03,MEM,,CHI,,Z. Edey,MEM,MISS Edey 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,2,92,9,1,2.0,0.0,h
+S2425-G0108,1,06:57,MEM,,CHI,,Z. Edey,MEM,SUB: LaRavia FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0108,2,07:12,MEM,46.0,CHI,26.0,Z. Edey,MEM,Edey Alley Oop Dunk (4 PTS) (Pippen Jr. 4 AST),Made Shot,Alley Oop Dunk Shot,-4,2,0,1,2.0,2.0,h
+S2425-G0108,2,06:37,MEM,,CHI,,Z. Edey,MEM,MISS Edey 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-10,24,1,3.0,0.0,h
+S2425-G0108,2,06:09,MEM,,CHI,,Z. Edey,MEM,Edey REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,2,06:09,MEM,,CHI,,Z. Edey,MEM,MISS Edey 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,17,84,9,1,2.0,0.0,h
+S2425-G0108,2,03:36,MEM,54.0,CHI,39.0,Z. Edey,MEM,Edey 3' Cutting Finger Roll Layup Shot (6 PTS) (Bane 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-26,17,3,1,2.0,2.0,h
+S2425-G0108,2,03:19,MEM,,CHI,,Z. Edey,MEM,SUB: Huff FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0108,3,07:55,MEM,,CHI,,Z. Edey,MEM,SUB: Huff FOR Edey,Substitution,,0,0,0,0,,,h
+S2425-G0108,4,00:08.600000,MEM,,CHI,,Z. Edey,MEM,SUB: LaRavia FOR Edey,Substitution,,0,0,0,0,,,h

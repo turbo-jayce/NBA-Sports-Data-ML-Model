@@ -1,0 +1,54 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0062,1,01:55,LAL,20.0,MIN,18.0,N. Alexander-Walker,MIN,Alexander-Walker 3PT Jump Shot (3 PTS) (DiVincenzo 2 AST),Made Shot,Jump Shot,-225,0,0,1,3.0,3.0,v
+S2425-G0062,2,10:21,LAL,,MIN,,N. Alexander-Walker,MIN,Alexander-Walker Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0062,2,09:35,LAL,,MIN,,N. Alexander-Walker,MIN,Alexander-Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,2,09:35,LAL,,MIN,,N. Alexander-Walker,MIN,MISS Alexander-Walker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0062,2,09:35,LAL,28.0,MIN,27.0,N. Alexander-Walker,MIN,Alexander-Walker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,2,08:33,LAL,,MIN,,N. Alexander-Walker,MIN,SUB: McDaniels FOR Alexander-Walker,Substitution,,0,0,0,0,,,v
+S2425-G0062,2,03:24,LAL,,MIN,,N. Alexander-Walker,MIN,Alexander-Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,2,01:57,LAL,53.0,MIN,42.0,N. Alexander-Walker,MIN,Alexander-Walker 25' 3PT Jump Shot (7 PTS) (Ingles 1 AST),Made Shot,Jump Shot,246,31,25,1,3.0,3.0,v
+S2425-G0062,2,00:00.300000,LAL,,MIN,,N. Alexander-Walker,MIN,MISS Alexander-Walker 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,114,182,21,1,2.0,0.0,v
+S2425-G0062,3,05:39,LAL,,MIN,,N. Alexander-Walker,MIN,MISS Alexander-Walker 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,60,0,1,3.0,0.0,v
+S2425-G0062,3,04:42,LAL,70.0,MIN,59.0,N. Alexander-Walker,MIN,Alexander-Walker 1' Cutting Dunk Shot (9 PTS) (Gobert 2 AST),Made Shot,Cutting Dunk Shot,0,12,1,1,2.0,2.0,v
+S2425-G0062,3,00:57.400000,LAL,,MIN,,N. Alexander-Walker,MIN,Alexander-Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,3,00:24.900000,LAL,,MIN,,N. Alexander-Walker,MIN,Alexander-Walker Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0062,4,09:40,LAL,,MIN,,N. Alexander-Walker,MIN,SUB: DiVincenzo FOR Alexander-Walker,Substitution,,0,0,0,0,,,v
+S2425-G0062,4,07:27,LAL,,MIN,,N. Alexander-Walker,MIN,Alexander-Walker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,4,04:44,LAL,99.0,MIN,91.0,N. Alexander-Walker,MIN,Alexander-Walker 27' 3PT Jump Shot (12 PTS) (Edwards 1 AST),Made Shot,Jump Shot,-43,267,27,1,3.0,3.0,v
+S2425-G0062,4,04:29,LAL,,MIN,,N. Alexander-Walker,MIN,Alexander-Walker Violation:Kicked Ball (N.Buchert),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0062,4,03:57,LAL,101.0,MIN,93.0,N. Alexander-Walker,MIN,Alexander-Walker 11' Driving Floating Jump Shot (14 PTS) (Edwards 2 AST),Made Shot,Driving Floating Jump Shot,-10,112,11,1,2.0,2.0,v
+S2425-G0062,4,00:55,LAL,,MIN,,N. Alexander-Walker,MIN,Alexander-Walker REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,2,11:04,MIN,,TOR,,N. Alexander-Walker,MIN,Alexander-Walker P.FOUL (P1.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2425-G0093,2,10:45,MIN,,TOR,,N. Alexander-Walker,MIN,MISS Alexander-Walker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0093,2,10:45,MIN,33.0,TOR,20.0,N. Alexander-Walker,MIN,Alexander-Walker Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,2,08:55,MIN,,TOR,,N. Alexander-Walker,MIN,MISS Alexander-Walker 4' Driving Layup,Missed Shot,Driving Layup Shot,-33,28,4,1,2.0,0.0,h
+S2425-G0093,2,08:26,MIN,40.0,TOR,22.0,N. Alexander-Walker,MIN,Alexander-Walker 25' 3PT Jump Shot (4 PTS) (Reid 1 AST),Made Shot,Jump Shot,-202,151,25,1,3.0,3.0,h
+S2425-G0093,2,08:25,MIN,,TOR,,N. Alexander-Walker,MIN,SUB: McDaniels FOR Alexander-Walker,Substitution,,0,0,0,0,,,h
+S2425-G0093,3,01:52,MIN,,TOR,,N. Alexander-Walker,MIN,Alexander-Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,09:00,MIN,,TOR,,N. Alexander-Walker,MIN,SUB: Randle FOR Alexander-Walker,Substitution,,0,0,0,0,,,h
+S2425-G0114,1,01:45,MIN,,DAL,,N. Alexander-Walker,MIN,MISS Alexander-Walker 3PT Jump Shot,Missed Shot,Jump Shot,229,5,0,1,3.0,0.0,h
+S2425-G0114,2,09:29,MIN,,DAL,,N. Alexander-Walker,MIN,Alexander-Walker STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0114,2,06:56,MIN,,DAL,,N. Alexander-Walker,MIN,SUB: Edwards FOR Alexander-Walker,Substitution,,0,0,0,0,,,h
+S2425-G0114,3,01:09,MIN,80.0,DAL,88.0,N. Alexander-Walker,MIN,Alexander-Walker 26' 3PT Jump Shot (3 PTS) (Reid 2 AST),Made Shot,Jump Shot,112,230,26,1,3.0,3.0,h
+S2425-G0114,3,00:43.600000,MIN,,DAL,,N. Alexander-Walker,MIN,Alexander-Walker Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0114,3,00:26.700000,MIN,,DAL,,N. Alexander-Walker,MIN,MISS Alexander-Walker 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,21,59,6,1,2.0,0.0,h
+S2425-G0114,4,09:56,MIN,,DAL,,N. Alexander-Walker,MIN,MISS Alexander-Walker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,115,218,25,1,3.0,0.0,h
+S2425-G0114,4,09:19,MIN,,DAL,,N. Alexander-Walker,MIN,SUB: Randle FOR Alexander-Walker,Substitution,,0,0,0,0,,,h
+S2425-G0114,4,07:22,MIN,92.0,DAL,99.0,N. Alexander-Walker,MIN,Alexander-Walker 25' 3PT Jump Shot (6 PTS) (Randle 7 AST),Made Shot,Jump Shot,-224,113,25,1,3.0,3.0,h
+S2425-G0114,4,06:24,MIN,,DAL,,N. Alexander-Walker,MIN,Alexander-Walker S.FOUL (P1.T2) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2425-G0114,4,06:09,MIN,98.0,DAL,103.0,N. Alexander-Walker,MIN,Alexander-Walker 3PT Jump Shot (9 PTS) (McDaniels 4 AST),Made Shot,Jump Shot,229,-15,0,1,3.0,3.0,h
+S2425-G0114,4,05:50,MIN,,DAL,,N. Alexander-Walker,MIN,Alexander-Walker L.B.FOUL (P2.T3) (K.Scott),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0114,4,04:39,MIN,102.0,DAL,105.0,N. Alexander-Walker,MIN,Alexander-Walker 12' Pullup Jump Shot (11 PTS) (Edwards 3 AST),Made Shot,Pullup Jump shot,105,54,12,1,2.0,2.0,h
+S2425-G0114,4,03:23,MIN,,DAL,,N. Alexander-Walker,MIN,Alexander-Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,4,00:27.800000,MIN,,DAL,,N. Alexander-Walker,MIN,Alexander-Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,4,00:12.600000,MIN,,DAL,,N. Alexander-Walker,MIN,Alexander-Walker Personal Take Foul (P3.PN) (K.Scott),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0076,1,03:16,SAC,22.0,MIN,19.0,N. Alexander-Walker,MIN,Alexander-Walker 25' 3PT Jump Shot (3 PTS) (Edwards 2 AST),Made Shot,Jump Shot,201,148,25,1,3.0,3.0,v
+S2425-G0076,2,09:27,SAC,,MIN,,N. Alexander-Walker,MIN,Alexander-Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,2,08:13,SAC,,MIN,,N. Alexander-Walker,MIN,MISS Alexander-Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,230,88,25,1,3.0,0.0,v
+S2425-G0076,2,07:26,SAC,,MIN,,N. Alexander-Walker,MIN,SUB: Randle FOR Alexander-Walker,Substitution,,0,0,0,0,,,v
+S2425-G0076,3,07:37,SAC,,MIN,,N. Alexander-Walker,MIN,Alexander-Walker Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0076,3,06:29,SAC,,MIN,,N. Alexander-Walker,MIN,MISS Alexander-Walker 3PT Jump Shot,Missed Shot,Jump Shot,233,23,0,1,3.0,0.0,v
+S2425-G0076,3,05:26,SAC,81.0,MIN,74.0,N. Alexander-Walker,MIN,Alexander-Walker 3PT Jump Shot (6 PTS) (Edwards 3 AST),Made Shot,Jump Shot,228,16,0,1,3.0,3.0,v
+S2425-G0076,3,01:40,SAC,88.0,MIN,86.0,N. Alexander-Walker,MIN,Alexander-Walker 26' 3PT Jump Shot (9 PTS) (Reid 3 AST),Made Shot,Jump Shot,205,152,26,1,3.0,3.0,v
+S2425-G0076,4,09:58,SAC,,MIN,,N. Alexander-Walker,MIN,SUB: Edwards FOR Alexander-Walker,Substitution,,0,0,0,0,,,v
+S2425-G0076,4,00:25.700000,SAC,,MIN,,N. Alexander-Walker,MIN,SUB: Reid FOR Alexander-Walker,Substitution,,0,0,0,0,,,v

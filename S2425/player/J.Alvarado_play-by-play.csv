@@ -1,0 +1,72 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,10:12,GSW,,NOP,,J. Alvarado,NOP,Alvarado REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,09:48,GSW,6.0,NOP,5.0,J. Alvarado,NOP,Alvarado 27' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,145,228,27,1,3.0,3.0,v
+S2425-G0126,1,07:54,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 25' 3PT Jump Shot,Missed Shot,Jump Shot,114,228,25,1,3.0,0.0,v
+S2425-G0126,1,07:21,GSW,9.0,NOP,8.0,J. Alvarado,NOP,Alvarado 26' 3PT Jump Shot (6 PTS) (Williamson 1 AST),Made Shot,Jump Shot,-13,257,26,1,3.0,3.0,v
+S2425-G0126,1,05:22,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-176,204,27,1,3.0,0.0,v
+S2425-G0126,1,04:15,GSW,16.0,NOP,15.0,J. Alvarado,NOP,Alvarado 9' Driving Floating Jump Shot (8 PTS) (Cain 1 AST),Made Shot,Driving Floating Jump Shot,-31,83,9,1,2.0,2.0,v
+S2425-G0126,1,02:33,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 5' Driving Layup,Missed Shot,Driving Layup Shot,47,26,5,1,2.0,0.0,v
+S2425-G0126,1,02:02,GSW,,NOP,,J. Alvarado,NOP,SUB: Hawkins FOR Alvarado,Substitution,,0,0,0,0,,,v
+S2425-G0126,2,04:23,GSW,,NOP,,J. Alvarado,NOP,Alvarado BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0126,2,01:44,GSW,,NOP,,J. Alvarado,NOP,Alvarado STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0126,2,01:39,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,36,0,1,3.0,0.0,v
+S2425-G0126,2,01:16,GSW,,NOP,,J. Alvarado,NOP,Alvarado REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,00:48.600000,GSW,,NOP,,J. Alvarado,NOP,Alvarado REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,11:24,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 5' Driving Layup,Missed Shot,Driving Layup Shot,-43,27,5,1,2.0,0.0,v
+S2425-G0126,3,09:48,GSW,,NOP,,J. Alvarado,NOP,Alvarado P.FOUL (P1.T1) (M.Kallio),Foul,Personal,0,0,0,0,,,v
+S2425-G0126,3,08:56,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,168,224,28,1,3.0,0.0,v
+S2425-G0126,3,05:57,GSW,,NOP,,J. Alvarado,NOP,Alvarado REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,02:24,GSW,,NOP,,J. Alvarado,NOP,Alvarado Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0126,3,02:08,GSW,,NOP,,J. Alvarado,NOP,SUB: Hawkins FOR Alvarado,Substitution,,0,0,0,0,,,v
+S2425-G0126,4,08:02,GSW,85.0,NOP,71.0,J. Alvarado,NOP,Alvarado 10' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,100,30,10,1,2.0,2.0,v
+S2425-G0126,4,06:37,GSW,91.0,NOP,74.0,J. Alvarado,NOP,Alvarado 3PT Jump Shot (13 PTS) (Ingram 4 AST),Made Shot,Jump Shot,-229,-17,0,1,3.0,3.0,v
+S2425-G0126,4,04:44,GSW,,NOP,,J. Alvarado,NOP,Alvarado BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0126,4,04:42,GSW,,NOP,,J. Alvarado,NOP,Alvarado REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,03:42,GSW,97.0,NOP,85.0,J. Alvarado,NOP,Alvarado 3PT Jump Shot (16 PTS) (Hawkins 1 AST),Made Shot,Jump Shot,-228,40,0,1,3.0,3.0,v
+S2425-G0126,4,03:22,GSW,,NOP,,J. Alvarado,NOP,Alvarado S.FOUL (P2.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0126,4,00:37.800000,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,60,75,10,1,2.0,0.0,v
+S2425-G0116,1,00:47.700000,GSW,14.0,NOP,29.0,J. Alvarado,NOP,Alvarado 10' Pullup Jump Shot (2 PTS) (Green 1 AST),Made Shot,Pullup Jump shot,40,95,10,1,2.0,2.0,v
+S2425-G0116,2,11:05,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 28' 3PT Jump Shot,Missed Shot,Jump Shot,-124,247,28,1,3.0,0.0,v
+S2425-G0116,2,09:11,GSW,24.0,NOP,36.0,J. Alvarado,NOP,Alvarado 6' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,54,25,6,1,2.0,2.0,v
+S2425-G0116,2,08:53,GSW,,NOP,,J. Alvarado,NOP,SUB: Robinson-Earl FOR Alvarado,Substitution,,0,0,0,0,,,v
+S2425-G0116,3,03:04,GSW,,NOP,,J. Alvarado,NOP,MISS Alvarado 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,224,21,0,1,3.0,0.0,v
+S2425-G0116,4,10:50,GSW,,NOP,,J. Alvarado,NOP,Alvarado Lost Ball Turnover (P1.T18),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,4,04:06,GSW,,NOP,,J. Alvarado,NOP,Alvarado S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,4,02:25,GSW,114.0,NOP,97.0,J. Alvarado,NOP,Alvarado Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,02:25,GSW,114.0,NOP,98.0,J. Alvarado,NOP,Alvarado Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,02:14,GSW,,NOP,,J. Alvarado,NOP,Alvarado STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0116,4,02:04,GSW,,NOP,,J. Alvarado,NOP,Alvarado Bad Pass Turnover (P2.T24),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,2,09:16,NOP,,CHI,,J. Alvarado,NOP,MISS Alvarado 3PT Jump Shot,Missed Shot,Jump Shot,-229,-12,0,1,3.0,0.0,h
+S2425-G0069,2,08:45,NOP,40.0,CHI,34.0,J. Alvarado,NOP,Alvarado 26' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,163,197,26,1,3.0,3.0,h
+S2425-G0069,2,07:19,NOP,,CHI,,J. Alvarado,NOP,Alvarado S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,2,06:17,NOP,,CHI,,J. Alvarado,NOP,SUB: McCollum FOR Alvarado,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,11:39,NOP,,CHI,,J. Alvarado,NOP,Alvarado STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0069,4,11:21,NOP,,CHI,,J. Alvarado,NOP,MISS Alvarado 25' 3PT Jump Shot,Missed Shot,Jump Shot,212,136,25,1,3.0,0.0,h
+S2425-G0069,4,07:33,NOP,,CHI,,J. Alvarado,NOP,Alvarado S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,4,06:45,NOP,,CHI,,J. Alvarado,NOP,Alvarado S.FOUL (P3.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,4,05:55,NOP,,CHI,,J. Alvarado,NOP,SUB: Murray FOR Alvarado,Substitution,,0,0,0,0,,,h
+S2425-G0086,1,01:42,POR,,,,J. Alvarado,NOP,Alvarado Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0086,1,00:29,POR,,,,J. Alvarado,NOP,MISS Alvarado 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,116,12,1,2.0,0.0,v
+S2425-G0086,2,10:26,POR,,,,J. Alvarado,NOP,Alvarado STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0086,2,08:49,POR,,,,J. Alvarado,NOP,Alvarado Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0086,2,08:49,POR,,,,J. Alvarado,NOP,Alvarado P.FOUL (P1.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0086,2,08:46,POR,,,,J. Alvarado,NOP,Alvarado STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0086,2,06:52,POR,,,,J. Alvarado,NOP,Alvarado P.FOUL (P2.T3) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2425-G0086,2,06:42,POR,,,,J. Alvarado,NOP,Alvarado REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,2,04:56,POR,,,,J. Alvarado,NOP,SUB: McCollum FOR Alvarado,Substitution,,0,0,0,0,,,v
+S2425-G0086,3,03:02,POR,,,,J. Alvarado,NOP,Alvarado STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0086,3,03:00,POR,,,,J. Alvarado,NOP,Alvarado Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0086,3,01:51,POR,,,,J. Alvarado,NOP,Alvarado P.FOUL (P3.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0086,3,01:41,POR,,,,J. Alvarado,NOP,Alvarado Traveling Turnover (P4.T13),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0086,3,00:15.600000,POR,,,,J. Alvarado,NOP,SUB: McCollum FOR Alvarado,Substitution,,0,0,0,0,,,v
+S2425-G0099,1,02:06,POR,,,,J. Alvarado,NOP,Alvarado L.B.FOUL (P1.T4) (T.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0099,2,07:28,POR,,,,J. Alvarado,NOP,MISS Alvarado 3PT Jump Shot,Missed Shot,Jump Shot,224,20,0,1,3.0,0.0,v
+S2425-G0099,2,07:24,POR,,,,J. Alvarado,NOP,Alvarado REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,2,05:36,POR,,,,J. Alvarado,NOP,MISS Alvarado 25' 3PT Jump Shot,Missed Shot,Jump Shot,221,122,25,1,3.0,0.0,v
+S2425-G0099,2,03:44,POR,,,,J. Alvarado,NOP,Alvarado BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0099,2,02:13,POR,,,,J. Alvarado,NOP,Alvarado P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2425-G0099,2,02:13,POR,,,,J. Alvarado,NOP,SUB: Hawkins FOR Alvarado,Substitution,,0,0,0,0,,,v
+S2425-G0099,3,02:30,POR,,,,J. Alvarado,NOP,MISS Alvarado 26' 3PT Jump Shot,Missed Shot,Jump Shot,138,222,26,1,3.0,0.0,v
+S2425-G0099,4,03:12,POR,118.0,,98.0,J. Alvarado,NOP,Alvarado 25' 3PT Jump Shot (3 PTS) (Hawkins 3 AST),Made Shot,Jump Shot,-211,127,25,1,3.0,3.0,v
+S2425-G0099,4,02:35,POR,,,,J. Alvarado,NOP,MISS Alvarado 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-85,148,17,1,2.0,0.0,v
+S2425-G0099,4,02:12,POR,,,,J. Alvarado,NOP,Alvarado STEAL (1 STL),,,0,0,0,0,,,v

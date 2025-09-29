@@ -1,0 +1,174 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,09:47,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,1,09:41,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 28' 3PT Jump Shot,Missed Shot,Jump Shot,31,278,28,1,3.0,0.0,v
+S2425-G0074,1,09:04,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0074,1,08:46,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 2' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,-1,20,2,1,2.0,0.0,v
+S2425-G0074,1,07:19,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama Lost Ball Turnover (P2.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0074,1,07:16,DAL,,SAS,,V. Wembanyama,SAS,SUB: Collins FOR Wembanyama,Substitution,,0,0,0,0,,,v
+S2425-G0074,1,02:18,DAL,20.0,SAS,22.0,V. Wembanyama,SAS,Wembanyama 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-10,10,1,1,2.0,2.0,v
+S2425-G0074,1,01:59,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,1,01:03,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama Traveling Turnover (P3.T8),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0074,2,11:42,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,11:30,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 4' Layup,Missed Shot,Layup Shot,-13,37,4,1,2.0,0.0,v
+S2425-G0074,2,11:25,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,49,81,9,1,2.0,0.0,v
+S2425-G0074,2,10:20,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-164,15,16,1,2.0,0.0,v
+S2425-G0074,2,08:45,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 29' 3PT Jump Shot,Missed Shot,Jump Shot,-173,230,29,1,3.0,0.0,v
+S2425-G0074,2,08:15,DAL,25.0,SAS,27.0,V. Wembanyama,SAS,Wembanyama Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,2,08:15,DAL,25.0,SAS,28.0,V. Wembanyama,SAS,Wembanyama Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,2,08:01,DAL,,SAS,,V. Wembanyama,SAS,SUB: Collins FOR Wembanyama,Substitution,,0,0,0,0,,,v
+S2425-G0074,2,02:24,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama Lost Ball Turnover (P4.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0074,2,02:19,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,01:47,DAL,42.0,SAS,47.0,V. Wembanyama,SAS,Wembanyama 1' Alley Oop Dunk (6 PTS) (Paul 4 AST),Made Shot,Alley Oop Dunk Shot,-4,8,1,1,2.0,2.0,v
+S2425-G0074,2,00:38.600000,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0074,3,11:23,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,11:16,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,100,235,26,1,3.0,0.0,v
+S2425-G0074,3,10:39,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama P.FOUL (P1.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2425-G0074,3,10:04,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,121,55,13,1,2.0,0.0,v
+S2425-G0074,3,09:45,DAL,56.0,SAS,52.0,V. Wembanyama,SAS,Wembanyama Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,09:45,DAL,56.0,SAS,53.0,V. Wembanyama,SAS,Wembanyama Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,09:25,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,08:52,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 24' 3PT Jump Shot,Missed Shot,Jump Shot,-212,113,24,1,3.0,0.0,v
+S2425-G0074,3,07:20,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 25' 3PT Jump Shot,Missed Shot,Jump Shot,-175,172,25,1,3.0,0.0,v
+S2425-G0074,3,05:45,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,5,264,26,1,3.0,0.0,v
+S2425-G0074,3,04:52,DAL,71.0,SAS,65.0,V. Wembanyama,SAS,Wembanyama 24' 3PT Jump Shot (11 PTS) (Paul 8 AST),Made Shot,Jump Shot,-174,172,24,1,3.0,3.0,v
+S2425-G0074,3,04:06,DAL,72.0,SAS,69.0,V. Wembanyama,SAS,Wembanyama Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,04:06,DAL,72.0,SAS,70.0,V. Wembanyama,SAS,Wembanyama Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,03:58,DAL,,SAS,,V. Wembanyama,SAS,SUB: Collins FOR Wembanyama,Substitution,,0,0,0,0,,,v
+S2425-G0074,4,11:41,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,4,11:40,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 5' Putback Layup,Missed Shot,Putback Layup Shot,-48,8,5,1,2.0,0.0,v
+S2425-G0074,4,10:02,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,4,08:28,DAL,103.0,SAS,85.0,V. Wembanyama,SAS,Wembanyama 13' Turnaround Fadeaway (15 PTS) (Champagnie 3 AST),Made Shot,Turnaround Fadeaway shot,2,129,13,1,2.0,2.0,v
+S2425-G0074,4,07:51,DAL,106.0,SAS,87.0,V. Wembanyama,SAS,Wembanyama 20' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,158,116,20,1,2.0,2.0,v
+S2425-G0074,4,07:20,DAL,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 28' 3PT Jump Shot,Missed Shot,Jump Shot,159,226,28,1,3.0,0.0,v
+S2425-G0074,4,07:07,DAL,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,4,05:59,DAL,,SAS,,V. Wembanyama,SAS,SUB: Mamukelashvili FOR Wembanyama,Substitution,,0,0,0,0,,,v
+S2425-G0109,1,12:00,SAS,,HOU,,V. Wembanyama,SAS,Jump Ball Wembanyama vs. Sengun: Tip to Barnes,Jump Ball,,0,0,0,0,,,h
+S2425-G0109,1,10:38,SAS,1.0,HOU,5.0,V. Wembanyama,SAS,Wembanyama Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,1,10:38,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0109,1,10:22,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0109,1,10:08,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-11,48,5,1,2.0,0.0,h
+S2425-G0109,1,10:08,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,1,10:00,SAS,3.0,HOU,7.0,V. Wembanyama,SAS,Wembanyama Tip Dunk Shot (3 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0109,1,09:08,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama OFF.Foul (P1) (A.Nagy),Foul,Offensive,0,0,0,0,,,h
+S2425-G0109,1,09:08,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0109,1,08:25,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,1,07:42,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,1,07:08,SAS,,HOU,,V. Wembanyama,SAS,SUB: Collins FOR Wembanyama,Substitution,,0,0,0,0,,,h
+S2425-G0109,1,03:01,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0109,1,01:58,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0109,2,11:40,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama S.FOUL (P2.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,2,11:26,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0109,2,09:07,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,2,08:51,SAS,23.0,HOU,34.0,V. Wembanyama,SAS,Wembanyama 11' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,21,104,11,1,2.0,2.0,h
+S2425-G0109,2,07:46,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,2,07:39,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 28' 3PT Jump Shot,Missed Shot,Jump Shot,-21,283,28,1,3.0,0.0,h
+S2425-G0109,2,07:26,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,2,06:45,SAS,,HOU,,V. Wembanyama,SAS,SUB: Sochan FOR Wembanyama,Substitution,,0,0,0,0,,,h
+S2425-G0109,2,00:55.100000,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0109,3,10:57,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,10:17,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,53,204,21,1,2.0,0.0,h
+S2425-G0109,3,10:03,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,07:29,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,61,269,28,1,3.0,0.0,h
+S2425-G0109,3,07:27,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,07:09,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0109,3,06:40,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0109,3,05:24,SAS,,HOU,,V. Wembanyama,SAS,SUB: Collins FOR Wembanyama,Substitution,,0,0,0,0,,,h
+S2425-G0109,3,01:08,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,11:20,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0109,4,11:02,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama S.FOUL (P3.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,4,10:17,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,09:29,SAS,82.0,HOU,88.0,V. Wembanyama,SAS,Wembanyama 1' Driving Floating Bank Jump Shot (7 PTS) (Branham 1 AST),Made Shot,Driving Floating Bank Jump Shot,-7,7,1,1,2.0,2.0,h
+S2425-G0109,4,08:18,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,07:15,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,06:50,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,06:43,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,143,259,30,1,3.0,0.0,h
+S2425-G0109,4,06:13,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0109,4,06:03,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:3 Def:12),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,04:41,SAS,89.0,HOU,94.0,V. Wembanyama,SAS,Wembanyama 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,-121,233,26,1,3.0,3.0,h
+S2425-G0109,4,04:07,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:3 Def:13),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,03:30,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:3 Def:14),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,01:56,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,89,183,20,1,2.0,0.0,h
+S2425-G0109,4,01:10,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:3 Def:15),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,00:35.800000,SAS,99.0,HOU,101.0,V. Wembanyama,SAS,Wembanyama 14' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,-31,136,14,1,2.0,2.0,h
+S2425-G0109,4,00:12,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 30' 3PT Jump Shot,Missed Shot,Jump Shot,-80,290,30,1,3.0,0.0,h
+S2425-G0109,4,00:04.300000,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:4 Def:15),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,00:00,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama Putback Dunk,Missed Shot,Putback Dunk Shot,0,0,0,1,2.0,0.0,h
+S2425-G0109,4,00:00,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:5 Def:15),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,00:00,SAS,101.0,HOU,106.0,V. Wembanyama,SAS,Wembanyama Putback Dunk (14 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0125,1,11:32,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,11:03,OKC,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,130,220,26,1,3.0,0.0,v
+S2425-G0125,1,10:42,OKC,2.0,SAS,1.0,V. Wembanyama,SAS,Wembanyama Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0125,1,10:42,OKC,2.0,SAS,2.0,V. Wembanyama,SAS,Wembanyama Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0125,1,09:50,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,09:50,OKC,2.0,SAS,6.0,V. Wembanyama,SAS,Wembanyama 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,12,6,1,1,2.0,2.0,v
+S2425-G0125,1,07:35,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,06:44,OKC,,SAS,,V. Wembanyama,SAS,SUB: Collins FOR Wembanyama,Substitution,,0,0,0,0,,,v
+S2425-G0125,2,11:02,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,10:43,OKC,,SAS,,V. Wembanyama,SAS,SUB: Collins FOR Wembanyama,Substitution,,0,0,0,0,,,v
+S2425-G0125,2,06:43,OKC,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 1' Layup,Missed Shot,Layup Shot,-11,3,1,1,2.0,0.0,v
+S2425-G0125,2,05:25,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,2,04:17,OKC,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 25' 3PT Jump Shot,Missed Shot,Jump Shot,-98,231,25,1,3.0,0.0,v
+S2425-G0125,2,04:03,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,03:54,OKC,,SAS,,V. Wembanyama,SAS,MISS Wembanyama 27' 3PT Jump Shot,Missed Shot,Jump Shot,105,245,27,1,3.0,0.0,v
+S2425-G0125,2,03:36,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,03:17,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0125,2,01:09,OKC,53.0,SAS,41.0,V. Wembanyama,SAS,Wembanyama Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0125,2,01:09,OKC,53.0,SAS,42.0,V. Wembanyama,SAS,Wembanyama Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0125,2,00:03.100000,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0125,3,08:56,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,3,06:20,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0125,3,04:45,OKC,,SAS,,V. Wembanyama,SAS,SUB: Sochan FOR Wembanyama,Substitution,,0,0,0,0,,,v
+S2425-G0125,4,10:40,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0125,4,09:59,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,4,08:46,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,4,08:39,OKC,,SAS,,V. Wembanyama,SAS,Wembanyama Lost Ball Turnover (P4.T19),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0125,4,07:04,OKC,,SAS,,V. Wembanyama,SAS,SUB: Sochan FOR Wembanyama,Substitution,,0,0,0,0,,,v
+S2425-G0094,1,12:00,SAS,,HOU,,V. Wembanyama,SAS,Jump Ball Wembanyama vs. Sengun: Tip to Smith Jr.,Jump Ball,,0,0,0,0,,,h
+S2425-G0094,1,10:24,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0094,1,10:21,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,09:01,SAS,11.0,HOU,9.0,V. Wembanyama,SAS,Wembanyama 29' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-100,273,29,1,3.0,3.0,h
+S2425-G0094,1,08:35,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,98,169,20,1,2.0,0.0,h
+S2425-G0094,1,08:24,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0094,1,07:58,SAS,14.0,HOU,12.0,V. Wembanyama,SAS,Wembanyama 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-45,242,25,1,3.0,3.0,h
+S2425-G0094,1,07:39,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,06:13,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,06:03,SAS,,HOU,,V. Wembanyama,SAS,SUB: Collins FOR Wembanyama,Substitution,,0,0,0,0,,,h
+S2425-G0094,2,11:41,SAS,40.0,HOU,31.0,V. Wembanyama,SAS,Wembanyama Dunk (8 PTS),Made Shot,Dunk Shot,-2,4,0,1,2.0,2.0,h
+S2425-G0094,2,11:09,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-82,264,28,1,3.0,0.0,h
+S2425-G0094,2,09:43,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0094,2,08:37,SAS,46.0,HOU,38.0,V. Wembanyama,SAS,Wembanyama 1' Driving Finger Roll Layup (10 PTS) (Branham 1 AST),Made Shot,Driving Finger Roll Layup Shot,9,9,1,1,2.0,2.0,h
+S2425-G0094,2,07:42,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 20' Jump Shot,Missed Shot,Jump Shot,98,176,20,1,2.0,0.0,h
+S2425-G0094,2,07:01,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,12,4,1,1,2.0,0.0,h
+S2425-G0094,2,06:57,SAS,,HOU,,V. Wembanyama,SAS,SUB: Collins FOR Wembanyama,Substitution,,0,0,0,0,,,h
+S2425-G0094,2,02:13,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,02:12,SAS,57.0,HOU,38.0,V. Wembanyama,SAS,Wembanyama 1' Running Alley Oop Dunk Shot (12 PTS) (Paul 5 AST),Made Shot,Running Alley Oop Dunk Shot,1,13,1,1,2.0,2.0,h
+S2425-G0094,2,02:00,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama Violation:Kicked Ball (B.Haskill),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0094,2,01:24,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,01:11,SAS,59.0,HOU,38.0,V. Wembanyama,SAS,Wembanyama 2' Alley Oop Layup (14 PTS) (Paul 6 AST),Made Shot,Alley Oop Layup shot,23,5,2,1,2.0,2.0,h
+S2425-G0094,2,01:11,SAS,60.0,HOU,38.0,V. Wembanyama,SAS,Wembanyama Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0094,2,00:34.300000,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 3PT Jump Shot,Missed Shot,Jump Shot,224,29,0,1,3.0,0.0,h
+S2425-G0094,3,11:26,SAS,,HOU,,V. Wembanyama,SAS,SPURS T.Foul (Def. 3 Sec Wembanyama ) (B.Barnaky),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0094,3,09:25,SAS,,HOU,,V. Wembanyama,SAS,Jump Ball Wembanyama vs. Brooks: Tip to Sochan,Jump Ball,,0,0,0,0,,,h
+S2425-G0094,3,07:42,SAS,,HOU,,V. Wembanyama,SAS,SUB: Collins FOR Wembanyama,Substitution,,0,0,0,0,,,h
+S2425-G0094,3,01:38,SAS,80.0,HOU,63.0,V. Wembanyama,SAS,Wembanyama 16' Fadeaway Jumper (17 PTS),Made Shot,Fadeaway Jump Shot,-85,130,16,1,2.0,2.0,h
+S2425-G0094,3,00:53.800000,SAS,82.0,HOU,65.0,V. Wembanyama,SAS,Wembanyama 2' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,-17,5,2,1,2.0,2.0,h
+S2425-G0094,3,00:53.800000,SAS,83.0,HOU,65.0,V. Wembanyama,SAS,Wembanyama Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0094,3,00:00,SAS,87.0,HOU,69.0,V. Wembanyama,SAS,Wembanyama 23' Step Back Jump Shot (22 PTS) (Castle 2 AST),Made Shot,Step Back Jump shot,172,146,23,1,2.0,2.0,h
+S2425-G0094,4,11:40,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama S.FOUL (P1.T1) (B.Haskill),Foul,Shooting,0,0,0,0,,,h
+S2425-G0094,4,11:26,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-45,254,26,1,3.0,0.0,h
+S2425-G0094,4,11:09,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0094,4,11:09,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,4,09:30,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0094,4,09:30,SAS,91.0,HOU,77.0,V. Wembanyama,SAS,Wembanyama Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,4,08:29,SAS,,HOU,,V. Wembanyama,SAS,MISS Wembanyama 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,110,-19,11,1,2.0,0.0,h
+S2425-G0094,4,08:25,SAS,,HOU,,V. Wembanyama,SAS,SUB: Sochan FOR Wembanyama,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,05:50,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,4,05:50,SAS,97.0,HOU,90.0,V. Wembanyama,SAS,Wembanyama Tip Dunk Shot (25 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0094,4,05:04,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama P.FOUL (P2.T3) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2425-G0094,4,04:21,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama Backcourt Turnover (P2.T16),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2425-G0094,4,03:46,SAS,99.0,HOU,96.0,V. Wembanyama,SAS,Wembanyama Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,4,03:46,SAS,100.0,HOU,96.0,V. Wembanyama,SAS,Wembanyama Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,4,03:33,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama S.FOUL (P3.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0094,4,02:11,SAS,101.0,HOU,99.0,V. Wembanyama,SAS,Wembanyama Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,4,02:11,SAS,102.0,HOU,99.0,V. Wembanyama,SAS,Wembanyama Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,4,00:25.600000,SAS,,HOU,,V. Wembanyama,SAS,Wembanyama Lost Ball Turnover (P3.T17),Turnover,Lost Ball,0,0,0,0,,,h

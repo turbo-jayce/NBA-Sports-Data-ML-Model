@@ -1,0 +1,104 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,12:00,DAL,,SAS,,D. Gafford,DAL,Jump Ball Gafford vs. Wembanyama: Tip to Barnes,Jump Ball,,0,0,0,0,,,h
+S2425-G0074,1,10:24,DAL,2.0,SAS,6.0,D. Gafford,DAL,Gafford 4' Hook Shot (2 PTS) (Irving 1 AST),Made Shot,Hook Shot,21,29,4,1,2.0,2.0,h
+S2425-G0074,1,06:44,DAL,,SAS,,D. Gafford,DAL,MISS Gafford 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,74,18,8,1,2.0,0.0,h
+S2425-G0074,1,06:29,DAL,,SAS,,D. Gafford,DAL,MISS Gafford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0074,1,06:29,DAL,13.0,SAS,12.0,D. Gafford,DAL,Gafford Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,1,06:17,DAL,,SAS,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,h
+S2425-G0074,2,11:20,DAL,,SAS,,D. Gafford,DAL,MISS Gafford 4' Running Layup,Missed Shot,Running Layup Shot,14,40,4,1,2.0,0.0,h
+S2425-G0074,2,11:16,DAL,,SAS,,D. Gafford,DAL,Gafford REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,11:16,DAL,22.0,SAS,22.0,D. Gafford,DAL,Gafford Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0074,2,11:01,DAL,,SAS,,D. Gafford,DAL,Gafford REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,10:53,DAL,,SAS,,D. Gafford,DAL,Gafford REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,09:26,DAL,,SAS,,D. Gafford,DAL,Gafford STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0074,2,09:23,DAL,,SAS,,D. Gafford,DAL,Gafford Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0074,2,08:41,DAL,,SAS,,D. Gafford,DAL,Gafford REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,2,08:15,DAL,,SAS,,D. Gafford,DAL,Gafford S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2425-G0074,2,06:57,DAL,,SAS,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,h
+S2425-G0074,3,10:53,DAL,,SAS,,D. Gafford,DAL,Gafford S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2425-G0074,3,09:45,DAL,,SAS,,D. Gafford,DAL,Gafford S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2425-G0074,3,09:07,DAL,,SAS,,D. Gafford,DAL,Gafford REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,3,09:07,DAL,,SAS,,D. Gafford,DAL,MISS Gafford Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0074,3,09:05,DAL,,SAS,,D. Gafford,DAL,Gafford REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,3,09:05,DAL,58.0,SAS,53.0,D. Gafford,DAL,Gafford Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0074,3,06:51,DAL,,SAS,,D. Gafford,DAL,Gafford Violation:Defensive Goaltending (J.Tiven),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2425-G0074,3,05:25,DAL,,SAS,,D. Gafford,DAL,Gafford S.FOUL (P4.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2425-G0074,3,05:25,DAL,,SAS,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,h
+S2425-G0074,4,11:42,DAL,,SAS,,D. Gafford,DAL,Gafford BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0074,4,11:35,DAL,88.0,SAS,80.0,D. Gafford,DAL,Gafford Free Throw Flagrant 1 of 2 (8 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,4,11:35,DAL,89.0,SAS,80.0,D. Gafford,DAL,Gafford Free Throw Flagrant 2 of 2 (9 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,4,11:00,DAL,,SAS,,D. Gafford,DAL,Gafford S.FOUL (P5.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0074,4,11:00,DAL,,SAS,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,h
+S2425-G0110,1,12:00,DAL,,UTA,,D. Gafford,DAL,Jump Ball Gafford vs. Kessler: Tip to George,Jump Ball,,0,0,0,0,,,h
+S2425-G0110,1,10:35,DAL,,UTA,,D. Gafford,DAL,Gafford REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,1,09:28,DAL,,UTA,,D. Gafford,DAL,MISS Gafford 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,16,30,3,1,2.0,0.0,h
+S2425-G0110,1,08:20,DAL,,UTA,,D. Gafford,DAL,MISS Gafford Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-4,1,0,1,2.0,0.0,h
+S2425-G0110,1,07:36,DAL,,UTA,,D. Gafford,DAL,Gafford REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,1,07:36,DAL,9.0,UTA,5.0,D. Gafford,DAL,Gafford Putback Layup (2 PTS),Made Shot,Putback Layup Shot,2,0,0,1,2.0,2.0,h
+S2425-G0110,1,07:00,DAL,11.0,UTA,7.0,D. Gafford,DAL,Gafford 2' Driving Finger Roll Layup (4 PTS) (Irving 2 AST),Made Shot,Driving Finger Roll Layup Shot,4,20,2,1,2.0,2.0,h
+S2425-G0110,1,06:18,DAL,,UTA,,D. Gafford,DAL,SUB: Dinwiddie FOR Gafford,Substitution,,0,0,0,0,,,h
+S2425-G0110,2,10:20,DAL,,UTA,,D. Gafford,DAL,Gafford REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,2,10:11,DAL,,UTA,,D. Gafford,DAL,MISS Gafford 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-16,17,2,1,2.0,0.0,h
+S2425-G0110,2,09:41,DAL,,UTA,,D. Gafford,DAL,Gafford BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0110,2,09:20,DAL,33.0,UTA,25.0,D. Gafford,DAL,Gafford 1' Alley Oop Dunk (6 PTS) (Dončić 4 AST),Made Shot,Alley Oop Dunk Shot,6,1,1,1,2.0,2.0,h
+S2425-G0110,2,08:26,DAL,,UTA,,D. Gafford,DAL,MAVERICKS T.Foul (Def. 3 Sec Gafford ) (K.Lane),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0110,2,08:19,DAL,,UTA,,D. Gafford,DAL,Gafford S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2425-G0110,2,08:06,DAL,,UTA,,D. Gafford,DAL,MISS Gafford 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,20,27,3,1,2.0,0.0,h
+S2425-G0110,2,07:18,DAL,,UTA,,D. Gafford,DAL,Gafford REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,2,06:50,DAL,,UTA,,D. Gafford,DAL,SUB: Dinwiddie FOR Gafford,Substitution,,0,0,0,0,,,h
+S2425-G0110,3,08:25,DAL,,UTA,,D. Gafford,DAL,Gafford BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0110,3,08:12,DAL,,UTA,,D. Gafford,DAL,Gafford REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,08:12,DAL,61.0,UTA,51.0,D. Gafford,DAL,Gafford Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0110,3,08:12,DAL,62.0,UTA,51.0,D. Gafford,DAL,Gafford Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0110,3,06:29,DAL,,UTA,,D. Gafford,DAL,Gafford REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,3,06:16,DAL,,UTA,,D. Gafford,DAL,SUB: Dinwiddie FOR Gafford,Substitution,,0,0,0,0,,,h
+S2425-G0110,4,04:58,DAL,,UTA,,D. Gafford,DAL,Gafford BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0110,4,04:35,DAL,,UTA,,D. Gafford,DAL,Gafford P.FOUL (P2.T3) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2425-G0110,4,03:51,DAL,,UTA,,D. Gafford,DAL,Gafford Violation:Defensive Goaltending (M.Davis),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2425-G0110,4,02:45,DAL,,UTA,,D. Gafford,DAL,Gafford REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,4,02:03,DAL,,UTA,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,h
+S2425-G0114,1,11:16,MIN,2.0,DAL,2.0,D. Gafford,DAL,Gafford 3' Hook Shot (2 PTS) (Irving 1 AST),Made Shot,Hook Shot,15,26,3,1,2.0,2.0,v
+S2425-G0114,1,10:54,MIN,2.0,DAL,4.0,D. Gafford,DAL,Gafford 1' Running Dunk (4 PTS) (Dončić 1 AST),Made Shot,Running Dunk Shot,5,11,1,1,2.0,2.0,v
+S2425-G0114,1,10:37,MIN,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,1,10:13,MIN,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,1,08:33,MIN,6.0,DAL,11.0,D. Gafford,DAL,Gafford 2' Cutting Dunk Shot (6 PTS) (Washington 1 AST),Made Shot,Cutting Dunk Shot,-10,12,2,1,2.0,2.0,v
+S2425-G0114,1,07:50,MIN,12.0,DAL,13.0,D. Gafford,DAL,Gafford 1' Running Dunk (8 PTS) (Thompson 1 AST),Made Shot,Running Dunk Shot,0,10,1,1,2.0,2.0,v
+S2425-G0114,1,06:35,MIN,,DAL,,D. Gafford,DAL,Gafford BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0114,1,06:02,MIN,,DAL,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,v
+S2425-G0114,2,11:24,MIN,,DAL,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,v
+S2425-G0114,2,01:10,MIN,,DAL,,D. Gafford,DAL,Gafford Personal Take Foul (P1.T3) (D.Collins),Foul,Personal Take,0,0,0,0,,,v
+S2425-G0114,2,00:43.800000,MIN,59.0,DAL,61.0,D. Gafford,DAL,Gafford 4' Cutting Layup Shot (10 PTS) (Dinwiddie 1 AST),Made Shot,Cutting Layup Shot,1,41,4,1,2.0,2.0,v
+S2425-G0114,3,06:44,MIN,71.0,DAL,73.0,D. Gafford,DAL,Gafford Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0114,3,06:44,MIN,71.0,DAL,74.0,D. Gafford,DAL,Gafford Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0114,3,05:33,MIN,,DAL,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,v
+S2425-G0114,4,09:53,MIN,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,4,09:29,MIN,,DAL,,D. Gafford,DAL,Gafford STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0114,4,09:11,MIN,,DAL,,D. Gafford,DAL,Gafford L.B.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0114,4,08:37,MIN,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,4,08:37,MIN,87.0,DAL,99.0,D. Gafford,DAL,Gafford Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0114,4,07:48,MIN,,DAL,,D. Gafford,DAL,Gafford S.FOUL (P3.T3) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,4,07:48,MIN,,DAL,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,v
+S2425-G0095,1,10:44,PHX,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,07:06,PHX,,DAL,,D. Gafford,DAL,SUB: Hardy FOR Gafford,Substitution,,0,0,0,0,,,v
+S2425-G0095,2,11:46,PHX,,DAL,,D. Gafford,DAL,Gafford OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,v
+S2425-G0095,2,11:46,PHX,,DAL,,D. Gafford,DAL,Gafford Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0095,2,08:42,PHX,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,2,08:42,PHX,,DAL,,D. Gafford,DAL,MISS Gafford 5' Putback Layup,Missed Shot,Putback Layup Shot,-9,50,5,1,2.0,0.0,v
+S2425-G0095,2,08:30,PHX,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,2,08:30,PHX,,DAL,,D. Gafford,DAL,MISS Gafford Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0095,2,08:06,PHX,,DAL,,D. Gafford,DAL,MISS Gafford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0095,2,08:06,PHX,42.0,DAL,32.0,D. Gafford,DAL,Gafford Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0095,2,07:15,PHX,,DAL,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,v
+S2425-G0095,3,11:47,PHX,63.0,DAL,57.0,D. Gafford,DAL,Gafford 8' Hook Shot (3 PTS) (Dončić 2 AST),Made Shot,Hook Shot,47,69,8,1,2.0,2.0,v
+S2425-G0095,3,11:07,PHX,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,3,11:07,PHX,,DAL,,D. Gafford,DAL,MISS Gafford Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0095,3,10:35,PHX,,DAL,,D. Gafford,DAL,Gafford FLAGRANT.FOUL.TYPE1 (P2.T1) (S.Mehta),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2425-G0095,3,09:18,PHX,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,3,09:11,PHX,68.0,DAL,67.0,D. Gafford,DAL,Gafford 1' Cutting Dunk Shot (5 PTS) (Irving 4 AST),Made Shot,Cutting Dunk Shot,-4,12,1,1,2.0,2.0,v
+S2425-G0095,3,08:03,PHX,,DAL,,D. Gafford,DAL,MISS Gafford 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,18,23,3,1,2.0,0.0,v
+S2425-G0095,3,07:28,PHX,,DAL,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,v
+S2425-G0095,4,11:02,PHX,94.0,DAL,85.0,D. Gafford,DAL,Gafford 4' Alley Oop Layup (7 PTS) (Dončić 4 AST),Made Shot,Alley Oop Layup shot,-16,32,4,1,2.0,2.0,v
+S2425-G0095,4,10:46,PHX,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,4,08:40,PHX,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,4,08:12,PHX,,DAL,,D. Gafford,DAL,Gafford REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,4,08:02,PHX,,DAL,,D. Gafford,DAL,SUB: Lively II FOR Gafford,Substitution,,0,0,0,0,,,v

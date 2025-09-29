@@ -1,0 +1,106 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0062,1,05:02,LAL,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,1,04:55,LAL,,MIN,,N. Reid,MIN,Reid Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0062,1,04:32,LAL,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,1,02:12,LAL,,MIN,,N. Reid,MIN,Reid S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2425-G0062,1,01:33,LAL,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,1,00:49.700000,LAL,22.0,MIN,21.0,N. Reid,MIN,Reid 27' 3PT Jump Bank Shot (3 PTS) (DiVincenzo 3 AST),Made Shot,Jump Bank Shot,21,272,27,1,3.0,3.0,v
+S2425-G0062,2,09:35,LAL,,MIN,,N. Reid,MIN,MISS Reid 9' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,91,9,9,1,2.0,0.0,v
+S2425-G0062,2,08:39,LAL,,MIN,,N. Reid,MIN,MISS Reid 2' Driving Layup,Missed Shot,Driving Layup Shot,13,10,2,1,2.0,0.0,v
+S2425-G0062,2,04:55,LAL,,MIN,,N. Reid,MIN,MISS Reid 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,40,24,1,3.0,0.0,v
+S2425-G0062,2,04:39,LAL,,MIN,,N. Reid,MIN,SUB: Alexander-Walker FOR Reid,Substitution,,0,0,0,0,,,v
+S2425-G0062,3,04:17,LAL,70.0,MIN,60.0,N. Reid,MIN,Reid Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,3,04:17,LAL,70.0,MIN,61.0,N. Reid,MIN,Reid Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,3,00:15.600000,LAL,,MIN,,N. Reid,MIN,MISS Reid 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-21,33,4,1,2.0,0.0,v
+S2425-G0062,3,00:13.500000,LAL,,MIN,,N. Reid,MIN,Reid REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,3,00:13.400000,LAL,82.0,MIN,74.0,N. Reid,MIN,Reid 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,5,11,1,1,2.0,2.0,v
+S2425-G0062,4,11:48,LAL,82.0,MIN,75.0,N. Reid,MIN,Reid Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,4,11:48,LAL,82.0,MIN,76.0,N. Reid,MIN,Reid Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,4,10:38,LAL,85.0,MIN,81.0,N. Reid,MIN,Reid 24' 3PT Running Jump Shot (12 PTS) (McDaniels 1 AST),Made Shot,Running Jump Shot,223,99,24,1,3.0,3.0,v
+S2425-G0062,4,07:09,LAL,,MIN,,N. Reid,MIN,Reid S.FOUL (P2.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2425-G0062,4,05:31,LAL,,MIN,,N. Reid,MIN,Reid S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0062,4,05:02,LAL,,MIN,,N. Reid,MIN,SUB: Gobert FOR Reid,Substitution,,0,0,0,0,,,v
+S2425-G0062,4,00:25.400000,LAL,,MIN,,N. Reid,MIN,MISS Reid 26' 3PT Jump Shot,Missed Shot,Jump Shot,-48,254,26,1,3.0,0.0,v
+S2425-G0093,1,04:04,MIN,,TOR,,N. Reid,MIN,MISS Reid 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,29,0,1,3.0,0.0,h
+S2425-G0093,1,03:48,MIN,,TOR,,N. Reid,MIN,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,02:53,MIN,,TOR,,N. Reid,MIN,MISS Reid 7' Driving Layup,Missed Shot,Driving Layup Shot,61,31,7,1,2.0,0.0,h
+S2425-G0093,2,09:21,MIN,,TOR,,N. Reid,MIN,MISS Reid 26' 3PT Jump Shot,Missed Shot,Jump Shot,6,256,26,1,3.0,0.0,h
+S2425-G0093,2,08:52,MIN,,TOR,,N. Reid,MIN,Reid REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,2,08:51,MIN,37.0,TOR,22.0,N. Reid,MIN,Reid 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-6,12,1,1,2.0,2.0,h
+S2425-G0093,2,08:25,MIN,,TOR,,N. Reid,MIN,SUB: Edwards FOR Reid,Substitution,,0,0,0,0,,,h
+S2425-G0093,2,03:22,MIN,48.0,TOR,33.0,N. Reid,MIN,Reid Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,2,03:22,MIN,49.0,TOR,33.0,N. Reid,MIN,Reid Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,2,02:23,MIN,,TOR,,N. Reid,MIN,MISS Reid 4' Layup,Missed Shot,Layup Shot,31,18,4,1,2.0,0.0,h
+S2425-G0093,2,01:39,MIN,,TOR,,N. Reid,MIN,Reid STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0093,2,00:19.400000,MIN,55.0,TOR,42.0,N. Reid,MIN,Reid Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,2,00:19.400000,MIN,56.0,TOR,42.0,N. Reid,MIN,Reid Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,3,04:15,MIN,80.0,TOR,58.0,N. Reid,MIN,Reid 3' Running Layup (8 PTS) (Alexander-Walker 3 AST),Made Shot,Running Layup Shot,31,9,3,1,2.0,2.0,h
+S2425-G0093,3,02:33,MIN,86.0,TOR,65.0,N. Reid,MIN,Reid 5' Cutting Finger Roll Layup Shot (10 PTS) (Randle 3 AST),Made Shot,Cutting Finger Roll Layup Shot,42,29,5,1,2.0,2.0,h
+S2425-G0093,3,01:23,MIN,,TOR,,N. Reid,MIN,Reid REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,10:56,MIN,,TOR,,N. Reid,MIN,Reid REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,09:00,MIN,,TOR,,N. Reid,MIN,SUB: McDaniels FOR Reid,Substitution,,0,0,0,0,,,h
+S2425-G0114,1,03:55,MIN,,DAL,,N. Reid,MIN,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,1,03:35,MIN,,DAL,,N. Reid,MIN,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,1,03:12,MIN,,DAL,,N. Reid,MIN,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,1,00:22.900000,MIN,,DAL,,N. Reid,MIN,Reid Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0114,2,10:24,MIN,39.0,DAL,30.0,N. Reid,MIN,Reid 25' 3PT Jump Shot (3 PTS) (Conley 3 AST),Made Shot,Jump Shot,-147,199,25,1,3.0,3.0,h
+S2425-G0114,2,08:46,MIN,42.0,DAL,32.0,N. Reid,MIN,Reid 27' 3PT Jump Shot (6 PTS) (Conley 4 AST),Made Shot,Jump Shot,-15,267,27,1,3.0,3.0,h
+S2425-G0114,2,08:19,MIN,,DAL,,N. Reid,MIN,Reid REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,2,08:07,MIN,,DAL,,N. Reid,MIN,Reid Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0114,2,07:21,MIN,44.0,DAL,37.0,N. Reid,MIN,Reid 6' Driving Floating Jump Shot (8 PTS) (Ingles 1 AST),Made Shot,Driving Floating Jump Shot,-11,55,6,1,2.0,2.0,h
+S2425-G0114,2,06:52,MIN,,DAL,,N. Reid,MIN,Reid Traveling Turnover (P3.T8),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0114,2,06:39,MIN,,DAL,,N. Reid,MIN,Reid S.FOUL (P1.T2) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2425-G0114,2,05:29,MIN,,DAL,,N. Reid,MIN,Reid REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,2,03:31,MIN,,DAL,,N. Reid,MIN,TIMBERWOLVES T.Foul (Def. 3 Sec Reid ) (D.Collins),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0114,2,03:31,MIN,,DAL,,N. Reid,MIN,SUB: DiVincenzo FOR Reid,Substitution,,0,0,0,0,,,h
+S2425-G0114,3,06:32,MIN,,DAL,,N. Reid,MIN,MISS Reid 25' 3PT Jump Shot,Missed Shot,Jump Shot,31,251,25,1,3.0,0.0,h
+S2425-G0114,3,06:14,MIN,,DAL,,N. Reid,MIN,Reid REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,03:19,MIN,74.0,DAL,80.0,N. Reid,MIN,Reid Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,3,03:19,MIN,75.0,DAL,80.0,N. Reid,MIN,Reid Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,3,03:03,MIN,,DAL,,N. Reid,MIN,Reid REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,02:52,MIN,,DAL,,N. Reid,MIN,Reid Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0114,4,11:42,MIN,,DAL,,N. Reid,MIN,Reid REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,4,11:31,MIN,,DAL,,N. Reid,MIN,Reid BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0114,4,11:28,MIN,,DAL,,N. Reid,MIN,Reid REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,4,11:20,MIN,,DAL,,N. Reid,MIN,MISS Reid 28' 3PT Jump Shot,Missed Shot,Jump Shot,-168,226,28,1,3.0,0.0,h
+S2425-G0114,4,11:06,MIN,85.0,DAL,93.0,N. Reid,MIN,Reid 4' Cutting Layup Shot (12 PTS) (Conley 6 AST),Made Shot,Cutting Layup Shot,28,31,4,1,2.0,2.0,h
+S2425-G0114,4,10:32,MIN,87.0,DAL,95.0,N. Reid,MIN,Reid 6' Pullup Jump Shot (14 PTS) (Alexander-Walker 2 AST),Made Shot,Pullup Jump shot,45,41,6,1,2.0,2.0,h
+S2425-G0114,4,09:29,MIN,,DAL,,N. Reid,MIN,Reid Bad Pass Turnover (P5.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0114,4,08:12,MIN,,DAL,,N. Reid,MIN,MISS Reid 26' 3PT Jump Shot,Missed Shot,Jump Shot,11,257,26,1,3.0,0.0,h
+S2425-G0114,4,07:48,MIN,,DAL,,N. Reid,MIN,SUB: Alexander-Walker FOR Reid,Substitution,,0,0,0,0,,,h
+S2425-G0114,4,00:59,MIN,,DAL,,N. Reid,MIN,SUB: Gobert FOR Reid,Substitution,,0,0,0,0,,,h
+S2425-G0076,1,04:29,SAC,,MIN,,N. Reid,MIN,MISS Reid 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,87,253,27,1,3.0,0.0,v
+S2425-G0076,1,02:40,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,1,01:25,SAC,25.0,MIN,24.0,N. Reid,MIN,Reid 29' 3PT Jump Shot (3 PTS) (Randle 1 AST),Made Shot,Jump Shot,-116,268,29,1,3.0,3.0,v
+S2425-G0076,2,11:43,SAC,,MIN,,N. Reid,MIN,MISS Reid 27' 3PT Jump Shot,Missed Shot,Jump Shot,-48,266,27,1,3.0,0.0,v
+S2425-G0076,2,11:09,SAC,,MIN,,N. Reid,MIN,Reid Offensive Charge Foul (P1) (J.Van Duyne),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0076,2,11:09,SAC,,MIN,,N. Reid,MIN,Reid Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0076,2,08:20,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,2,07:51,SAC,43.0,MIN,39.0,N. Reid,MIN,Reid 13' Driving Floating Bank Jump Shot (5 PTS) (Alexander-Walker 2 AST),Made Shot,Driving Floating Bank Jump Shot,115,55,13,1,2.0,2.0,v
+S2425-G0076,2,07:51,SAC,43.0,MIN,40.0,N. Reid,MIN,Reid Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0076,2,07:27,SAC,,MIN,,N. Reid,MIN,MISS Reid 12' Floating Jump Shot,Missed Shot,Floating Jump shot,23,116,12,1,2.0,0.0,v
+S2425-G0076,2,07:26,SAC,,MIN,,N. Reid,MIN,SUB: Conley FOR Reid,Substitution,,0,0,0,0,,,v
+S2425-G0076,2,02:38,SAC,50.0,MIN,51.0,N. Reid,MIN,Reid 27' 3PT Jump Shot (9 PTS) (McDaniels 2 AST),Made Shot,Jump Shot,100,250,27,1,3.0,3.0,v
+S2425-G0076,2,01:40,SAC,53.0,MIN,52.0,N. Reid,MIN,Reid Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0076,2,01:40,SAC,53.0,MIN,53.0,N. Reid,MIN,Reid Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0076,2,00:45.400000,SAC,,MIN,,N. Reid,MIN,Reid S.FOUL (P2.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0076,3,05:33,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,3,03:31,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,3,03:07,SAC,,MIN,,N. Reid,MIN,Reid S.FOUL (P3.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0076,3,02:27,SAC,88.0,MIN,83.0,N. Reid,MIN,Reid 3PT Jump Shot (14 PTS) (Edwards 4 AST),Made Shot,Jump Shot,-228,8,0,1,3.0,3.0,v
+S2425-G0076,3,01:57,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,3,01:56,SAC,,MIN,,N. Reid,MIN,Reid Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0076,3,01:56,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,3,01:24,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,3,00:48.900000,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,11:19,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,11:06,SAC,,MIN,,N. Reid,MIN,MISS Reid 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-127,220,25,1,3.0,0.0,v
+S2425-G0076,4,10:54,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,10:14,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,08:38,SAC,,MIN,,N. Reid,MIN,Reid S.FOUL (P4.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2425-G0076,4,08:07,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:12),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,07:50,SAC,99.0,MIN,100.0,N. Reid,MIN,Reid 26' 3PT Jump Shot (17 PTS) (DiVincenzo 1 AST),Made Shot,Jump Shot,180,185,26,1,3.0,3.0,v
+S2425-G0076,4,07:09,SAC,,MIN,,N. Reid,MIN,Reid REBOUND (Off:0 Def:13),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,05:21,SAC,103.0,MIN,107.0,N. Reid,MIN,Reid 6' Hook Bank Shot (19 PTS) (DiVincenzo 2 AST),Made Shot,Hook Bank Shot,23,54,6,1,2.0,2.0,v
+S2425-G0076,4,05:06,SAC,,MIN,,N. Reid,MIN,SUB: Gobert FOR Reid,Substitution,,0,0,0,0,,,v
+S2425-G0076,4,00:02.400000,SAC,,MIN,,N. Reid,MIN,SUB: Gobert FOR Reid,Substitution,,0,0,0,0,,,v

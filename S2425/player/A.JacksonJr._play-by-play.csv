@@ -1,0 +1,15 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0104,2,04:00,BOS,46.0,MIL,50.0,A. Jackson Jr.,MIL,Jackson Jr. 10' Driving Floating Jump Shot (2 PTS) (Lillard 4 AST),Made Shot,Driving Floating Jump Shot,-91,51,10,1,2.0,2.0,v
+S2425-G0104,2,03:44,BOS,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2425-G0104,2,02:53,BOS,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. L.B.FOUL (P2.T4) (C.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0104,2,02:24,BOS,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. P.FOUL (P3.PN) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2425-G0104,2,00:54,BOS,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-136,211,25,1,3.0,0.0,v
+S2425-G0104,4,02:41,BOS,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. P.FOUL (P4.PN) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2425-G0104,4,01:36,BOS,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,4,01:36,BOS,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T17),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0104,4,00:53.900000,BOS,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,4,00:20.800000,BOS,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,4,00:17.200000,BOS,119.0,MIL,108.0,A. Jackson Jr.,MIL,Jackson Jr. Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,0,4,0,1,2.0,2.0,v
+S2425-G0098,4,01:45,BKN,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0098,4,01:35,BKN,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0098,4,00:56.800000,BKN,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v

@@ -1,0 +1,6 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0073,4,03:17,WAS,,BOS,,J. Champagnie,WAS,Champagnie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,4,01:55,WAS,,BOS,,J. Champagnie,WAS,Champagnie P.FOUL (P1.T4) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2425-G0073,4,01:52,WAS,,BOS,,J. Champagnie,WAS,Champagnie S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,4,01:01,WAS,,BOS,,J. Champagnie,WAS,Champagnie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,4,00:48.500000,WAS,,BOS,,J. Champagnie,WAS,Champagnie S.FOUL (P3.PN) (J.Reneau),Foul,Shooting,0,0,0,0,,,h

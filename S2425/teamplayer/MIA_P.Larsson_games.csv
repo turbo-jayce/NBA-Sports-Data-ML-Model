@@ -1,0 +1,3 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,4,00:52.900000,MIA,,ORL,,P. Larsson,MIA,Larsson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0065,4,00:49.500000,MIA,94.0,ORL,116.0,P. Larsson,MIA,Larsson 1' Running Finger Roll Layup (2 PTS) (Jović 1 AST),Made Shot,Running Finger Roll Layup Shot,5,8,1,1,2.0,2.0,h

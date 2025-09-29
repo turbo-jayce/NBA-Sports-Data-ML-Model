@@ -1,0 +1,131 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,1,11:39,NYK,,IND,,J. Brunson,NYK,MISS Brunson 25' 3PT Jump Shot,Missed Shot,Jump Shot,124,215,25,1,3.0,0.0,h
+S2425-G0081,1,09:43,NYK,,IND,,J. Brunson,NYK,MISS Brunson 1' Driving Layup,Missed Shot,Driving Layup Shot,9,-9,1,1,2.0,0.0,h
+S2425-G0081,1,09:20,NYK,,IND,,J. Brunson,NYK,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,1,09:08,NYK,,IND,,J. Brunson,NYK,MISS Brunson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-39,60,7,1,2.0,0.0,h
+S2425-G0081,1,05:42,NYK,,IND,,J. Brunson,NYK,MISS Brunson 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-15,44,5,1,2.0,0.0,h
+S2425-G0081,1,04:29,NYK,14.0,IND,11.0,J. Brunson,NYK,Brunson 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-29,78,8,1,2.0,2.0,h
+S2425-G0081,1,03:58,NYK,17.0,IND,14.0,J. Brunson,NYK,Brunson 28' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,6,275,28,1,3.0,3.0,h
+S2425-G0081,1,02:53,NYK,,IND,,J. Brunson,NYK,MISS Brunson 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,167,189,25,1,3.0,0.0,h
+S2425-G0081,1,02:07,NYK,,IND,,J. Brunson,NYK,SUB: Payne FOR Brunson,Substitution,,0,0,0,0,,,h
+S2425-G0081,1,00:01.700000,NYK,,IND,,J. Brunson,NYK,MISS Brunson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0081,1,00:01.700000,NYK,25.0,IND,24.0,J. Brunson,NYK,Brunson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0081,2,06:42,NYK,40.0,IND,35.0,J. Brunson,NYK,Brunson 19' Jump Shot (8 PTS),Made Shot,Jump Shot,191,-10,19,1,2.0,2.0,h
+S2425-G0081,2,05:51,NYK,,IND,,J. Brunson,NYK,MISS Brunson 2' Driving Layup,Missed Shot,Driving Layup Shot,-20,-8,2,1,2.0,0.0,h
+S2425-G0081,2,04:16,NYK,,IND,,J. Brunson,NYK,Brunson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,2,04:07,NYK,48.0,IND,37.0,J. Brunson,NYK,Brunson 2' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,-21,7,2,1,2.0,2.0,h
+S2425-G0081,2,02:53,NYK,,IND,,J. Brunson,NYK,Brunson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,2,01:03,NYK,58.0,IND,43.0,J. Brunson,NYK,Brunson 1' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,5,4,1,1,2.0,2.0,h
+S2425-G0081,2,00:36.200000,NYK,,IND,,J. Brunson,NYK,MISS Brunson 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,54,5,1,2.0,0.0,h
+S2425-G0081,3,09:59,NYK,,IND,,J. Brunson,NYK,MISS Brunson 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-83,125,15,1,2.0,0.0,h
+S2425-G0081,3,09:27,NYK,,IND,,J. Brunson,NYK,Brunson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,07:47,NYK,,IND,,J. Brunson,NYK,Brunson Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0081,3,07:28,NYK,,IND,,J. Brunson,NYK,MISS Brunson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,47,95,11,1,2.0,0.0,h
+S2425-G0081,3,05:20,NYK,74.0,IND,55.0,J. Brunson,NYK,Brunson 8' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,10,84,8,1,2.0,2.0,h
+S2425-G0081,3,03:31,NYK,81.0,IND,59.0,J. Brunson,NYK,Brunson 1' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,-9,6,1,1,2.0,2.0,h
+S2425-G0081,3,03:31,NYK,82.0,IND,59.0,J. Brunson,NYK,Brunson Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0081,3,02:20,NYK,88.0,IND,60.0,J. Brunson,NYK,Brunson 24' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,-100,222,24,1,3.0,3.0,h
+S2425-G0081,3,01:57,NYK,,IND,,J. Brunson,NYK,Brunson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,3,01:52,NYK,,IND,,J. Brunson,NYK,SUB: Anunoby FOR Brunson,Substitution,,0,0,0,0,,,h
+S2425-G0081,4,07:01,NYK,107.0,IND,77.0,J. Brunson,NYK,Brunson 3' Driving Floating Jump Shot (22 PTS),Made Shot,Driving Floating Jump Shot,-1,25,3,1,2.0,2.0,h
+S2425-G0081,4,07:01,NYK,108.0,IND,77.0,J. Brunson,NYK,Brunson Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0081,4,05:54,NYK,111.0,IND,81.0,J. Brunson,NYK,Brunson 25' 3PT Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,137,213,25,1,3.0,3.0,h
+S2425-G0081,4,05:43,NYK,,IND,,J. Brunson,NYK,Brunson P.FOUL (P1.T4) (J.Butler),Foul,Personal,0,0,0,0,,,h
+S2425-G0081,4,05:43,NYK,,IND,,J. Brunson,NYK,SUB: Hukporti FOR Brunson,Substitution,,0,0,0,0,,,h
+S2425-G0106,1,10:25,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 13' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,120,53,13,1,2.0,0.0,h
+S2425-G0106,1,09:26,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,12,268,27,1,3.0,0.0,h
+S2425-G0106,1,08:06,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-77,252,26,1,3.0,0.0,h
+S2425-G0106,1,07:22,NYK,6.0,CLE,9.0,J. Brunson,NYK,Brunson 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-15,10,2,1,2.0,2.0,h
+S2425-G0106,1,06:06,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 1' Floating Jump Shot,Missed Shot,Floating Jump shot,0,10,1,1,2.0,0.0,h
+S2425-G0106,1,03:44,NYK,,CLE,,J. Brunson,NYK,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,1,03:42,NYK,,CLE,,J. Brunson,NYK,Brunson S.FOUL (P1.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0106,1,02:38,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 2' Layup,Missed Shot,Layup Shot,-5,19,2,1,2.0,0.0,h
+S2425-G0106,1,02:30,NYK,,CLE,,J. Brunson,NYK,SUB: Payne FOR Brunson,Substitution,,0,0,0,0,,,h
+S2425-G0106,2,08:17,NYK,,CLE,,J. Brunson,NYK,Brunson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,2,08:03,NYK,31.0,CLE,31.0,J. Brunson,NYK,Brunson 4' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,-25,29,4,1,2.0,2.0,h
+S2425-G0106,2,05:02,NYK,40.0,CLE,34.0,J. Brunson,NYK,Brunson 11' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,-37,106,11,1,2.0,2.0,h
+S2425-G0106,2,03:45,NYK,45.0,CLE,38.0,J. Brunson,NYK,Brunson 9' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,5,89,9,1,2.0,2.0,h
+S2425-G0106,2,03:06,NYK,,CLE,,J. Brunson,NYK,MISS Brunson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0106,2,03:06,NYK,48.0,CLE,38.0,J. Brunson,NYK,Brunson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0106,2,00:52.400000,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,83,8,1,2.0,0.0,h
+S2425-G0106,2,00:30.100000,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-10,11,1,1,2.0,0.0,h
+S2425-G0106,3,10:42,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 2' Driving Layup,Missed Shot,Driving Layup Shot,-12,17,2,1,2.0,0.0,h
+S2425-G0106,3,08:26,NYK,58.0,CLE,52.0,J. Brunson,NYK,Brunson Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0106,3,06:52,NYK,64.0,CLE,54.0,J. Brunson,NYK,Brunson 1' Running Layup (12 PTS) (Anunoby 2 AST),Made Shot,Running Layup Shot,7,-6,1,1,2.0,2.0,h
+S2425-G0106,3,06:32,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 1' Running Layup,Missed Shot,Running Layup Shot,-9,7,1,1,2.0,0.0,h
+S2425-G0106,3,05:29,NYK,,CLE,,J. Brunson,NYK,Brunson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,3,04:55,NYK,,CLE,,J. Brunson,NYK,Brunson L.B.FOUL (P2.T3) (R.Mott),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0106,3,04:07,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-12,92,9,1,2.0,0.0,h
+S2425-G0106,3,03:58,NYK,,CLE,,J. Brunson,NYK,SUB: Payne FOR Brunson,Substitution,,0,0,0,0,,,h
+S2425-G0106,4,06:12,NYK,88.0,CLE,89.0,J. Brunson,NYK,Brunson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0106,4,06:12,NYK,89.0,CLE,89.0,J. Brunson,NYK,Brunson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0106,4,05:41,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,25,5,3,1,2.0,0.0,h
+S2425-G0106,4,04:52,NYK,,CLE,,J. Brunson,NYK,Brunson Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0106,4,03:30,NYK,93.0,CLE,99.0,J. Brunson,NYK,Brunson 7' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,-6,74,7,1,2.0,2.0,h
+S2425-G0106,4,03:05,NYK,95.0,CLE,99.0,J. Brunson,NYK,Brunson 2' Running Layup (18 PTS),Made Shot,Running Layup Shot,-10,12,2,1,2.0,2.0,h
+S2425-G0106,4,02:03,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,134,70,15,1,2.0,0.0,h
+S2425-G0106,4,01:43,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 3' Running Layup,Missed Shot,Running Layup Shot,2,26,3,1,2.0,0.0,h
+S2425-G0106,4,01:41,NYK,98.0,CLE,101.0,J. Brunson,NYK,Brunson Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0106,4,01:41,NYK,,CLE,,J. Brunson,NYK,MISS Brunson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0106,4,01:17,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 5' Driving Layup,Missed Shot,Driving Layup Shot,-13,46,5,1,2.0,0.0,h
+S2425-G0106,4,00:29.200000,NYK,100.0,CLE,105.0,J. Brunson,NYK,Brunson 1' Driving Finger Roll Layup (21 PTS),Made Shot,Driving Finger Roll Layup Shot,7,5,1,1,2.0,2.0,h
+S2425-G0106,4,00:13.400000,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-172,195,26,1,3.0,0.0,h
+S2425-G0106,4,00:00.500000,NYK,,CLE,,J. Brunson,NYK,MISS Brunson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-136,221,26,1,3.0,0.0,h
+S2425-G0122,1,11:31,MIA,,NYK,,J. Brunson,NYK,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,1,08:19,MIA,6.0,NYK,9.0,J. Brunson,NYK,Brunson 4' Running Reverse Layup (2 PTS) (Hart 1 AST),Made Shot,Running Reverse Layup Shot,-28,29,4,1,2.0,2.0,v
+S2425-G0122,1,07:33,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-10,53,5,1,2.0,0.0,v
+S2425-G0122,1,06:10,MIA,,NYK,,J. Brunson,NYK,Brunson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,1,04:53,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,96,128,16,1,2.0,0.0,v
+S2425-G0122,1,03:12,MIA,,NYK,,J. Brunson,NYK,SUB: Payne FOR Brunson,Substitution,,0,0,0,0,,,v
+S2425-G0122,2,08:11,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 12' Jump Shot,Missed Shot,Jump Shot,-118,39,12,1,2.0,0.0,v
+S2425-G0122,2,07:45,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,58,24,1,3.0,0.0,v
+S2425-G0122,2,07:23,MIA,,NYK,,J. Brunson,NYK,Brunson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0122,2,03:40,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,127,217,25,1,3.0,0.0,v
+S2425-G0122,2,00:33.200000,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-143,231,27,1,3.0,0.0,v
+S2425-G0122,2,00:09.700000,MIA,57.0,NYK,51.0,J. Brunson,NYK,Brunson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,2,00:09.700000,MIA,57.0,NYK,52.0,J. Brunson,NYK,Brunson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,3,10:40,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-20,150,15,1,2.0,0.0,v
+S2425-G0122,3,09:40,MIA,64.0,NYK,57.0,J. Brunson,NYK,Brunson 4' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,21,31,4,1,2.0,2.0,v
+S2425-G0122,3,08:33,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,120,34,12,1,2.0,0.0,v
+S2425-G0122,3,07:56,MIA,70.0,NYK,60.0,J. Brunson,NYK,Brunson 3PT Step Back Jump Shot (9 PTS) (Bridges 3 AST),Made Shot,Step Back Jump shot,224,50,0,1,3.0,3.0,v
+S2425-G0122,3,04:12,MIA,77.0,NYK,75.0,J. Brunson,NYK,Brunson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,3,04:12,MIA,77.0,NYK,76.0,J. Brunson,NYK,Brunson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,3,03:39,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,140,224,26,1,3.0,0.0,v
+S2425-G0122,3,03:34,MIA,77.0,NYK,79.0,J. Brunson,NYK,Brunson 25' 3PT Jump Shot (14 PTS) (McBride 2 AST),Made Shot,Jump Shot,94,232,25,1,3.0,3.0,v
+S2425-G0122,3,02:42,MIA,,NYK,,J. Brunson,NYK,SUB: Payne FOR Brunson,Substitution,,0,0,0,0,,,v
+S2425-G0122,4,07:42,MIA,,NYK,,J. Brunson,NYK,MISS Brunson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0122,4,07:42,MIA,89.0,NYK,94.0,J. Brunson,NYK,Brunson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,4,05:58,MIA,96.0,NYK,102.0,J. Brunson,NYK,Brunson 26' 3PT Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,132,225,26,1,3.0,3.0,v
+S2425-G0122,4,04:37,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,2,173,17,1,2.0,0.0,v
+S2425-G0122,4,03:59,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-118,122,17,1,2.0,0.0,v
+S2425-G0122,4,03:20,MIA,98.0,NYK,104.0,J. Brunson,NYK,Brunson 3' Driving Finger Roll Layup (20 PTS) (Towns 2 AST),Made Shot,Driving Finger Roll Layup Shot,-23,20,3,1,2.0,2.0,v
+S2425-G0122,4,02:11,MIA,,NYK,,J. Brunson,NYK,MISS Brunson 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-89,79,12,1,2.0,0.0,v
+S2425-G0122,4,00:47.300000,MIA,104.0,NYK,115.0,J. Brunson,NYK,Brunson Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0122,4,00:47.300000,MIA,104.0,NYK,116.0,J. Brunson,NYK,Brunson Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0061,1,11:09,BOS,3.0,NYK,4.0,J. Brunson,NYK,Brunson 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,-31,8,3,1,2.0,2.0,v
+S2425-G0061,1,10:35,BOS,5.0,NYK,6.0,J. Brunson,NYK,Brunson 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-134,4,13,1,2.0,2.0,v
+S2425-G0061,1,09:07,BOS,,NYK,,J. Brunson,NYK,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,1,08:33,BOS,,NYK,,J. Brunson,NYK,Brunson Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0061,1,05:57,BOS,21.0,NYK,14.0,J. Brunson,NYK,Brunson 3' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,-34,6,3,1,2.0,2.0,v
+S2425-G0061,1,03:37,BOS,,NYK,,J. Brunson,NYK,Brunson Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0061,1,02:41,BOS,,NYK,,J. Brunson,NYK,SUB: Anunoby FOR Brunson,Substitution,,0,0,0,0,,,v
+S2425-G0061,2,05:45,BOS,54.0,NYK,36.0,J. Brunson,NYK,Brunson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0061,2,05:45,BOS,54.0,NYK,37.0,J. Brunson,NYK,Brunson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0061,2,05:01,BOS,,NYK,,J. Brunson,NYK,Brunson Lost Ball Turnover (P3.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0061,2,04:09,BOS,62.0,NYK,41.0,J. Brunson,NYK,Brunson 8' Cutting Layup Shot (10 PTS) (Hart 2 AST),Made Shot,Cutting Layup Shot,54,63,8,1,2.0,2.0,v
+S2425-G0061,2,03:36,BOS,65.0,NYK,43.0,J. Brunson,NYK,Brunson 7' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,22,62,7,1,2.0,2.0,v
+S2425-G0061,2,03:05,BOS,67.0,NYK,46.0,J. Brunson,NYK,Brunson 26' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,-129,226,26,1,3.0,3.0,v
+S2425-G0061,2,02:01,BOS,,NYK,,J. Brunson,NYK,MISS Brunson 8' Driving Layup,Missed Shot,Driving Layup Shot,-75,21,8,1,2.0,0.0,v
+S2425-G0061,2,01:50,BOS,,NYK,,J. Brunson,NYK,Brunson P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0061,3,11:26,BOS,,NYK,,J. Brunson,NYK,Brunson Out of Bounds Lost Ball Turnover (P4.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0061,3,07:56,BOS,,NYK,,J. Brunson,NYK,MISS Brunson 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-92,95,13,1,2.0,0.0,v
+S2425-G0061,3,07:48,BOS,,NYK,,J. Brunson,NYK,Brunson P.FOUL (P2.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0061,3,06:57,BOS,93.0,NYK,66.0,J. Brunson,NYK,Brunson 17' Fadeaway Jumper (17 PTS),Made Shot,Fadeaway Jump Shot,25,168,17,1,2.0,2.0,v
+S2425-G0061,3,06:36,BOS,93.0,NYK,68.0,J. Brunson,NYK,Brunson 2' Running Layup (19 PTS) (Hart 3 AST),Made Shot,Running Layup Shot,-5,17,2,1,2.0,2.0,v
+S2425-G0061,3,05:11,BOS,,NYK,,J. Brunson,NYK,MISS Brunson 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,157,16,1,2.0,0.0,v
+S2425-G0061,3,04:29,BOS,99.0,NYK,75.0,J. Brunson,NYK,Brunson 11' Driving Floating Bank Jump Shot (21 PTS),Made Shot,Driving Floating Bank Jump Shot,87,63,11,1,2.0,2.0,v
+S2425-G0061,3,04:29,BOS,99.0,NYK,76.0,J. Brunson,NYK,Brunson Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0061,3,03:53,BOS,,NYK,,J. Brunson,NYK,MISS Brunson 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,49,60,8,1,2.0,0.0,v
+S2425-G0061,3,03:44,BOS,,NYK,,J. Brunson,NYK,Brunson S.FOUL (P3.T4) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2425-G0061,3,03:33,BOS,,NYK,,J. Brunson,NYK,MISS Brunson 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-48,249,25,1,3.0,0.0,v
+S2425-G0061,3,03:07,BOS,,NYK,,J. Brunson,NYK,SUB: Anunoby FOR Brunson,Substitution,,0,0,0,0,,,v

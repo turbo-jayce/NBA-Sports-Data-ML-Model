@@ -1,0 +1,123 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,1,10:31,NYK,,IND,,A. Nesmith,IND,Nesmith P.FOUL (P1.T1) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2425-G0081,1,07:14,NYK,,IND,,A. Nesmith,IND,Nesmith Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0081,1,06:31,NYK,,IND,,A. Nesmith,IND,SUB: Mathurin FOR Nesmith,Substitution,,0,0,0,0,,,v
+S2425-G0081,2,05:44,NYK,,IND,,A. Nesmith,IND,MISS Nesmith 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-225,15,0,1,3.0,0.0,v
+S2425-G0081,2,05:06,NYK,,IND,,A. Nesmith,IND,MISS Nesmith 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-23,-1,2,1,2.0,0.0,v
+S2425-G0081,2,03:50,NYK,,IND,,A. Nesmith,IND,Nesmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,2,03:48,NYK,48.0,IND,39.0,A. Nesmith,IND,Nesmith 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-12,10,2,1,2.0,2.0,v
+S2425-G0081,2,01:43,NYK,,IND,,A. Nesmith,IND,Nesmith S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0081,2,01:27,NYK,,IND,,A. Nesmith,IND,Nesmith S.FOUL (P3.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2425-G0081,2,01:27,NYK,,IND,,A. Nesmith,IND,SUB: Mathurin FOR Nesmith,Substitution,,0,0,0,0,,,v
+S2425-G0081,3,11:44,NYK,,IND,,A. Nesmith,IND,MISS Nesmith 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-9,136,14,1,2.0,0.0,v
+S2425-G0081,3,08:55,NYK,,IND,,A. Nesmith,IND,Nesmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,3,07:43,NYK,69.0,IND,51.0,A. Nesmith,IND,Nesmith Running Dunk (4 PTS) (Nembhard 2 AST),Made Shot,Running Dunk Shot,-1,1,0,1,2.0,2.0,v
+S2425-G0081,3,05:48,NYK,,IND,,A. Nesmith,IND,SUB: Sheppard FOR Nesmith,Substitution,,0,0,0,0,,,v
+S2425-G0097,1,10:20,IND,,PHI,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,1,08:40,IND,,PHI,,A. Nesmith,IND,MISS Nesmith 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-113,64,13,1,2.0,0.0,h
+S2425-G0097,1,05:59,IND,,PHI,,A. Nesmith,IND,SUB: Mathurin FOR Nesmith,Substitution,,0,0,0,0,,,h
+S2425-G0097,1,01:34,IND,21.0,PHI,23.0,A. Nesmith,IND,Nesmith 26' 3PT Jump Shot (3 PTS) (Siakam 3 AST),Made Shot,Jump Shot,-32,260,26,1,3.0,3.0,h
+S2425-G0097,1,00:40.700000,IND,,PHI,,A. Nesmith,IND,Nesmith Offensive Charge Foul (P1) (J.Sterling),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0097,1,00:40.700000,IND,,PHI,,A. Nesmith,IND,Nesmith Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0097,1,00:07,IND,,PHI,,A. Nesmith,IND,Nesmith S.FOUL (P2.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2425-G0097,1,00:07,IND,,PHI,,A. Nesmith,IND,SUB: Haliburton FOR Nesmith,Substitution,,0,0,0,0,,,h
+S2425-G0097,2,07:14,IND,,PHI,,A. Nesmith,IND,Nesmith S.FOUL (P3.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2425-G0097,2,07:14,IND,,PHI,,A. Nesmith,IND,SUB: Haliburton FOR Nesmith,Substitution,,0,0,0,0,,,h
+S2425-G0097,3,08:09,IND,,PHI,,A. Nesmith,IND,Nesmith STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0097,3,07:35,IND,,PHI,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,3,07:10,IND,,PHI,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,3,06:51,IND,,PHI,,A. Nesmith,IND,Nesmith Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0097,3,06:18,IND,,PHI,,A. Nesmith,IND,Nesmith S.FOUL (P4.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0097,3,06:18,IND,,PHI,,A. Nesmith,IND,SUB: Toppin FOR Nesmith,Substitution,,0,0,0,0,,,h
+S2425-G0097,4,03:02,IND,97.0,PHI,97.0,A. Nesmith,IND,Nesmith 1' Driving Dunk (5 PTS) (Siakam 6 AST),Made Shot,Driving Dunk Shot,-4,8,1,1,2.0,2.0,h
+S2425-G0097,4,03:02,IND,98.0,PHI,97.0,A. Nesmith,IND,Nesmith Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0097,4,02:46,IND,,PHI,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,4,02:26,IND,99.0,PHI,97.0,A. Nesmith,IND,Nesmith Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,4,02:26,IND,100.0,PHI,97.0,A. Nesmith,IND,Nesmith Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,4,02:00,IND,,PHI,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,4,00:11.700000,IND,,PHI,,A. Nesmith,IND,Nesmith Personal Take Foul (P5.PN) (M.Ervin),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0097,5,02:13,IND,,PHI,,A. Nesmith,IND,MISS Nesmith 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,10,12,1,2.0,0.0,h
+S2425-G0097,5,02:11,IND,,PHI,,A. Nesmith,IND,Nesmith REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,5,01:01,IND,,PHI,,A. Nesmith,IND,Nesmith REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,5,00:13.900000,IND,113.0,PHI,115.0,A. Nesmith,IND,Nesmith Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,5,00:13.900000,IND,114.0,PHI,115.0,A. Nesmith,IND,Nesmith Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,1,11:03,DET,,IND,,A. Nesmith,IND,MISS Nesmith 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,162,205,26,1,3.0,0.0,v
+S2425-G0063,1,08:55,DET,,IND,,A. Nesmith,IND,Nesmith S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0063,1,06:56,DET,,IND,,A. Nesmith,IND,Nesmith STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0063,1,06:18,DET,12.0,IND,10.0,A. Nesmith,IND,Nesmith 26' 3PT Jump Shot (3 PTS) (Turner 1 AST),Made Shot,Jump Shot,168,194,26,1,3.0,3.0,v
+S2425-G0063,1,05:45,DET,12.0,IND,12.0,A. Nesmith,IND,Nesmith 10' Turnaround Jump Shot (5 PTS) (Turner 2 AST),Made Shot,Turnaround Jump Shot,-27,97,10,1,2.0,2.0,v
+S2425-G0063,1,05:01,DET,,IND,,A. Nesmith,IND,Nesmith STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0063,1,04:59,DET,14.0,IND,16.0,A. Nesmith,IND,Nesmith Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0063,1,04:59,DET,14.0,IND,17.0,A. Nesmith,IND,Nesmith Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0063,1,03:35,DET,,IND,,A. Nesmith,IND,SUB: Toppin FOR Nesmith,Substitution,,0,0,0,0,,,v
+S2425-G0063,2,06:47,DET,,IND,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,2,06:35,DET,,IND,,A. Nesmith,IND,Nesmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,2,04:44,DET,,IND,,A. Nesmith,IND,MISS Nesmith 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-22,16,3,1,2.0,0.0,v
+S2425-G0063,2,04:36,DET,,IND,,A. Nesmith,IND,Nesmith S.FOUL (P2.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2425-G0063,2,02:41,DET,,IND,,A. Nesmith,IND,Nesmith P.FOUL (P3.PN) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2425-G0063,2,02:41,DET,,IND,,A. Nesmith,IND,SUB: Mathurin FOR Nesmith,Substitution,,0,0,0,0,,,v
+S2425-G0063,3,10:23,DET,,IND,,A. Nesmith,IND,Nesmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0063,3,07:03,DET,,IND,,A. Nesmith,IND,Nesmith S.FOUL (P4.T1) (T.Ricks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0063,3,07:03,DET,,IND,,A. Nesmith,IND,SUB: Mathurin FOR Nesmith,Substitution,,0,0,0,0,,,v
+S2425-G0063,4,00:08.100000,DET,,IND,,A. Nesmith,IND,SUB: Turner FOR Nesmith,Substitution,,0,0,0,0,,,v
+S2425-G0119,1,11:05,IND,,BOS,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,1,10:54,IND,,BOS,,A. Nesmith,IND,MISS Nesmith 4' Driving Layup,Missed Shot,Driving Layup Shot,23,29,4,1,2.0,0.0,h
+S2425-G0119,1,10:02,IND,,BOS,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,1,09:41,IND,,BOS,,A. Nesmith,IND,Nesmith Violation:Kicked Ball (E.Malloy),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0119,1,09:18,IND,,BOS,,A. Nesmith,IND,MISS Nesmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,213,143,26,1,3.0,0.0,h
+S2425-G0119,1,07:59,IND,12.0,BOS,11.0,A. Nesmith,IND,Nesmith 3' Driving Layup (2 PTS) (Haliburton 2 AST),Made Shot,Driving Layup Shot,12,31,3,1,2.0,2.0,h
+S2425-G0119,1,06:04,IND,,BOS,,A. Nesmith,IND,SUB: McConnell FOR Nesmith,Substitution,,0,0,0,0,,,h
+S2425-G0119,1,01:03,IND,,BOS,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,1,01:00,IND,33.0,BOS,25.0,A. Nesmith,IND,Nesmith 3' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,5,28,3,1,2.0,2.0,h
+S2425-G0119,2,09:18,IND,,BOS,,A. Nesmith,IND,MISS Nesmith 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,145,230,27,1,3.0,0.0,h
+S2425-G0119,2,06:53,IND,,BOS,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,2,06:39,IND,,BOS,,A. Nesmith,IND,Nesmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0119,2,05:59,IND,,BOS,,A. Nesmith,IND,SUB: Walker FOR Nesmith,Substitution,,0,0,0,0,,,h
+S2425-G0119,2,03:39,IND,60.0,BOS,49.0,A. Nesmith,IND,Nesmith 3' Cutting Finger Roll Layup Shot (6 PTS) (Siakam 3 AST),Made Shot,Cutting Finger Roll Layup Shot,-23,18,3,1,2.0,2.0,h
+S2425-G0119,2,03:08,IND,,BOS,,A. Nesmith,IND,Nesmith Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0119,2,03:08,IND,,BOS,,A. Nesmith,IND,Nesmith L.B.FOUL (P1.T3) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0119,2,02:28,IND,,BOS,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,2,01:08,IND,65.0,BOS,54.0,A. Nesmith,IND,Nesmith 3PT Jump Shot (9 PTS) (Haliburton 6 AST),Made Shot,Jump Shot,233,15,0,1,3.0,3.0,h
+S2425-G0119,3,10:02,IND,,BOS,,A. Nesmith,IND,Nesmith P.FOUL (P2.T1) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2425-G0119,3,05:08,IND,,BOS,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,3,04:52,IND,,BOS,,A. Nesmith,IND,Nesmith REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,3,03:48,IND,,BOS,,A. Nesmith,IND,Nesmith S.FOUL (P3.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2425-G0119,3,03:48,IND,,BOS,,A. Nesmith,IND,SUB: Sheppard FOR Nesmith,Substitution,,0,0,0,0,,,h
+S2425-G0119,3,01:23,IND,,BOS,,A. Nesmith,IND,Nesmith S.FOUL (P4.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0119,3,01:23,IND,,BOS,,A. Nesmith,IND,SUB: Walker FOR Nesmith,Substitution,,0,0,0,0,,,h
+S2425-G0119,4,05:07,IND,118.0,BOS,102.0,A. Nesmith,IND,Nesmith 25' 3PT Pullup Jump Shot (12 PTS) (Haliburton 10 AST),Made Shot,Pullup Jump shot,70,245,25,1,3.0,3.0,h
+S2425-G0119,4,03:42,IND,,BOS,,A. Nesmith,IND,Nesmith L.B.FOUL (P5.T3) (M.Myers),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0119,4,03:00,IND,,BOS,,A. Nesmith,IND,Nesmith REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0119,4,02:41,IND,,BOS,,A. Nesmith,IND,MISS Nesmith 3' Driving Layup,Missed Shot,Driving Layup Shot,-32,13,3,1,2.0,0.0,h
+S2425-G0119,4,01:28,IND,,BOS,,A. Nesmith,IND,Nesmith S.FOUL (P6.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2425-G0119,4,01:28,IND,,BOS,,A. Nesmith,IND,SUB: Sheppard FOR Nesmith,Substitution,,0,0,0,0,,,h
+S2425-G0102,1,05:38,ORL,,IND,,A. Nesmith,IND,SUB: I. Jackson FOR Nesmith,Substitution,,0,0,0,0,,,v
+S2425-G0102,2,08:37,ORL,,IND,,A. Nesmith,IND,MISS Nesmith 6' Jump Shot,Missed Shot,Jump Shot,-58,-1,6,1,2.0,0.0,v
+S2425-G0102,2,05:43,ORL,,IND,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,2,05:36,ORL,,IND,,A. Nesmith,IND,MISS Nesmith 2' Driving Layup,Missed Shot,Driving Layup Shot,-20,3,2,1,2.0,0.0,v
+S2425-G0102,2,02:27,ORL,62.0,IND,54.0,A. Nesmith,IND,Nesmith 1' Driving Layup (2 PTS) (Siakam 3 AST),Made Shot,Driving Layup Shot,1,11,1,1,2.0,2.0,v
+S2425-G0102,2,02:04,ORL,,IND,,A. Nesmith,IND,Nesmith S.FOUL (P1.T2) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,2,01:31,ORL,65.0,IND,55.0,A. Nesmith,IND,Nesmith Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,2,01:31,ORL,,IND,,A. Nesmith,IND,MISS Nesmith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0102,2,00:31.300000,ORL,,IND,,A. Nesmith,IND,MISS Nesmith 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,180,18,1,2.0,0.0,v
+S2425-G0102,3,11:41,ORL,,IND,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,3,11:37,ORL,,IND,,A. Nesmith,IND,MISS Nesmith 4' Running Layup,Missed Shot,Running Layup Shot,5,44,4,1,2.0,0.0,v
+S2425-G0102,3,11:32,ORL,71.0,IND,61.0,A. Nesmith,IND,Nesmith 3' Layup (5 PTS) (Siakam 4 AST),Made Shot,Layup Shot,5,26,3,1,2.0,2.0,v
+S2425-G0102,3,10:03,ORL,,IND,,A. Nesmith,IND,Nesmith S.FOUL (P2.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,3,08:28,ORL,,IND,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,3,07:42,ORL,,IND,,A. Nesmith,IND,Nesmith STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0102,3,04:44,ORL,80.0,IND,86.0,A. Nesmith,IND,Nesmith 6' Driving Floating Bank Jump Shot (7 PTS) (Haliburton 9 AST),Made Shot,Driving Floating Bank Jump Shot,56,32,6,1,2.0,2.0,v
+S2425-G0102,3,03:58,ORL,,IND,,A. Nesmith,IND,Nesmith S.FOUL (P3.PN) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,3,03:58,ORL,,IND,,A. Nesmith,IND,SUB: Walker FOR Nesmith,Substitution,,0,0,0,0,,,v
+S2425-G0102,3,01:25,ORL,92.0,IND,96.0,A. Nesmith,IND,Nesmith Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,3,01:25,ORL,,IND,,A. Nesmith,IND,MISS Nesmith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0102,3,01:00,ORL,,IND,,A. Nesmith,IND,Nesmith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,3,00:11.800000,ORL,92.0,IND,97.0,A. Nesmith,IND,Nesmith Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,3,00:11.800000,ORL,92.0,IND,98.0,A. Nesmith,IND,Nesmith Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,4,06:35,ORL,,IND,,A. Nesmith,IND,MISS Nesmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,174,200,27,1,3.0,0.0,v
+S2425-G0102,4,04:59,ORL,,IND,,A. Nesmith,IND,Nesmith S.FOUL (P4.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,4,03:00,ORL,,IND,,A. Nesmith,IND,MISS Nesmith 4' Driving Layup,Missed Shot,Driving Layup Shot,27,27,4,1,2.0,0.0,v
+S2425-G0102,4,02:41,ORL,,IND,,A. Nesmith,IND,Nesmith S.FOUL (P5.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,4,02:07,ORL,,IND,,A. Nesmith,IND,Nesmith P.FOUL (P6.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2425-G0102,4,02:07,ORL,,IND,,A. Nesmith,IND,Nesmith T.FOUL (P6.PN) (N.Green),Foul,Technical,0,0,0,0,,,v
+S2425-G0102,4,02:07,ORL,,IND,,A. Nesmith,IND,SUB: Sheppard FOR Nesmith,Substitution,,0,0,0,0,,,v

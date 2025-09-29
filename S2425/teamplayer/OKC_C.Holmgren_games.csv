@@ -1,0 +1,187 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0075,1,11:41,DEN,,OKC,,C. Holmgren,OKC,MISS Holmgren 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-44,38,6,1,2.0,0.0,v
+S2425-G0075,1,11:38,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,1,11:37,DEN,,OKC,,C. Holmgren,OKC,Holmgren Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0075,1,10:19,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,1,09:18,DEN,,OKC,,C. Holmgren,OKC,MISS Holmgren 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,10,24,1,3.0,0.0,v
+S2425-G0075,1,07:28,DEN,,OKC,,C. Holmgren,OKC,MISS Holmgren 26' 3PT Jump Shot,Missed Shot,Jump Shot,94,244,26,1,3.0,0.0,v
+S2425-G0075,1,07:19,DEN,,OKC,,C. Holmgren,OKC,Holmgren STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0075,1,06:00,DEN,,OKC,,C. Holmgren,OKC,Holmgren BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0075,1,05:00,DEN,19.0,OKC,15.0,C. Holmgren,OKC,Holmgren 11' Pullup Jump Shot (2 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Pullup Jump shot,-83,74,11,1,2.0,2.0,v
+S2425-G0075,1,04:03,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,1,04:03,DEN,21.0,OKC,19.0,C. Holmgren,OKC,Holmgren 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,4,13,1,1,2.0,2.0,v
+S2425-G0075,1,04:03,DEN,21.0,OKC,20.0,C. Holmgren,OKC,Holmgren Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0075,1,02:34,DEN,,OKC,,C. Holmgren,OKC,SUB: Wiggins FOR Holmgren,Substitution,,0,0,0,0,,,v
+S2425-G0075,2,07:51,DEN,32.0,OKC,42.0,C. Holmgren,OKC,Holmgren 12' Turnaround Jump Shot (7 PTS) (Mitchell 1 AST),Made Shot,Turnaround Jump Shot,-5,115,12,1,2.0,2.0,v
+S2425-G0075,2,06:10,DEN,,OKC,,C. Holmgren,OKC,Holmgren S.FOUL (P1.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0075,2,05:14,DEN,,OKC,,C. Holmgren,OKC,Holmgren STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0075,2,04:04,DEN,42.0,OKC,48.0,C. Holmgren,OKC,Holmgren 3' Cutting Layup Shot (9 PTS) (Williams 3 AST),Made Shot,Cutting Layup Shot,4,26,3,1,2.0,2.0,v
+S2425-G0075,2,04:04,DEN,42.0,OKC,49.0,C. Holmgren,OKC,Holmgren Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0075,2,02:56,DEN,45.0,OKC,54.0,C. Holmgren,OKC,Holmgren 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,-23,12,3,1,2.0,2.0,v
+S2425-G0075,2,02:56,DEN,,OKC,,C. Holmgren,OKC,MISS Holmgren Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0075,2,02:06,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,2,02:03,DEN,,OKC,,C. Holmgren,OKC,Holmgren Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0075,2,01:45,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,2,01:03,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,11:17,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,10:14,DEN,56.0,OKC,63.0,C. Holmgren,OKC,Holmgren 1' Cutting Dunk Shot (14 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Cutting Dunk Shot,-5,-11,1,1,2.0,2.0,v
+S2425-G0075,3,09:43,DEN,56.0,OKC,65.0,C. Holmgren,OKC,Holmgren 1' Driving Reverse Layup (16 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Driving Reverse Layup Shot,6,3,1,1,2.0,2.0,v
+S2425-G0075,3,09:15,DEN,,OKC,,C. Holmgren,OKC,MISS Holmgren 25' 3PT Jump Shot,Missed Shot,Jump Shot,-56,246,25,1,3.0,0.0,v
+S2425-G0075,3,08:10,DEN,62.0,OKC,67.0,C. Holmgren,OKC,Holmgren 16' Pullup Jump Shot (18 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Pullup Jump shot,-159,-5,16,1,2.0,2.0,v
+S2425-G0075,3,07:24,DEN,,OKC,,C. Holmgren,OKC,Holmgren BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0075,3,06:31,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,05:52,DEN,,OKC,,C. Holmgren,OKC,MISS Holmgren 25' 3PT Jump Shot,Missed Shot,Jump Shot,-196,155,25,1,3.0,0.0,v
+S2425-G0075,3,05:33,DEN,,OKC,,C. Holmgren,OKC,Holmgren BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0075,3,03:42,DEN,,OKC,,C. Holmgren,OKC,MISS Holmgren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0075,3,03:42,DEN,66.0,OKC,76.0,C. Holmgren,OKC,Holmgren Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0075,3,03:28,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,02:58,DEN,,OKC,,C. Holmgren,OKC,Holmgren BLOCK (4 BLK),,,0,0,0,0,,,v
+S2425-G0075,3,02:51,DEN,66.0,OKC,80.0,C. Holmgren,OKC,Holmgren 1' Running Dunk (21 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Running Dunk Shot,4,8,1,1,2.0,2.0,v
+S2425-G0075,3,02:21,DEN,,OKC,,C. Holmgren,OKC,MISS Holmgren 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-98,40,11,1,2.0,0.0,v
+S2425-G0075,3,02:06,DEN,,OKC,,C. Holmgren,OKC,SUB: Wiggins FOR Holmgren,Substitution,,0,0,0,0,,,v
+S2425-G0075,4,08:09,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,06:37,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,05:54,DEN,,OKC,,C. Holmgren,OKC,MISS Holmgren 25' 3PT Jump Shot,Missed Shot,Jump Shot,71,242,25,1,3.0,0.0,v
+S2425-G0075,4,05:48,DEN,,OKC,,C. Holmgren,OKC,Holmgren P.FOUL (P2.T2) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0075,4,04:13,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,03:58,DEN,80.0,OKC,100.0,C. Holmgren,OKC,Holmgren 11' Jump Shot (23 PTS) (Gilgeous-Alexander 8 AST),Made Shot,Jump Shot,36,106,11,1,2.0,2.0,v
+S2425-G0075,4,02:13,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,01:54,DEN,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,01:54,DEN,87.0,OKC,102.0,C. Holmgren,OKC,Holmgren 1' Putback Layup (25 PTS),Made Shot,Putback Layup Shot,2,-12,1,1,2.0,2.0,v
+S2425-G0075,4,01:11,DEN,,OKC,,C. Holmgren,OKC,SUB: Dieng FOR Holmgren,Substitution,,0,0,0,0,,,v
+S2425-G0091,1,11:45,CHI,0.0,OKC,2.0,C. Holmgren,OKC,Holmgren Alley Oop Dunk (2 PTS) (Williams 1 AST),Made Shot,Alley Oop Dunk Shot,4,2,0,1,2.0,2.0,v
+S2425-G0091,1,11:31,CHI,,OKC,,C. Holmgren,OKC,Thunder T.Foul (Def. 3 Sec Holmgren ) (J.Tiven),Foul,Defense 3 Second,0,0,0,0,,,v
+S2425-G0091,1,11:16,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-145,209,25,1,3.0,0.0,v
+S2425-G0091,1,08:36,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,1,08:20,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,1,07:04,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0091,1,07:04,CHI,7.0,OKC,12.0,C. Holmgren,OKC,Holmgren Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,1,05:50,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,1,05:29,CHI,,OKC,,C. Holmgren,OKC,Holmgren STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0091,1,05:14,CHI,,OKC,,C. Holmgren,OKC,Holmgren S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2425-G0091,1,05:14,CHI,,OKC,,C. Holmgren,OKC,SUB: Wiggins FOR Holmgren,Substitution,,0,0,0,0,,,v
+S2425-G0091,2,11:20,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,2,09:31,CHI,26.0,OKC,32.0,C. Holmgren,OKC,Holmgren Cutting Dunk Shot (5 PTS) (Caruso 1 AST),Made Shot,Cutting Dunk Shot,-4,2,0,1,2.0,2.0,v
+S2425-G0091,2,08:02,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren 26' 3PT Jump Shot,Missed Shot,Jump Shot,-13,263,26,1,3.0,0.0,v
+S2425-G0091,2,07:12,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,2,06:55,CHI,,OKC,,C. Holmgren,OKC,Holmgren Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0091,2,06:21,CHI,34.0,OKC,36.0,C. Holmgren,OKC,Holmgren Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,2,06:21,CHI,34.0,OKC,37.0,C. Holmgren,OKC,Holmgren Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,2,05:45,CHI,36.0,OKC,39.0,C. Holmgren,OKC,Holmgren 1' Layup (9 PTS) (Caruso 2 AST),Made Shot,Layup Shot,5,7,1,1,2.0,2.0,v
+S2425-G0091,2,05:17,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren 8' Driving Layup,Missed Shot,Driving Layup Shot,1,75,8,1,2.0,0.0,v
+S2425-G0091,2,04:58,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,2,04:53,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren 2' Layup,Missed Shot,Layup Shot,2,16,2,1,2.0,0.0,v
+S2425-G0091,2,04:47,CHI,,OKC,,C. Holmgren,OKC,SUB: Dieng FOR Holmgren,Substitution,,0,0,0,0,,,v
+S2425-G0091,2,01:02,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren 26' 3PT Jump Shot,Missed Shot,Jump Shot,110,238,26,1,3.0,0.0,v
+S2425-G0091,2,00:30.200000,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,2,00:30.200000,CHI,38.0,OKC,57.0,C. Holmgren,OKC,Holmgren Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0091,2,00:16.700000,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,11:39,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,11:36,CHI,39.0,OKC,61.0,C. Holmgren,OKC,Holmgren 1' Running Dunk (13 PTS),Made Shot,Running Dunk Shot,-4,11,1,1,2.0,2.0,v
+S2425-G0091,3,09:01,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,08:34,CHI,44.0,OKC,65.0,C. Holmgren,OKC,Holmgren 17' Pullup Jump Shot (15 PTS) (Williams 6 AST),Made Shot,Pullup Jump shot,-21,173,17,1,2.0,2.0,v
+S2425-G0091,3,08:14,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,07:57,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren 25' 3PT Jump Shot,Missed Shot,Jump Shot,-92,231,25,1,3.0,0.0,v
+S2425-G0091,3,07:52,CHI,,OKC,,C. Holmgren,OKC,Holmgren P.FOUL (P2.T1) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2425-G0091,3,06:35,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren 5' Layup,Missed Shot,Layup Shot,43,24,5,1,2.0,0.0,v
+S2425-G0091,3,05:50,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,05:47,CHI,52.0,OKC,69.0,C. Holmgren,OKC,Holmgren Putback Dunk (17 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0091,3,05:27,CHI,,OKC,,C. Holmgren,OKC,Holmgren Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0091,3,04:42,CHI,,OKC,,C. Holmgren,OKC,Holmgren BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0091,3,03:01,CHI,59.0,OKC,77.0,C. Holmgren,OKC,Holmgren Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,3,03:01,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0091,3,02:35,CHI,,OKC,,C. Holmgren,OKC,Holmgren BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0091,3,02:32,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,02:25,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren 5' Layup,Missed Shot,Layup Shot,13,50,5,1,2.0,0.0,v
+S2425-G0091,3,02:22,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,02:22,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0091,3,02:21,CHI,,OKC,,C. Holmgren,OKC,SUB: Wiggins FOR Holmgren,Substitution,,0,0,0,0,,,v
+S2425-G0091,4,10:13,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:12),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,4,10:09,CHI,71.0,OKC,93.0,C. Holmgren,OKC,Holmgren Free Throw Flagrant 1 of 2 (19 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,4,10:09,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0091,4,09:14,CHI,74.0,OKC,95.0,C. Holmgren,OKC,Holmgren 1' Cutting Dunk Shot (21 PTS) (Williams 8 AST),Made Shot,Cutting Dunk Shot,-7,3,1,1,2.0,2.0,v
+S2425-G0091,4,08:01,CHI,,OKC,,C. Holmgren,OKC,Holmgren REBOUND (Off:3 Def:13),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,4,07:55,CHI,,OKC,,C. Holmgren,OKC,MISS Holmgren 26' 3PT Jump Shot,Missed Shot,Jump Shot,-123,231,26,1,3.0,0.0,v
+S2425-G0091,4,07:01,CHI,,OKC,,C. Holmgren,OKC,SUB: Wiggins FOR Holmgren,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,12:00,OKC,,ATL,,C. Holmgren,OKC,Jump Ball Holmgren vs. Capela: Tip to Young,Jump Ball,,0,0,0,0,,,h
+S2425-G0100,1,10:33,OKC,,ATL,,C. Holmgren,OKC,Holmgren Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0100,1,08:47,OKC,,ATL,,C. Holmgren,OKC,Holmgren BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0100,1,08:35,OKC,,ATL,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,1,08:32,OKC,,ATL,,C. Holmgren,OKC,MISS Holmgren 3' Layup,Missed Shot,Layup Shot,-23,14,3,1,2.0,0.0,h
+S2425-G0100,1,06:43,OKC,,ATL,,C. Holmgren,OKC,MISS Holmgren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0100,1,06:43,OKC,10.0,ATL,11.0,C. Holmgren,OKC,Holmgren Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,1,05:54,OKC,13.0,ATL,13.0,C. Holmgren,OKC,Holmgren 27' 3PT Jump Shot (4 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,134,234,27,1,3.0,3.0,h
+S2425-G0100,1,05:34,OKC,,ATL,,C. Holmgren,OKC,Holmgren Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0100,1,05:04,OKC,,ATL,,C. Holmgren,OKC,SUB: Dieng FOR Holmgren,Substitution,,0,0,0,0,,,h
+S2425-G0100,2,10:31,OKC,,ATL,,C. Holmgren,OKC,MISS Holmgren 26' 3PT Jump Shot,Missed Shot,Jump Shot,105,239,26,1,3.0,0.0,h
+S2425-G0100,2,10:12,OKC,,ATL,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,2,08:14,OKC,,ATL,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,2,06:20,OKC,,ATL,,C. Holmgren,OKC,SUB: Williams FOR Holmgren,Substitution,,0,0,0,0,,,h
+S2425-G0100,2,03:49,OKC,43.0,ATL,50.0,C. Holmgren,OKC,Holmgren 14' Jump Shot (6 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,55,129,14,1,2.0,2.0,h
+S2425-G0100,2,03:04,OKC,46.0,ATL,52.0,C. Holmgren,OKC,Holmgren 1' Cutting Dunk Shot (8 PTS) (Williams 3 AST),Made Shot,Cutting Dunk Shot,6,-7,1,1,2.0,2.0,h
+S2425-G0100,2,02:48,OKC,,ATL,,C. Holmgren,OKC,Holmgren BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0100,2,02:46,OKC,,ATL,,C. Holmgren,OKC,Holmgren S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,2,00:31.500000,OKC,53.0,ATL,58.0,C. Holmgren,OKC,Holmgren 3PT Jump Shot (11 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Jump Shot,-232,20,0,1,3.0,3.0,h
+S2425-G0100,2,00:05.800000,OKC,54.0,ATL,58.0,C. Holmgren,OKC,Holmgren Free Throw 1 of 3 (12 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0100,2,00:05.800000,OKC,55.0,ATL,58.0,C. Holmgren,OKC,Holmgren Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0100,2,00:05.800000,OKC,,ATL,,C. Holmgren,OKC,MISS Holmgren Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,0.0,h
+S2425-G0100,2,00:01.200000,OKC,,ATL,,C. Holmgren,OKC,MISS Holmgren 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,185,183,26,1,3.0,0.0,h
+S2425-G0100,3,11:31,OKC,,ATL,,C. Holmgren,OKC,Holmgren REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,3,10:29,OKC,,ATL,,C. Holmgren,OKC,Holmgren S.FOUL (P2.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,3,10:12,OKC,64.0,ATL,62.0,C. Holmgren,OKC,Holmgren 3PT Jump Shot (16 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,-230,-26,0,1,3.0,3.0,h
+S2425-G0100,3,09:22,OKC,,ATL,,C. Holmgren,OKC,Holmgren REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,3,08:29,OKC,,ATL,,C. Holmgren,OKC,MISS Holmgren 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,81,31,9,1,2.0,0.0,h
+S2425-G0100,3,08:05,OKC,,ATL,,C. Holmgren,OKC,Holmgren STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0100,3,07:59,OKC,69.0,ATL,64.0,C. Holmgren,OKC,Holmgren Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,3,07:59,OKC,70.0,ATL,64.0,C. Holmgren,OKC,Holmgren Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,3,07:19,OKC,,ATL,,C. Holmgren,OKC,Holmgren REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,3,05:31,OKC,,ATL,,C. Holmgren,OKC,Holmgren REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,3,04:37,OKC,,ATL,,C. Holmgren,OKC,Holmgren Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0100,3,04:24,OKC,,ATL,,C. Holmgren,OKC,SUB: Dieng FOR Holmgren,Substitution,,0,0,0,0,,,h
+S2425-G0100,4,09:11,OKC,,ATL,,C. Holmgren,OKC,SUB: Dort FOR Holmgren,Substitution,,0,0,0,0,,,h
+S2425-G0100,4,06:57,OKC,,ATL,,C. Holmgren,OKC,Holmgren BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0100,4,06:16,OKC,106.0,ATL,95.0,C. Holmgren,OKC,Holmgren 1' Alley Oop Dunk (20 PTS) (Mitchell 3 AST),Made Shot,Alley Oop Dunk Shot,-7,5,1,1,2.0,2.0,h
+S2425-G0100,4,06:16,OKC,107.0,ATL,95.0,C. Holmgren,OKC,Holmgren Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0100,4,06:01,OKC,,ATL,,C. Holmgren,OKC,Holmgren REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,04:59,OKC,113.0,ATL,99.0,C. Holmgren,OKC,Holmgren 1' Driving Dunk (23 PTS) (Williams 5 AST),Made Shot,Driving Dunk Shot,-4,7,1,1,2.0,2.0,h
+S2425-G0100,4,04:13,OKC,,ATL,,C. Holmgren,OKC,Holmgren BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0100,4,03:56,OKC,,ATL,,C. Holmgren,OKC,Holmgren BLOCK (5 BLK),,,0,0,0,0,,,h
+S2425-G0100,4,03:47,OKC,120.0,ATL,100.0,C. Holmgren,OKC,Holmgren 1' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,7,13,1,1,2.0,2.0,h
+S2425-G0100,4,03:28,OKC,,ATL,,C. Holmgren,OKC,Holmgren BLOCK (6 BLK),,,0,0,0,0,,,h
+S2425-G0100,4,03:26,OKC,,ATL,,C. Holmgren,OKC,Holmgren REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,03:03,OKC,,ATL,,C. Holmgren,OKC,SUB: Mitchell FOR Holmgren,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,12:00,OKC,,SAS,,C. Holmgren,OKC,Jump Ball Holmgren vs. Wembanyama: Tip to Sochan,Jump Ball,,0,0,0,0,,,h
+S2425-G0125,1,11:43,OKC,,SAS,,C. Holmgren,OKC,Holmgren BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0125,1,11:20,OKC,,SAS,,C. Holmgren,OKC,Holmgren STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0125,1,10:42,OKC,,SAS,,C. Holmgren,OKC,Holmgren S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2425-G0125,1,10:28,OKC,,SAS,,C. Holmgren,OKC,MISS Holmgren 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-56,127,14,1,2.0,0.0,h
+S2425-G0125,1,08:18,OKC,10.0,SAS,10.0,C. Holmgren,OKC,Holmgren 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,148,201,25,1,3.0,3.0,h
+S2425-G0125,1,07:06,OKC,13.0,SAS,10.0,C. Holmgren,OKC,Holmgren 26' 3PT Jump Shot (6 PTS) (Dort 1 AST),Made Shot,Jump Shot,176,185,26,1,3.0,3.0,h
+S2425-G0125,1,06:26,OKC,,SAS,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,1,05:55,OKC,,SAS,,C. Holmgren,OKC,MISS Holmgren 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,56,15,6,1,2.0,0.0,h
+S2425-G0125,1,05:34,OKC,,SAS,,C. Holmgren,OKC,SUB: Caruso FOR Holmgren,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,00:49,OKC,,SAS,,C. Holmgren,OKC,Holmgren OFF.Foul (P2) (M.Davis),Foul,Offensive,0,0,0,0,,,h
+S2425-G0125,1,00:49,OKC,,SAS,,C. Holmgren,OKC,Holmgren Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0125,1,00:30.100000,OKC,,SAS,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,2,10:45,OKC,28.0,SAS,19.0,C. Holmgren,OKC,Holmgren 3' Running Dunk (8 PTS) (Williams 1 AST),Made Shot,Running Dunk Shot,-6,25,3,1,2.0,2.0,h
+S2425-G0125,2,10:19,OKC,,SAS,,C. Holmgren,OKC,Holmgren BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0125,2,09:06,OKC,33.0,SAS,24.0,C. Holmgren,OKC,Holmgren 12' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,-29,112,12,1,2.0,2.0,h
+S2425-G0125,2,08:07,OKC,37.0,SAS,26.0,C. Holmgren,OKC,Holmgren 2' Driving Layup (12 PTS) (Williams 3 AST),Made Shot,Driving Layup Shot,-17,8,2,1,2.0,2.0,h
+S2425-G0125,2,07:48,OKC,,SAS,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,2,07:42,OKC,,SAS,,C. Holmgren,OKC,MISS Holmgren 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-85,33,9,1,2.0,0.0,h
+S2425-G0125,2,07:15,OKC,42.0,SAS,26.0,C. Holmgren,OKC,Holmgren 29' 3PT Jump Shot (15 PTS) (Joe 1 AST),Made Shot,Jump Shot,4,291,29,1,3.0,3.0,h
+S2425-G0125,2,05:46,OKC,,SAS,,C. Holmgren,OKC,Holmgren Traveling Turnover (P2.T5),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0125,2,05:46,OKC,,SAS,,C. Holmgren,OKC,SUB: Gilgeous-Alexander FOR Holmgren,Substitution,,0,0,0,0,,,h
+S2425-G0125,2,02:12,OKC,,SAS,,C. Holmgren,OKC,Holmgren Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0125,2,01:36,OKC,,SAS,,C. Holmgren,OKC,SUB: Williams FOR Holmgren,Substitution,,0,0,0,0,,,h
+S2425-G0125,3,11:26,OKC,,SAS,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,3,09:10,OKC,67.0,SAS,52.0,C. Holmgren,OKC,Holmgren Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0125,3,09:10,OKC,68.0,SAS,52.0,C. Holmgren,OKC,Holmgren Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0125,3,08:56,OKC,,SAS,,C. Holmgren,OKC,Holmgren STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0125,3,08:11,OKC,,SAS,,C. Holmgren,OKC,Holmgren Lost Ball Turnover (P4.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0125,3,06:25,OKC,,SAS,,C. Holmgren,OKC,Holmgren REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,3,05:50,OKC,,SAS,,C. Holmgren,OKC,Holmgren OFF.Foul (P3) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2425-G0125,3,05:50,OKC,,SAS,,C. Holmgren,OKC,Holmgren Offensive Foul Turnover (P5.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0125,3,05:50,OKC,,SAS,,C. Holmgren,OKC,SUB: Caruso FOR Holmgren,Substitution,,0,0,0,0,,,h
+S2425-G0125,4,07:30,OKC,89.0,SAS,77.0,C. Holmgren,OKC,Holmgren 1' Dunk (19 PTS) (Joe 2 AST),Made Shot,Dunk Shot,13,5,1,1,2.0,2.0,h
+S2425-G0125,4,05:52,OKC,,SAS,,C. Holmgren,OKC,SUB: Dort FOR Holmgren,Substitution,,0,0,0,0,,,h

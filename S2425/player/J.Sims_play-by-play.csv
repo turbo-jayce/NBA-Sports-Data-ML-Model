@@ -1,0 +1,39 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,1,00:08.600000,NYK,,IND,,J. Sims,NYK,SUB: Brunson FOR Sims,Substitution,,0,0,0,0,,,h
+S2425-G0081,1,00:00.900000,NYK,,IND,,J. Sims,NYK,SUB: Towns FOR Sims,Substitution,,0,0,0,0,,,h
+S2425-G0081,2,09:08,NYK,,IND,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,2,07:03,NYK,,IND,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0081,2,06:28,NYK,,IND,,J. Sims,NYK,SUB: Towns FOR Sims,Substitution,,0,0,0,0,,,h
+S2425-G0081,3,01:52,NYK,,IND,,J. Sims,NYK,SUB: Towns FOR Sims,Substitution,,0,0,0,0,,,h
+S2425-G0081,4,03:55,NYK,,IND,,J. Sims,NYK,Sims S.FOUL (P1.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2425-G0081,4,02:36,NYK,119.0,IND,92.0,J. Sims,NYK,Sims 1' Dunk (2 PTS) (Payne 3 AST),Made Shot,Dunk Shot,12,-6,1,1,2.0,2.0,h
+S2425-G0106,1,05:15,NYK,,CLE,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,1,04:35,NYK,,CLE,,J. Sims,NYK,Sims P.FOUL (P1.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2425-G0106,1,02:30,NYK,,CLE,,J. Sims,NYK,SUB: Anunoby FOR Sims,Substitution,,0,0,0,0,,,h
+S2425-G0122,1,03:29,MIA,,NYK,,J. Sims,NYK,Sims L.B.FOUL (P1.T4) (P.Fraher),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0122,1,03:12,MIA,,NYK,,J. Sims,NYK,SUB: Towns FOR Sims,Substitution,,0,0,0,0,,,v
+S2425-G0122,2,07:53,MIA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,2,07:29,MIA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,2,05:40,MIA,,NYK,,J. Sims,NYK,SUB: Towns FOR Sims,Substitution,,0,0,0,0,,,v
+S2425-G0122,2,00:00.200000,MIA,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2425-G0122,3,02:42,MIA,,NYK,,J. Sims,NYK,SUB: Towns FOR Sims,Substitution,,0,0,0,0,,,v
+S2425-G0122,4,09:15,MIA,85.0,NYK,93.0,J. Sims,NYK,Sims 5' Alley Oop Layup (2 PTS) (Brunson 8 AST),Made Shot,Alley Oop Layup shot,27,42,5,1,2.0,2.0,v
+S2425-G0122,4,08:01,MIA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0122,4,07:42,MIA,,NYK,,J. Sims,NYK,SUB: Towns FOR Sims,Substitution,,0,0,0,0,,,v
+S2425-G0061,1,05:39,BOS,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0061,1,05:38,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,1,03:28,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,1,03:12,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,1,02:41,BOS,,NYK,,J. Sims,NYK,SUB: Towns FOR Sims,Substitution,,0,0,0,0,,,v
+S2425-G0061,2,05:59,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,2,04:40,BOS,59.0,NYK,39.0,J. Sims,NYK,Sims 1' Cutting Dunk Shot (2 PTS) (Hart 1 AST),Made Shot,Cutting Dunk Shot,-10,0,1,1,2.0,2.0,v
+S2425-G0061,2,03:15,BOS,,NYK,,J. Sims,NYK,SUB: Towns FOR Sims,Substitution,,0,0,0,0,,,v
+S2425-G0061,3,05:10,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,3,01:21,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,3,00:32.900000,BOS,,NYK,,J. Sims,NYK,Sims BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0061,4,08:23,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,4,08:16,BOS,,NYK,,J. Sims,NYK,MISS Sims 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-18,33,4,1,2.0,0.0,v
+S2425-G0061,4,05:47,BOS,130.0,NYK,100.0,J. Sims,NYK,Sims 2' Driving Reverse Layup (4 PTS) (Payne 3 AST),Made Shot,Driving Reverse Layup Shot,-11,20,2,1,2.0,2.0,v
+S2425-G0061,4,04:30,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,4,03:31,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,4,02:47,BOS,,NYK,,J. Sims,NYK,Sims Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v

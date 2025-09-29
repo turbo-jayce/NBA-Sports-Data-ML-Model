@@ -1,0 +1,135 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,11:00,GSW,,NOP,,J. Hawkins,NOP,Hawkins Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0126,1,10:29,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,-230,91,25,1,3.0,0.0,v
+S2425-G0126,1,06:58,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 27' 3PT Jump Shot,Missed Shot,Jump Shot,-201,174,27,1,3.0,0.0,v
+S2425-G0126,1,06:52,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,05:40,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-223,2,0,1,3.0,0.0,v
+S2425-G0126,1,05:14,GSW,,NOP,,J. Hawkins,NOP,SUB: Cain FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0126,1,01:31,GSW,23.0,NOP,18.0,J. Hawkins,NOP,Hawkins 27' 3PT Jump Shot (3 PTS) (Williamson 2 AST),Made Shot,Jump Shot,-20,270,27,1,3.0,3.0,v
+S2425-G0126,1,00:59.600000,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,112,232,26,1,3.0,0.0,v
+S2425-G0126,2,10:28,GSW,32.0,NOP,23.0,J. Hawkins,NOP,Hawkins 28' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-124,247,28,1,3.0,3.0,v
+S2425-G0126,2,08:42,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 5' Driving Layup,Missed Shot,Driving Layup Shot,-44,27,5,1,2.0,0.0,v
+S2425-G0126,2,07:44,GSW,32.0,NOP,30.0,J. Hawkins,NOP,Hawkins 23' Running Pull-Up Jump Shot (8 PTS) (Williamson 4 AST),Made Shot,Running Pull-Up Jump Shot,113,203,23,1,2.0,2.0,v
+S2425-G0126,2,05:57,GSW,34.0,NOP,36.0,J. Hawkins,NOP,Hawkins 27' 3PT Running Pull-Up Jump Shot (11 PTS) (Boston Jr. 2 AST),Made Shot,Running Pull-Up Jump Shot,-197,178,27,1,3.0,3.0,v
+S2425-G0126,2,05:21,GSW,37.0,NOP,39.0,J. Hawkins,NOP,Hawkins 26' 3PT Pullup Jump Shot (14 PTS) (Robinson-Earl 1 AST),Made Shot,Pullup Jump shot,113,238,26,1,3.0,3.0,v
+S2425-G0126,2,05:21,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0126,2,04:17,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,237,18,24,1,3.0,0.0,v
+S2425-G0126,2,03:33,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 3' Driving Layup,Missed Shot,Driving Layup Shot,33,-1,3,1,2.0,0.0,v
+S2425-G0126,2,02:03,GSW,45.0,NOP,41.0,J. Hawkins,NOP,Hawkins 13' Pullup Jump Shot (16 PTS) (Ingram 3 AST),Made Shot,Pullup Jump shot,-49,123,13,1,2.0,2.0,v
+S2425-G0126,2,01:13,GSW,,NOP,,J. Hawkins,NOP,SUB: Robinson-Earl FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0126,3,10:57,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-195,150,25,1,3.0,0.0,v
+S2425-G0126,3,08:35,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-225,-12,0,1,3.0,0.0,v
+S2425-G0126,3,07:51,GSW,59.0,NOP,48.0,J. Hawkins,NOP,Hawkins 10' Pullup Jump Shot (18 PTS) (Missi 1 AST),Made Shot,Pullup Jump shot,5,101,10,1,2.0,2.0,v
+S2425-G0126,3,07:21,GSW,,NOP,,J. Hawkins,NOP,Hawkins S.FOUL (P1.T2) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2425-G0126,3,05:49,GSW,,NOP,,J. Hawkins,NOP,Hawkins Traveling Turnover (P2.T11),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0126,3,05:32,GSW,,NOP,,J. Hawkins,NOP,SUB: Williamson FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0126,3,01:07,GSW,76.0,NOP,65.0,J. Hawkins,NOP,Hawkins 17' Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,22,166,17,1,2.0,2.0,v
+S2425-G0126,3,00:07,GSW,,NOP,,J. Hawkins,NOP,Hawkins S.FOUL (P2.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0126,4,10:18,GSW,,NOP,,J. Hawkins,NOP,Hawkins S.FOUL (P3.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0126,4,07:08,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,-139,219,26,1,3.0,0.0,v
+S2425-G0126,4,06:01,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,04:40,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,185,180,26,1,3.0,0.0,v
+S2425-G0126,4,04:30,GSW,94.0,NOP,78.0,J. Hawkins,NOP,Hawkins Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0126,4,03:10,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,154,230,28,1,3.0,0.0,v
+S2425-G0126,4,02:52,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,02:27,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,02:09,GSW,100.0,NOP,87.0,J. Hawkins,NOP,Hawkins 15' Step Back Jump Shot (23 PTS) (Ingram 6 AST),Made Shot,Step Back Jump shot,154,-13,15,1,2.0,2.0,v
+S2425-G0126,4,01:22,GSW,,NOP,,J. Hawkins,NOP,SUB: Robinson-Earl FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,06:40,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 8' Driving Layup,Missed Shot,Driving Layup Shot,13,80,8,1,2.0,0.0,v
+S2425-G0116,1,03:14,GSW,,NOP,,J. Hawkins,NOP,Hawkins STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0116,1,03:11,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 1' Running Layup,Missed Shot,Running Layup Shot,6,12,1,1,2.0,0.0,v
+S2425-G0116,1,02:35,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,02:20,GSW,14.0,NOP,27.0,J. Hawkins,NOP,Hawkins Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0116,1,01:35,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-42,106,11,1,2.0,0.0,v
+S2425-G0116,2,10:55,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-29,90,9,1,2.0,0.0,v
+S2425-G0116,2,08:05,GSW,,NOP,,J. Hawkins,NOP,Hawkins S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,2,06:40,GSW,,NOP,,J. Hawkins,NOP,Hawkins Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0116,2,05:03,GSW,,NOP,,J. Hawkins,NOP,Hawkins S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,2,03:59,GSW,,NOP,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,03:59,GSW,,NOP,,J. Hawkins,NOP,SUB: Theis FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0116,3,06:54,GSW,,NOP,,J. Hawkins,NOP,Hawkins P.FOUL (P3.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2425-G0116,3,06:10,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,48,147,15,1,2.0,0.0,v
+S2425-G0116,3,00:11.700000,GSW,,NOP,,J. Hawkins,NOP,MISS Hawkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-11,24,1,3.0,0.0,v
+S2425-G0116,4,10:19,GSW,94.0,NOP,82.0,J. Hawkins,NOP,Hawkins Free Throw 1 of 3 (2 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,10:19,GSW,94.0,NOP,83.0,J. Hawkins,NOP,Hawkins Free Throw 2 of 3 (3 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,10:19,GSW,94.0,NOP,84.0,J. Hawkins,NOP,Hawkins Free Throw 3 of 3 (4 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,09:12,GSW,,NOP,,J. Hawkins,NOP,Hawkins Out of Bounds - Bad Pass Turnover Turnover (P2.T19),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0116,4,08:10,GSW,,NOP,,J. Hawkins,NOP,SUB: Ingram FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0069,1,03:40,NOP,,CHI,,J. Hawkins,NOP,Hawkins BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0069,1,03:27,NOP,20.0,CHI,17.0,J. Hawkins,NOP,Hawkins 26' 3PT Jump Shot (3 PTS) (McCollum 3 AST),Made Shot,Jump Shot,168,197,26,1,3.0,3.0,h
+S2425-G0069,1,00:43.600000,NOP,29.0,CHI,23.0,J. Hawkins,NOP,Hawkins 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,6,1,1,2.0,2.0,h
+S2425-G0069,2,11:21,NOP,,CHI,,J. Hawkins,NOP,MISS Hawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,121,224,25,1,3.0,0.0,h
+S2425-G0069,2,10:45,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,09:50,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,07:33,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,2,07:00,NOP,45.0,CHI,40.0,J. Hawkins,NOP,Hawkins 27' 3PT Jump Shot (8 PTS) (Alvarado 3 AST),Made Shot,Jump Shot,97,248,27,1,3.0,3.0,h
+S2425-G0069,2,02:30,NOP,,CHI,,J. Hawkins,NOP,SUB: Theis FOR Hawkins,Substitution,,0,0,0,0,,,h
+S2425-G0069,3,04:09,NOP,,CHI,,J. Hawkins,NOP,Hawkins Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0069,3,03:45,NOP,,CHI,,J. Hawkins,NOP,MISS Hawkins 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-62,130,14,1,2.0,0.0,h
+S2425-G0069,3,03:06,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,3,03:05,NOP,,CHI,,J. Hawkins,NOP,Hawkins Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0069,3,02:11,NOP,,CHI,,J. Hawkins,NOP,MISS Hawkins 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,145,223,27,1,3.0,0.0,h
+S2425-G0069,3,01:22,NOP,,CHI,,J. Hawkins,NOP,Hawkins S.FOUL (P1.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,4,11:02,NOP,,CHI,,J. Hawkins,NOP,MISS Hawkins 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,16,10,1,2.0,0.0,h
+S2425-G0069,4,10:16,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,09:01,NOP,102.0,CHI,92.0,J. Hawkins,NOP,Hawkins 26' 3PT Running Jump Shot (11 PTS) (Ingram 2 AST),Made Shot,Running Jump Shot,-213,151,26,1,3.0,3.0,h
+S2425-G0069,4,06:27,NOP,110.0,CHI,95.0,J. Hawkins,NOP,Hawkins Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,4,06:27,NOP,111.0,CHI,95.0,J. Hawkins,NOP,Hawkins Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0069,4,06:05,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0069,4,06:00,NOP,,CHI,,J. Hawkins,NOP,MISS Hawkins 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-173,185,25,1,3.0,0.0,h
+S2425-G0069,4,05:55,NOP,,CHI,,J. Hawkins,NOP,SUB: Jones FOR Hawkins,Substitution,,0,0,0,0,,,h
+S2425-G0069,4,00:57.600000,NOP,,CHI,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0086,1,04:36,POR,,,,J. Hawkins,NOP,MISS Hawkins 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-66,75,10,1,2.0,0.0,v
+S2425-G0086,1,02:39,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,1,01:21,POR,27.0,,15.0,J. Hawkins,NOP,Hawkins 18' Pullup Jump Shot (2 PTS) (Williamson 1 AST),Made Shot,Pullup Jump shot,7,184,18,1,2.0,2.0,v
+S2425-G0086,1,00:27.200000,POR,,,,J. Hawkins,NOP,SUB: Jones FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0086,2,03:06,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,2,02:38,POR,,,,J. Hawkins,NOP,SUB: Theis FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0086,3,05:07,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,3,04:31,POR,,,,J. Hawkins,NOP,MISS Hawkins 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,8,0,1,3.0,0.0,v
+S2425-G0086,3,04:22,POR,68.0,,65.0,J. Hawkins,NOP,Hawkins 3PT Jump Shot (5 PTS) (McCollum 3 AST),Made Shot,Jump Shot,-234,15,0,1,3.0,3.0,v
+S2425-G0086,3,04:07,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,3,01:15,POR,,,,J. Hawkins,NOP,MISS Hawkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,132,220,26,1,3.0,0.0,v
+S2425-G0086,3,00:56.100000,POR,82.0,,71.0,J. Hawkins,NOP,Hawkins Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0086,3,00:33,POR,84.0,,74.0,J. Hawkins,NOP,Hawkins 24' 3PT Jump Shot (9 PTS) (Williamson 3 AST),Made Shot,Jump Shot,224,83,24,1,3.0,3.0,v
+S2425-G0086,3,00:15.600000,POR,,,,J. Hawkins,NOP,Hawkins P.FOUL (P1.PN) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2425-G0086,3,00:01.900000,POR,,,,J. Hawkins,NOP,SUB: Jones FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0086,4,11:21,POR,84.0,,78.0,J. Hawkins,NOP,Hawkins 25' 3PT Jump Shot (12 PTS) (Williamson 4 AST),Made Shot,Jump Shot,222,110,25,1,3.0,3.0,v
+S2425-G0086,4,11:10,POR,84.0,,79.0,J. Hawkins,NOP,Hawkins Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0086,4,10:09,POR,89.0,,84.0,J. Hawkins,NOP,Hawkins 27' 3PT Jump Shot (16 PTS) (Williamson 5 AST),Made Shot,Jump Shot,-181,200,27,1,3.0,3.0,v
+S2425-G0086,4,09:42,POR,,,,J. Hawkins,NOP,MISS Hawkins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-181,180,26,1,3.0,0.0,v
+S2425-G0086,4,09:21,POR,91.0,,86.0,J. Hawkins,NOP,Hawkins 15' Pullup Jump Shot (18 PTS) (Theis 3 AST),Made Shot,Pullup Jump shot,-143,38,15,1,2.0,2.0,v
+S2425-G0086,4,07:58,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,4,07:58,POR,91.0,,92.0,J. Hawkins,NOP,Hawkins Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,4,07:58,POR,91.0,,93.0,J. Hawkins,NOP,Hawkins Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,4,03:29,POR,97.0,,99.0,J. Hawkins,NOP,Hawkins 16' Pullup Jump Shot (22 PTS) (Ingram 4 AST),Made Shot,Pullup Jump shot,143,77,16,1,2.0,2.0,v
+S2425-G0086,4,02:10,POR,101.0,,101.0,J. Hawkins,NOP,Hawkins 17' Pullup Jump Shot (24 PTS) (Williamson 7 AST),Made Shot,Pullup Jump shot,16,166,17,1,2.0,2.0,v
+S2425-G0086,4,00:04.900000,POR,,,,J. Hawkins,NOP,SUB: Missi FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0099,1,05:20,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,1,04:28,POR,,,,J. Hawkins,NOP,MISS Hawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,192,167,25,1,3.0,0.0,v
+S2425-G0099,1,04:17,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,1,03:07,POR,24.0,,19.0,J. Hawkins,NOP,Hawkins 18' Pullup Jump Shot (2 PTS) (Missi 1 AST),Made Shot,Pullup Jump shot,48,175,18,1,2.0,2.0,v
+S2425-G0099,1,02:46,POR,24.0,,20.0,J. Hawkins,NOP,Hawkins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,1,02:46,POR,24.0,,21.0,J. Hawkins,NOP,Hawkins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,1,01:46,POR,,,,J. Hawkins,NOP,MISS Hawkins 8' Driving Layup,Missed Shot,Driving Layup Shot,4,84,8,1,2.0,0.0,v
+S2425-G0099,1,00:57.900000,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,1,00:57.200000,POR,,,,J. Hawkins,NOP,MISS Hawkins 2' Running Layup,Missed Shot,Running Layup Shot,17,11,2,1,2.0,0.0,v
+S2425-G0099,1,00:56.500000,POR,,,,J. Hawkins,NOP,Hawkins Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0099,1,00:00.500000,POR,26.0,,25.0,J. Hawkins,NOP,Hawkins 18' Jump Shot (6 PTS) (Alvarado 1 AST),Made Shot,Jump Shot,-174,37,18,1,2.0,2.0,v
+S2425-G0099,2,10:06,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,2,08:57,POR,,,,J. Hawkins,NOP,MISS Hawkins 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,96,159,19,1,2.0,0.0,v
+S2425-G0099,2,07:20,POR,40.0,,33.0,J. Hawkins,NOP,Hawkins 8' Floating Jump Shot (8 PTS) (Alvarado 2 AST),Made Shot,Floating Jump shot,-16,77,8,1,2.0,2.0,v
+S2425-G0099,2,06:49,POR,,,,J. Hawkins,NOP,MISS Hawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,-94,233,25,1,3.0,0.0,v
+S2425-G0099,2,06:01,POR,,,,J. Hawkins,NOP,MISS Hawkins 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,88,142,17,1,2.0,0.0,v
+S2425-G0099,2,05:36,POR,,,,J. Hawkins,NOP,SUB: McCollum FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0099,3,04:30,POR,83.0,,65.0,J. Hawkins,NOP,Hawkins 3PT Running Jump Shot (11 PTS) (McCollum 3 AST),Made Shot,Running Jump Shot,228,21,0,1,3.0,3.0,v
+S2425-G0099,3,02:40,POR,85.0,,66.0,J. Hawkins,NOP,Hawkins Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0099,3,00:12.200000,POR,,,,J. Hawkins,NOP,SUB: Jones FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0099,3,00:01.500000,POR,,,,J. Hawkins,NOP,SUB: Green FOR Hawkins,Substitution,,0,0,0,0,,,v
+S2425-G0099,4,10:44,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,4,09:53,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,4,05:29,POR,,,,J. Hawkins,NOP,Hawkins REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,4,05:28,POR,,,,J. Hawkins,NOP,Hawkins Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0099,4,04:39,POR,112.0,,94.0,J. Hawkins,NOP,Hawkins 17' Step Back Jump Shot (14 PTS) (Ingram 6 AST),Made Shot,Step Back Jump shot,-145,88,17,1,2.0,2.0,v
+S2425-G0099,4,02:05,POR,121.0,,101.0,J. Hawkins,NOP,Hawkins 28' 3PT Jump Shot (17 PTS) (Alvarado 3 AST),Made Shot,Jump Shot,-168,221,28,1,3.0,3.0,v
+S2425-G0099,4,01:07,POR,,,,J. Hawkins,NOP,MISS Hawkins 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-81,64,10,1,2.0,0.0,v

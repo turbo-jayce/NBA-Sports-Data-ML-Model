@@ -1,0 +1,21 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0073,4,06:59,WAS,,BOS,,J. Walsh,BOS,MISS Walsh 3' Driving Layup,Missed Shot,Driving Layup Shot,23,17,3,1,2.0,0.0,v
+S2425-G0073,4,05:09,WAS,,BOS,,J. Walsh,BOS,MISS Walsh 28' 3PT Jump Shot,Missed Shot,Jump Shot,188,206,28,1,3.0,0.0,v
+S2425-G0073,4,03:41,WAS,,BOS,,J. Walsh,BOS,Walsh S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2425-G0073,4,03:23,WAS,,BOS,,J. Walsh,BOS,Walsh BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0073,4,02:57,WAS,,BOS,,J. Walsh,BOS,MISS Walsh 26' 3PT Jump Shot,Missed Shot,Jump Shot,-210,155,26,1,3.0,0.0,v
+S2425-G0119,2,06:47,IND,,BOS,,J. Walsh,BOS,Walsh S.FOUL (P1.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0119,2,05:59,IND,,BOS,,J. Walsh,BOS,SUB: Holiday FOR Walsh,Substitution,,0,0,0,0,,,v
+S2425-G0119,3,00:08.900000,IND,,BOS,,J. Walsh,BOS,SUB: White FOR Walsh,Substitution,,0,0,0,0,,,v
+S2425-G0119,4,06:34,IND,,BOS,,J. Walsh,BOS,Walsh REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,4,05:17,IND,,BOS,,J. Walsh,BOS,SUB: White FOR Walsh,Substitution,,0,0,0,0,,,v
+S2425-G0104,1,03:09,BOS,,MIL,,J. Walsh,BOS,MISS Walsh 3PT Jump Shot,Missed Shot,Jump Shot,-225,32,0,1,3.0,0.0,h
+S2425-G0104,1,02:34,BOS,,MIL,,J. Walsh,BOS,MISS Walsh 25' 3PT Jump Shot,Missed Shot,Jump Shot,228,91,25,1,3.0,0.0,h
+S2425-G0104,1,00:00.400000,BOS,,MIL,,J. Walsh,BOS,SUB: Kornet FOR Walsh,Substitution,,0,0,0,0,,,h
+S2425-G0104,3,01:32,BOS,,MIL,,J. Walsh,BOS,Walsh REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,3,01:07,BOS,,MIL,,J. Walsh,BOS,Walsh REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,3,00:50.600000,BOS,,MIL,,J. Walsh,BOS,Walsh REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,3,00:50.600000,BOS,87.0,MIL,80.0,J. Walsh,BOS,Walsh Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0104,4,09:28,BOS,,MIL,,J. Walsh,BOS,Walsh P.FOUL (P1.T3) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2425-G0104,4,09:28,BOS,,MIL,,J. Walsh,BOS,SUB: Holiday FOR Walsh,Substitution,,0,0,0,0,,,h
+S2425-G0061,4,00:52.600000,BOS,,NYK,,J. Walsh,BOS,MISS Walsh 26' 3PT Jump Shot,Missed Shot,Jump Shot,-32,253,26,1,3.0,0.0,h

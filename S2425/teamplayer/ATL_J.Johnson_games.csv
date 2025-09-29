@@ -1,0 +1,229 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0079,1,07:56,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,49,95,11,1,2.0,0.0,h
+S2425-G0079,1,07:25,ATL,,CHA,,J. Johnson,ATL,Johnson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0079,1,07:17,ATL,,CHA,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,1,06:05,ATL,,CHA,,J. Johnson,ATL,SUB: Mathews FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0079,1,01:04,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-15,13,2,1,2.0,0.0,h
+S2425-G0079,1,00:39,ATL,,CHA,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,2,11:09,ATL,32.0,CHA,19.0,J. Johnson,ATL,Johnson 2' Driving Layup (2 PTS) (Risacher 1 AST),Made Shot,Driving Layup Shot,-17,4,2,1,2.0,2.0,h
+S2425-G0079,2,08:37,ATL,,CHA,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,2,08:04,ATL,,CHA,,J. Johnson,ATL,SUB: Hunter FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0079,2,04:31,ATL,,CHA,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,2,04:18,ATL,53.0,CHA,41.0,J. Johnson,ATL,Johnson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,2,04:18,ATL,54.0,CHA,41.0,J. Johnson,ATL,Johnson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,2,04:02,ATL,,CHA,,J. Johnson,ATL,Johnson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0079,2,01:10,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,172,180,25,1,3.0,0.0,h
+S2425-G0079,2,01:05,ATL,,CHA,,J. Johnson,ATL,Johnson OFF.Foul (P1) (M.Dagher),Foul,Offensive,0,0,0,0,,,h
+S2425-G0079,2,01:05,ATL,,CHA,,J. Johnson,ATL,Johnson Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0079,3,11:15,ATL,,CHA,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,3,11:08,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-43,120,13,1,2.0,0.0,h
+S2425-G0079,3,10:52,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,185,176,26,1,3.0,0.0,h
+S2425-G0079,3,08:33,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 3' Running Layup,Missed Shot,Running Layup Shot,22,21,3,1,2.0,0.0,h
+S2425-G0079,3,08:07,ATL,,CHA,,J. Johnson,ATL,Johnson P.FOUL (P2.T3) (M.Dagher),Foul,Personal,0,0,0,0,,,h
+S2425-G0079,3,07:37,ATL,,CHA,,J. Johnson,ATL,Johnson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0079,3,07:20,ATL,,CHA,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,3,03:51,ATL,,CHA,,J. Johnson,ATL,SUB: Mathews FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0079,3,01:52,ATL,83.0,CHA,77.0,J. Johnson,ATL,Johnson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,3,01:52,ATL,,CHA,,J. Johnson,ATL,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0079,3,01:31,ATL,,CHA,,J. Johnson,ATL,Johnson S.FOUL (P3.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2425-G0079,3,00:50.700000,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 2' Driving Layup,Missed Shot,Driving Layup Shot,12,17,2,1,2.0,0.0,h
+S2425-G0079,3,00:43.500000,ATL,86.0,CHA,82.0,J. Johnson,ATL,Johnson 27' 3PT Jump Shot (8 PTS) (Okongwu 3 AST),Made Shot,Jump Shot,208,166,27,1,3.0,3.0,h
+S2425-G0079,4,11:21,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,-23,30,4,1,2.0,0.0,h
+S2425-G0079,4,11:15,ATL,,CHA,,J. Johnson,ATL,Johnson STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0079,4,10:19,ATL,,CHA,,J. Johnson,ATL,Johnson P.FOUL (P4.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2425-G0079,4,09:57,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,28,45,5,1,2.0,0.0,h
+S2425-G0079,4,07:03,ATL,,CHA,,J. Johnson,ATL,Johnson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,4,07:02,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 2' Layup,Missed Shot,Layup Shot,-4,24,2,1,2.0,0.0,h
+S2425-G0079,4,05:49,ATL,106.0,CHA,102.0,J. Johnson,ATL,Johnson 1' Running Layup (10 PTS) (Young 9 AST),Made Shot,Running Layup Shot,-7,13,1,1,2.0,2.0,h
+S2425-G0079,4,05:00,ATL,,CHA,,J. Johnson,ATL,Johnson BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0079,4,03:49,ATL,113.0,CHA,107.0,J. Johnson,ATL,Johnson 5' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,6,53,5,1,2.0,2.0,h
+S2425-G0079,4,03:49,ATL,114.0,CHA,107.0,J. Johnson,ATL,Johnson Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0079,4,02:29,ATL,,CHA,,J. Johnson,ATL,Johnson P.FOUL (P5.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2425-G0079,4,01:15,ATL,121.0,CHA,113.0,J. Johnson,ATL,Johnson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,4,01:15,ATL,,CHA,,J. Johnson,ATL,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0079,4,00:45,ATL,,CHA,,J. Johnson,ATL,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,204,26,1,3.0,0.0,h
+S2425-G0079,4,00:06.700000,ATL,124.0,CHA,120.0,J. Johnson,ATL,Johnson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,4,00:06.700000,ATL,125.0,CHA,120.0,J. Johnson,ATL,Johnson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,1,07:27,ATL,,BKN,,J. Johnson,ATL,Johnson Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0064,1,07:03,ATL,,BKN,,J. Johnson,ATL,SUB: Bogdanović FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0064,1,04:04,ATL,,BKN,,J. Johnson,ATL,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,244,12,24,1,3.0,0.0,h
+S2425-G0064,1,03:35,ATL,,BKN,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,1,03:10,ATL,,BKN,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,1,02:59,ATL,22.0,BKN,16.0,J. Johnson,ATL,Johnson 2' Layup (2 PTS) (Young 6 AST),Made Shot,Layup Shot,11,11,2,1,2.0,2.0,h
+S2425-G0064,1,02:40,ATL,,BKN,,J. Johnson,ATL,Johnson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0064,1,01:03,ATL,,BKN,,J. Johnson,ATL,Johnson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0064,1,00:01.700000,ATL,30.0,BKN,24.0,J. Johnson,ATL,Johnson 1' Driving Dunk (4 PTS) (Okongwu 1 AST),Made Shot,Driving Dunk Shot,-5,8,1,1,2.0,2.0,h
+S2425-G0064,2,10:55,ATL,,BKN,,J. Johnson,ATL,Johnson STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0064,2,08:18,ATL,,BKN,,J. Johnson,ATL,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,2,08:18,ATL,,BKN,,J. Johnson,ATL,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,2,08:10,ATL,,BKN,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,2,08:00,ATL,,BKN,,J. Johnson,ATL,Johnson Traveling Turnover (P2.T5),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0064,2,08:00,ATL,,BKN,,J. Johnson,ATL,SUB: Hunter FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0064,2,03:38,ATL,,BKN,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,2,02:46,ATL,,BKN,,J. Johnson,ATL,Johnson OFF.Foul (P1) (D.Guthrie),Foul,Offensive,0,0,0,0,,,h
+S2425-G0064,2,02:46,ATL,,BKN,,J. Johnson,ATL,Johnson Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0064,2,02:31,ATL,,BKN,,J. Johnson,ATL,Johnson S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2425-G0064,2,01:23,ATL,50.0,BKN,51.0,J. Johnson,ATL,Johnson 6' Driving Floating Bank Jump Shot (6 PTS) (Young 8 AST),Made Shot,Driving Floating Bank Jump Shot,-54,18,6,1,2.0,2.0,h
+S2425-G0064,2,00:34.200000,ATL,,BKN,,J. Johnson,ATL,MISS Johnson 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,2,12,1,1,2.0,0.0,h
+S2425-G0064,2,00:08.400000,ATL,,BKN,,J. Johnson,ATL,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,2,00:08.400000,ATL,51.0,BKN,55.0,J. Johnson,ATL,Johnson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,3,07:42,ATL,63.0,BKN,64.0,J. Johnson,ATL,Johnson 19' Jump Shot (9 PTS) (Young 9 AST),Made Shot,Jump Shot,37,189,19,1,2.0,2.0,h
+S2425-G0064,3,06:59,ATL,,BKN,,J. Johnson,ATL,SUB: Bogdanović FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0064,3,03:20,ATL,,BKN,,J. Johnson,ATL,Johnson S.FOUL (P3.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0064,3,03:05,ATL,,BKN,,J. Johnson,ATL,Johnson Out of Bounds - Bad Pass Turnover Turnover (P4.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0064,3,00:57,ATL,,BKN,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,3,00:18.400000,ATL,,BKN,,J. Johnson,ATL,Johnson Bad Pass Turnover (P5.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0064,4,11:13,ATL,87.0,BKN,85.0,J. Johnson,ATL,Johnson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,4,11:13,ATL,88.0,BKN,85.0,J. Johnson,ATL,Johnson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,4,10:25,ATL,,BKN,,J. Johnson,ATL,MISS Johnson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,162,187,25,1,3.0,0.0,h
+S2425-G0064,4,10:12,ATL,,BKN,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,4,10:11,ATL,,BKN,,J. Johnson,ATL,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,4,10:11,ATL,,BKN,,J. Johnson,ATL,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,4,09:52,ATL,,BKN,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,4,09:04,ATL,,BKN,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,4,08:21,ATL,,BKN,,J. Johnson,ATL,SUB: Hunter FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0064,4,04:17,ATL,,BKN,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,4,02:36,ATL,,BKN,,J. Johnson,ATL,MISS Johnson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,82,9,1,2.0,0.0,h
+S2425-G0064,4,01:31,ATL,,BKN,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,4,01:22,ATL,,BKN,,J. Johnson,ATL,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-151,199,25,1,3.0,0.0,h
+S2425-G0064,4,00:09.500000,ATL,,BKN,,J. Johnson,ATL,Johnson Bad Pass Turnover (P6.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0064,4,00:01,ATL,,BKN,,J. Johnson,ATL,Johnson STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0121,1,11:33,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,163,204,26,1,3.0,0.0,v
+S2425-G0121,1,10:53,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,1,09:44,WAS,,ATL,,J. Johnson,ATL,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0121,1,09:44,WAS,6.0,ATL,3.0,J. Johnson,ATL,Johnson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,1,08:13,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-40,0,4,1,2.0,0.0,v
+S2425-G0121,1,07:52,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-230,109,25,1,3.0,0.0,v
+S2425-G0121,1,07:08,WAS,,ATL,,J. Johnson,ATL,SUB: Nance Jr. FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0121,2,11:54,WAS,,ATL,,J. Johnson,ATL,Johnson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0121,2,11:45,WAS,33.0,ATL,36.0,J. Johnson,ATL,Johnson Running Layup (3 PTS),Made Shot,Running Layup Shot,-4,0,0,1,2.0,2.0,v
+S2425-G0121,2,11:29,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,10:13,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-126,-10,13,1,2.0,0.0,v
+S2425-G0121,2,09:57,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,09:18,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,238,93,26,1,3.0,0.0,v
+S2425-G0121,2,08:27,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 3' Driving Layup,Missed Shot,Driving Layup Shot,10,32,3,1,2.0,0.0,v
+S2425-G0121,2,08:23,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,08:23,WAS,38.0,ATL,44.0,J. Johnson,ATL,Johnson Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0121,2,08:04,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,07:39,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,07:19,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 7' Driving Layup,Missed Shot,Driving Layup Shot,-65,5,7,1,2.0,0.0,v
+S2425-G0121,2,04:58,WAS,46.0,ATL,54.0,J. Johnson,ATL,Johnson 3' Driving Dunk (7 PTS) (Young 5 AST),Made Shot,Driving Dunk Shot,-20,26,3,1,2.0,2.0,v
+S2425-G0121,2,03:37,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,03:31,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,03:31,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-6,25,3,1,2.0,0.0,v
+S2425-G0121,2,03:22,WAS,,ATL,,J. Johnson,ATL,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0121,2,03:22,WAS,49.0,ATL,58.0,J. Johnson,ATL,Johnson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,2,03:08,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,03:06,WAS,49.0,ATL,60.0,J. Johnson,ATL,Johnson 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,-11,10,1,1,2.0,2.0,v
+S2425-G0121,2,02:14,WAS,,ATL,,J. Johnson,ATL,Johnson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0121,3,10:25,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,3,10:02,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,3,08:57,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-74,55,9,1,2.0,0.0,v
+S2425-G0121,3,08:57,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,3,08:55,WAS,63.0,ATL,70.0,J. Johnson,ATL,Johnson 2' Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,-21,-13,2,1,2.0,2.0,v
+S2425-G0121,3,08:37,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,3,06:56,WAS,68.0,ATL,77.0,J. Johnson,ATL,Johnson 2' Driving Reverse Layup (14 PTS) (Young 8 AST),Made Shot,Driving Reverse Layup Shot,-23,1,2,1,2.0,2.0,v
+S2425-G0121,3,06:36,WAS,,ATL,,J. Johnson,ATL,Johnson OFF.Foul (P1) (S.Jelks),Foul,Offensive,0,0,0,0,,,v
+S2425-G0121,3,06:36,WAS,,ATL,,J. Johnson,ATL,Johnson Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0121,3,06:36,WAS,,ATL,,J. Johnson,ATL,Johnson T.FOUL (P1.T1) (S.Jelks),Foul,Technical,0,0,0,0,,,v
+S2425-G0121,3,06:36,WAS,,ATL,,J. Johnson,ATL,SUB: Wallace FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0121,3,01:05,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,4,11:47,WAS,,ATL,,J. Johnson,ATL,MISS Johnson Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2425-G0121,4,11:15,WAS,,ATL,,J. Johnson,ATL,Johnson Lost Ball Turnover (P3.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0121,4,10:29,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-78,48,9,1,2.0,0.0,v
+S2425-G0121,4,10:27,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:6 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,4,09:59,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,-22,24,1,3.0,0.0,v
+S2425-G0121,4,07:23,WAS,,ATL,,J. Johnson,ATL,Johnson STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0121,4,07:17,WAS,112.0,ATL,100.0,J. Johnson,ATL,Johnson 7' Running Layup (16 PTS) (Young 11 AST),Made Shot,Running Layup Shot,-47,54,7,1,2.0,2.0,v
+S2425-G0121,4,06:19,WAS,117.0,ATL,106.0,J. Johnson,ATL,Johnson 3PT Jump Shot (19 PTS) (Young 13 AST),Made Shot,Jump Shot,234,1,0,1,3.0,3.0,v
+S2425-G0121,4,04:01,WAS,125.0,ATL,111.0,J. Johnson,ATL,Johnson 9' Turnaround Jump Shot (21 PTS),Made Shot,Turnaround Jump Shot,-66,54,9,1,2.0,2.0,v
+S2425-G0121,4,03:20,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:6 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,4,02:51,WAS,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:6 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,4,02:38,WAS,,ATL,,J. Johnson,ATL,MISS Johnson 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-40,107,11,1,2.0,0.0,v
+S2425-G0121,4,01:21,WAS,,ATL,,J. Johnson,ATL,Johnson STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0121,4,00:47.800000,WAS,,ATL,,J. Johnson,ATL,SUB: Wallace FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,11:46,OKC,0.0,ATL,3.0,J. Johnson,ATL,Johnson 27' 3PT Jump Shot (3 PTS) (Daniels 1 AST),Made Shot,Jump Shot,146,222,27,1,3.0,3.0,v
+S2425-G0100,1,09:59,OKC,,ATL,,J. Johnson,ATL,MISS Johnson 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-38,107,11,1,2.0,0.0,v
+S2425-G0100,1,09:56,OKC,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,09:56,OKC,,ATL,,J. Johnson,ATL,MISS Johnson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0100,1,07:57,OKC,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,07:29,OKC,9.0,ATL,11.0,J. Johnson,ATL,Johnson 3' Driving Layup (5 PTS) (Young 1 AST),Made Shot,Driving Layup Shot,-18,22,3,1,2.0,2.0,v
+S2425-G0100,1,06:54,OKC,,ATL,,J. Johnson,ATL,MISS Johnson 29' 3PT Jump Shot,Missed Shot,Jump Shot,-85,278,29,1,3.0,0.0,v
+S2425-G0100,1,06:43,OKC,,ATL,,J. Johnson,ATL,Johnson S.FOUL (P1.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,1,06:43,OKC,,ATL,,J. Johnson,ATL,SUB: Roddy FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,03:26,OKC,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,03:08,OKC,,ATL,,J. Johnson,ATL,Johnson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0100,1,03:02,OKC,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,02:23,OKC,,ATL,,J. Johnson,ATL,Johnson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0100,1,00:17.800000,OKC,,ATL,,J. Johnson,ATL,Johnson Traveling Turnover (P2.T8),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0100,2,11:14,OKC,,ATL,,J. Johnson,ATL,MISS Johnson 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-1,5,1,1,2.0,0.0,v
+S2425-G0100,2,10:50,OKC,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,2,08:44,OKC,,ATL,,J. Johnson,ATL,MISS Johnson 6' Layup,Missed Shot,Layup Shot,54,-17,6,1,2.0,0.0,v
+S2425-G0100,2,08:29,OKC,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,2,08:05,OKC,,ATL,,J. Johnson,ATL,SUB: Risacher FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0100,2,03:19,OKC,,ATL,,J. Johnson,ATL,Johnson S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,2,01:53,OKC,,ATL,,J. Johnson,ATL,Johnson OFF.Foul (P3) (D.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2425-G0100,2,01:53,OKC,,ATL,,J. Johnson,ATL,Johnson Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0100,2,01:53,OKC,,ATL,,J. Johnson,ATL,SUB: Roddy FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0100,3,11:23,OKC,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,11:16,OKC,,ATL,,J. Johnson,ATL,Johnson Out of Bounds - Bad Pass Turnover Turnover (P4.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0100,3,08:26,OKC,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,07:49,OKC,,ATL,,J. Johnson,ATL,MISS Johnson 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-65,52,8,1,2.0,0.0,v
+S2425-G0100,3,06:35,OKC,,ATL,,J. Johnson,ATL,SUB: Roddy FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0100,3,01:13,OKC,,ATL,,J. Johnson,ATL,MISS Johnson 2' Layup,Missed Shot,Layup Shot,9,19,2,1,2.0,0.0,v
+S2425-G0100,3,00:24.900000,OKC,,ATL,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,00:03.100000,OKC,,ATL,,J. Johnson,ATL,MISS Johnson 8' Driving Layup,Missed Shot,Driving Layup Shot,65,47,8,1,2.0,0.0,v
+S2425-G0100,4,11:50,OKC,89.0,ATL,88.0,J. Johnson,ATL,Johnson 5' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,27,40,5,1,2.0,2.0,v
+S2425-G0100,4,10:26,OKC,,ATL,,J. Johnson,ATL,Johnson S.FOUL (P4.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,4,10:13,OKC,,ATL,,J. Johnson,ATL,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,234,15,0,1,3.0,0.0,v
+S2425-G0100,4,08:51,OKC,,ATL,,J. Johnson,ATL,Johnson S.FOUL (P5.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,4,08:51,OKC,,ATL,,J. Johnson,ATL,SUB: Roddy FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0100,4,03:28,OKC,,ATL,,J. Johnson,ATL,MISS Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,17,38,4,1,2.0,0.0,v
+S2425-G0100,4,03:03,OKC,,ATL,,J. Johnson,ATL,SUB: Wallace FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0103,1,09:01,ATL,12.0,WAS,2.0,J. Johnson,ATL,Johnson 12' Step Back Jump Shot (2 PTS) (Young 3 AST),Made Shot,Step Back Jump shot,-27,120,12,1,2.0,2.0,h
+S2425-G0103,1,06:56,ATL,,WAS,,J. Johnson,ATL,SUB: Roddy FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0103,1,03:30,ATL,,WAS,,J. Johnson,ATL,Johnson P.FOUL (P1.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2425-G0103,1,02:01,ATL,22.0,WAS,20.0,J. Johnson,ATL,Johnson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,1,02:01,ATL,23.0,WAS,20.0,J. Johnson,ATL,Johnson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,1,01:42,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,1,01:24,ATL,,WAS,,J. Johnson,ATL,Johnson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0103,1,01:21,ATL,25.0,WAS,20.0,J. Johnson,ATL,Johnson 1' Running Alley Oop Dunk Shot (6 PTS) (Mathews 1 AST),Made Shot,Running Alley Oop Dunk Shot,4,4,1,1,2.0,2.0,h
+S2425-G0103,1,00:51.700000,ATL,,WAS,,J. Johnson,ATL,MISS Johnson 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,20,85,9,1,2.0,0.0,h
+S2425-G0103,2,11:53,ATL,,WAS,,J. Johnson,ATL,MISS Johnson 1' Driving Dunk,Missed Shot,Driving Dunk Shot,-2,7,1,1,2.0,0.0,h
+S2425-G0103,2,10:46,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,2,10:10,ATL,35.0,WAS,27.0,J. Johnson,ATL,Johnson 1' Driving Dunk (8 PTS) (Nance Jr. 3 AST),Made Shot,Driving Dunk Shot,2,5,1,1,2.0,2.0,h
+S2425-G0103,2,09:21,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,2,08:36,ATL,,WAS,,J. Johnson,ATL,SUB: Roddy FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0103,2,04:26,ATL,,WAS,,J. Johnson,ATL,Johnson Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0103,2,03:11,ATL,48.0,WAS,38.0,J. Johnson,ATL,Johnson 6' Driving Floating Bank Jump Shot (10 PTS) (Young 8 AST),Made Shot,Driving Floating Bank Jump Shot,37,53,6,1,2.0,2.0,h
+S2425-G0103,2,01:42,ATL,55.0,WAS,46.0,J. Johnson,ATL,Johnson 2' Driving Floating Bank Jump Shot (12 PTS) (Capela 1 AST),Made Shot,Driving Floating Bank Jump Shot,-15,16,2,1,2.0,2.0,h
+S2425-G0103,2,01:42,ATL,,WAS,,J. Johnson,ATL,MISS Johnson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0103,3,10:35,ATL,,WAS,,J. Johnson,ATL,Johnson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0103,3,10:09,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,3,09:57,ATL,,WAS,,J. Johnson,ATL,MISS Johnson 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-58,26,6,1,2.0,0.0,h
+S2425-G0103,3,09:09,ATL,,WAS,,J. Johnson,ATL,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-217,135,26,1,3.0,0.0,h
+S2425-G0103,3,08:14,ATL,68.0,WAS,64.0,J. Johnson,ATL,Johnson 3PT Jump Shot (15 PTS) (Young 10 AST),Made Shot,Jump Shot,224,42,0,1,3.0,3.0,h
+S2425-G0103,3,06:07,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,3,06:02,ATL,,WAS,,J. Johnson,ATL,SUB: Nance Jr. FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0103,3,02:47,ATL,,WAS,,J. Johnson,ATL,Johnson Traveling Turnover (P2.T13),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0103,3,01:48,ATL,81.0,WAS,78.0,J. Johnson,ATL,Johnson 6' Driving Floating Bank Jump Shot (17 PTS),Made Shot,Driving Floating Bank Jump Shot,37,41,6,1,2.0,2.0,h
+S2425-G0103,3,01:34,ATL,,WAS,,J. Johnson,ATL,Johnson P.FOUL (P2.T4) (I.Hwang),Foul,Personal,0,0,0,0,,,h
+S2425-G0103,3,01:13,ATL,83.0,WAS,81.0,J. Johnson,ATL,Johnson 14' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,-82,117,14,1,2.0,2.0,h
+S2425-G0103,3,00:56,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,3,00:55.900000,ATL,,WAS,,J. Johnson,ATL,Johnson Traveling Turnover (P3.T14),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0103,4,10:00,ATL,,WAS,,J. Johnson,ATL,Johnson P.FOUL (P3.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2425-G0103,4,09:34,ATL,,WAS,,J. Johnson,ATL,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,77,248,26,1,3.0,0.0,h
+S2425-G0103,4,07:12,ATL,95.0,WAS,97.0,J. Johnson,ATL,Johnson Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,07:12,ATL,96.0,WAS,97.0,J. Johnson,ATL,Johnson Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,06:48,ATL,98.0,WAS,100.0,J. Johnson,ATL,Johnson 12' Driving Floating Jump Shot (23 PTS) (Young 12 AST),Made Shot,Driving Floating Jump Shot,34,116,12,1,2.0,2.0,h
+S2425-G0103,4,04:54,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,4,03:59,ATL,103.0,WAS,110.0,J. Johnson,ATL,Johnson 1' Driving Layup (25 PTS) (Capela 2 AST),Made Shot,Driving Layup Shot,12,4,1,1,2.0,2.0,h
+S2425-G0103,4,03:09,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,4,02:30,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,4,02:29,ATL,108.0,WAS,115.0,J. Johnson,ATL,Johnson 2' Putback Layup (27 PTS),Made Shot,Putback Layup Shot,6,17,2,1,2.0,2.0,h
+S2425-G0103,4,02:08,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,4,01:22,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,4,01:16,ATL,,WAS,,J. Johnson,ATL,Johnson REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,4,01:09,ATL,,WAS,,J. Johnson,ATL,MISS Johnson 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,97,29,10,1,2.0,0.0,h
+S2425-G0103,4,00:41.900000,ATL,113.0,WAS,118.0,J. Johnson,ATL,Johnson Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,00:41.900000,ATL,114.0,WAS,118.0,J. Johnson,ATL,Johnson Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h

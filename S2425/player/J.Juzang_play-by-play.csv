@@ -1,0 +1,6 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0115,4,10:53,UTA,,SAC,,J. Juzang,UTA,Juzang STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0115,4,10:26,UTA,,SAC,,J. Juzang,UTA,MISS Juzang 27' 3PT Jump Shot,Missed Shot,Jump Shot,-207,174,27,1,3.0,0.0,h
+S2425-G0115,4,08:53,UTA,,SAC,,J. Juzang,UTA,Juzang P.FOUL (P1.T1) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2425-G0115,4,08:02,UTA,,SAC,,J. Juzang,UTA,MISS Juzang 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-191,172,26,1,3.0,0.0,h
+S2425-G0115,4,07:33,UTA,,SAC,,J. Juzang,UTA,SUB: Williams FOR Juzang,Substitution,,0,0,0,0,,,h

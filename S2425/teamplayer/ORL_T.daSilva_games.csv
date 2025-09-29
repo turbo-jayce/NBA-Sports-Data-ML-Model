@@ -1,0 +1,3 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,4,02:26,MIA,,ORL,,T. da Silva,ORL,da Silva Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0065,4,01:34,MIA,,ORL,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,234,0,0,1,3.0,0.0,v

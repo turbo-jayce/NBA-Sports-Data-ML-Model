@@ -1,0 +1,185 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0127,1,12:00,LAC,,POR,,I. Zubac,LAC,Jump Ball Zubac vs. Ayton: Tip to Harden,Jump Ball,,0,0,0,0,,,h
+S2425-G0127,1,11:16,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,1,10:06,LAC,6.0,POR,0.0,I. Zubac,LAC,Zubac Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0127,1,10:06,LAC,,POR,,I. Zubac,LAC,MISS Zubac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0127,1,08:23,LAC,,POR,,I. Zubac,LAC,Zubac L.B.FOUL (P1.T2) (E.Dalen),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0127,1,08:05,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,1,07:19,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,1,05:35,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,1,05:34,LAC,,POR,,I. Zubac,LAC,SUB: Jones FOR Zubac,Substitution,,0,0,0,0,,,h
+S2425-G0127,2,07:24,LAC,,POR,,I. Zubac,LAC,MISS Zubac 17' Jump Shot,Missed Shot,Jump Shot,-6,173,17,1,2.0,0.0,h
+S2425-G0127,2,05:18,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,2,05:17,LAC,,POR,,I. Zubac,LAC,MISS Zubac 2' Putback Layup,Missed Shot,Putback Layup Shot,-9,23,2,1,2.0,0.0,h
+S2425-G0127,2,05:14,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,2,05:14,LAC,,POR,,I. Zubac,LAC,MISS Zubac Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0127,2,02:56,LAC,,POR,,I. Zubac,LAC,Zubac S.FOUL (P2.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2425-G0127,2,02:37,LAC,,POR,,I. Zubac,LAC,MISS Zubac 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,39,49,6,1,2.0,0.0,h
+S2425-G0127,2,02:27,LAC,,POR,,I. Zubac,LAC,SUB: Jones FOR Zubac,Substitution,,0,0,0,0,,,h
+S2425-G0127,3,09:46,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,08:30,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,06:44,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,06:44,LAC,,POR,,I. Zubac,LAC,MISS Zubac 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-6,20,2,1,2.0,0.0,h
+S2425-G0127,3,06:39,LAC,69.0,POR,70.0,I. Zubac,LAC,Zubac 4' Floating Jump Shot (3 PTS) (Mann 1 AST),Made Shot,Floating Jump shot,-26,25,4,1,2.0,2.0,h
+S2425-G0127,3,05:23,LAC,,POR,,I. Zubac,LAC,Zubac BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0127,3,04:48,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,04:42,LAC,77.0,POR,73.0,I. Zubac,LAC,Zubac 5' Hook Shot (5 PTS) (Harden 9 AST),Made Shot,Hook Shot,54,3,5,1,2.0,2.0,h
+S2425-G0127,3,04:25,LAC,,POR,,I. Zubac,LAC,Zubac STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0127,3,03:58,LAC,,POR,,I. Zubac,LAC,Zubac S.FOUL (P3.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2425-G0127,3,03:58,LAC,,POR,,I. Zubac,LAC,SUB: Jones FOR Zubac,Substitution,,0,0,0,0,,,h
+S2425-G0127,4,05:59,LAC,,POR,,I. Zubac,LAC,MISS Zubac Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0127,4,05:59,LAC,96.0,POR,94.0,I. Zubac,LAC,Zubac Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0127,4,02:08,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,4,01:20,LAC,,POR,,I. Zubac,LAC,MISS Zubac Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0127,4,01:20,LAC,,POR,,I. Zubac,LAC,MISS Zubac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0127,4,01:07,LAC,,POR,,I. Zubac,LAC,Zubac BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0127,4,01:03,LAC,,POR,,I. Zubac,LAC,Zubac REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,4,00:01,LAC,,POR,,I. Zubac,LAC,Zubac Personal Take Foul (P4.T4) (M.Smith),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0087,1,09:16,DEN,,LAC,,I. Zubac,LAC,MISS Zubac 2' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,9,22,2,1,2.0,0.0,v
+S2425-G0087,1,07:56,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,07:14,DEN,8.0,LAC,9.0,I. Zubac,LAC,Zubac 6' Floating Jump Shot (2 PTS) (Mann 1 AST),Made Shot,Floating Jump shot,-22,53,6,1,2.0,2.0,v
+S2425-G0087,1,06:56,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,06:13,DEN,,LAC,,I. Zubac,LAC,Zubac Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0087,1,05:41,DEN,12.0,LAC,11.0,I. Zubac,LAC,Zubac 1' Cutting Dunk Shot (4 PTS) (Harden 4 AST),Made Shot,Cutting Dunk Shot,-6,8,1,1,2.0,2.0,v
+S2425-G0087,1,04:21,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,04:12,DEN,12.0,LAC,16.0,I. Zubac,LAC,Zubac 1' Alley Oop Dunk (6 PTS) (Harden 6 AST),Made Shot,Alley Oop Dunk Shot,-9,8,1,1,2.0,2.0,v
+S2425-G0087,1,03:29,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,02:42,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,02:35,DEN,,LAC,,I. Zubac,LAC,SUB: Dunn FOR Zubac,Substitution,,0,0,0,0,,,v
+S2425-G0087,2,07:47,DEN,24.0,LAC,33.0,I. Zubac,LAC,Zubac 2' Layup (8 PTS) (Batum 2 AST),Made Shot,Layup Shot,10,21,2,1,2.0,2.0,v
+S2425-G0087,2,07:28,DEN,,LAC,,I. Zubac,LAC,MISS Zubac 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-55,31,6,1,2.0,0.0,v
+S2425-G0087,2,07:02,DEN,24.0,LAC,35.0,I. Zubac,LAC,Zubac 8' Hook Shot (10 PTS) (Porter Jr. 1 AST),Made Shot,Hook Shot,75,27,8,1,2.0,2.0,v
+S2425-G0087,2,06:41,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,2,06:14,DEN,24.0,LAC,39.0,I. Zubac,LAC,Zubac 1' Dunk (12 PTS) (Harden 8 AST),Made Shot,Dunk Shot,-10,11,1,1,2.0,2.0,v
+S2425-G0087,2,06:14,DEN,24.0,LAC,40.0,I. Zubac,LAC,Zubac Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0087,2,05:21,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,2,05:20,DEN,,LAC,,I. Zubac,LAC,MISS Zubac 6' Hook Shot,Missed Shot,Hook Shot,-11,63,6,1,2.0,0.0,v
+S2425-G0087,2,03:36,DEN,,LAC,,I. Zubac,LAC,MISS Zubac 8' Floating Jump Shot,Missed Shot,Floating Jump shot,2,80,8,1,2.0,0.0,v
+S2425-G0087,2,01:38,DEN,,LAC,,I. Zubac,LAC,MISS Zubac 10' Hook Shot,Missed Shot,Hook Shot,-16,97,10,1,2.0,0.0,v
+S2425-G0087,2,01:10,DEN,38.0,LAC,46.0,I. Zubac,LAC,Zubac 1' Hook Shot (15 PTS) (Harden 9 AST),Made Shot,Hook Shot,-2,13,1,1,2.0,2.0,v
+S2425-G0087,2,00:30.600000,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,2,00:08.400000,DEN,,LAC,,I. Zubac,LAC,SUB: Coffey FOR Zubac,Substitution,,0,0,0,0,,,v
+S2425-G0087,3,11:18,DEN,,LAC,,I. Zubac,LAC,MISS Zubac Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0087,3,11:18,DEN,44.0,LAC,49.0,I. Zubac,LAC,Zubac Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,3,11:02,DEN,,LAC,,I. Zubac,LAC,Zubac P.FOUL (P1.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0087,3,10:38,DEN,46.0,LAC,51.0,I. Zubac,LAC,Zubac 4' Turnaround Hook Shot (18 PTS) (Harden 10 AST),Made Shot,Turnaround Hook Shot,-20,40,4,1,2.0,2.0,v
+S2425-G0087,3,09:44,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,3,08:44,DEN,50.0,LAC,56.0,I. Zubac,LAC,Zubac 1' Hook Shot (20 PTS) (Harden 12 AST),Made Shot,Hook Shot,7,5,1,1,2.0,2.0,v
+S2425-G0087,3,07:25,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,3,06:36,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,3,05:08,DEN,,LAC,,I. Zubac,LAC,Zubac S.FOUL (P2.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2425-G0087,3,04:05,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,3,02:18,DEN,,LAC,,I. Zubac,LAC,Zubac Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0087,3,02:14,DEN,,LAC,,I. Zubac,LAC,SUB: Coffey FOR Zubac,Substitution,,0,0,0,0,,,v
+S2425-G0087,4,11:47,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,4,11:04,DEN,,LAC,,I. Zubac,LAC,MISS Zubac 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,111,11,1,2.0,0.0,v
+S2425-G0087,4,10:44,DEN,71.0,LAC,72.0,I. Zubac,LAC,Zubac 4' Turnaround Hook Shot (22 PTS) (Dunn 1 AST),Made Shot,Turnaround Hook Shot,-5,38,4,1,2.0,2.0,v
+S2425-G0087,4,07:15,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,4,07:07,DEN,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:4 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,4,07:06,DEN,,LAC,,I. Zubac,LAC,Zubac Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0087,4,07:06,DEN,,LAC,,I. Zubac,LAC,Zubac P.FOUL (P3.T4) (A.Abazi),Foul,Personal,0,0,0,0,,,v
+S2425-G0087,4,03:19,DEN,94.0,LAC,94.0,I. Zubac,LAC,Zubac 7' Floating Jump Shot (24 PTS) (Jones Jr. 1 AST),Made Shot,Floating Jump shot,16,73,7,1,2.0,2.0,v
+S2425-G0087,4,02:47,DEN,,LAC,,I. Zubac,LAC,Zubac P.FOUL (P4.PN) (A.Abazi),Foul,Personal,0,0,0,0,,,v
+S2425-G0087,4,00:35.500000,DEN,,LAC,,I. Zubac,LAC,Zubac BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0087,4,00:16.300000,DEN,,LAC,,I. Zubac,LAC,SUB: Batum FOR Zubac,Substitution,,0,0,0,0,,,v
+S2425-G0101,1,11:12,GSW,3.0,LAC,2.0,I. Zubac,LAC,Zubac 5' Driving Hook Shot (2 PTS) (Harden 1 AST),Made Shot,Driving Hook Shot,-23,47,5,1,2.0,2.0,v
+S2425-G0101,1,10:56,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,1,10:45,GSW,,LAC,,I. Zubac,LAC,MISS Zubac 11' Floating Jump Shot,Missed Shot,Floating Jump shot,5,107,11,1,2.0,0.0,v
+S2425-G0101,1,10:36,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,1,08:52,GSW,9.0,LAC,11.0,I. Zubac,LAC,Zubac 1' Alley Oop Dunk (4 PTS) (Harden 2 AST),Made Shot,Alley Oop Dunk Shot,7,8,1,1,2.0,2.0,v
+S2425-G0101,1,08:02,GSW,15.0,LAC,13.0,I. Zubac,LAC,Zubac 6' Cutting Dunk Shot (6 PTS) (Harden 3 AST),Made Shot,Cutting Dunk Shot,36,46,6,1,2.0,2.0,v
+S2425-G0101,1,07:13,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,1,06:41,GSW,,LAC,,I. Zubac,LAC,MISS Zubac 1' Layup,Missed Shot,Layup Shot,0,10,1,1,2.0,0.0,v
+S2425-G0101,1,06:39,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,1,06:38,GSW,19.0,LAC,17.0,I. Zubac,LAC,Zubac Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,1,06:38,GSW,19.0,LAC,18.0,I. Zubac,LAC,Zubac Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,1,05:26,GSW,,LAC,,I. Zubac,LAC,MISS Zubac 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,53,13,5,1,2.0,0.0,v
+S2425-G0101,1,04:53,GSW,,LAC,,I. Zubac,LAC,SUB: Jones FOR Zubac,Substitution,,0,0,0,0,,,v
+S2425-G0101,2,11:33,GSW,,LAC,,I. Zubac,LAC,Zubac Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0101,2,11:16,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,2,11:10,GSW,34.0,LAC,36.0,I. Zubac,LAC,Zubac 6' Floating Jump Shot (10 PTS) (Porter Jr. 1 AST),Made Shot,Floating Jump shot,-7,62,6,1,2.0,2.0,v
+S2425-G0101,2,10:17,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,2,10:16,GSW,34.0,LAC,40.0,I. Zubac,LAC,Zubac 3' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,27,2,3,1,2.0,2.0,v
+S2425-G0101,2,10:16,GSW,34.0,LAC,41.0,I. Zubac,LAC,Zubac Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0101,2,09:57,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,2,09:54,GSW,,LAC,,I. Zubac,LAC,MISS Zubac 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-16,59,6,1,2.0,0.0,v
+S2425-G0101,2,09:42,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,2,08:34,GSW,,LAC,,I. Zubac,LAC,Zubac BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0101,2,06:23,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,2,06:23,GSW,,LAC,,I. Zubac,LAC,MISS Zubac Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0101,2,06:03,GSW,,LAC,,I. Zubac,LAC,Zubac STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0101,2,05:44,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,2,02:47,GSW,,LAC,,I. Zubac,LAC,MISS Zubac 10' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,104,10,1,2.0,0.0,v
+S2425-G0101,2,01:13,GSW,,LAC,,I. Zubac,LAC,SUB: Batum FOR Zubac,Substitution,,0,0,0,0,,,v
+S2425-G0101,3,10:54,GSW,56.0,LAC,63.0,I. Zubac,LAC,Zubac 5' Turnaround Hook Shot (15 PTS) (Harden 7 AST),Made Shot,Turnaround Hook Shot,-33,38,5,1,2.0,2.0,v
+S2425-G0101,3,10:40,GSW,,LAC,,I. Zubac,LAC,Zubac STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0101,3,09:53,GSW,,LAC,,I. Zubac,LAC,Zubac Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0101,3,09:46,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,3,09:19,GSW,60.0,LAC,67.0,I. Zubac,LAC,Zubac 4' Turnaround Hook Shot (17 PTS) (Harden 8 AST),Made Shot,Turnaround Hook Shot,-39,3,4,1,2.0,2.0,v
+S2425-G0101,3,08:05,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,3,07:32,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,3,07:32,GSW,,LAC,,I. Zubac,LAC,MISS Zubac Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0101,3,06:47,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,3,06:46,GSW,,LAC,,I. Zubac,LAC,Zubac Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0101,3,06:19,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,3,04:32,GSW,,LAC,,I. Zubac,LAC,Zubac Offensive Charge Foul (P1) (B.Schwab),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0101,3,04:32,GSW,,LAC,,I. Zubac,LAC,Zubac Offensive Foul Turnover (P4.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0101,3,03:43,GSW,,LAC,,I. Zubac,LAC,SUB: Batum FOR Zubac,Substitution,,0,0,0,0,,,v
+S2425-G0101,4,11:08,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:6 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,4,11:08,GSW,79.0,LAC,88.0,I. Zubac,LAC,Zubac Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0101,4,08:43,GSW,,LAC,,I. Zubac,LAC,MISS Zubac 14' Jump Shot,Missed Shot,Jump Shot,49,134,14,1,2.0,0.0,v
+S2425-G0101,4,06:55,GSW,,LAC,,I. Zubac,LAC,MISS Zubac 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,22,37,4,1,2.0,0.0,v
+S2425-G0101,4,05:52,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:6 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,4,02:21,GSW,102.0,LAC,107.0,I. Zubac,LAC,Zubac 5' Driving Dunk (21 PTS) (Harden 11 AST),Made Shot,Driving Dunk Shot,22,47,5,1,2.0,2.0,v
+S2425-G0101,4,01:10,GSW,,LAC,,I. Zubac,LAC,Zubac REBOUND (Off:6 Def:12),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,4,00:42.200000,GSW,104.0,LAC,111.0,I. Zubac,LAC,Zubac 3' Cutting Dunk Shot (23 PTS) (Dunn 4 AST),Made Shot,Cutting Dunk Shot,-26,15,3,1,2.0,2.0,v
+S2425-G0101,4,00:42.200000,GSW,,LAC,,I. Zubac,LAC,MISS Zubac Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0101,4,00:40.900000,GSW,,LAC,,I. Zubac,LAC,SUB: Coffey FOR Zubac,Substitution,,0,0,0,0,,,v
+S2425-G0071,1,12:00,LAC,,PHX,,I. Zubac,LAC,Jump Ball Zubac vs. Nurkić: Tip to Harden,Jump Ball,,0,0,0,0,,,h
+S2425-G0071,1,10:56,LAC,3.0,PHX,2.0,I. Zubac,LAC,Zubac Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0071,1,10:56,LAC,,PHX,,I. Zubac,LAC,MISS Zubac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0071,1,10:15,LAC,,PHX,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,09:55,LAC,,PHX,,I. Zubac,LAC,Zubac S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0071,1,09:25,LAC,,PHX,,I. Zubac,LAC,Zubac S.FOUL (P2.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2425-G0071,1,09:25,LAC,,PHX,,I. Zubac,LAC,SUB: Jones FOR Zubac,Substitution,,0,0,0,0,,,h
+S2425-G0071,2,11:43,LAC,,PHX,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,2,09:34,LAC,,PHX,,I. Zubac,LAC,MISS Zubac 9' Hook Shot,Missed Shot,Hook Shot,15,92,9,1,2.0,0.0,h
+S2425-G0071,2,09:20,LAC,,PHX,,I. Zubac,LAC,Zubac Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0071,2,08:14,LAC,,PHX,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,2,07:44,LAC,,PHX,,I. Zubac,LAC,MISS Zubac 7' Hook Shot,Missed Shot,Hook Shot,23,63,7,1,2.0,0.0,h
+S2425-G0071,2,07:15,LAC,,PHX,,I. Zubac,LAC,MISS Zubac 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-15,-1,2,1,2.0,0.0,h
+S2425-G0071,2,06:01,LAC,,PHX,,I. Zubac,LAC,Zubac Traveling Turnover (P2.T7),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0071,2,04:55,LAC,29.0,PHX,40.0,I. Zubac,LAC,Zubac Driving Dunk (3 PTS) (Harden 4 AST),Made Shot,Driving Dunk Shot,-1,1,0,1,2.0,2.0,h
+S2425-G0071,2,03:25,LAC,31.0,PHX,42.0,I. Zubac,LAC,Zubac 2' Dunk (5 PTS) (Powell 2 AST),Made Shot,Dunk Shot,4,-16,2,1,2.0,2.0,h
+S2425-G0071,2,03:05,LAC,,PHX,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,2,02:32,LAC,,PHX,,I. Zubac,LAC,SUB: Batum FOR Zubac,Substitution,,0,0,0,0,,,h
+S2425-G0071,3,11:28,LAC,41.0,PHX,47.0,I. Zubac,LAC,Zubac 4' Floating Jump Shot (7 PTS) (Mann 1 AST),Made Shot,Floating Jump shot,-13,41,4,1,2.0,2.0,h
+S2425-G0071,3,10:27,LAC,,PHX,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,3,09:20,LAC,48.0,PHX,51.0,I. Zubac,LAC,Zubac 17' Jump Shot (9 PTS) (Harden 5 AST),Made Shot,Jump Shot,1,173,17,1,2.0,2.0,h
+S2425-G0071,3,08:55,LAC,,PHX,,I. Zubac,LAC,MISS Zubac 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,38,15,4,1,2.0,0.0,h
+S2425-G0071,3,08:19,LAC,49.0,PHX,51.0,I. Zubac,LAC,Zubac Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0071,3,08:19,LAC,,PHX,,I. Zubac,LAC,MISS Zubac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0071,3,07:10,LAC,52.0,PHX,53.0,I. Zubac,LAC,Zubac Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0071,3,07:10,LAC,,PHX,,I. Zubac,LAC,MISS Zubac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0071,3,06:05,LAC,54.0,PHX,55.0,I. Zubac,LAC,Zubac 5' Floating Jump Shot (13 PTS) (Harden 6 AST),Made Shot,Floating Jump shot,-7,50,5,1,2.0,2.0,h
+S2425-G0071,3,05:47,LAC,,PHX,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,3,04:39,LAC,62.0,PHX,57.0,I. Zubac,LAC,Zubac 2' Cutting Dunk Shot (15 PTS) (Harden 7 AST),Made Shot,Cutting Dunk Shot,2,17,2,1,2.0,2.0,h
+S2425-G0071,3,04:18,LAC,,PHX,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,3,03:35,LAC,,PHX,,I. Zubac,LAC,SUB: Jones FOR Zubac,Substitution,,0,0,0,0,,,h
+S2425-G0071,4,10:00,LAC,,PHX,,I. Zubac,LAC,Zubac S.FOUL (P3.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0071,4,09:46,LAC,80.0,PHX,74.0,I. Zubac,LAC,Zubac 7' Driving Hook Shot (17 PTS) (Coffey 1 AST),Made Shot,Driving Hook Shot,1,71,7,1,2.0,2.0,h
+S2425-G0071,4,09:24,LAC,82.0,PHX,74.0,I. Zubac,LAC,Zubac 4' Running Layup (19 PTS) (Mann 3 AST),Made Shot,Running Layup Shot,37,8,4,1,2.0,2.0,h
+S2425-G0071,4,03:15,LAC,,PHX,,I. Zubac,LAC,SUB: Jones Jr. FOR Zubac,Substitution,,0,0,0,0,,,h
+S2425-G0071,4,02:19,LAC,,PHX,,I. Zubac,LAC,Zubac OFF.Foul (P4) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2425-G0071,4,02:19,LAC,,PHX,,I. Zubac,LAC,Zubac Offensive Foul Turnover (P3.T20),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0071,4,01:53,LAC,,PHX,,I. Zubac,LAC,SUB: Batum FOR Zubac,Substitution,,0,0,0,0,,,h
+S2425-G0071,4,00:50.700000,LAC,,PHX,,I. Zubac,LAC,Zubac REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,4,00:41.500000,LAC,,PHX,,I. Zubac,LAC,SUB: Dunn FOR Zubac,Substitution,,0,0,0,0,,,h
+S2425-G0071,5,05:00,LAC,,PHX,,I. Zubac,LAC,Jump Ball Zubac vs. Nurkić: Tip to Jones,Jump Ball,,0,0,0,0,,,h
+S2425-G0071,5,04:01,LAC,,PHX,,I. Zubac,LAC,Zubac REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,5,04:00,LAC,,PHX,,I. Zubac,LAC,MISS Zubac Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0071,5,02:44,LAC,,PHX,,I. Zubac,LAC,Zubac S.FOUL (P5.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0071,5,02:29,LAC,107.0,PHX,110.0,I. Zubac,LAC,Zubac Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0071,5,02:29,LAC,108.0,PHX,110.0,I. Zubac,LAC,Zubac Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0071,5,02:15,LAC,,PHX,,I. Zubac,LAC,Zubac S.FOUL (P6.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0071,5,02:15,LAC,,PHX,,I. Zubac,LAC,SUB: Batum FOR Zubac,Substitution,,0,0,0,0,,,h

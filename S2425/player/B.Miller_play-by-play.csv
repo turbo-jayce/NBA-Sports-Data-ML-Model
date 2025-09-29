@@ -1,0 +1,11 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0068,1,10:42,HOU,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-185,187,26,1,3.0,0.0,v
+S2425-G0068,1,07:12,HOU,10.0,CHA,8.0,B. Miller,CHA,Miller 5' Cutting Dunk Shot (2 PTS) (Ball 1 AST),Made Shot,Cutting Dunk Shot,-25,43,5,1,2.0,2.0,v
+S2425-G0068,1,06:45,HOU,,CHA,,B. Miller,CHA,MISS Miller 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-98,4,10,1,2.0,0.0,v
+S2425-G0068,1,06:26,HOU,10.0,CHA,11.0,B. Miller,CHA,Miller 26' 3PT Jump Shot (5 PTS) (Ball 2 AST),Made Shot,Jump Shot,82,242,26,1,3.0,3.0,v
+S2425-G0068,1,06:26,HOU,10.0,CHA,12.0,B. Miller,CHA,Miller Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0068,1,03:02,HOU,,CHA,,B. Miller,CHA,Miller STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0068,1,02:53,HOU,,CHA,,B. Miller,CHA,Miller REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,1,02:48,HOU,,CHA,,B. Miller,CHA,SUB: Ball FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0068,2,06:35,HOU,,CHA,,B. Miller,CHA,Miller Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0068,2,05:52,HOU,,CHA,,B. Miller,CHA,SUB: Curry FOR Miller,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,41 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0127,1,04:43,LAC,,POR,,K. Jones,LAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,1,02:03,LAC,21.0,POR,17.0,K. Jones,LAC,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0127,1,02:03,LAC,,POR,,K. Jones,LAC,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0127,1,01:08,LAC,25.0,POR,20.0,K. Jones,LAC,Jones 1' Driving Dunk (3 PTS),Made Shot,Driving Dunk Shot,5,13,1,1,2.0,2.0,h
+S2425-G0127,1,01:08,LAC,26.0,POR,20.0,K. Jones,LAC,Jones Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0127,1,00:28.600000,LAC,,POR,,K. Jones,LAC,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,2,11:12,LAC,,POR,,K. Jones,LAC,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,2,10:56,LAC,,POR,,K. Jones,LAC,Jones L.B.FOUL (P1.T1) (E.Dalen),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0127,2,10:56,LAC,,POR,,K. Jones,LAC,SUB: Zubac FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0127,2,01:29,LAC,,POR,,K. Jones,LAC,Jones S.FOUL (P2.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0127,2,01:07,LAC,,POR,,K. Jones,LAC,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,2,00:04.100000,LAC,,POR,,K. Jones,LAC,SUB: Batum FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0127,3,03:40,LAC,,POR,,K. Jones,LAC,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,02:59,LAC,,POR,,K. Jones,LAC,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0127,3,01:22,LAC,85.0,POR,77.0,K. Jones,LAC,Jones Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0127,3,01:22,LAC,,POR,,K. Jones,LAC,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0127,3,01:15,LAC,,POR,,K. Jones,LAC,Jones Violation:Defensive Goaltending (M.Smith),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2425-G0127,3,00:49.400000,LAC,,POR,,K. Jones,LAC,Jones BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0127,4,10:46,LAC,90.0,POR,82.0,K. Jones,LAC,Jones 1' Dunk (7 PTS) (Porter Jr. 1 AST),Made Shot,Dunk Shot,-7,11,1,1,2.0,2.0,h
+S2425-G0127,4,08:17,LAC,,POR,,K. Jones,LAC,SUB: Harden FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0087,2,10:49,DEN,,LAC,,K. Jones,LAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,2,10:37,DEN,,LAC,,K. Jones,LAC,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,2,08:17,DEN,,LAC,,K. Jones,LAC,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0087,2,08:16,DEN,,LAC,,K. Jones,LAC,SUB: Zubac FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0101,1,03:53,GSW,,LAC,,K. Jones,LAC,MISS Jones 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-36,70,8,1,2.0,0.0,v
+S2425-G0101,1,03:23,GSW,,LAC,,K. Jones,LAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,1,01:19,GSW,,LAC,,K. Jones,LAC,Jones L.B.FOUL (P1.PN) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0101,1,00:18,GSW,,LAC,,K. Jones,LAC,SUB: Mann FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0071,1,07:45,LAC,11.0,PHX,10.0,K. Jones,LAC,Jones 1' Cutting Dunk Shot (2 PTS) (Powell 1 AST),Made Shot,Cutting Dunk Shot,0,10,1,1,2.0,2.0,h
+S2425-G0071,1,07:27,LAC,,PHX,,K. Jones,LAC,MISS Jones 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-12,14,2,1,2.0,0.0,h
+S2425-G0071,1,06:16,LAC,,PHX,,K. Jones,LAC,MISS Jones 2' Hook Shot,Missed Shot,Hook Shot,13,21,2,1,2.0,0.0,h
+S2425-G0071,1,06:09,LAC,16.0,PHX,15.0,K. Jones,LAC,Jones Dunk (4 PTS) (Harden 2 AST),Made Shot,Dunk Shot,4,-1,0,1,2.0,2.0,h
+S2425-G0071,1,05:52,LAC,,PHX,,K. Jones,LAC,Jones P.FOUL (P1.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2425-G0071,1,05:01,LAC,,PHX,,K. Jones,LAC,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,04:42,LAC,,PHX,,K. Jones,LAC,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,00:42.800000,LAC,,PHX,,K. Jones,LAC,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,3,03:07,LAC,,PHX,,K. Jones,LAC,Jones S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0071,3,00:39.800000,LAC,,PHX,,K. Jones,LAC,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,3,00:39.800000,LAC,72.0,PHX,69.0,K. Jones,LAC,Jones Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0071,5,00:03,LAC,,PHX,,K. Jones,LAC,SUB: Powell FOR Jones,Substitution,,0,0,0,0,,,h

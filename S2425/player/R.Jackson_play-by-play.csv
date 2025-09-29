@@ -1,0 +1,4 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,2,09:23,TOR,,PHI,,R. Jackson,PHI,MISS Jackson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-132,43,14,1,2.0,0.0,v
+S2425-G0078,2,08:50,TOR,,PHI,,R. Jackson,PHI,Jackson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0078,2,08:35,TOR,,PHI,,R. Jackson,PHI,SUB: Maxey FOR Jackson,Substitution,,0,0,0,0,,,v

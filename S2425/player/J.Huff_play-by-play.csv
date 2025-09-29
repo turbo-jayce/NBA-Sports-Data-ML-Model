@@ -1,0 +1,89 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2424-G124,1,04:22,MEM,22.0,BKN,14.0,J. Huff,MEM,Huff 1' Cutting Dunk Shot (2 PTS) (LaRavia 2 AST),Made Shot,Cutting Dunk Shot,-1,6,1,1,2.0,2.0,h
+S2424-G124,1,03:56,MEM,,BKN,,J. Huff,MEM,MISS Huff 3PT Jump Shot,Missed Shot,Jump Shot,227,1,0,1,3.0,0.0,h
+S2424-G124,1,01:19,MEM,,BKN,,J. Huff,MEM,Huff Offensive Charge Foul (P1) (B.Forte),Foul,Offensive Charge,0,0,0,0,,,h
+S2424-G124,1,01:19,MEM,,BKN,,J. Huff,MEM,Huff Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2424-G124,1,00:56.800000,MEM,,BKN,,J. Huff,MEM,SUB: Smart FOR Huff,Substitution,,0,0,0,0,,,h
+S2424-G124,3,00:28.300000,MEM,,BKN,,J. Huff,MEM,SUB: Wells FOR Huff,Substitution,,0,0,0,0,,,h
+S2424-G124,4,11:08,MEM,92.0,BKN,93.0,J. Huff,MEM,Huff 2' Alley Oop Dunk (4 PTS) (Morant 10 AST),Made Shot,Alley Oop Dunk Shot,-1,16,2,1,2.0,2.0,h
+S2424-G124,4,07:34,MEM,,BKN,,J. Huff,MEM,SUB: Clarke FOR Huff,Substitution,,0,0,0,0,,,h
+S2425-G0070,1,01:12,UTA,,MEM,,J. Huff,MEM,MISS Huff 3PT Jump Shot,Missed Shot,Jump Shot,229,28,0,1,3.0,0.0,v
+S2425-G0070,1,00:32.600000,UTA,,MEM,,J. Huff,MEM,Huff REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,1,00:15,UTA,,MEM,,J. Huff,MEM,SUB: Clarke FOR Huff,Substitution,,0,0,0,0,,,v
+S2425-G0070,2,11:30,UTA,,MEM,,J. Huff,MEM,Huff REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,2,11:12,UTA,,MEM,,J. Huff,MEM,Huff REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,2,09:44,UTA,,MEM,,J. Huff,MEM,SUB: Edey FOR Huff,Substitution,,0,0,0,0,,,v
+S2425-G0070,2,05:30,UTA,37.0,MEM,46.0,J. Huff,MEM,Huff 26' 3PT Jump Shot (3 PTS) (Clarke 1 AST),Made Shot,Jump Shot,-175,188,26,1,3.0,3.0,v
+S2425-G0070,2,05:20,UTA,37.0,MEM,49.0,J. Huff,MEM,Huff 25' 3PT Jump Shot (6 PTS) (Pippen Jr. 2 AST),Made Shot,Jump Shot,-56,248,25,1,3.0,3.0,v
+S2425-G0070,2,04:52,UTA,,MEM,,J. Huff,MEM,Huff BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0070,2,03:37,UTA,,MEM,,J. Huff,MEM,MISS Huff 3PT Jump Shot,Missed Shot,Jump Shot,-229,26,0,1,3.0,0.0,v
+S2425-G0070,2,03:29,UTA,,MEM,,J. Huff,MEM,Huff BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0070,2,02:17,UTA,,MEM,,J. Huff,MEM,Grizzlies T.Foul (Def. 3 Sec Huff ) (J.Williams),Foul,Defense 3 Second,0,0,0,0,,,v
+S2425-G0070,2,02:08,UTA,,MEM,,J. Huff,MEM,Huff REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,2,01:06,UTA,48.0,MEM,60.0,J. Huff,MEM,Huff Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0070,2,01:06,UTA,48.0,MEM,61.0,J. Huff,MEM,Huff Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0070,3,05:35,UTA,,MEM,,J. Huff,MEM,SUB: Clarke FOR Huff,Substitution,,0,0,0,0,,,v
+S2425-G0070,4,07:57,UTA,,MEM,,J. Huff,MEM,Huff S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0070,4,07:34,UTA,102.0,MEM,104.0,J. Huff,MEM,Huff 4' Alley Oop Dunk (10 PTS) (Pippen Jr. 7 AST),Made Shot,Alley Oop Dunk Shot,2,37,4,1,2.0,2.0,v
+S2425-G0070,4,06:12,UTA,,MEM,,J. Huff,MEM,Huff REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,4,05:39,UTA,105.0,MEM,110.0,J. Huff,MEM,Huff 25' 3PT Jump Shot (13 PTS) (Bane 4 AST),Made Shot,Jump Shot,-107,230,25,1,3.0,3.0,v
+S2425-G0070,4,00:56.600000,UTA,,MEM,,J. Huff,MEM,Huff S.FOUL (P2.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2425-G0092,1,01:48,MEM,28.0,ORL,18.0,J. Huff,MEM,Huff 26' 3PT Jump Shot (3 PTS) (Pippen Jr. 4 AST),Made Shot,Jump Shot,97,240,26,1,3.0,3.0,h
+S2425-G0092,1,01:13,MEM,30.0,ORL,20.0,J. Huff,MEM,Huff 2' Driving Layup (5 PTS) (Pippen Jr. 5 AST),Made Shot,Driving Layup Shot,13,8,2,1,2.0,2.0,h
+S2425-G0092,1,01:13,MEM,31.0,ORL,20.0,J. Huff,MEM,Huff Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0092,1,00:56.400000,MEM,,ORL,,J. Huff,MEM,Huff BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0092,2,10:42,MEM,39.0,ORL,26.0,J. Huff,MEM,Huff 1' Cutting Dunk Shot (8 PTS) (Jackson Jr. 1 AST),Made Shot,Cutting Dunk Shot,6,6,1,1,2.0,2.0,h
+S2425-G0092,2,09:31,MEM,,ORL,,J. Huff,MEM,Huff REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,2,09:09,MEM,,ORL,,J. Huff,MEM,Huff S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0092,2,08:25,MEM,,ORL,,J. Huff,MEM,SUB: Edey FOR Huff,Substitution,,0,0,0,0,,,h
+S2425-G0092,3,04:06,MEM,,ORL,,J. Huff,MEM,MISS Huff 26' 3PT Jump Shot,Missed Shot,Jump Shot,-50,258,26,1,3.0,0.0,h
+S2425-G0092,3,02:29,MEM,88.0,ORL,75.0,J. Huff,MEM,Huff 27' 3PT Running Jump Shot (11 PTS) (Pippen Jr. 9 AST),Made Shot,Running Jump Shot,-48,268,27,1,3.0,3.0,h
+S2425-G0092,3,00:40.300000,MEM,,ORL,,J. Huff,MEM,MISS Huff 26' 3PT Jump Shot,Missed Shot,Jump Shot,10,263,26,1,3.0,0.0,h
+S2425-G0092,4,11:44,MEM,92.0,ORL,78.0,J. Huff,MEM,Huff 8' Turnaround Hook Shot (13 PTS) (Morant 9 AST),Made Shot,Turnaround Hook Shot,-16,75,8,1,2.0,2.0,h
+S2425-G0092,4,09:02,MEM,101.0,ORL,87.0,J. Huff,MEM,Huff 1' Alley Oop Dunk (15 PTS) (Smart 3 AST),Made Shot,Alley Oop Dunk Shot,-2,11,1,1,2.0,2.0,h
+S2425-G0092,4,07:37,MEM,104.0,ORL,89.0,J. Huff,MEM,Huff 3PT Jump Shot (18 PTS) (Morant 10 AST),Made Shot,Jump Shot,222,-14,0,1,3.0,3.0,h
+S2425-G0092,4,05:58,MEM,,ORL,,J. Huff,MEM,Huff REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,4,05:35,MEM,,ORL,,J. Huff,MEM,SUB: Clarke FOR Huff,Substitution,,0,0,0,0,,,h
+S2425-G0082,1,04:47,HOU,,MEM,,J. Huff,MEM,Huff BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0082,1,04:15,HOU,23.0,MEM,24.0,J. Huff,MEM,Huff 26' 3PT Jump Shot (3 PTS) (Aldama 2 AST),Made Shot,Jump Shot,-135,223,26,1,3.0,3.0,v
+S2425-G0082,1,03:40,HOU,,MEM,,J. Huff,MEM,Huff S.FOUL (P1.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2425-G0082,1,02:17,HOU,,MEM,,J. Huff,MEM,MISS Huff 26' 3PT Jump Shot,Missed Shot,Jump Shot,-115,232,26,1,3.0,0.0,v
+S2425-G0082,1,01:42,HOU,30.0,MEM,33.0,J. Huff,MEM,Huff 26' 3PT Jump Shot (6 PTS) (LaRavia 1 AST),Made Shot,Jump Shot,-2,259,26,1,3.0,3.0,v
+S2425-G0082,1,00:32.600000,HOU,,MEM,,J. Huff,MEM,SUB: Clarke FOR Huff,Substitution,,0,0,0,0,,,v
+S2425-G0082,2,00:41.800000,HOU,57.0,MEM,65.0,J. Huff,MEM,Huff 3' Cutting Dunk Shot (8 PTS) (Konchar 1 AST),Made Shot,Cutting Dunk Shot,-2,28,3,1,2.0,2.0,v
+S2425-G0082,2,00:20,HOU,,MEM,,J. Huff,MEM,Huff P.FOUL (P2.PN) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2425-G0082,3,05:59,HOU,,MEM,,J. Huff,MEM,Huff BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0082,3,05:35,HOU,,MEM,,J. Huff,MEM,MISS Huff 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-16,106,11,1,2.0,0.0,v
+S2425-G0082,3,05:33,HOU,,MEM,,J. Huff,MEM,Huff REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,3,05:33,HOU,,MEM,,J. Huff,MEM,MISS Huff Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0082,3,03:31,HOU,,MEM,,J. Huff,MEM,Huff REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,3,03:15,HOU,,MEM,,J. Huff,MEM,MISS Huff 25' 3PT Jump Shot,Missed Shot,Jump Shot,-137,205,25,1,3.0,0.0,v
+S2425-G0082,3,03:01,HOU,,MEM,,J. Huff,MEM,Huff STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0082,3,02:09,HOU,,MEM,,J. Huff,MEM,Huff STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0082,3,01:12,HOU,,MEM,,J. Huff,MEM,SUB: Konchar FOR Huff,Substitution,,0,0,0,0,,,v
+S2425-G0082,4,01:18,HOU,,MEM,,J. Huff,MEM,Huff REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0124,1,04:22,MEM,22.0,BKN,14.0,J. Huff,MEM,Huff 1' Cutting Dunk Shot (2 PTS) (LaRavia 2 AST),Made Shot,Cutting Dunk Shot,-1,6,1,1,2.0,2.0,h
+S2425-G0124,1,03:56,MEM,,BKN,,J. Huff,MEM,MISS Huff 3PT Jump Shot,Missed Shot,Jump Shot,227,1,0,1,3.0,0.0,h
+S2425-G0124,1,01:19,MEM,,BKN,,J. Huff,MEM,Huff Offensive Charge Foul (P1) (B.Forte),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0124,1,01:19,MEM,,BKN,,J. Huff,MEM,Huff Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0124,1,00:56.800000,MEM,,BKN,,J. Huff,MEM,SUB: Smart FOR Huff,Substitution,,0,0,0,0,,,h
+S2425-G0124,3,00:28.300000,MEM,,BKN,,J. Huff,MEM,SUB: Wells FOR Huff,Substitution,,0,0,0,0,,,h
+S2425-G0124,4,11:08,MEM,92.0,BKN,93.0,J. Huff,MEM,Huff 2' Alley Oop Dunk (4 PTS) (Morant 10 AST),Made Shot,Alley Oop Dunk Shot,-1,16,2,1,2.0,2.0,h
+S2425-G0124,4,07:34,MEM,,BKN,,J. Huff,MEM,SUB: Clarke FOR Huff,Substitution,,0,0,0,0,,,h
+S2425-G0108,1,06:01,MEM,,CHI,,J. Huff,MEM,Huff BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0108,1,04:15,MEM,,CHI,,J. Huff,MEM,MISS Huff 26' 3PT Jump Shot,Missed Shot,Jump Shot,-44,257,26,1,3.0,0.0,h
+S2425-G0108,1,03:18,MEM,,CHI,,J. Huff,MEM,Huff S.FOUL (P1.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0108,1,02:28,MEM,,CHI,,J. Huff,MEM,SUB: Wells FOR Huff,Substitution,,0,0,0,0,,,h
+S2425-G0108,2,03:08,MEM,,CHI,,J. Huff,MEM,Huff Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0108,3,07:29,MEM,79.0,CHI,68.0,J. Huff,MEM,Huff 26' 3PT Jump Shot (3 PTS) (Pippen Jr. 6 AST),Made Shot,Jump Shot,-112,230,26,1,3.0,3.0,h
+S2425-G0108,3,07:09,MEM,,CHI,,J. Huff,MEM,Huff BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0108,3,07:00,MEM,,CHI,,J. Huff,MEM,Huff REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,05:40,MEM,,CHI,,J. Huff,MEM,Huff REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,04:35,MEM,87.0,CHI,73.0,J. Huff,MEM,Huff Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0108,3,04:35,MEM,88.0,CHI,73.0,J. Huff,MEM,Huff Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0108,3,03:34,MEM,,CHI,,J. Huff,MEM,Huff S.FOUL (P2.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2425-G0108,3,02:45,MEM,,CHI,,J. Huff,MEM,SUB: Wells FOR Huff,Substitution,,0,0,0,0,,,h
+S2425-G0108,4,08:36,MEM,108.0,CHI,101.0,J. Huff,MEM,Huff 7' Turnaround Jump Shot (7 PTS) (LaRavia 5 AST),Made Shot,Turnaround Jump Shot,2,66,7,1,2.0,2.0,h
+S2425-G0108,4,05:42,MEM,,CHI,,J. Huff,MEM,MISS Huff 4' Driving Layup,Missed Shot,Driving Layup Shot,0,42,4,1,2.0,0.0,h
+S2425-G0108,4,04:20,MEM,117.0,CHI,120.0,J. Huff,MEM,Huff 26' 3PT Running Jump Shot (10 PTS) (Pippen Jr. 10 AST),Made Shot,Running Jump Shot,134,222,26,1,3.0,3.0,h
+S2425-G0108,4,03:43,MEM,,CHI,,J. Huff,MEM,SUB: Jackson Jr. FOR Huff,Substitution,,0,0,0,0,,,h

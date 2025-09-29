@@ -1,0 +1,72 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,01:53,DAL,,SAS,,S. Castle,SAS,Castle Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0074,1,00:02.700000,DAL,,SAS,,S. Castle,SAS,Castle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,11:03,DAL,,SAS,,S. Castle,SAS,MISS Castle 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-194,159,25,1,3.0,0.0,v
+S2425-G0074,2,10:45,DAL,,SAS,,S. Castle,SAS,SUB: Sochan FOR Castle,Substitution,,0,0,0,0,,,v
+S2425-G0074,2,02:48,DAL,,SAS,,S. Castle,SAS,Castle Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0074,2,02:48,DAL,,SAS,,S. Castle,SAS,SUB: Sochan FOR Castle,Substitution,,0,0,0,0,,,v
+S2425-G0074,3,03:58,DAL,,SAS,,S. Castle,SAS,Castle S.FOUL (P1.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0074,3,01:47,DAL,85.0,SAS,79.0,S. Castle,SAS,Castle 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-140,50,15,1,2.0,2.0,v
+S2425-G0074,3,01:00,DAL,,SAS,,S. Castle,SAS,MISS Castle 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-17,20,3,1,2.0,0.0,v
+S2425-G0074,4,11:03,DAL,,SAS,,S. Castle,SAS,MISS Castle 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,29,3,1,2.0,0.0,v
+S2425-G0074,4,10:41,DAL,,SAS,,S. Castle,SAS,Castle P.FOUL (P2.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2425-G0074,4,10:02,DAL,,SAS,,S. Castle,SAS,SUB: Barnes FOR Castle,Substitution,,0,0,0,0,,,v
+S2425-G0074,4,05:19,DAL,112.0,SAS,94.0,S. Castle,SAS,Castle 5' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,44,24,5,1,2.0,2.0,v
+S2425-G0074,4,05:19,DAL,112.0,SAS,95.0,S. Castle,SAS,Castle Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0074,4,04:53,DAL,,SAS,,S. Castle,SAS,Castle REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,4,04:26,DAL,,SAS,,S. Castle,SAS,Castle S.FOUL (P3.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2425-G0074,4,04:09,DAL,116.0,SAS,99.0,S. Castle,SAS,Castle Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,4,04:09,DAL,,SAS,,S. Castle,SAS,MISS Castle Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0074,4,01:48,DAL,,SAS,,S. Castle,SAS,MISS Castle 27' 3PT Jump Shot,Missed Shot,Jump Shot,40,269,27,1,3.0,0.0,v
+S2425-G0074,4,01:19,DAL,118.0,SAS,107.0,S. Castle,SAS,Castle 1' Running Alley Oop Layup Shot (8 PTS) (Wesley 2 AST),Made Shot,Running Alley Oop Layup Shot,12,1,1,1,2.0,2.0,v
+S2425-G0074,4,00:56.400000,DAL,,SAS,,S. Castle,SAS,Castle REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,1,04:53,SAS,,HOU,,S. Castle,SAS,MISS Castle 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-15,172,17,1,2.0,0.0,h
+S2425-G0109,1,04:22,SAS,,HOU,,S. Castle,SAS,Castle Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0109,1,03:12,SAS,,HOU,,S. Castle,SAS,Castle Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0109,1,02:10,SAS,,HOU,,S. Castle,SAS,MISS Castle 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,20,251,25,1,3.0,0.0,h
+S2425-G0109,1,01:19,SAS,,HOU,,S. Castle,SAS,Castle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,1,01:13,SAS,,HOU,,S. Castle,SAS,Castle Out of Bounds Lost Ball Turnover (P3.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0109,1,00:09.700000,SAS,,HOU,,S. Castle,SAS,Castle Personal Take Foul (P1.T4) (J.Orr),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0109,3,02:59,SAS,,HOU,,S. Castle,SAS,Castle STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0109,3,02:26,SAS,65.0,HOU,80.0,S. Castle,SAS,Castle 13' Pullup Jump Shot (2 PTS) (Sochan 4 AST),Made Shot,Pullup Jump shot,-65,118,13,1,2.0,2.0,h
+S2425-G0109,4,08:28,SAS,,HOU,,S. Castle,SAS,MISS Castle 2' Reverse Layup,Missed Shot,Reverse Layup Shot,2,16,2,1,2.0,0.0,h
+S2425-G0109,4,08:07,SAS,86.0,HOU,88.0,S. Castle,SAS,Castle 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,7,5,1,1,2.0,2.0,h
+S2425-G0109,4,07:52,SAS,,HOU,,S. Castle,SAS,Castle S.FOUL (P2.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,4,07:15,SAS,,HOU,,S. Castle,SAS,SUB: Sochan FOR Castle,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,03:14,OKC,,SAS,,S. Castle,SAS,MISS Castle 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,81,38,9,1,2.0,0.0,v
+S2425-G0125,1,01:02,OKC,,SAS,,S. Castle,SAS,MISS Castle 27' 3PT Jump Shot,Missed Shot,Jump Shot,137,231,27,1,3.0,0.0,v
+S2425-G0125,1,00:19.200000,OKC,,SAS,,S. Castle,SAS,Castle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,08:13,OKC,,SAS,,S. Castle,SAS,SUB: Barnes FOR Castle,Substitution,,0,0,0,0,,,v
+S2425-G0125,3,03:24,OKC,,SAS,,S. Castle,SAS,MISS Castle 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,202,25,1,3.0,0.0,v
+S2425-G0125,3,00:01.400000,OKC,,SAS,,S. Castle,SAS,Castle BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0125,4,11:39,OKC,,SAS,,S. Castle,SAS,MISS Castle 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,75,160,18,1,2.0,0.0,v
+S2425-G0125,4,11:18,OKC,,SAS,,S. Castle,SAS,Castle REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,4,07:50,OKC,,SAS,,S. Castle,SAS,MISS Castle 26' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,225,125,26,1,3.0,0.0,v
+S2425-G0125,4,07:04,OKC,,SAS,,S. Castle,SAS,SUB: Paul FOR Castle,Substitution,,0,0,0,0,,,v
+S2425-G0094,1,01:14,SAS,,HOU,,S. Castle,SAS,Castle P.FOUL (P1.T1) (B.Haskill),Foul,Personal,0,0,0,0,,,h
+S2425-G0094,1,00:00,SAS,,HOU,,S. Castle,SAS,MISS Castle 51' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,104,503,51,1,3.0,0.0,h
+S2425-G0094,2,10:30,SAS,42.0,HOU,32.0,S. Castle,SAS,Castle Cutting Dunk Shot (2 PTS) (Wembanyama 1 AST),Made Shot,Cutting Dunk Shot,-4,0,0,1,2.0,2.0,h
+S2425-G0094,2,09:34,SAS,,HOU,,S. Castle,SAS,SUB: Champagnie FOR Castle,Substitution,,0,0,0,0,,,h
+S2425-G0094,2,04:38,SAS,,HOU,,S. Castle,SAS,MISS Castle 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,88,151,17,1,2.0,0.0,h
+S2425-G0094,2,04:03,SAS,,HOU,,S. Castle,SAS,Castle Discontinue Dribble Turnover (P1.T5),Turnover,Discontinue Dribble,0,0,0,0,,,h
+S2425-G0094,2,04:03,SAS,,HOU,,S. Castle,SAS,Castle BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0094,2,03:22,SAS,,HOU,,S. Castle,SAS,Castle P.FOUL (P2.T4) (B.Haskill),Foul,Personal,0,0,0,0,,,h
+S2425-G0094,2,03:01,SAS,,HOU,,S. Castle,SAS,Castle Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0094,2,02:47,SAS,,HOU,,S. Castle,SAS,Castle STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0094,2,02:45,SAS,,HOU,,S. Castle,SAS,MISS Castle 1' Running Layup,Missed Shot,Running Layup Shot,-10,5,1,1,2.0,0.0,h
+S2425-G0094,2,02:31,SAS,,HOU,,S. Castle,SAS,MISS Castle 26' 3PT Jump Shot,Missed Shot,Jump Shot,-109,231,26,1,3.0,0.0,h
+S2425-G0094,2,02:00,SAS,,HOU,,S. Castle,SAS,SUB: Johnson FOR Castle,Substitution,,0,0,0,0,,,h
+S2425-G0094,3,06:35,SAS,,HOU,,S. Castle,SAS,Castle P.FOUL (P3.T3) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2425-G0094,3,05:34,SAS,71.0,HOU,56.0,S. Castle,SAS,Castle 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,4,7,1,1,2.0,2.0,h
+S2425-G0094,3,04:16,SAS,,HOU,,S. Castle,SAS,Castle Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0094,3,02:58,SAS,,HOU,,S. Castle,SAS,Castle STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0094,4,10:39,SAS,,HOU,,S. Castle,SAS,Castle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,4,09:46,SAS,,HOU,,S. Castle,SAS,SUB: Barnes FOR Castle,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,05:54,SAS,,HOU,,S. Castle,SAS,MISS Castle 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,9,1,1,1,2.0,0.0,h
+S2425-G0094,4,05:18,SAS,,HOU,,S. Castle,SAS,MISS Castle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0094,4,05:18,SAS,98.0,HOU,92.0,S. Castle,SAS,Castle Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,4,01:00,SAS,,HOU,,S. Castle,SAS,MISS Castle 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-22,22,3,1,2.0,0.0,h
+S2425-G0094,4,00:17.500000,SAS,105.0,HOU,102.0,S. Castle,SAS,Castle Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,4,00:17.500000,SAS,106.0,HOU,102.0,S. Castle,SAS,Castle Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,4,00:07.200000,SAS,,HOU,,S. Castle,SAS,MISS Castle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0094,4,00:07.200000,SAS,109.0,HOU,106.0,S. Castle,SAS,Castle Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h

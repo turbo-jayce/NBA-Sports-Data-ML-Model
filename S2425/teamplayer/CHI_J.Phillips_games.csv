@@ -1,0 +1,55 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0091,1,02:55,CHI,,OKC,,J. Phillips,CHI,MISS Phillips 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,43,24,1,3.0,0.0,h
+S2425-G0091,1,01:28,CHI,19.0,OKC,21.0,J. Phillips,CHI,Phillips 3PT Jump Shot (3 PTS) (Giddey 1 AST),Made Shot,Jump Shot,228,30,0,1,3.0,3.0,h
+S2425-G0091,2,06:55,CHI,,OKC,,J. Phillips,CHI,Phillips STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0091,2,06:55,CHI,,OKC,,J. Phillips,CHI,Jump Ball Phillips vs. Williams: Tip to Vučević,Jump Ball,,0,0,0,0,,,h
+S2425-G0091,2,04:47,CHI,,OKC,,J. Phillips,CHI,MISS Phillips 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-238,-17,24,1,3.0,0.0,h
+S2425-G0091,2,04:23,CHI,,OKC,,J. Phillips,CHI,SUB: Williams FOR Phillips,Substitution,,0,0,0,0,,,h
+S2425-G0091,3,01:33,CHI,61.0,OKC,81.0,J. Phillips,CHI,Phillips 2' Cutting Layup Shot (5 PTS) (Ball 1 AST),Made Shot,Cutting Layup Shot,15,-3,2,1,2.0,2.0,h
+S2425-G0091,3,01:33,CHI,62.0,OKC,81.0,J. Phillips,CHI,Phillips Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0091,4,11:09,CHI,68.0,OKC,90.0,J. Phillips,CHI,Phillips 24' 3PT Jump Shot (9 PTS) (LaVine 2 AST),Made Shot,Jump Shot,-239,28,24,1,3.0,3.0,h
+S2425-G0091,4,10:57,CHI,,OKC,,J. Phillips,CHI,Phillips REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,4,10:31,CHI,,OKC,,J. Phillips,CHI,MISS Phillips 25' 3PT Jump Shot,Missed Shot,Jump Shot,186,172,25,1,3.0,0.0,h
+S2425-G0091,4,09:22,CHI,,OKC,,J. Phillips,CHI,Phillips L.B.FOUL (P1.T4) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0091,4,08:58,CHI,,OKC,,J. Phillips,CHI,SUB: Williams FOR Phillips,Substitution,,0,0,0,0,,,h
+S2425-G0069,1,02:12,NOP,25.0,CHI,19.0,J. Phillips,CHI,Phillips 2' Driving Layup (2 PTS) (Dosunmu 1 AST),Made Shot,Driving Layup Shot,18,10,2,1,2.0,2.0,v
+S2425-G0069,2,11:05,NOP,,CHI,,J. Phillips,CHI,MISS Phillips 3PT Jump Shot,Missed Shot,Jump Shot,-233,6,0,1,3.0,0.0,v
+S2425-G0069,2,09:53,NOP,,CHI,,J. Phillips,CHI,MISS Phillips 27' 3PT Jump Shot,Missed Shot,Jump Shot,136,230,27,1,3.0,0.0,v
+S2425-G0069,2,09:13,NOP,,CHI,,J. Phillips,CHI,SUB: LaVine FOR Phillips,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,03:05,NOP,,CHI,,J. Phillips,CHI,Phillips STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0123,1,04:24,CHI,,ORL,,J. Phillips,CHI,Phillips STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0123,1,04:00,CHI,12.0,ORL,26.0,J. Phillips,CHI,Phillips 24' 3PT Jump Shot (3 PTS) (Giddey 1 AST),Made Shot,Jump Shot,238,35,24,1,3.0,3.0,h
+S2425-G0123,1,02:52,CHI,,ORL,,J. Phillips,CHI,Phillips Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0123,1,01:56,CHI,,ORL,,J. Phillips,CHI,MISS Phillips 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,183,189,26,1,3.0,0.0,h
+S2425-G0123,1,01:42,CHI,,ORL,,J. Phillips,CHI,Phillips REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,10:55,CHI,,ORL,,J. Phillips,CHI,SUB: Buzelis FOR Phillips,Substitution,,0,0,0,0,,,h
+S2425-G0123,3,03:53,CHI,,ORL,,J. Phillips,CHI,Phillips P.FOUL (P1.T1) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2425-G0123,3,03:19,CHI,,ORL,,J. Phillips,CHI,MISS Phillips 3PT Jump Shot,Missed Shot,Jump Shot,233,-14,0,1,3.0,0.0,h
+S2425-G0123,3,02:27,CHI,,ORL,,J. Phillips,CHI,Phillips Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0123,3,01:35,CHI,,ORL,,J. Phillips,CHI,SUB: Williams FOR Phillips,Substitution,,0,0,0,0,,,h
+S2425-G0123,4,11:05,CHI,,ORL,,J. Phillips,CHI,MISS Phillips 3PT Jump Shot,Missed Shot,Jump Shot,-233,-8,0,1,3.0,0.0,h
+S2425-G0123,4,07:49,CHI,,ORL,,J. Phillips,CHI,MISS Phillips Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0123,4,07:49,CHI,87.0,ORL,87.0,J. Phillips,CHI,Phillips Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,4,07:09,CHI,,ORL,,J. Phillips,CHI,SUB: Williams FOR Phillips,Substitution,,0,0,0,0,,,h
+S2425-G0083,1,00:25.900000,MIL,,CHI,,J. Phillips,CHI,Phillips STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0083,2,11:22,MIL,34.0,CHI,33.0,J. Phillips,CHI,Phillips 27' 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,60,268,27,1,3.0,3.0,v
+S2425-G0083,2,11:14,MIL,,CHI,,J. Phillips,CHI,SUB: Williams FOR Phillips,Substitution,,0,0,0,0,,,v
+S2425-G0083,2,03:08,MIL,,CHI,,J. Phillips,CHI,Phillips REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,2,02:37,MIL,,CHI,,J. Phillips,CHI,MISS Phillips 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,41,24,1,3.0,0.0,v
+S2425-G0083,2,01:17,MIL,,CHI,,J. Phillips,CHI,Phillips P.FOUL (P1.PN) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2425-G0083,2,01:17,MIL,,CHI,,J. Phillips,CHI,SUB: Williams FOR Phillips,Substitution,,0,0,0,0,,,v
+S2425-G0083,3,00:50.100000,MIL,,CHI,,J. Phillips,CHI,Phillips REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,1,05:21,MEM,,CHI,,J. Phillips,CHI,Phillips REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,1,04:27,MEM,,CHI,,J. Phillips,CHI,Phillips Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0108,1,03:24,MEM,,CHI,,J. Phillips,CHI,Phillips STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0108,1,01:19,MEM,,CHI,,J. Phillips,CHI,MISS Phillips 20' Jump Shot,Missed Shot,Jump Shot,-202,3,20,1,2.0,0.0,v
+S2425-G0108,1,01:04,MEM,,CHI,,J. Phillips,CHI,Phillips REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,1,00:56.400000,MEM,,CHI,,J. Phillips,CHI,MISS Phillips 7' Driving Layup,Missed Shot,Driving Layup Shot,48,45,7,1,2.0,0.0,v
+S2425-G0108,3,04:42,MEM,,CHI,,J. Phillips,CHI,MISS Phillips 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,6,17,2,1,2.0,0.0,v
+S2425-G0108,3,03:49,MEM,,CHI,,J. Phillips,CHI,Phillips REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,3,03:47,MEM,,CHI,,J. Phillips,CHI,Phillips Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0108,3,02:16,MEM,95.0,CHI,84.0,J. Phillips,CHI,Phillips Running Dunk (2 PTS),Made Shot,Running Dunk Shot,2,4,0,1,2.0,2.0,v
+S2425-G0108,3,01:43,MEM,95.0,CHI,87.0,J. Phillips,CHI,Phillips 26' 3PT Jump Shot (5 PTS) (Smith 1 AST),Made Shot,Jump Shot,-189,175,26,1,3.0,3.0,v
+S2425-G0108,3,00:27.100000,MEM,,CHI,,J. Phillips,CHI,MISS Phillips 2' Layup,Missed Shot,Layup Shot,12,15,2,1,2.0,0.0,v
+S2425-G0108,4,11:49,MEM,,CHI,,J. Phillips,CHI,Phillips P.FOUL (P1.T1) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2425-G0108,4,08:57,MEM,,CHI,,J. Phillips,CHI,SUB: LaVine FOR Phillips,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,4 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,4,04:02,DAL,,SAS,,C. Bassey,SAS,Bassey BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0074,4,03:33,DAL,,SAS,,C. Bassey,SAS,Bassey STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0074,4,01:22,DAL,,SAS,,C. Bassey,SAS,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v

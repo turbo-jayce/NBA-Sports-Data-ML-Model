@@ -1,0 +1,24 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0085,2,05:39,LAL,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,2,05:11,LAL,,PHX,,O. Ighodaro,PHX,Ighodaro S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0085,2,03:23,LAL,,PHX,,O. Ighodaro,PHX,Ighodaro Offensive Charge Foul (P2) (J.Goble),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0085,2,03:23,LAL,,PHX,,O. Ighodaro,PHX,Ighodaro Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0085,2,03:02,LAL,,PHX,,O. Ighodaro,PHX,SUB: O'Neale FOR Ighodaro,Substitution,,0,0,0,0,,,v
+S2425-G0085,4,07:25,LAL,,PHX,,O. Ighodaro,PHX,Ighodaro S.FOUL (P3.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2425-G0085,4,07:25,LAL,,PHX,,O. Ighodaro,PHX,SUB: Plumlee FOR Ighodaro,Substitution,,0,0,0,0,,,v
+S2425-G0071,1,02:05,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,1,01:17,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,1,00:52.700000,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,1,00:30.900000,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,2,10:10,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,2,08:43,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0071,2,08:41,LAC,,PHX,,O. Ighodaro,PHX,SUB: Jones FOR Ighodaro,Substitution,,0,0,0,0,,,v
+S2425-G0071,3,07:37,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,3,07:28,LAC,51.0,PHX,53.0,O. Ighodaro,PHX,Ighodaro 7' Driving Floating Jump Shot (2 PTS) (Booker 3 AST),Made Shot,Driving Floating Jump Shot,-38,55,7,1,2.0,2.0,v
+S2425-G0071,3,07:10,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2425-G0071,3,03:33,LAC,,PHX,,O. Ighodaro,PHX,SUB: Allen FOR Ighodaro,Substitution,,0,0,0,0,,,v
+S2425-G0095,2,10:35,PHX,,DAL,,O. Ighodaro,PHX,Ighodaro OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,h
+S2425-G0095,2,10:35,PHX,,DAL,,O. Ighodaro,PHX,Ighodaro Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0095,2,08:30,PHX,,DAL,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,2,06:47,PHX,,DAL,,O. Ighodaro,PHX,MISS Ighodaro 15' Floating Jump Shot,Missed Shot,Floating Jump shot,-1,154,15,1,2.0,0.0,h
+S2425-G0095,2,06:11,PHX,,DAL,,O. Ighodaro,PHX,SUB: Nurkić FOR Ighodaro,Substitution,,0,0,0,0,,,h

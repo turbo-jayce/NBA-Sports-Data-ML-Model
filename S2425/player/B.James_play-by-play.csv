@@ -1,0 +1,8 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0062,2,03:24,LAL,,MIN,,B. James,LAL,B. James REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,2,03:24,LAL,,MIN,,B. James,LAL,MISS B. James Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0062,2,01:38,LAL,,MIN,,B. James,LAL,MISS B. James 28' 3PT Jump Shot,Missed Shot,Jump Shot,147,242,28,1,3.0,0.0,h
+S2425-G0062,2,01:19,LAL,,MIN,,B. James,LAL,SUB: Russell FOR B. James,Substitution,,0,0,0,0,,,h
+S2425-G0118,4,04:05,CLE,,LAL,,B. James,LAL,B. James STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0118,4,02:03,CLE,125.0,LAL,105.0,B. James,LAL,B. James 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-143,19,14,1,2.0,2.0,v
+S2425-G0118,4,00:55.900000,CLE,,LAL,,B. James,LAL,MISS B. James 26' 3PT Jump Shot,Missed Shot,Jump Shot,-22,256,26,1,3.0,0.0,v

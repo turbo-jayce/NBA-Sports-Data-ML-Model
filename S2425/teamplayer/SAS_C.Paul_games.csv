@@ -1,0 +1,86 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,11:00,DAL,,SAS,,C. Paul,SAS,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,1,06:35,DAL,,SAS,,C. Paul,SAS,MISS Paul 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,188,167,25,1,3.0,0.0,v
+S2425-G0074,1,06:29,DAL,,SAS,,C. Paul,SAS,Paul S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2425-G0074,1,06:29,DAL,,SAS,,C. Paul,SAS,SUB: Johnson FOR Paul,Substitution,,0,0,0,0,,,v
+S2425-G0074,1,00:46.800000,DAL,,SAS,,C. Paul,SAS,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,1,00:40.300000,DAL,,SAS,,C. Paul,SAS,MISS Paul 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,178,205,27,1,3.0,0.0,v
+S2425-G0074,2,09:53,DAL,,SAS,,C. Paul,SAS,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,09:26,DAL,,SAS,,C. Paul,SAS,Paul Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0074,2,09:23,DAL,,SAS,,C. Paul,SAS,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0074,2,07:19,DAL,,SAS,,C. Paul,SAS,Paul S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2425-G0074,2,07:19,DAL,,SAS,,C. Paul,SAS,SUB: Jones FOR Paul,Substitution,,0,0,0,0,,,v
+S2425-G0074,2,00:36.100000,DAL,,SAS,,C. Paul,SAS,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,00:34.400000,DAL,,SAS,,C. Paul,SAS,Paul Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0074,2,00:00,DAL,,SAS,,C. Paul,SAS,MISS Paul 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,192,6,19,1,2.0,0.0,v
+S2425-G0074,3,11:34,DAL,,SAS,,C. Paul,SAS,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-123,220,25,1,3.0,0.0,v
+S2425-G0074,3,06:32,DAL,,SAS,,C. Paul,SAS,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,06:16,DAL,,SAS,,C. Paul,SAS,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,05:32,DAL,,SAS,,C. Paul,SAS,Paul REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,05:11,DAL,,SAS,,C. Paul,SAS,Paul S.FOUL (P3.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2425-G0074,3,04:17,DAL,71.0,SAS,68.0,C. Paul,SAS,Paul 25' 3PT Pullup Jump Shot (3 PTS) (Johnson 2 AST),Made Shot,Pullup Jump shot,-27,245,25,1,3.0,3.0,v
+S2425-G0074,3,04:08,DAL,,SAS,,C. Paul,SAS,SUB: Castle FOR Paul,Substitution,,0,0,0,0,,,v
+S2425-G0074,4,09:10,DAL,,SAS,,C. Paul,SAS,MISS Paul 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,120,59,13,1,2.0,0.0,v
+S2425-G0074,4,05:59,DAL,,SAS,,C. Paul,SAS,SUB: Castle FOR Paul,Substitution,,0,0,0,0,,,v
+S2425-G0109,1,06:49,SAS,,HOU,,C. Paul,SAS,Paul S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,1,05:40,SAS,,HOU,,C. Paul,SAS,Paul S.FOUL (P2.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,1,05:40,SAS,,HOU,,C. Paul,SAS,SUB: Castle FOR Paul,Substitution,,0,0,0,0,,,h
+S2425-G0109,2,08:05,SAS,,HOU,,C. Paul,SAS,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0109,2,07:06,SAS,,HOU,,C. Paul,SAS,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0109,2,06:52,SAS,,HOU,,C. Paul,SAS,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,126,131,18,1,2.0,0.0,h
+S2425-G0109,2,04:58,SAS,30.0,HOU,41.0,C. Paul,SAS,Paul 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-100,227,25,1,3.0,3.0,h
+S2425-G0109,2,04:25,SAS,32.0,HOU,43.0,C. Paul,SAS,Paul 1' Driving Finger Roll Layup (5 PTS) (Sochan 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,9,1,1,2.0,2.0,h
+S2425-G0109,2,03:40,SAS,,HOU,,C. Paul,SAS,Paul S.FOUL (P3.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,2,03:30,SAS,,HOU,,C. Paul,SAS,MISS Paul 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,59,6,1,2.0,0.0,h
+S2425-G0109,2,02:33,SAS,40.0,HOU,53.0,C. Paul,SAS,Paul 1' Driving Finger Roll Layup (7 PTS) (Sochan 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,8,1,1,2.0,2.0,h
+S2425-G0109,2,01:37,SAS,45.0,HOU,56.0,C. Paul,SAS,Paul 25' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,-62,240,25,1,3.0,3.0,h
+S2425-G0109,2,00:59.300000,SAS,,HOU,,C. Paul,SAS,Paul REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,2,00:06.100000,SAS,,HOU,,C. Paul,SAS,SUB: Champagnie FOR Paul,Substitution,,0,0,0,0,,,h
+S2425-G0109,3,10:51,SAS,,HOU,,C. Paul,SAS,MISS Paul 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,13,1,1,2.0,0.0,h
+S2425-G0109,3,09:22,SAS,,HOU,,C. Paul,SAS,MISS Paul 21' Jump Shot,Missed Shot,Jump Shot,-6,207,21,1,2.0,0.0,h
+S2425-G0109,3,05:31,SAS,,HOU,,C. Paul,SAS,Paul Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0109,3,05:24,SAS,,HOU,,C. Paul,SAS,SUB: Wesley FOR Paul,Substitution,,0,0,0,0,,,h
+S2425-G0109,4,03:17,SAS,90.0,HOU,94.0,C. Paul,SAS,Paul Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,4,03:17,SAS,91.0,HOU,94.0,C. Paul,SAS,Paul Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,4,00:59.800000,SAS,,HOU,,C. Paul,SAS,Paul P.FOUL (P4.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2425-G0109,4,00:41.100000,SAS,96.0,HOU,101.0,C. Paul,SAS,Paul 26' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,-153,216,26,1,3.0,3.0,h
+S2425-G0109,4,00:41.100000,SAS,97.0,HOU,101.0,C. Paul,SAS,Paul Free Throw Flagrant 1 of 1 (16 PTS),Free Throw,Free Throw Flagrant 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0109,4,00:04.300000,SAS,,HOU,,C. Paul,SAS,MISS Paul 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,153,199,25,1,3.0,0.0,h
+S2425-G0125,1,11:20,OKC,,SAS,,C. Paul,SAS,Paul Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,1,07:17,OKC,,SAS,,C. Paul,SAS,MISS Paul 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,32,24,1,3.0,0.0,v
+S2425-G0125,1,06:50,OKC,,SAS,,C. Paul,SAS,Paul REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,06:49,OKC,,SAS,,C. Paul,SAS,Paul Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,1,05:34,OKC,,SAS,,C. Paul,SAS,Paul Step Out of Bounds Turnover (P3.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0125,1,05:34,OKC,,SAS,,C. Paul,SAS,SUB: Wesley FOR Paul,Substitution,,0,0,0,0,,,v
+S2425-G0125,2,07:50,OKC,,SAS,,C. Paul,SAS,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-94,235,25,1,3.0,0.0,v
+S2425-G0125,2,04:23,OKC,,SAS,,C. Paul,SAS,Paul REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,02:05,OKC,50.0,SAS,37.0,C. Paul,SAS,Paul 25' 3PT Running Jump Shot (3 PTS) (Sochan 2 AST),Made Shot,Running Jump Shot,-229,106,25,1,3.0,3.0,v
+S2425-G0125,2,01:46,OKC,,SAS,,C. Paul,SAS,Paul REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,01:36,OKC,50.0,SAS,40.0,C. Paul,SAS,Paul 26' 3PT Jump Shot (6 PTS) (Wembanyama 2 AST),Made Shot,Jump Shot,-197,168,26,1,3.0,3.0,v
+S2425-G0125,2,00:41.900000,OKC,56.0,SAS,44.0,C. Paul,SAS,Paul 14' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,62,129,14,1,2.0,2.0,v
+S2425-G0125,3,10:42,OKC,,SAS,,C. Paul,SAS,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,3,10:05,OKC,66.0,SAS,48.0,C. Paul,SAS,Paul Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0125,3,09:57,OKC,66.0,SAS,50.0,C. Paul,SAS,Paul 17' Jump Shot (11 PTS) (Sochan 3 AST),Made Shot,Jump Shot,91,138,17,1,2.0,2.0,v
+S2425-G0125,3,09:10,OKC,,SAS,,C. Paul,SAS,Paul S.FOUL (P1.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0125,3,08:28,OKC,71.0,SAS,55.0,C. Paul,SAS,Paul 25' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,130,215,25,1,3.0,3.0,v
+S2425-G0125,3,08:11,OKC,,SAS,,C. Paul,SAS,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0125,3,04:52,OKC,,SAS,,C. Paul,SAS,MISS Paul 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-200,174,27,1,3.0,0.0,v
+S2425-G0125,3,04:45,OKC,,SAS,,C. Paul,SAS,Paul BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0125,3,04:45,OKC,,SAS,,C. Paul,SAS,SUB: Collins FOR Paul,Substitution,,0,0,0,0,,,v
+S2425-G0125,4,04:46,OKC,,SAS,,C. Paul,SAS,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,229,-8,0,1,3.0,0.0,v
+S2425-G0125,4,04:27,OKC,,SAS,,C. Paul,SAS,Paul REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,4,02:46,OKC,,SAS,,C. Paul,SAS,SUB: Mamukelashvili FOR Paul,Substitution,,0,0,0,0,,,v
+S2425-G0094,1,09:31,SAS,,HOU,,C. Paul,SAS,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0094,1,06:03,SAS,21.0,HOU,14.0,C. Paul,SAS,Paul 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,-161,194,25,1,3.0,3.0,h
+S2425-G0094,1,06:03,SAS,,HOU,,C. Paul,SAS,SUB: Wesley FOR Paul,Substitution,,0,0,0,0,,,h
+S2425-G0094,2,10:02,SAS,,HOU,,C. Paul,SAS,Paul Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0094,2,08:47,SAS,,HOU,,C. Paul,SAS,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0094,2,06:57,SAS,,HOU,,C. Paul,SAS,SUB: Castle FOR Paul,Substitution,,0,0,0,0,,,h
+S2425-G0094,3,10:43,SAS,,HOU,,C. Paul,SAS,Paul S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2425-G0094,3,10:16,SAS,,HOU,,C. Paul,SAS,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,6,264,26,1,3.0,0.0,h
+S2425-G0094,3,08:50,SAS,,HOU,,C. Paul,SAS,Paul Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0094,3,06:50,SAS,,HOU,,C. Paul,SAS,Paul Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0094,3,06:35,SAS,,HOU,,C. Paul,SAS,SUB: Johnson FOR Paul,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,08:25,SAS,,HOU,,C. Paul,SAS,Paul S.FOUL (P2.T2) (B.Haskill),Foul,Shooting,0,0,0,0,,,h
+S2425-G0094,4,06:10,SAS,,HOU,,C. Paul,SAS,SUB: Johnson FOR Paul,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,03:20,SAS,,HOU,,C. Paul,SAS,MISS Paul 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,98,4,10,1,2.0,0.0,h

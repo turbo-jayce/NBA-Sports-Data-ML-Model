@@ -1,0 +1,101 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0106,1,09:12,NYK,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-241,92,26,1,3.0,0.0,v
+S2425-G0106,1,06:58,NYK,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,-229,36,0,1,3.0,0.0,v
+S2425-G0106,1,04:52,NYK,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,04:35,NYK,,CLE,,D. Wade,CLE,SUB: Niang FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0106,2,07:43,NYK,,CLE,,D. Wade,CLE,Wade Violation:Kicked Ball (R.Mott),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0106,2,06:47,NYK,,CLE,,D. Wade,CLE,MISS Wade 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,26,0,1,3.0,0.0,v
+S2425-G0106,2,03:29,NYK,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0106,3,07:34,NYK,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,07:06,NYK,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2425-G0106,3,05:32,NYK,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,-225,47,0,1,3.0,0.0,v
+S2425-G0106,3,04:56,NYK,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-123,224,26,1,3.0,0.0,v
+S2425-G0106,3,04:55,NYK,,CLE,,D. Wade,CLE,SUB: Niang FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,07:45,NYK,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,4,03:29,NYK,,CLE,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,01:41,NYK,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,00:40.200000,NYK,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,00:20.300000,NYK,,CLE,,D. Wade,CLE,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0106,4,00:20.300000,NYK,100.0,CLE,106.0,D. Wade,CLE,Wade Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0080,1,10:57,CLE,,DET,,D. Wade,CLE,Wade P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2425-G0080,1,10:07,CLE,6.0,DET,4.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (3 PTS) (Garland 1 AST),Made Shot,Jump Shot,152,207,26,1,3.0,3.0,h
+S2425-G0080,1,08:19,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,1,07:20,CLE,,DET,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,7,24,1,3.0,0.0,h
+S2425-G0080,1,07:13,CLE,,DET,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0080,1,05:28,CLE,20.0,DET,19.0,D. Wade,CLE,Wade 26' 3PT Running Jump Shot (6 PTS) (Merrill 1 AST),Made Shot,Running Jump Shot,-202,165,26,1,3.0,3.0,h
+S2425-G0080,1,04:35,CLE,,DET,,D. Wade,CLE,SUB: Niang FOR Wade,Substitution,,0,0,0,0,,,h
+S2425-G0080,2,07:17,CLE,40.0,DET,38.0,D. Wade,CLE,Wade 3PT Jump Shot (9 PTS) (Jerome 1 AST),Made Shot,Jump Shot,-229,31,0,1,3.0,3.0,h
+S2425-G0080,2,06:58,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,2,03:22,CLE,54.0,DET,51.0,D. Wade,CLE,Wade 1' Cutting Layup Shot (11 PTS) (Jerome 3 AST),Made Shot,Cutting Layup Shot,2,13,1,1,2.0,2.0,h
+S2425-G0080,2,02:19,CLE,,DET,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,h
+S2425-G0080,3,08:12,CLE,,DET,,D. Wade,CLE,Wade STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0080,3,07:51,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,06:39,CLE,,DET,,D. Wade,CLE,MISS Wade 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,-5,0,1,3.0,0.0,h
+S2425-G0080,3,06:24,CLE,77.0,DET,66.0,D. Wade,CLE,Wade 1' Driving Reverse Layup (13 PTS) (Allen 1 AST),Made Shot,Driving Reverse Layup Shot,-4,5,1,1,2.0,2.0,h
+S2425-G0080,3,06:24,CLE,,DET,,D. Wade,CLE,MISS Wade Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0080,3,05:10,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,04:05,CLE,,DET,,D. Wade,CLE,SUB: Niang FOR Wade,Substitution,,0,0,0,0,,,h
+S2425-G0080,4,07:26,CLE,,DET,,D. Wade,CLE,Wade S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0080,4,06:48,CLE,102.0,DET,91.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (16 PTS) (Allen 2 AST),Made Shot,Jump Shot,224,109,25,1,3.0,3.0,h
+S2425-G0080,4,06:17,CLE,105.0,DET,91.0,D. Wade,CLE,Wade 24' 3PT Jump Shot (19 PTS) (Okoro 3 AST),Made Shot,Jump Shot,-234,56,24,1,3.0,3.0,h
+S2425-G0080,4,05:58,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,4,04:39,CLE,,DET,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,11:25,WAS,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2425-G0090,1,10:44,WAS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,1,09:51,WAS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,1,07:58,WAS,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0090,1,06:19,WAS,,CLE,,D. Wade,CLE,Wade S.FOUL (P2.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0090,1,06:19,WAS,,CLE,,D. Wade,CLE,SUB: Niang FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0090,2,09:18,WAS,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,74,24,1,3.0,0.0,v
+S2425-G0090,2,04:42,WAS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,04:39,WAS,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0090,3,11:08,WAS,55.0,CLE,61.0,D. Wade,CLE,Wade 2' Cutting Layup Shot (2 PTS) (Garland 3 AST),Made Shot,Cutting Layup Shot,-20,5,2,1,2.0,2.0,v
+S2425-G0090,3,10:12,WAS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,10:06,WAS,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,32,24,1,3.0,0.0,v
+S2425-G0090,3,08:25,WAS,,CLE,,D. Wade,CLE,MISS Wade 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,225,25,1,3.0,0.0,v
+S2425-G0090,3,07:18,WAS,,CLE,,D. Wade,CLE,Wade P.FOUL (P3.T3) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2425-G0090,3,06:02,WAS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,04:47,WAS,,CLE,,D. Wade,CLE,SUB: Niang FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0067,1,11:22,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,11:10,TOR,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-88,244,26,1,3.0,0.0,v
+S2425-G0067,1,09:59,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,07:49,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,07:05,TOR,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0067,1,06:03,TOR,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0067,1,04:55,TOR,17.0,CLE,17.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (3 PTS) (Garland 3 AST),Made Shot,Jump Shot,237,102,26,1,3.0,3.0,v
+S2425-G0067,1,04:19,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,03:25,TOR,,CLE,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0067,2,07:07,TOR,,CLE,,D. Wade,CLE,Wade P.FOUL (P2.PN) (J.Ralls),Foul,Personal,0,0,0,0,,,v
+S2425-G0067,2,06:48,TOR,,CLE,,D. Wade,CLE,MISS Wade 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,7,38,4,1,2.0,0.0,v
+S2425-G0067,2,03:37,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,2,03:34,TOR,46.0,CLE,57.0,D. Wade,CLE,Wade 1' Running Dunk (5 PTS) (LeVert 3 AST),Made Shot,Running Dunk Shot,0,-8,1,1,2.0,2.0,v
+S2425-G0067,2,03:28,TOR,,CLE,,D. Wade,CLE,Wade STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0067,2,03:05,TOR,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0067,3,09:37,TOR,,CLE,,D. Wade,CLE,Wade P.FOUL (P3.T1) (J.Ralls),Foul,Personal,0,0,0,0,,,v
+S2425-G0067,3,09:09,TOR,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,-229,-13,0,1,3.0,0.0,v
+S2425-G0067,3,08:44,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,3,07:31,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,3,07:19,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,3,06:05,TOR,,CLE,,D. Wade,CLE,SUB: Niang FOR Wade,Substitution,,0,0,0,0,,,v
+S2425-G0118,1,08:02,CLE,14.0,LAL,13.0,D. Wade,CLE,Wade 24' 3PT Jump Shot (3 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,239,9,24,1,3.0,3.0,h
+S2425-G0118,1,07:19,CLE,,LAL,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0118,1,06:27,CLE,23.0,LAL,15.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (6 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,225,105,25,1,3.0,3.0,h
+S2425-G0118,1,04:40,CLE,,LAL,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,1,03:01,CLE,,LAL,,D. Wade,CLE,Wade Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0118,1,03:01,CLE,,LAL,,D. Wade,CLE,SUB: Garland FOR Wade,Substitution,,0,0,0,0,,,h
+S2425-G0118,2,07:07,CLE,,LAL,,D. Wade,CLE,Wade S.FOUL (P1.T4) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,2,05:38,CLE,,LAL,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,232,6,0,1,3.0,0.0,h
+S2425-G0118,2,04:16,CLE,,LAL,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,2,03:22,CLE,,LAL,,D. Wade,CLE,Wade STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0118,2,02:42,CLE,,LAL,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,232,26,0,1,3.0,0.0,h
+S2425-G0118,2,01:28,CLE,,LAL,,D. Wade,CLE,Wade S.FOUL (P2.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,2,01:28,CLE,,LAL,,D. Wade,CLE,SUB: Niang FOR Wade,Substitution,,0,0,0,0,,,h
+S2425-G0118,3,11:33,CLE,,LAL,,D. Wade,CLE,Wade STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0118,3,10:07,CLE,72.0,LAL,51.0,D. Wade,CLE,Wade 1' Driving Dunk (8 PTS) (Garland 4 AST),Made Shot,Driving Dunk Shot,-4,6,1,1,2.0,2.0,h
+S2425-G0118,3,09:50,CLE,,LAL,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,3,08:47,CLE,,LAL,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-12,258,26,1,3.0,0.0,h
+S2425-G0118,3,07:25,CLE,,LAL,,D. Wade,CLE,SUB: Niang FOR Wade,Substitution,,0,0,0,0,,,h
+S2425-G0118,4,10:53,CLE,,LAL,,D. Wade,CLE,MISS Wade Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0118,4,10:53,CLE,,LAL,,D. Wade,CLE,MISS Wade Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0118,4,09:23,CLE,,LAL,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,225,4,0,1,3.0,0.0,h
+S2425-G0118,4,08:11,CLE,,LAL,,D. Wade,CLE,SUB: Niang FOR Wade,Substitution,,0,0,0,0,,,h

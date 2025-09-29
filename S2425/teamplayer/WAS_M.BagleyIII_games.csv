@@ -1,0 +1,47 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0121,2,10:10,WAS,,ATL,,M. Bagley III,WAS,Bagley III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,2,09:35,WAS,38.0,ATL,42.0,M. Bagley III,WAS,Bagley III 5' Driving Hook Shot (2 PTS) (Butler 2 AST),Made Shot,Driving Hook Shot,-44,10,5,1,2.0,2.0,h
+S2425-G0121,2,07:41,WAS,,ATL,,M. Bagley III,WAS,MISS Bagley III 10' Floating Jump Shot,Missed Shot,Floating Jump shot,23,96,10,1,2.0,0.0,h
+S2425-G0121,2,06:29,WAS,,ATL,,M. Bagley III,WAS,SUB: George FOR Bagley III,Substitution,,0,0,0,0,,,h
+S2425-G0073,2,07:50,WAS,,BOS,,M. Bagley III,WAS,Bagley III Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0073,2,06:43,WAS,,BOS,,M. Bagley III,WAS,Bagley III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,2,06:43,WAS,44.0,BOS,47.0,M. Bagley III,WAS,Bagley III 3' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,-23,17,3,1,2.0,2.0,h
+S2425-G0073,2,05:51,WAS,,BOS,,M. Bagley III,WAS,Bagley III REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,2,05:51,WAS,48.0,BOS,49.0,M. Bagley III,WAS,Bagley III Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0073,2,05:30,WAS,,BOS,,M. Bagley III,WAS,Bagley III REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,2,04:42,WAS,,BOS,,M. Bagley III,WAS,MISS Bagley III 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20,63,7,1,2.0,0.0,h
+S2425-G0073,2,04:02,WAS,,BOS,,M. Bagley III,WAS,Bagley III REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,2,04:02,WAS,,BOS,,M. Bagley III,WAS,SUB: Sarr FOR Bagley III,Substitution,,0,0,0,0,,,h
+S2425-G0073,4,07:43,WAS,85.0,BOS,113.0,M. Bagley III,WAS,Bagley III 3' Reverse Dunk (6 PTS) (Baldwin Jr. 1 AST),Made Shot,Reverse Dunk Shot,12,24,3,1,2.0,2.0,h
+S2425-G0073,4,06:57,WAS,,BOS,,M. Bagley III,WAS,Bagley III REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,4,06:28,WAS,87.0,BOS,113.0,M. Bagley III,WAS,Bagley III 2' Alley Oop Dunk (8 PTS) (George 2 AST),Made Shot,Alley Oop Dunk Shot,16,8,2,1,2.0,2.0,h
+S2425-G0073,4,05:47,WAS,,BOS,,M. Bagley III,WAS,MISS Bagley III 27' 3PT Jump Shot,Missed Shot,Jump Shot,157,220,27,1,3.0,0.0,h
+S2425-G0073,4,05:16,WAS,,BOS,,M. Bagley III,WAS,MISS Bagley III 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-29,-2,3,1,2.0,0.0,h
+S2425-G0073,4,03:20,WAS,,BOS,,M. Bagley III,WAS,Bagley III REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,4,03:20,WAS,,BOS,,M. Bagley III,WAS,MISS Bagley III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0073,4,03:20,WAS,,BOS,,M. Bagley III,WAS,MISS Bagley III Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0073,4,03:11,WAS,,BOS,,M. Bagley III,WAS,SUB: Gill FOR Bagley III,Substitution,,0,0,0,0,,,h
+S2425-G0090,4,08:54,WAS,,CLE,,M. Bagley III,WAS,MISS Bagley III 3PT Jump Shot,Missed Shot,Jump Shot,232,2,0,1,3.0,0.0,h
+S2425-G0090,4,08:29,WAS,,CLE,,M. Bagley III,WAS,Bagley III S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,4,07:56,WAS,,CLE,,M. Bagley III,WAS,Bagley III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,4,07:53,WAS,91.0,CLE,114.0,M. Bagley III,WAS,Bagley III Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,4,07:53,WAS,92.0,CLE,114.0,M. Bagley III,WAS,Bagley III Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,4,07:41,WAS,,CLE,,M. Bagley III,WAS,Bagley III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,4,07:31,WAS,,CLE,,M. Bagley III,WAS,Bagley III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,4,07:30,WAS,,CLE,,M. Bagley III,WAS,MISS Bagley III Putback Layup,Missed Shot,Putback Layup Shot,-1,0,0,1,2.0,0.0,h
+S2425-G0090,4,07:28,WAS,,CLE,,M. Bagley III,WAS,Bagley III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,4,07:23,WAS,,CLE,,M. Bagley III,WAS,Bagley III Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0090,4,06:46,WAS,94.0,CLE,116.0,M. Bagley III,WAS,Bagley III 14' Pullup Jump Shot (4 PTS) (Carrington 4 AST),Made Shot,Pullup Jump shot,-5,143,14,1,2.0,2.0,h
+S2425-G0090,4,05:02,WAS,102.0,CLE,122.0,M. Bagley III,WAS,Bagley III 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-2,18,2,1,2.0,2.0,h
+S2425-G0090,4,05:02,WAS,103.0,CLE,122.0,M. Bagley III,WAS,Bagley III Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0090,4,03:45,WAS,107.0,CLE,127.0,M. Bagley III,WAS,Bagley III Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,4,03:45,WAS,108.0,CLE,127.0,M. Bagley III,WAS,Bagley III Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,4,02:52,WAS,,CLE,,M. Bagley III,WAS,MISS Bagley III 29' 3PT Jump Shot,Missed Shot,Jump Shot,134,253,29,1,3.0,0.0,h
+S2425-G0090,4,02:37,WAS,,CLE,,M. Bagley III,WAS,Bagley III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,4,02:22,WAS,,CLE,,M. Bagley III,WAS,Bagley III REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,4,02:21,WAS,,CLE,,M. Bagley III,WAS,Bagley III Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0090,4,01:38,WAS,,CLE,,M. Bagley III,WAS,Bagley III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0103,1,02:55,ATL,,WAS,,M. Bagley III,WAS,Bagley III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,1,01:01,ATL,25.0,WAS,22.0,M. Bagley III,WAS,Bagley III 9' Floating Jump Shot (2 PTS) (Carrington 1 AST),Made Shot,Floating Jump shot,-6,85,9,1,2.0,2.0,v
+S2425-G0103,1,00:49.500000,ATL,,WAS,,M. Bagley III,WAS,Bagley III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,1,00:16.700000,ATL,,WAS,,M. Bagley III,WAS,SUB: Sarr FOR Bagley III,Substitution,,0,0,0,0,,,v

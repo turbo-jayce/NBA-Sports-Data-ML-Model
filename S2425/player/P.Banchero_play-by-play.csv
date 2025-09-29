@@ -1,0 +1,240 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,1,11:36,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,1,11:24,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,95,15,1,2.0,0.0,v
+S2425-G0065,1,10:24,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 1' Running Layup,Missed Shot,Running Layup Shot,5,12,1,1,2.0,0.0,v
+S2425-G0065,1,10:24,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,1,10:19,MIA,1.0,ORL,2.0,P. Banchero,ORL,Banchero 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,17,17,2,1,2.0,2.0,v
+S2425-G0065,1,09:47,MIA,3.0,ORL,4.0,P. Banchero,ORL,Banchero 3' Layup (4 PTS) (Suggs 1 AST),Made Shot,Layup Shot,27,-8,3,1,2.0,2.0,v
+S2425-G0065,1,08:50,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,1,08:48,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 6' Putback Layup,Missed Shot,Putback Layup Shot,27,50,6,1,2.0,0.0,v
+S2425-G0065,1,08:08,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,1,07:56,MIA,,ORL,,P. Banchero,ORL,Banchero STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0065,1,07:25,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,21,24,1,3.0,0.0,v
+S2425-G0065,1,06:30,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,86,162,18,1,2.0,0.0,v
+S2425-G0065,1,04:53,MIA,21.0,ORL,17.0,P. Banchero,ORL,Banchero 26' 3PT Jump Shot (7 PTS) (Anthony 1 AST),Made Shot,Jump Shot,78,243,26,1,3.0,3.0,v
+S2425-G0065,1,04:36,MIA,21.0,ORL,19.0,P. Banchero,ORL,Banchero 1' Running Dunk (9 PTS) (Anthony 2 AST),Made Shot,Running Dunk Shot,-7,13,1,1,2.0,2.0,v
+S2425-G0065,1,02:49,MIA,24.0,ORL,26.0,P. Banchero,ORL,Banchero 2' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,-15,4,2,1,2.0,2.0,v
+S2425-G0065,1,01:56,MIA,,ORL,,P. Banchero,ORL,SUB: Isaac FOR Banchero,Substitution,,0,0,0,0,,,v
+S2425-G0065,2,07:20,MIA,42.0,ORL,39.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0065,2,07:20,MIA,42.0,ORL,40.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0065,2,04:37,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,136,210,25,1,3.0,0.0,v
+S2425-G0065,2,04:23,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,2,04:17,MIA,49.0,ORL,46.0,P. Banchero,ORL,Banchero 7' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,-36,55,7,1,2.0,2.0,v
+S2425-G0065,2,03:16,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,248,25,1,3.0,0.0,v
+S2425-G0065,2,02:25,MIA,,ORL,,P. Banchero,ORL,Banchero S.FOUL (P1.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0065,2,02:06,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 1' Layup,Missed Shot,Layup Shot,10,-3,1,1,2.0,0.0,v
+S2425-G0065,2,02:06,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,2,02:02,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 2' Putback Layup,Missed Shot,Putback Layup Shot,18,12,2,1,2.0,0.0,v
+S2425-G0065,2,01:34,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,16,10,2,1,2.0,0.0,v
+S2425-G0065,2,01:23,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,2,01:15,MIA,54.0,ORL,55.0,P. Banchero,ORL,Banchero 26' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,-136,221,26,1,3.0,3.0,v
+S2425-G0065,2,00:51.300000,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,2,00:39,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,229,53,24,1,3.0,0.0,v
+S2425-G0065,3,11:29,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,3,10:39,MIA,54.0,ORL,61.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0065,3,10:39,MIA,,ORL,,P. Banchero,ORL,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0065,3,10:14,MIA,54.0,ORL,64.0,P. Banchero,ORL,Banchero 25' 3PT Jump Shot (22 PTS) (Suggs 2 AST),Made Shot,Jump Shot,-229,109,25,1,3.0,3.0,v
+S2425-G0065,3,08:31,MIA,,ORL,,P. Banchero,ORL,MISS Banchero 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-33,84,9,1,2.0,0.0,v
+S2425-G0065,3,08:16,MIA,,ORL,,P. Banchero,ORL,Banchero S.FOUL (P2.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0065,3,06:52,MIA,62.0,ORL,76.0,P. Banchero,ORL,Banchero 6' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,2,64,6,1,2.0,2.0,v
+S2425-G0065,3,05:50,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,3,05:47,MIA,62.0,ORL,79.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0065,3,05:47,MIA,62.0,ORL,80.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0065,3,05:13,MIA,62.0,ORL,82.0,P. Banchero,ORL,Banchero 1' Cutting Layup Shot (28 PTS) (F. Wagner 3 AST),Made Shot,Cutting Layup Shot,-11,3,1,1,2.0,2.0,v
+S2425-G0065,3,04:03,MIA,64.0,ORL,87.0,P. Banchero,ORL,Banchero 2' Cutting Dunk Shot (30 PTS) (Carter Jr. 2 AST),Made Shot,Cutting Dunk Shot,16,-11,2,1,2.0,2.0,v
+S2425-G0065,3,02:24,MIA,,ORL,,P. Banchero,ORL,SUB: M. Wagner FOR Banchero,Substitution,,0,0,0,0,,,v
+S2425-G0065,4,06:30,MIA,,ORL,,P. Banchero,ORL,Banchero BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0065,4,06:26,MIA,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0065,4,06:15,MIA,84.0,ORL,116.0,P. Banchero,ORL,Banchero 27' 3PT Jump Shot (33 PTS) (Black 4 AST),Made Shot,Jump Shot,185,195,27,1,3.0,3.0,v
+S2425-G0065,4,05:21,MIA,,ORL,,P. Banchero,ORL,SUB: Joseph FOR Banchero,Substitution,,0,0,0,0,,,v
+S2425-G0123,1,11:15,CHI,,ORL,,P. Banchero,ORL,MISS Banchero 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-16,62,6,1,2.0,0.0,v
+S2425-G0123,1,10:44,CHI,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,1,10:23,CHI,2.0,ORL,5.0,P. Banchero,ORL,Banchero 22' Pullup Jump Shot (2 PTS) (Carter Jr. 1 AST),Made Shot,Pullup Jump shot,-142,172,22,1,2.0,2.0,v
+S2425-G0123,1,09:55,CHI,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,1,09:38,CHI,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,1,09:33,CHI,2.0,ORL,9.0,P. Banchero,ORL,Banchero Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,0,4,0,1,2.0,2.0,v
+S2425-G0123,1,07:28,CHI,,ORL,,P. Banchero,ORL,Banchero S.FOUL (P1.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0123,1,05:51,CHI,9.0,ORL,17.0,P. Banchero,ORL,Banchero 26' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-147,218,26,1,3.0,3.0,v
+S2425-G0123,1,04:47,CHI,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,1,04:45,CHI,9.0,ORL,23.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0123,1,04:45,CHI,9.0,ORL,24.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0123,1,03:38,CHI,12.0,ORL,28.0,P. Banchero,ORL,Banchero 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,10,-3,1,1,2.0,2.0,v
+S2425-G0123,1,03:13,CHI,,ORL,,P. Banchero,ORL,SUB: Isaac FOR Banchero,Substitution,,0,0,0,0,,,v
+S2425-G0123,2,08:29,CHI,31.0,ORL,50.0,P. Banchero,ORL,Banchero 1' Pullup Jump Shot (13 PTS) (F. Wagner 3 AST),Made Shot,Pullup Jump shot,6,10,1,1,2.0,2.0,v
+S2425-G0123,2,06:49,CHI,34.0,ORL,52.0,P. Banchero,ORL,Banchero 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,-10,5,1,1,2.0,2.0,v
+S2425-G0123,2,06:49,CHI,,ORL,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0123,2,05:03,CHI,,ORL,,P. Banchero,ORL,MISS Banchero 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-164,221,28,1,3.0,0.0,v
+S2425-G0123,2,04:54,CHI,,ORL,,P. Banchero,ORL,MISS Banchero 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-81,236,25,1,3.0,0.0,v
+S2425-G0123,2,03:08,CHI,46.0,ORL,57.0,P. Banchero,ORL,Banchero 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,-11,5,1,1,2.0,2.0,v
+S2425-G0123,2,02:47,CHI,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,2,02:36,CHI,46.0,ORL,58.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0123,2,02:36,CHI,46.0,ORL,59.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0123,2,01:04,CHI,,ORL,,P. Banchero,ORL,Banchero Backcourt Turnover (P1.T4),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2425-G0123,2,00:40.100000,CHI,,ORL,,P. Banchero,ORL,MISS Banchero 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-146,220,26,1,3.0,0.0,v
+S2425-G0123,2,00:07.300000,CHI,,ORL,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0123,2,00:07.300000,CHI,52.0,ORL,62.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0123,3,11:28,CHI,52.0,ORL,64.0,P. Banchero,ORL,Banchero 1' Running Layup (22 PTS) (Suggs 3 AST),Made Shot,Running Layup Shot,1,-6,1,1,2.0,2.0,v
+S2425-G0123,3,09:27,CHI,,ORL,,P. Banchero,ORL,MISS Banchero 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-13,27,3,1,2.0,0.0,v
+S2425-G0123,3,07:36,CHI,,ORL,,P. Banchero,ORL,Banchero Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0123,3,02:43,CHI,,ORL,,P. Banchero,ORL,Banchero Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0123,3,02:24,CHI,79.0,ORL,77.0,P. Banchero,ORL,Banchero 1' Running Layup (24 PTS) (Black 5 AST),Made Shot,Running Layup Shot,9,5,1,1,2.0,2.0,v
+S2425-G0123,3,01:55,CHI,81.0,ORL,80.0,P. Banchero,ORL,Banchero 26' 3PT Jump Shot (27 PTS) (Black 6 AST),Made Shot,Jump Shot,-132,219,26,1,3.0,3.0,v
+S2425-G0123,3,01:35,CHI,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,3,01:35,CHI,,ORL,,P. Banchero,ORL,SUB: Isaac FOR Banchero,Substitution,,0,0,0,0,,,v
+S2425-G0123,4,07:09,CHI,,ORL,,P. Banchero,ORL,Banchero S.FOUL (P2.T2) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0123,4,06:57,CHI,,ORL,,P. Banchero,ORL,MISS Banchero 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,92,255,27,1,3.0,0.0,v
+S2425-G0123,4,06:47,CHI,,ORL,,P. Banchero,ORL,MISS Banchero 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-29,260,26,1,3.0,0.0,v
+S2425-G0123,4,06:31,CHI,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0123,4,06:24,CHI,,ORL,,P. Banchero,ORL,MISS Banchero 26' 3PT Jump Shot,Missed Shot,Jump Shot,186,184,26,1,3.0,0.0,v
+S2425-G0123,4,05:44,CHI,,ORL,,P. Banchero,ORL,MISS Banchero 27' 3PT Jump Shot,Missed Shot,Jump Shot,150,229,27,1,3.0,0.0,v
+S2425-G0123,4,03:00,CHI,,ORL,,P. Banchero,ORL,Banchero Out of Bounds - Bad Pass Turnover Turnover (P4.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0123,4,02:27,CHI,95.0,ORL,95.0,P. Banchero,ORL,Banchero 17' Pullup Jump Shot (29 PTS) (Suggs 5 AST),Made Shot,Pullup Jump shot,-1,166,17,1,2.0,2.0,v
+S2425-G0123,4,01:52,CHI,,ORL,,P. Banchero,ORL,MISS Banchero 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,6,43,4,1,2.0,0.0,v
+S2425-G0123,4,00:20.800000,CHI,101.0,ORL,99.0,P. Banchero,ORL,Banchero 1' Driving Layup (31 PTS),Made Shot,Driving Layup Shot,11,6,1,1,2.0,2.0,v
+S2425-G0092,1,10:39,MEM,,ORL,,P. Banchero,ORL,MISS Banchero 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,109,64,13,1,2.0,0.0,v
+S2425-G0092,1,09:09,MEM,8.0,ORL,2.0,P. Banchero,ORL,Banchero 2' Driving Layup (2 PTS) (F. Wagner 1 AST),Made Shot,Driving Layup Shot,-15,7,2,1,2.0,2.0,v
+S2425-G0092,1,08:24,MEM,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0092,1,08:24,MEM,,ORL,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0092,1,08:24,MEM,8.0,ORL,3.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0092,1,06:45,MEM,,ORL,,P. Banchero,ORL,MISS Banchero 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,275,28,1,3.0,0.0,v
+S2425-G0092,1,06:40,MEM,15.0,ORL,9.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0092,1,06:40,MEM,15.0,ORL,10.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0092,1,05:39,MEM,,ORL,,P. Banchero,ORL,Banchero Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0092,1,05:09,MEM,,ORL,,P. Banchero,ORL,MISS Banchero 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,141,214,26,1,3.0,0.0,v
+S2425-G0092,1,05:05,MEM,20.0,ORL,12.0,P. Banchero,ORL,Banchero 2' Cutting Finger Roll Layup Shot (7 PTS) (Carter Jr. 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-18,6,2,1,2.0,2.0,v
+S2425-G0092,1,01:13,MEM,,ORL,,P. Banchero,ORL,Banchero S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2425-G0092,1,00:56.400000,MEM,,ORL,,P. Banchero,ORL,MISS Banchero 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-33,26,4,1,2.0,0.0,v
+S2425-G0092,1,00:04.100000,MEM,34.0,ORL,23.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0092,1,00:04.100000,MEM,34.0,ORL,24.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0092,2,08:25,MEM,,ORL,,P. Banchero,ORL,Banchero AWAY.FROM.PLAY.FOUL (P2.T4) (J.Capers),Foul,Away From Play,0,0,0,0,,,v
+S2425-G0092,2,07:36,MEM,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0092,2,06:02,MEM,,ORL,,P. Banchero,ORL,Banchero Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0092,2,05:30,MEM,,ORL,,P. Banchero,ORL,Banchero Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0092,2,04:57,MEM,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0092,2,04:52,MEM,53.0,ORL,37.0,P. Banchero,ORL,Banchero 3' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,4,33,3,1,2.0,2.0,v
+S2425-G0092,2,04:52,MEM,,ORL,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0092,2,03:31,MEM,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0092,2,03:31,MEM,,ORL,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0092,2,03:31,MEM,,ORL,,P. Banchero,ORL,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0092,3,11:36,MEM,,ORL,,P. Banchero,ORL,MISS Banchero 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,-22,24,1,3.0,0.0,v
+S2425-G0092,3,07:40,MEM,,ORL,,P. Banchero,ORL,Banchero S.FOUL (P3.T3) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2425-G0092,3,07:20,MEM,,ORL,,P. Banchero,ORL,MISS Banchero 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,119,16,1,2.0,0.0,v
+S2425-G0092,3,06:29,MEM,83.0,ORL,57.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0092,3,06:29,MEM,83.0,ORL,58.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0092,3,05:50,MEM,83.0,ORL,61.0,P. Banchero,ORL,Banchero 26' 3PT Step Back Jump Shot (16 PTS) (Carter Jr. 2 AST),Made Shot,Step Back Jump shot,75,248,26,1,3.0,3.0,v
+S2425-G0092,3,05:20,MEM,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0092,3,04:25,MEM,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0092,3,00:59.600000,MEM,,ORL,,P. Banchero,ORL,Banchero STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0092,3,00:57.300000,MEM,,ORL,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0092,3,00:57.300000,MEM,,ORL,,P. Banchero,ORL,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0092,4,08:46,MEM,,ORL,,P. Banchero,ORL,MISS Banchero 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,26,3,1,2.0,0.0,v
+S2425-G0092,4,08:14,MEM,,ORL,,P. Banchero,ORL,Banchero REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0092,4,06:03,MEM,,ORL,,P. Banchero,ORL,MISS Banchero 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,58,95,11,1,2.0,0.0,v
+S2425-G0092,4,04:53,MEM,,ORL,,P. Banchero,ORL,SUB: McClung FOR Banchero,Substitution,,0,0,0,0,,,v
+S2425-G0102,1,11:38,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,1,10:41,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,1,10:32,ORL,5.0,IND,0.0,P. Banchero,ORL,Banchero 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,108,101,15,1,2.0,2.0,h
+S2425-G0102,1,10:08,ORL,7.0,IND,2.0,P. Banchero,ORL,Banchero 5' Driving Floating Jump Shot (4 PTS) (Suggs 1 AST),Made Shot,Driving Floating Jump Shot,-13,52,5,1,2.0,2.0,h
+S2425-G0102,1,09:02,ORL,9.0,IND,4.0,P. Banchero,ORL,Banchero 14' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,5,142,14,1,2.0,2.0,h
+S2425-G0102,1,07:33,ORL,14.0,IND,8.0,P. Banchero,ORL,Banchero 5' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,4,46,5,1,2.0,2.0,h
+S2425-G0102,1,07:33,ORL,15.0,IND,8.0,P. Banchero,ORL,Banchero Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0102,1,07:06,ORL,,IND,,P. Banchero,ORL,MISS Banchero 26' 3PT Jump Shot,Missed Shot,Jump Shot,9,264,26,1,3.0,0.0,h
+S2425-G0102,1,05:26,ORL,,IND,,P. Banchero,ORL,MISS Banchero 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,184,186,26,1,3.0,0.0,h
+S2425-G0102,1,05:23,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,1,05:20,ORL,22.0,IND,16.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,1,05:20,ORL,23.0,IND,16.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,1,04:47,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,1,03:07,ORL,27.0,IND,24.0,P. Banchero,ORL,Banchero 2' Driving Dunk (13 PTS),Made Shot,Driving Dunk Shot,0,15,2,1,2.0,2.0,h
+S2425-G0102,1,01:49,ORL,31.0,IND,29.0,P. Banchero,ORL,Banchero 10' Turnaround Fadeaway (15 PTS),Made Shot,Turnaround Fadeaway shot,-5,104,10,1,2.0,2.0,h
+S2425-G0102,1,01:01,ORL,33.0,IND,31.0,P. Banchero,ORL,Banchero 18' Jump Shot (17 PTS) (Anthony 1 AST),Made Shot,Jump Shot,-137,113,18,1,2.0,2.0,h
+S2425-G0102,1,00:45,ORL,34.0,IND,33.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,1,00:45,ORL,35.0,IND,33.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,1,00:07.300000,ORL,,IND,,P. Banchero,ORL,SUB: F. Wagner FOR Banchero,Substitution,,0,0,0,0,,,h
+S2425-G0102,2,06:24,ORL,,IND,,P. Banchero,ORL,Banchero P.FOUL (P1.T1) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2425-G0102,2,05:33,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,2,05:23,ORL,51.0,IND,46.0,P. Banchero,ORL,Banchero 21' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,-51,206,21,1,2.0,2.0,h
+S2425-G0102,2,05:04,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,2,04:58,ORL,54.0,IND,46.0,P. Banchero,ORL,Banchero 27' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,154,220,27,1,3.0,3.0,h
+S2425-G0102,2,04:39,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,2,04:29,ORL,,IND,,P. Banchero,ORL,MISS Banchero 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,13,125,13,1,2.0,0.0,h
+S2425-G0102,2,04:16,ORL,56.0,IND,48.0,P. Banchero,ORL,Banchero 2' Layup (26 PTS) (Suggs 2 AST),Made Shot,Layup Shot,0,23,2,1,2.0,2.0,h
+S2425-G0102,2,03:22,ORL,59.0,IND,50.0,P. Banchero,ORL,Banchero 28' 3PT Pullup Jump Shot (29 PTS),Made Shot,Pullup Jump shot,113,254,28,1,3.0,3.0,h
+S2425-G0102,2,02:40,ORL,62.0,IND,52.0,P. Banchero,ORL,Banchero 25' 3PT Jump Shot (32 PTS) (Suggs 3 AST),Made Shot,Jump Shot,142,210,25,1,3.0,3.0,h
+S2425-G0102,2,02:04,ORL,,IND,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0102,2,02:04,ORL,63.0,IND,54.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,2,01:56,ORL,,IND,,P. Banchero,ORL,Banchero BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0102,2,01:47,ORL,65.0,IND,54.0,P. Banchero,ORL,Banchero 20' Pullup Jump Shot (35 PTS),Made Shot,Pullup Jump shot,152,130,20,1,2.0,2.0,h
+S2425-G0102,2,01:31,ORL,,IND,,P. Banchero,ORL,Banchero S.FOUL (P2.T2) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2425-G0102,2,01:21,ORL,66.0,IND,55.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,2,01:21,ORL,67.0,IND,55.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,2,00:01,ORL,,IND,,P. Banchero,ORL,MISS Banchero 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-161,217,27,1,3.0,0.0,h
+S2425-G0102,3,11:46,ORL,,IND,,P. Banchero,ORL,MISS Banchero 1' Driving Layup,Missed Shot,Driving Layup Shot,-4,3,1,1,2.0,0.0,h
+S2425-G0102,3,10:50,ORL,,IND,,P. Banchero,ORL,Banchero P.FOUL (P3.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2425-G0102,3,10:39,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,3,09:04,ORL,,IND,,P. Banchero,ORL,MISS Banchero 1' Driving Layup,Missed Shot,Driving Layup Shot,-10,1,1,1,2.0,0.0,h
+S2425-G0102,3,08:56,ORL,,IND,,P. Banchero,ORL,MISS Banchero 27' 3PT Jump Shot,Missed Shot,Jump Shot,16,266,27,1,3.0,0.0,h
+S2425-G0102,3,08:28,ORL,,IND,,P. Banchero,ORL,Banchero P.FOUL (P4.T4) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2425-G0102,3,08:04,ORL,,IND,,P. Banchero,ORL,Banchero Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0102,3,07:45,ORL,,IND,,P. Banchero,ORL,MISS Banchero 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,228,79,24,1,3.0,0.0,h
+S2425-G0102,3,07:45,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,3,07:42,ORL,,IND,,P. Banchero,ORL,Banchero Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0102,3,03:58,ORL,,IND,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0102,3,03:58,ORL,84.0,IND,87.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,3,03:23,ORL,,IND,,P. Banchero,ORL,Banchero BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0102,3,02:56,ORL,,IND,,P. Banchero,ORL,Banchero STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0102,3,02:07,ORL,,IND,,P. Banchero,ORL,Banchero Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0102,3,01:37,ORL,91.0,IND,95.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (39 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,3,01:37,ORL,92.0,IND,95.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (40 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,3,01:08,ORL,,IND,,P. Banchero,ORL,MISS Banchero 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-71,161,18,1,2.0,0.0,h
+S2425-G0102,3,00:35.400000,ORL,,IND,,P. Banchero,ORL,MISS Banchero 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,104,235,26,1,3.0,0.0,h
+S2425-G0102,3,00:30.500000,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,3,00:30.200000,ORL,,IND,,P. Banchero,ORL,Banchero Out of Bounds - Bad Pass Turnover Turnover (P4.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0102,3,00:00.900000,ORL,,IND,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0102,3,00:00.900000,ORL,93.0,IND,98.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (41 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,4,06:56,ORL,100.0,IND,105.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (42 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,4,06:56,ORL,,IND,,P. Banchero,ORL,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0102,4,06:09,ORL,102.0,IND,105.0,P. Banchero,ORL,Banchero 16' Step Back Jump Shot (44 PTS) (Suggs 4 AST),Made Shot,Step Back Jump shot,-56,147,16,1,2.0,2.0,h
+S2425-G0102,4,04:44,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,4,04:36,ORL,109.0,IND,110.0,P. Banchero,ORL,Banchero 1' Driving Finger Roll Layup (46 PTS),Made Shot,Driving Finger Roll Layup Shot,-7,13,1,1,2.0,2.0,h
+S2425-G0102,4,03:20,ORL,111.0,IND,112.0,P. Banchero,ORL,Banchero 1' Floating Jump Shot (48 PTS) (Suggs 6 AST),Made Shot,Floating Jump shot,-5,13,1,1,2.0,2.0,h
+S2425-G0102,4,03:20,ORL,,IND,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0102,4,02:53,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,4,02:41,ORL,,IND,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0102,4,02:41,ORL,112.0,IND,112.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (49 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,4,02:15,ORL,,IND,,P. Banchero,ORL,Banchero REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0102,4,00:10.300000,ORL,119.0,IND,115.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (50 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0102,4,00:10.300000,ORL,,IND,,P. Banchero,ORL,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0077,1,11:15,ORL,,BKN,,P. Banchero,ORL,MISS Banchero 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,109,121,16,1,2.0,0.0,h
+S2425-G0077,1,10:13,ORL,5.0,BKN,2.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0077,1,10:13,ORL,6.0,BKN,2.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0077,1,06:58,ORL,,BKN,,P. Banchero,ORL,Banchero S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2425-G0077,1,06:36,ORL,,BKN,,P. Banchero,ORL,MISS Banchero 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,6,113,11,1,2.0,0.0,h
+S2425-G0077,1,05:53,ORL,,BKN,,P. Banchero,ORL,Banchero BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0077,1,01:45,ORL,,BKN,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0077,1,01:45,ORL,,BKN,,P. Banchero,ORL,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0077,1,01:05,ORL,,BKN,,P. Banchero,ORL,MISS Banchero 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,151,205,25,1,3.0,0.0,h
+S2425-G0077,1,00:58.300000,ORL,,BKN,,P. Banchero,ORL,MISS Banchero 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-20,9,2,1,2.0,0.0,h
+S2425-G0077,1,00:11.700000,ORL,,BKN,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0077,1,00:07,ORL,,BKN,,P. Banchero,ORL,MISS Banchero 4' Running Layup,Missed Shot,Running Layup Shot,-15,36,4,1,2.0,0.0,h
+S2425-G0077,1,00:02.700000,ORL,,BKN,,P. Banchero,ORL,SUB: F. Wagner FOR Banchero,Substitution,,0,0,0,0,,,h
+S2425-G0077,2,05:36,ORL,,BKN,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0077,2,05:36,ORL,,BKN,,P. Banchero,ORL,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0077,2,04:34,ORL,42.0,BKN,31.0,P. Banchero,ORL,Banchero Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0077,2,04:34,ORL,43.0,BKN,31.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0077,2,02:51,ORL,,BKN,,P. Banchero,ORL,Banchero REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0077,2,01:27,ORL,,BKN,,P. Banchero,ORL,MISS Banchero 8' Jump Shot,Missed Shot,Jump Shot,-69,31,8,1,2.0,0.0,h
+S2425-G0077,3,10:39,ORL,,BKN,,P. Banchero,ORL,Banchero S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0077,3,10:22,ORL,52.0,BKN,53.0,P. Banchero,ORL,Banchero 26' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-114,235,26,1,3.0,3.0,h
+S2425-G0077,3,09:13,ORL,,BKN,,P. Banchero,ORL,MISS Banchero 2' Layup,Missed Shot,Layup Shot,21,7,2,1,2.0,0.0,h
+S2425-G0077,3,07:07,ORL,,BKN,,P. Banchero,ORL,Banchero REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0077,3,07:06,ORL,61.0,BKN,58.0,P. Banchero,ORL,Banchero 3' Driving Hook Shot (9 PTS),Made Shot,Driving Hook Shot,-20,22,3,1,2.0,2.0,h
+S2425-G0077,3,05:58,ORL,,BKN,,P. Banchero,ORL,MISS Banchero 3' Driving Layup,Missed Shot,Driving Layup Shot,27,10,3,1,2.0,0.0,h
+S2425-G0077,3,05:36,ORL,63.0,BKN,63.0,P. Banchero,ORL,Banchero 1' Cutting Dunk Shot (11 PTS) (F. Wagner 1 AST),Made Shot,Cutting Dunk Shot,6,6,1,1,2.0,2.0,h
+S2425-G0077,3,04:55,ORL,,BKN,,P. Banchero,ORL,Banchero REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0077,3,03:23,ORL,,BKN,,P. Banchero,ORL,MISS Banchero 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,150,28,15,1,2.0,0.0,h
+S2425-G0077,3,02:57,ORL,72.0,BKN,65.0,P. Banchero,ORL,Banchero 2' Running Layup (13 PTS) (Black 4 AST),Made Shot,Running Layup Shot,13,13,2,1,2.0,2.0,h
+S2425-G0077,3,02:57,ORL,73.0,BKN,65.0,P. Banchero,ORL,Banchero Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0077,4,05:52,ORL,,BKN,,P. Banchero,ORL,Banchero REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0077,4,03:53,ORL,,BKN,,P. Banchero,ORL,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0077,4,03:53,ORL,104.0,BKN,89.0,P. Banchero,ORL,Banchero Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0077,4,00:47.700000,ORL,,BKN,,P. Banchero,ORL,Banchero REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h

@@ -1,0 +1,36 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0079,1,05:31,ATL,,CHA,,J. Green,CHA,Green STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0079,1,03:50,ATL,,CHA,,J. Green,CHA,MISS Green 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,47,122,13,1,2.0,0.0,v
+S2425-G0079,1,02:43,ATL,,CHA,,J. Green,CHA,Green BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0079,2,08:52,ATL,,CHA,,J. Green,CHA,Green S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2425-G0079,2,08:19,ATL,,CHA,,J. Green,CHA,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-153,210,26,1,3.0,0.0,v
+S2425-G0079,2,07:48,ATL,,CHA,,J. Green,CHA,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,124,229,26,1,3.0,0.0,v
+S2425-G0079,2,07:31,ATL,,CHA,,J. Green,CHA,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,2,05:33,ATL,,CHA,,J. Green,CHA,Green P.FOUL (P2.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2425-G0079,2,05:33,ATL,,CHA,,J. Green,CHA,SUB: Martin FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0079,3,05:37,ATL,,CHA,,J. Green,CHA,SUB: Mann FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0079,3,02:47,ATL,82.0,CHA,75.0,J. Green,CHA,Green 1' Driving Reverse Layup (2 PTS) (Williams 5 AST),Made Shot,Driving Reverse Layup Shot,4,8,1,1,2.0,2.0,v
+S2425-G0079,3,02:16,ATL,,CHA,,J. Green,CHA,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,3,01:52,ATL,,CHA,,J. Green,CHA,Green S.FOUL (P3.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0079,3,01:18,ATL,,CHA,,J. Green,CHA,Green REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,3,01:04,ATL,,CHA,,J. Green,CHA,SUB: Ball FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0079,4,11:11,ATL,,CHA,,J. Green,CHA,Green L.B.FOUL (P4.T2) (M.Dagher),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0079,4,10:41,ATL,90.0,CHA,90.0,J. Green,CHA,Green 3PT Jump Shot (5 PTS) (Mann 3 AST),Made Shot,Jump Shot,222,-21,0,1,3.0,3.0,v
+S2425-G0079,4,10:19,ATL,,CHA,,J. Green,CHA,SUB: Micić FOR Green,Substitution,,0,0,0,0,,,v
+S2425-G0117,1,09:41,CHA,7.0,TOR,0.0,J. Green,CHA,Green 3PT Jump Shot (3 PTS) (Ball 2 AST),Made Shot,Jump Shot,-230,17,0,1,3.0,3.0,h
+S2425-G0117,1,08:15,CHA,,TOR,,J. Green,CHA,MISS Green 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,124,35,13,1,2.0,0.0,h
+S2425-G0117,1,07:28,CHA,,TOR,,J. Green,CHA,Green BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0117,1,07:16,CHA,,TOR,,J. Green,CHA,SUB: Mann FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0117,2,11:04,CHA,35.0,TOR,16.0,J. Green,CHA,Green 3PT Jump Shot (6 PTS) (Richards 1 AST),Made Shot,Jump Shot,-228,10,0,1,3.0,3.0,h
+S2425-G0117,2,10:21,CHA,,TOR,,J. Green,CHA,Green BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0117,2,09:18,CHA,,TOR,,J. Green,CHA,Green S.FOUL (P1.T1) (P.O'Connell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0117,2,06:58,CHA,,TOR,,J. Green,CHA,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0117,2,06:54,CHA,54.0,TOR,31.0,J. Green,CHA,Green 25' 3PT Jump Shot (9 PTS) (Curry 1 AST),Made Shot,Jump Shot,72,241,25,1,3.0,3.0,h
+S2425-G0117,2,06:27,CHA,,TOR,,J. Green,CHA,SUB: Salaün FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0117,3,10:42,CHA,,TOR,,J. Green,CHA,MISS Green 3' Driving Layup,Missed Shot,Driving Layup Shot,21,21,3,1,2.0,0.0,h
+S2425-G0117,3,08:36,CHA,,TOR,,J. Green,CHA,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0117,3,06:45,CHA,,TOR,,J. Green,CHA,SUB: Martin FOR Green,Substitution,,0,0,0,0,,,h
+S2425-G0117,4,10:27,CHA,,TOR,,J. Green,CHA,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,225,36,0,1,3.0,0.0,h
+S2425-G0117,4,10:15,CHA,,TOR,,J. Green,CHA,Green P.FOUL (P2.T3) (P.O'Connell),Foul,Personal,0,0,0,0,,,h
+S2425-G0117,4,10:05,CHA,,TOR,,J. Green,CHA,Green S.FOUL (P3.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2425-G0117,4,08:24,CHA,,TOR,,J. Green,CHA,SUB: Curry FOR Green,Substitution,,0,0,0,0,,,h

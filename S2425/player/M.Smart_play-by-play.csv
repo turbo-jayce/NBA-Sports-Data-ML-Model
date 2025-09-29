@@ -1,0 +1,105 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2424-G124,1,06:36,MEM,,BKN,,M. Smart,MEM,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,1,06:28,MEM,,BKN,,M. Smart,MEM,SUB: Bane FOR Smart,Substitution,,0,0,0,0,,,h
+S2424-G124,1,00:11.500000,MEM,,BKN,,M. Smart,MEM,SUB: Pippen Jr. FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0070,1,11:17,UTA,,MEM,,M. Smart,MEM,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,1,08:29,UTA,,MEM,,M. Smart,MEM,MISS Smart 7' Jump Shot,Missed Shot,Jump Shot,28,62,7,1,2.0,0.0,v
+S2425-G0070,1,08:25,UTA,,MEM,,M. Smart,MEM,Smart REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,1,07:06,UTA,,MEM,,M. Smart,MEM,SUB: Clarke FOR Smart,Substitution,,0,0,0,0,,,v
+S2425-G0070,1,00:59.400000,UTA,,MEM,,M. Smart,MEM,Smart P.FOUL (P1.PN) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2425-G0070,1,00:47.200000,UTA,23.0,MEM,26.0,M. Smart,MEM,Smart Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0070,1,00:47.200000,UTA,23.0,MEM,27.0,M. Smart,MEM,Smart Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0070,2,11:33,UTA,,MEM,,M. Smart,MEM,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,96,235,25,1,3.0,0.0,v
+S2425-G0070,2,11:29,UTA,23.0,MEM,32.0,M. Smart,MEM,Smart 27' 3PT Jump Shot (5 PTS) (Huff 1 AST),Made Shot,Jump Shot,-82,254,27,1,3.0,3.0,v
+S2425-G0070,2,10:09,UTA,,MEM,,M. Smart,MEM,MISS Smart 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,22,254,25,1,3.0,0.0,v
+S2425-G0070,2,09:04,UTA,,MEM,,M. Smart,MEM,MISS Smart 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,40,34,5,1,2.0,0.0,v
+S2425-G0070,2,07:18,UTA,,MEM,,M. Smart,MEM,Smart REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,2,06:37,UTA,,MEM,,M. Smart,MEM,Smart Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0070,2,06:35,UTA,,MEM,,M. Smart,MEM,Smart STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0070,2,06:32,UTA,,MEM,,M. Smart,MEM,Smart Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0070,2,06:15,UTA,37.0,MEM,43.0,M. Smart,MEM,Smart 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-32,13,3,1,2.0,2.0,v
+S2425-G0070,2,06:01,UTA,,MEM,,M. Smart,MEM,SUB: Clarke FOR Smart,Substitution,,0,0,0,0,,,v
+S2425-G0070,3,11:14,UTA,,MEM,,M. Smart,MEM,Smart P.FOUL (P2.T1) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2425-G0070,3,10:39,UTA,,MEM,,M. Smart,MEM,Smart REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,3,10:31,UTA,,MEM,,M. Smart,MEM,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,-43,267,27,1,3.0,0.0,v
+S2425-G0070,3,10:03,UTA,,MEM,,M. Smart,MEM,MISS Smart 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-75,27,8,1,2.0,0.0,v
+S2425-G0070,3,06:25,UTA,,MEM,,M. Smart,MEM,SUB: Pippen Jr. FOR Smart,Substitution,,0,0,0,0,,,v
+S2425-G0070,4,10:54,UTA,,MEM,,M. Smart,MEM,Smart REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,4,09:49,UTA,,MEM,,M. Smart,MEM,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,-13,251,25,1,3.0,0.0,v
+S2425-G0070,4,08:41,UTA,,MEM,,M. Smart,MEM,SUB: Bane FOR Smart,Substitution,,0,0,0,0,,,v
+S2425-G0070,4,04:05,UTA,,MEM,,M. Smart,MEM,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,27,24,1,3.0,0.0,v
+S2425-G0070,4,03:51,UTA,112.0,MEM,115.0,M. Smart,MEM,Smart Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0070,4,03:51,UTA,112.0,MEM,116.0,M. Smart,MEM,Smart Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0070,4,01:48,UTA,,MEM,,M. Smart,MEM,Smart P.FOUL (P3.PN) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2425-G0070,4,01:08,UTA,118.0,MEM,122.0,M. Smart,MEM,Smart 2' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,-23,6,2,1,2.0,2.0,v
+S2425-G0070,4,00:33.600000,UTA,,MEM,,M. Smart,MEM,Smart S.FOUL (P4.PN) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2425-G0092,1,10:16,MEM,,ORL,,M. Smart,MEM,Smart BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0092,1,08:31,MEM,,ORL,,M. Smart,MEM,MISS Smart 4' Hook Shot,Missed Shot,Hook Shot,-7,43,4,1,2.0,0.0,h
+S2425-G0092,1,08:18,MEM,,ORL,,M. Smart,MEM,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,-87,234,25,1,3.0,0.0,h
+S2425-G0092,1,07:10,MEM,15.0,ORL,8.0,M. Smart,MEM,Smart 3' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-16,26,3,1,2.0,2.0,h
+S2425-G0092,1,06:40,MEM,,ORL,,M. Smart,MEM,SUB: Bane FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0092,2,10:12,MEM,,ORL,,M. Smart,MEM,MISS Smart 2' Reverse Layup,Missed Shot,Reverse Layup Shot,17,11,2,1,2.0,0.0,h
+S2425-G0092,2,09:56,MEM,,ORL,,M. Smart,MEM,Smart STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0092,2,06:41,MEM,,ORL,,M. Smart,MEM,Smart S.FOUL (P1.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0092,2,06:41,MEM,,ORL,,M. Smart,MEM,SUB: Aldama FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0092,2,00:17.100000,MEM,,ORL,,M. Smart,MEM,Smart STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0092,2,00:01,MEM,69.0,ORL,43.0,M. Smart,MEM,Smart 1' Cutting Layup Shot (4 PTS) (Morant 5 AST),Made Shot,Cutting Layup Shot,9,8,1,1,2.0,2.0,h
+S2425-G0092,3,09:50,MEM,74.0,ORL,48.0,M. Smart,MEM,Smart 18' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,45,179,18,1,2.0,2.0,h
+S2425-G0092,3,08:26,MEM,77.0,ORL,54.0,M. Smart,MEM,Smart 26' 3PT Jump Shot (9 PTS) (Morant 7 AST),Made Shot,Jump Shot,-184,184,26,1,3.0,3.0,h
+S2425-G0092,3,06:37,MEM,,ORL,,M. Smart,MEM,Smart Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0092,3,06:29,MEM,,ORL,,M. Smart,MEM,SUB: Wells FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0092,4,09:47,MEM,,ORL,,M. Smart,MEM,Smart Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0092,4,08:33,MEM,,ORL,,M. Smart,MEM,MISS Smart 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,201,141,25,1,3.0,0.0,h
+S2425-G0092,4,07:36,MEM,,ORL,,M. Smart,MEM,SUB: Bane FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0082,1,09:25,HOU,,MEM,,M. Smart,MEM,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,1,09:17,HOU,,MEM,,M. Smart,MEM,Smart Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0082,1,08:50,HOU,,MEM,,M. Smart,MEM,MISS Smart Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2425-G0082,1,08:50,HOU,11.0,MEM,8.0,M. Smart,MEM,Smart Free Throw 2 of 3 (1 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0082,1,08:50,HOU,11.0,MEM,9.0,M. Smart,MEM,Smart Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0082,1,06:26,HOU,,MEM,,M. Smart,MEM,SUB: Konchar FOR Smart,Substitution,,0,0,0,0,,,v
+S2425-G0082,2,10:10,HOU,,MEM,,M. Smart,MEM,Smart STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0082,2,06:40,HOU,41.0,MEM,53.0,M. Smart,MEM,Smart 27' 3PT Jump Shot (5 PTS) (Bane 2 AST),Made Shot,Jump Shot,125,238,27,1,3.0,3.0,v
+S2425-G0082,2,06:01,HOU,,MEM,,M. Smart,MEM,MISS Smart 6' Driving Layup,Missed Shot,Driving Layup Shot,43,37,6,1,2.0,0.0,v
+S2425-G0082,2,05:23,HOU,,MEM,,M. Smart,MEM,SUB: Konchar FOR Smart,Substitution,,0,0,0,0,,,v
+S2425-G0082,3,10:05,HOU,,MEM,,M. Smart,MEM,MISS Smart 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,98,10,1,2.0,0.0,v
+S2425-G0082,3,09:58,HOU,,MEM,,M. Smart,MEM,SUB: Wells FOR Smart,Substitution,,0,0,0,0,,,v
+S2425-G0082,3,03:46,HOU,,MEM,,M. Smart,MEM,Smart P.FOUL (P1.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2425-G0082,3,01:30,HOU,,MEM,,M. Smart,MEM,MISS Smart 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,40,6,4,1,2.0,0.0,v
+S2425-G0082,3,01:16,HOU,,MEM,,M. Smart,MEM,Smart P.FOUL (P2.PN) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2425-G0082,3,01:12,HOU,91.0,MEM,79.0,M. Smart,MEM,Smart Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0082,3,01:12,HOU,91.0,MEM,80.0,M. Smart,MEM,Smart Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0082,4,10:43,HOU,,MEM,,M. Smart,MEM,Smart S.FOUL (P3.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0082,4,10:27,HOU,,MEM,,M. Smart,MEM,Smart Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0082,4,10:22,HOU,,MEM,,M. Smart,MEM,SUB: Bane FOR Smart,Substitution,,0,0,0,0,,,v
+S2425-G0124,1,06:36,MEM,,BKN,,M. Smart,MEM,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,1,06:28,MEM,,BKN,,M. Smart,MEM,SUB: Bane FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0124,1,00:11.500000,MEM,,BKN,,M. Smart,MEM,SUB: Pippen Jr. FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0108,1,10:36,MEM,,CHI,,M. Smart,MEM,MISS Smart 28' 3PT Jump Shot,Missed Shot,Jump Shot,-110,256,28,1,3.0,0.0,h
+S2425-G0108,1,06:59,MEM,,CHI,,M. Smart,MEM,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,225,6,0,1,3.0,0.0,h
+S2425-G0108,1,06:32,MEM,,CHI,,M. Smart,MEM,Smart BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0108,1,06:32,MEM,,CHI,,M. Smart,MEM,SUB: Bane FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0108,1,00:13.500000,MEM,32.0,CHI,21.0,M. Smart,MEM,Smart Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0108,1,00:13.500000,MEM,,CHI,,M. Smart,MEM,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0108,2,11:12,MEM,,CHI,,M. Smart,MEM,Smart STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0108,2,10:29,MEM,,CHI,,M. Smart,MEM,Smart P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2425-G0108,2,09:42,MEM,,CHI,,M. Smart,MEM,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,112,230,26,1,3.0,0.0,h
+S2425-G0108,2,07:43,MEM,,CHI,,M. Smart,MEM,SUB: Aldama FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0108,3,11:45,MEM,,CHI,,M. Smart,MEM,Smart S.FOUL (P2.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0108,3,10:38,MEM,,CHI,,M. Smart,MEM,MISS Smart 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,33,56,7,1,2.0,0.0,h
+S2425-G0108,3,10:20,MEM,,CHI,,M. Smart,MEM,MISS Smart 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,66,53,8,1,2.0,0.0,h
+S2425-G0108,3,09:19,MEM,,CHI,,M. Smart,MEM,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,08:00,MEM,,CHI,,M. Smart,MEM,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,-225,6,0,1,3.0,0.0,h
+S2425-G0108,3,06:55,MEM,,CHI,,M. Smart,MEM,MISS Smart 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,47,0,1,3.0,0.0,h
+S2425-G0108,3,06:17,MEM,,CHI,,M. Smart,MEM,Smart REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,06:14,MEM,,CHI,,M. Smart,MEM,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,230,-13,0,1,3.0,0.0,h
+S2425-G0108,3,05:55,MEM,,CHI,,M. Smart,MEM,SUB: Aldama FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0108,3,01:27,MEM,,CHI,,M. Smart,MEM,Smart REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,00:52.400000,MEM,,CHI,,M. Smart,MEM,MISS Smart 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,23,74,8,1,2.0,0.0,h
+S2425-G0108,3,00:27.100000,MEM,,CHI,,M. Smart,MEM,Smart BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0108,3,00:24,MEM,,CHI,,M. Smart,MEM,Smart REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,00:24,MEM,,CHI,,M. Smart,MEM,Smart Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0108,4,11:12,MEM,,CHI,,M. Smart,MEM,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,-153,200,25,1,3.0,0.0,h
+S2425-G0108,4,10:03,MEM,,CHI,,M. Smart,MEM,Smart STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0108,4,08:24,MEM,,CHI,,M. Smart,MEM,SUB: Bane FOR Smart,Substitution,,0,0,0,0,,,h
+S2425-G0108,4,02:13,MEM,,CHI,,M. Smart,MEM,MISS Smart 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-224,-12,0,1,3.0,0.0,h
+S2425-G0108,4,00:18.300000,MEM,,CHI,,M. Smart,MEM,Smart P.FOUL (P3.PN) (S.Wright),Foul,Personal,0,0,0,0,,,h

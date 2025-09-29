@@ -1,0 +1,164 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2424-G124,1,11:23,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2424-G124,1,11:17,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2424-G124,1,11:04,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P2.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2424-G124,1,10:51,MEM,,BKN,,D. Finney-Smith,BKN,SUB: Clowney FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2424-G124,1,05:46,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2424-G124,1,04:28,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2424-G124,1,03:52,MEM,,BKN,,D. Finney-Smith,BKN,SUB: Wilson FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2424-G124,2,07:42,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith STEAL (1 STL),,,0,0,0,0,,,v
+S2424-G124,2,07:24,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2424-G124,2,06:18,MEM,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-89,242,26,1,3.0,0.0,v
+S2424-G124,2,04:42,MEM,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,-232,-16,0,1,3.0,0.0,v
+S2424-G124,2,04:31,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith STEAL (2 STL),,,0,0,0,0,,,v
+S2424-G124,2,04:25,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2424-G124,2,03:39,MEM,51.0,BKN,53.0,D. Finney-Smith,BKN,Finney-Smith 5' Driving Layup (2 PTS) (C. Johnson 3 AST),Made Shot,Driving Layup Shot,28,44,5,1,2.0,2.0,v
+S2424-G124,2,00:54.100000,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P3.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2424-G124,2,00:54.100000,MEM,,BKN,,D. Finney-Smith,BKN,SUB: Williams FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2424-G124,3,09:54,MEM,62.0,BKN,75.0,D. Finney-Smith,BKN,Finney-Smith 1' Driving Reverse Layup (4 PTS) (Simmons 2 AST),Made Shot,Driving Reverse Layup Shot,-12,6,1,1,2.0,2.0,v
+S2424-G124,3,07:01,MEM,,BKN,,D. Finney-Smith,BKN,SUB: K. Johnson FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2424-G124,3,00:19.200000,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2424-G124,4,11:38,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2424-G124,4,10:52,MEM,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-124,218,25,1,3.0,0.0,v
+S2424-G124,4,09:38,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P4.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2424-G124,4,09:00,MEM,93.0,BKN,101.0,D. Finney-Smith,BKN,Finney-Smith 26' 3PT Jump Shot (7 PTS) (Schröder 8 AST),Made Shot,Jump Shot,141,213,26,1,3.0,3.0,v
+S2424-G124,4,08:21,MEM,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,12,35,4,1,2.0,0.0,v
+S2424-G124,4,06:56,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2424-G124,4,06:32,MEM,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,42,114,12,1,2.0,0.0,v
+S2424-G124,4,06:32,MEM,,BKN,,D. Finney-Smith,BKN,SUB: C. Johnson FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2424-G124,4,01:07,MEM,,BKN,,D. Finney-Smith,BKN,SUB: Clowney FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0064,1,09:56,ATL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,3,24,1,3.0,0.0,v
+S2425-G0064,1,09:46,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0064,1,08:41,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0064,1,08:37,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,1,08:11,ATL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-206,152,26,1,3.0,0.0,v
+S2425-G0064,1,06:50,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,1,06:04,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,1,05:48,ATL,,BKN,,D. Finney-Smith,BKN,SUB: Clowney FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0064,2,07:35,ATL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 19' Jump Shot,Missed Shot,Jump Shot,-189,-4,19,1,2.0,0.0,v
+S2425-G0064,2,07:32,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,2,07:32,ATL,35.0,BKN,41.0,D. Finney-Smith,BKN,Finney-Smith 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,17,19,3,1,2.0,2.0,v
+S2425-G0064,2,06:27,ATL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,6,46,5,1,2.0,0.0,v
+S2425-G0064,2,04:38,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith OFF.Foul (P2) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2425-G0064,2,04:38,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0064,2,03:59,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,2,02:03,ATL,48.0,BKN,51.0,D. Finney-Smith,BKN,Finney-Smith 3PT Jump Shot (5 PTS) (Thomas 2 AST),Made Shot,Jump Shot,228,24,0,1,3.0,3.0,v
+S2425-G0064,2,01:37,ATL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,0,24,1,3.0,0.0,v
+S2425-G0064,2,01:33,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,2,00:26.300000,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith L.B.FOUL (P3.T4) (A.Nagy),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0064,2,00:08.400000,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0064,2,00:08.400000,ATL,,BKN,,D. Finney-Smith,BKN,SUB: Thomas FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0064,3,09:45,ATL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,189,176,26,1,3.0,0.0,v
+S2425-G0064,3,06:59,ATL,,BKN,,D. Finney-Smith,BKN,SUB: Clowney FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0064,4,10:08,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,4,06:09,ATL,102.0,BKN,95.0,D. Finney-Smith,BKN,Finney-Smith 26' 3PT Running Jump Shot (8 PTS) (Schröder 5 AST),Made Shot,Running Jump Shot,-186,181,26,1,3.0,3.0,v
+S2425-G0064,4,05:27,ATL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,1,24,1,3.0,0.0,v
+S2425-G0064,4,04:12,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0064,4,02:36,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0064,4,02:35,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,4,00:02,ATL,,BKN,,D. Finney-Smith,BKN,Finney-Smith Personal Take Foul (P5.PN) (S.Corbin),Foul,Personal Take,0,0,0,0,,,v
+S2425-G0113,1,11:39,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,1,11:02,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,1,10:42,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-33,248,25,1,3.0,0.0,h
+S2425-G0113,1,08:39,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,1,08:37,BKN,8.0,DEN,9.0,D. Finney-Smith,BKN,Finney-Smith 2' Running Dunk (2 PTS) (Schröder 1 AST),Made Shot,Running Dunk Shot,18,6,2,1,2.0,2.0,h
+S2425-G0113,1,08:37,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0113,1,05:28,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,1,05:22,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-23,257,26,1,3.0,0.0,h
+S2425-G0113,1,04:42,BKN,19.0,DEN,15.0,D. Finney-Smith,BKN,Finney-Smith 2' Cutting Layup Shot (4 PTS) (C. Johnson 2 AST),Made Shot,Cutting Layup Shot,23,1,2,1,2.0,2.0,h
+S2425-G0113,1,04:13,BKN,,DEN,,D. Finney-Smith,BKN,SUB: Claxton FOR Finney-Smith,Substitution,,0,0,0,0,,,h
+S2425-G0113,2,07:14,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,-233,-4,0,1,3.0,0.0,h
+S2425-G0113,2,06:20,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,2,02:59,BKN,59.0,DEN,50.0,D. Finney-Smith,BKN,Finney-Smith Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0113,2,02:59,BKN,60.0,DEN,50.0,D. Finney-Smith,BKN,Finney-Smith Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0113,2,00:02,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0113,3,10:43,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0113,3,10:43,BKN,73.0,DEN,68.0,D. Finney-Smith,BKN,Finney-Smith Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0113,3,09:11,BKN,78.0,DEN,74.0,D. Finney-Smith,BKN,Finney-Smith 2' Running Layup (9 PTS) (Schröder 8 AST),Made Shot,Running Layup Shot,-12,17,2,1,2.0,2.0,h
+S2425-G0113,3,08:56,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,3,08:46,BKN,81.0,DEN,77.0,D. Finney-Smith,BKN,Finney-Smith 3PT Jump Shot (12 PTS) (Schröder 9 AST),Made Shot,Jump Shot,-233,-20,0,1,3.0,3.0,h
+S2425-G0113,3,06:37,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P2.T4) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,3,05:49,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0113,3,04:43,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0113,3,04:43,BKN,89.0,DEN,84.0,D. Finney-Smith,BKN,Finney-Smith Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0113,3,04:18,BKN,,DEN,,D. Finney-Smith,BKN,SUB: Schröder FOR Finney-Smith,Substitution,,0,0,0,0,,,h
+S2425-G0113,4,07:35,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0113,4,07:35,BKN,107.0,DEN,106.0,D. Finney-Smith,BKN,Finney-Smith Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0113,4,07:09,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-64,241,25,1,3.0,0.0,h
+S2425-G0113,4,06:27,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0113,4,03:34,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P3.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,4,00:24.200000,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0113,4,00:24.200000,BKN,125.0,DEN,123.0,D. Finney-Smith,BKN,Finney-Smith Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0113,4,00:00.600000,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,224,6,0,1,3.0,0.0,h
+S2425-G0113,5,00:38.900000,BKN,,DEN,,D. Finney-Smith,BKN,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,228,48,0,1,3.0,0.0,h
+S2425-G0113,5,00:32.500000,BKN,,DEN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P4.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,5,00:00.200000,BKN,139.0,DEN,144.0,D. Finney-Smith,BKN,Finney-Smith 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,-7,3,1,1,2.0,2.0,h
+S2425-G0124,1,11:23,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2425-G0124,1,11:17,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0124,1,11:04,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P2.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0124,1,10:51,MEM,,BKN,,D. Finney-Smith,BKN,SUB: Clowney FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0124,1,05:46,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0124,1,04:28,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0124,1,03:52,MEM,,BKN,,D. Finney-Smith,BKN,SUB: Wilson FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0124,2,07:42,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0124,2,07:24,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0124,2,06:18,MEM,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-89,242,26,1,3.0,0.0,v
+S2425-G0124,2,04:42,MEM,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,-232,-16,0,1,3.0,0.0,v
+S2425-G0124,2,04:31,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0124,2,04:25,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0124,2,03:39,MEM,51.0,BKN,53.0,D. Finney-Smith,BKN,Finney-Smith 5' Driving Layup (2 PTS) (C. Johnson 3 AST),Made Shot,Driving Layup Shot,28,44,5,1,2.0,2.0,v
+S2425-G0124,2,00:54.100000,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P3.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2425-G0124,2,00:54.100000,MEM,,BKN,,D. Finney-Smith,BKN,SUB: Williams FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0124,3,09:54,MEM,62.0,BKN,75.0,D. Finney-Smith,BKN,Finney-Smith 1' Driving Reverse Layup (4 PTS) (Simmons 2 AST),Made Shot,Driving Reverse Layup Shot,-12,6,1,1,2.0,2.0,v
+S2425-G0124,3,07:01,MEM,,BKN,,D. Finney-Smith,BKN,SUB: K. Johnson FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0124,3,00:19.200000,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0124,4,11:38,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0124,4,10:52,MEM,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-124,218,25,1,3.0,0.0,v
+S2425-G0124,4,09:38,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P4.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0124,4,09:00,MEM,93.0,BKN,101.0,D. Finney-Smith,BKN,Finney-Smith 26' 3PT Jump Shot (7 PTS) (Schröder 8 AST),Made Shot,Jump Shot,141,213,26,1,3.0,3.0,v
+S2425-G0124,4,08:21,MEM,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,12,35,4,1,2.0,0.0,v
+S2425-G0124,4,06:56,MEM,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0124,4,06:32,MEM,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,42,114,12,1,2.0,0.0,v
+S2425-G0124,4,06:32,MEM,,BKN,,D. Finney-Smith,BKN,SUB: C. Johnson FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0124,4,01:07,MEM,,BKN,,D. Finney-Smith,BKN,SUB: Clowney FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0098,1,11:32,BKN,,MIL,,D. Finney-Smith,BKN,MISS Finney-Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,135,198,24,1,3.0,0.0,h
+S2425-G0098,1,10:31,BKN,,MIL,,D. Finney-Smith,BKN,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,225,62,0,1,3.0,0.0,h
+S2425-G0098,1,10:17,BKN,,MIL,,D. Finney-Smith,BKN,Finney-Smith STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0098,1,07:21,BKN,,MIL,,D. Finney-Smith,BKN,Finney-Smith P.FOUL (P1.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2425-G0098,1,05:40,BKN,,MIL,,D. Finney-Smith,BKN,SUB: Clowney FOR Finney-Smith,Substitution,,0,0,0,0,,,h
+S2425-G0098,2,07:43,BKN,,MIL,,D. Finney-Smith,BKN,Finney-Smith STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0098,2,07:14,BKN,,MIL,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P2.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0098,2,06:57,BKN,,MIL,,D. Finney-Smith,BKN,MISS Finney-Smith 4' Driving Layup,Missed Shot,Driving Layup Shot,15,41,4,1,2.0,0.0,h
+S2425-G0098,2,06:09,BKN,,MIL,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,2,04:45,BKN,,MIL,,D. Finney-Smith,BKN,MISS Finney-Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,58,241,25,1,3.0,0.0,h
+S2425-G0098,2,04:28,BKN,,MIL,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,2,00:26.800000,BKN,,MIL,,D. Finney-Smith,BKN,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,222,45,0,1,3.0,0.0,h
+S2425-G0098,3,08:25,BKN,61.0,MIL,54.0,D. Finney-Smith,BKN,Finney-Smith 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Simmons 4 AST),Made Shot,Running Pull-Up Jump Shot,127,215,25,1,3.0,3.0,h
+S2425-G0098,3,06:35,BKN,,MIL,,D. Finney-Smith,BKN,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,224,-4,0,1,3.0,0.0,h
+S2425-G0098,3,06:31,BKN,,MIL,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,3,06:11,BKN,,MIL,,D. Finney-Smith,BKN,Finney-Smith P.FOUL (P3.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2425-G0098,3,06:11,BKN,,MIL,,D. Finney-Smith,BKN,SUB: Clowney FOR Finney-Smith,Substitution,,0,0,0,0,,,h
+S2425-G0098,4,04:06,BKN,,MIL,,D. Finney-Smith,BKN,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-137,216,26,1,3.0,0.0,h
+S2425-G0098,4,01:58,BKN,,MIL,,D. Finney-Smith,BKN,SUB: Milton FOR Finney-Smith,Substitution,,0,0,0,0,,,h
+S2425-G0077,1,11:28,ORL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,1,11:27,ORL,2.0,BKN,2.0,D. Finney-Smith,BKN,Finney-Smith Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0077,1,11:05,ORL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,-230,17,0,1,3.0,0.0,v
+S2425-G0077,1,10:38,ORL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,227,44,0,1,3.0,0.0,v
+S2425-G0077,1,09:25,ORL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,1,09:25,ORL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0077,1,07:34,ORL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,1,05:15,ORL,14.0,BKN,14.0,D. Finney-Smith,BKN,Finney-Smith 26' 3PT Jump Shot (5 PTS) (Milton 1 AST),Made Shot,Jump Shot,49,254,26,1,3.0,3.0,v
+S2425-G0077,1,04:25,ORL,,BKN,,D. Finney-Smith,BKN,SUB: Schröder FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0077,2,03:52,ORL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,2,03:52,ORL,43.0,BKN,35.0,D. Finney-Smith,BKN,Finney-Smith Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0077,2,03:13,ORL,,BKN,,D. Finney-Smith,BKN,Finney-Smith STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0077,2,00:00.200000,ORL,,BKN,,D. Finney-Smith,BKN,Finney-Smith Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0077,3,10:50,ORL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,3,09:25,ORL,55.0,BKN,55.0,D. Finney-Smith,BKN,Finney-Smith 2' Driving Reverse Layup (9 PTS) (Thomas 2 AST),Made Shot,Driving Reverse Layup Shot,-22,5,2,1,2.0,2.0,v
+S2425-G0077,3,08:47,ORL,,BKN,,D. Finney-Smith,BKN,Finney-Smith S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0077,3,08:05,ORL,59.0,BKN,58.0,D. Finney-Smith,BKN,Finney-Smith 26' 3PT Jump Shot (12 PTS) (Simmons 2 AST),Made Shot,Jump Shot,-83,250,26,1,3.0,3.0,v
+S2425-G0077,3,06:46,ORL,,BKN,,D. Finney-Smith,BKN,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,80,248,26,1,3.0,0.0,v
+S2425-G0077,3,06:20,ORL,,BKN,,D. Finney-Smith,BKN,SUB: Milton FOR Finney-Smith,Substitution,,0,0,0,0,,,v
+S2425-G0077,4,08:08,ORL,,BKN,,D. Finney-Smith,BKN,Finney-Smith REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,4,02:27,ORL,106.0,BKN,95.0,D. Finney-Smith,BKN,Finney-Smith 25' 3PT Jump Shot (15 PTS) (Schröder 6 AST),Made Shot,Jump Shot,-178,178,25,1,3.0,3.0,v
+S2425-G0077,4,02:04,ORL,,BKN,,D. Finney-Smith,BKN,SUB: Clowney FOR Finney-Smith,Substitution,,0,0,0,0,,,v

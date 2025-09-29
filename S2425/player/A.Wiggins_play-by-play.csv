@@ -1,0 +1,159 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0075,1,01:09,DEN,23.0,OKC,28.0,A. Wiggins,OKC,Wiggins 10' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,36,88,10,1,2.0,2.0,v
+S2425-G0075,2,11:21,DEN,26.0,OKC,33.0,A. Wiggins,OKC,Wiggins 2' Driving Layup (4 PTS) (Caruso 2 AST),Made Shot,Driving Layup Shot,-21,4,2,1,2.0,2.0,v
+S2425-G0075,2,10:36,DEN,,OKC,,A. Wiggins,OKC,Wiggins Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0075,2,08:52,DEN,32.0,OKC,37.0,A. Wiggins,OKC,Wiggins 2' Driving Layup (6 PTS) (Williams 2 AST),Made Shot,Driving Layup Shot,-21,5,2,1,2.0,2.0,v
+S2425-G0075,2,08:27,DEN,,OKC,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,2,08:22,DEN,32.0,OKC,40.0,A. Wiggins,OKC,Wiggins 25' 3PT Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,-87,235,25,1,3.0,3.0,v
+S2425-G0075,2,07:44,DEN,,OKC,,A. Wiggins,OKC,Wiggins P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2425-G0075,2,06:47,DEN,,OKC,,A. Wiggins,OKC,Wiggins BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0075,2,06:31,DEN,34.0,OKC,44.0,A. Wiggins,OKC,Wiggins 12' Pullup Jump Shot (11 PTS) (Holmgren 3 AST),Made Shot,Pullup Jump shot,16,120,12,1,2.0,2.0,v
+S2425-G0075,2,04:45,DEN,,OKC,,A. Wiggins,OKC,SUB: Joe FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0075,3,00:06.300000,DEN,,OKC,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,11:07,DEN,,OKC,,A. Wiggins,OKC,MISS Wiggins 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,39,20,4,1,2.0,0.0,v
+S2425-G0075,4,10:33,DEN,,OKC,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,10:30,DEN,73.0,OKC,87.0,A. Wiggins,OKC,Wiggins 1' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,0,14,1,1,2.0,2.0,v
+S2425-G0075,4,10:14,DEN,,OKC,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,09:37,DEN,,OKC,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,07:52,DEN,,OKC,,A. Wiggins,OKC,Wiggins BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0075,4,06:57,DEN,,OKC,,A. Wiggins,OKC,MISS Wiggins 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,64,24,1,3.0,0.0,v
+S2425-G0075,4,06:33,DEN,78.0,OKC,96.0,A. Wiggins,OKC,Wiggins 2' Running Layup (15 PTS),Made Shot,Running Layup Shot,16,3,2,1,2.0,2.0,v
+S2425-G0075,4,06:08,DEN,,OKC,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,4,04:24,DEN,,OKC,,A. Wiggins,OKC,SUB: Wallace FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0091,1,03:16,CHI,,OKC,,A. Wiggins,OKC,MISS Wiggins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-152,207,26,1,3.0,0.0,v
+S2425-G0091,1,02:52,CHI,,OKC,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,1,02:14,CHI,14.0,OKC,21.0,A. Wiggins,OKC,Wiggins 4' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,38,18,4,1,2.0,2.0,v
+S2425-G0091,1,00:51.200000,CHI,,OKC,,A. Wiggins,OKC,Wiggins P.FOUL (P1.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2425-G0091,1,00:19.100000,CHI,,OKC,,A. Wiggins,OKC,Wiggins S.FOUL (P2.PN) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2425-G0091,2,04:23,CHI,,OKC,,A. Wiggins,OKC,Wiggins S.FOUL (P3.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2425-G0091,2,03:43,CHI,,OKC,,A. Wiggins,OKC,MISS Wiggins 22' Jump Shot,Missed Shot,Jump Shot,12,223,22,1,2.0,0.0,v
+S2425-G0091,2,03:00,CHI,36.0,OKC,48.0,A. Wiggins,OKC,Wiggins Driving Finger Roll Layup (4 PTS) (Wallace 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,0,1,2.0,2.0,v
+S2425-G0091,2,02:46,CHI,,OKC,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,2,01:28,CHI,,OKC,,A. Wiggins,OKC,Wiggins STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0091,2,01:15,CHI,,OKC,,A. Wiggins,OKC,SUB: Holmgren FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0091,3,02:09,CHI,,OKC,,A. Wiggins,OKC,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,02:09,CHI,59.0,OKC,79.0,A. Wiggins,OKC,Wiggins Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0091,3,01:33,CHI,,OKC,,A. Wiggins,OKC,Wiggins S.FOUL (P4.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0091,3,01:02,CHI,62.0,OKC,83.0,A. Wiggins,OKC,Wiggins 2' Running Layup (8 PTS) (Joe 1 AST),Made Shot,Running Layup Shot,-13,21,2,1,2.0,2.0,v
+S2425-G0091,4,06:27,CHI,,OKC,,A. Wiggins,OKC,Wiggins Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0091,4,05:01,CHI,,OKC,,A. Wiggins,OKC,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,-158,197,25,1,3.0,0.0,v
+S2425-G0091,4,03:12,CHI,,OKC,,A. Wiggins,OKC,Wiggins OFF.Foul (P5) (J.Tiven),Foul,Offensive,0,0,0,0,,,v
+S2425-G0091,4,03:12,CHI,,OKC,,A. Wiggins,OKC,Wiggins Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0091,4,03:12,CHI,,OKC,,A. Wiggins,OKC,SUB: Ducas FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0101,1,11:00,GSW,,LAC,,A. Wiggins,GSW,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,189,185,26,1,3.0,0.0,h
+S2425-G0101,1,10:01,GSW,5.0,LAC,7.0,A. Wiggins,GSW,Wiggins 15' Pullup Jump Shot (2 PTS) (Curry 1 AST),Made Shot,Pullup Jump shot,12,150,15,1,2.0,2.0,h
+S2425-G0101,1,10:01,GSW,6.0,LAC,7.0,A. Wiggins,GSW,Wiggins Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0101,1,09:30,GSW,9.0,LAC,7.0,A. Wiggins,GSW,Wiggins 25' 3PT Jump Shot (6 PTS) (Kuminga 1 AST),Made Shot,Jump Shot,-114,218,25,1,3.0,3.0,h
+S2425-G0101,1,08:24,GSW,,LAC,,A. Wiggins,GSW,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,1,07:15,GSW,,LAC,,A. Wiggins,GSW,MISS Wiggins 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-55,58,8,1,2.0,0.0,h
+S2425-G0101,1,06:25,GSW,22.0,LAC,18.0,A. Wiggins,GSW,Wiggins 3PT Jump Shot (9 PTS) (Curry 3 AST),Made Shot,Jump Shot,-223,2,0,1,3.0,3.0,h
+S2425-G0101,1,04:24,GSW,,LAC,,A. Wiggins,GSW,SUB: Podziemski FOR Wiggins,Substitution,,0,0,0,0,,,h
+S2425-G0101,2,06:18,GSW,,LAC,,A. Wiggins,GSW,Wiggins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,2,05:47,GSW,,LAC,,A. Wiggins,GSW,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,17,261,26,1,3.0,0.0,h
+S2425-G0101,2,05:27,GSW,,LAC,,A. Wiggins,GSW,Wiggins S.FOUL (P1.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2425-G0101,2,03:46,GSW,,LAC,,A. Wiggins,GSW,Wiggins S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2425-G0101,2,03:16,GSW,,LAC,,A. Wiggins,GSW,Wiggins Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0101,3,09:49,GSW,58.0,LAC,65.0,A. Wiggins,GSW,Wiggins 8' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,12,78,8,1,2.0,2.0,h
+S2425-G0101,3,09:49,GSW,,LAC,,A. Wiggins,GSW,MISS Wiggins Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0101,3,08:40,GSW,64.0,LAC,69.0,A. Wiggins,GSW,Wiggins 5' Driving Dunk (13 PTS) (Curry 6 AST),Made Shot,Driving Dunk Shot,0,47,5,1,2.0,2.0,h
+S2425-G0101,3,07:17,GSW,67.0,LAC,69.0,A. Wiggins,GSW,Wiggins 25' 3PT Jump Shot (16 PTS) (Green 2 AST),Made Shot,Jump Shot,147,200,25,1,3.0,3.0,h
+S2425-G0101,3,06:46,GSW,,LAC,,A. Wiggins,GSW,Wiggins STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0101,3,04:56,GSW,69.0,LAC,74.0,A. Wiggins,GSW,Wiggins 17' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,173,-3,17,1,2.0,2.0,h
+S2425-G0101,3,04:32,GSW,,LAC,,A. Wiggins,GSW,SUB: Podziemski FOR Wiggins,Substitution,,0,0,0,0,,,h
+S2425-G0101,4,07:16,GSW,87.0,LAC,98.0,A. Wiggins,GSW,Wiggins 6' Driving Floating Bank Jump Shot (20 PTS) (Looney 2 AST),Made Shot,Driving Floating Bank Jump Shot,49,28,6,1,2.0,2.0,h
+S2425-G0101,4,07:16,GSW,88.0,LAC,98.0,A. Wiggins,GSW,Wiggins Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0101,4,06:55,GSW,,LAC,,A. Wiggins,GSW,Wiggins BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0101,4,05:16,GSW,93.0,LAC,101.0,A. Wiggins,GSW,Wiggins 25' 3PT Jump Shot (24 PTS) (Looney 3 AST),Made Shot,Jump Shot,-161,186,25,1,3.0,3.0,h
+S2425-G0101,4,03:47,GSW,100.0,LAC,101.0,A. Wiggins,GSW,Wiggins 25' 3PT Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,-123,223,25,1,3.0,3.0,h
+S2425-G0101,4,02:47,GSW,102.0,LAC,105.0,A. Wiggins,GSW,Wiggins 20' Step Back Jump Shot (29 PTS),Made Shot,Step Back Jump shot,-120,158,20,1,2.0,2.0,h
+S2425-G0101,4,02:06,GSW,,LAC,,A. Wiggins,GSW,MISS Wiggins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-94,246,26,1,3.0,0.0,h
+S2425-G0101,4,01:27,GSW,,LAC,,A. Wiggins,GSW,Wiggins REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,00:32.200000,GSW,,LAC,,A. Wiggins,GSW,SUB: Waters III FOR Wiggins,Substitution,,0,0,0,0,,,h
+S2425-G0072,1,11:28,POR,,GSW,,A. Wiggins,GSW,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,-201,159,26,1,3.0,0.0,v
+S2425-G0072,1,10:24,POR,,GSW,,A. Wiggins,GSW,MISS Wiggins 30' 3PT Jump Shot,Missed Shot,Jump Shot,-143,263,30,1,3.0,0.0,v
+S2425-G0072,1,10:21,POR,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,09:54,POR,,GSW,,A. Wiggins,GSW,MISS Wiggins 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,21,2,1,2.0,0.0,v
+S2425-G0072,1,07:06,POR,,GSW,,A. Wiggins,GSW,MISS Wiggins 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-1,43,4,1,2.0,0.0,v
+S2425-G0072,1,05:34,POR,14.0,GSW,9.0,A. Wiggins,GSW,Wiggins 1' Cutting Dunk Shot (2 PTS) (Curry 2 AST),Made Shot,Cutting Dunk Shot,-4,6,1,1,2.0,2.0,v
+S2425-G0072,1,04:54,POR,,GSW,,A. Wiggins,GSW,SUB: Podziemski FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0072,2,06:17,POR,,GSW,,A. Wiggins,GSW,SUB: Podziemski FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0072,2,02:09,POR,45.0,GSW,54.0,A. Wiggins,GSW,Wiggins 26' 3PT Jump Shot (5 PTS) (Curry 6 AST),Made Shot,Jump Shot,-183,185,26,1,3.0,3.0,v
+S2425-G0072,2,01:42,POR,48.0,GSW,56.0,A. Wiggins,GSW,Wiggins 1' Driving Finger Roll Layup (7 PTS) (Curry 7 AST),Made Shot,Driving Finger Roll Layup Shot,5,11,1,1,2.0,2.0,v
+S2425-G0072,2,01:26,POR,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,00:47.300000,POR,50.0,GSW,61.0,A. Wiggins,GSW,Wiggins 29' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,48,288,29,1,3.0,3.0,v
+S2425-G0072,3,11:17,POR,,GSW,,A. Wiggins,GSW,MISS Wiggins 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-161,206,26,1,3.0,0.0,v
+S2425-G0072,3,10:14,POR,55.0,GSW,68.0,A. Wiggins,GSW,Wiggins 3' Driving Bank Hook Shot (12 PTS) (Curry 8 AST),Made Shot,Driving Bank Hook Shot,-29,16,3,1,2.0,2.0,v
+S2425-G0072,3,08:58,POR,,GSW,,A. Wiggins,GSW,Wiggins OFF.Foul (P1) (D.Collins),Foul,Offensive,0,0,0,0,,,v
+S2425-G0072,3,08:58,POR,,GSW,,A. Wiggins,GSW,Wiggins Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0072,3,08:45,POR,,GSW,,A. Wiggins,GSW,Wiggins S.FOUL (P2.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0072,3,08:20,POR,,GSW,,A. Wiggins,GSW,MISS Wiggins 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,47,201,21,1,2.0,0.0,v
+S2425-G0072,3,08:06,POR,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,06:15,POR,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,06:07,POR,63.0,GSW,80.0,A. Wiggins,GSW,Wiggins 3PT Jump Shot (15 PTS) (Green 2 AST),Made Shot,Jump Shot,-227,-16,0,1,3.0,3.0,v
+S2425-G0072,3,04:57,POR,,GSW,,A. Wiggins,GSW,SUB: Podziemski FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0072,4,08:05,POR,81.0,GSW,109.0,A. Wiggins,GSW,Wiggins 25' 3PT Running Jump Shot (18 PTS) (Melton 4 AST),Made Shot,Running Jump Shot,-227,98,25,1,3.0,3.0,v
+S2425-G0072,4,06:36,POR,,GSW,,A. Wiggins,GSW,MISS Wiggins 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-88,136,16,1,2.0,0.0,v
+S2425-G0072,4,06:10,POR,86.0,GSW,112.0,A. Wiggins,GSW,Wiggins 1' Running Finger Roll Layup (20 PTS) (Anderson 3 AST),Made Shot,Running Finger Roll Layup Shot,11,6,1,1,2.0,2.0,v
+S2425-G0072,4,05:07,POR,,GSW,,A. Wiggins,GSW,SUB: Santos FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,10:44,OKC,,ATL,,A. Wiggins,OKC,Wiggins STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0100,1,09:12,OKC,7.0,ATL,6.0,A. Wiggins,OKC,Wiggins 2' Driving Finger Roll Layup (2 PTS) (Dort 1 AST),Made Shot,Driving Finger Roll Layup Shot,-12,13,2,1,2.0,2.0,h
+S2425-G0100,1,04:40,OKC,16.0,ATL,20.0,A. Wiggins,OKC,Wiggins 26' 3PT Step Back Jump Shot (5 PTS) (Williams 1 AST),Made Shot,Step Back Jump shot,129,222,26,1,3.0,3.0,h
+S2425-G0100,1,03:46,OKC,,ATL,,A. Wiggins,OKC,SUB: Wallace FOR Wiggins,Substitution,,0,0,0,0,,,h
+S2425-G0100,2,04:17,OKC,,ATL,,A. Wiggins,OKC,Wiggins Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0100,2,04:04,OKC,,ATL,,A. Wiggins,OKC,Wiggins S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,2,04:04,OKC,,ATL,,A. Wiggins,OKC,SUB: Gilgeous-Alexander FOR Wiggins,Substitution,,0,0,0,0,,,h
+S2425-G0100,3,11:02,OKC,61.0,ATL,58.0,A. Wiggins,OKC,Wiggins 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,11,13,2,1,2.0,2.0,h
+S2425-G0100,3,05:59,OKC,,ATL,,A. Wiggins,OKC,Wiggins REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,3,05:52,OKC,,ATL,,A. Wiggins,OKC,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,-235,78,25,1,3.0,0.0,h
+S2425-G0100,3,05:11,OKC,78.0,ATL,71.0,A. Wiggins,OKC,Wiggins Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,3,05:11,OKC,79.0,ATL,71.0,A. Wiggins,OKC,Wiggins Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,3,04:24,OKC,,ATL,,A. Wiggins,OKC,SUB: Caruso FOR Wiggins,Substitution,,0,0,0,0,,,h
+S2425-G0084,1,07:22,UTA,,GSW,,A. Wiggins,GSW,MISS Wiggins 3' Running Layup,Missed Shot,Running Layup Shot,-27,18,3,1,2.0,0.0,v
+S2425-G0084,1,07:19,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,07:19,UTA,,GSW,,A. Wiggins,GSW,MISS Wiggins Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0084,1,07:15,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,07:14,UTA,13.0,GSW,6.0,A. Wiggins,GSW,Wiggins 5' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-1,53,5,1,2.0,2.0,v
+S2425-G0084,1,06:15,UTA,,GSW,,A. Wiggins,GSW,MISS Wiggins 4' Hook Shot,Missed Shot,Hook Shot,-25,29,4,1,2.0,0.0,v
+S2425-G0084,1,05:38,UTA,,GSW,,A. Wiggins,GSW,Wiggins S.FOUL (P1.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2425-G0084,1,05:06,UTA,,GSW,,A. Wiggins,GSW,SUB: Podziemski FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0084,2,06:47,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,06:39,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,06:37,UTA,,GSW,,A. Wiggins,GSW,Wiggins Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0084,2,05:46,UTA,,GSW,,A. Wiggins,GSW,MISS Wiggins 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-62,241,25,1,3.0,0.0,v
+S2425-G0084,2,05:24,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,04:24,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,03:59,UTA,,GSW,,A. Wiggins,GSW,MISS Wiggins 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,89,9,1,2.0,0.0,v
+S2425-G0084,2,03:57,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,03:53,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,03:52,UTA,,GSW,,A. Wiggins,GSW,MISS Wiggins 4' Putback Layup,Missed Shot,Putback Layup Shot,-17,39,4,1,2.0,0.0,v
+S2425-G0084,2,03:09,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,02:21,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,01:58,UTA,,GSW,,A. Wiggins,GSW,Wiggins BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0084,2,00:31.400000,UTA,,GSW,,A. Wiggins,GSW,Wiggins BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0084,2,00:07.900000,UTA,,GSW,,A. Wiggins,GSW,Wiggins P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2425-G0084,3,09:14,UTA,45.0,GSW,69.0,A. Wiggins,GSW,Wiggins 26' 3PT Jump Shot (5 PTS) (Curry 3 AST),Made Shot,Jump Shot,-188,173,26,1,3.0,3.0,v
+S2425-G0084,3,08:29,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,07:51,UTA,,GSW,,A. Wiggins,GSW,MISS Wiggins 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,135,26,1,3.0,0.0,v
+S2425-G0084,3,07:39,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,05:49,UTA,,GSW,,A. Wiggins,GSW,Wiggins S.FOUL (P3.T4) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0084,3,05:16,UTA,,GSW,,A. Wiggins,GSW,Wiggins REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,05:02,UTA,55.0,GSW,83.0,A. Wiggins,GSW,Wiggins 26' 3PT Jump Shot (8 PTS) (Hield 4 AST),Made Shot,Jump Shot,-211,159,26,1,3.0,3.0,v
+S2425-G0084,3,04:14,UTA,,GSW,,A. Wiggins,GSW,SUB: Looney FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0084,4,08:22,UTA,,GSW,,A. Wiggins,GSW,Wiggins AWAY.FROM.PLAY.FOUL (P4.T3) (A.Moyer-Gleich),Foul,Away From Play,0,0,0,0,,,v
+S2425-G0084,4,08:08,UTA,76.0,GSW,100.0,A. Wiggins,GSW,Wiggins Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0084,4,08:08,UTA,76.0,GSW,101.0,A. Wiggins,GSW,Wiggins Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0084,4,06:49,UTA,,GSW,,A. Wiggins,GSW,SUB: Waters III FOR Wiggins,Substitution,,0,0,0,0,,,v
+S2425-G0125,1,00:59,OKC,,SAS,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,1,00:22.700000,OKC,,SAS,,A. Wiggins,OKC,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,201,148,25,1,3.0,0.0,h
+S2425-G0125,2,11:05,OKC,,SAS,,A. Wiggins,OKC,MISS Wiggins 7' Jump Shot,Missed Shot,Jump Shot,-7,70,7,1,2.0,0.0,h
+S2425-G0125,2,10:09,OKC,,SAS,,A. Wiggins,OKC,MISS Wiggins 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-6,28,3,1,2.0,0.0,h
+S2425-G0125,2,08:44,OKC,,SAS,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,2,05:17,OKC,47.0,SAS,28.0,A. Wiggins,OKC,Wiggins 1' Running Layup (2 PTS) (Dieng 1 AST),Made Shot,Running Layup Shot,-12,-5,1,1,2.0,2.0,h
+S2425-G0125,2,04:19,OKC,,SAS,,A. Wiggins,OKC,SUB: Dort FOR Wiggins,Substitution,,0,0,0,0,,,h
+S2425-G0125,3,03:01,OKC,,SAS,,A. Wiggins,OKC,MISS Wiggins 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,20,105,11,1,2.0,0.0,h
+S2425-G0125,3,01:38,OKC,,SAS,,A. Wiggins,OKC,Wiggins REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,3,00:01.400000,OKC,,SAS,,A. Wiggins,OKC,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,-230,27,0,1,3.0,0.0,h
+S2425-G0125,4,11:21,OKC,,SAS,,A. Wiggins,OKC,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,233,15,0,1,3.0,0.0,h
+S2425-G0125,4,09:08,OKC,86.0,SAS,75.0,A. Wiggins,OKC,Wiggins 4' Floating Jump Shot (4 PTS) (Holmgren 2 AST),Made Shot,Floating Jump shot,-15,40,4,1,2.0,2.0,h
+S2425-G0125,4,08:33,OKC,,SAS,,A. Wiggins,OKC,Wiggins Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0125,4,08:09,OKC,,SAS,,A. Wiggins,OKC,SUB: Wallace FOR Wiggins,Substitution,,0,0,0,0,,,h

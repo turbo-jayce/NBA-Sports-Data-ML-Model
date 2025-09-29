@@ -1,0 +1,140 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2424-G124,1,05:40,MEM,,BKN,,J. LaRavia,MEM,LaRavia P.FOUL (P1.T2) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2424-G124,1,05:40,MEM,,BKN,,J. LaRavia,MEM,LaRavia Violation:Kicked Ball (B.Forte),Violation,Kicked Ball,0,0,0,0,,,h
+S2424-G124,1,03:53,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,1,02:18,MEM,,BKN,,J. LaRavia,MEM,LaRavia Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2424-G124,1,02:06,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2424-G124,1,02:06,MEM,27.0,BKN,24.0,J. LaRavia,MEM,LaRavia Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2424-G124,1,01:35,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-13,4,1,1,2.0,0.0,h
+S2424-G124,1,01:19,MEM,,BKN,,J. LaRavia,MEM,SUB: Morant FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2424-G124,2,04:39,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,2,04:31,MEM,,BKN,,J. LaRavia,MEM,LaRavia Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2424-G124,2,01:07,MEM,,BKN,,J. LaRavia,MEM,LaRavia P.FOUL (P2.PN) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2424-G124,2,00:08.100000,MEM,,BKN,,J. LaRavia,MEM,LaRavia BLOCK (1 BLK),,,0,0,0,0,,,h
+S2424-G124,3,08:10,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,3,02:54,MEM,,BKN,,J. LaRavia,MEM,SUB: Jackson Jr. FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2424-G124,4,08:41,MEM,95.0,BKN,101.0,J. LaRavia,MEM,LaRavia 3' Driving Finger Roll Layup (3 PTS) (Pippen Jr. 4 AST),Made Shot,Driving Finger Roll Layup Shot,-26,16,3,1,2.0,2.0,h
+S2424-G124,4,08:14,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 3PT Running Jump Shot,Missed Shot,Running Jump Shot,223,46,0,1,3.0,0.0,h
+S2424-G124,4,06:58,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,4,06:57,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-11,20,2,1,2.0,0.0,h
+S2424-G124,4,04:27,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-42,43,6,1,2.0,0.0,h
+S2424-G124,4,04:08,MEM,,BKN,,J. LaRavia,MEM,LaRavia S.FOUL (P3.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2424-G124,4,02:54,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 6' Driving Layup,Missed Shot,Driving Layup Shot,32,55,6,1,2.0,0.0,h
+S2424-G124,4,02:51,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,4,02:51,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2424-G124,4,02:51,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,4,02:48,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2424-G124,4,02:47,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2424-G124,4,02:46,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-13,23,3,1,2.0,0.0,h
+S2424-G124,4,02:31,MEM,,BKN,,J. LaRavia,MEM,SUB: Aldama FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2424-G124,4,01:09,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,-223,112,25,1,3.0,0.0,h
+S2425-G0070,1,00:58.300000,UTA,,MEM,,J. LaRavia,MEM,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0070,2,11:03,UTA,23.0,MEM,34.0,J. LaRavia,MEM,LaRavia 3' Alley Oop Dunk (2 PTS) (Morant 3 AST),Made Shot,Alley Oop Dunk Shot,-32,10,3,1,2.0,2.0,v
+S2425-G0070,2,08:53,UTA,29.0,MEM,39.0,J. LaRavia,MEM,LaRavia 25' 3PT Jump Shot (5 PTS) (Smart 1 AST),Made Shot,Jump Shot,-210,137,25,1,3.0,3.0,v
+S2425-G0070,2,08:18,UTA,,MEM,,J. LaRavia,MEM,LaRavia S.FOUL (P1.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2425-G0070,2,07:58,UTA,,MEM,,J. LaRavia,MEM,MISS LaRavia 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,48,39,6,1,2.0,0.0,v
+S2425-G0070,2,07:40,UTA,,MEM,,J. LaRavia,MEM,LaRavia BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0070,2,06:01,UTA,,MEM,,J. LaRavia,MEM,LaRavia P.FOUL (P2.T4) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2425-G0070,2,06:01,UTA,,MEM,,J. LaRavia,MEM,SUB: Aldama FOR LaRavia,Substitution,,0,0,0,0,,,v
+S2425-G0070,2,00:50.300000,UTA,,MEM,,J. LaRavia,MEM,SUB: Konchar FOR LaRavia,Substitution,,0,0,0,0,,,v
+S2425-G0070,3,00:21,UTA,,MEM,,J. LaRavia,MEM,SUB: Pippen Jr. FOR LaRavia,Substitution,,0,0,0,0,,,v
+S2425-G0070,4,08:54,UTA,,MEM,,J. LaRavia,MEM,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,-163,193,25,1,3.0,0.0,v
+S2425-G0070,4,08:41,UTA,,MEM,,J. LaRavia,MEM,SUB: Wells FOR LaRavia,Substitution,,0,0,0,0,,,v
+S2425-G0092,2,11:43,MEM,,ORL,,J. LaRavia,MEM,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,2,11:40,MEM,,ORL,,J. LaRavia,MEM,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0092,2,11:40,MEM,35.0,ORL,24.0,J. LaRavia,MEM,LaRavia Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0092,2,10:10,MEM,,ORL,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,2,10:10,MEM,41.0,ORL,28.0,J. LaRavia,MEM,LaRavia Putback Layup (3 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0092,2,08:05,MEM,,ORL,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,2,07:54,MEM,,ORL,,J. LaRavia,MEM,LaRavia STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0092,2,06:41,MEM,,ORL,,J. LaRavia,MEM,SUB: Wells FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2425-G0092,3,02:05,MEM,,ORL,,J. LaRavia,MEM,LaRavia Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0092,4,09:39,MEM,,ORL,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,4,08:21,MEM,,ORL,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,4,07:56,MEM,,ORL,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0092,4,03:19,MEM,,ORL,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0082,2,10:41,HOU,,MEM,,J. LaRavia,MEM,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,2,08:48,HOU,,MEM,,J. LaRavia,MEM,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,2,06:21,HOU,,MEM,,J. LaRavia,MEM,LaRavia S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2425-G0082,2,06:21,HOU,,MEM,,J. LaRavia,MEM,SUB: Aldama FOR LaRavia,Substitution,,0,0,0,0,,,v
+S2425-G0082,3,05:32,HOU,,MEM,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,3,05:30,HOU,,MEM,,J. LaRavia,MEM,LaRavia Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0082,3,03:19,HOU,,MEM,,J. LaRavia,MEM,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,3,03:13,HOU,,MEM,,J. LaRavia,MEM,LaRavia REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,3,00:49.700000,HOU,,MEM,,J. LaRavia,MEM,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0082,3,00:49.700000,HOU,94.0,MEM,81.0,J. LaRavia,MEM,LaRavia Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0082,3,00:18.500000,HOU,,MEM,,J. LaRavia,MEM,LaRavia P.FOUL (P2.PN) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2425-G0082,3,00:03.700000,HOU,,MEM,,J. LaRavia,MEM,LaRavia Step Out of Bounds Turnover (P2.T14),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0082,4,10:47,HOU,,MEM,,J. LaRavia,MEM,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,-225,9,0,1,3.0,0.0,v
+S2425-G0082,4,08:36,HOU,,MEM,,J. LaRavia,MEM,LaRavia P.FOUL (P3.T4) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2425-G0082,4,08:36,HOU,,MEM,,J. LaRavia,MEM,SUB: Aldama FOR LaRavia,Substitution,,0,0,0,0,,,v
+S2425-G0082,4,07:02,HOU,,MEM,,J. LaRavia,MEM,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0082,4,07:02,HOU,108.0,MEM,91.0,J. LaRavia,MEM,LaRavia Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0082,4,06:30,HOU,110.0,MEM,93.0,J. LaRavia,MEM,LaRavia 2' Cutting Layup Shot (4 PTS) (Pippen Jr. 4 AST),Made Shot,Cutting Layup Shot,-20,8,2,1,2.0,2.0,v
+S2425-G0082,4,06:24,HOU,,MEM,,J. LaRavia,MEM,LaRavia P.FOUL (P4.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2425-G0082,4,04:24,HOU,120.0,MEM,102.0,J. LaRavia,MEM,LaRavia 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,31,13,3,1,2.0,2.0,v
+S2425-G0082,4,04:24,HOU,,MEM,,J. LaRavia,MEM,MISS LaRavia Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0082,4,03:12,HOU,,MEM,,J. LaRavia,MEM,MISS LaRavia 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-180,199,27,1,3.0,0.0,v
+S2425-G0082,4,02:20,HOU,,MEM,,J. LaRavia,MEM,LaRavia REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0082,4,02:13,HOU,,MEM,,J. LaRavia,MEM,SUB: Huff FOR LaRavia,Substitution,,0,0,0,0,,,v
+S2425-G0124,1,05:40,MEM,,BKN,,J. LaRavia,MEM,LaRavia P.FOUL (P1.T2) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2425-G0124,1,05:40,MEM,,BKN,,J. LaRavia,MEM,LaRavia Violation:Kicked Ball (B.Forte),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0124,1,03:53,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,1,02:18,MEM,,BKN,,J. LaRavia,MEM,LaRavia Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0124,1,02:06,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0124,1,02:06,MEM,27.0,BKN,24.0,J. LaRavia,MEM,LaRavia Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0124,1,01:35,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-13,4,1,1,2.0,0.0,h
+S2425-G0124,1,01:19,MEM,,BKN,,J. LaRavia,MEM,SUB: Morant FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2425-G0124,2,04:39,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,2,04:31,MEM,,BKN,,J. LaRavia,MEM,LaRavia Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0124,2,01:07,MEM,,BKN,,J. LaRavia,MEM,LaRavia P.FOUL (P2.PN) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2425-G0124,2,00:08.100000,MEM,,BKN,,J. LaRavia,MEM,LaRavia BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0124,3,08:10,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,3,02:54,MEM,,BKN,,J. LaRavia,MEM,SUB: Jackson Jr. FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2425-G0124,4,08:41,MEM,95.0,BKN,101.0,J. LaRavia,MEM,LaRavia 3' Driving Finger Roll Layup (3 PTS) (Pippen Jr. 4 AST),Made Shot,Driving Finger Roll Layup Shot,-26,16,3,1,2.0,2.0,h
+S2425-G0124,4,08:14,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 3PT Running Jump Shot,Missed Shot,Running Jump Shot,223,46,0,1,3.0,0.0,h
+S2425-G0124,4,06:58,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,4,06:57,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-11,20,2,1,2.0,0.0,h
+S2425-G0124,4,04:27,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-42,43,6,1,2.0,0.0,h
+S2425-G0124,4,04:08,MEM,,BKN,,J. LaRavia,MEM,LaRavia S.FOUL (P3.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2425-G0124,4,02:54,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 6' Driving Layup,Missed Shot,Driving Layup Shot,32,55,6,1,2.0,0.0,h
+S2425-G0124,4,02:51,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,4,02:51,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0124,4,02:51,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,4,02:48,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0124,4,02:47,MEM,,BKN,,J. LaRavia,MEM,LaRavia REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0124,4,02:46,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-13,23,3,1,2.0,0.0,h
+S2425-G0124,4,02:31,MEM,,BKN,,J. LaRavia,MEM,SUB: Aldama FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2425-G0124,4,01:09,MEM,,BKN,,J. LaRavia,MEM,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,-223,112,25,1,3.0,0.0,h
+S2425-G0108,1,03:59,MEM,,CHI,,J. LaRavia,MEM,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,1,02:36,MEM,,CHI,,J. LaRavia,MEM,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,224,38,0,1,3.0,0.0,h
+S2425-G0108,1,02:32,MEM,,CHI,,J. LaRavia,MEM,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,230,-11,0,1,3.0,0.0,h
+S2425-G0108,1,01:40,MEM,,CHI,,J. LaRavia,MEM,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,1,00:17.700000,MEM,,CHI,,J. LaRavia,MEM,SUB: Jackson Jr. FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2425-G0108,2,09:16,MEM,,CHI,,J. LaRavia,MEM,LaRavia REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,2,08:54,MEM,,CHI,,J. LaRavia,MEM,MISS LaRavia 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-36,41,5,1,2.0,0.0,h
+S2425-G0108,2,08:50,MEM,,CHI,,J. LaRavia,MEM,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,2,08:50,MEM,42.0,CHI,24.0,J. LaRavia,MEM,LaRavia Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0108,2,06:14,MEM,48.0,CHI,30.0,J. LaRavia,MEM,LaRavia 11' Driving Floating Jump Shot (4 PTS) (Wells 1 AST),Made Shot,Driving Floating Jump Shot,-4,111,11,1,2.0,2.0,h
+S2425-G0108,2,06:14,MEM,,CHI,,J. LaRavia,MEM,MISS LaRavia Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0108,2,06:09,MEM,,CHI,,J. LaRavia,MEM,SUB: Wells FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2425-G0108,3,07:33,MEM,,CHI,,J. LaRavia,MEM,LaRavia REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,06:31,MEM,,CHI,,J. LaRavia,MEM,LaRavia REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,05:55,MEM,,CHI,,J. LaRavia,MEM,LaRavia Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0108,3,05:16,MEM,84.0,CHI,73.0,J. LaRavia,MEM,LaRavia 25' 3PT Jump Shot (7 PTS) (Huff 1 AST),Made Shot,Jump Shot,-112,224,25,1,3.0,3.0,h
+S2425-G0108,3,04:55,MEM,,CHI,,J. LaRavia,MEM,LaRavia REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,04:40,MEM,,CHI,,J. LaRavia,MEM,LaRavia REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,3,04:02,MEM,90.0,CHI,76.0,J. LaRavia,MEM,LaRavia 9' Driving Floating Jump Shot (9 PTS) (Pippen Jr. 7 AST),Made Shot,Driving Floating Jump Shot,58,66,9,1,2.0,2.0,h
+S2425-G0108,3,03:44,MEM,92.0,CHI,76.0,J. LaRavia,MEM,LaRavia 1' Running Dunk (11 PTS) (Pippen Jr. 8 AST),Made Shot,Running Dunk Shot,1,9,1,1,2.0,2.0,h
+S2425-G0108,3,03:16,MEM,94.0,CHI,79.0,J. LaRavia,MEM,LaRavia 4' Driving Floating Jump Shot (13 PTS) (Aldama 6 AST),Made Shot,Driving Floating Jump Shot,13,34,4,1,2.0,2.0,h
+S2425-G0108,3,02:45,MEM,95.0,CHI,82.0,J. LaRavia,MEM,LaRavia Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0108,3,02:45,MEM,,CHI,,J. LaRavia,MEM,MISS LaRavia Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0108,3,01:35,MEM,,CHI,,J. LaRavia,MEM,MISS LaRavia 8' Driving Layup,Missed Shot,Driving Layup Shot,-59,51,8,1,2.0,0.0,h
+S2425-G0108,3,01:35,MEM,,CHI,,J. LaRavia,MEM,SUB: Smart FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2425-G0108,4,08:13,MEM,109.0,CHI,103.0,J. LaRavia,MEM,LaRavia Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0108,4,08:13,MEM,,CHI,,J. LaRavia,MEM,MISS LaRavia Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0108,4,05:29,MEM,,CHI,,J. LaRavia,MEM,LaRavia REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0108,4,03:43,MEM,,CHI,,J. LaRavia,MEM,SUB: Smart FOR LaRavia,Substitution,,0,0,0,0,,,h
+S2425-G0108,4,00:12.200000,MEM,123.0,CHI,125.0,J. LaRavia,MEM,LaRavia 1' Cutting Dunk Shot (17 PTS) (Bane 4 AST),Made Shot,Cutting Dunk Shot,-1,5,1,1,2.0,2.0,h
+S2425-G0108,4,00:08.900000,MEM,,CHI,,J. LaRavia,MEM,LaRavia Personal Take Foul (P1.PN) (B.Barnaky),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0108,4,00:08.900000,MEM,,CHI,,J. LaRavia,MEM,SUB: Edey FOR LaRavia,Substitution,,0,0,0,0,,,h

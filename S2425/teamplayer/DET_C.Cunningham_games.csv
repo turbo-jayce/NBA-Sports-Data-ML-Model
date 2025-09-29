@@ -1,0 +1,222 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0080,1,11:32,CLE,0.0,DET,2.0,C. Cunningham,DET,Cunningham 18' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,165,73,18,1,2.0,2.0,v
+S2425-G0080,1,10:46,CLE,3.0,DET,4.0,C. Cunningham,DET,Cunningham 12' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,-45,106,12,1,2.0,2.0,v
+S2425-G0080,1,10:18,CLE,,DET,,C. Cunningham,DET,Cunningham Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0080,1,09:53,CLE,6.0,DET,7.0,C. Cunningham,DET,Cunningham 25' 3PT Jump Shot (7 PTS) (Harris 1 AST),Made Shot,Jump Shot,-56,245,25,1,3.0,3.0,v
+S2425-G0080,1,09:00,CLE,,DET,,C. Cunningham,DET,MISS Cunningham 2' Driving Layup,Missed Shot,Driving Layup Shot,-15,5,2,1,2.0,0.0,v
+S2425-G0080,1,08:50,CLE,,DET,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0080,1,05:34,CLE,,DET,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P3.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0080,1,05:01,CLE,,DET,,C. Cunningham,DET,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,25,255,26,1,3.0,0.0,v
+S2425-G0080,1,04:35,CLE,,DET,,C. Cunningham,DET,Cunningham Out of Bounds - Bad Pass Turnover Turnover (P4.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0080,1,04:03,CLE,24.0,DET,21.0,C. Cunningham,DET,Cunningham 11' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,49,101,11,1,2.0,2.0,v
+S2425-G0080,1,02:27,CLE,,DET,,C. Cunningham,DET,SUB: Holland II FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0080,2,07:25,CLE,,DET,,C. Cunningham,DET,MISS Cunningham 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,115,120,17,1,2.0,0.0,v
+S2425-G0080,2,06:22,CLE,42.0,DET,40.0,C. Cunningham,DET,Cunningham 9' Floating Jump Shot (11 PTS) (Reed 1 AST),Made Shot,Floating Jump shot,94,-2,9,1,2.0,2.0,v
+S2425-G0080,2,06:04,CLE,42.0,DET,42.0,C. Cunningham,DET,Cunningham 11' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,75,82,11,1,2.0,2.0,v
+S2425-G0080,2,06:04,CLE,42.0,DET,43.0,C. Cunningham,DET,Cunningham Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0080,2,05:33,CLE,,DET,,C. Cunningham,DET,MISS Cunningham 2' Driving Layup,Missed Shot,Driving Layup Shot,12,9,2,1,2.0,0.0,v
+S2425-G0080,2,04:33,CLE,48.0,DET,48.0,C. Cunningham,DET,Cunningham 1' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,-5,6,1,1,2.0,2.0,v
+S2425-G0080,2,03:09,CLE,,DET,,C. Cunningham,DET,Cunningham Lost Ball Turnover (P5.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0080,2,01:35,CLE,,DET,,C. Cunningham,DET,Cunningham Lost Ball Turnover (P6.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0080,2,01:07,CLE,,DET,,C. Cunningham,DET,MISS Cunningham 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-103,10,10,1,2.0,0.0,v
+S2425-G0080,2,00:11,CLE,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,2,00:10,CLE,,DET,,C. Cunningham,DET,MISS Cunningham Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0080,2,00:09,CLE,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,2,00:09,CLE,63.0,DET,55.0,C. Cunningham,DET,Cunningham Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0080,3,10:50,CLE,67.0,DET,57.0,C. Cunningham,DET,Cunningham 10' Pullup Jump Shot (20 PTS) (Harris 2 AST),Made Shot,Pullup Jump shot,-92,33,10,1,2.0,2.0,v
+S2425-G0080,3,09:18,CLE,,DET,,C. Cunningham,DET,Cunningham P.FOUL (P1.T2) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0080,3,08:12,CLE,,DET,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P7.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0080,3,07:16,CLE,75.0,DET,66.0,C. Cunningham,DET,Cunningham 14' Turnaround Jump Shot (22 PTS),Made Shot,Turnaround Jump Shot,-61,130,14,1,2.0,2.0,v
+S2425-G0080,3,06:36,CLE,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,3,06:06,CLE,77.0,DET,68.0,C. Cunningham,DET,Cunningham 16' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,59,153,16,1,2.0,2.0,v
+S2425-G0080,3,05:32,CLE,79.0,DET,69.0,C. Cunningham,DET,Cunningham Free Throw Technical (25 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0080,3,05:21,CLE,79.0,DET,70.0,C. Cunningham,DET,Cunningham Free Throw Technical (26 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0080,3,05:12,CLE,,DET,,C. Cunningham,DET,MISS Cunningham 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,104,139,17,1,2.0,0.0,v
+S2425-G0080,3,03:45,CLE,81.0,DET,75.0,C. Cunningham,DET,Cunningham 11' Driving Floating Jump Shot (28 PTS) (Beasley 1 AST),Made Shot,Driving Floating Jump Shot,-80,69,11,1,2.0,2.0,v
+S2425-G0080,3,03:14,CLE,83.0,DET,77.0,C. Cunningham,DET,Cunningham 14' Pullup Jump Shot (30 PTS),Made Shot,Pullup Jump shot,132,37,14,1,2.0,2.0,v
+S2425-G0080,3,02:37,CLE,,DET,,C. Cunningham,DET,MISS Cunningham 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-172,207,27,1,3.0,0.0,v
+S2425-G0080,3,01:38,CLE,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,3,00:08,CLE,,DET,,C. Cunningham,DET,Cunningham S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0080,4,12:00,CLE,,DET,,C. Cunningham,DET,Cunningham T.FOUL (P2.T0) (E.Malloy),Foul,Technical,0,0,0,0,,,v
+S2425-G0080,4,06:00,CLE,,DET,,C. Cunningham,DET,MISS Cunningham 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-147,212,26,1,3.0,0.0,v
+S2425-G0080,4,04:03,CLE,109.0,DET,96.0,C. Cunningham,DET,Cunningham 30' 3PT Jump Shot (33 PTS) (Duren 4 AST),Made Shot,Jump Shot,18,300,30,1,3.0,3.0,v
+S2425-G0080,4,02:31,CLE,,DET,,C. Cunningham,DET,Cunningham Offensive Charge Foul (P3) (D.Taylor),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0080,4,02:31,CLE,,DET,,C. Cunningham,DET,Cunningham Offensive Foul Turnover (P8.T21),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0080,4,02:02,CLE,,DET,,C. Cunningham,DET,MISS Cunningham 30' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,210,211,30,1,3.0,0.0,v
+S2425-G0080,4,01:30,CLE,,DET,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P9.T22),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0080,4,01:27,CLE,,DET,,C. Cunningham,DET,Cunningham Personal Take Foul (P4.T3) (D.Taylor),Foul,Personal Take,0,0,0,0,,,v
+S2425-G0080,4,01:27,CLE,,DET,,C. Cunningham,DET,SUB: Jenkins FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0063,1,10:52,DET,,IND,,C. Cunningham,DET,MISS Cunningham 2' Driving Layup,Missed Shot,Driving Layup Shot,13,13,2,1,2.0,0.0,h
+S2425-G0063,1,10:20,DET,,IND,,C. Cunningham,DET,MISS Cunningham 11' Jump Shot,Missed Shot,Jump Shot,-105,14,11,1,2.0,0.0,h
+S2425-G0063,1,09:46,DET,,IND,,C. Cunningham,DET,Cunningham S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2425-G0063,1,08:19,DET,,IND,,C. Cunningham,DET,MISS Cunningham 25' 3PT Jump Shot,Missed Shot,Jump Shot,-129,209,25,1,3.0,0.0,h
+S2425-G0063,1,07:23,DET,,IND,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,1,06:56,DET,,IND,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0063,1,05:28,DET,13.0,IND,12.0,C. Cunningham,DET,Cunningham Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,1,05:28,DET,14.0,IND,12.0,C. Cunningham,DET,Cunningham Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,1,03:35,DET,,IND,,C. Cunningham,DET,SUB: Holland II FOR Cunningham,Substitution,,0,0,0,0,,,h
+S2425-G0063,1,00:05.100000,DET,,IND,,C. Cunningham,DET,MISS Cunningham 4' Driving Layup,Missed Shot,Driving Layup Shot,23,29,4,1,2.0,0.0,h
+S2425-G0063,2,06:50,DET,,IND,,C. Cunningham,DET,MISS Cunningham 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,4,78,8,1,2.0,0.0,h
+S2425-G0063,2,05:46,DET,,IND,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,2,04:10,DET,48.0,IND,41.0,C. Cunningham,DET,Cunningham 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,16,11,2,1,2.0,2.0,h
+S2425-G0063,2,01:23,DET,55.0,IND,47.0,C. Cunningham,DET,Cunningham Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,2,01:23,DET,56.0,IND,47.0,C. Cunningham,DET,Cunningham Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,2,00:35.200000,DET,,IND,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,2,00:31.200000,DET,,IND,,C. Cunningham,DET,MISS Cunningham 5' Driving Layup,Missed Shot,Driving Layup Shot,12,49,5,1,2.0,0.0,h
+S2425-G0063,2,00:20,DET,,IND,,C. Cunningham,DET,MISS Cunningham 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,43,145,15,1,2.0,0.0,h
+S2425-G0063,3,11:44,DET,,IND,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,3,11:29,DET,,IND,,C. Cunningham,DET,Cunningham S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0063,3,10:19,DET,66.0,IND,55.0,C. Cunningham,DET,Cunningham 11' Pullup Jump Shot (8 PTS) (Duren 3 AST),Made Shot,Pullup Jump shot,-16,106,11,1,2.0,2.0,h
+S2425-G0063,3,09:55,DET,68.0,IND,58.0,C. Cunningham,DET,Cunningham 2' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,15,12,2,1,2.0,2.0,h
+S2425-G0063,3,08:53,DET,70.0,IND,63.0,C. Cunningham,DET,Cunningham 4' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,27,32,4,1,2.0,2.0,h
+S2425-G0063,3,08:22,DET,72.0,IND,65.0,C. Cunningham,DET,Cunningham 14' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,-48,127,14,1,2.0,2.0,h
+S2425-G0063,3,07:53,DET,74.0,IND,65.0,C. Cunningham,DET,Cunningham 8' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,82,21,8,1,2.0,2.0,h
+S2425-G0063,3,05:23,DET,,IND,,C. Cunningham,DET,MISS Cunningham 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,150,209,26,1,3.0,0.0,h
+S2425-G0063,3,04:21,DET,,IND,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0063,3,02:54,DET,77.0,IND,78.0,C. Cunningham,DET,Cunningham 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,11,8,1,1,2.0,2.0,h
+S2425-G0063,3,02:31,DET,80.0,IND,78.0,C. Cunningham,DET,Cunningham 26' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,-97,243,26,1,3.0,3.0,h
+S2425-G0063,3,01:04,DET,,IND,,C. Cunningham,DET,SUB: Beasley FOR Cunningham,Substitution,,0,0,0,0,,,h
+S2425-G0063,3,00:00.800000,DET,90.0,IND,82.0,C. Cunningham,DET,Cunningham 26' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,-153,215,26,1,3.0,3.0,h
+S2425-G0063,4,07:17,DET,100.0,IND,99.0,C. Cunningham,DET,Cunningham 3' Driving Hook Shot (26 PTS),Made Shot,Driving Hook Shot,1,32,3,1,2.0,2.0,h
+S2425-G0063,4,06:43,DET,,IND,,C. Cunningham,DET,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,-22,262,26,1,3.0,0.0,h
+S2425-G0063,4,06:35,DET,,IND,,C. Cunningham,DET,Cunningham STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0063,4,05:50,DET,,IND,,C. Cunningham,DET,MISS Cunningham 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-74,153,17,1,2.0,0.0,h
+S2425-G0063,4,04:56,DET,,IND,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,4,04:36,DET,,IND,,C. Cunningham,DET,MISS Cunningham 7' Driving Layup,Missed Shot,Driving Layup Shot,62,23,7,1,2.0,0.0,h
+S2425-G0063,4,04:06,DET,,IND,,C. Cunningham,DET,MISS Cunningham 4' Driving Layup,Missed Shot,Driving Layup Shot,21,29,4,1,2.0,0.0,h
+S2425-G0063,4,02:17,DET,103.0,IND,108.0,C. Cunningham,DET,Cunningham Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,4,02:17,DET,104.0,IND,108.0,C. Cunningham,DET,Cunningham Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,4,00:16.800000,DET,,IND,,C. Cunningham,DET,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,102,242,26,1,3.0,0.0,h
+S2425-G0120,1,11:20,PHI,,DET,,C. Cunningham,DET,MISS Cunningham 27' 3PT Jump Shot,Missed Shot,Jump Shot,-185,190,27,1,3.0,0.0,v
+S2425-G0120,1,10:17,PHI,,DET,,C. Cunningham,DET,Cunningham P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2425-G0120,1,09:35,PHI,,DET,,C. Cunningham,DET,MISS Cunningham 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-148,-25,15,1,2.0,0.0,v
+S2425-G0120,1,08:56,PHI,,DET,,C. Cunningham,DET,MISS Cunningham 25' 3PT Jump Shot,Missed Shot,Jump Shot,-82,237,25,1,3.0,0.0,v
+S2425-G0120,1,08:10,PHI,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,1,07:54,PHI,,DET,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0120,1,05:58,PHI,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,1,05:54,PHI,13.0,DET,7.0,C. Cunningham,DET,Cunningham Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,1,05:54,PHI,13.0,DET,8.0,C. Cunningham,DET,Cunningham Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,1,04:41,PHI,16.0,DET,12.0,C. Cunningham,DET,Cunningham 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,4,7,1,1,2.0,2.0,v
+S2425-G0120,1,03:12,PHI,,DET,,C. Cunningham,DET,SUB: Holland II FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0120,1,00:27.300000,PHI,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,1,00:05.800000,PHI,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,10:28,PHI,28.0,DET,27.0,C. Cunningham,DET,Cunningham 27' 3PT Pullup Jump Shot (7 PTS) (Stewart 1 AST),Made Shot,Pullup Jump shot,-97,257,27,1,3.0,3.0,v
+S2425-G0120,2,08:51,PHI,28.0,DET,32.0,C. Cunningham,DET,Cunningham 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,22,2,1,2.0,2.0,v
+S2425-G0120,2,08:18,PHI,28.0,DET,35.0,C. Cunningham,DET,Cunningham 27' 3PT Pullup Jump Shot (12 PTS) (Beasley 2 AST),Made Shot,Pullup Jump shot,56,267,27,1,3.0,3.0,v
+S2425-G0120,2,07:06,PHI,,DET,,C. Cunningham,DET,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,49,254,26,1,3.0,0.0,v
+S2425-G0120,2,07:01,PHI,30.0,DET,38.0,C. Cunningham,DET,Cunningham Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,2,07:01,PHI,30.0,DET,39.0,C. Cunningham,DET,Cunningham Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,2,06:51,PHI,,DET,,C. Cunningham,DET,Cunningham S.FOUL (P2.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2425-G0120,2,06:49,PHI,,DET,,C. Cunningham,DET,SUB: Ivey FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0120,2,04:39,PHI,,DET,,C. Cunningham,DET,MISS Cunningham 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-125,-30,13,1,2.0,0.0,v
+S2425-G0120,2,02:01,PHI,42.0,DET,48.0,C. Cunningham,DET,Cunningham 26' 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,12,260,26,1,3.0,3.0,v
+S2425-G0120,2,01:11,PHI,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,00:34.500000,PHI,,DET,,C. Cunningham,DET,MISS Cunningham 4' Driving Layup,Missed Shot,Driving Layup Shot,37,-8,4,1,2.0,0.0,v
+S2425-G0120,2,00:01.600000,PHI,,DET,,C. Cunningham,DET,SUB: Holland II FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0120,3,11:00,PHI,45.0,DET,55.0,C. Cunningham,DET,Cunningham Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,3,11:00,PHI,45.0,DET,56.0,C. Cunningham,DET,Cunningham Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,3,10:30,PHI,,DET,,C. Cunningham,DET,Cunningham Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0120,3,07:47,PHI,54.0,DET,64.0,C. Cunningham,DET,Cunningham 25' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,-83,231,25,1,3.0,3.0,v
+S2425-G0120,3,07:00,PHI,,DET,,C. Cunningham,DET,Cunningham STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0120,3,05:56,PHI,,DET,,C. Cunningham,DET,MISS Cunningham 1' Driving Layup,Missed Shot,Driving Layup Shot,11,0,1,1,2.0,0.0,v
+S2425-G0120,3,04:17,PHI,,DET,,C. Cunningham,DET,SUB: Fontecchio FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0120,4,11:18,PHI,,DET,,C. Cunningham,DET,Cunningham Traveling Turnover (P3.T12),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0120,4,09:44,PHI,,DET,,C. Cunningham,DET,MISS Cunningham 8' Jump Shot,Missed Shot,Jump Shot,29,77,8,1,2.0,0.0,v
+S2425-G0120,4,09:02,PHI,,DET,,C. Cunningham,DET,Cunningham Lost Ball Turnover (P4.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0120,4,08:08,PHI,,DET,,C. Cunningham,DET,Cunningham BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0120,4,07:56,PHI,,DET,,C. Cunningham,DET,MISS Cunningham 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-91,243,26,1,3.0,0.0,v
+S2425-G0120,4,06:30,PHI,,DET,,C. Cunningham,DET,SUB: Beasley FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0120,4,03:17,PHI,,DET,,C. Cunningham,DET,Cunningham Palming Turnover (P5.T16),Turnover,Palming Turnover,0,0,0,0,,,v
+S2425-G0089,1,08:37,DET,,BOS,,C. Cunningham,DET,Cunningham P.FOUL (P1.T2) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2425-G0089,1,08:34,DET,,BOS,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,1,06:32,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 4' Driving Dunk,Missed Shot,Driving Dunk Shot,27,25,4,1,2.0,0.0,h
+S2425-G0089,1,06:24,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,47,111,12,1,2.0,0.0,h
+S2425-G0089,1,05:21,DET,,BOS,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,1,04:42,DET,,BOS,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0089,1,04:41,DET,,BOS,,C. Cunningham,DET,Cunningham BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0089,1,04:28,DET,,BOS,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0089,1,03:47,DET,,BOS,,C. Cunningham,DET,SUB: Holland II FOR Cunningham,Substitution,,0,0,0,0,,,h
+S2425-G0089,2,10:25,DET,35.0,BOS,45.0,C. Cunningham,DET,Cunningham 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-37,10,4,1,2.0,2.0,h
+S2425-G0089,2,09:19,DET,,BOS,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0089,2,08:48,DET,38.0,BOS,53.0,C. Cunningham,DET,Cunningham 26' 3PT Jump Shot (5 PTS) (Ivey 3 AST),Made Shot,Jump Shot,200,168,26,1,3.0,3.0,h
+S2425-G0089,2,07:12,DET,,BOS,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,2,07:05,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-85,256,27,1,3.0,0.0,h
+S2425-G0089,2,04:11,DET,52.0,BOS,67.0,C. Cunningham,DET,Cunningham 24' 3PT Running Jump Shot (8 PTS) (Hardaway Jr. 1 AST),Made Shot,Running Jump Shot,241,23,24,1,3.0,3.0,h
+S2425-G0089,2,03:55,DET,,BOS,,C. Cunningham,DET,Cunningham STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0089,2,03:54,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 4' Running Layup,Missed Shot,Running Layup Shot,-39,4,4,1,2.0,0.0,h
+S2425-G0089,2,02:29,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,18,52,6,1,2.0,0.0,h
+S2425-G0089,2,02:02,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,82,246,26,1,3.0,0.0,h
+S2425-G0089,2,00:09.700000,DET,,BOS,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0089,3,11:12,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,-100,245,26,1,3.0,0.0,h
+S2425-G0089,3,10:31,DET,64.0,BOS,78.0,C. Cunningham,DET,Cunningham 3' Driving Dunk (10 PTS) (Ivey 4 AST),Made Shot,Driving Dunk Shot,-28,13,3,1,2.0,2.0,h
+S2425-G0089,3,09:42,DET,,BOS,,C. Cunningham,DET,Cunningham BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0089,3,09:20,DET,68.0,BOS,79.0,C. Cunningham,DET,Cunningham 3' Driving Layup (12 PTS) (Duren 2 AST),Made Shot,Driving Layup Shot,25,-2,3,1,2.0,2.0,h
+S2425-G0089,3,08:08,DET,72.0,BOS,83.0,C. Cunningham,DET,Cunningham 9' Turnaround Jump Shot (14 PTS),Made Shot,Turnaround Jump Shot,15,88,9,1,2.0,2.0,h
+S2425-G0089,3,06:59,DET,,BOS,,C. Cunningham,DET,Cunningham BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0089,3,06:56,DET,,BOS,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,3,06:55,DET,,BOS,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P5.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0089,3,05:04,DET,,BOS,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,3,04:02,DET,,BOS,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,3,04:02,DET,,BOS,,C. Cunningham,DET,Cunningham Out of Bounds Lost Ball Turnover (P6.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0089,3,03:07,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,37,17,4,1,2.0,0.0,h
+S2425-G0089,3,02:45,DET,,BOS,,C. Cunningham,DET,SUB: Ivey FOR Cunningham,Substitution,,0,0,0,0,,,h
+S2425-G0089,4,11:44,DET,,BOS,,C. Cunningham,DET,Cunningham P.FOUL (P2.T1) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2425-G0089,4,10:49,DET,95.0,BOS,99.0,C. Cunningham,DET,Cunningham 4' Turnaround Hook Shot (16 PTS),Made Shot,Turnaround Hook Shot,-31,31,4,1,2.0,2.0,h
+S2425-G0089,4,09:49,DET,100.0,BOS,101.0,C. Cunningham,DET,Cunningham 16' Step Back Jump Shot (18 PTS) (Stewart 3 AST),Made Shot,Step Back Jump shot,114,116,16,1,2.0,2.0,h
+S2425-G0089,4,08:22,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,-7,26,3,1,2.0,0.0,h
+S2425-G0089,4,06:59,DET,,BOS,,C. Cunningham,DET,SUB: Ivey FOR Cunningham,Substitution,,0,0,0,0,,,h
+S2425-G0089,4,05:32,DET,,BOS,,C. Cunningham,DET,MISS Cunningham Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2425-G0089,4,05:12,DET,112.0,BOS,106.0,C. Cunningham,DET,Cunningham 3' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,-28,0,3,1,2.0,2.0,h
+S2425-G0089,4,04:55,DET,,BOS,,C. Cunningham,DET,Cunningham BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0089,4,04:32,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-99,243,26,1,3.0,0.0,h
+S2425-G0089,4,04:22,DET,,BOS,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P7.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0089,4,02:29,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 28' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-202,198,28,1,3.0,0.0,h
+S2425-G0089,4,00:50.900000,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-4,29,3,1,2.0,0.0,h
+S2425-G0089,4,00:11.100000,DET,118.0,BOS,120.0,C. Cunningham,DET,Cunningham Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0089,4,00:11.100000,DET,,BOS,,C. Cunningham,DET,MISS Cunningham Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0089,4,00:01.400000,DET,,BOS,,C. Cunningham,DET,MISS Cunningham 47' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,164,440,47,1,3.0,0.0,h
+S2425-G0105,1,10:14,MIA,5.0,DET,8.0,C. Cunningham,DET,Cunningham 25' 3PT Jump Shot (3 PTS) (Hardaway Jr. 1 AST),Made Shot,Jump Shot,59,248,25,1,3.0,3.0,v
+S2425-G0105,1,09:14,MIA,,DET,,C. Cunningham,DET,Cunningham P.FOUL (P1.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2425-G0105,1,09:03,MIA,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,08:19,MIA,9.0,DET,12.0,C. Cunningham,DET,Cunningham 1' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,-6,6,1,1,2.0,2.0,v
+S2425-G0105,1,06:39,MIA,15.0,DET,17.0,C. Cunningham,DET,Cunningham 26' 3PT Pullup Jump Shot (8 PTS) (Beasley 1 AST),Made Shot,Pullup Jump shot,116,230,26,1,3.0,3.0,v
+S2425-G0105,1,05:40,MIA,18.0,DET,18.0,C. Cunningham,DET,Cunningham Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0105,1,05:40,MIA,18.0,DET,19.0,C. Cunningham,DET,Cunningham Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0105,1,04:37,MIA,21.0,DET,24.0,C. Cunningham,DET,Cunningham 26' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,77,253,26,1,3.0,3.0,v
+S2425-G0105,1,03:05,MIA,,DET,,C. Cunningham,DET,SUB: Ivey FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0105,2,11:10,MIA,30.0,DET,32.0,C. Cunningham,DET,Cunningham 14' Fadeaway Jumper (15 PTS),Made Shot,Fadeaway Jump Shot,-141,2,14,1,2.0,2.0,v
+S2425-G0105,2,09:39,MIA,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,2,09:21,MIA,,DET,,C. Cunningham,DET,Cunningham Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0105,2,08:13,MIA,,DET,,C. Cunningham,DET,Cunningham S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2425-G0105,2,07:21,MIA,,DET,,C. Cunningham,DET,SUB: Ivey FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0105,2,03:14,MIA,50.0,DET,46.0,C. Cunningham,DET,Cunningham 28' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,-126,246,28,1,3.0,3.0,v
+S2425-G0105,2,02:58,MIA,,DET,,C. Cunningham,DET,Cunningham S.FOUL (P3.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0105,2,02:58,MIA,,DET,,C. Cunningham,DET,SUB: Beasley FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0105,3,10:53,MIA,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,10:46,MIA,66.0,DET,58.0,C. Cunningham,DET,Cunningham 13' Driving Floating Bank Jump Shot (20 PTS),Made Shot,Driving Floating Bank Jump Shot,94,87,13,1,2.0,2.0,v
+S2425-G0105,3,10:22,MIA,,DET,,C. Cunningham,DET,MISS Cunningham 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-200,161,26,1,3.0,0.0,v
+S2425-G0105,3,08:11,MIA,,DET,,C. Cunningham,DET,MISS Cunningham 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-148,220,27,1,3.0,0.0,v
+S2425-G0105,3,07:43,MIA,,DET,,C. Cunningham,DET,MISS Cunningham 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,18,17,2,1,2.0,0.0,v
+S2425-G0105,3,06:19,MIA,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,05:46,MIA,,DET,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0105,3,05:27,MIA,,DET,,C. Cunningham,DET,Cunningham STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0105,3,05:01,MIA,,DET,,C. Cunningham,DET,Cunningham P.FOUL (P4.T3) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2425-G0105,3,05:01,MIA,,DET,,C. Cunningham,DET,SUB: Beasley FOR Cunningham,Substitution,,0,0,0,0,,,v
+S2425-G0105,4,11:33,MIA,,DET,,C. Cunningham,DET,MISS Cunningham 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,135,38,14,1,2.0,0.0,v
+S2425-G0105,4,10:59,MIA,,DET,,C. Cunningham,DET,Cunningham Lost Ball Turnover (P3.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0105,4,10:30,MIA,,DET,,C. Cunningham,DET,MISS Cunningham Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2425-G0105,4,09:21,MIA,,DET,,C. Cunningham,DET,Cunningham BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0105,4,08:34,MIA,,DET,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0105,4,07:54,MIA,90.0,DET,82.0,C. Cunningham,DET,Cunningham 1' Running Finger Roll Layup (22 PTS),Made Shot,Running Finger Roll Layup Shot,-2,5,1,1,2.0,2.0,v
+S2425-G0105,4,07:34,MIA,,DET,,C. Cunningham,DET,Cunningham STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0105,4,07:27,MIA,90.0,DET,84.0,C. Cunningham,DET,Cunningham 1' Running Layup (24 PTS),Made Shot,Running Layup Shot,-1,6,1,1,2.0,2.0,v
+S2425-G0105,4,06:36,MIA,,DET,,C. Cunningham,DET,MISS Cunningham 1' Driving Layup,Missed Shot,Driving Layup Shot,-7,5,1,1,2.0,0.0,v
+S2425-G0105,4,05:55,MIA,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,4,05:50,MIA,,DET,,C. Cunningham,DET,MISS Cunningham 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,58,6,1,2.0,0.0,v
+S2425-G0105,4,03:38,MIA,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,4,03:29,MIA,,DET,,C. Cunningham,DET,MISS Cunningham 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-92,245,26,1,3.0,0.0,v
+S2425-G0105,4,02:09,MIA,,DET,,C. Cunningham,DET,MISS Cunningham 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,29,161,16,1,2.0,0.0,v
+S2425-G0105,4,01:50,MIA,,DET,,C. Cunningham,DET,Cunningham Bad Pass Turnover (P5.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0105,4,01:23,MIA,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,4,01:13,MIA,,DET,,C. Cunningham,DET,MISS Cunningham 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,87,9,1,2.0,0.0,v
+S2425-G0105,4,01:07,MIA,,DET,,C. Cunningham,DET,Cunningham REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v

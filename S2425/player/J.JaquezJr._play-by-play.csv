@@ -1,0 +1,106 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,1,04:13,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. P.FOUL (P1.T2) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0065,1,03:07,MIA,,ORL,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0065,1,03:07,MIA,,ORL,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0065,1,01:31,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. L.B.FOUL (P2.T3) (C.Washington),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0065,1,00:38.700000,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,11:17,MIA,,ORL,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 2' Hook Shot,Missed Shot,Hook Shot,13,14,2,1,2.0,0.0,h
+S2425-G0065,2,11:17,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,11:16,MIA,,ORL,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 3' Putback Layup,Missed Shot,Putback Layup Shot,-1,27,3,1,2.0,0.0,h
+S2425-G0065,2,11:16,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,11:13,MIA,34.0,ORL,32.0,J. Jaquez Jr.,MIA,Jaquez Jr. 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-13,14,2,1,2.0,2.0,h
+S2425-G0065,2,10:13,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,10:03,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. P.FOUL (P3.T1) (J.Butler),Foul,Personal,0,0,0,0,,,h
+S2425-G0065,2,10:03,MIA,,ORL,,J. Jaquez Jr.,MIA,SUB: Herro FOR Jaquez Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0065,3,04:51,MIA,,ORL,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,72,10,7,1,2.0,0.0,h
+S2425-G0065,3,00:56,MIA,70.0,ORL,94.0,J. Jaquez Jr.,MIA,Jaquez Jr. 3PT Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,-229,17,0,1,3.0,3.0,h
+S2425-G0065,3,00:21.900000,MIA,71.0,ORL,97.0,J. Jaquez Jr.,MIA,Jaquez Jr. Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0065,3,00:21.900000,MIA,72.0,ORL,97.0,J. Jaquez Jr.,MIA,Jaquez Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0065,4,11:19,MIA,,ORL,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,15,33,4,1,2.0,0.0,h
+S2425-G0065,4,10:14,MIA,79.0,ORL,99.0,J. Jaquez Jr.,MIA,Jaquez Jr. 27' 3PT Jump Shot (10 PTS) (Rozier 5 AST),Made Shot,Jump Shot,-147,222,27,1,3.0,3.0,h
+S2425-G0065,4,10:14,MIA,80.0,ORL,99.0,J. Jaquez Jr.,MIA,Jaquez Jr. Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0065,4,09:40,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. Offensive Charge Foul (P4) (C.Washington),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0065,4,09:40,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0065,4,08:42,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,4,08:14,MIA,,ORL,,J. Jaquez Jr.,MIA,Jaquez Jr. Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0065,4,07:53,MIA,82.0,ORL,107.0,J. Jaquez Jr.,MIA,Jaquez Jr. 1' Cutting Layup Shot (13 PTS) (Robinson 1 AST),Made Shot,Cutting Layup Shot,9,5,1,1,2.0,2.0,h
+S2425-G0065,4,06:30,MIA,,ORL,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,20,41,5,1,2.0,0.0,h
+S2425-G0065,4,06:15,MIA,,ORL,,J. Jaquez Jr.,MIA,SUB: Ware FOR Jaquez Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0088,1,03:56,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. S.FOUL (P1.T2) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2425-G0088,1,03:19,CHA,15.0,MIA,17.0,J. Jaquez Jr.,MIA,Jaquez Jr. 3PT Jump Shot (3 PTS) (Jović 2 AST),Made Shot,Jump Shot,-227,8,0,1,3.0,3.0,v
+S2425-G0088,1,02:42,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,1,02:42,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0088,1,00:07.200000,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. Traveling Turnover (P2.T6),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0088,1,00:00,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,2,08:48,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0088,2,08:17,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,2,06:44,CHA,,MIA,,J. Jaquez Jr.,MIA,SUB: Jović FOR Jaquez Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0088,3,04:01,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,3,04:00,CHA,,MIA,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 2' Layup,Missed Shot,Layup Shot,4,23,2,1,2.0,0.0,v
+S2425-G0088,3,03:07,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. Traveling Turnover (P3.T11),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0088,3,01:52,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,3,01:47,CHA,66.0,MIA,79.0,J. Jaquez Jr.,MIA,Jaquez Jr. 26' 3PT Jump Shot (6 PTS) (Butler 6 AST),Made Shot,Jump Shot,158,210,26,1,3.0,3.0,v
+S2425-G0088,3,00:51.300000,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0088,3,00:02.300000,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. S.FOUL (P2.PN) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2425-G0088,3,00:00,CHA,,MIA,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,138,17,14,1,2.0,0.0,v
+S2425-G0088,4,09:09,CHA,,MIA,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,4,07:27,CHA,,MIA,,J. Jaquez Jr.,MIA,SUB: Herro FOR Jaquez Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0122,1,04:05,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 8' Jump Shot,Missed Shot,Jump Shot,-27,71,8,1,2.0,0.0,h
+S2425-G0122,1,04:05,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,1,04:05,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0122,1,04:05,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0122,1,03:11,MIA,20.0,NYK,18.0,J. Jaquez Jr.,MIA,Jaquez Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,1,03:11,MIA,21.0,NYK,18.0,J. Jaquez Jr.,MIA,Jaquez Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,1,02:54,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,1,02:48,MIA,23.0,NYK,18.0,J. Jaquez Jr.,MIA,Jaquez Jr. 4' Layup (4 PTS) (Herro 2 AST),Made Shot,Layup Shot,32,31,4,1,2.0,2.0,h
+S2425-G0122,1,01:04,MIA,29.0,NYK,23.0,J. Jaquez Jr.,MIA,Jaquez Jr. 7' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,-5,73,7,1,2.0,2.0,h
+S2425-G0122,2,11:07,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,09:51,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2425-G0122,2,09:29,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,09:29,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0122,2,09:17,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-229,40,0,1,3.0,0.0,h
+S2425-G0122,2,07:32,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 6' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,42,48,6,1,2.0,0.0,h
+S2425-G0122,2,06:24,MIA,,NYK,,J. Jaquez Jr.,MIA,SUB: Rozier FOR Jaquez Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0122,2,02:21,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,00:29.700000,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,00:17.200000,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,25,20,3,1,2.0,0.0,h
+S2425-G0122,2,00:00.200000,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,2,00:00.200000,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0122,2,00:00.200000,MIA,58.0,NYK,52.0,J. Jaquez Jr.,MIA,Jaquez Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,3,03:54,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 5' Layup,Missed Shot,Layup Shot,26,38,5,1,2.0,0.0,h
+S2425-G0122,3,03:45,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,27,46,5,1,2.0,0.0,h
+S2425-G0122,3,03:14,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. L.B.FOUL (P2.T3) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0122,3,02:00,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0122,3,02:00,MIA,78.0,NYK,82.0,J. Jaquez Jr.,MIA,Jaquez Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0122,3,00:31.900000,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-240,57,25,1,3.0,0.0,h
+S2425-G0122,4,11:32,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. P.FOUL (P3.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2425-G0122,4,08:47,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0122,4,07:55,MIA,,NYK,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 3' Running Layup,Missed Shot,Running Layup Shot,-25,21,3,1,2.0,0.0,h
+S2425-G0122,4,07:42,MIA,,NYK,,J. Jaquez Jr.,MIA,Jaquez Jr. S.FOUL (P4.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0122,4,05:49,MIA,,NYK,,J. Jaquez Jr.,MIA,SUB: Jović FOR Jaquez Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0105,1,06:44,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. P.FOUL (P1.T3) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2425-G0105,1,04:51,MIA,21.0,DET,21.0,J. Jaquez Jr.,MIA,Jaquez Jr. 24' 3PT Jump Shot (3 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,234,48,24,1,3.0,3.0,h
+S2425-G0105,1,02:46,MIA,,DET,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,67,55,9,1,2.0,0.0,h
+S2425-G0105,1,01:43,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,1,00:59.200000,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,1,00:58.200000,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0105,2,10:17,MIA,,DET,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,137,224,26,1,3.0,0.0,h
+S2425-G0105,2,07:21,MIA,,DET,,J. Jaquez Jr.,MIA,SUB: Rozier FOR Jaquez Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0105,2,05:06,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,2,05:05,MIA,46.0,DET,43.0,J. Jaquez Jr.,MIA,Jaquez Jr. Putback Layup (5 PTS),Made Shot,Putback Layup Shot,-2,0,0,1,2.0,2.0,h
+S2425-G0105,2,04:32,MIA,48.0,DET,43.0,J. Jaquez Jr.,MIA,Jaquez Jr. 7' Turnaround Bank Hook Shot (7 PTS),Made Shot,Turnaround Bank Hook Shot,59,45,7,1,2.0,2.0,h
+S2425-G0105,2,04:14,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,2,02:58,MIA,,DET,,J. Jaquez Jr.,MIA,SUB: Butler FOR Jaquez Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0105,3,04:16,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0105,3,01:37,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,3,01:36,MIA,,DET,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 1' Putback Layup,Missed Shot,Putback Layup Shot,6,7,1,1,2.0,0.0,h
+S2425-G0105,4,11:30,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,10:09,MIA,90.0,DET,79.0,J. Jaquez Jr.,MIA,Jaquez Jr. 26' 3PT Jump Shot (10 PTS) (Butler 7 AST),Made Shot,Jump Shot,136,225,26,1,3.0,3.0,h
+S2425-G0105,4,09:45,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,09:21,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,09:21,MIA,,DET,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0105,4,08:34,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0105,4,06:28,MIA,95.0,DET,87.0,J. Jaquez Jr.,MIA,Jaquez Jr. 4' Running Layup (12 PTS) (Highsmith 1 AST),Made Shot,Running Layup Shot,-33,18,4,1,2.0,2.0,h
+S2425-G0105,4,05:09,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,01:50,MIA,,DET,,J. Jaquez Jr.,MIA,Jaquez Jr. STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0105,4,01:48,MIA,,DET,,J. Jaquez Jr.,MIA,MISS Jaquez Jr. 1' Running Dunk,Missed Shot,Running Dunk Shot,-1,8,1,1,2.0,0.0,h

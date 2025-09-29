@@ -1,0 +1,80 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0066,1,09:38,PHI,,MIL,,T. Prince,MIL,Prince Violation:Kicked Ball (S.Foster),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0066,1,05:14,PHI,,MIL,,T. Prince,MIL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,1,03:46,PHI,,MIL,,T. Prince,MIL,SUB: Connaughton FOR Prince,Substitution,,0,0,0,0,,,v
+S2425-G0066,2,05:25,PHI,,MIL,,T. Prince,MIL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,2,04:10,PHI,37.0,MIL,43.0,T. Prince,MIL,Prince 2' Layup (2 PTS) (Portis 3 AST),Made Shot,Layup Shot,-9,23,2,1,2.0,2.0,v
+S2425-G0066,2,03:32,PHI,,MIL,,T. Prince,MIL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,2,03:25,PHI,37.0,MIL,48.0,T. Prince,MIL,Prince 25' 3PT Jump Shot (5 PTS) (Lillard 1 AST),Made Shot,Jump Shot,239,67,25,1,3.0,3.0,v
+S2425-G0066,2,02:49,PHI,39.0,MIL,51.0,T. Prince,MIL,Prince 3PT Jump Shot (8 PTS) (Lopez 1 AST),Made Shot,Jump Shot,-227,0,0,1,3.0,3.0,v
+S2425-G0066,2,01:54,PHI,,MIL,,T. Prince,MIL,Prince S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2425-G0066,2,00:25.200000,PHI,,MIL,,T. Prince,MIL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,3,11:45,PHI,47.0,MIL,61.0,T. Prince,MIL,Prince 25' 3PT Jump Shot (11 PTS) (Antetokounmpo 5 AST),Made Shot,Jump Shot,53,243,25,1,3.0,3.0,v
+S2425-G0066,3,10:27,PHI,53.0,MIL,67.0,T. Prince,MIL,Prince 24' 3PT Pullup Jump Shot (14 PTS) (Lillard 2 AST),Made Shot,Pullup Jump shot,230,74,24,1,3.0,3.0,v
+S2425-G0066,3,06:10,PHI,,MIL,,T. Prince,MIL,Prince REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,3,05:35,PHI,64.0,MIL,82.0,T. Prince,MIL,Prince 3' Cutting Layup Shot (16 PTS) (Antetokounmpo 7 AST),Made Shot,Cutting Layup Shot,23,-12,3,1,2.0,2.0,v
+S2425-G0066,3,05:08,PHI,,MIL,,T. Prince,MIL,Prince P.FOUL (P2.PN) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2425-G0066,3,04:47,PHI,,MIL,,T. Prince,MIL,SUB: Connaughton FOR Prince,Substitution,,0,0,0,0,,,v
+S2425-G0066,4,09:29,PHI,,MIL,,T. Prince,MIL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,164,198,26,1,3.0,0.0,v
+S2425-G0066,4,07:42,PHI,,MIL,,T. Prince,MIL,SUB: Trent Jr. FOR Prince,Substitution,,0,0,0,0,,,v
+S2425-G0066,4,01:06,PHI,,MIL,,T. Prince,MIL,SUB: Johnson FOR Prince,Substitution,,0,0,0,0,,,v
+S2425-G0083,1,11:15,MIL,3.0,CHI,2.0,T. Prince,MIL,Prince 3PT Jump Shot (3 PTS) (Trent Jr. 1 AST),Made Shot,Jump Shot,-233,2,0,1,3.0,3.0,h
+S2425-G0083,1,10:58,MIL,,CHI,,T. Prince,MIL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,10:23,MIL,,CHI,,T. Prince,MIL,Prince S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0083,1,08:37,MIL,,CHI,,T. Prince,MIL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0083,1,05:39,MIL,,CHI,,T. Prince,MIL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,04:52,MIL,,CHI,,T. Prince,MIL,Prince REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,04:52,MIL,,CHI,,T. Prince,MIL,MISS Prince Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0083,1,04:51,MIL,,CHI,,T. Prince,MIL,Prince REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,04:50,MIL,19.0,CHI,16.0,T. Prince,MIL,Prince 3' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,26,7,3,1,2.0,2.0,h
+S2425-G0083,1,03:46,MIL,,CHI,,T. Prince,MIL,SUB: Connaughton FOR Prince,Substitution,,0,0,0,0,,,h
+S2425-G0083,2,04:09,MIL,53.0,CHI,48.0,T. Prince,MIL,Prince 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,12,21,2,1,2.0,2.0,h
+S2425-G0083,2,02:10,MIL,59.0,CHI,53.0,T. Prince,MIL,Prince 1' Cutting Layup Shot (9 PTS) (Lillard 4 AST),Made Shot,Cutting Layup Shot,-5,10,1,1,2.0,2.0,h
+S2425-G0083,3,09:36,MIL,,CHI,,T. Prince,MIL,Prince REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,3,08:17,MIL,,CHI,,T. Prince,MIL,MISS Prince 7' Driving Layup,Missed Shot,Driving Layup Shot,64,33,7,1,2.0,0.0,h
+S2425-G0083,3,08:12,MIL,,CHI,,T. Prince,MIL,Prince S.FOUL (P2.T1) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2425-G0083,3,06:35,MIL,,CHI,,T. Prince,MIL,Prince REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,3,05:59,MIL,,CHI,,T. Prince,MIL,Prince S.FOUL (P3.T2) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2425-G0083,3,05:36,MIL,,CHI,,T. Prince,MIL,Prince S.FOUL (P4.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2425-G0083,3,05:36,MIL,,CHI,,T. Prince,MIL,SUB: Connaughton FOR Prince,Substitution,,0,0,0,0,,,h
+S2425-G0083,4,04:49,MIL,113.0,CHI,125.0,T. Prince,MIL,Prince 1' Driving Dunk (11 PTS) (Lillard 8 AST),Made Shot,Driving Dunk Shot,-2,14,1,1,2.0,2.0,h
+S2425-G0083,4,04:13,MIL,,CHI,,T. Prince,MIL,Prince REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,4,03:50,MIL,,CHI,,T. Prince,MIL,Prince REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,4,01:49,MIL,,CHI,,T. Prince,MIL,SUB: Green FOR Prince,Substitution,,0,0,0,0,,,h
+S2425-G0104,1,10:28,BOS,,MIL,,T. Prince,MIL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,1,10:09,BOS,,MIL,,T. Prince,MIL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,1,08:57,BOS,,MIL,,T. Prince,MIL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,59,24,1,3.0,0.0,v
+S2425-G0104,1,07:34,BOS,,MIL,,T. Prince,MIL,Prince S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2425-G0104,1,04:15,BOS,,MIL,,T. Prince,MIL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,186,162,25,1,3.0,0.0,v
+S2425-G0104,1,03:52,BOS,,MIL,,T. Prince,MIL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,1,02:50,BOS,,MIL,,T. Prince,MIL,Prince Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0104,1,02:00,BOS,,MIL,,T. Prince,MIL,Prince P.FOUL (P2.T4) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2425-G0104,1,00:41.400000,BOS,,MIL,,T. Prince,MIL,SUB: Trent Jr. FOR Prince,Substitution,,0,0,0,0,,,v
+S2425-G0104,2,06:22,BOS,,MIL,,T. Prince,MIL,Prince P.FOUL (P3.T2) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2425-G0104,2,06:22,BOS,,MIL,,T. Prince,MIL,SUB: Trent Jr. FOR Prince,Substitution,,0,0,0,0,,,v
+S2425-G0104,3,04:41,BOS,,MIL,,T. Prince,MIL,MISS Prince 8' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,-70,31,8,1,2.0,0.0,v
+S2425-G0104,3,01:04,BOS,,MIL,,T. Prince,MIL,Prince L.B.FOUL (P4.T2) (C.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0104,3,00:06.500000,BOS,,MIL,,T. Prince,MIL,SUB: Trent Jr. FOR Prince,Substitution,,0,0,0,0,,,v
+S2425-G0104,4,09:16,BOS,97.0,MIL,88.0,T. Prince,MIL,Prince 26' 3PT Step Back Jump Shot (3 PTS) (Lillard 6 AST),Made Shot,Step Back Jump shot,-131,222,26,1,3.0,3.0,v
+S2425-G0104,4,08:50,BOS,,MIL,,T. Prince,MIL,Prince S.FOUL (P5.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2425-G0104,4,06:32,BOS,,MIL,,T. Prince,MIL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,4,06:28,BOS,,MIL,,T. Prince,MIL,Prince Discontinue Dribble Turnover (P2.T15),Turnover,Discontinue Dribble,0,0,0,0,,,v
+S2425-G0104,4,04:39,BOS,,MIL,,T. Prince,MIL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0104,4,02:44,BOS,,MIL,,T. Prince,MIL,SUB: Rollins FOR Prince,Substitution,,0,0,0,0,,,v
+S2425-G0098,1,09:44,BKN,,MIL,,T. Prince,MIL,Prince REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,1,08:10,BKN,,MIL,,T. Prince,MIL,Prince REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,1,05:41,BKN,,MIL,,T. Prince,MIL,Prince Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0098,1,05:40,BKN,,MIL,,T. Prince,MIL,Prince L.B.FOUL (P1.T4) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0098,1,01:32,BKN,25.0,MIL,20.0,T. Prince,MIL,Prince 26' 3PT Pullup Jump Shot (3 PTS) (Portis 2 AST),Made Shot,Pullup Jump shot,80,249,26,1,3.0,3.0,v
+S2425-G0098,2,05:12,BKN,,MIL,,T. Prince,MIL,Prince REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,03:08,BKN,,MIL,,T. Prince,MIL,Prince Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0098,2,02:53,BKN,,MIL,,T. Prince,MIL,Prince REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,02:20,BKN,,MIL,,T. Prince,MIL,Prince REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,3,05:42,BKN,,MIL,,T. Prince,MIL,Prince REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,3,04:14,BKN,,MIL,,T. Prince,MIL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0098,3,00:28.400000,BKN,,MIL,,T. Prince,MIL,SUB: Wright FOR Prince,Substitution,,0,0,0,0,,,v
+S2425-G0098,4,07:28,BKN,,MIL,,T. Prince,MIL,MISS Prince 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,62,6,1,2.0,0.0,v
+S2425-G0098,4,05:42,BKN,,MIL,,T. Prince,MIL,MISS Prince 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,25,21,3,1,2.0,0.0,v
+S2425-G0098,4,04:16,BKN,,MIL,,T. Prince,MIL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-234,-21,0,1,3.0,0.0,v
+S2425-G0098,4,03:47,BKN,,MIL,,T. Prince,MIL,Prince REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,4,03:26,BKN,,MIL,,T. Prince,MIL,SUB: Jackson Jr. FOR Prince,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,192 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,10:26,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,10:23,GSW,6.0,NOP,2.0,Z. Williamson,NOP,Williamson 3' Layup (2 PTS),Made Shot,Layup Shot,-23,12,3,1,2.0,2.0,v
+S2425-G0126,1,10:06,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 8' Jump Shot,Missed Shot,Jump Shot,-11,84,8,1,2.0,0.0,v
+S2425-G0126,1,08:19,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 7' Driving Layup,Missed Shot,Driving Layup Shot,-37,54,7,1,2.0,0.0,v
+S2425-G0126,1,08:17,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,08:17,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-38,10,4,1,2.0,0.0,v
+S2425-G0126,1,06:44,GSW,,NOP,,Z. Williamson,NOP,SUB: Missi FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0126,1,03:10,GSW,,NOP,,Z. Williamson,NOP,Williamson Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0126,1,02:09,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,02:04,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 6' Driving Layup,Missed Shot,Driving Layup Shot,-32,55,6,1,2.0,0.0,v
+S2425-G0126,1,00:57.600000,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,1,00:23.400000,GSW,26.0,NOP,20.0,Z. Williamson,NOP,Williamson 6' Turnaround Hook Shot (4 PTS) (Green 1 AST),Made Shot,Turnaround Hook Shot,16,53,6,1,2.0,2.0,v
+S2425-G0126,1,00:00.500000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 53' 3PT Jump Shot,Missed Shot,Jump Shot,-206,493,53,1,3.0,0.0,v
+S2425-G0126,2,11:42,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,9,59,6,1,2.0,0.0,v
+S2425-G0126,2,09:46,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,09:12,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 6' Driving Layup,Missed Shot,Driving Layup Shot,4,63,6,1,2.0,0.0,v
+S2425-G0126,2,08:18,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,07:53,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,07:14,GSW,,NOP,,Z. Williamson,NOP,Williamson OFF.Foul (P1) (M.Kallio),Foul,Offensive,0,0,0,0,,,v
+S2425-G0126,2,07:14,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0126,2,07:14,GSW,,NOP,,Z. Williamson,NOP,SUB: Ingram FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0126,2,01:13,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 7' Driving Layup,Missed Shot,Driving Layup Shot,-20,65,7,1,2.0,0.0,v
+S2425-G0126,2,00:58.600000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 10' Jump Shot,Missed Shot,Jump Shot,11,101,10,1,2.0,0.0,v
+S2425-G0126,2,00:57.200000,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,2,00:56.300000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,9,31,3,1,2.0,0.0,v
+S2425-G0126,3,10:17,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Charge Foul (P2) (D.Taylor),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0126,3,10:17,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0126,3,09:31,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,09:25,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-45,52,7,1,2.0,0.0,v
+S2425-G0126,3,08:40,GSW,,NOP,,Z. Williamson,NOP,Williamson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0126,3,08:39,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,3,08:03,GSW,,NOP,,Z. Williamson,NOP,SUB: Green FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0126,3,03:57,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,26,3,1,2.0,0.0,v
+S2425-G0126,3,03:57,GSW,,NOP,,Z. Williamson,NOP,Williamson P.FOUL (P3.T3) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0126,3,02:47,GSW,73.0,NOP,59.0,Z. Williamson,NOP,Williamson 4' Cutting Layup Shot (6 PTS) (Alvarado 2 AST),Made Shot,Cutting Layup Shot,-37,14,4,1,2.0,2.0,v
+S2425-G0126,3,00:46.700000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0126,3,00:46.700000,GSW,76.0,NOP,66.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,3,00:14.100000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-2,29,3,1,2.0,0.0,v
+S2425-G0126,3,00:00.800000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0126,3,00:00.800000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0126,4,07:37,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,21,47,5,1,2.0,0.0,v
+S2425-G0126,4,07:36,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,07:36,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 8' Putback Layup,Missed Shot,Putback Layup Shot,-2,75,8,1,2.0,0.0,v
+S2425-G0126,4,05:52,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0126,4,05:52,GSW,91.0,NOP,75.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0126,4,05:10,GSW,94.0,NOP,77.0,Z. Williamson,NOP,Williamson 7' Turnaround Jump Shot (10 PTS) (Ingram 5 AST),Made Shot,Turnaround Jump Shot,0,66,7,1,2.0,2.0,v
+S2425-G0126,4,04:40,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0126,4,04:20,GSW,95.0,NOP,80.0,Z. Williamson,NOP,Williamson 6' Floating Jump Shot (12 PTS) (Alvarado 4 AST),Made Shot,Floating Jump shot,-1,58,6,1,2.0,2.0,v
+S2425-G0126,4,04:20,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0126,4,02:39,GSW,,NOP,,Z. Williamson,NOP,Williamson Lost Ball Turnover (P4.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0126,4,01:22,GSW,,NOP,,Z. Williamson,NOP,SUB: Jemison FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,09:58,GSW,,NOP,,Z. Williamson,NOP,Williamson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0116,1,09:50,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 6' Running Jump Shot,Missed Shot,Running Jump Shot,11,62,6,1,2.0,0.0,v
+S2425-G0116,1,08:16,GSW,8.0,NOP,12.0,Z. Williamson,NOP,Williamson 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-20,8,2,1,2.0,2.0,v
+S2425-G0116,1,07:12,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,06:53,GSW,,NOP,,Z. Williamson,NOP,SUB: Hawkins FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,02:52,GSW,14.0,NOP,26.0,Z. Williamson,NOP,Williamson 25' 3PT Jump Shot (5 PTS) (Hawkins 1 AST),Made Shot,Jump Shot,124,220,25,1,3.0,3.0,v
+S2425-G0116,1,02:13,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Charge Foul (P1) (J.Schroeder),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0116,1,02:13,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0116,1,01:44,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,01:44,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,-29,11,3,1,2.0,0.0,v
+S2425-G0116,1,00:32.900000,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,00:22,GSW,14.0,NOP,31.0,Z. Williamson,NOP,Williamson 6' Turnaround Jump Shot (7 PTS) (Alvarado 1 AST),Made Shot,Turnaround Jump Shot,-32,47,6,1,2.0,2.0,v
+S2425-G0116,2,11:42,GSW,14.0,NOP,33.0,Z. Williamson,NOP,Williamson 4' Turnaround Hook Shot (9 PTS) (Missi 1 AST),Made Shot,Turnaround Hook Shot,-32,27,4,1,2.0,2.0,v
+S2425-G0116,2,11:42,GSW,14.0,NOP,34.0,Z. Williamson,NOP,Williamson Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0116,2,11:30,GSW,,NOP,,Z. Williamson,NOP,Williamson Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,2,10:15,GSW,,NOP,,Z. Williamson,NOP,Williamson Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0116,2,08:53,GSW,,NOP,,Z. Williamson,NOP,Williamson S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0116,2,08:33,GSW,26.0,NOP,38.0,Z. Williamson,NOP,Williamson 1' Driving Reverse Layup (12 PTS) (McCollum 2 AST),Made Shot,Driving Reverse Layup Shot,-7,-1,1,1,2.0,2.0,v
+S2425-G0116,2,07:47,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,07:40,GSW,,NOP,,Z. Williamson,NOP,Williamson Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,2,07:10,GSW,29.0,NOP,40.0,Z. Williamson,NOP,Williamson 8' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,47,65,8,1,2.0,2.0,v
+S2425-G0116,2,06:59,GSW,,NOP,,Z. Williamson,NOP,SUB: Jones FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0116,2,03:22,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 7' Driving Layup,Missed Shot,Driving Layup Shot,-59,42,7,1,2.0,0.0,v
+S2425-G0116,2,02:53,GSW,40.0,NOP,45.0,Z. Williamson,NOP,Williamson 4' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,37,8,4,1,2.0,2.0,v
+S2425-G0116,2,02:01,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0116,2,02:01,GSW,44.0,NOP,46.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,2,01:30,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,01:13,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,01:12,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 1' Layup,Missed Shot,Layup Shot,-2,13,1,1,2.0,0.0,v
+S2425-G0116,2,01:10,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,2,00:41.600000,GSW,44.0,NOP,51.0,Z. Williamson,NOP,Williamson 10' Turnaround Jump Shot (19 PTS),Made Shot,Turnaround Jump Shot,-50,85,10,1,2.0,2.0,v
+S2425-G0116,2,00:11.500000,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,177,18,1,2.0,0.0,v
+S2425-G0116,3,11:15,GSW,50.0,NOP,53.0,Z. Williamson,NOP,Williamson 4' Driving Floating Jump Shot (21 PTS) (McCollum 3 AST),Made Shot,Driving Floating Jump Shot,29,29,4,1,2.0,2.0,v
+S2425-G0116,3,11:15,GSW,50.0,NOP,54.0,Z. Williamson,NOP,Williamson Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0116,3,10:52,GSW,51.0,NOP,56.0,Z. Williamson,NOP,Williamson 5' Turnaround Hook Shot (24 PTS),Made Shot,Turnaround Hook Shot,20,51,5,1,2.0,2.0,v
+S2425-G0116,3,08:39,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-148,221,27,1,3.0,0.0,v
+S2425-G0116,3,08:03,GSW,64.0,NOP,66.0,Z. Williamson,NOP,Williamson 5' Turnaround Hook Shot (26 PTS),Made Shot,Turnaround Hook Shot,44,15,5,1,2.0,2.0,v
+S2425-G0116,3,07:02,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0116,3,07:02,GSW,66.0,NOP,67.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,3,05:02,GSW,,NOP,,Z. Williamson,NOP,SUB: Ingram FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,11:29,GSW,90.0,NOP,81.0,Z. Williamson,NOP,Williamson 5' Pullup Jump Shot (29 PTS),Made Shot,Pullup Jump shot,-36,34,5,1,2.0,2.0,v
+S2425-G0116,4,09:54,GSW,97.0,NOP,85.0,Z. Williamson,NOP,Williamson Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,09:54,GSW,97.0,NOP,86.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0116,4,08:38,GSW,,NOP,,Z. Williamson,NOP,Williamson Bad Pass Turnover (P5.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0116,4,08:10,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Charge Foul (P3) (M.Lindsay),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0116,4,08:10,GSW,,NOP,,Z. Williamson,NOP,Williamson Offensive Foul Turnover (P6.T21),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0116,4,07:09,GSW,,NOP,,Z. Williamson,NOP,SUB: Green FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0116,4,03:52,GSW,,NOP,,Z. Williamson,NOP,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,4,3,1,2.0,0.0,v
+S2425-G0116,4,03:40,GSW,,NOP,,Z. Williamson,NOP,Williamson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,4,02:56,GSW,,NOP,,Z. Williamson,NOP,Williamson Out of Bounds - Bad Pass Turnover Turnover (P7.T23),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0116,4,02:43,GSW,,NOP,,Z. Williamson,NOP,SUB: Missi FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0086,1,10:03,POR,,,,Z. Williamson,NOP,Williamson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0086,1,09:19,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,1,08:32,POR,,,,Z. Williamson,NOP,Williamson S.FOUL (P1.T3) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2425-G0086,1,07:36,POR,,,,Z. Williamson,NOP,MISS Williamson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-48,63,8,1,2.0,0.0,v
+S2425-G0086,1,07:07,POR,,,,Z. Williamson,NOP,SUB: Hawkins FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0086,1,03:05,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,1,02:58,POR,,,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0086,1,02:58,POR,25.0,,13.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,1,02:32,POR,,,,Z. Williamson,NOP,MISS Williamson 4' Driving Layup,Missed Shot,Driving Layup Shot,-27,35,4,1,2.0,0.0,v
+S2425-G0086,1,02:07,POR,,,,Z. Williamson,NOP,MISS Williamson 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-23,36,4,1,2.0,0.0,v
+S2425-G0086,1,01:30,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,1,00:00,POR,,,,Z. Williamson,NOP,MISS Williamson 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-108,285,30,1,3.0,0.0,v
+S2425-G0086,2,04:15,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,2,04:14,POR,39.0,,28.0,Z. Williamson,NOP,Williamson 1' Putback Layup (3 PTS),Made Shot,Putback Layup Shot,-7,13,1,1,2.0,2.0,v
+S2425-G0086,2,03:44,POR,,,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0086,2,03:44,POR,,,,Z. Williamson,NOP,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0086,2,03:14,POR,,,,Z. Williamson,NOP,MISS Williamson 2' Driving Layup,Missed Shot,Driving Layup Shot,-10,20,2,1,2.0,0.0,v
+S2425-G0086,2,02:38,POR,,,,Z. Williamson,NOP,Williamson T.FOUL (P1.T3) (N.Buchert),Foul,Technical,0,0,0,0,,,v
+S2425-G0086,2,02:13,POR,,,,Z. Williamson,NOP,Williamson BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0086,2,02:12,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,2,01:26,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,2,01:01,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,2,01:00,POR,,,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0086,2,01:00,POR,45.0,,35.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,2,00:01.300000,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,2,00:00,POR,,,,Z. Williamson,NOP,MISS Williamson 4' Putback Layup,Missed Shot,Putback Layup Shot,26,27,4,1,2.0,0.0,v
+S2425-G0086,3,11:15,POR,47.0,,41.0,Z. Williamson,NOP,Williamson 1' Alley Oop Layup (6 PTS) (Theis 2 AST),Made Shot,Alley Oop Layup shot,-10,-7,1,1,2.0,2.0,v
+S2425-G0086,3,10:50,POR,47.0,,43.0,Z. Williamson,NOP,Williamson 1' Alley Oop Dunk (8 PTS) (Ingram 2 AST),Made Shot,Alley Oop Dunk Shot,-6,4,1,1,2.0,2.0,v
+S2425-G0086,3,10:21,POR,,,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0086,3,10:21,POR,48.0,,44.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,3,09:36,POR,50.0,,46.0,Z. Williamson,NOP,Williamson 3' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,18,25,3,1,2.0,2.0,v
+S2425-G0086,3,08:33,POR,,,,Z. Williamson,NOP,MISS Williamson 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-11,5,1,1,2.0,0.0,v
+S2425-G0086,3,07:02,POR,,,,Z. Williamson,NOP,Williamson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0086,3,06:12,POR,,,,Z. Williamson,NOP,SUB: Hawkins FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0086,3,02:00,POR,76.0,,69.0,Z. Williamson,NOP,Williamson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,3,02:00,POR,76.0,,70.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,3,00:49.900000,POR,,,,Z. Williamson,NOP,MISS Williamson 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-16,6,2,1,2.0,0.0,v
+S2425-G0086,3,00:01.900000,POR,84.0,,75.0,Z. Williamson,NOP,Williamson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,3,00:01.900000,POR,,,,Z. Williamson,NOP,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0086,4,11:39,POR,,,,Z. Williamson,NOP,Williamson BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0086,4,11:26,POR,,,,Z. Williamson,NOP,MISS Williamson 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,34,3,1,2.0,0.0,v
+S2425-G0086,4,11:23,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,4,11:10,POR,,,,Z. Williamson,NOP,Williamson P.FOUL (P2.T1) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2425-G0086,4,10:39,POR,87.0,,80.0,Z. Williamson,NOP,Williamson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,4,10:39,POR,87.0,,81.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0086,4,09:07,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,4,08:34,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0086,4,07:58,POR,,,,Z. Williamson,NOP,SUB: Ingram FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0086,4,02:50,POR,,,,Z. Williamson,NOP,MISS Williamson 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,7,57,6,1,2.0,0.0,v
+S2425-G0086,4,01:05,POR,,,,Z. Williamson,NOP,Williamson Offensive Charge Foul (P3) (J.Williams),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0086,4,01:05,POR,,,,Z. Williamson,NOP,Williamson Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0086,4,00:38.400000,POR,,,,Z. Williamson,NOP,MISS Williamson 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-20,21,3,1,2.0,0.0,v
+S2425-G0099,1,09:56,POR,,,,Z. Williamson,NOP,MISS Williamson 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-18,43,5,1,2.0,0.0,v
+S2425-G0099,1,09:54,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,1,07:52,POR,,,,Z. Williamson,NOP,MISS Williamson 1' Driving Layup,Missed Shot,Driving Layup Shot,-13,5,1,1,2.0,0.0,v
+S2425-G0099,1,06:37,POR,,,,Z. Williamson,NOP,SUB: Hawkins FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0099,1,02:32,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,1,02:25,POR,24.0,,22.0,Z. Williamson,NOP,Williamson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,1,02:25,POR,24.0,,23.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,1,01:13,POR,,,,Z. Williamson,NOP,MISS Williamson 5' Driving Layup,Missed Shot,Driving Layup Shot,-28,39,5,1,2.0,0.0,v
+S2425-G0099,1,00:03.500000,POR,,,,Z. Williamson,NOP,MISS Williamson 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-11,39,4,1,2.0,0.0,v
+S2425-G0099,2,11:37,POR,,,,Z. Williamson,NOP,Williamson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,2,11:35,POR,26.0,,27.0,Z. Williamson,NOP,Williamson 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-18,10,2,1,2.0,2.0,v
+S2425-G0099,2,11:20,POR,,,,Z. Williamson,NOP,Williamson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0099,2,10:56,POR,28.0,,29.0,Z. Williamson,NOP,Williamson 5' Turnaround Hook Shot (6 PTS) (Missi 2 AST),Made Shot,Turnaround Hook Shot,-22,44,5,1,2.0,2.0,v
+S2425-G0099,2,10:24,POR,31.0,,30.0,Z. Williamson,NOP,Williamson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,2,10:24,POR,31.0,,31.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,2,09:51,POR,,,,Z. Williamson,NOP,MISS Williamson 6' Driving Layup,Missed Shot,Driving Layup Shot,-53,20,6,1,2.0,0.0,v
+S2425-G0099,2,09:21,POR,,,,Z. Williamson,NOP,MISS Williamson 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,4,55,6,1,2.0,0.0,v
+S2425-G0099,2,08:00,POR,,,,Z. Williamson,NOP,SUB: Ingram FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0099,2,01:59,POR,,,,Z. Williamson,NOP,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,25,18,3,1,2.0,0.0,v
+S2425-G0099,2,01:31,POR,,,,Z. Williamson,NOP,Williamson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0099,3,07:02,POR,,,,Z. Williamson,NOP,SUB: Hawkins FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0099,3,02:20,POR,,,,Z. Williamson,NOP,Williamson P.FOUL (P1.T4) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2425-G0099,3,01:50,POR,87.0,,70.0,Z. Williamson,NOP,Williamson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,3,01:50,POR,87.0,,71.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,3,01:33,POR,,,,Z. Williamson,NOP,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0099,3,01:33,POR,,,,Z. Williamson,NOP,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0099,3,01:06,POR,89.0,,72.0,Z. Williamson,NOP,Williamson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,3,01:06,POR,89.0,,73.0,Z. Williamson,NOP,Williamson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0099,3,00:34,POR,,,,Z. Williamson,NOP,Williamson P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2425-G0099,3,00:12.200000,POR,,,,Z. Williamson,NOP,Williamson Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0099,3,00:01.500000,POR,,,,Z. Williamson,NOP,SUB: Jones FOR Williamson,Substitution,,0,0,0,0,,,v
+S2425-G0099,4,10:32,POR,,,,Z. Williamson,NOP,Williamson Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0099,4,10:14,POR,,,,Z. Williamson,NOP,MISS Williamson 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-81,82,12,1,2.0,0.0,v
+S2425-G0099,4,09:50,POR,101.0,,81.0,Z. Williamson,NOP,Williamson 1' Running Dunk (14 PTS) (Hawkins 1 AST),Made Shot,Running Dunk Shot,-2,9,1,1,2.0,2.0,v
+S2425-G0099,4,09:32,POR,,,,Z. Williamson,NOP,Williamson P.FOUL (P3.T2) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2425-G0099,4,09:02,POR,,,,Z. Williamson,NOP,MISS Williamson 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-26,69,7,1,2.0,0.0,v
+S2425-G0099,4,08:22,POR,,,,Z. Williamson,NOP,SUB: Missi FOR Williamson,Substitution,,0,0,0,0,,,v

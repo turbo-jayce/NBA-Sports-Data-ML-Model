@@ -1,0 +1,4 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,4,02:23,NYK,119.0,IND,94.0,J. Johnson,IND,Johnson 1' Cutting Layup Shot (2 PTS) (Q. Jackson 2 AST),Made Shot,Cutting Layup Shot,-4,-3,1,1,2.0,2.0,v
+S2425-G0081,4,02:09,NYK,,IND,,J. Johnson,IND,Johnson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0081,4,01:08,NYK,,IND,,J. Johnson,IND,Johnson Out of Bounds Lost Ball Turnover (P1.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v

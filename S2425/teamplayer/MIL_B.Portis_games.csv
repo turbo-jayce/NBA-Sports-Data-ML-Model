@@ -1,0 +1,102 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0066,1,05:32,PHI,,MIL,,B. Portis,MIL,MISS Portis 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,71,37,8,1,2.0,0.0,v
+S2425-G0066,1,05:07,PHI,12.0,MIL,12.0,B. Portis,MIL,Portis 1' Layup (2 PTS) (Prince 2 AST),Made Shot,Layup Shot,13,0,1,1,2.0,2.0,v
+S2425-G0066,1,03:46,PHI,,MIL,,B. Portis,MIL,Portis Offensive Goaltending Turnover (P1.T2),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2425-G0066,1,03:08,PHI,,MIL,,B. Portis,MIL,Portis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,1,03:05,PHI,17.0,MIL,14.0,B. Portis,MIL,Portis 2' Layup (4 PTS),Made Shot,Layup Shot,-13,12,2,1,2.0,2.0,v
+S2425-G0066,1,02:51,PHI,,MIL,,B. Portis,MIL,Portis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,1,02:50,PHI,,MIL,,B. Portis,MIL,Portis Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0066,1,02:49,PHI,,MIL,,B. Portis,MIL,Portis L.B.FOUL (P1.T3) (S.Foster),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0066,1,02:23,PHI,17.0,MIL,16.0,B. Portis,MIL,Portis 1' Driving Layup (6 PTS) (Antetokounmpo 1 AST),Made Shot,Driving Layup Shot,-5,12,1,1,2.0,2.0,v
+S2425-G0066,1,01:54,PHI,17.0,MIL,19.0,B. Portis,MIL,Portis 3PT Jump Shot (9 PTS) (Antetokounmpo 2 AST),Made Shot,Jump Shot,-229,8,0,1,3.0,3.0,v
+S2425-G0066,2,11:41,PHI,,MIL,,B. Portis,MIL,MISS Portis 14' Jump Shot,Missed Shot,Jump Shot,141,12,14,1,2.0,0.0,v
+S2425-G0066,2,10:37,PHI,25.0,MIL,24.0,B. Portis,MIL,Portis 20' Jump Shot (11 PTS) (Green 1 AST),Made Shot,Jump Shot,-151,133,20,1,2.0,2.0,v
+S2425-G0066,2,07:09,PHI,,MIL,,B. Portis,MIL,MISS Portis 3' Reverse Layup,Missed Shot,Reverse Layup Shot,28,10,3,1,2.0,0.0,v
+S2425-G0066,2,04:22,PHI,,MIL,,B. Portis,MIL,Portis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0066,2,04:22,PHI,,MIL,,B. Portis,MIL,Portis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,2,03:55,PHI,,MIL,,B. Portis,MIL,Portis STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0066,2,03:53,PHI,37.0,MIL,45.0,B. Portis,MIL,Portis 2' Running Layup (13 PTS),Made Shot,Running Layup Shot,18,7,2,1,2.0,2.0,v
+S2425-G0066,2,02:07,PHI,,MIL,,B. Portis,MIL,SUB: Antetokounmpo FOR Portis,Substitution,,0,0,0,0,,,v
+S2425-G0066,3,04:05,PHI,,MIL,,B. Portis,MIL,Portis S.FOUL (P2.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0066,3,03:48,PHI,,MIL,,B. Portis,MIL,Portis Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0066,3,03:00,PHI,,MIL,,B. Portis,MIL,Portis S.FOUL (P3.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2425-G0066,3,03:00,PHI,,MIL,,B. Portis,MIL,Portis L.B.FOUL (P4.PN) (M.Kogut),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0066,3,01:46,PHI,,MIL,,B. Portis,MIL,Portis Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0066,3,01:46,PHI,,MIL,,B. Portis,MIL,SUB: Antetokounmpo FOR Portis,Substitution,,0,0,0,0,,,v
+S2425-G0066,4,08:43,PHI,,MIL,,B. Portis,MIL,Portis STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0066,4,05:53,PHI,95.0,MIL,109.0,B. Portis,MIL,Portis 1' Layup (15 PTS) (Lopez 6 AST),Made Shot,Layup Shot,4,6,1,1,2.0,2.0,v
+S2425-G0066,4,05:53,PHI,95.0,MIL,110.0,B. Portis,MIL,Portis Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0066,4,05:43,PHI,,MIL,,B. Portis,MIL,SUB: Antetokounmpo FOR Portis,Substitution,,0,0,0,0,,,v
+S2425-G0083,1,03:28,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,03:08,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,02:05,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,01:42,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,00:27.500000,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,00:25.900000,MIL,,CHI,,B. Portis,MIL,Portis Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0083,2,10:42,MIL,36.0,CHI,33.0,B. Portis,MIL,Portis 15' Turnaround Jump Shot (2 PTS) (Green 1 AST),Made Shot,Turnaround Jump Shot,-148,44,15,1,2.0,2.0,h
+S2425-G0083,2,10:22,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,2,10:12,MIL,,CHI,,B. Portis,MIL,MISS Portis 17' Jump Shot,Missed Shot,Jump Shot,154,73,17,1,2.0,0.0,h
+S2425-G0083,2,07:10,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,2,05:23,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,2,04:24,MIL,,CHI,,B. Portis,MIL,MISS Portis 27' 3PT Jump Shot,Missed Shot,Jump Shot,33,264,27,1,3.0,0.0,h
+S2425-G0083,2,03:25,MIL,,CHI,,B. Portis,MIL,SUB: Antetokounmpo FOR Portis,Substitution,,0,0,0,0,,,h
+S2425-G0083,2,00:01.300000,MIL,64.0,CHI,63.0,B. Portis,MIL,Portis 24' 3PT Jump Shot (5 PTS) (Antetokounmpo 2 AST),Made Shot,Jump Shot,-235,-4,24,1,3.0,3.0,h
+S2425-G0083,3,04:45,MIL,85.0,CHI,89.0,B. Portis,MIL,Portis 16' Floating Jump Shot (7 PTS) (Trent Jr. 2 AST),Made Shot,Floating Jump shot,1,159,16,1,2.0,2.0,h
+S2425-G0083,3,03:54,MIL,,CHI,,B. Portis,MIL,MISS Portis 17' Jump Shot,Missed Shot,Jump Shot,75,150,17,1,2.0,0.0,h
+S2425-G0083,3,01:21,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,3,00:53.400000,MIL,,CHI,,B. Portis,MIL,MISS Portis 26' 3PT Jump Shot,Missed Shot,Jump Shot,-108,240,26,1,3.0,0.0,h
+S2425-G0083,3,00:45.100000,MIL,,CHI,,B. Portis,MIL,Portis STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0083,4,11:11,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,4,08:50,MIL,,CHI,,B. Portis,MIL,MISS Portis 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,56,73,9,1,2.0,0.0,h
+S2425-G0083,4,07:24,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,4,07:12,MIL,,CHI,,B. Portis,MIL,Portis REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,4,07:12,MIL,107.0,CHI,115.0,B. Portis,MIL,Portis 1' Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,10,4,1,1,2.0,2.0,h
+S2425-G0083,4,03:44,MIL,,CHI,,B. Portis,MIL,SUB: Antetokounmpo FOR Portis,Substitution,,0,0,0,0,,,h
+S2425-G0104,1,02:30,BOS,,MIL,,B. Portis,MIL,Portis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,1,00:30.700000,BOS,,MIL,,B. Portis,MIL,MISS Portis 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,28,77,8,1,2.0,0.0,v
+S2425-G0104,2,11:32,BOS,,MIL,,B. Portis,MIL,Portis Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0104,2,09:50,BOS,,MIL,,B. Portis,MIL,MISS Portis 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-98,115,15,1,2.0,0.0,v
+S2425-G0104,2,09:32,BOS,,MIL,,B. Portis,MIL,Portis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,2,09:01,BOS,,MIL,,B. Portis,MIL,Portis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,2,08:59,BOS,35.0,MIL,39.0,B. Portis,MIL,Portis Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0104,2,08:06,BOS,,MIL,,B. Portis,MIL,Portis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,2,08:05,BOS,,MIL,,B. Portis,MIL,Portis Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0104,2,07:58,BOS,,MIL,,B. Portis,MIL,Portis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,2,07:25,BOS,,MIL,,B. Portis,MIL,SUB: Antetokounmpo FOR Portis,Substitution,,0,0,0,0,,,v
+S2425-G0104,3,03:27,BOS,,MIL,,B. Portis,MIL,Portis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,3,03:09,BOS,79.0,MIL,79.0,B. Portis,MIL,Portis 21' Jump Shot (4 PTS) (Prince 1 AST),Made Shot,Jump Shot,-102,181,21,1,2.0,2.0,v
+S2425-G0104,3,02:49,BOS,,MIL,,B. Portis,MIL,Portis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0104,3,02:28,BOS,,MIL,,B. Portis,MIL,Portis Traveling Turnover (P3.T11),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0104,3,01:35,BOS,,MIL,,B. Portis,MIL,MISS Portis 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-131,37,14,1,2.0,0.0,v
+S2425-G0104,3,00:42,BOS,,MIL,,B. Portis,MIL,Portis OFF.Foul (P1) (J.DeRosa),Foul,Offensive,0,0,0,0,,,v
+S2425-G0104,3,00:42,BOS,,MIL,,B. Portis,MIL,Portis Offensive Foul Turnover (P4.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0104,4,10:39,BOS,,MIL,,B. Portis,MIL,MISS Portis 27' 3PT Jump Shot,Missed Shot,Jump Shot,-136,235,27,1,3.0,0.0,v
+S2425-G0104,4,07:01,BOS,,MIL,,B. Portis,MIL,SUB: Lopez FOR Portis,Substitution,,0,0,0,0,,,v
+S2425-G0098,1,06:26,BKN,,MIL,,B. Portis,MIL,Portis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,1,01:04,BKN,,MIL,,B. Portis,MIL,Portis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,1,00:05.300000,BKN,,MIL,,B. Portis,MIL,Portis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,11:42,BKN,,MIL,,B. Portis,MIL,Portis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0098,2,10:15,BKN,30.0,MIL,27.0,B. Portis,MIL,Portis 13' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-107,68,13,1,2.0,2.0,v
+S2425-G0098,2,09:39,BKN,,MIL,,B. Portis,MIL,MISS Portis 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-116,89,15,1,2.0,0.0,v
+S2425-G0098,2,07:16,BKN,,MIL,,B. Portis,MIL,Portis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,07:16,BKN,,MIL,,B. Portis,MIL,MISS Portis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0098,2,07:15,BKN,,MIL,,B. Portis,MIL,Portis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,07:14,BKN,35.0,MIL,31.0,B. Portis,MIL,Portis Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0098,2,07:14,BKN,35.0,MIL,32.0,B. Portis,MIL,Portis Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0098,2,06:12,BKN,,MIL,,B. Portis,MIL,MISS Portis 8' Hook Shot,Missed Shot,Hook Shot,-59,48,8,1,2.0,0.0,v
+S2425-G0098,2,05:39,BKN,37.0,MIL,34.0,B. Portis,MIL,Portis 13' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,91,91,13,1,2.0,2.0,v
+S2425-G0098,2,04:43,BKN,,MIL,,B. Portis,MIL,Portis REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,04:32,BKN,,MIL,,B. Portis,MIL,MISS Portis 25' 3PT Jump Shot,Missed Shot,Jump Shot,138,209,25,1,3.0,0.0,v
+S2425-G0098,2,04:19,BKN,,MIL,,B. Portis,MIL,Portis REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,03:18,BKN,,MIL,,B. Portis,MIL,MISS Portis 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-23,52,6,1,2.0,0.0,v
+S2425-G0098,2,03:16,BKN,,MIL,,B. Portis,MIL,SUB: Antetokounmpo FOR Portis,Substitution,,0,0,0,0,,,v
+S2425-G0098,3,02:36,BKN,74.0,MIL,75.0,B. Portis,MIL,Portis 12' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,-120,4,12,1,2.0,2.0,v
+S2425-G0098,3,02:00,BKN,77.0,MIL,77.0,B. Portis,MIL,Portis 8' Turnaround Bank Hook Shot (11 PTS),Made Shot,Turnaround Bank Hook Shot,40,68,8,1,2.0,2.0,v
+S2425-G0098,3,01:25,BKN,,MIL,,B. Portis,MIL,MISS Portis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-83,241,25,1,3.0,0.0,v
+S2425-G0098,3,00:32.300000,BKN,,MIL,,B. Portis,MIL,Portis REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,3,00:00,BKN,,MIL,,B. Portis,MIL,MISS Portis 28' 3PT Jump Shot,Missed Shot,Jump Shot,94,269,28,1,3.0,0.0,v
+S2425-G0098,4,11:12,BKN,83.0,MIL,81.0,B. Portis,MIL,Portis 28' 3PT Jump Shot (14 PTS) (Antetokounmpo 7 AST),Made Shot,Jump Shot,151,231,28,1,3.0,3.0,v
+S2425-G0098,4,09:51,BKN,,MIL,,B. Portis,MIL,Portis REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,4,09:19,BKN,89.0,MIL,85.0,B. Portis,MIL,Portis 2' Cutting Layup Shot (16 PTS) (Connaughton 2 AST),Made Shot,Cutting Layup Shot,21,13,2,1,2.0,2.0,v
+S2425-G0098,4,07:36,BKN,,MIL,,B. Portis,MIL,Portis REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,4,05:10,BKN,,MIL,,B. Portis,MIL,SUB: Lopez FOR Portis,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,183 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0127,1,10:06,LAC,,POR,,J. Grant,POR,Grant S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2425-G0127,1,08:23,LAC,,POR,,J. Grant,POR,MISS Grant 1' Driving Layup,Missed Shot,Driving Layup Shot,-11,-4,1,1,2.0,0.0,v
+S2425-G0127,1,07:37,LAC,,POR,,J. Grant,POR,SUB: Henderson FOR Grant,Substitution,,0,0,0,0,,,v
+S2425-G0127,1,02:03,LAC,,POR,,J. Grant,POR,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,1,01:44,LAC,,POR,,J. Grant,POR,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,-142,216,26,1,3.0,0.0,v
+S2425-G0127,1,00:56.400000,LAC,,POR,,J. Grant,POR,MISS Grant 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,129,103,17,1,2.0,0.0,v
+S2425-G0127,1,00:52.600000,LAC,,POR,,J. Grant,POR,Grant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,1,00:48.100000,LAC,26.0,POR,22.0,J. Grant,POR,Grant 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,15,31,3,1,2.0,2.0,v
+S2425-G0127,2,11:15,LAC,,POR,,J. Grant,POR,MISS Grant 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20,16,3,1,2.0,0.0,v
+S2425-G0127,2,10:43,LAC,30.0,POR,27.0,J. Grant,POR,Grant 24' 3PT Jump Shot (5 PTS) (Henderson 2 AST),Made Shot,Jump Shot,-240,-32,24,1,3.0,3.0,v
+S2425-G0127,2,09:19,LAC,,POR,,J. Grant,POR,Grant Double Dribble Turnover (P1.T4),Turnover,Double Dribble,0,0,0,0,,,v
+S2425-G0127,2,09:09,LAC,,POR,,J. Grant,POR,SUB: Ayton FOR Grant,Substitution,,0,0,0,0,,,v
+S2425-G0127,3,10:17,LAC,55.0,POR,63.0,J. Grant,POR,Grant 26' 3PT Jump Shot (8 PTS) (Simons 2 AST),Made Shot,Jump Shot,239,104,26,1,3.0,3.0,v
+S2425-G0127,3,07:07,LAC,,POR,,J. Grant,POR,Grant Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0127,3,05:23,LAC,,POR,,J. Grant,POR,SUB: Henderson FOR Grant,Substitution,,0,0,0,0,,,v
+S2425-G0127,3,03:08,LAC,,POR,,J. Grant,POR,MISS Grant 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,163,223,28,1,3.0,0.0,v
+S2425-G0127,3,02:59,LAC,,POR,,J. Grant,POR,MISS Grant 2' Driving Layup,Missed Shot,Driving Layup Shot,-5,23,2,1,2.0,0.0,v
+S2425-G0127,3,01:56,LAC,,POR,,J. Grant,POR,Grant Violation:Defensive Goaltending (M.Smith),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0127,3,01:30,LAC,,POR,,J. Grant,POR,MISS Grant 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,48,106,12,1,2.0,0.0,v
+S2425-G0127,3,00:37.600000,LAC,,POR,,J. Grant,POR,MISS Grant 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-86,152,17,1,2.0,0.0,v
+S2425-G0127,4,11:08,LAC,,POR,,J. Grant,POR,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,238,110,26,1,3.0,0.0,v
+S2425-G0127,4,10:09,LAC,,POR,,J. Grant,POR,Grant REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,4,08:53,LAC,,POR,,J. Grant,POR,MISS Grant 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,48,24,1,3.0,0.0,v
+S2425-G0127,4,08:17,LAC,,POR,,J. Grant,POR,SUB: Ayton FOR Grant,Substitution,,0,0,0,0,,,v
+S2425-G0127,4,05:59,LAC,,POR,,J. Grant,POR,Grant L.B.FOUL (P2.PN) (C.Blair),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0127,4,02:08,LAC,,POR,,J. Grant,POR,MISS Grant 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,102,25,1,3.0,0.0,v
+S2425-G0072,1,11:43,POR,2.0,GSW,0.0,J. Grant,POR,Grant 20' Pullup Jump Shot (2 PTS) (Ayton 1 AST),Made Shot,Pullup Jump shot,132,153,20,1,2.0,2.0,h
+S2425-G0072,1,11:20,POR,,GSW,,J. Grant,POR,MISS Grant 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,157,225,27,1,3.0,0.0,h
+S2425-G0072,1,10:31,POR,,GSW,,J. Grant,POR,Grant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0072,1,09:52,POR,,GSW,,J. Grant,POR,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0072,1,09:11,POR,,GSW,,J. Grant,POR,MISS Grant 3' Running Layup,Missed Shot,Running Layup Shot,18,19,3,1,2.0,0.0,h
+S2425-G0072,1,08:22,POR,,GSW,,J. Grant,POR,Grant STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0072,1,08:01,POR,,GSW,,J. Grant,POR,MISS Grant 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,108,176,21,1,2.0,0.0,h
+S2425-G0072,1,07:49,POR,,GSW,,J. Grant,POR,Grant P.FOUL (P1.T3) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2425-G0072,1,06:32,POR,,GSW,,J. Grant,POR,MISS Grant 25' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,175,178,25,1,3.0,0.0,h
+S2425-G0072,1,04:54,POR,,GSW,,J. Grant,POR,SUB: Murray FOR Grant,Substitution,,0,0,0,0,,,h
+S2425-G0072,2,10:34,POR,,GSW,,J. Grant,POR,MISS Grant 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,5,0,1,3.0,0.0,h
+S2425-G0072,2,10:13,POR,,GSW,,J. Grant,POR,MISS Grant 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,30,3,1,2.0,0.0,h
+S2425-G0072,2,09:06,POR,25.0,GSW,27.0,J. Grant,POR,Grant 1' Driving Layup (4 PTS) (Henderson 1 AST),Made Shot,Driving Layup Shot,10,-1,1,1,2.0,2.0,h
+S2425-G0072,2,08:50,POR,,GSW,,J. Grant,POR,Grant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0072,2,08:39,POR,27.0,GSW,27.0,J. Grant,POR,Grant Driving Layup (6 PTS) (Henderson 2 AST),Made Shot,Driving Layup Shot,0,1,0,1,2.0,2.0,h
+S2425-G0072,2,03:19,POR,42.0,GSW,46.0,J. Grant,POR,Grant 14' Jump Shot (8 PTS) (Avdija 1 AST),Made Shot,Jump Shot,116,79,14,1,2.0,2.0,h
+S2425-G0072,2,02:32,POR,,GSW,,J. Grant,POR,MISS Grant 2' Driving Layup,Missed Shot,Driving Layup Shot,20,6,2,1,2.0,0.0,h
+S2425-G0072,2,00:31.400000,POR,,GSW,,J. Grant,POR,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,188,182,26,1,3.0,0.0,h
+S2425-G0072,3,11:33,POR,53.0,GSW,65.0,J. Grant,POR,Grant 3PT Jump Shot (11 PTS) (Camara 1 AST),Made Shot,Jump Shot,225,38,0,1,3.0,3.0,h
+S2425-G0072,3,11:06,POR,,GSW,,J. Grant,POR,MISS Grant 1' Driving Layup,Missed Shot,Driving Layup Shot,5,10,1,1,2.0,0.0,h
+S2425-G0072,3,08:45,POR,59.0,GSW,70.0,J. Grant,POR,Grant Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0072,3,08:45,POR,60.0,GSW,70.0,J. Grant,POR,Grant Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0072,3,07:39,POR,,GSW,,J. Grant,POR,Grant P.FOUL (P2.T2) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2425-G0072,3,06:48,POR,63.0,GSW,74.0,J. Grant,POR,Grant 3PT Jump Shot (16 PTS) (Camara 3 AST),Made Shot,Jump Shot,227,36,0,1,3.0,3.0,h
+S2425-G0072,3,06:22,POR,,GSW,,J. Grant,POR,MISS Grant 3PT Jump Shot,Missed Shot,Jump Shot,223,60,0,1,3.0,0.0,h
+S2425-G0072,3,04:00,POR,,GSW,,J. Grant,POR,SUB: Rupert FOR Grant,Substitution,,0,0,0,0,,,h
+S2425-G0072,4,06:17,POR,,GSW,,J. Grant,POR,MISS Grant 3' Hook Bank Shot,Missed Shot,Hook Bank Shot,-27,16,3,1,2.0,0.0,h
+S2425-G0072,4,06:00,POR,,GSW,,J. Grant,POR,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,-237,86,25,1,3.0,0.0,h
+S2425-G0072,4,05:56,POR,,GSW,,J. Grant,POR,SUB: Murray FOR Grant,Substitution,,0,0,0,0,,,h
+S2425-G0086,1,11:08,POR,3.0,,3.0,J. Grant,POR,Grant 25' 3PT Jump Shot (3 PTS) (Ayton 1 AST),Made Shot,Jump Shot,186,172,25,1,3.0,3.0,h
+S2425-G0086,1,10:39,POR,6.0,,3.0,J. Grant,POR,Grant 25' 3PT Jump Shot (6 PTS) (Simons 1 AST),Made Shot,Jump Shot,183,171,25,1,3.0,3.0,h
+S2425-G0086,1,10:06,POR,,,,J. Grant,POR,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,178,180,25,1,3.0,0.0,h
+S2425-G0086,1,09:54,POR,7.0,,4.0,J. Grant,POR,Grant Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0086,1,09:54,POR,8.0,,4.0,J. Grant,POR,Grant Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0086,1,09:33,POR,,,,J. Grant,POR,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0086,1,09:13,POR,,,,J. Grant,POR,Grant STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0086,1,09:10,POR,,,,J. Grant,POR,Grant Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0086,1,08:36,POR,,,,J. Grant,POR,Grant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0086,1,08:32,POR,9.0,,4.0,J. Grant,POR,Grant Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0086,1,08:32,POR,10.0,,4.0,J. Grant,POR,Grant Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0086,1,03:59,POR,23.0,,12.0,J. Grant,POR,Grant 1' Driving Layup (12 PTS) (Simons 2 AST),Made Shot,Driving Layup Shot,13,4,1,1,2.0,2.0,h
+S2425-G0086,1,03:59,POR,,,,J. Grant,POR,SUB: Walker FOR Grant,Substitution,,0,0,0,0,,,h
+S2425-G0086,1,00:05.100000,POR,,,,J. Grant,POR,MISS Grant 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-87,53,10,1,2.0,0.0,h
+S2425-G0086,2,11:11,POR,30.0,,17.0,J. Grant,POR,Grant 25' 3PT Jump Shot (15 PTS) (Henderson 4 AST),Made Shot,Jump Shot,216,116,25,1,3.0,3.0,h
+S2425-G0086,2,10:26,POR,,,,J. Grant,POR,Grant Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0086,2,09:44,POR,,,,J. Grant,POR,MISS Grant 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-23,14,3,1,2.0,0.0,h
+S2425-G0086,2,09:02,POR,35.0,,20.0,J. Grant,POR,Grant 25' 3PT Jump Shot (18 PTS) (Murray 2 AST),Made Shot,Jump Shot,127,219,25,1,3.0,3.0,h
+S2425-G0086,2,08:46,POR,,,,J. Grant,POR,Grant Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0086,2,06:45,POR,,,,J. Grant,POR,MISS Grant 3' Driving Layup,Missed Shot,Driving Layup Shot,-21,14,3,1,2.0,0.0,h
+S2425-G0086,2,04:33,POR,,,,J. Grant,POR,MISS Grant 29' 3PT Jump Shot,Missed Shot,Jump Shot,-89,271,29,1,3.0,0.0,h
+S2425-G0086,2,03:44,POR,,,,J. Grant,POR,Grant S.FOUL (P1.T3) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2425-G0086,2,01:28,POR,,,,J. Grant,POR,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,145,215,26,1,3.0,0.0,h
+S2425-G0086,2,01:03,POR,,,,J. Grant,POR,MISS Grant 3PT Jump Shot,Missed Shot,Jump Shot,225,14,0,1,3.0,0.0,h
+S2425-G0086,2,00:31.700000,POR,,,,J. Grant,POR,Grant L.B.FOUL (P2.PN) (J.Williams),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0086,3,09:55,POR,50.0,,44.0,J. Grant,POR,Grant Cutting Dunk Shot (20 PTS) (Avdija 2 AST),Made Shot,Cutting Dunk Shot,-2,4,0,1,2.0,2.0,h
+S2425-G0086,3,08:46,POR,55.0,,49.0,J. Grant,POR,Grant 26' 3PT Jump Shot (23 PTS) (Simons 6 AST),Made Shot,Jump Shot,-151,214,26,1,3.0,3.0,h
+S2425-G0086,3,08:27,POR,,,,J. Grant,POR,MISS Grant 3PT Jump Shot,Missed Shot,Jump Shot,224,15,0,1,3.0,0.0,h
+S2425-G0086,3,08:21,POR,58.0,,49.0,J. Grant,POR,Grant 3PT Jump Shot (26 PTS) (Camara 1 AST),Made Shot,Jump Shot,225,0,0,1,3.0,3.0,h
+S2425-G0086,3,06:01,POR,,,,J. Grant,POR,Grant Bad Pass Turnover (P4.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0086,3,05:39,POR,68.0,,57.0,J. Grant,POR,Grant 25' 3PT Jump Shot (29 PTS) (Simons 7 AST),Made Shot,Jump Shot,207,133,25,1,3.0,3.0,h
+S2425-G0086,3,03:28,POR,,,,J. Grant,POR,MISS Grant 3PT Jump Shot,Missed Shot,Jump Shot,-232,26,0,1,3.0,0.0,h
+S2425-G0086,3,02:54,POR,73.0,,67.0,J. Grant,POR,Grant 26' 3PT Jump Bank Shot (32 PTS) (Henderson 5 AST),Made Shot,Jump Bank Shot,206,162,26,1,3.0,3.0,h
+S2425-G0086,3,02:40,POR,,,,J. Grant,POR,Grant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0086,3,02:32,POR,,,,J. Grant,POR,MISS Grant 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,17,0,1,3.0,0.0,h
+S2425-G0086,3,02:00,POR,,,,J. Grant,POR,Grant P.FOUL (P3.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2425-G0086,3,01:51,POR,,,,J. Grant,POR,SUB: Avdija FOR Grant,Substitution,,0,0,0,0,,,h
+S2425-G0086,4,07:58,POR,,,,J. Grant,POR,Grant BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0086,4,07:12,POR,,,,J. Grant,POR,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,178,190,26,1,3.0,0.0,h
+S2425-G0086,4,07:01,POR,,,,J. Grant,POR,Grant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0086,4,06:50,POR,,,,J. Grant,POR,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,189,172,26,1,3.0,0.0,h
+S2425-G0086,4,06:29,POR,,,,J. Grant,POR,Grant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0086,4,06:28,POR,,,,J. Grant,POR,Grant Bad Pass Turnover (P5.T19),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0086,4,04:26,POR,,,,J. Grant,POR,Grant REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0086,4,04:02,POR,,,,J. Grant,POR,Grant BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0086,4,03:07,POR,99.0,,99.0,J. Grant,POR,Grant 2' Driving Layup (34 PTS),Made Shot,Driving Layup Shot,15,8,2,1,2.0,2.0,h
+S2425-G0086,4,02:48,POR,,,,J. Grant,POR,Grant REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0099,1,11:39,POR,,,,J. Grant,POR,MISS Grant 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,16,2,1,2.0,0.0,h
+S2425-G0099,1,10:48,POR,,,,J. Grant,POR,Grant L.B.FOUL (P1.T1) (T.Washington),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0099,1,08:04,POR,4.0,,10.0,J. Grant,POR,Grant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0099,1,08:04,POR,,,,J. Grant,POR,MISS Grant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0099,1,07:49,POR,,,,J. Grant,POR,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0099,1,07:22,POR,10.0,,10.0,J. Grant,POR,Grant 26' 3PT Jump Shot (4 PTS) (Simons 1 AST),Made Shot,Jump Shot,165,199,26,1,3.0,3.0,h
+S2425-G0099,1,06:37,POR,,,,J. Grant,POR,SUB: Henderson FOR Grant,Substitution,,0,0,0,0,,,h
+S2425-G0099,1,01:05,POR,,,,J. Grant,POR,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,203,140,25,1,3.0,0.0,h
+S2425-G0099,1,00:57.200000,POR,,,,J. Grant,POR,Grant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0099,1,00:27.900000,POR,,,,J. Grant,POR,Grant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0099,1,00:16.900000,POR,,,,J. Grant,POR,Grant Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0099,2,11:20,POR,,,,J. Grant,POR,MISS Grant 1' Driving Layup,Missed Shot,Driving Layup Shot,-7,3,1,1,2.0,0.0,h
+S2425-G0099,2,10:09,POR,,,,J. Grant,POR,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,161,205,26,1,3.0,0.0,h
+S2425-G0099,2,09:51,POR,,,,J. Grant,POR,Grant BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0099,2,08:26,POR,,,,J. Grant,POR,Grant REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0099,2,08:15,POR,,,,J. Grant,POR,MISS Grant 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,202,134,24,1,3.0,0.0,h
+S2425-G0099,2,07:46,POR,,,,J. Grant,POR,SUB: Ayton FOR Grant,Substitution,,0,0,0,0,,,h
+S2425-G0099,2,02:32,POR,54.0,,43.0,J. Grant,POR,Grant 24' 3PT Jump Shot (7 PTS) (Simons 3 AST),Made Shot,Jump Shot,228,78,24,1,3.0,3.0,h
+S2425-G0099,2,02:19,POR,,,,J. Grant,POR,Grant REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0099,2,02:13,POR,55.0,,43.0,J. Grant,POR,Grant Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0099,2,02:13,POR,,,,J. Grant,POR,MISS Grant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0099,2,01:59,POR,,,,J. Grant,POR,Grant BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0099,2,01:31,POR,,,,J. Grant,POR,Grant STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0099,2,01:28,POR,,,,J. Grant,POR,Grant Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0099,2,01:02,POR,59.0,,45.0,J. Grant,POR,Grant 1' Driving Layup (10 PTS) (Simons 4 AST),Made Shot,Driving Layup Shot,9,8,1,1,2.0,2.0,h
+S2425-G0099,2,00:11,POR,,,,J. Grant,POR,Grant BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0099,3,11:02,POR,63.0,,49.0,J. Grant,POR,Grant 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,-10,6,1,1,2.0,2.0,h
+S2425-G0099,3,09:53,POR,,,,J. Grant,POR,MISS Grant Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2425-G0099,3,09:53,POR,66.0,,49.0,J. Grant,POR,Grant Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0099,3,09:53,POR,67.0,,49.0,J. Grant,POR,Grant Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0099,3,09:08,POR,,,,J. Grant,POR,MISS Grant 5' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,37,37,5,1,2.0,0.0,h
+S2425-G0099,3,08:23,POR,69.0,,54.0,J. Grant,POR,Grant 1' Running Dunk (16 PTS) (Simons 6 AST),Made Shot,Running Dunk Shot,-6,7,1,1,2.0,2.0,h
+S2425-G0099,3,07:02,POR,,,,J. Grant,POR,SUB: Henderson FOR Grant,Substitution,,0,0,0,0,,,h
+S2425-G0099,3,01:33,POR,,,,J. Grant,POR,Grant S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2425-G0099,3,01:16,POR,89.0,,71.0,J. Grant,POR,Grant 5' Turnaround Jump Shot (18 PTS),Made Shot,Turnaround Jump Shot,-7,48,5,1,2.0,2.0,h
+S2425-G0099,3,00:56.500000,POR,90.0,,73.0,J. Grant,POR,Grant Free Throw 1 of 3 (19 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0099,3,00:56.500000,POR,,,,J. Grant,POR,MISS Grant Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2425-G0099,3,00:56.500000,POR,91.0,,73.0,J. Grant,POR,Grant Free Throw 3 of 3 (20 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0099,4,11:36,POR,95.0,,77.0,J. Grant,POR,Grant 17' Turnaround Fadeaway (22 PTS),Made Shot,Turnaround Fadeaway shot,167,15,17,1,2.0,2.0,h
+S2425-G0099,4,10:55,POR,,,,J. Grant,POR,Grant REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0099,4,10:32,POR,,,,J. Grant,POR,Grant STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0099,4,10:25,POR,100.0,,77.0,J. Grant,POR,Grant 1' Driving Layup (24 PTS) (Henderson 6 AST),Made Shot,Driving Layup Shot,4,6,1,1,2.0,2.0,h
+S2425-G0099,4,10:25,POR,101.0,,77.0,J. Grant,POR,Grant Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0099,4,09:57,POR,,,,J. Grant,POR,MISS Grant 27' 3PT Jump Shot,Missed Shot,Jump Shot,-136,233,27,1,3.0,0.0,h
+S2425-G0099,4,09:22,POR,103.0,,81.0,J. Grant,POR,Grant 2' Driving Layup (27 PTS) (Henderson 7 AST),Made Shot,Driving Layup Shot,5,23,2,1,2.0,2.0,h
+S2425-G0099,4,09:22,POR,104.0,,81.0,J. Grant,POR,Grant Free Throw 1 of 1 (28 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0099,4,08:00,POR,,,,J. Grant,POR,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,219,148,26,1,3.0,0.0,h
+S2425-G0099,4,07:57,POR,,,,J. Grant,POR,Grant P.FOUL (P3.T2) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0099,4,07:32,POR,,,,J. Grant,POR,Grant Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0099,4,07:10,POR,,,,J. Grant,POR,SUB: Avdija FOR Grant,Substitution,,0,0,0,0,,,h
+S2425-G0112,1,11:22,SAC,,POR,,J. Grant,POR,Grant STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0112,1,09:08,SAC,,POR,,J. Grant,POR,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,1,07:44,SAC,,POR,,J. Grant,POR,Grant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,1,06:22,SAC,,POR,,J. Grant,POR,SUB: Henderson FOR Grant,Substitution,,0,0,0,0,,,v
+S2425-G0112,1,01:48,SAC,22.0,POR,14.0,J. Grant,POR,Grant 15' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,85,128,15,1,2.0,2.0,v
+S2425-G0112,1,01:04,SAC,,POR,,J. Grant,POR,MISS Grant 6' Driving Layup,Missed Shot,Driving Layup Shot,6,64,6,1,2.0,0.0,v
+S2425-G0112,1,01:01,SAC,,POR,,J. Grant,POR,MISS Grant 14' Jump Shot,Missed Shot,Jump Shot,134,46,14,1,2.0,0.0,v
+S2425-G0112,2,11:22,SAC,,POR,,J. Grant,POR,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,-143,211,25,1,3.0,0.0,v
+S2425-G0112,2,10:32,SAC,,POR,,J. Grant,POR,Grant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,2,10:31,SAC,,POR,,J. Grant,POR,Grant Offensive Charge Foul (P1) (J.Schroeder),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0112,2,10:31,SAC,,POR,,J. Grant,POR,Grant Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0112,2,10:20,SAC,,POR,,J. Grant,POR,Grant S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0112,2,09:52,SAC,,POR,,J. Grant,POR,MISS Grant 7' Driving Layup,Missed Shot,Driving Layup Shot,-10,67,7,1,2.0,0.0,v
+S2425-G0112,2,09:10,SAC,,POR,,J. Grant,POR,SUB: Camara FOR Grant,Substitution,,0,0,0,0,,,v
+S2425-G0112,2,06:17,SAC,,POR,,J. Grant,POR,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,168,25,1,3.0,0.0,v
+S2425-G0112,2,03:42,SAC,,POR,,J. Grant,POR,Grant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,2,02:19,SAC,,POR,,J. Grant,POR,Grant BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0112,2,01:59,SAC,47.0,POR,43.0,J. Grant,POR,Grant 3' Driving Layup (4 PTS) (Avdija 1 AST),Made Shot,Driving Layup Shot,-22,16,3,1,2.0,2.0,v
+S2425-G0112,2,01:47,SAC,,POR,,J. Grant,POR,Grant REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,2,01:40,SAC,,POR,,J. Grant,POR,MISS Grant 9' Driving Layup,Missed Shot,Driving Layup Shot,49,81,9,1,2.0,0.0,v
+S2425-G0112,2,00:30.300000,SAC,,POR,,J. Grant,POR,Grant REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,3,09:16,SAC,,POR,,J. Grant,POR,MISS Grant 2' Layup,Missed Shot,Layup Shot,16,13,2,1,2.0,0.0,v
+S2425-G0112,3,08:34,SAC,,POR,,J. Grant,POR,Grant REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,3,08:19,SAC,,POR,,J. Grant,POR,MISS Grant 4' Driving Layup,Missed Shot,Driving Layup Shot,-4,43,4,1,2.0,0.0,v
+S2425-G0112,3,07:26,SAC,60.0,POR,58.0,J. Grant,POR,Grant 3PT Jump Shot (7 PTS) (Simons 3 AST),Made Shot,Jump Shot,-229,-23,0,1,3.0,3.0,v
+S2425-G0112,3,05:48,SAC,,POR,,J. Grant,POR,MISS Grant 4' Driving Layup,Missed Shot,Driving Layup Shot,-33,17,4,1,2.0,0.0,v
+S2425-G0112,3,04:40,SAC,,POR,,J. Grant,POR,SUB: Murray FOR Grant,Substitution,,0,0,0,0,,,v
+S2425-G0112,4,09:15,SAC,,POR,,J. Grant,POR,Grant REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,4,08:42,SAC,,POR,,J. Grant,POR,Grant Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0112,4,08:25,SAC,,POR,,J. Grant,POR,SUB: Rupert FOR Grant,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,149 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,1,11:37,NYK,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,1,11:22,NYK,0.0,IND,1.0,M. Turner,IND,Turner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0081,1,11:22,NYK,0.0,IND,2.0,M. Turner,IND,Turner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0081,1,09:22,NYK,,IND,,M. Turner,IND,MISS Turner 3PT Jump Shot,Missed Shot,Jump Shot,-230,-20,0,1,3.0,0.0,v
+S2425-G0081,1,09:06,NYK,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,1,08:50,NYK,4.0,IND,6.0,M. Turner,IND,Turner 15' Jump Shot (4 PTS) (Haliburton 1 AST),Made Shot,Jump Shot,-22,151,15,1,2.0,2.0,v
+S2425-G0081,1,07:53,NYK,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,1,06:10,NYK,,IND,,M. Turner,IND,Turner S.FOUL (P1.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0081,1,05:51,NYK,,IND,,M. Turner,IND,MISS Turner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0081,1,05:51,NYK,10.0,IND,11.0,M. Turner,IND,Turner Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0081,1,03:23,NYK,,IND,,M. Turner,IND,SUB: McConnell FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0081,2,06:28,NYK,40.0,IND,37.0,M. Turner,IND,Turner 1' Cutting Layup Shot (7 PTS) (Haliburton 5 AST),Made Shot,Cutting Layup Shot,-9,1,1,1,2.0,2.0,v
+S2425-G0081,2,06:28,NYK,,IND,,M. Turner,IND,MISS Turner Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0081,2,05:49,NYK,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,2,05:00,NYK,,IND,,M. Turner,IND,Turner P.FOUL (P2.T1) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2425-G0081,2,04:21,NYK,,IND,,M. Turner,IND,Turner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,2,02:55,NYK,,IND,,M. Turner,IND,Turner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0081,2,01:33,NYK,,IND,,M. Turner,IND,MISS Turner 25' 3PT Jump Shot,Missed Shot,Jump Shot,69,243,25,1,3.0,0.0,v
+S2425-G0081,2,01:11,NYK,,IND,,M. Turner,IND,MISS Turner 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,38,25,5,1,2.0,0.0,v
+S2425-G0081,3,10:49,NYK,,IND,,M. Turner,IND,Turner BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0081,3,10:26,NYK,65.0,IND,47.0,M. Turner,IND,Turner 8' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,76,-6,8,1,2.0,2.0,v
+S2425-G0081,3,09:24,NYK,,IND,,M. Turner,IND,Turner REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,3,08:02,NYK,,IND,,M. Turner,IND,Turner OFF.Foul (P3) (J.DeRosa),Foul,Offensive,0,0,0,0,,,v
+S2425-G0081,3,08:02,NYK,,IND,,M. Turner,IND,Turner Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0081,3,06:25,NYK,71.0,IND,53.0,M. Turner,IND,Turner 4' Driving Bank Hook Shot (11 PTS) (Siakam 1 AST),Made Shot,Driving Bank Hook Shot,-36,20,4,1,2.0,2.0,v
+S2425-G0081,3,05:57,NYK,,IND,,M. Turner,IND,Turner REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0081,3,05:56,NYK,,IND,,M. Turner,IND,Turner Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0081,3,05:36,NYK,72.0,IND,55.0,M. Turner,IND,Turner 1' Cutting Finger Roll Layup Shot (13 PTS) (Siakam 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-2,13,1,1,2.0,2.0,v
+S2425-G0081,3,05:10,NYK,,IND,,M. Turner,IND,MISS Turner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-121,231,26,1,3.0,0.0,v
+S2425-G0081,3,04:55,NYK,,IND,,M. Turner,IND,Turner BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0081,3,04:53,NYK,,IND,,M. Turner,IND,Turner S.FOUL (P4.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0081,3,04:53,NYK,,IND,,M. Turner,IND,SUB: I. Jackson FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0097,1,12:00,IND,,PHI,,M. Turner,IND, ,Jump Ball,,0,0,0,0,,,h
+S2425-G0097,1,11:18,IND,,PHI,,M. Turner,IND,Turner STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0097,1,10:59,IND,,PHI,,M. Turner,IND,MISS Turner 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,49,53,7,1,2.0,0.0,h
+S2425-G0097,1,10:45,IND,,PHI,,M. Turner,IND,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,1,09:16,IND,,PHI,,M. Turner,IND,Turner STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0097,1,08:15,IND,,PHI,,M. Turner,IND,MISS Turner 6' Driving Layup,Missed Shot,Driving Layup Shot,1,57,6,1,2.0,0.0,h
+S2425-G0097,1,06:57,IND,,PHI,,M. Turner,IND,Turner STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0097,1,06:37,IND,11.0,PHI,6.0,M. Turner,IND,Turner 3' Dunk (2 PTS) (Nesmith 1 AST),Made Shot,Dunk Shot,-10,25,3,1,2.0,2.0,h
+S2425-G0097,1,05:59,IND,,PHI,,M. Turner,IND,Turner OFF.Foul (P1) (M.Ervin),Foul,Offensive,0,0,0,0,,,h
+S2425-G0097,1,05:59,IND,,PHI,,M. Turner,IND,Turner Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0097,1,05:19,IND,,PHI,,M. Turner,IND,SUB: I. Jackson FOR Turner,Substitution,,0,0,0,0,,,h
+S2425-G0097,2,07:47,IND,,PHI,,M. Turner,IND,MISS Turner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0097,2,07:47,IND,35.0,PHI,36.0,M. Turner,IND,Turner Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,2,05:27,IND,42.0,PHI,42.0,M. Turner,IND,Turner 26' 3PT Jump Shot (6 PTS) (Nembhard 1 AST),Made Shot,Jump Shot,-91,246,26,1,3.0,3.0,h
+S2425-G0097,2,04:56,IND,,PHI,,M. Turner,IND,Turner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,2,04:00,IND,,PHI,,M. Turner,IND,MISS Turner 19' Jump Shot,Missed Shot,Jump Shot,67,183,19,1,2.0,0.0,h
+S2425-G0097,2,00:53.700000,IND,58.0,PHI,49.0,M. Turner,IND,Turner 28' 3PT Jump Shot (9 PTS) (Nembhard 4 AST),Made Shot,Jump Shot,9,279,28,1,3.0,3.0,h
+S2425-G0097,3,10:51,IND,,PHI,,M. Turner,IND,MISS Turner 17' Jump Shot,Missed Shot,Jump Shot,5,168,17,1,2.0,0.0,h
+S2425-G0097,3,10:34,IND,,PHI,,M. Turner,IND,Turner S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0097,3,10:01,IND,,PHI,,M. Turner,IND,Turner Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0097,3,09:27,IND,,PHI,,M. Turner,IND,Turner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,3,08:40,IND,,PHI,,M. Turner,IND,Turner Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0097,3,08:27,IND,,PHI,,M. Turner,IND,Turner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0097,3,04:46,IND,69.0,PHI,70.0,M. Turner,IND,Turner Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,3,04:46,IND,,PHI,,M. Turner,IND,MISS Turner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0097,3,03:47,IND,,PHI,,M. Turner,IND,MISS Turner 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-18,269,27,1,3.0,0.0,h
+S2425-G0097,3,02:32,IND,,PHI,,M. Turner,IND,SUB: Siakam FOR Turner,Substitution,,0,0,0,0,,,h
+S2425-G0097,4,07:10,IND,,PHI,,M. Turner,IND,Turner OFF.Foul (P3) (T.Maddox),Foul,Offensive,0,0,0,0,,,h
+S2425-G0097,4,07:10,IND,,PHI,,M. Turner,IND,Turner Offensive Foul Turnover (P4.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0097,4,04:45,IND,,PHI,,M. Turner,IND,MISS Turner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0097,4,04:45,IND,95.0,PHI,95.0,M. Turner,IND,Turner Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,4,04:24,IND,,PHI,,M. Turner,IND,Turner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0097,4,03:37,IND,,PHI,,M. Turner,IND,Turner OFF.Foul (P4) (M.Ervin),Foul,Offensive,0,0,0,0,,,h
+S2425-G0097,4,03:37,IND,,PHI,,M. Turner,IND,Turner Offensive Foul Turnover (P5.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0097,4,01:45,IND,,PHI,,M. Turner,IND,MISS Turner 25' 3PT Jump Shot,Missed Shot,Jump Shot,246,61,25,1,3.0,0.0,h
+S2425-G0097,5,05:00,IND,,PHI,,M. Turner,IND,Jump Ball Turner vs. Drummond: Tip to Maxey,Jump Ball,,0,0,0,0,,,h
+S2425-G0097,5,04:45,IND,,PHI,,M. Turner,IND,Turner STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0097,5,03:53,IND,107.0,PHI,108.0,M. Turner,IND,Turner 16' Jump Shot (13 PTS) (Nembhard 8 AST),Made Shot,Jump Shot,9,161,16,1,2.0,2.0,h
+S2425-G0097,5,02:45,IND,,PHI,,M. Turner,IND,MISS Turner 27' 3PT Jump Shot,Missed Shot,Jump Shot,-70,264,27,1,3.0,0.0,h
+S2425-G0097,5,02:03,IND,,PHI,,M. Turner,IND,Turner OFF.Foul (P5) (J.Sterling),Foul,Offensive,0,0,0,0,,,h
+S2425-G0097,5,02:03,IND,,PHI,,M. Turner,IND,Turner Offensive Foul Turnover (P6.T20),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0097,5,01:36,IND,111.0,PHI,112.0,M. Turner,IND,Turner Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0097,5,01:36,IND,,PHI,,M. Turner,IND,MISS Turner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0097,5,00:20.700000,IND,,PHI,,M. Turner,IND,Defensive Goaltending,Violation,Defensive Goaltending,0,0,0,0,,,h
+S2425-G0097,5,00:15.300000,IND,,PHI,,M. Turner,IND,SUB: Sheppard FOR Turner,Substitution,,0,0,0,0,,,h
+S2425-G0063,1,11:08,DET,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,1,08:34,DET,,IND,,M. Turner,IND,Turner Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0063,1,07:10,DET,,IND,,M. Turner,IND,MISS Turner 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,39,273,28,1,3.0,0.0,v
+S2425-G0063,1,05:44,DET,,IND,,M. Turner,IND,SUB: Wiseman FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0063,1,00:05.100000,DET,,IND,,M. Turner,IND,Turner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0063,2,10:36,DET,,IND,,M. Turner,IND,MISS Turner 6' Driving Layup,Missed Shot,Driving Layup Shot,61,16,6,1,2.0,0.0,v
+S2425-G0063,2,10:29,DET,,IND,,M. Turner,IND,MISS Turner 26' 3PT Jump Shot,Missed Shot,Jump Shot,127,232,26,1,3.0,0.0,v
+S2425-G0063,2,09:41,DET,35.0,IND,32.0,M. Turner,IND,Turner 13' Floating Jump Shot (2 PTS) (McConnell 3 AST),Made Shot,Floating Jump shot,42,123,13,1,2.0,2.0,v
+S2425-G0063,2,09:27,DET,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,2,08:33,DET,,IND,,M. Turner,IND,Turner BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0063,2,08:30,DET,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,2,08:30,DET,,IND,,M. Turner,IND,Turner Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0063,2,08:11,DET,,IND,,M. Turner,IND,MISS Turner 15' Jump Shot,Missed Shot,Jump Shot,-66,137,15,1,2.0,0.0,v
+S2425-G0063,2,08:03,DET,,IND,,M. Turner,IND,SUB: Haliburton FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0063,2,03:28,DET,,IND,,M. Turner,IND,Turner L.B.FOUL (P1.T4) (B.Barnaky),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0063,2,03:02,DET,50.0,IND,44.0,M. Turner,IND,Turner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0063,2,03:02,DET,50.0,IND,45.0,M. Turner,IND,Turner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0063,2,01:36,DET,,IND,,M. Turner,IND,Turner Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0063,2,00:38.300000,DET,,IND,,M. Turner,IND,MISS Turner 3PT Jump Shot,Missed Shot,Jump Shot,233,-6,0,1,3.0,0.0,v
+S2425-G0063,2,00:31.200000,DET,,IND,,M. Turner,IND,Turner BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0063,3,11:29,DET,61.0,IND,51.0,M. Turner,IND,Turner 1' Cutting Layup Shot (6 PTS) (Nembhard 1 AST),Made Shot,Cutting Layup Shot,5,14,1,1,2.0,2.0,v
+S2425-G0063,3,11:29,DET,61.0,IND,52.0,M. Turner,IND,Turner Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0063,3,10:39,DET,64.0,IND,55.0,M. Turner,IND,Turner 27' 3PT Jump Shot (10 PTS) (Siakam 5 AST),Made Shot,Jump Shot,-39,267,27,1,3.0,3.0,v
+S2425-G0063,3,10:08,DET,66.0,IND,58.0,M. Turner,IND,Turner 28' 3PT Jump Shot (13 PTS) (Nembhard 2 AST),Made Shot,Jump Shot,69,273,28,1,3.0,3.0,v
+S2425-G0063,3,09:24,DET,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,3,09:19,DET,68.0,IND,63.0,M. Turner,IND,Turner 27' 3PT Jump Shot (16 PTS) (Nembhard 3 AST),Made Shot,Jump Shot,-10,267,27,1,3.0,3.0,v
+S2425-G0063,3,08:38,DET,70.0,IND,65.0,M. Turner,IND,Turner 14' Jump Shot (18 PTS) (Nembhard 4 AST),Made Shot,Jump Shot,61,124,14,1,2.0,2.0,v
+S2425-G0063,3,08:07,DET,,IND,,M. Turner,IND,MISS Turner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-7,252,25,1,3.0,0.0,v
+S2425-G0063,3,07:27,DET,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,3,06:24,DET,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,3,06:15,DET,75.0,IND,69.0,M. Turner,IND,Turner Cutting Dunk Shot (20 PTS) (Siakam 6 AST),Made Shot,Cutting Dunk Shot,-1,0,0,1,2.0,2.0,v
+S2425-G0063,3,05:37,DET,,IND,,M. Turner,IND,MISS Turner 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-45,252,26,1,3.0,0.0,v
+S2425-G0063,3,03:49,DET,,IND,,M. Turner,IND,SUB: Freeman FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0063,3,00:21.600000,DET,,IND,,M. Turner,IND,SUB: Nembhard FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0063,4,10:25,DET,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,4,09:30,DET,,IND,,M. Turner,IND,Turner S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0063,4,05:50,DET,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,4,05:11,DET,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0063,4,04:26,DET,,IND,,M. Turner,IND,Turner OFF.Foul (P3) (T.Ricks),Foul,Offensive,0,0,0,0,,,v
+S2425-G0063,4,04:26,DET,,IND,,M. Turner,IND,Turner Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0063,4,04:06,DET,,IND,,M. Turner,IND,Turner BLOCK (4 BLK),,,0,0,0,0,,,v
+S2425-G0063,4,00:42.500000,DET,,IND,,M. Turner,IND,Turner S.FOUL (P4.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0063,4,00:20.400000,DET,,IND,,M. Turner,IND,SUB: Nesmith FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0063,4,00:07,DET,,IND,,M. Turner,IND,SUB: Nesmith FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0102,1,07:41,ORL,,IND,,M. Turner,IND,MISS Turner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-5,255,26,1,3.0,0.0,v
+S2425-G0102,1,06:50,ORL,15.0,IND,13.0,M. Turner,IND,Turner 2' Hook Bank Shot (2 PTS),Made Shot,Hook Bank Shot,-4,16,2,1,2.0,2.0,v
+S2425-G0102,1,06:50,ORL,15.0,IND,14.0,M. Turner,IND,Turner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0102,1,05:38,ORL,,IND,,M. Turner,IND,SUB: Sheppard FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0102,2,04:44,ORL,,IND,,M. Turner,IND,MISS Turner 26' 3PT Jump Shot,Missed Shot,Jump Shot,112,230,26,1,3.0,0.0,v
+S2425-G0102,2,04:21,ORL,54.0,IND,48.0,M. Turner,IND,Turner 1' Layup (5 PTS) (Nembhard 4 AST),Made Shot,Layup Shot,-6,13,1,1,2.0,2.0,v
+S2425-G0102,2,03:35,ORL,56.0,IND,50.0,M. Turner,IND,Turner 1' Running Dunk (7 PTS) (Nesmith 1 AST),Made Shot,Running Dunk Shot,-5,10,1,1,2.0,2.0,v
+S2425-G0102,2,02:58,ORL,59.0,IND,52.0,M. Turner,IND,Turner 14' Turnaround Jump Shot (9 PTS) (Siakam 2 AST),Made Shot,Turnaround Jump Shot,22,142,14,1,2.0,2.0,v
+S2425-G0102,2,01:56,ORL,,IND,,M. Turner,IND,MISS Turner 1' Driving Dunk,Missed Shot,Driving Dunk Shot,-11,4,1,1,2.0,0.0,v
+S2425-G0102,2,01:21,ORL,,IND,,M. Turner,IND,Turner S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,2,00:01,ORL,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,3,09:37,ORL,,IND,,M. Turner,IND,Turner S.FOUL (P2.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,3,09:28,ORL,,IND,,M. Turner,IND,MISS Turner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0102,3,09:28,ORL,77.0,IND,65.0,M. Turner,IND,Turner Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0102,3,09:04,ORL,,IND,,M. Turner,IND,Turner L.B.FOUL (P3.T4) (B.Forte),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0102,3,08:26,ORL,77.0,IND,70.0,M. Turner,IND,Turner 27' 3PT Jump Shot (13 PTS) (Haliburton 4 AST),Made Shot,Jump Shot,70,265,27,1,3.0,3.0,v
+S2425-G0102,3,07:38,ORL,,IND,,M. Turner,IND,Turner Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0102,3,06:51,ORL,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,3,06:19,ORL,,IND,,M. Turner,IND,Turner P.FOUL (P4.PN) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2425-G0102,3,06:19,ORL,,IND,,M. Turner,IND,SUB: I. Jackson FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0102,4,10:48,ORL,,IND,,M. Turner,IND,Turner S.FOUL (P5.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2425-G0102,4,10:48,ORL,,IND,,M. Turner,IND,SUB: I. Jackson FOR Turner,Substitution,,0,0,0,0,,,v
+S2425-G0102,4,03:53,ORL,,IND,,M. Turner,IND,Turner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,4,02:56,ORL,,IND,,M. Turner,IND,Turner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,4,02:56,ORL,,IND,,M. Turner,IND,MISS Turner 3' Hook Shot,Missed Shot,Hook Shot,21,20,3,1,2.0,0.0,v
+S2425-G0102,4,01:03,ORL,,IND,,M. Turner,IND,Turner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0102,4,00:15.700000,ORL,,IND,,M. Turner,IND,MISS Turner 7' Jump Shot,Missed Shot,Jump Shot,23,67,7,1,2.0,0.0,v

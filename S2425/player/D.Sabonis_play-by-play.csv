@@ -1,0 +1,169 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0096,1,11:05,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,1,11:01,LAL,0.0,SAC,2.0,D. Sabonis,SAC,Sabonis 2' Running Dunk (2 PTS) (Fox 1 AST),Made Shot,Running Dunk Shot,2,16,2,1,2.0,2.0,v
+S2425-G0096,1,10:38,LAL,,SAC,,D. Sabonis,SAC,Sabonis S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2425-G0096,1,09:39,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,1,09:30,LAL,,SAC,,D. Sabonis,SAC,MISS Sabonis 27' 3PT Jump Shot,Missed Shot,Jump Shot,-18,265,27,1,3.0,0.0,v
+S2425-G0096,1,08:48,LAL,,SAC,,D. Sabonis,SAC,MISS Sabonis 2' Running Layup,Missed Shot,Running Layup Shot,-7,20,2,1,2.0,0.0,v
+S2425-G0096,1,05:37,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,1,03:11,LAL,21.0,SAC,18.0,D. Sabonis,SAC,Sabonis 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,10,1,1,2.0,2.0,v
+S2425-G0096,1,02:17,LAL,,SAC,,D. Sabonis,SAC,Sabonis S.FOUL (P2.T4) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2425-G0096,1,02:17,LAL,,SAC,,D. Sabonis,SAC,SUB: Len FOR Sabonis,Substitution,,0,0,0,0,,,v
+S2425-G0096,2,08:19,LAL,42.0,SAC,29.0,D. Sabonis,SAC,Sabonis 5' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-23,47,5,1,2.0,2.0,v
+S2425-G0096,2,07:46,LAL,44.0,SAC,30.0,D. Sabonis,SAC,Sabonis Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,2,07:46,LAL,44.0,SAC,31.0,D. Sabonis,SAC,Sabonis Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,2,05:06,LAL,51.0,SAC,41.0,D. Sabonis,SAC,Sabonis 6' Driving Layup (10 PTS) (Fox 5 AST),Made Shot,Driving Layup Shot,-42,36,6,1,2.0,2.0,v
+S2425-G0096,2,04:35,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,2,02:10,LAL,,SAC,,D. Sabonis,SAC,Sabonis L.B.FOUL (P3.T3) (K.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0096,2,02:10,LAL,,SAC,,D. Sabonis,SAC,SUB: Len FOR Sabonis,Substitution,,0,0,0,0,,,v
+S2425-G0096,3,11:43,LAL,64.0,SAC,62.0,D. Sabonis,SAC,Sabonis 3' Cutting Layup Shot (12 PTS) (Huerter 1 AST),Made Shot,Cutting Layup Shot,-25,17,3,1,2.0,2.0,v
+S2425-G0096,3,11:43,LAL,,SAC,,D. Sabonis,SAC,MISS Sabonis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0096,3,10:02,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,3,09:55,LAL,66.0,SAC,67.0,D. Sabonis,SAC,Sabonis 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,-17,8,2,1,2.0,2.0,v
+S2425-G0096,3,09:45,LAL,,SAC,,D. Sabonis,SAC,Sabonis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0096,3,09:23,LAL,,SAC,,D. Sabonis,SAC,Sabonis STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0096,3,08:32,LAL,68.0,SAC,70.0,D. Sabonis,SAC,Sabonis Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,3,08:32,LAL,68.0,SAC,71.0,D. Sabonis,SAC,Sabonis Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,3,07:43,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,3,05:14,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,3,04:08,LAL,,SAC,,D. Sabonis,SAC,MISS Sabonis 27' 3PT Jump Shot,Missed Shot,Jump Shot,125,243,27,1,3.0,0.0,v
+S2425-G0096,3,03:49,LAL,76.0,SAC,81.0,D. Sabonis,SAC,Sabonis Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,3,03:49,LAL,76.0,SAC,82.0,D. Sabonis,SAC,Sabonis Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,3,03:20,LAL,79.0,SAC,83.0,D. Sabonis,SAC,Sabonis Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,3,03:20,LAL,79.0,SAC,84.0,D. Sabonis,SAC,Sabonis Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,3,03:00,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,3,02:52,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,3,02:35,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,3,01:53,LAL,81.0,SAC,88.0,D. Sabonis,SAC,Sabonis Cutting Dunk Shot (22 PTS) (Monk 4 AST),Made Shot,Cutting Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0096,3,01:44,LAL,,SAC,,D. Sabonis,SAC,SUB: Murray FOR Sabonis,Substitution,,0,0,0,0,,,v
+S2425-G0096,4,09:49,LAL,,SAC,,D. Sabonis,SAC,Sabonis Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0096,4,07:58,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,4,07:53,LAL,,SAC,,D. Sabonis,SAC,Sabonis Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0096,4,06:45,LAL,,SAC,,D. Sabonis,SAC,MISS Sabonis 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-25,29,4,1,2.0,0.0,v
+S2425-G0096,4,03:03,LAL,121.0,SAC,116.0,D. Sabonis,SAC,Sabonis 3PT Jump Shot (25 PTS) (DeRozan 3 AST),Made Shot,Jump Shot,233,0,0,1,3.0,3.0,v
+S2425-G0096,4,02:23,LAL,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,4,02:22,LAL,123.0,SAC,118.0,D. Sabonis,SAC,Sabonis 1' Putback Layup (27 PTS),Made Shot,Putback Layup Shot,-1,14,1,1,2.0,2.0,v
+S2425-G0096,4,00:30.100000,LAL,128.0,SAC,125.0,D. Sabonis,SAC,Sabonis Cutting Dunk Shot (29 PTS) (Fox 10 AST),Made Shot,Cutting Dunk Shot,-2,-1,0,1,2.0,2.0,v
+S2425-G0115,1,11:39,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,1,11:36,UTA,0.0,SAC,2.0,D. Sabonis,SAC,Sabonis Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0115,1,09:36,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,1,09:28,UTA,5.0,SAC,9.0,D. Sabonis,SAC,Sabonis 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-38,10,4,1,2.0,2.0,v
+S2425-G0115,1,06:56,UTA,15.0,SAC,15.0,D. Sabonis,SAC,Sabonis 15' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-130,72,15,1,2.0,2.0,v
+S2425-G0115,1,04:59,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,1,04:32,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,1,04:15,UTA,17.0,SAC,23.0,D. Sabonis,SAC,Sabonis 3' Driving Layup (8 PTS) (DeRozan 2 AST),Made Shot,Driving Layup Shot,-31,8,3,1,2.0,2.0,v
+S2425-G0115,1,04:00,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,1,03:29,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,1,02:50,UTA,17.0,SAC,28.0,D. Sabonis,SAC,Sabonis 5' Finger Roll Layup (10 PTS) (Fox 1 AST),Made Shot,Finger Roll Layup Shot,38,31,5,1,2.0,2.0,v
+S2425-G0115,1,00:49.400000,UTA,,SAC,,D. Sabonis,SAC,SUB: Murray FOR Sabonis,Substitution,,0,0,0,0,,,v
+S2425-G0115,2,08:24,UTA,,SAC,,D. Sabonis,SAC,MISS Sabonis 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,218,26,1,3.0,0.0,v
+S2425-G0115,2,04:10,UTA,46.0,SAC,52.0,D. Sabonis,SAC,Sabonis 26' 3PT Jump Shot (13 PTS) (Monk 1 AST),Made Shot,Jump Shot,-135,219,26,1,3.0,3.0,v
+S2425-G0115,2,02:32,UTA,,SAC,,D. Sabonis,SAC,MISS Sabonis 3' Driving Layup,Missed Shot,Driving Layup Shot,10,27,3,1,2.0,0.0,v
+S2425-G0115,2,01:55,UTA,48.0,SAC,54.0,D. Sabonis,SAC,Sabonis 4' Cutting Layup Shot (15 PTS) (Fox 6 AST),Made Shot,Cutting Layup Shot,32,21,4,1,2.0,2.0,v
+S2425-G0115,2,00:51.200000,UTA,50.0,SAC,58.0,D. Sabonis,SAC,Sabonis 4' Turnaround Hook Shot (17 PTS) (DeRozan 5 AST),Made Shot,Turnaround Hook Shot,6,42,4,1,2.0,2.0,v
+S2425-G0115,2,00:28.100000,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,2,00:00.200000,UTA,,SAC,,D. Sabonis,SAC,Sabonis Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0115,3,11:29,UTA,,SAC,,D. Sabonis,SAC,Sabonis Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0115,3,10:33,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,3,08:47,UTA,,SAC,,D. Sabonis,SAC,MISS Sabonis 3' Driving Layup,Missed Shot,Driving Layup Shot,25,6,3,1,2.0,0.0,v
+S2425-G0115,3,08:45,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,3,08:44,UTA,58.0,SAC,69.0,D. Sabonis,SAC,Sabonis Putback Layup (19 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0115,3,07:44,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,3,07:33,UTA,60.0,SAC,73.0,D. Sabonis,SAC,Sabonis 4' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,-15,39,4,1,2.0,2.0,v
+S2425-G0115,3,06:00,UTA,,SAC,,D. Sabonis,SAC,MISS Sabonis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0115,3,06:00,UTA,62.0,SAC,76.0,D. Sabonis,SAC,Sabonis Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0115,3,05:53,UTA,,SAC,,D. Sabonis,SAC,Sabonis P.FOUL (P1.T1) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2425-G0115,3,04:48,UTA,,SAC,,D. Sabonis,SAC,MISS Sabonis 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,50,104,12,1,2.0,0.0,v
+S2425-G0115,3,04:25,UTA,64.0,SAC,78.0,D. Sabonis,SAC,Sabonis 2' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,20,11,2,1,2.0,2.0,v
+S2425-G0115,3,04:04,UTA,,SAC,,D. Sabonis,SAC,Sabonis Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0115,3,02:51,UTA,,SAC,,D. Sabonis,SAC,Sabonis S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0115,3,02:37,UTA,66.0,SAC,83.0,D. Sabonis,SAC,Sabonis 4' Turnaround Hook Shot (26 PTS),Made Shot,Turnaround Hook Shot,-23,27,4,1,2.0,2.0,v
+S2425-G0115,3,02:21,UTA,,SAC,,D. Sabonis,SAC,SUB: Murray FOR Sabonis,Substitution,,0,0,0,0,,,v
+S2425-G0115,4,08:08,UTA,,SAC,,D. Sabonis,SAC,MISS Sabonis 8' Jump Shot,Missed Shot,Jump Shot,-78,18,8,1,2.0,0.0,v
+S2425-G0115,4,07:33,UTA,,SAC,,D. Sabonis,SAC,Sabonis S.FOUL (P3.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2425-G0115,4,07:19,UTA,,SAC,,D. Sabonis,SAC,Sabonis REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,4,07:18,UTA,75.0,SAC,100.0,D. Sabonis,SAC,Sabonis 7' Putback Layup (28 PTS),Made Shot,Putback Layup Shot,-66,27,7,1,2.0,2.0,v
+S2425-G0115,4,05:16,UTA,,SAC,,D. Sabonis,SAC,SUB: Len FOR Sabonis,Substitution,,0,0,0,0,,,v
+S2425-G0076,1,12:00,SAC,,MIN,,D. Sabonis,SAC,Jump Ball Sabonis vs. Gobert: Tip to Huerter,Jump Ball,,0,0,0,0,,,h
+S2425-G0076,1,11:41,SAC,,MIN,,D. Sabonis,SAC,MISS Sabonis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0076,1,11:41,SAC,1.0,MIN,0.0,D. Sabonis,SAC,Sabonis Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,1,10:48,SAC,4.0,MIN,0.0,D. Sabonis,SAC,Sabonis Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,1,10:48,SAC,5.0,MIN,0.0,D. Sabonis,SAC,Sabonis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,1,10:12,SAC,,MIN,,D. Sabonis,SAC,Jump Ball Sabonis vs. Gobert: Tip to Conley,Jump Ball,,0,0,0,0,,,h
+S2425-G0076,1,10:12,SAC,,MIN,,D. Sabonis,SAC,Sabonis Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0076,1,09:35,SAC,,MIN,,D. Sabonis,SAC,Sabonis STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0076,1,09:32,SAC,,MIN,,D. Sabonis,SAC,Sabonis Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0076,1,08:01,SAC,,MIN,,D. Sabonis,SAC,Sabonis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,1,07:37,SAC,,MIN,,D. Sabonis,SAC,MISS Sabonis 5' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-23,49,5,1,2.0,0.0,h
+S2425-G0076,1,07:08,SAC,14.0,MIN,8.0,D. Sabonis,SAC,Sabonis 26' 3PT Jump Shot (6 PTS) (Fox 2 AST),Made Shot,Jump Shot,5,257,26,1,3.0,3.0,h
+S2425-G0076,1,06:54,SAC,,MIN,,D. Sabonis,SAC,Sabonis L.B.FOUL (P1.T1) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0076,1,02:28,SAC,,MIN,,D. Sabonis,SAC,Sabonis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,1,01:01,SAC,,MIN,,D. Sabonis,SAC,SUB: Murray FOR Sabonis,Substitution,,0,0,0,0,,,h
+S2425-G0076,2,07:26,SAC,,MIN,,D. Sabonis,SAC,Sabonis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,2,07:26,SAC,,MIN,,D. Sabonis,SAC,Sabonis Out of Bounds Lost Ball Turnover (P3.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0076,2,06:35,SAC,,MIN,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,2,06:35,SAC,48.0,MIN,40.0,D. Sabonis,SAC,Sabonis Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,2,06:35,SAC,,MIN,,D. Sabonis,SAC,MISS Sabonis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0076,2,03:46,SAC,,MIN,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,2,03:40,SAC,,MIN,,D. Sabonis,SAC,MISS Sabonis 6' Layup,Missed Shot,Layup Shot,-42,39,6,1,2.0,0.0,h
+S2425-G0076,2,02:16,SAC,,MIN,,D. Sabonis,SAC,Sabonis OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,h
+S2425-G0076,2,02:16,SAC,,MIN,,D. Sabonis,SAC,Sabonis Offensive Foul Turnover (P4.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0076,2,01:25,SAC,55.0,MIN,53.0,D. Sabonis,SAC,Sabonis 2' Cutting Layup Shot (9 PTS) (Monk 3 AST),Made Shot,Cutting Layup Shot,16,1,2,1,2.0,2.0,h
+S2425-G0076,3,10:59,SAC,64.0,MIN,58.0,D. Sabonis,SAC,Sabonis 3PT Jump Shot (12 PTS) (Fox 5 AST),Made Shot,Jump Shot,228,31,0,1,3.0,3.0,h
+S2425-G0076,3,10:02,SAC,68.0,MIN,64.0,D. Sabonis,SAC,Sabonis 2' Driving Layup (14 PTS) (Murray 2 AST),Made Shot,Driving Layup Shot,11,15,2,1,2.0,2.0,h
+S2425-G0076,3,07:37,SAC,,MIN,,D. Sabonis,SAC,Sabonis STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0076,3,06:48,SAC,79.0,MIN,69.0,D. Sabonis,SAC,Sabonis 2' Layup (16 PTS),Made Shot,Layup Shot,5,21,2,1,2.0,2.0,h
+S2425-G0076,3,04:34,SAC,,MIN,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,3,03:58,SAC,,MIN,,D. Sabonis,SAC,Sabonis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0076,3,03:33,SAC,,MIN,,D. Sabonis,SAC,MISS Sabonis 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,23,17,3,1,2.0,0.0,h
+S2425-G0076,3,01:02,SAC,,MIN,,D. Sabonis,SAC,MISS Sabonis 26' 3PT Jump Shot,Missed Shot,Jump Shot,82,242,26,1,3.0,0.0,h
+S2425-G0076,3,00:51.200000,SAC,,MIN,,D. Sabonis,SAC,MISS Sabonis 15' Jump Shot,Missed Shot,Jump Shot,20,151,15,1,2.0,0.0,h
+S2425-G0076,3,00:28.800000,SAC,,MIN,,D. Sabonis,SAC,SUB: Len FOR Sabonis,Substitution,,0,0,0,0,,,h
+S2425-G0076,4,07:20,SAC,,MIN,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,4,05:34,SAC,103.0,MIN,105.0,D. Sabonis,SAC,Sabonis 4' Cutting Dunk Shot (18 PTS) (Fox 11 AST),Made Shot,Cutting Dunk Shot,4,42,4,1,2.0,2.0,h
+S2425-G0076,4,04:55,SAC,105.0,MIN,107.0,D. Sabonis,SAC,Sabonis 4' Turnaround Hook Shot (20 PTS),Made Shot,Turnaround Hook Shot,33,29,4,1,2.0,2.0,h
+S2425-G0076,4,04:15,SAC,108.0,MIN,110.0,D. Sabonis,SAC,Sabonis 25' 3PT Jump Shot (23 PTS) (Monk 4 AST),Made Shot,Jump Shot,-23,246,25,1,3.0,3.0,h
+S2425-G0076,4,03:03,SAC,109.0,MIN,112.0,D. Sabonis,SAC,Sabonis Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0076,4,03:03,SAC,,MIN,,D. Sabonis,SAC,MISS Sabonis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0076,4,01:49,SAC,,MIN,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,4,00:38.200000,SAC,,MIN,,D. Sabonis,SAC,Sabonis S.FOUL (P3.T4) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0076,4,00:02.400000,SAC,,MIN,,D. Sabonis,SAC,Sabonis S.FOUL (P4.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2425-G0112,1,12:00,SAC,,POR,,D. Sabonis,SAC,Jump Ball Sabonis vs. Ayton: Tip to Camara,Jump Ball,,0,0,0,0,,,h
+S2425-G0112,1,10:48,SAC,,POR,,D. Sabonis,SAC,MISS Sabonis 6' Driving Layup,Missed Shot,Driving Layup Shot,-22,51,6,1,2.0,0.0,h
+S2425-G0112,1,10:46,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,1,10:42,SAC,2.0,POR,0.0,D. Sabonis,SAC,Sabonis Cutting Dunk Shot (2 PTS) (Huerter 1 AST),Made Shot,Cutting Dunk Shot,0,3,0,1,2.0,2.0,h
+S2425-G0112,1,10:28,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,1,10:22,SAC,4.0,POR,0.0,D. Sabonis,SAC,Sabonis 2' Cutting Layup Shot (4 PTS) (Huerter 2 AST),Made Shot,Cutting Layup Shot,-20,10,2,1,2.0,2.0,h
+S2425-G0112,1,09:03,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,1,08:20,SAC,,POR,,D. Sabonis,SAC,Sabonis Offensive Charge Foul (P1) (J.Schroeder),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0112,1,08:20,SAC,,POR,,D. Sabonis,SAC,Sabonis Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0112,1,04:11,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,1,03:42,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,1,03:33,SAC,,POR,,D. Sabonis,SAC,MISS Sabonis 24' 3PT Jump Shot,Missed Shot,Jump Shot,-132,206,24,1,3.0,0.0,h
+S2425-G0112,1,02:44,SAC,21.0,POR,12.0,D. Sabonis,SAC,Sabonis Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,02:44,SAC,22.0,POR,12.0,D. Sabonis,SAC,Sabonis Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,02:28,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,1,01:27,SAC,23.0,POR,14.0,D. Sabonis,SAC,Sabonis Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,1,01:27,SAC,,POR,,D. Sabonis,SAC,MISS Sabonis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0112,1,01:04,SAC,,POR,,D. Sabonis,SAC,SUB: Len FOR Sabonis,Substitution,,0,0,0,0,,,h
+S2425-G0112,2,06:12,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,2,03:07,SAC,,POR,,D. Sabonis,SAC,Sabonis S.FOUL (P2.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2425-G0112,2,02:16,SAC,,POR,,D. Sabonis,SAC,Sabonis OFF.Foul (P3) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2425-G0112,2,02:16,SAC,,POR,,D. Sabonis,SAC,Sabonis Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0112,2,01:40,SAC,,POR,,D. Sabonis,SAC,SUB: Lyles FOR Sabonis,Substitution,,0,0,0,0,,,h
+S2425-G0112,3,11:39,SAC,,POR,,D. Sabonis,SAC,MISS Sabonis 7' Driving Layup,Missed Shot,Driving Layup Shot,69,28,7,1,2.0,0.0,h
+S2425-G0112,3,08:17,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,3,08:07,SAC,59.0,POR,53.0,D. Sabonis,SAC,Sabonis Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,3,08:07,SAC,60.0,POR,53.0,D. Sabonis,SAC,Sabonis Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0112,3,06:08,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,3,06:03,SAC,67.0,POR,58.0,D. Sabonis,SAC,Sabonis 3' Running Layup (11 PTS),Made Shot,Running Layup Shot,-29,15,3,1,2.0,2.0,h
+S2425-G0112,3,05:45,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,3,03:31,SAC,76.0,POR,63.0,D. Sabonis,SAC,Sabonis 9' Turnaround Hook Shot (13 PTS),Made Shot,Turnaround Hook Shot,-86,5,9,1,2.0,2.0,h
+S2425-G0112,3,01:50,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,3,01:36,SAC,84.0,POR,69.0,D. Sabonis,SAC,Sabonis 26' 3PT Jump Shot (16 PTS) (Ellis 1 AST),Made Shot,Jump Shot,-88,247,26,1,3.0,3.0,h
+S2425-G0112,3,00:08,SAC,,POR,,D. Sabonis,SAC,SUB: Ellis FOR Sabonis,Substitution,,0,0,0,0,,,h
+S2425-G0112,4,06:33,SAC,,POR,,D. Sabonis,SAC,Sabonis Traveling Turnover (P3.T13),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0112,4,05:25,SAC,,POR,,D. Sabonis,SAC,Sabonis S.FOUL (P4.T4) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0112,4,04:15,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,4,03:45,SAC,,POR,,D. Sabonis,SAC,Sabonis REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,4,02:49,SAC,,POR,,D. Sabonis,SAC,SUB: Len FOR Sabonis,Substitution,,0,0,0,0,,,h

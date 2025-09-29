@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA Starting Lineup Predictor</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: white;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #a0a0a0;
+            font-size: 1.1rem;
+        }
+
+        .input-section {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .lineup-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .player-input {
+            background: rgba(255, 255, 255, 0.05);
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            padding: 20px;
+        }
+
+        .player-input h3 {
+            color: #4ecdc4;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+        .input-group {
+            margin-bottom: 15px;
+        }
+
+        .input-group label {
+            display: block;
+            margin-bottom: 5px;
+            color: #e0e0e0;
+            font-weight: 500;
+        }
+
+        .input-group input, .input-group select {
+            width: 100%;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 5px;
+            color: white;
+            font-size: 14px;
+        }
+
+        .input-group input::placeholder {
+            color: #a0a0a0;
+        }
+
+        .game-context {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+        }
+
+        .predict-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+            border: none;
+            border-radius: 10px;
+            color: white;
+            font-size: 1.2rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .predict-btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .predict-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .results-section {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            display: none;
+        }
+
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .player-prediction {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            padding: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .player-prediction h3 {
+            color: #4ecdc4;
+            margin-bottom: 15px;
+            text-align: center;
+            font-size: 1.3rem;
+        }
+
+        .stat-line {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            padding: 5px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .stat-name {
+            color: #e0e0e0;
+        }
+
+        .stat-value {
+            font-weight: bold;
+            color: #4ecdc4;
+        }
+
+        .team-totals {
+            background: rgba(76, 175, 80, 0.2);
+            border: 2px solid #4caf50;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .team-totals h3 {
+            color: #4caf50;
+            margin-bottom: 15px;
+        }
+
+        .total-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        .total-stat {
+            text-align: center;
+        }
+
+        .total-stat .label {
+            color: #e0e0e0;
+            font-size: 0.9rem;
+        }
+
+        .total-stat .value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #4caf50;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #4ecdc4;
+        }
+
+        .spinner {
+            border: 3px solid rgba(78, 205, 196, 0.3);
+            border-top: 3px solid #4ecdc4;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error {
+            background: rgba(244, 67, 54, 0.2);
+            border: 1px solid #f44336;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            color: #ffcdd2;
+        }
+
+        .position-badge {
+            display: inline-block;
+            background: #4ecdc4;
+            color: #1a1a2e;
+            padding: 4px 8px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .lineup-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .game-context {
+                grid-template-columns: 1fr;
+            }
+
+            .results-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .total-stats {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>NBA Starting Lineup Predictor</h1>
+            <p>Predict player stats for your starting five using advanced ML models</p>
+        </div>
+
+        <div class="input-section">
+            <h2 style="color: #4ecdc4; margin-bottom: 20px;">Starting Lineup</h2>
+
+            <div class="lineup-grid">
+                <div class="player-input">
+                    <h3>Point Guard <span class="position-badge">PG</span></h3>
+                    <div class="input-group">
+                        <label>Player Name</label>
+                        <input type="text" id="pg-name" placeholder="e.g. Stephen Curry" />
+                    </div>
+                    <div class="input-group">
+                        <label>Minutes Expected</label>
+                        <input type="number" id="pg-minutes" value="35" min="1" max="48" />
+                    </div>
+                </div>
+
+                <div class="player-input">
+                    <h3>Shooting Guard <span class="position-badge">SG</span></h3>
+                    <div class="input-group">
+                        <label>Player Name</label>
+                        <input type="text" id="sg-name" placeholder="e.g. Klay Thompson" />
+                    </div>
+                    <div class="input-group">
+                        <label>Minutes Expected</label>
+                        <input type="number" id="sg-minutes" value="32" min="1" max="48" />
+                    </div>
+                </div>
+
+                <div class="player-input">
+                    <h3>Small Forward <span class="position-badge">SF</span></h3>
+                    <div class="input-group">
+                        <label>Player Name</label>
+                        <input type="text" id="sf-name" placeholder="e.g. Jayson Tatum" />
+                    </div>
+                    <div class="input-group">
+                        <label>Minutes Expected</label>
+                        <input type="number" id="sf-minutes" value="36" min="1" max="48" />
+                    </div>
+                </div>
+
+                <div class="player-input">
+                    <h3>Power Forward <span class="position-badge">PF</span></h3>
+                    <div class="input-group">
+                        <label>Player Name</label>
+                        <input type="text" id="pf-name" placeholder="e.g. Giannis Antetokounmpo" />
+                    </div>
+                    <div class="input-group">
+                        <label>Minutes Expected</label>
+                        <input type="number" id="pf-minutes" value="34" min="1" max="48" />
+                    </div>
+                </div>
+
+                <div class="player-input">
+                    <h3>Center <span class="position-badge">C</span></h3>
+                    <div class="input-group">
+                        <label>Player Name</label>
+                        <input type="text" id="c-name" placeholder="e.g. Joel Embiid" />
+                    </div>
+                    <div class="input-group">
+                        <label>Minutes Expected</label>
+                        <input type="number" id="c-minutes" value="33" min="1" max="48" />
+                    </div>
+                </div>
+            </div>
+
+            <h3 style="color: #4ecdc4; margin-bottom: 15px;">Game Context</h3>
+            <div class="game-context">
+                <div class="input-group">
+                    <label>Home/Away</label>
+                    <select id="home-away">
+                        <option value="1">Home Game</option>
+                        <option value="0">Away Game</option>
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label>Season Game #</label>
+                    <input type="number" id="season-game" value="41" min="1" max="82" />
+                </div>
+
+                <div class="input-group">
+                    <label>Rest Status</label>
+                    <select id="rest-status">
+                        <option value="0">Regular Rest</option>
+                        <option value="1">Back-to-Back</option>
+                        <option value="2">Extra Rest (2+ days)</option>
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label>Opponent Strength</label>
+                    <select id="opponent-strength">
+                        <option value="average">Average Defense</option>
+                        <option value="weak">Weak Defense</option>
+                        <option value="strong">Strong Defense</option>
+                    </select>
+                </div>
+            </div>
+
+            <button class="predict-btn" onclick="predictLineup()">
+                Predict Lineup Performance
+            </button>
+        </div>
+
+        <div id="results-section" class="results-section">
+            <h2 style="color: #4ecdc4; margin-bottom: 20px;">Predicted Performance</h2>
+            <div id="results-content"></div>
+        </div>
+    </div>
+
+    <script>
+        // Mock player database - in real implementation, this would be loaded from your model
+        const playerDatabase = {
+            // Point Guards
+            "stephen curry": { position: "point_guard", recent_avg: { points: 29.5, assists: 6.2, rebounds: 4.1 } },
+            "damian lillard": { position: "point_guard", recent_avg: { points: 28.1, assists: 7.1, rebounds: 4.5 } },
+            "luka doncic": { position: "point_guard", recent_avg: { points: 32.1, assists: 8.9, rebounds: 8.3 } },
+            "ja morant": { position: "point_guard", recent_avg: { points: 26.8, assists: 8.1, rebounds: 5.9 } },
+            "chris paul": { position: "point_guard", recent_avg: { points: 14.2, assists: 10.8, rebounds: 4.4 } },
+
+            // Shooting Guards
+            "klay thompson": { position: "combo_guard", recent_avg: { points: 21.9, assists: 2.4, rebounds: 4.1 } },
+            "devin booker": { position: "combo_guard", recent_avg: { points: 28.1, assists: 6.9, rebounds: 4.5 } },
+            "donovan mitchell": { position: "combo_guard", recent_avg: { points: 26.8, assists: 5.1, rebounds: 4.2 } },
+            "bradley beal": { position: "combo_guard", recent_avg: { points: 23.2, assists: 5.4, rebounds: 4.9 } },
+
+            // Small Forwards
+            "jayson tatum": { position: "forward", recent_avg: { points: 30.1, assists: 4.9, rebounds: 8.8 } },
+            "lebron james": { position: "forward", recent_avg: { points: 25.7, assists: 8.3, rebounds: 7.3 } },
+            "kevin durant": { position: "wing_scorer", recent_avg: { points: 29.7, assists: 5.0, rebounds: 6.7 } },
+            "kawhi leonard": { position: "wing_scorer", recent_avg: { points: 26.2, assists: 3.9, rebounds: 6.5 } },
+
+            // Power Forwards
+            "giannis antetokounmpo": { position: "power_forward", recent_avg: { points: 31.1, assists: 5.7, rebounds: 11.8 } },
+            "jaylen brown": { position: "forward", recent_avg: { points: 23.0, assists: 3.6, rebounds: 5.5 } },
+            "pascal siakam": { position: "power_forward", recent_avg: { points: 24.2, assists: 5.8, rebounds: 9.2 } },
+            "julius randle": { position: "power_forward", recent_avg: { points: 24.0, assists: 5.0, rebounds: 10.0 } },
+
+            // Centers
+            "joel embiid": { position: "center", recent_avg: { points: 33.1, assists: 4.2, rebounds: 10.2 } },
+            "nikola jokic": { position: "center", recent_avg: { points: 26.4, assists: 9.0, rebounds: 12.4 } },
+            "anthony davis": { position: "center", recent_avg: { points: 25.9, assists: 3.1, rebounds: 12.5 } },
+            "bam adebayo": { position: "center", recent_avg: { points: 20.4, assists: 3.2, rebounds: 10.2 } },
+            "rudy gobert": { position: "center", recent_avg: { points: 14.0, assists: 1.2, rebounds: 12.9 } }
+        };
+
+        function predictLineup() {
+            const positions = ['pg', 'sg', 'sf', 'pf', 'c'];
+            const lineup = [];
+            let isValid = true;
+
+            // Collect lineup data
+            positions.forEach(pos => {
+                const name = document.getElementById(`${pos}-name`).value.trim();
+                const minutes = parseInt(document.getElementById(`${pos}-minutes`).value) || 0;
+
+                if (!name) {
+                    isValid = false;
+                    return;
+                }
+
+                lineup.push({
+                    position: pos,
+                    name: name,
+                    minutes: minutes
+                });
+            });
+
+            if (!isValid) {
+                showError("Please fill in all player names.");
+                return;
+            }
+
+            // Get game context
+            const gameContext = {
+                isHome: parseInt(document.getElementById('home-away').value),
+                seasonGame: parseInt(document.getElementById('season-game').value),
+                restStatus: document.getElementById('rest-status').value,
+                opponentStrength: document.getElementById('opponent-strength').value
+            };
+
+            // Show loading
+            showLoading();
+
+            // Simulate API call delay
+            setTimeout(() => {
+                const predictions = generatePredictions(lineup, gameContext);
+                displayResults(predictions);
+            }, 1500);
+        }
+
+        function generatePredictions(lineup, context) {
+            const predictions = [];
+
+            lineup.forEach(player => {
+                const playerKey = player.name.toLowerCase();
+                const playerData = playerDatabase[playerKey];
+
+                if (playerData) {
+                    // Base stats from database
+                    let points = playerData.recent_avg.points;
+                    let assists = playerData.recent_avg.assists;
+                    let rebounds = playerData.recent_avg.rebounds;
+
+                    // Apply contextual adjustments
+                    const minutesFactor = player.minutes / 36; // Normalize to 36 minutes
+                    points *= minutesFactor;
+                    assists *= minutesFactor;
+                    rebounds *= minutesFactor;
+
+                    // Home court advantage
+                    if (context.isHome) {
+                        points *= 1.05;
+                        assists *= 1.03;
+                        rebounds *= 1.02;
+                    }
+
+                    // Rest adjustments
+                    if (context.restStatus === "1") { // Back-to-back
+                        points *= 0.92;
+                        assists *= 0.95;
+                        rebounds *= 0.94;
+                    } else if (context.restStatus === "2") { // Extra rest
+                        points *= 1.08;
+                        assists *= 1.04;
+                        rebounds *= 1.03;
+                    }
+
+                    // Opponent strength
+                    const oppMultiplier = {
+                        "weak": 1.12,
+                        "average": 1.0,
+                        "strong": 0.88
+                    }[context.opponentStrength];
+
+                    points *= oppMultiplier;
+                    assists *= (oppMultiplier * 0.7 + 0.3); // Assists less affected by opponent
+                    rebounds *= (oppMultiplier * 0.5 + 0.5); // Rebounds less affected
+
+                    // Season fatigue (late season adjustment)
+                    if (context.seasonGame > 70) {
+                        points *= 0.96;
+                        assists *= 0.98;
+                        rebounds *= 0.97;
+                    }
+
+                    // Add some randomness to simulate model uncertainty
+                    const variance = 0.15;
+                    points *= (1 + (Math.random() - 0.5) * variance);
+                    assists *= (1 + (Math.random() - 0.5) * variance);
+                    rebounds *= (1 + (Math.random() - 0.5) * variance);
+
+                    predictions.push({
+                        name: player.name,
+                        position: player.position,
+                        minutes: player.minutes,
+                        points: Math.max(0, points),
+                        assists: Math.max(0, assists),
+                        rebounds: Math.max(0, rebounds),
+                        // Add derived stats
+                        fieldGoals: points * 0.4,
+                        threePointers: points * 0.15,
+                        freeThrows: points * 0.25
+                    });
+                } else {
+                    // Unknown player - use position averages
+                    const positionAverages = {
+                        'pg': { points: 15.2, assists: 6.8, rebounds: 4.1 },
+                        'sg': { points: 18.5, assists: 3.2, rebounds: 4.3 },
+                        'sf': { points: 17.8, assists: 3.8, rebounds: 5.9 },
+                        'pf': { points: 16.9, assists: 2.9, rebounds: 8.1 },
+                        'c': { points: 14.2, assists: 2.1, rebounds: 9.8 }
+                    };
+
+                    const baseStats = positionAverages[player.position];
+                    const minutesFactor = player.minutes / 36;
+
+                    predictions.push({
+                        name: player.name,
+                        position: player.position,
+                        minutes: player.minutes,
+                        points: baseStats.points * minutesFactor,
+                        assists: baseStats.assists * minutesFactor,
+                        rebounds: baseStats.rebounds * minutesFactor,
+                        fieldGoals: baseStats.points * minutesFactor * 0.4,
+                        threePointers: baseStats.points * minutesFactor * 0.15,
+                        freeThrows: baseStats.points * minutesFactor * 0.25
+                    });
+                }
+            });
+
+            return predictions;
+        }
+
+        function displayResults(predictions) {
+            const resultsSection = document.getElementById('results-section');
+            const resultsContent = document.getElementById('results-content');
+
+            let html = '<div class="results-grid">';
+
+            // Calculate team totals
+            const teamTotals = {
+                points: 0,
+                assists: 0,
+                rebounds: 0
+            };
+
+            predictions.forEach(player => {
+                teamTotals.points += player.points;
+                teamTotals.assists += player.assists;
+                teamTotals.rebounds += player.rebounds;
+
+                const positionNames = {
+                    'pg': 'Point Guard',
+                    'sg': 'Shooting Guard',
+                    'sf': 'Small Forward',
+                    'pf': 'Power Forward',
+                    'c': 'Center'
+                };
+
+                html += `
+                    <div class="player-prediction">
+                        <h3>${player.name} <span class="position-badge">${positionNames[player.position]}</span></h3>
+                        <div class="stat-line">
+                            <span class="stat-name">Points</span>
+                            <span class="stat-value">${player.points.toFixed(1)}</span>
+                        </div>
+                        <div class="stat-line">
+                            <span class="stat-name">Rebounds</span>
+                            <span class="stat-value">${player.rebounds.toFixed(1)}</span>
+                        </div>
+                        <div class="stat-line">
+                            <span class="stat-name">Assists</span>
+                            <span class="stat-value">${player.assists.toFixed(1)}</span>
+                        </div>
+                        <div class="stat-line">
+                            <span class="stat-name">Minutes</span>
+                            <span class="stat-value">${player.minutes}</span>
+                        </div>
+                        <div class="stat-line">
+                            <span class="stat-name">FG Made</span>
+                            <span class="stat-value">${player.fieldGoals.toFixed(1)}</span>
+                        </div>
+                        <div class="stat-line">
+                            <span class="stat-name">3PM</span>
+                            <span class="stat-value">${player.threePointers.toFixed(1)}</span>
+                        </div>
+                        <div class="stat-line">
+                            <span class="stat-name">FT Made</span>
+                            <span class="stat-value">${player.freeThrows.toFixed(1)}</span>
+                        </div>
+                    </div>
+                `;
+            });
+
+            html += '</div>';
+
+            // Add team totals
+            html += `
+                <div class="team-totals">
+                    <h3>Starting Lineup Totals</h3>
+                    <div class="total-stats">
+                        <div class="total-stat">
+                            <div class="label">Total Points</div>
+                            <div class="value">${teamTotals.points.toFixed(1)}</div>
+                        </div>
+                        <div class="total-stat">
+                            <div class="label">Total Rebounds</div>
+                            <div class="value">${teamTotals.rebounds.toFixed(1)}</div>
+                        </div>
+                        <div class="total-stat">
+                            <div class="label">Total Assists</div>
+                            <div class="value">${teamTotals.assists.toFixed(1)}</div>
+                        </div>
+                    </div>
+                    <p style="margin-top: 15px; color: #a0a0a0; font-size: 0.9rem;">
+                        Predictions based on advanced ML models considering recent performance, game context, and opponent strength
+                    </p>
+                </div>
+            `;
+
+            resultsContent.innerHTML = html;
+            resultsSection.style.display = 'block';
+
+            // Smooth scroll to results
+            resultsSection.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function showLoading() {
+            const resultsSection = document.getElementById('results-section');
+            const resultsContent = document.getElementById('results-content');
+
+            resultsContent.innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <h3>Processing lineup...</h3>
+                    <p>Running advanced ML models to predict player performance</p>
+                </div>
+            `;
+
+            resultsSection.style.display = 'block';
+            resultsSection.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function showError(message) {
+            const resultsSection = document.getElementById('results-section');
+            const resultsContent = document.getElementById('results-content');
+
+            resultsContent.innerHTML = `
+                <div class="error">
+                    <h3>Error</h3>
+                    <p>${message}</p>
+                </div>
+            `;
+
+            resultsSection.style.display = 'block';
+        }
+
+        // Add some sample data on page load
+        window.addEventListener('load', function() {
+            // Pre-fill with a sample lineup
+            document.getElementById('pg-name').value = 'Stephen Curry';
+            document.getElementById('sg-name').value = 'Klay Thompson';
+            document.getElementById('sf-name').value = 'Jayson Tatum';
+            document.getElementById('pf-name').value = 'Giannis Antetokounmpo';
+            document.getElementById('c-name').value = 'Joel Embiid';
+        });
+    </script>
+</body>
+</html>

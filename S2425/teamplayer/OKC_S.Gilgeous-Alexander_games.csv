@@ -1,0 +1,180 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0075,1,11:17,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-11,2,1,1,2.0,0.0,v
+S2425-G0075,1,08:44,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,1,07:14,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,135,216,25,1,3.0,0.0,v
+S2425-G0075,1,06:45,DEN,16.0,OKC,10.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 11' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-26,106,11,1,2.0,2.0,v
+S2425-G0075,1,05:48,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0075,1,05:47,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander P.FOUL (P1.PN) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0075,1,05:33,DEN,19.0,OKC,13.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,251,25,1,3.0,3.0,v
+S2425-G0075,1,04:11,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0075,1,04:08,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 2' Running Layup,Missed Shot,Running Layup Shot,-12,11,2,1,2.0,0.0,v
+S2425-G0075,1,02:58,DEN,23.0,OKC,25.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,-21,11,2,1,2.0,2.0,v
+S2425-G0075,1,02:34,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0075,1,02:34,DEN,23.0,OKC,26.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0075,1,02:13,DEN,,OKC,,S. Gilgeous-Alexander,OKC,SUB: Williams FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,v
+S2425-G0075,2,07:02,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0075,2,06:57,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 3' Running Layup,Missed Shot,Running Layup Shot,-34,-3,3,1,2.0,0.0,v
+S2425-G0075,2,06:55,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,53,110,12,1,2.0,0.0,v
+S2425-G0075,2,06:46,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0075,2,05:56,DEN,36.0,OKC,46.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 10' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,5,97,10,1,2.0,2.0,v
+S2425-G0075,2,05:02,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-143,47,15,1,2.0,0.0,v
+S2425-G0075,2,02:29,DEN,47.0,OKC,56.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,98,154,18,1,2.0,2.0,v
+S2425-G0075,2,00:56.300000,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,2,00:35.700000,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-125,221,25,1,3.0,0.0,v
+S2425-G0075,3,11:37,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,11:36,DEN,51.0,OKC,61.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 26' 3PT Running Pull-Up Jump Shot (15 PTS),Made Shot,Running Pull-Up Jump Shot,-129,224,26,1,3.0,3.0,v
+S2425-G0075,3,07:40,DEN,64.0,OKC,68.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0075,3,07:40,DEN,64.0,OKC,69.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0075,3,05:11,DEN,66.0,OKC,75.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 1' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,5,10,1,1,2.0,2.0,v
+S2425-G0075,3,04:47,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,04:25,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,137,59,15,1,2.0,0.0,v
+S2425-G0075,3,03:46,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,03:18,DEN,66.0,OKC,78.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 4' Fadeaway Bank Shot (21 PTS),Made Shot,Fadeaway Bank shot,-39,-6,4,1,2.0,2.0,v
+S2425-G0075,3,02:50,DEN,66.0,OKC,81.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw Technical (22 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0075,3,02:07,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0075,3,01:43,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,108,127,17,1,2.0,0.0,v
+S2425-G0075,3,01:35,DEN,66.0,OKC,83.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 2' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,18,4,2,1,2.0,2.0,v
+S2425-G0075,3,01:15,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,00:29.800000,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 25' 3PT Jump Shot,Missed Shot,Jump Shot,-125,216,25,1,3.0,0.0,v
+S2425-G0075,3,00:26.700000,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,3,00:24.900000,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 12' Jump Shot,Missed Shot,Jump Shot,2,120,12,1,2.0,0.0,v
+S2425-G0075,3,00:01.700000,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0075,4,07:33,DEN,75.0,OKC,94.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 1' Running Layup (26 PTS),Made Shot,Running Layup Shot,4,3,1,1,2.0,2.0,v
+S2425-G0075,4,04:49,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-34,80,9,1,2.0,0.0,v
+S2425-G0075,4,04:40,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0075,4,04:37,DEN,80.0,OKC,98.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 1' Running Reverse Layup (28 PTS),Made Shot,Running Reverse Layup Shot,-6,-8,1,1,2.0,2.0,v
+S2425-G0075,4,04:24,DEN,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0075,4,03:26,DEN,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 24' 3PT Jump Shot,Missed Shot,Jump Shot,-85,225,24,1,3.0,0.0,v
+S2425-G0075,4,01:11,DEN,,OKC,,S. Gilgeous-Alexander,OKC,SUB: Mitchell FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,v
+S2425-G0091,1,11:01,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,1,10:02,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0091,1,09:17,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0091,1,08:36,CHI,7.0,OKC,8.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,1,08:36,CHI,7.0,OKC,9.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0091,1,08:11,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,42,97,11,1,2.0,0.0,v
+S2425-G0091,1,07:33,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0091,1,06:09,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-62,252,26,1,3.0,0.0,v
+S2425-G0091,1,05:39,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 25' 3PT Jump Shot,Missed Shot,Jump Shot,-11,252,25,1,3.0,0.0,v
+S2425-G0091,1,03:58,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,1,03:54,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-69,251,26,1,3.0,0.0,v
+S2425-G0091,1,03:32,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,125,13,1,2.0,0.0,v
+S2425-G0091,1,02:42,CHI,14.0,OKC,18.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-5,16,2,1,2.0,2.0,v
+S2425-G0091,1,02:42,CHI,14.0,OKC,19.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0091,1,02:20,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,1,01:11,CHI,19.0,OKC,23.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 1' Driving Reverse Layup (7 PTS),Made Shot,Driving Reverse Layup Shot,-2,8,1,1,2.0,2.0,v
+S2425-G0091,1,00:51.200000,CHI,,OKC,,S. Gilgeous-Alexander,OKC,SUB: Williams FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,v
+S2425-G0091,2,04:34,CHI,36.0,OKC,43.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 2' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,1,15,2,1,2.0,2.0,v
+S2425-G0091,2,04:15,CHI,36.0,OKC,46.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 26' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,-7,257,26,1,3.0,3.0,v
+S2425-G0091,2,01:39,CHI,38.0,OKC,53.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 25' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,-56,247,25,1,3.0,3.0,v
+S2425-G0091,2,01:22,CHI,38.0,OKC,55.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 1' Dunk (17 PTS) (Dort 1 AST),Made Shot,Dunk Shot,-1,10,1,1,2.0,2.0,v
+S2425-G0091,2,00:20.200000,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander P.FOUL (P1.PN) (I.Hwang),Foul,Personal,0,0,0,0,,,v
+S2425-G0091,3,10:05,CHI,44.0,OKC,63.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Driving Layup (19 PTS),Made Shot,Driving Layup Shot,-4,0,0,1,2.0,2.0,v
+S2425-G0091,3,09:47,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Jump Shot,Missed Shot,Jump Shot,-28,257,26,1,3.0,0.0,v
+S2425-G0091,3,09:41,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,09:28,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,07:44,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0091,3,07:34,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 6' Layup,Missed Shot,Layup Shot,-60,8,6,1,2.0,0.0,v
+S2425-G0091,3,06:09,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 24' 3PT Jump Shot,Missed Shot,Jump Shot,181,161,24,1,3.0,0.0,v
+S2425-G0091,3,04:32,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,03:19,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,03:17,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Jump Shot,Missed Shot,Jump Shot,99,243,26,1,3.0,0.0,v
+S2425-G0091,3,03:07,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander STEAL (4 STL),,,0,0,0,0,,,v
+S2425-G0091,3,02:12,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,22,59,6,1,2.0,0.0,v
+S2425-G0091,3,01:44,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 1' Driving Layup,Missed Shot,Driving Layup Shot,9,4,1,1,2.0,0.0,v
+S2425-G0091,3,01:40,CHI,,OKC,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,3,01:40,CHI,59.0,OKC,81.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Putback Layup (21 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0091,3,01:18,CHI,,OKC,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-235,-18,24,1,3.0,0.0,v
+S2425-G0091,3,00:02.600000,CHI,65.0,OKC,88.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Driving Layup (23 PTS),Made Shot,Driving Layup Shot,-1,4,0,1,2.0,2.0,v
+S2425-G0100,1,11:00,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Backcourt Turnover (P1.T1),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2425-G0100,1,09:56,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,1,08:40,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,1,08:38,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-161,201,26,1,3.0,0.0,h
+S2425-G0100,1,07:38,OKC,9.0,ATL,9.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-22,4,2,1,2.0,2.0,h
+S2425-G0100,1,07:08,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,124,-11,12,1,2.0,0.0,h
+S2425-G0100,1,05:30,OKC,,ATL,,S. Gilgeous-Alexander,OKC,SUB: Joe FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,h
+S2425-G0100,1,02:23,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0100,1,01:49,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander S.FOUL (P1.T4) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,1,01:18,OKC,20.0,ATL,24.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,1,01:18,OKC,21.0,ATL,24.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,1,00:56.500000,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-33,11,3,1,2.0,0.0,h
+S2425-G0100,1,00:31.200000,OKC,23.0,ATL,27.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 12' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,-60,100,12,1,2.0,2.0,h
+S2425-G0100,2,11:43,OKC,25.0,ATL,27.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 19' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-134,137,19,1,2.0,2.0,h
+S2425-G0100,2,10:03,OKC,27.0,ATL,30.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 5' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,43,17,5,1,2.0,2.0,h
+S2425-G0100,2,09:29,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 7' Driving Layup,Missed Shot,Driving Layup Shot,56,45,7,1,2.0,0.0,h
+S2425-G0100,2,09:26,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,2,09:22,OKC,30.0,ATL,34.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 25' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,-47,243,25,1,3.0,3.0,h
+S2425-G0100,2,09:08,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,2,07:52,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 25' 3PT Jump Shot,Missed Shot,Jump Shot,162,190,25,1,3.0,0.0,h
+S2425-G0100,2,06:20,OKC,,ATL,,S. Gilgeous-Alexander,OKC,SUB: Joe FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,h
+S2425-G0100,2,03:19,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0100,2,03:19,OKC,44.0,ATL,52.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,2,03:10,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0100,2,01:43,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,72,101,12,1,2.0,0.0,h
+S2425-G0100,2,01:17,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,3,11:26,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-180,190,26,1,3.0,0.0,h
+S2425-G0100,3,09:59,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0100,3,09:51,OKC,66.0,ATL,62.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 2' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,-12,16,2,1,2.0,2.0,h
+S2425-G0100,3,09:36,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0100,3,09:33,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,3,09:25,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,197,196,28,1,3.0,0.0,h
+S2425-G0100,3,08:17,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0100,3,07:30,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-2,81,8,1,2.0,0.0,h
+S2425-G0100,3,06:58,OKC,73.0,ATL,67.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 26' 3PT Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,137,226,26,1,3.0,3.0,h
+S2425-G0100,3,05:24,OKC,75.0,ATL,71.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,3,05:24,OKC,76.0,ATL,71.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,3,05:24,OKC,77.0,ATL,71.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw Technical (22 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0100,3,04:24,OKC,,ATL,,S. Gilgeous-Alexander,OKC,SUB: Joe FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,h
+S2425-G0100,3,01:04,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,3,00:26.700000,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 2' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,10,15,2,1,2.0,0.0,h
+S2425-G0100,3,00:00.900000,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,11:34,OKC,90.0,ATL,88.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,4,11:34,OKC,91.0,ATL,88.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,4,11:04,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-74,81,11,1,2.0,0.0,h
+S2425-G0100,4,10:10,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,10:02,OKC,95.0,ATL,92.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 15' Fadeaway Jumper (26 PTS),Made Shot,Fadeaway Jump Shot,148,5,15,1,2.0,2.0,h
+S2425-G0100,4,09:28,OKC,97.0,ATL,92.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 1' Running Dunk (28 PTS) (Wallace 1 AST),Made Shot,Running Dunk Shot,11,7,1,1,2.0,2.0,h
+S2425-G0100,4,09:11,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0100,4,09:05,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,08:54,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,243,26,1,3.0,0.0,h
+S2425-G0100,4,08:52,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,08:51,OKC,98.0,ATL,92.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,4,08:51,OKC,99.0,ATL,92.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0100,4,08:11,OKC,,ATL,,S. Gilgeous-Alexander,OKC,SUB: Holmgren FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,h
+S2425-G0100,4,05:12,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander S.FOUL (P3.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2425-G0100,4,04:34,OKC,116.0,ATL,100.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 26' 3PT Pullup Jump Shot (33 PTS),Made Shot,Pullup Jump shot,-162,199,26,1,3.0,3.0,h
+S2425-G0100,4,04:08,OKC,,ATL,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,04:06,OKC,118.0,ATL,100.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 1' Running Dunk (35 PTS),Made Shot,Running Dunk Shot,-1,13,1,1,2.0,2.0,h
+S2425-G0100,4,03:05,OKC,,ATL,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,2,55,6,1,2.0,0.0,h
+S2425-G0100,4,01:53,OKC,,ATL,,S. Gilgeous-Alexander,OKC,SUB: Reese FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,11:35,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,167,214,27,1,3.0,0.0,h
+S2425-G0125,1,09:40,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 6' Driving Layup,Missed Shot,Driving Layup Shot,-61,6,6,1,2.0,0.0,h
+S2425-G0125,1,07:46,OKC,,SAS,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,1,07:37,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Jump Shot,Missed Shot,Jump Shot,129,223,26,1,3.0,0.0,h
+S2425-G0125,1,05:18,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-180,178,25,1,3.0,0.0,h
+S2425-G0125,1,04:53,OKC,16.0,SAS,10.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0125,1,04:53,OKC,17.0,SAS,10.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0125,1,04:18,OKC,20.0,SAS,10.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 3PT Jump Shot (5 PTS) (Caruso 1 AST),Made Shot,Jump Shot,-229,15,0,1,3.0,3.0,h
+S2425-G0125,1,03:24,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-22,13,3,1,2.0,0.0,h
+S2425-G0125,1,02:12,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,98,230,25,1,3.0,0.0,h
+S2425-G0125,1,01:48,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-163,211,27,1,3.0,0.0,h
+S2425-G0125,1,01:35,OKC,,SAS,,S. Gilgeous-Alexander,OKC,SUB: Holmgren FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,h
+S2425-G0125,2,04:44,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,219,149,26,1,3.0,0.0,h
+S2425-G0125,2,04:19,OKC,,SAS,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander P.FOUL (P1.T2) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0125,2,04:11,OKC,,SAS,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,2,02:29,OKC,,SAS,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,2,01:26,OKC,53.0,SAS,40.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 27' 3PT Pullup Jump Shot (8 PTS) (Wallace 2 AST),Made Shot,Pullup Jump shot,-20,268,27,1,3.0,3.0,h
+S2425-G0125,2,00:35.400000,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,71,84,11,1,2.0,0.0,h
+S2425-G0125,3,11:10,OKC,63.0,SAS,44.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 3' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,-28,8,3,1,2.0,2.0,h
+S2425-G0125,3,10:58,OKC,,SAS,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,3,10:46,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-137,220,26,1,3.0,0.0,h
+S2425-G0125,3,07:16,OKC,73.0,SAS,57.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 2' Running Layup (12 PTS) (Williams 7 AST),Made Shot,Running Layup Shot,11,11,2,1,2.0,2.0,h
+S2425-G0125,3,05:09,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,15,3,1,2.0,0.0,h
+S2425-G0125,3,04:44,OKC,,SAS,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0125,3,04:02,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,37,256,26,1,3.0,0.0,h
+S2425-G0125,3,03:42,OKC,77.0,SAS,67.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander Running Dunk (14 PTS) (Wiggins 2 AST),Made Shot,Running Dunk Shot,-2,-2,0,1,2.0,2.0,h
+S2425-G0125,3,03:42,OKC,,SAS,,S. Gilgeous-Alexander,OKC,SUB: Mitchell FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,h
+S2425-G0125,4,05:28,OKC,,SAS,,S. Gilgeous-Alexander,OKC,MISS Gilgeous-Alexander 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,47,131,14,1,2.0,0.0,h
+S2425-G0125,4,03:41,OKC,,SAS,,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0125,4,03:38,OKC,101.0,SAS,82.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 1' Running Layup (16 PTS) (Dieng 3 AST),Made Shot,Running Layup Shot,-7,-8,1,1,2.0,2.0,h
+S2425-G0125,4,02:57,OKC,103.0,SAS,85.0,S. Gilgeous-Alexander,OKC,Gilgeous-Alexander 9' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,67,58,9,1,2.0,2.0,h
+S2425-G0125,4,02:46,OKC,,SAS,,S. Gilgeous-Alexander,OKC,SUB: Jones FOR Gilgeous-Alexander,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,25 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,2,09:02,TOR,,PHI,,D. Carton,TOR,Carton STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0078,2,09:00,TOR,,PHI,,D. Carton,TOR,Carton Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0078,2,07:23,TOR,,PHI,,D. Carton,TOR,Carton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,2,06:43,TOR,,PHI,,D. Carton,TOR,SUB: Dick FOR Carton,Substitution,,0,0,0,0,,,h
+S2425-G0078,4,11:41,TOR,,PHI,,D. Carton,TOR,Carton STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0078,4,10:52,TOR,,PHI,,D. Carton,TOR,MISS Carton 28' 3PT Jump Shot,Missed Shot,Jump Shot,-141,241,28,1,3.0,0.0,h
+S2425-G0078,4,09:58,TOR,,PHI,,D. Carton,TOR,MISS Carton 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-17,58,6,1,2.0,0.0,h
+S2425-G0078,4,08:34,TOR,,PHI,,D. Carton,TOR,Carton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0078,4,07:52,TOR,,PHI,,D. Carton,TOR,SUB: Mitchell FOR Carton,Substitution,,0,0,0,0,,,h
+S2425-G0078,4,01:56,TOR,,PHI,,D. Carton,TOR,MISS Carton 27' 3PT Jump Shot,Missed Shot,Jump Shot,-94,248,27,1,3.0,0.0,h
+S2425-G0078,4,01:12,TOR,,PHI,,D. Carton,TOR,Carton S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0107,2,08:45,TOR,,DEN,,D. Carton,TOR,MISS Carton 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,-43,58,7,1,2.0,0.0,h
+S2425-G0107,2,06:41,TOR,,DEN,,D. Carton,TOR,MISS Carton 3PT Jump Shot,Missed Shot,Jump Shot,-225,-9,0,1,3.0,0.0,h
+S2425-G0107,2,06:40,TOR,,DEN,,D. Carton,TOR,SUB: Dick FOR Carton,Substitution,,0,0,0,0,,,h
+S2425-G0093,2,08:12,MIN,,TOR,,D. Carton,TOR,Carton Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0093,2,06:59,MIN,,TOR,,D. Carton,TOR,Carton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,2,06:56,MIN,,TOR,,D. Carton,TOR,Carton Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0093,2,06:06,MIN,40.0,TOR,26.0,D. Carton,TOR,Carton 1' Running Layup (2 PTS) (Mogbo 1 AST),Made Shot,Running Layup Shot,7,3,1,1,2.0,2.0,v
+S2425-G0093,2,06:06,MIN,40.0,TOR,27.0,D. Carton,TOR,Carton Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0093,2,03:27,MIN,,TOR,,D. Carton,TOR,Carton Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0093,2,03:27,MIN,,TOR,,D. Carton,TOR,SUB: Barnes FOR Carton,Substitution,,0,0,0,0,,,v
+S2425-G0093,4,08:18,MIN,,TOR,,D. Carton,TOR,MISS Carton 4' Layup,Missed Shot,Layup Shot,-33,18,4,1,2.0,0.0,v
+S2425-G0093,4,07:24,MIN,,TOR,,D. Carton,TOR,Carton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0093,4,06:52,MIN,,TOR,,D. Carton,TOR,SUB: Dick FOR Carton,Substitution,,0,0,0,0,,,v

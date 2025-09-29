@@ -1,0 +1,3 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0115,4,00:27.500000,UTA,,SAC,,C. Jones,SAC,C. Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0115,4,00:18.900000,UTA,,SAC,,C. Jones,SAC,C. Jones BLOCK (1 BLK),,,0,0,0,0,,,v

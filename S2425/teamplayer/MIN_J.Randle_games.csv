@@ -1,0 +1,147 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0062,1,08:10,LAL,,MIN,,J. Randle,MIN,MISS Randle 1' Running Layup,Missed Shot,Running Layup Shot,0,10,1,1,2.0,0.0,v
+S2425-G0062,1,07:37,LAL,,MIN,,J. Randle,MIN,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,1,07:25,LAL,,MIN,,J. Randle,MIN,Randle Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0062,1,06:06,LAL,,MIN,,J. Randle,MIN,SUB: Reid FOR Randle,Substitution,,0,0,0,0,,,v
+S2425-G0062,1,01:14,LAL,,MIN,,J. Randle,MIN,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,2,11:14,LAL,24.0,MIN,26.0,J. Randle,MIN,Randle 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,61,256,26,1,3.0,3.0,v
+S2425-G0062,2,09:09,LAL,,MIN,,J. Randle,MIN,Randle Offensive Charge Foul (P1) (J.Williams),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0062,2,09:09,LAL,,MIN,,J. Randle,MIN,Randle Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0062,2,08:33,LAL,,MIN,,J. Randle,MIN,SUB: Gobert FOR Randle,Substitution,,0,0,0,0,,,v
+S2425-G0062,2,03:42,LAL,51.0,MIN,37.0,J. Randle,MIN,Randle 7' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-2,68,7,1,2.0,2.0,v
+S2425-G0062,2,01:35,LAL,,MIN,,J. Randle,MIN,Randle REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,2,01:03,LAL,,MIN,,J. Randle,MIN,Randle REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,2,00:53.900000,LAL,,MIN,,J. Randle,MIN,MISS Randle 27' 3PT Jump Shot,Missed Shot,Jump Shot,-83,257,27,1,3.0,0.0,v
+S2425-G0062,3,10:06,LAL,,MIN,,J. Randle,MIN,Randle S.FOUL (P2.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0062,3,09:09,LAL,,MIN,,J. Randle,MIN,MISS Randle 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,54,24,1,3.0,0.0,v
+S2425-G0062,3,06:17,LAL,,MIN,,J. Randle,MIN,MISS Randle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0062,3,06:17,LAL,66.0,MIN,54.0,J. Randle,MIN,Randle Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,3,05:29,LAL,,MIN,,J. Randle,MIN,SUB: Reid FOR Randle,Substitution,,0,0,0,0,,,v
+S2425-G0062,3,02:43,LAL,,MIN,,J. Randle,MIN,MISS Randle 13' Jump Shot,Missed Shot,Jump Shot,56,115,13,1,2.0,0.0,v
+S2425-G0062,3,02:30,LAL,,MIN,,J. Randle,MIN,Randle REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,3,01:51,LAL,80.0,MIN,69.0,J. Randle,MIN,Randle 1' Floating Jump Shot (8 PTS),Made Shot,Floating Jump shot,-4,10,1,1,2.0,2.0,v
+S2425-G0062,3,00:49.500000,LAL,,MIN,,J. Randle,MIN,Randle REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,3,00:49.500000,LAL,82.0,MIN,72.0,J. Randle,MIN,Randle Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,3,00:49.500000,LAL,,MIN,,J. Randle,MIN,MISS Randle Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0062,4,06:52,LAL,,MIN,,J. Randle,MIN,Randle P.FOUL (P3.PN) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2425-G0062,4,06:50,LAL,,MIN,,J. Randle,MIN,Randle REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,4,01:56,LAL,,MIN,,J. Randle,MIN,Randle REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,4,01:56,LAL,107.0,MIN,97.0,J. Randle,MIN,Randle 1' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,5,-9,1,1,2.0,2.0,v
+S2425-G0062,4,01:56,LAL,107.0,MIN,98.0,J. Randle,MIN,Randle Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0062,4,01:19,LAL,110.0,MIN,100.0,J. Randle,MIN,Randle Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,4,01:19,LAL,110.0,MIN,101.0,J. Randle,MIN,Randle Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0062,4,00:23.300000,LAL,,MIN,,J. Randle,MIN,Randle REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0062,4,00:23.300000,LAL,110.0,MIN,103.0,J. Randle,MIN,Randle Tip Layup Shot (16 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0062,4,00:19.600000,LAL,,MIN,,J. Randle,MIN,MISS Randle 3' Driving Layup,Missed Shot,Driving Layup Shot,6,31,3,1,2.0,0.0,v
+S2425-G0093,1,10:13,MIN,5.0,TOR,0.0,J. Randle,MIN,Randle 2' Driving Layup (2 PTS) (Conley 1 AST),Made Shot,Driving Layup Shot,-15,10,2,1,2.0,2.0,h
+S2425-G0093,1,09:49,MIN,,TOR,,J. Randle,MIN,MISS Randle 3PT Jump Shot,Missed Shot,Jump Shot,-227,10,0,1,3.0,0.0,h
+S2425-G0093,1,09:04,MIN,,TOR,,J. Randle,MIN,Randle P.FOUL (P1.T1) (D.Scott),Foul,Personal,0,0,0,0,,,h
+S2425-G0093,1,07:55,MIN,,TOR,,J. Randle,MIN,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,06:56,MIN,16.0,TOR,3.0,J. Randle,MIN,Randle 25' 3PT Jump Shot (5 PTS) (Edwards 2 AST),Made Shot,Jump Shot,-92,235,25,1,3.0,3.0,h
+S2425-G0093,1,06:43,MIN,,TOR,,J. Randle,MIN,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,06:39,MIN,,TOR,,J. Randle,MIN,Randle Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0093,1,04:54,MIN,,TOR,,J. Randle,MIN,Randle REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,04:09,MIN,,TOR,,J. Randle,MIN,Randle REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,1,03:43,MIN,,TOR,,J. Randle,MIN,SUB: Gobert FOR Randle,Substitution,,0,0,0,0,,,h
+S2425-G0093,2,08:10,MIN,,TOR,,J. Randle,MIN,Randle Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0093,2,07:45,MIN,,TOR,,J. Randle,MIN,MISS Randle 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,25,153,16,1,2.0,0.0,h
+S2425-G0093,2,06:44,MIN,,TOR,,J. Randle,MIN,MISS Randle 4' Driving Layup,Missed Shot,Driving Layup Shot,-15,41,4,1,2.0,0.0,h
+S2425-G0093,2,06:10,MIN,,TOR,,J. Randle,MIN,Randle Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0093,2,05:43,MIN,,TOR,,J. Randle,MIN,Randle Traveling Turnover (P4.T6),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0093,2,03:59,MIN,47.0,TOR,33.0,J. Randle,MIN,Randle 2' Cutting Dunk Shot (7 PTS) (Ingles 4 AST),Made Shot,Cutting Dunk Shot,-13,12,2,1,2.0,2.0,h
+S2425-G0093,2,03:31,MIN,,TOR,,J. Randle,MIN,MISS Randle 3' Layup,Missed Shot,Layup Shot,-25,20,3,1,2.0,0.0,h
+S2425-G0093,2,02:12,MIN,,TOR,,J. Randle,MIN,Randle REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,2,02:00,MIN,,TOR,,J. Randle,MIN,Randle REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,2,01:35,MIN,54.0,TOR,37.0,J. Randle,MIN,Randle 2' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,-4,17,2,1,2.0,2.0,h
+S2425-G0093,3,11:12,MIN,58.0,TOR,46.0,J. Randle,MIN,Randle 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,-32,0,3,1,2.0,2.0,h
+S2425-G0093,3,09:30,MIN,,TOR,,J. Randle,MIN,MISS Randle 24' 3PT Jump Shot,Missed Shot,Jump Shot,-188,147,24,1,3.0,0.0,h
+S2425-G0093,3,08:55,MIN,62.0,TOR,51.0,J. Randle,MIN,Randle Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,3,08:55,MIN,63.0,TOR,51.0,J. Randle,MIN,Randle Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,3,07:01,MIN,72.0,TOR,56.0,J. Randle,MIN,Randle Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,3,07:01,MIN,73.0,TOR,56.0,J. Randle,MIN,Randle Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,3,05:30,MIN,78.0,TOR,56.0,J. Randle,MIN,Randle 3' Running Layup (17 PTS) (Edwards 3 AST),Made Shot,Running Layup Shot,-29,3,3,1,2.0,2.0,h
+S2425-G0093,3,03:57,MIN,,TOR,,J. Randle,MIN,Randle S.FOUL (P2.T3) (D.Scott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0093,3,03:38,MIN,82.0,TOR,60.0,J. Randle,MIN,Randle 3' Cutting Layup Shot (19 PTS) (DiVincenzo 2 AST),Made Shot,Cutting Layup Shot,-27,9,3,1,2.0,2.0,h
+S2425-G0093,3,03:10,MIN,84.0,TOR,63.0,J. Randle,MIN,Randle 4' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,-36,25,4,1,2.0,2.0,h
+S2425-G0093,3,03:10,MIN,,TOR,,J. Randle,MIN,MISS Randle Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0093,3,01:52,MIN,,TOR,,J. Randle,MIN,SUB: Gobert FOR Randle,Substitution,,0,0,0,0,,,h
+S2425-G0093,4,08:48,MIN,,TOR,,J. Randle,MIN,MISS Randle 3PT Jump Shot,Missed Shot,Jump Shot,223,55,0,1,3.0,0.0,h
+S2425-G0093,4,07:31,MIN,,TOR,,J. Randle,MIN,Randle REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,07:27,MIN,,TOR,,J. Randle,MIN,MISS Randle 3' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-1,30,3,1,2.0,0.0,h
+S2425-G0093,4,06:03,MIN,,TOR,,J. Randle,MIN,Randle REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,05:29,MIN,100.0,TOR,86.0,J. Randle,MIN,Randle 1' Cutting Dunk Shot (23 PTS) (Gobert 1 AST),Made Shot,Cutting Dunk Shot,0,8,1,1,2.0,2.0,h
+S2425-G0093,4,03:37,MIN,,TOR,,J. Randle,MIN,Randle REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0093,4,01:45,MIN,105.0,TOR,96.0,J. Randle,MIN,Randle Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0093,4,01:45,MIN,,TOR,,J. Randle,MIN,MISS Randle Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0114,1,11:35,MIN,,DAL,,J. Randle,MIN,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,1,08:03,MIN,,DAL,,J. Randle,MIN,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,1,07:31,MIN,15.0,DAL,13.0,J. Randle,MIN,Randle 24' 3PT Jump Shot (3 PTS) (Edwards 1 AST),Made Shot,Jump Shot,228,87,24,1,3.0,3.0,h
+S2425-G0114,1,06:32,MIN,,DAL,,J. Randle,MIN,Randle REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,1,06:28,MIN,,DAL,,J. Randle,MIN,Randle Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0114,1,05:44,MIN,,DAL,,J. Randle,MIN,Randle REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,1,03:23,MIN,,DAL,,J. Randle,MIN,MISS Randle 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,104,48,11,1,2.0,0.0,h
+S2425-G0114,1,02:50,MIN,,DAL,,J. Randle,MIN,MISS Randle 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,145,1,15,1,2.0,0.0,h
+S2425-G0114,1,01:37,MIN,,DAL,,J. Randle,MIN,SUB: Gobert FOR Randle,Substitution,,0,0,0,0,,,h
+S2425-G0114,2,05:48,MIN,47.0,DAL,42.0,J. Randle,MIN,Randle 3PT Step Back Jump Shot (6 PTS) (McDaniels 1 AST),Made Shot,Step Back Jump shot,227,-27,0,1,3.0,3.0,h
+S2425-G0114,2,05:16,MIN,,DAL,,J. Randle,MIN,MISS Randle 3' Driving Layup,Missed Shot,Driving Layup Shot,-15,30,3,1,2.0,0.0,h
+S2425-G0114,2,03:08,MIN,,DAL,,J. Randle,MIN,MISS Randle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0114,2,03:08,MIN,50.0,DAL,54.0,J. Randle,MIN,Randle Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,2,02:50,MIN,52.0,DAL,54.0,J. Randle,MIN,Randle 1' Running Dunk (9 PTS) (McDaniels 2 AST),Made Shot,Running Dunk Shot,1,5,1,1,2.0,2.0,h
+S2425-G0114,2,02:21,MIN,55.0,DAL,54.0,J. Randle,MIN,Randle 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-186,173,25,1,3.0,3.0,h
+S2425-G0114,2,01:28,MIN,,DAL,,J. Randle,MIN,Randle STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0114,2,01:22,MIN,,DAL,,J. Randle,MIN,Randle Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0114,2,00:32.400000,MIN,,DAL,,J. Randle,MIN,MISS Randle 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-28,101,10,1,2.0,0.0,h
+S2425-G0114,2,00:00.200000,MIN,,DAL,,J. Randle,MIN,Randle REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,09:59,MIN,66.0,DAL,61.0,J. Randle,MIN,Randle 13' Pullup Jump Shot (14 PTS) (Conley 5 AST),Made Shot,Pullup Jump shot,10,134,13,1,2.0,2.0,h
+S2425-G0114,3,08:52,MIN,,DAL,,J. Randle,MIN,MISS Randle 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,21,107,11,1,2.0,0.0,h
+S2425-G0114,3,08:45,MIN,71.0,DAL,64.0,J. Randle,MIN,Randle 4' Cutting Finger Roll Layup Shot (16 PTS) (McDaniels 3 AST),Made Shot,Cutting Finger Roll Layup Shot,5,38,4,1,2.0,2.0,h
+S2425-G0114,3,07:29,MIN,,DAL,,J. Randle,MIN,Randle Offensive Charge Foul (P1) (A.Moyer-Gleich),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0114,3,07:29,MIN,,DAL,,J. Randle,MIN,Randle Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0114,3,06:44,MIN,,DAL,,J. Randle,MIN,SUB: Reid FOR Randle,Substitution,,0,0,0,0,,,h
+S2425-G0114,3,04:14,MIN,,DAL,,J. Randle,MIN,Randle REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,3,03:49,MIN,,DAL,,J. Randle,MIN,Randle P.FOUL (P2.T3) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2425-G0114,3,02:19,MIN,77.0,DAL,83.0,J. Randle,MIN,Randle 3' Driving Layup (18 PTS) (Alexander-Walker 1 AST),Made Shot,Driving Layup Shot,16,20,3,1,2.0,2.0,h
+S2425-G0114,3,01:54,MIN,,DAL,,J. Randle,MIN,Randle STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0114,3,01:51,MIN,,DAL,,J. Randle,MIN,Randle S.FOUL (P3.T4) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2425-G0114,3,01:51,MIN,,DAL,,J. Randle,MIN,SUB: Gobert FOR Randle,Substitution,,0,0,0,0,,,h
+S2425-G0114,4,08:18,MIN,,DAL,,J. Randle,MIN,MISS Randle 4' Driving Layup,Missed Shot,Driving Layup Shot,-15,34,4,1,2.0,0.0,h
+S2425-G0114,4,07:28,MIN,,DAL,,J. Randle,MIN,Randle REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0114,4,02:14,MIN,108.0,DAL,112.0,J. Randle,MIN,Randle Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,4,02:14,MIN,109.0,DAL,112.0,J. Randle,MIN,Randle Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0114,4,00:38.200000,MIN,,DAL,,J. Randle,MIN,Randle S.FOUL (P4.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2425-G0076,1,11:31,SAC,,MIN,,J. Randle,MIN,Randle Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0076,1,10:48,SAC,,MIN,,J. Randle,MIN,Randle S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2425-G0076,1,09:23,SAC,5.0,MIN,8.0,J. Randle,MIN,Randle 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-78,236,25,1,3.0,3.0,v
+S2425-G0076,1,08:09,SAC,,MIN,,J. Randle,MIN,MISS Randle 25' 3PT Jump Shot,Missed Shot,Jump Shot,-127,213,25,1,3.0,0.0,v
+S2425-G0076,1,06:46,SAC,14.0,MIN,11.0,J. Randle,MIN,Randle 25' 3PT Jump Shot (6 PTS) (Conley 1 AST),Made Shot,Jump Shot,123,214,25,1,3.0,3.0,v
+S2425-G0076,1,05:11,SAC,,MIN,,J. Randle,MIN,SUB: DiVincenzo FOR Randle,Substitution,,0,0,0,0,,,v
+S2425-G0076,1,00:30.400000,SAC,32.0,MIN,26.0,J. Randle,MIN,Randle 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-34,5,3,1,2.0,2.0,v
+S2425-G0076,1,00:30.400000,SAC,,MIN,,J. Randle,MIN,MISS Randle Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0076,1,00:00,SAC,32.0,MIN,29.0,J. Randle,MIN,Randle 25' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,-100,230,25,1,3.0,3.0,v
+S2425-G0076,2,10:25,SAC,36.0,MIN,31.0,J. Randle,MIN,Randle 13' Floating Jump Shot (13 PTS),Made Shot,Floating Jump shot,26,125,13,1,2.0,2.0,v
+S2425-G0076,2,09:50,SAC,38.0,MIN,33.0,J. Randle,MIN,Randle 16' Driving Floating Jump Shot (15 PTS) (Ingles 1 AST),Made Shot,Driving Floating Jump Shot,64,143,16,1,2.0,2.0,v
+S2425-G0076,2,08:47,SAC,41.0,MIN,36.0,J. Randle,MIN,Randle Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0076,2,08:47,SAC,41.0,MIN,37.0,J. Randle,MIN,Randle Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0076,2,07:51,SAC,,MIN,,J. Randle,MIN,SUB: Gobert FOR Randle,Substitution,,0,0,0,0,,,v
+S2425-G0076,2,06:45,SAC,,MIN,,J. Randle,MIN,MISS Randle 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-130,11,13,1,2.0,0.0,v
+S2425-G0076,2,06:32,SAC,,MIN,,J. Randle,MIN,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,2,06:16,SAC,48.0,MIN,42.0,J. Randle,MIN,Randle 10' Turnaround Fadeaway (19 PTS),Made Shot,Turnaround Fadeaway shot,88,42,10,1,2.0,2.0,v
+S2425-G0076,2,05:16,SAC,,MIN,,J. Randle,MIN,Randle OFF.Foul (P2) (S.Mehta),Foul,Offensive,0,0,0,0,,,v
+S2425-G0076,2,05:16,SAC,,MIN,,J. Randle,MIN,Randle Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0076,2,04:16,SAC,50.0,MIN,48.0,J. Randle,MIN,Randle 3PT Jump Shot (22 PTS) (Conley 2 AST),Made Shot,Jump Shot,-230,-17,0,1,3.0,3.0,v
+S2425-G0076,2,03:37,SAC,,MIN,,J. Randle,MIN,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,2,03:34,SAC,,MIN,,J. Randle,MIN,SUB: Reid FOR Randle,Substitution,,0,0,0,0,,,v
+S2425-G0076,3,10:39,SAC,64.0,MIN,61.0,J. Randle,MIN,Randle 26' 3PT Jump Shot (25 PTS) (Gobert 1 AST),Made Shot,Jump Shot,-129,223,26,1,3.0,3.0,v
+S2425-G0076,3,09:16,SAC,,MIN,,J. Randle,MIN,MISS Randle 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,34,121,13,1,2.0,0.0,v
+S2425-G0076,3,08:09,SAC,,MIN,,J. Randle,MIN,Randle REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,3,06:03,SAC,,MIN,,J. Randle,MIN,Randle REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,3,04:57,SAC,81.0,MIN,76.0,J. Randle,MIN,Randle 8' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,-65,52,8,1,2.0,2.0,v
+S2425-G0076,3,03:27,SAC,86.0,MIN,78.0,J. Randle,MIN,Randle 6' Running Dunk (29 PTS) (Reid 2 AST),Made Shot,Running Dunk Shot,-42,37,6,1,2.0,2.0,v
+S2425-G0076,3,03:07,SAC,,MIN,,J. Randle,MIN,SUB: Gobert FOR Randle,Substitution,,0,0,0,0,,,v
+S2425-G0076,4,06:50,SAC,,MIN,,J. Randle,MIN,Randle REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0076,4,06:08,SAC,99.0,MIN,105.0,J. Randle,MIN,Randle 2' Layup (31 PTS),Made Shot,Layup Shot,11,18,2,1,2.0,2.0,v
+S2425-G0076,4,03:16,SAC,108.0,MIN,112.0,J. Randle,MIN,Randle 8' Fadeaway Jumper (33 PTS),Made Shot,Fadeaway Jump Shot,-4,79,8,1,2.0,2.0,v
+S2425-G0076,4,02:49,SAC,,MIN,,J. Randle,MIN,Randle Traveling Turnover (P3.T17),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0076,4,02:20,SAC,,MIN,,J. Randle,MIN,Randle S.FOUL (P3.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2425-G0076,4,02:02,SAC,,MIN,,J. Randle,MIN,MISS Randle 9' Floating Jump Shot,Missed Shot,Floating Jump shot,2,86,9,1,2.0,0.0,v
+S2425-G0076,4,00:02.400000,SAC,,MIN,,J. Randle,MIN,SUB: Alexander-Walker FOR Randle,Substitution,,0,0,0,0,,,v

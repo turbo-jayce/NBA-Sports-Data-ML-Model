@@ -1,0 +1,6 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0067,4,07:41,TOR,,CLE,,G. Temple,TOR,MISS Temple 25' 3PT Jump Shot,Missed Shot,Jump Shot,241,57,25,1,3.0,0.0,h
+S2425-G0067,4,05:16,TOR,,CLE,,G. Temple,TOR,Temple STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0067,4,04:30,TOR,,CLE,,G. Temple,TOR,Temple S.FOUL (P1.T4) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,4,03:42,TOR,,CLE,,G. Temple,TOR,Temple S.FOUL (P2.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0067,4,00:41.700000,TOR,106.0,CLE,136.0,G. Temple,TOR,Temple 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-15,97,10,1,2.0,2.0,h

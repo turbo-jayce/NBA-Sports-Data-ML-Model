@@ -1,0 +1,40 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0078,2,08:43,TOR,,PHI,,J. McCain,PHI,McCain REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0078,2,05:55,TOR,,PHI,,J. McCain,PHI,SUB: Gordon FOR McCain,Substitution,,0,0,0,0,,,v
+S2425-G0097,1,00:12,IND,,PHI,,J. McCain,PHI,McCain REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,2,11:46,IND,,PHI,,J. McCain,PHI,MISS McCain 9' Driving Layup,Missed Shot,Driving Layup Shot,70,56,9,1,2.0,0.0,v
+S2425-G0097,2,10:37,IND,,PHI,,J. McCain,PHI,McCain REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0097,2,10:37,IND,28.0,PHI,32.0,J. McCain,PHI,McCain Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0097,2,10:01,IND,28.0,PHI,34.0,J. McCain,PHI,McCain 2' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,-6,14,2,1,2.0,2.0,v
+S2425-G0097,2,09:28,IND,,PHI,,J. McCain,PHI,MISS McCain 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,194,26,1,3.0,0.0,v
+S2425-G0097,2,07:47,IND,,PHI,,J. McCain,PHI,SUB: Gordon FOR McCain,Substitution,,0,0,0,0,,,v
+S2425-G0097,2,01:41,IND,,PHI,,J. McCain,PHI,SUB: Yabusele FOR McCain,Substitution,,0,0,0,0,,,v
+S2425-G0097,3,01:35,IND,,PHI,,J. McCain,PHI,McCain Offensive Charge Foul (P1) (J.Sterling),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0097,3,01:35,IND,,PHI,,J. McCain,PHI,McCain Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0097,4,10:29,IND,,PHI,,J. McCain,PHI,MISS McCain 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,13,24,1,3.0,0.0,v
+S2425-G0097,4,09:28,IND,,PHI,,J. McCain,PHI,SUB: C. Martin FOR McCain,Substitution,,0,0,0,0,,,v
+S2425-G0120,2,04:53,PHI,37.0,DET,39.0,J. McCain,PHI,McCain Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0120,2,04:53,PHI,38.0,DET,39.0,J. McCain,PHI,McCain Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0120,2,03:57,PHI,,DET,,J. McCain,PHI,MISS McCain 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,23,73,8,1,2.0,0.0,h
+S2425-G0120,2,02:52,PHI,39.0,DET,45.0,J. McCain,PHI,McCain Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0120,2,02:52,PHI,40.0,DET,45.0,J. McCain,PHI,McCain Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0120,2,01:35,PHI,,DET,,J. McCain,PHI,McCain Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0120,2,00:27.400000,PHI,,DET,,J. McCain,PHI,SUB: Yabusele FOR McCain,Substitution,,0,0,0,0,,,h
+S2425-G0120,3,03:45,PHI,,DET,,J. McCain,PHI,MISS McCain 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-1,31,3,1,2.0,0.0,h
+S2425-G0120,3,02:57,PHI,60.0,DET,79.0,J. McCain,PHI,McCain 2' Driving Layup (6 PTS) (Maxey 5 AST),Made Shot,Driving Layup Shot,11,17,2,1,2.0,2.0,h
+S2425-G0120,3,00:10.100000,PHI,,DET,,J. McCain,PHI,MISS McCain 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,20,13,2,1,2.0,0.0,h
+S2425-G0120,4,09:57,PHI,73.0,DET,87.0,J. McCain,PHI,McCain 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-15,21,3,1,2.0,2.0,h
+S2425-G0120,4,07:39,PHI,,DET,,J. McCain,PHI,MISS McCain 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,15,12,2,1,2.0,0.0,h
+S2425-G0120,4,05:39,PHI,,DET,,J. McCain,PHI,MISS McCain 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,89,249,26,1,3.0,0.0,h
+S2425-G0120,4,03:36,PHI,,DET,,J. McCain,PHI,McCain REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,4,03:08,PHI,,DET,,J. McCain,PHI,MISS McCain 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-44,120,13,1,2.0,0.0,h
+S2425-G0120,4,01:58,PHI,,DET,,J. McCain,PHI,McCain REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,4,01:00,PHI,,DET,,J. McCain,PHI,McCain REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0120,4,00:55.900000,PHI,92.0,DET,105.0,J. McCain,PHI,McCain Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0120,4,00:55.900000,PHI,93.0,DET,105.0,J. McCain,PHI,McCain Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0120,4,00:13.400000,PHI,95.0,DET,105.0,J. McCain,PHI,McCain 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,28,7,3,1,2.0,2.0,h
+S2425-G0066,4,02:27,PHI,101.0,MIL,117.0,J. McCain,PHI,McCain 18' Pullup Jump Shot (2 PTS) (Quinones 1 AST),Made Shot,Pullup Jump shot,-9,183,18,1,2.0,2.0,h
+S2425-G0066,4,02:15,PHI,,MIL,,J. McCain,PHI,McCain REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,4,02:01,PHI,,MIL,,J. McCain,PHI,MISS McCain 32' 3PT Jump Shot,Missed Shot,Jump Shot,-23,315,32,1,3.0,0.0,h
+S2425-G0066,4,01:52,PHI,,MIL,,J. McCain,PHI,McCain REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,4,01:52,PHI,103.0,MIL,117.0,J. McCain,PHI,McCain Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h

@@ -1,0 +1,58 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,10:17,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 3PT Jump Shot,Missed Shot,Jump Shot,224,52,0,1,3.0,0.0,h
+S2425-G0126,1,07:42,GSW,9.0,NOP,5.0,L. Waters III,GSW,Waters III 26' 3PT Jump Shot (3 PTS) (Jackson-Davis 1 AST),Made Shot,Jump Shot,109,236,26,1,3.0,3.0,h
+S2425-G0126,1,04:47,GSW,,NOP,,L. Waters III,GSW,Waters III Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0126,1,03:58,GSW,,NOP,,L. Waters III,GSW,SUB: Anderson FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,06:24,GSW,,NOP,,L. Waters III,GSW,SUB: Payton II FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0126,3,08:32,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,06:42,GSW,,NOP,,L. Waters III,GSW,Waters III P.FOUL (P1.T3) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,3,06:36,GSW,,NOP,,L. Waters III,GSW,Waters III STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0126,3,06:00,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 27' 3PT Jump Shot,Missed Shot,Jump Shot,178,202,27,1,3.0,0.0,h
+S2425-G0126,3,04:26,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 3PT Jump Shot,Missed Shot,Jump Shot,-224,8,0,1,3.0,0.0,h
+S2425-G0126,3,04:11,GSW,,NOP,,L. Waters III,GSW,SUB: Kuminga FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,11:43,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-17,24,1,3.0,0.0,h
+S2425-G0126,4,08:43,GSW,,NOP,,L. Waters III,GSW,Waters III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0126,4,07:22,GSW,,NOP,,L. Waters III,GSW,SUB: Moody FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0072,4,04:44,POR,,GSW,,L. Waters III,GSW,Waters III S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2425-G0072,4,02:18,POR,,GSW,,L. Waters III,GSW,Waters III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,4,02:14,POR,93.0,GSW,131.0,L. Waters III,GSW,Waters III 27' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,60,262,27,1,3.0,3.0,v
+S2425-G0072,4,01:54,POR,,GSW,,L. Waters III,GSW,Waters III S.FOUL (P2.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2425-G0072,4,01:19,POR,98.0,GSW,135.0,L. Waters III,GSW,Waters III 1' Running Dunk (5 PTS) (Moody 1 AST),Made Shot,Running Dunk Shot,-4,-6,1,1,2.0,2.0,v
+S2425-G0072,4,00:24.500000,POR,104.0,GSW,140.0,L. Waters III,GSW,Waters III 3PT Jump Shot (8 PTS) (Moody 2 AST),Made Shot,Jump Shot,-227,-6,0,1,3.0,3.0,v
+S2425-G0116,1,02:35,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 27' 3PT Jump Shot,Missed Shot,Jump Shot,-129,240,27,1,3.0,0.0,h
+S2425-G0116,1,00:07.600000,GSW,,NOP,,L. Waters III,GSW,SUB: Payton II FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,11:17,GSW,16.0,NOP,34.0,L. Waters III,GSW,Waters III 4' Cutting Layup Shot (2 PTS) (Anderson 1 AST),Made Shot,Cutting Layup Shot,37,14,4,1,2.0,2.0,h
+S2425-G0116,2,11:03,GSW,,NOP,,L. Waters III,GSW,Waters III L.B.FOUL (P1.T2) (J.Schroeder),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0116,2,10:51,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,10:15,GSW,,NOP,,L. Waters III,GSW,Waters III STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,2,10:10,GSW,21.0,NOP,34.0,L. Waters III,GSW,Waters III 20' Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,-98,174,20,1,2.0,2.0,h
+S2425-G0116,2,09:33,GSW,24.0,NOP,34.0,L. Waters III,GSW,Waters III 27' 3PT Jump Shot (7 PTS) (Anderson 2 AST),Made Shot,Jump Shot,-210,162,27,1,3.0,3.0,h
+S2425-G0116,2,08:55,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 8' Driving Layup,Missed Shot,Driving Layup Shot,72,38,8,1,2.0,0.0,h
+S2425-G0116,2,08:53,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,08:53,GSW,25.0,NOP,36.0,L. Waters III,GSW,Waters III Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,2,08:53,GSW,26.0,NOP,36.0,L. Waters III,GSW,Waters III Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0116,2,05:07,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,04:07,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,03:59,GSW,,NOP,,L. Waters III,GSW,SUB: Hield FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0116,3,11:41,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,11:33,GSW,50.0,NOP,51.0,L. Waters III,GSW,Waters III 26' 3PT Jump Shot (12 PTS) (Green 2 AST),Made Shot,Jump Shot,-76,247,26,1,3.0,3.0,h
+S2425-G0116,3,09:06,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 26' 3PT Jump Shot,Missed Shot,Jump Shot,223,142,26,1,3.0,0.0,h
+S2425-G0116,3,08:54,GSW,61.0,NOP,64.0,L. Waters III,GSW,Waters III 1' Running Reverse Layup (14 PTS),Made Shot,Running Reverse Layup Shot,11,0,1,1,2.0,2.0,h
+S2425-G0116,3,06:49,GSW,69.0,NOP,67.0,L. Waters III,GSW,Waters III 28' 3PT Jump Shot (17 PTS) (Green 5 AST),Made Shot,Jump Shot,121,256,28,1,3.0,3.0,h
+S2425-G0116,3,05:02,GSW,,NOP,,L. Waters III,GSW,Jump Ball Waters III vs. Missi: Tip to Jackson-Davis,Jump Ball,,0,0,0,0,,,h
+S2425-G0116,3,04:46,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,3,02:36,GSW,,NOP,,L. Waters III,GSW,SUB: Hield FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0116,4,11:09,GSW,92.0,NOP,81.0,L. Waters III,GSW,Waters III 4' Cutting Dunk Shot (19 PTS) (Kuminga 2 AST),Made Shot,Cutting Dunk Shot,2,41,4,1,2.0,2.0,h
+S2425-G0116,4,10:19,GSW,,NOP,,L. Waters III,GSW,Waters III S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,4,07:55,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 26' 3PT Jump Shot,Missed Shot,Jump Shot,136,226,26,1,3.0,0.0,h
+S2425-G0116,4,06:06,GSW,103.0,NOP,89.0,L. Waters III,GSW,Waters III 19' Pullup Jump Shot (21 PTS) (Looney 2 AST),Made Shot,Pullup Jump shot,-180,55,19,1,2.0,2.0,h
+S2425-G0116,4,05:26,GSW,,NOP,,L. Waters III,GSW,Waters III S.FOUL (P3.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,4,04:43,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,03:44,GSW,,NOP,,L. Waters III,GSW,MISS Waters III 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,230,34,0,1,3.0,0.0,h
+S2425-G0116,4,03:35,GSW,,NOP,,L. Waters III,GSW,Waters III REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,02:43,GSW,,NOP,,L. Waters III,GSW,SUB: Beekman FOR Waters III,Substitution,,0,0,0,0,,,h
+S2425-G0084,4,05:39,UTA,82.0,GSW,114.0,L. Waters III,GSW,Waters III 28' 3PT Jump Shot (3 PTS) (Podziemski 1 AST),Made Shot,Jump Shot,40,273,28,1,3.0,3.0,v
+S2425-G0084,4,04:35,UTA,,GSW,,L. Waters III,GSW,MISS Waters III 27' 3PT Jump Shot,Missed Shot,Jump Shot,221,151,27,1,3.0,0.0,v
+S2425-G0084,4,02:47,UTA,86.0,GSW,121.0,L. Waters III,GSW,Waters III 26' 3PT Pullup Jump Shot (6 PTS) (Anderson 3 AST),Made Shot,Pullup Jump shot,48,255,26,1,3.0,3.0,v
+S2425-G0084,4,02:29,UTA,,GSW,,L. Waters III,GSW,Waters III STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0084,4,00:55.400000,UTA,,GSW,,L. Waters III,GSW,Waters III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v

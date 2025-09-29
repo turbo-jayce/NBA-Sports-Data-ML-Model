@@ -1,0 +1,76 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0106,1,03:52,NYK,,CLE,,G. Niang,CLE,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,-234,-9,0,1,3.0,0.0,v
+S2425-G0106,1,02:37,NYK,,CLE,,G. Niang,CLE,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,01:01,NYK,,CLE,,G. Niang,CLE,MISS Niang 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,52,24,1,3.0,0.0,v
+S2425-G0106,1,00:48.400000,NYK,,CLE,,G. Niang,CLE,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,00:14.700000,NYK,,CLE,,G. Niang,CLE,SUB: Okoro FOR Niang,Substitution,,0,0,0,0,,,v
+S2425-G0106,2,10:21,NYK,,CLE,,G. Niang,CLE,MISS Niang 3' Driving Layup,Missed Shot,Driving Layup Shot,28,5,3,1,2.0,0.0,v
+S2425-G0106,2,10:10,NYK,,CLE,,G. Niang,CLE,SUB: Wade FOR Niang,Substitution,,0,0,0,0,,,v
+S2425-G0106,3,02:22,NYK,,CLE,,G. Niang,CLE,MISS Niang 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-137,218,26,1,3.0,0.0,v
+S2425-G0106,3,01:43,NYK,,CLE,,G. Niang,CLE,Niang REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,01:43,NYK,74.0,CLE,70.0,G. Niang,CLE,Niang 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-5,5,1,1,2.0,2.0,v
+S2425-G0106,3,00:02,NYK,,CLE,,G. Niang,CLE,SUB: Wade FOR Niang,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,11:11,NYK,,CLE,,G. Niang,CLE,Niang REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,4,10:31,NYK,80.0,CLE,81.0,G. Niang,CLE,Niang 3PT Jump Shot (5 PTS) (Merrill 2 AST),Made Shot,Jump Shot,-223,2,0,1,3.0,3.0,v
+S2425-G0106,4,10:11,NYK,,CLE,,G. Niang,CLE,Niang P.FOUL (P1.T2) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2425-G0106,4,09:25,NYK,,CLE,,G. Niang,CLE,Niang S.FOUL (P2.T4) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2425-G0106,4,08:43,NYK,,CLE,,G. Niang,CLE,Niang STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0106,4,08:31,NYK,,CLE,,G. Niang,CLE,SUB: Garland FOR Niang,Substitution,,0,0,0,0,,,v
+S2425-G0080,1,01:07,CLE,,DET,,G. Niang,CLE,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,1,00:12.800000,CLE,,DET,,G. Niang,CLE,SUB: Garland FOR Niang,Substitution,,0,0,0,0,,,h
+S2425-G0080,2,10:34,CLE,,DET,,G. Niang,CLE,MISS Niang 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,103,257,28,1,3.0,0.0,h
+S2425-G0080,2,10:19,CLE,,DET,,G. Niang,CLE,Niang P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2425-G0080,2,09:37,CLE,,DET,,G. Niang,CLE,SUB: Wade FOR Niang,Substitution,,0,0,0,0,,,h
+S2425-G0080,3,02:27,CLE,,DET,,G. Niang,CLE,Niang Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0080,3,01:16,CLE,,DET,,G. Niang,CLE,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,01:10,CLE,86.0,DET,79.0,G. Niang,CLE,Niang 26' 3PT Running Jump Shot (3 PTS),Made Shot,Running Jump Shot,107,239,26,1,3.0,3.0,h
+S2425-G0080,3,00:08,CLE,,DET,,G. Niang,CLE,SUB: Wade FOR Niang,Substitution,,0,0,0,0,,,h
+S2425-G0080,4,11:36,CLE,,DET,,G. Niang,CLE,Niang REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,4,09:35,CLE,,DET,,G. Niang,CLE,MISS Niang 1' Layup,Missed Shot,Layup Shot,7,13,1,1,2.0,0.0,h
+S2425-G0080,4,09:33,CLE,,DET,,G. Niang,CLE,Niang P.FOUL (P2.T3) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2425-G0080,4,09:33,CLE,,DET,,G. Niang,CLE,"Double Technical - Niang, Beasley (E.Malloy)",Foul,Double Technical,0,0,0,0,,,
+S2425-G0080,4,08:49,CLE,,DET,,G. Niang,CLE,Niang REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,4,08:40,CLE,,DET,,G. Niang,CLE,SUB: Garland FOR Niang,Substitution,,0,0,0,0,,,h
+S2425-G0080,4,00:17.900000,CLE,,DET,,G. Niang,CLE,Niang REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,1,06:07,WAS,,CLE,,G. Niang,CLE,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,-228,4,0,1,3.0,0.0,v
+S2425-G0090,1,04:12,WAS,,CLE,,G. Niang,CLE,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,-228,-8,0,1,3.0,0.0,v
+S2425-G0090,1,02:34,WAS,21.0,CLE,28.0,G. Niang,CLE,Niang 24' 3PT Jump Shot (3 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,235,17,24,1,3.0,3.0,v
+S2425-G0090,1,01:49,WAS,,CLE,,G. Niang,CLE,Niang REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,1,01:20,WAS,,CLE,,G. Niang,CLE,MISS Niang 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,59,41,7,1,2.0,0.0,v
+S2425-G0090,1,00:22,WAS,,CLE,,G. Niang,CLE,Niang STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0090,2,11:41,WAS,,CLE,,G. Niang,CLE,Niang REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,11:15,WAS,,CLE,,G. Niang,CLE,Niang REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,10:48,WAS,,CLE,,G. Niang,CLE,Niang REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,10:33,WAS,,CLE,,G. Niang,CLE,Niang REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,10:30,WAS,,CLE,,G. Niang,CLE,SUB: Jerome FOR Niang,Substitution,,0,0,0,0,,,v
+S2425-G0090,3,02:26,WAS,,CLE,,G. Niang,CLE,Niang P.FOUL (P1.PN) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2425-G0090,3,02:12,WAS,,CLE,,G. Niang,CLE,MISS Niang 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-16,24,1,3.0,0.0,v
+S2425-G0090,4,10:31,WAS,,CLE,,G. Niang,CLE,Niang REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,4,08:42,WAS,,CLE,,G. Niang,CLE,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,-232,-32,0,1,3.0,0.0,v
+S2425-G0090,4,07:43,WAS,,CLE,,G. Niang,CLE,MISS Niang 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-48,260,26,1,3.0,0.0,v
+S2425-G0090,4,06:53,WAS,,CLE,,G. Niang,CLE,Niang P.FOUL (P2.T4) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2425-G0090,4,03:22,WAS,,CLE,,G. Niang,CLE,SUB: Porter Jr. FOR Niang,Substitution,,0,0,0,0,,,v
+S2425-G0067,1,02:42,TOR,27.0,CLE,25.0,G. Niang,CLE,Niang 27' 3PT Jump Shot (3 PTS) (Merrill 1 AST),Made Shot,Jump Shot,-156,217,27,1,3.0,3.0,v
+S2425-G0067,2,08:17,TOR,,CLE,,G. Niang,CLE,SUB: Wade FOR Niang,Substitution,,0,0,0,0,,,v
+S2425-G0067,3,04:05,TOR,,CLE,,G. Niang,CLE,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,3,03:38,TOR,,CLE,,G. Niang,CLE,Niang Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0067,3,02:45,TOR,,CLE,,G. Niang,CLE,Niang L.B.FOUL (P1.PN) (J.Ralls),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0067,3,01:45,TOR,,CLE,,G. Niang,CLE,MISS Niang 25' 3PT Jump Shot,Missed Shot,Jump Shot,167,190,25,1,3.0,0.0,v
+S2425-G0067,3,01:22,TOR,75.0,CLE,98.0,G. Niang,CLE,Niang 3PT Jump Shot (6 PTS) (Garland 5 AST),Made Shot,Jump Shot,228,0,0,1,3.0,3.0,v
+S2425-G0067,3,00:52.800000,TOR,75.0,CLE,101.0,G. Niang,CLE,Niang 3PT Jump Shot (9 PTS) (Garland 6 AST),Made Shot,Jump Shot,-230,-17,0,1,3.0,3.0,v
+S2425-G0067,4,08:30,TOR,85.0,CLE,116.0,G. Niang,CLE,Niang 1' Running Reverse Layup (11 PTS) (Mobley 3 AST),Made Shot,Running Reverse Layup Shot,-9,10,1,1,2.0,2.0,v
+S2425-G0067,4,06:40,TOR,,CLE,,G. Niang,CLE,SUB: Tyson FOR Niang,Substitution,,0,0,0,0,,,v
+S2425-G0118,1,01:23,CLE,,LAL,,G. Niang,CLE,Niang STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0118,2,09:24,CLE,,LAL,,G. Niang,CLE,MISS Niang 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,13,24,1,3.0,0.0,h
+S2425-G0118,2,08:45,CLE,,LAL,,G. Niang,CLE,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,-225,-32,0,1,3.0,0.0,h
+S2425-G0118,2,08:40,CLE,,LAL,,G. Niang,CLE,SUB: Wade FOR Niang,Substitution,,0,0,0,0,,,h
+S2425-G0118,3,05:10,CLE,,LAL,,G. Niang,CLE,Niang REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,3,03:38,CLE,86.0,LAL,68.0,G. Niang,CLE,Niang 2' Driving Layup (2 PTS) (Garland 7 AST),Made Shot,Driving Layup Shot,-2,15,2,1,2.0,2.0,h
+S2425-G0118,3,03:14,CLE,89.0,LAL,68.0,G. Niang,CLE,Niang 3PT Jump Shot (5 PTS) (Garland 8 AST),Made Shot,Jump Shot,234,1,0,1,3.0,3.0,h
+S2425-G0118,3,02:07,CLE,,LAL,,G. Niang,CLE,Niang P.FOUL (P1.PN) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0118,3,01:52,CLE,,LAL,,G. Niang,CLE,SUB: Wade FOR Niang,Substitution,,0,0,0,0,,,h
+S2425-G0118,4,06:29,CLE,,LAL,,G. Niang,CLE,Niang S.FOUL (P2.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,4,04:29,CLE,,LAL,,G. Niang,CLE,Niang P.FOUL (P3.T4) (S.Mitchell),Foul,Personal,0,0,0,0,,,h
+S2425-G0118,4,04:06,CLE,,LAL,,G. Niang,CLE,Niang REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,4,04:05,CLE,,LAL,,G. Niang,CLE,Niang Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0118,4,03:08,CLE,,LAL,,G. Niang,CLE,Niang Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h

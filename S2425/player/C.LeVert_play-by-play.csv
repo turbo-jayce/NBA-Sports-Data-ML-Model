@@ -1,0 +1,77 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0106,1,06:18,NYK,,CLE,,C. LeVert,CLE,LeVert Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0106,1,04:49,NYK,,CLE,,C. LeVert,CLE,MISS LeVert 25' 3PT Jump Shot,Missed Shot,Jump Shot,-18,253,25,1,3.0,0.0,v
+S2425-G0106,1,04:09,NYK,,CLE,,C. LeVert,CLE,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,03:43,NYK,,CLE,,C. LeVert,CLE,LeVert STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0106,2,00:00,NYK,,CLE,,C. LeVert,CLE,MISS LeVert 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,150,196,25,1,3.0,0.0,v
+S2425-G0106,3,05:41,NYK,,CLE,,C. LeVert,CLE,LeVert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,04:51,NYK,69.0,CLE,59.0,C. LeVert,CLE,LeVert 2' Cutting Layup Shot (2 PTS) (Niang 1 AST),Made Shot,Cutting Layup Shot,-5,16,2,1,2.0,2.0,v
+S2425-G0106,3,03:16,NYK,,CLE,,C. LeVert,CLE,LeVert STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0106,3,03:14,NYK,,CLE,,C. LeVert,CLE,MISS LeVert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0106,3,03:14,NYK,74.0,CLE,66.0,C. LeVert,CLE,LeVert Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,3,01:58,NYK,,CLE,,C. LeVert,CLE,MISS LeVert 3' Layup,Missed Shot,Layup Shot,-12,22,3,1,2.0,0.0,v
+S2425-G0106,3,01:24,NYK,,CLE,,C. LeVert,CLE,LeVert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,00:02,NYK,78.0,CLE,73.0,C. LeVert,CLE,LeVert Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,3,00:02,NYK,78.0,CLE,74.0,C. LeVert,CLE,LeVert Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,4,08:31,NYK,,CLE,,C. LeVert,CLE,SUB: Wade FOR LeVert,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,04:45,NYK,,CLE,,C. LeVert,CLE,LeVert L.B.FOUL (P1.PN) (S.Corbin),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0106,4,02:18,NYK,,CLE,,C. LeVert,CLE,LeVert REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,4,01:46,NYK,,CLE,,C. LeVert,CLE,LeVert Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0106,4,01:43,NYK,,CLE,,C. LeVert,CLE,SUB: Wade FOR LeVert,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,01:25,NYK,,CLE,,C. LeVert,CLE,SUB: Wade FOR LeVert,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,00:34.700000,NYK,,CLE,,C. LeVert,CLE,SUB: Wade FOR LeVert,Substitution,,0,0,0,0,,,v
+S2425-G0080,1,02:27,CLE,,DET,,C. LeVert,CLE,MISS LeVert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0080,1,02:27,CLE,,DET,,C. LeVert,CLE,MISS LeVert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0080,2,03:09,CLE,,DET,,C. LeVert,CLE,LeVert STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0080,2,03:00,CLE,57.0,DET,51.0,C. LeVert,CLE,LeVert 3PT Jump Shot (3 PTS) (Garland 3 AST),Made Shot,Jump Shot,-229,16,0,1,3.0,3.0,h
+S2425-G0080,2,01:35,CLE,,DET,,C. LeVert,CLE,LeVert STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0080,2,01:32,CLE,,DET,,C. LeVert,CLE,LeVert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,2,00:57.200000,CLE,61.0,DET,53.0,C. LeVert,CLE,LeVert 1' Cutting Layup Shot (5 PTS) (Garland 4 AST),Made Shot,Cutting Layup Shot,10,5,1,1,2.0,2.0,h
+S2425-G0080,2,00:43.400000,CLE,,DET,,C. LeVert,CLE,LeVert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,2,00:34,CLE,,DET,,C. LeVert,CLE,MISS LeVert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-104,238,26,1,3.0,0.0,h
+S2425-G0080,3,06:28,CLE,,DET,,C. LeVert,CLE,LeVert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,05:34,CLE,79.0,DET,68.0,C. LeVert,CLE,LeVert 1' Running Dunk (7 PTS) (Garland 6 AST),Made Shot,Running Dunk Shot,-7,3,1,1,2.0,2.0,h
+S2425-G0080,3,05:32,CLE,,DET,,C. LeVert,CLE,LeVert T.FOUL (P0.T3) (E.Malloy),Foul,Technical,0,0,0,0,,,h
+S2425-G0080,3,04:56,CLE,81.0,DET,70.0,C. LeVert,CLE,LeVert 10' Turnaround Fadeaway (9 PTS) (Wade 1 AST),Made Shot,Turnaround Fadeaway shot,-94,24,10,1,2.0,2.0,h
+S2425-G0080,3,02:07,CLE,,DET,,C. LeVert,CLE,MISS LeVert 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,11,1,1,2.0,0.0,h
+S2425-G0080,3,01:34,CLE,,DET,,C. LeVert,CLE,LeVert BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0080,3,00:26.800000,CLE,,DET,,C. LeVert,CLE,LeVert STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0080,4,11:47,CLE,,DET,,C. LeVert,CLE,MISS LeVert 1' Driving Layup,Missed Shot,Driving Layup Shot,-7,4,1,1,2.0,0.0,h
+S2425-G0080,4,11:05,CLE,,DET,,C. LeVert,CLE,LeVert S.FOUL (P1.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2425-G0080,4,09:46,CLE,,DET,,C. LeVert,CLE,SUB: Okoro FOR LeVert,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,03:24,WAS,21.0,CLE,24.0,C. LeVert,CLE,LeVert Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,1,03:24,WAS,21.0,CLE,25.0,C. LeVert,CLE,LeVert Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,1,03:05,WAS,,CLE,,C. LeVert,CLE,LeVert P.FOUL (P1.T3) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2425-G0090,1,01:41,WAS,,CLE,,C. LeVert,CLE,MISS LeVert 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-87,68,11,1,2.0,0.0,v
+S2425-G0090,2,04:19,WAS,35.0,CLE,45.0,C. LeVert,CLE,LeVert 1' Driving Reverse Layup (4 PTS) (Mobley 1 AST),Made Shot,Driving Reverse Layup Shot,12,8,1,1,2.0,2.0,v
+S2425-G0090,2,03:34,WAS,35.0,CLE,48.0,C. LeVert,CLE,LeVert 24' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,235,38,24,1,3.0,3.0,v
+S2425-G0090,2,01:47,WAS,,CLE,,C. LeVert,CLE,LeVert BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0090,2,01:19,WAS,48.0,CLE,55.0,C. LeVert,CLE,LeVert 27' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,201,183,27,1,3.0,3.0,v
+S2425-G0090,3,01:34,WAS,,CLE,,C. LeVert,CLE,LeVert BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0067,1,01:28,TOR,,CLE,,C. LeVert,CLE,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,2,00:26.500000,TOR,49.0,CLE,67.0,C. LeVert,CLE,LeVert 2' Running Dunk (2 PTS) (Allen 1 AST),Made Shot,Running Dunk Shot,15,-1,2,1,2.0,2.0,v
+S2425-G0067,3,06:23,TOR,57.0,CLE,85.0,C. LeVert,CLE,LeVert 5' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-42,19,5,1,2.0,2.0,v
+S2425-G0067,3,05:39,TOR,59.0,CLE,87.0,C. LeVert,CLE,LeVert Cutting Dunk Shot (6 PTS) (Garland 4 AST),Made Shot,Cutting Dunk Shot,-1,4,0,1,2.0,2.0,v
+S2425-G0067,3,04:28,TOR,64.0,CLE,90.0,C. LeVert,CLE,LeVert 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,74,243,25,1,3.0,3.0,v
+S2425-G0067,3,03:56,TOR,64.0,CLE,92.0,C. LeVert,CLE,LeVert 4' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,9,35,4,1,2.0,2.0,v
+S2425-G0067,3,02:32,TOR,70.0,CLE,95.0,C. LeVert,CLE,LeVert 19' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,146,122,19,1,2.0,2.0,v
+S2425-G0067,3,00:45.900000,TOR,,CLE,,C. LeVert,CLE,LeVert L.B.FOUL (P1.PN) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0067,3,00:34.400000,TOR,,CLE,,C. LeVert,CLE,MISS LeVert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0067,3,00:34.400000,TOR,77.0,CLE,102.0,C. LeVert,CLE,LeVert Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,3,00:00.300000,TOR,79.0,CLE,105.0,C. LeVert,CLE,LeVert 26' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,-85,242,26,1,3.0,3.0,v
+S2425-G0067,4,11:41,TOR,79.0,CLE,107.0,C. LeVert,CLE,LeVert 5' Driving Bank Hook Shot (19 PTS) (Okoro 1 AST),Made Shot,Driving Bank Hook Shot,34,42,5,1,2.0,2.0,v
+S2425-G0067,4,10:09,TOR,,CLE,,C. LeVert,CLE,MISS LeVert 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,38,51,6,1,2.0,0.0,v
+S2425-G0067,4,09:53,TOR,,CLE,,C. LeVert,CLE,SUB: Jerome FOR LeVert,Substitution,,0,0,0,0,,,v
+S2425-G0118,1,00:50.600000,CLE,39.0,LAL,20.0,C. LeVert,CLE,LeVert 25' 3PT Jump Shot (3 PTS) (Niang 1 AST),Made Shot,Jump Shot,178,180,25,1,3.0,3.0,h
+S2425-G0118,2,03:08,CLE,,LAL,,C. LeVert,CLE,MISS LeVert 26' 3PT Jump Shot,Missed Shot,Jump Shot,9,255,26,1,3.0,0.0,h
+S2425-G0118,2,00:08.100000,CLE,67.0,LAL,48.0,C. LeVert,CLE,LeVert Cutting Layup Shot (5 PTS) (Mitchell 5 AST),Made Shot,Cutting Layup Shot,-2,1,0,1,2.0,2.0,h
+S2425-G0118,3,09:41,CLE,,LAL,,C. LeVert,CLE,LeVert STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0118,3,09:36,CLE,75.0,LAL,51.0,C. LeVert,CLE,LeVert 26' 3PT Pullup Jump Shot (8 PTS) (Wade 1 AST),Made Shot,Pullup Jump shot,-224,132,26,1,3.0,3.0,h
+S2425-G0118,3,09:07,CLE,,LAL,,C. LeVert,CLE,LeVert S.FOUL (P1.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,3,07:12,CLE,77.0,LAL,59.0,C. LeVert,CLE,LeVert 1' Driving Layup (10 PTS) (Allen 1 AST),Made Shot,Driving Layup Shot,5,4,1,1,2.0,2.0,h
+S2425-G0118,3,06:41,CLE,,LAL,,C. LeVert,CLE,LeVert Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0118,3,05:10,CLE,,LAL,,C. LeVert,CLE,MISS LeVert 3PT Jump Shot,Missed Shot,Jump Shot,223,22,0,1,3.0,0.0,h
+S2425-G0118,3,05:01,CLE,82.0,LAL,63.0,C. LeVert,CLE,LeVert 3PT Jump Shot (13 PTS) (Garland 6 AST),Made Shot,Jump Shot,228,7,0,1,3.0,3.0,h
+S2425-G0118,3,02:34,CLE,92.0,LAL,70.0,C. LeVert,CLE,LeVert 26' 3PT Jump Shot (16 PTS) (Garland 9 AST),Made Shot,Jump Shot,126,222,26,1,3.0,3.0,h
+S2425-G0118,3,02:23,CLE,,LAL,,C. LeVert,CLE,LeVert P.FOUL (P2.PN) (S.Mitchell),Foul,Personal,0,0,0,0,,,h
+S2425-G0118,3,02:07,CLE,,LAL,,C. LeVert,CLE,SUB: Mitchell FOR LeVert,Substitution,,0,0,0,0,,,h

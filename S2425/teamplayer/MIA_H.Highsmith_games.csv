@@ -1,0 +1,36 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0065,1,03:32,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,1,00:57.100000,MIA,32.0,ORL,32.0,H. Highsmith,MIA,Highsmith 2' Cutting Finger Roll Layup Shot (2 PTS) (Jaquez Jr. 3 AST),Made Shot,Cutting Finger Roll Layup Shot,20,-10,2,1,2.0,2.0,h
+S2425-G0065,1,00:40.800000,MIA,,ORL,,H. Highsmith,MIA,Highsmith P.FOUL (P1.PN) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0065,2,10:09,MIA,,ORL,,H. Highsmith,MIA,MISS Highsmith 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,26,0,1,3.0,0.0,h
+S2425-G0065,2,07:42,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,07:27,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,07:26,MIA,,ORL,,H. Highsmith,MIA,MISS Highsmith 6' Floating Jump Shot,Missed Shot,Floating Jump shot,36,51,6,1,2.0,0.0,h
+S2425-G0065,2,06:28,MIA,,ORL,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0065,2,06:12,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,2,05:49,MIA,,ORL,,H. Highsmith,MIA,HEAT T.Foul (Def. 3 Sec Highsmith ) (C.Blair),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0065,2,05:49,MIA,,ORL,,H. Highsmith,MIA,SUB: Jović FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2425-G0065,3,05:47,MIA,,ORL,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T4) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2425-G0065,3,05:31,MIA,,ORL,,H. Highsmith,MIA,MISS Highsmith 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-11,54,6,1,2.0,0.0,h
+S2425-G0065,4,11:19,MIA,,ORL,,H. Highsmith,MIA,Highsmith P.FOUL (P3.T2) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0065,4,07:03,MIA,84.0,ORL,110.0,H. Highsmith,MIA,Highsmith 10' Driving Floating Jump Shot (4 PTS) (Bryant 2 AST),Made Shot,Driving Floating Jump Shot,-43,89,10,1,2.0,2.0,h
+S2425-G0065,4,05:33,MIA,,ORL,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0065,4,05:14,MIA,,ORL,,H. Highsmith,MIA,Highsmith Step Out of Bounds Turnover (P1.T10),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0065,4,05:02,MIA,,ORL,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0065,4,04:43,MIA,86.0,ORL,116.0,H. Highsmith,MIA,Highsmith 1' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,11,5,1,1,2.0,2.0,h
+S2425-G0065,4,04:21,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0065,4,04:16,MIA,,ORL,,H. Highsmith,MIA,MISS Highsmith 6' Running Jump Shot,Missed Shot,Running Jump Shot,9,58,6,1,2.0,0.0,h
+S2425-G0065,4,00:16.900000,MIA,97.0,ORL,116.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (9 PTS) (Smith 1 AST),Made Shot,Jump Shot,227,36,0,1,3.0,3.0,h
+S2425-G0105,2,01:08,MIA,,DET,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0105,3,03:06,MIA,,DET,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,3,02:16,MIA,,DET,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2425-G0105,3,01:47,MIA,,DET,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,3,01:18,MIA,,DET,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,10:59,MIA,,DET,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0105,4,10:57,MIA,85.0,DET,79.0,H. Highsmith,MIA,Highsmith 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-4,6,1,1,2.0,2.0,h
+S2425-G0105,4,10:57,MIA,,DET,,H. Highsmith,MIA,MISS Highsmith Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0105,4,10:43,MIA,87.0,DET,79.0,H. Highsmith,MIA,Highsmith 1' Running Finger Roll Layup (4 PTS) (Butler 6 AST),Made Shot,Running Finger Roll Layup Shot,-1,5,1,1,2.0,2.0,h
+S2425-G0105,4,08:28,MIA,,DET,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,235,-1,24,1,3.0,0.0,h
+S2425-G0105,4,04:54,MIA,,DET,,H. Highsmith,MIA,MISS Highsmith 29' 3PT Jump Shot,Missed Shot,Jump Shot,-167,235,29,1,3.0,0.0,h
+S2425-G0105,4,04:34,MIA,,DET,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,4,04:32,MIA,,DET,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,h

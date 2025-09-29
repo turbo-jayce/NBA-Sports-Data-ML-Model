@@ -1,0 +1,192 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0106,1,10:31,NYK,,CLE,,E. Mobley,CLE,Mobley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0106,1,08:45,NYK,,CLE,,E. Mobley,CLE,Mobley S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2425-G0106,1,08:04,NYK,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,07:37,NYK,,CLE,,E. Mobley,CLE,SUB: Merrill FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0106,1,01:06,NYK,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,00:02.400000,NYK,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,2,11:23,NYK,20.0,CLE,24.0,E. Mobley,CLE,Mobley 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,5,8,1,1,2.0,2.0,v
+S2425-G0106,2,09:51,NYK,24.0,CLE,27.0,E. Mobley,CLE,Mobley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,2,09:51,NYK,24.0,CLE,28.0,E. Mobley,CLE,Mobley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,2,09:23,NYK,27.0,CLE,31.0,E. Mobley,CLE,Mobley 25' 3PT Jump Shot (7 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,-123,222,25,1,3.0,3.0,v
+S2425-G0106,2,07:50,NYK,,CLE,,E. Mobley,CLE,MISS Mobley 3' Driving Layup,Missed Shot,Driving Layup Shot,28,2,3,1,2.0,0.0,v
+S2425-G0106,2,07:43,NYK,,CLE,,E. Mobley,CLE,SUB: Allen FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0106,2,03:06,NYK,,CLE,,E. Mobley,CLE,Mobley S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0106,2,01:31,NYK,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,11:12,NYK,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,08:40,NYK,57.0,CLE,52.0,E. Mobley,CLE,Mobley 2' Alley Oop Dunk (9 PTS) (Garland 1 AST),Made Shot,Alley Oop Dunk Shot,12,14,2,1,2.0,2.0,v
+S2425-G0106,3,08:26,NYK,,CLE,,E. Mobley,CLE,Cavaliers T.Foul (Def. 3 Sec Mobley ) (R.Mott),Foul,Defense 3 Second,0,0,0,0,,,v
+S2425-G0106,3,07:56,NYK,,CLE,,E. Mobley,CLE,MISS Mobley 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,34,89,10,1,2.0,0.0,v
+S2425-G0106,3,06:52,NYK,,CLE,,E. Mobley,CLE,SUB: Merrill FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0106,3,02:45,NYK,74.0,CLE,68.0,E. Mobley,CLE,Mobley 6' Hook Shot (11 PTS),Made Shot,Hook Shot,25,56,6,1,2.0,2.0,v
+S2425-G0106,3,02:06,NYK,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,01:48,NYK,,CLE,,E. Mobley,CLE,MISS Mobley 4' Hook Shot,Missed Shot,Hook Shot,37,20,4,1,2.0,0.0,v
+S2425-G0106,3,01:17,NYK,74.0,CLE,72.0,E. Mobley,CLE,Mobley 4' Hook Shot (13 PTS),Made Shot,Hook Shot,34,24,4,1,2.0,2.0,v
+S2425-G0106,3,00:02,NYK,,CLE,,E. Mobley,CLE,SUB: Okoro FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0106,4,11:45,NYK,78.0,CLE,76.0,E. Mobley,CLE,Mobley 4' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,17,31,4,1,2.0,2.0,v
+S2425-G0106,4,09:34,NYK,,CLE,,E. Mobley,CLE,Mobley P.FOUL (P3.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2425-G0106,4,07:36,NYK,84.0,CLE,86.0,E. Mobley,CLE,Mobley 1' Dunk (17 PTS) (Mitchell 4 AST),Made Shot,Dunk Shot,7,6,1,1,2.0,2.0,v
+S2425-G0106,4,06:51,NYK,,CLE,,E. Mobley,CLE,Mobley Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0106,4,06:38,NYK,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,4,05:41,NYK,,CLE,,E. Mobley,CLE,Mobley BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0106,4,05:03,NYK,,CLE,,E. Mobley,CLE,MISS Mobley Layup,Missed Shot,Layup Shot,-1,1,0,1,2.0,0.0,v
+S2425-G0106,4,03:15,NYK,,CLE,,E. Mobley,CLE,MISS Mobley 7' Hook Shot,Missed Shot,Hook Shot,42,50,7,1,2.0,0.0,v
+S2425-G0106,4,02:21,NYK,,CLE,,E. Mobley,CLE,Mobley BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0106,4,02:01,NYK,,CLE,,E. Mobley,CLE,Mobley L.B.FOUL (P4.PN) (R.Mott),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0106,4,00:46.500000,NYK,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,1,11:39,CLE,,DET,,E. Mobley,CLE,MISS Mobley 7' Layup,Missed Shot,Layup Shot,32,63,7,1,2.0,0.0,h
+S2425-G0080,1,08:57,CLE,,DET,,E. Mobley,CLE,Mobley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0080,1,07:00,CLE,,DET,,E. Mobley,CLE,MISS Mobley 9' Layup,Missed Shot,Layup Shot,27,84,9,1,2.0,0.0,h
+S2425-G0080,1,06:20,CLE,15.0,DET,17.0,E. Mobley,CLE,Mobley 26' 3PT Jump Shot (3 PTS) (Mitchell 4 AST),Made Shot,Jump Shot,-211,149,26,1,3.0,3.0,h
+S2425-G0080,1,06:02,CLE,,DET,,E. Mobley,CLE,Mobley S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0080,1,06:02,CLE,,DET,,E. Mobley,CLE,SUB: Merrill FOR Mobley,Substitution,,0,0,0,0,,,h
+S2425-G0080,1,02:08,CLE,26.0,DET,27.0,E. Mobley,CLE,Mobley 2' Running Dunk (5 PTS) (Merrill 2 AST),Made Shot,Running Dunk Shot,5,18,2,1,2.0,2.0,h
+S2425-G0080,1,01:56,CLE,,DET,,E. Mobley,CLE,Mobley STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0080,1,01:50,CLE,,DET,,E. Mobley,CLE,MISS Mobley 2' Running Dunk,Missed Shot,Running Dunk Shot,0,21,2,1,2.0,0.0,h
+S2425-G0080,1,01:33,CLE,28.0,DET,29.0,E. Mobley,CLE,Mobley 2' Cutting Dunk Shot (7 PTS) (Mitchell 5 AST),Made Shot,Cutting Dunk Shot,7,15,2,1,2.0,2.0,h
+S2425-G0080,1,00:37,CLE,,DET,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,2,10:53,CLE,31.0,DET,31.0,E. Mobley,CLE,Mobley 26' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,105,239,26,1,3.0,3.0,h
+S2425-G0080,2,10:06,CLE,,DET,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,2,08:56,CLE,,DET,,E. Mobley,CLE,Mobley BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0080,2,08:06,CLE,,DET,,E. Mobley,CLE,MISS Mobley 1' Layup,Missed Shot,Layup Shot,9,1,1,1,2.0,0.0,h
+S2425-G0080,2,07:23,CLE,,DET,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,2,06:15,CLE,,DET,,E. Mobley,CLE,Mobley Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0080,2,06:15,CLE,,DET,,E. Mobley,CLE,SUB: Allen FOR Mobley,Substitution,,0,0,0,0,,,h
+S2425-G0080,3,11:34,CLE,,DET,,E. Mobley,CLE,Mobley Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0080,3,11:07,CLE,,DET,,E. Mobley,CLE,Mobley STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0080,3,11:07,CLE,66.0,DET,55.0,E. Mobley,CLE,Mobley Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,3,11:07,CLE,67.0,DET,55.0,E. Mobley,CLE,Mobley Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,3,10:36,CLE,,DET,,E. Mobley,CLE,MISS Mobley 26' 3PT Jump Shot,Missed Shot,Jump Shot,49,251,26,1,3.0,0.0,h
+S2425-G0080,3,10:31,CLE,,DET,,E. Mobley,CLE,Mobley STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0080,3,07:25,CLE,,DET,,E. Mobley,CLE,SUB: Merrill FOR Mobley,Substitution,,0,0,0,0,,,h
+S2425-G0080,4,11:29,CLE,,DET,,E. Mobley,CLE,Mobley Traveling Turnover (P3.T9),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0080,4,09:01,CLE,96.0,DET,85.0,E. Mobley,CLE,Mobley 1' Layup (14 PTS) (Okoro 2 AST),Made Shot,Layup Shot,7,5,1,1,2.0,2.0,h
+S2425-G0080,4,08:23,CLE,,DET,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,4,08:04,CLE,,DET,,E. Mobley,CLE,MISS Mobley 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,48,77,9,1,2.0,0.0,h
+S2425-G0080,4,08:01,CLE,,DET,,E. Mobley,CLE,Mobley REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,4,07:16,CLE,,DET,,E. Mobley,CLE,Mobley Traveling Turnover (P4.T11),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0080,4,07:03,CLE,,DET,,E. Mobley,CLE,SUB: Allen FOR Mobley,Substitution,,0,0,0,0,,,h
+S2425-G0080,4,03:46,CLE,111.0,DET,96.0,E. Mobley,CLE,Mobley 3' Driving Hook Shot (16 PTS),Made Shot,Driving Hook Shot,4,34,3,1,2.0,2.0,h
+S2425-G0080,4,03:27,CLE,,DET,,E. Mobley,CLE,Mobley REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,4,01:30,CLE,,DET,,E. Mobley,CLE,Mobley STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0080,4,01:17,CLE,,DET,,E. Mobley,CLE,SUB: Jerome FOR Mobley,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,10:20,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,1,10:16,WAS,,CLE,,E. Mobley,CLE,MISS Mobley 9' Running Layup,Missed Shot,Running Layup Shot,28,84,9,1,2.0,0.0,v
+S2425-G0090,1,10:13,WAS,,CLE,,E. Mobley,CLE,Mobley Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0090,1,08:31,WAS,6.0,CLE,8.0,E. Mobley,CLE,Mobley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,1,08:31,WAS,6.0,CLE,9.0,E. Mobley,CLE,Mobley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,1,08:15,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,1,07:13,WAS,,CLE,,E. Mobley,CLE,SUB: LeVert FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0090,1,02:00,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,1,00:52.500000,WAS,,CLE,,E. Mobley,CLE,Mobley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0090,1,00:00,WAS,,CLE,,E. Mobley,CLE,MISS Mobley 13' Jump Shot,Missed Shot,Jump Shot,-2,134,13,1,2.0,0.0,v
+S2425-G0090,2,10:31,WAS,,CLE,,E. Mobley,CLE,MISS Mobley 7' Driving Layup,Missed Shot,Driving Layup Shot,71,4,7,1,2.0,0.0,v
+S2425-G0090,2,09:59,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,09:39,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,08:20,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,07:42,WAS,30.0,CLE,35.0,E. Mobley,CLE,Mobley 2' Cutting Dunk Shot (4 PTS) (Jerome 1 AST),Made Shot,Cutting Dunk Shot,10,21,2,1,2.0,2.0,v
+S2425-G0090,2,07:33,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,07:27,WAS,30.0,CLE,37.0,E. Mobley,CLE,Mobley 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,-10,15,2,1,2.0,2.0,v
+S2425-G0090,2,06:18,WAS,,CLE,,E. Mobley,CLE,MISS Mobley 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-137,226,26,1,3.0,0.0,v
+S2425-G0090,2,06:08,WAS,,CLE,,E. Mobley,CLE,SUB: Garland FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0090,2,03:47,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,01:55,WAS,,CLE,,E. Mobley,CLE,MISS Mobley 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,23,65,7,1,2.0,0.0,v
+S2425-G0090,2,00:49.100000,WAS,,CLE,,E. Mobley,CLE,MISS Mobley 27' 3PT Jump Shot,Missed Shot,Jump Shot,202,184,27,1,3.0,0.0,v
+S2425-G0090,2,00:02.900000,WAS,,CLE,,E. Mobley,CLE,Mobley BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0090,3,11:36,WAS,,CLE,,E. Mobley,CLE,Mobley Step Out of Bounds Turnover (P2.T9),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0090,3,10:47,WAS,,CLE,,E. Mobley,CLE,Mobley P.FOUL (P1.T2) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2425-G0090,3,10:25,WAS,,CLE,,E. Mobley,CLE,MISS Mobley 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,49,42,6,1,2.0,0.0,v
+S2425-G0090,3,09:47,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,08:30,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,07:41,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,07:33,WAS,55.0,CLE,71.0,E. Mobley,CLE,Mobley 3' Running Dunk (8 PTS) (Garland 4 AST),Made Shot,Running Dunk Shot,-5,26,3,1,2.0,2.0,v
+S2425-G0090,3,06:45,WAS,,CLE,,E. Mobley,CLE,Mobley S.FOUL (P2.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0090,3,06:45,WAS,,CLE,,E. Mobley,CLE,SUB: LeVert FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0090,3,02:34,WAS,,CLE,,E. Mobley,CLE,MISS Mobley 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-32,19,4,1,2.0,0.0,v
+S2425-G0090,3,01:17,WAS,75.0,CLE,91.0,E. Mobley,CLE,Mobley Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,3,01:17,WAS,75.0,CLE,92.0,E. Mobley,CLE,Mobley Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,3,01:06,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:1 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,00:33.100000,WAS,,CLE,,E. Mobley,CLE,MISS Mobley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0090,3,00:33.100000,WAS,,CLE,,E. Mobley,CLE,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0090,4,10:19,WAS,,CLE,,E. Mobley,CLE,Mobley S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0090,4,08:54,WAS,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:1 Def:12),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,4,08:29,WAS,87.0,CLE,113.0,E. Mobley,CLE,Mobley 2' Cutting Layup Shot (12 PTS) (Mitchell 5 AST),Made Shot,Cutting Layup Shot,20,13,2,1,2.0,2.0,v
+S2425-G0090,4,08:29,WAS,87.0,CLE,114.0,E. Mobley,CLE,Mobley Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0090,4,07:59,WAS,,CLE,,E. Mobley,CLE,MISS Mobley 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,51,56,8,1,2.0,0.0,v
+S2425-G0090,4,07:53,WAS,,CLE,,E. Mobley,CLE,Mobley S.FOUL (P4.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2425-G0090,4,06:19,WAS,,CLE,,E. Mobley,CLE,SUB: Jerome FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0067,1,11:44,TOR,,CLE,,E. Mobley,CLE,MISS Mobley 9' Driving Layup,Missed Shot,Driving Layup Shot,31,88,9,1,2.0,0.0,v
+S2425-G0067,1,11:39,TOR,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,11:39,TOR,,CLE,,E. Mobley,CLE,MISS Mobley Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0067,1,11:38,TOR,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,11:38,TOR,0.0,CLE,2.0,E. Mobley,CLE,Mobley Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0067,1,09:54,TOR,5.0,CLE,4.0,E. Mobley,CLE,Mobley 1' Cutting Dunk Shot (4 PTS) (Garland 1 AST),Made Shot,Cutting Dunk Shot,6,5,1,1,2.0,2.0,v
+S2425-G0067,1,09:00,TOR,,CLE,,E. Mobley,CLE,Mobley S.FOUL (P1.T1) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2425-G0067,1,07:00,TOR,,CLE,,E. Mobley,CLE,Mobley Kicked Ball Violation Turnover (P1.T2),Turnover,Kicked Ball Violation,0,0,0,0,,,v
+S2425-G0067,1,06:26,TOR,,CLE,,E. Mobley,CLE,SUB: LeVert FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0067,1,01:16,TOR,,CLE,,E. Mobley,CLE,MISS Mobley 3' Layup,Missed Shot,Layup Shot,15,26,3,1,2.0,0.0,v
+S2425-G0067,1,01:08,TOR,,CLE,,E. Mobley,CLE,MISS Mobley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-92,246,26,1,3.0,0.0,v
+S2425-G0067,1,00:45.200000,TOR,29.0,CLE,31.0,E. Mobley,CLE,Mobley 24' 3PT Jump Shot (7 PTS) (LeVert 2 AST),Made Shot,Jump Shot,238,10,24,1,3.0,3.0,v
+S2425-G0067,2,11:37,TOR,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,2,11:30,TOR,32.0,CLE,35.0,E. Mobley,CLE,Mobley Cutting Dunk Shot (9 PTS) (Mitchell 1 AST),Made Shot,Cutting Dunk Shot,1,0,0,1,2.0,2.0,v
+S2425-G0067,2,11:11,TOR,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,2,11:03,TOR,32.0,CLE,37.0,E. Mobley,CLE,Mobley 6' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,48,42,6,1,2.0,2.0,v
+S2425-G0067,2,09:49,TOR,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,2,09:40,TOR,32.0,CLE,40.0,E. Mobley,CLE,Mobley Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,2,09:40,TOR,32.0,CLE,41.0,E. Mobley,CLE,Mobley Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,2,08:49,TOR,,CLE,,E. Mobley,CLE,Mobley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0067,2,08:47,TOR,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,2,08:17,TOR,37.0,CLE,46.0,E. Mobley,CLE,Mobley Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,2,08:17,TOR,37.0,CLE,47.0,E. Mobley,CLE,Mobley Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,2,07:53,TOR,39.0,CLE,49.0,E. Mobley,CLE,Mobley 7' Driving Floating Jump Shot (17 PTS) (Jerome 1 AST),Made Shot,Driving Floating Jump Shot,-25,67,7,1,2.0,2.0,v
+S2425-G0067,2,07:35,TOR,,CLE,,E. Mobley,CLE,SUB: Allen FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0067,2,02:45,TOR,,CLE,,E. Mobley,CLE,Mobley STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0067,2,01:04,TOR,,CLE,,E. Mobley,CLE,Mobley BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0067,2,00:30,TOR,,CLE,,E. Mobley,CLE,Mobley BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0067,2,00:00.900000,TOR,49.0,CLE,69.0,E. Mobley,CLE,Mobley 1' Running Dunk (19 PTS) (LeVert 4 AST),Made Shot,Running Dunk Shot,4,-4,1,1,2.0,2.0,v
+S2425-G0067,3,10:30,TOR,53.0,CLE,73.0,E. Mobley,CLE,Mobley 10' Turnaround Fadeaway (21 PTS),Made Shot,Turnaround Fadeaway shot,55,80,10,1,2.0,2.0,v
+S2425-G0067,3,09:25,TOR,,CLE,,E. Mobley,CLE,Mobley STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0067,3,09:06,TOR,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,3,07:57,TOR,56.0,CLE,79.0,E. Mobley,CLE,Mobley Cutting Dunk Shot (23 PTS) (Mitchell 3 AST),Made Shot,Cutting Dunk Shot,4,-1,0,1,2.0,2.0,v
+S2425-G0067,3,07:07,TOR,,CLE,,E. Mobley,CLE,SUB: LeVert FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0067,4,11:12,TOR,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,4,09:45,TOR,,CLE,,E. Mobley,CLE,Mobley S.FOUL (P2.T1) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2425-G0067,4,08:48,TOR,,CLE,,E. Mobley,CLE,MISS Mobley 6' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,43,36,6,1,2.0,0.0,v
+S2425-G0067,4,08:48,TOR,,CLE,,E. Mobley,CLE,Mobley REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,4,08:48,TOR,85.0,CLE,113.0,E. Mobley,CLE,Mobley Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,4,08:48,TOR,85.0,CLE,114.0,E. Mobley,CLE,Mobley Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,4,08:30,TOR,,CLE,,E. Mobley,CLE,SUB: Porter Jr. FOR Mobley,Substitution,,0,0,0,0,,,v
+S2425-G0118,1,09:17,CLE,9.0,LAL,8.0,E. Mobley,CLE,Mobley 2' Cutting Dunk Shot (2 PTS) (Mitchell 1 AST),Made Shot,Cutting Dunk Shot,-9,14,2,1,2.0,2.0,h
+S2425-G0118,1,08:41,CLE,11.0,LAL,10.0,E. Mobley,CLE,Mobley Jump Bank Shot (4 PTS) (LeVert 1 AST),Made Shot,Jump Bank Shot,-1,3,0,1,2.0,2.0,h
+S2425-G0118,1,07:37,CLE,,LAL,,E. Mobley,CLE,Mobley S.FOUL (P1.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,1,07:35,CLE,,LAL,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,1,07:25,CLE,,LAL,,E. Mobley,CLE,Mobley Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0118,1,06:55,CLE,,LAL,,E. Mobley,CLE,SUB: Merrill FOR Mobley,Substitution,,0,0,0,0,,,h
+S2425-G0118,1,01:10,CLE,36.0,LAL,20.0,E. Mobley,CLE,Mobley 2' Layup (6 PTS) (LeVert 6 AST),Made Shot,Layup Shot,16,-16,2,1,2.0,2.0,h
+S2425-G0118,1,00:14,CLE,,LAL,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,2,11:48,CLE,,LAL,,E. Mobley,CLE,Mobley Offensive Charge Foul (P2) (J.Capers),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0118,2,11:48,CLE,,LAL,,E. Mobley,CLE,Mobley Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0118,2,11:38,CLE,,LAL,,E. Mobley,CLE,Mobley P.FOUL (P3.T1) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2425-G0118,2,11:38,CLE,,LAL,,E. Mobley,CLE,SUB: Allen FOR Mobley,Substitution,,0,0,0,0,,,h
+S2425-G0118,3,11:10,CLE,,LAL,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,3,11:00,CLE,,LAL,,E. Mobley,CLE,MISS Mobley 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,15,1,2,1,2.0,0.0,h
+S2425-G0118,3,10:33,CLE,,LAL,,E. Mobley,CLE,MISS Mobley 21' Jump Shot,Missed Shot,Jump Shot,-178,109,21,1,2.0,0.0,h
+S2425-G0118,3,10:24,CLE,,LAL,,E. Mobley,CLE,Mobley S.FOUL (P4.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,3,10:24,CLE,,LAL,,E. Mobley,CLE,SUB: LeVert FOR Mobley,Substitution,,0,0,0,0,,,h
+S2425-G0118,3,02:11,CLE,,LAL,,E. Mobley,CLE,MISS Mobley 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,86,9,1,2.0,0.0,h
+S2425-G0118,3,01:12,CLE,96.0,LAL,75.0,E. Mobley,CLE,Mobley 2' Running Dunk (8 PTS) (Merrill 2 AST),Made Shot,Running Dunk Shot,5,18,2,1,2.0,2.0,h
+S2425-G0118,4,11:31,CLE,101.0,LAL,79.0,E. Mobley,CLE,Mobley 1' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,5,7,1,1,2.0,2.0,h
+S2425-G0118,4,11:13,CLE,,LAL,,E. Mobley,CLE,Mobley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,4,11:06,CLE,103.0,LAL,79.0,E. Mobley,CLE,Mobley 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,10,-3,1,1,2.0,2.0,h
+S2425-G0118,4,10:46,CLE,105.0,LAL,79.0,E. Mobley,CLE,Mobley Cutting Dunk Shot (14 PTS) (Mitchell 6 AST),Made Shot,Cutting Dunk Shot,2,4,0,1,2.0,2.0,h
+S2425-G0118,4,10:03,CLE,107.0,LAL,79.0,E. Mobley,CLE,Mobley 1' Cutting Layup Shot (16 PTS) (Merrill 3 AST),Made Shot,Cutting Layup Shot,-9,11,1,1,2.0,2.0,h
+S2425-G0118,4,08:54,CLE,,LAL,,E. Mobley,CLE,Mobley Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0118,4,08:11,CLE,109.0,LAL,87.0,E. Mobley,CLE,Mobley 1' Layup (18 PTS) (Mitchell 7 AST),Made Shot,Layup Shot,-1,13,1,1,2.0,2.0,h
+S2425-G0118,4,08:11,CLE,110.0,LAL,87.0,E. Mobley,CLE,Mobley Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0118,4,07:06,CLE,,LAL,,E. Mobley,CLE,Mobley S.FOUL (P5.T2) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,4,06:54,CLE,,LAL,,E. Mobley,CLE,MISS Mobley 2' Driving Layup,Missed Shot,Driving Layup Shot,6,23,2,1,2.0,0.0,h
+S2425-G0118,4,06:47,CLE,,LAL,,E. Mobley,CLE,Mobley REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,4,06:47,CLE,114.0,LAL,94.0,E. Mobley,CLE,Mobley Putback Dunk (21 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0118,4,06:17,CLE,116.0,LAL,96.0,E. Mobley,CLE,Mobley 2' Hook Bank Shot (23 PTS) (Garland 10 AST),Made Shot,Hook Bank Shot,9,15,2,1,2.0,2.0,h
+S2425-G0118,4,05:47,CLE,118.0,LAL,96.0,E. Mobley,CLE,Mobley 1' Cutting Dunk Shot (25 PTS) (Jerome 4 AST),Made Shot,Cutting Dunk Shot,-5,10,1,1,2.0,2.0,h
+S2425-G0118,4,05:16,CLE,,LAL,,E. Mobley,CLE,SUB: Thompson FOR Mobley,Substitution,,0,0,0,0,,,h

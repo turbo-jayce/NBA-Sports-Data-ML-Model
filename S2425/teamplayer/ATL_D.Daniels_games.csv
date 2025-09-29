@@ -1,0 +1,115 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0079,1,11:27,ATL,,CHA,,D. Daniels,ATL,Daniels P.FOUL (P1.T1) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2425-G0079,1,10:03,ATL,,CHA,,D. Daniels,ATL,Daniels STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0079,1,08:22,ATL,15.0,CHA,6.0,D. Daniels,ATL,Daniels 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,-9,7,1,1,2.0,2.0,h
+S2425-G0079,1,05:51,ATL,,CHA,,D. Daniels,ATL,Daniels BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0079,1,05:50,ATL,,CHA,,D. Daniels,ATL,SUB: Krejčí FOR Daniels,Substitution,,0,0,0,0,,,h
+S2425-G0079,2,11:42,ATL,30.0,CHA,16.0,D. Daniels,ATL,Daniels 11' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-12,106,11,1,2.0,2.0,h
+S2425-G0079,2,10:39,ATL,,CHA,,D. Daniels,ATL,MISS Daniels 25' 3PT Jump Shot,Missed Shot,Jump Shot,-181,167,25,1,3.0,0.0,h
+S2425-G0079,2,10:16,ATL,,CHA,,D. Daniels,ATL,Daniels S.FOUL (P2.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0079,2,09:40,ATL,,CHA,,D. Daniels,ATL,Daniels S.FOUL (P3.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2425-G0079,2,09:40,ATL,,CHA,,D. Daniels,ATL,SUB: Mathews FOR Daniels,Substitution,,0,0,0,0,,,h
+S2425-G0079,3,10:16,ATL,65.0,CHA,60.0,D. Daniels,ATL,Daniels 26' 3PT Pullup Jump Shot (7 PTS) (Young 4 AST),Made Shot,Pullup Jump shot,-138,216,26,1,3.0,3.0,h
+S2425-G0079,3,09:28,ATL,68.0,CHA,64.0,D. Daniels,ATL,Daniels 25' 3PT Jump Shot (10 PTS) (Young 5 AST),Made Shot,Jump Shot,140,211,25,1,3.0,3.0,h
+S2425-G0079,3,07:23,ATL,,CHA,,D. Daniels,ATL,MISS Daniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,-96,241,26,1,3.0,0.0,h
+S2425-G0079,3,06:36,ATL,,CHA,,D. Daniels,ATL,Daniels STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0079,3,06:32,ATL,77.0,CHA,67.0,D. Daniels,ATL,Daniels 1' Running Dunk (12 PTS),Made Shot,Running Dunk Shot,-7,13,1,1,2.0,2.0,h
+S2425-G0079,3,04:50,ATL,,CHA,,D. Daniels,ATL,SUB: Krejčí FOR Daniels,Substitution,,0,0,0,0,,,h
+S2425-G0079,3,00:02,ATL,,CHA,,D. Daniels,ATL,Daniels S.FOUL (P4.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0079,4,10:55,ATL,90.0,CHA,87.0,D. Daniels,ATL,Daniels 1' Reverse Layup (14 PTS) (Young 7 AST),Made Shot,Reverse Layup Shot,-10,9,1,1,2.0,2.0,h
+S2425-G0079,4,09:22,ATL,97.0,CHA,93.0,D. Daniels,ATL,Daniels 3' Driving Layup (16 PTS) (Young 8 AST),Made Shot,Driving Layup Shot,-11,31,3,1,2.0,2.0,h
+S2425-G0079,4,08:09,ATL,,CHA,,D. Daniels,ATL,Daniels P.FOUL (P5.T2) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2425-G0079,4,08:09,ATL,,CHA,,D. Daniels,ATL,SUB: Hunter FOR Daniels,Substitution,,0,0,0,0,,,h
+S2425-G0079,4,06:50,ATL,,CHA,,D. Daniels,ATL,SUB: Krejčí FOR Daniels,Substitution,,0,0,0,0,,,h
+S2425-G0079,4,03:09,ATL,,CHA,,D. Daniels,ATL,Daniels Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0079,4,02:05,ATL,118.0,CHA,110.0,D. Daniels,ATL,Daniels 2' Cutting Layup Shot (18 PTS) (Hunter 3 AST),Made Shot,Cutting Layup Shot,-12,15,2,1,2.0,2.0,h
+S2425-G0079,4,01:49,ATL,,CHA,,D. Daniels,ATL,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,4,00:34.500000,ATL,,CHA,,D. Daniels,ATL,Daniels BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0064,1,11:18,ATL,6.0,BKN,0.0,D. Daniels,ATL,Daniels 25' 3PT Jump Shot (3 PTS) (Capela 1 AST),Made Shot,Jump Shot,245,55,25,1,3.0,3.0,h
+S2425-G0064,1,10:08,ATL,,BKN,,D. Daniels,ATL,Daniels REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,1,10:08,ATL,10.0,BKN,4.0,D. Daniels,ATL,Daniels Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0064,1,09:02,ATL,,BKN,,D. Daniels,ATL,MISS Daniels 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-62,89,11,1,2.0,0.0,h
+S2425-G0064,1,07:18,ATL,,BKN,,D. Daniels,ATL,Daniels Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0064,1,06:07,ATL,,BKN,,D. Daniels,ATL,MISS Daniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,-121,225,26,1,3.0,0.0,h
+S2425-G0064,1,05:48,ATL,,BKN,,D. Daniels,ATL,Daniels L.B.FOUL (P1.T2) (A.Nagy),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0064,1,03:43,ATL,,BKN,,D. Daniels,ATL,SUB: Risacher FOR Daniels,Substitution,,0,0,0,0,,,h
+S2425-G0064,2,03:42,ATL,,BKN,,D. Daniels,ATL,MISS Daniels 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,36,41,5,1,2.0,0.0,h
+S2425-G0064,2,02:59,ATL,,BKN,,D. Daniels,ATL,Daniels STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0064,3,10:56,ATL,53.0,BKN,58.0,D. Daniels,ATL,Daniels Cutting Layup Shot (7 PTS) (Johnson 4 AST),Made Shot,Cutting Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0064,3,10:12,ATL,,BKN,,D. Daniels,ATL,Daniels STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0064,3,10:09,ATL,,BKN,,D. Daniels,ATL,MISS Daniels Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,3,10:09,ATL,57.0,BKN,61.0,D. Daniels,ATL,Daniels Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,3,09:30,ATL,59.0,BKN,61.0,D. Daniels,ATL,Daniels 2' Layup (10 PTS),Made Shot,Layup Shot,-16,-1,2,1,2.0,2.0,h
+S2425-G0064,3,08:31,ATL,,BKN,,D. Daniels,ATL,Daniels P.FOUL (P2.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2425-G0064,3,07:21,ATL,,BKN,,D. Daniels,ATL,Daniels BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0064,3,06:34,ATL,,BKN,,D. Daniels,ATL,Daniels STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0064,3,06:31,ATL,,BKN,,D. Daniels,ATL,MISS Daniels Running Layup,Missed Shot,Running Layup Shot,0,1,0,1,2.0,0.0,h
+S2425-G0064,3,05:52,ATL,,BKN,,D. Daniels,ATL,Daniels STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0064,3,05:26,ATL,69.0,BKN,66.0,D. Daniels,ATL,Daniels 26' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,-154,208,26,1,3.0,3.0,h
+S2425-G0064,3,04:09,ATL,,BKN,,D. Daniels,ATL,Daniels REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,3,03:50,ATL,,BKN,,D. Daniels,ATL,SUB: Risacher FOR Daniels,Substitution,,0,0,0,0,,,h
+S2425-G0064,4,09:24,ATL,,BKN,,D. Daniels,ATL,Daniels S.FOUL (P3.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0064,4,08:07,ATL,,BKN,,D. Daniels,ATL,Daniels STEAL (5 STL),,,0,0,0,0,,,h
+S2425-G0064,4,08:03,ATL,,BKN,,D. Daniels,ATL,Daniels T.FOUL (P3.T4) (D.Guthrie),Foul,Technical,0,0,0,0,,,h
+S2425-G0064,4,08:03,ATL,,BKN,,D. Daniels,ATL,MISS Daniels Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,4,08:03,ATL,,BKN,,D. Daniels,ATL,MISS Daniels Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,4,07:53,ATL,95.0,BKN,90.0,D. Daniels,ATL,Daniels 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,5,1,1,2.0,2.0,h
+S2425-G0064,4,06:48,ATL,,BKN,,D. Daniels,ATL,Daniels REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,4,06:48,ATL,,BKN,,D. Daniels,ATL,MISS Daniels Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0064,4,06:47,ATL,,BKN,,D. Daniels,ATL,Daniels REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,4,05:24,ATL,,BKN,,D. Daniels,ATL,Daniels REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,4,04:12,ATL,,BKN,,D. Daniels,ATL,Daniels Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0064,4,02:59,ATL,,BKN,,D. Daniels,ATL,Daniels S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0064,4,02:01,ATL,,BKN,,D. Daniels,ATL,MISS Daniels 25' 3PT Jump Shot,Missed Shot,Jump Shot,-202,152,25,1,3.0,0.0,h
+S2425-G0100,1,11:52,OKC,,ATL,,D. Daniels,ATL,MISS Daniels 14' Floating Jump Shot,Missed Shot,Floating Jump shot,-51,134,14,1,2.0,0.0,v
+S2425-G0100,1,11:48,OKC,,ATL,,D. Daniels,ATL,Daniels REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,10:33,OKC,,ATL,,D. Daniels,ATL,Daniels STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0100,1,10:10,OKC,,ATL,,D. Daniels,ATL,Daniels REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,08:47,OKC,,ATL,,D. Daniels,ATL,MISS Daniels 4' Driving Layup,Missed Shot,Driving Layup Shot,38,5,4,1,2.0,0.0,v
+S2425-G0100,1,08:17,OKC,,ATL,,D. Daniels,ATL,MISS Daniels 3PT Jump Shot,Missed Shot,Jump Shot,-229,-1,0,1,3.0,0.0,v
+S2425-G0100,1,06:27,OKC,,ATL,,D. Daniels,ATL,MISS Daniels 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-65,59,9,1,2.0,0.0,v
+S2425-G0100,1,05:11,OKC,,ATL,,D. Daniels,ATL,Daniels REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,05:04,OKC,,ATL,,D. Daniels,ATL,SUB: Krejčí FOR Daniels,Substitution,,0,0,0,0,,,v
+S2425-G0100,2,09:45,OKC,27.0,ATL,34.0,D. Daniels,ATL,Daniels 2' Driving Floating Bank Jump Shot (2 PTS) (Capela 1 AST),Made Shot,Driving Floating Bank Jump Shot,6,16,2,1,2.0,2.0,v
+S2425-G0100,2,08:17,OKC,,ATL,,D. Daniels,ATL,MISS Daniels 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-178,196,26,1,3.0,0.0,v
+S2425-G0100,2,06:20,OKC,,ATL,,D. Daniels,ATL,SUB: Okongwu FOR Daniels,Substitution,,0,0,0,0,,,v
+S2425-G0100,3,11:33,OKC,,ATL,,D. Daniels,ATL,MISS Daniels 3PT Jump Shot,Missed Shot,Jump Shot,-228,4,0,1,3.0,0.0,v
+S2425-G0100,3,10:39,OKC,,ATL,,D. Daniels,ATL,Daniels REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,09:36,OKC,,ATL,,D. Daniels,ATL,MISS Daniels 6' Driving Layup,Missed Shot,Driving Layup Shot,-58,29,6,1,2.0,0.0,v
+S2425-G0100,3,08:59,OKC,,ATL,,D. Daniels,ATL,MISS Daniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,-173,195,26,1,3.0,0.0,v
+S2425-G0100,3,08:05,OKC,,ATL,,D. Daniels,ATL,Daniels Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0100,3,07:59,OKC,,ATL,,D. Daniels,ATL,Daniels S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,3,07:27,OKC,,ATL,,D. Daniels,ATL,Daniels REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,07:21,OKC,70.0,ATL,67.0,D. Daniels,ATL,Daniels Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0100,3,07:21,OKC,,ATL,,D. Daniels,ATL,MISS Daniels Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0100,3,06:35,OKC,,ATL,,D. Daniels,ATL,Daniels S.FOUL (P2.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,3,06:33,OKC,,ATL,,D. Daniels,ATL,Daniels REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,06:15,OKC,74.0,ATL,71.0,D. Daniels,ATL,Daniels 4' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,31,27,4,1,2.0,2.0,v
+S2425-G0100,3,05:49,OKC,,ATL,,D. Daniels,ATL,Daniels REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,05:24,OKC,,ATL,,D. Daniels,ATL,SUB: Mathews FOR Daniels,Substitution,,0,0,0,0,,,v
+S2425-G0100,4,10:31,OKC,,ATL,,D. Daniels,ATL,Daniels REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,4,10:31,OKC,91.0,ATL,92.0,D. Daniels,ATL,Daniels Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,-1,3,0,1,2.0,2.0,v
+S2425-G0100,4,08:25,OKC,,ATL,,D. Daniels,ATL,Daniels BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0100,4,08:11,OKC,,ATL,,D. Daniels,ATL,SUB: Mathews FOR Daniels,Substitution,,0,0,0,0,,,v
+S2425-G0100,4,05:59,OKC,,ATL,,D. Daniels,ATL,Daniels S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,4,03:03,OKC,,ATL,,D. Daniels,ATL,SUB: Roddy FOR Daniels,Substitution,,0,0,0,0,,,v
+S2425-G0103,1,10:27,ATL,5.0,WAS,2.0,D. Daniels,ATL,Daniels 6' Driving Floating Jump Shot (2 PTS) (Young 1 AST),Made Shot,Driving Floating Jump Shot,-16,55,6,1,2.0,2.0,h
+S2425-G0103,1,08:45,ATL,,WAS,,D. Daniels,ATL,Daniels STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0103,1,08:43,ATL,,WAS,,D. Daniels,ATL,MISS Daniels Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0103,1,08:43,ATL,13.0,WAS,2.0,D. Daniels,ATL,Daniels Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,1,08:37,ATL,,WAS,,D. Daniels,ATL,Daniels P.FOUL (P1.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2425-G0103,1,07:30,ATL,15.0,WAS,5.0,D. Daniels,ATL,Daniels 1' Running Layup (5 PTS) (Young 4 AST),Made Shot,Running Layup Shot,7,10,1,1,2.0,2.0,h
+S2425-G0103,1,06:30,ATL,,WAS,,D. Daniels,ATL,MISS Daniels 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-11,74,7,1,2.0,0.0,h
+S2425-G0103,1,04:23,ATL,,WAS,,D. Daniels,ATL,Daniels STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0103,1,03:34,ATL,,WAS,,D. Daniels,ATL,MISS Daniels 3PT Jump Shot,Missed Shot,Jump Shot,232,-16,0,1,3.0,0.0,h
+S2425-G0103,1,03:03,ATL,,WAS,,D. Daniels,ATL,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,1,02:58,ATL,,WAS,,D. Daniels,ATL,MISS Daniels 7' Floating Jump Shot,Missed Shot,Floating Jump shot,23,67,7,1,2.0,0.0,h
+S2425-G0103,1,02:13,ATL,,WAS,,D. Daniels,ATL,SUB: Risacher FOR Daniels,Substitution,,0,0,0,0,,,h
+S2425-G0103,2,00:19.700000,ATL,,WAS,,D. Daniels,ATL,Daniels STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0103,2,00:00.500000,ATL,,WAS,,D. Daniels,ATL,MISS Daniels 55' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,545,55,1,3.0,0.0,h
+S2425-G0103,3,10:27,ATL,65.0,WAS,57.0,D. Daniels,ATL,Daniels 24' 3PT Running Pull-Up Jump Shot (8 PTS) (Risacher 1 AST),Made Shot,Running Pull-Up Jump Shot,-241,34,24,1,3.0,3.0,h
+S2425-G0103,3,07:57,ATL,,WAS,,D. Daniels,ATL,Daniels REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,3,03:11,ATL,,WAS,,D. Daniels,ATL,SUB: Johnson FOR Daniels,Substitution,,0,0,0,0,,,h
+S2425-G0103,4,11:37,ATL,,WAS,,D. Daniels,ATL,Daniels REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,4,02:32,ATL,,WAS,,D. Daniels,ATL,MISS Daniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,85,250,26,1,3.0,0.0,h
+S2425-G0103,4,00:08.300000,ATL,119.0,WAS,120.0,D. Daniels,ATL,Daniels 27' 3PT Pullup Jump Shot (11 PTS) (Johnson 7 AST),Made Shot,Pullup Jump shot,140,225,27,1,3.0,3.0,h

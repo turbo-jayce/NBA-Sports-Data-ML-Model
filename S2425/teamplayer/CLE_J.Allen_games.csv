@@ -1,0 +1,162 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0106,1,10:21,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,10:12,NYK,2.0,CLE,4.0,J. Allen,CLE,Allen 1' Cutting Layup Shot (2 PTS) (Wade 2 AST),Made Shot,Cutting Layup Shot,-5,12,1,1,2.0,2.0,v
+S2425-G0106,1,09:10,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,06:04,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,04:45,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,04:44,NYK,,CLE,,J. Allen,CLE,MISS Allen 2' Putback Layup,Missed Shot,Putback Layup Shot,-13,8,2,1,2.0,0.0,v
+S2425-G0106,1,04:35,NYK,,CLE,,J. Allen,CLE,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0106,1,04:35,NYK,10.0,CLE,12.0,J. Allen,CLE,Allen Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,1,04:02,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,1,03:42,NYK,10.0,CLE,13.0,J. Allen,CLE,Allen Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,1,03:42,NYK,10.0,CLE,14.0,J. Allen,CLE,Allen Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,1,03:19,NYK,,CLE,,J. Allen,CLE,SUB: Mobley FOR Allen,Substitution,,0,0,0,0,,,v
+S2425-G0106,2,07:11,NYK,,CLE,,J. Allen,CLE,Allen OFF.Foul (P1) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2425-G0106,2,07:11,NYK,,CLE,,J. Allen,CLE,Allen Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0106,2,06:52,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,2,05:23,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,2,05:22,NYK,38.0,CLE,34.0,J. Allen,CLE,Allen 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-15,6,2,1,2.0,2.0,v
+S2425-G0106,2,02:21,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,2,02:06,NYK,48.0,CLE,43.0,J. Allen,CLE,Allen 1' Cutting Dunk Shot (9 PTS) (LeVert 1 AST),Made Shot,Cutting Dunk Shot,-1,8,1,1,2.0,2.0,v
+S2425-G0106,3,11:43,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,06:40,NYK,,CLE,,J. Allen,CLE,MISS Allen 2' Hook Shot,Missed Shot,Hook Shot,-20,13,2,1,2.0,0.0,v
+S2425-G0106,3,06:30,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,06:02,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,04:05,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,3,03:27,NYK,74.0,CLE,65.0,J. Allen,CLE,Allen 5' Driving Bank Hook Shot (11 PTS) (LeVert 3 AST),Made Shot,Driving Bank Hook Shot,36,34,5,1,2.0,2.0,v
+S2425-G0106,3,03:14,NYK,,CLE,,J. Allen,CLE,SUB: Mobley FOR Allen,Substitution,,0,0,0,0,,,v
+S2425-G0106,3,00:00.400000,NYK,,CLE,,J. Allen,CLE,Allen STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0106,4,05:39,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,4,05:35,NYK,89.0,CLE,93.0,J. Allen,CLE,Allen 1' Cutting Layup Shot (13 PTS) (Garland 3 AST),Made Shot,Cutting Layup Shot,6,5,1,1,2.0,2.0,v
+S2425-G0106,4,05:35,NYK,,CLE,,J. Allen,CLE,MISS Allen Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0106,4,02:45,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,4,01:25,NYK,98.0,CLE,102.0,J. Allen,CLE,Allen Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,4,01:25,NYK,98.0,CLE,103.0,J. Allen,CLE,Allen Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0106,4,01:14,NYK,,CLE,,J. Allen,CLE,Allen REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0106,4,01:03,NYK,,CLE,,J. Allen,CLE,Allen OFF.Foul (P2) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2425-G0106,4,01:03,NYK,,CLE,,J. Allen,CLE,Allen Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0080,1,12:00,CLE,,DET,,J. Allen,CLE,Jump Ball Allen vs. Duren: Tip to Mobley,Jump Ball,,0,0,0,0,,,h
+S2425-G0080,1,08:50,CLE,,DET,,J. Allen,CLE,Allen STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0080,1,06:31,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,1,05:54,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,1,05:49,CLE,17.0,DET,19.0,J. Allen,CLE,Allen 1' Alley Oop Dunk (2 PTS) (Garland 2 AST),Made Shot,Alley Oop Dunk Shot,5,11,1,1,2.0,2.0,h
+S2425-G0080,1,04:57,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,1,04:49,CLE,21.0,DET,19.0,J. Allen,CLE,Allen Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,1,04:49,CLE,22.0,DET,19.0,J. Allen,CLE,Allen Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,1,04:18,CLE,24.0,DET,19.0,J. Allen,CLE,Allen 1' Cutting Layup Shot (6 PTS) (LeVert 1 AST),Made Shot,Cutting Layup Shot,5,4,1,1,2.0,2.0,h
+S2425-G0080,1,03:45,CLE,,DET,,J. Allen,CLE,MISS Allen 11' Jump Shot,Missed Shot,Jump Shot,5,113,11,1,2.0,0.0,h
+S2425-G0080,1,02:53,CLE,,DET,,J. Allen,CLE,MISS Allen 1' Layup,Missed Shot,Layup Shot,1,11,1,1,2.0,0.0,h
+S2425-G0080,1,02:27,CLE,,DET,,J. Allen,CLE,SUB: Mobley FOR Allen,Substitution,,0,0,0,0,,,h
+S2425-G0080,2,02:07,CLE,59.0,DET,53.0,J. Allen,CLE,Allen 5' Layup (8 PTS) (Mobley 2 AST),Made Shot,Layup Shot,-39,36,5,1,2.0,2.0,h
+S2425-G0080,2,01:04,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,2,00:34,CLE,62.0,DET,53.0,J. Allen,CLE,Allen Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,2,00:34,CLE,63.0,DET,53.0,J. Allen,CLE,Allen Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,2,00:12,CLE,,DET,,J. Allen,CLE,Allen BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0080,2,00:00.100000,CLE,65.0,DET,55.0,J. Allen,CLE,Allen 1' Alley Oop Layup (12 PTS) (LeVert 2 AST),Made Shot,Alley Oop Layup shot,-2,-10,1,1,2.0,2.0,h
+S2425-G0080,3,10:04,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,08:12,CLE,,DET,,J. Allen,CLE,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0080,3,08:12,CLE,73.0,DET,62.0,J. Allen,CLE,Allen Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,3,07:33,CLE,74.0,DET,64.0,J. Allen,CLE,Allen Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,3,07:33,CLE,75.0,DET,64.0,J. Allen,CLE,Allen Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0080,3,05:38,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,05:21,CLE,,DET,,J. Allen,CLE,CAVALIERS T.Foul (Def. 3 Sec Allen ) (C.Flores),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0080,3,04:15,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,04:05,CLE,,DET,,J. Allen,CLE,Allen Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0080,3,02:35,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,3,02:21,CLE,,DET,,J. Allen,CLE,SUB: Mitchell FOR Allen,Substitution,,0,0,0,0,,,h
+S2425-G0080,4,06:33,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,4,05:39,CLE,107.0,DET,91.0,J. Allen,CLE,Allen 2' Cutting Layup Shot (17 PTS) (Jerome 4 AST),Made Shot,Cutting Layup Shot,12,10,2,1,2.0,2.0,h
+S2425-G0080,4,05:19,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,4,01:59,CLE,,DET,,J. Allen,CLE,Allen REBOUND (Off:0 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0080,4,01:17,CLE,,DET,,J. Allen,CLE,SUB: Niang FOR Allen,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,10:37,WAS,2.0,CLE,4.0,J. Allen,CLE,Allen 3' Cutting Dunk Shot (2 PTS) (Mitchell 1 AST),Made Shot,Cutting Dunk Shot,4,32,3,1,2.0,2.0,v
+S2425-G0090,1,05:53,WAS,,CLE,,J. Allen,CLE,Allen BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0090,1,05:35,WAS,16.0,CLE,18.0,J. Allen,CLE,Allen 6' Cutting Dunk Shot (4 PTS) (Garland 1 AST),Made Shot,Cutting Dunk Shot,2,63,6,1,2.0,2.0,v
+S2425-G0090,1,05:21,WAS,,CLE,,J. Allen,CLE,Allen STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0090,1,05:06,WAS,,CLE,,J. Allen,CLE,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0090,1,05:06,WAS,16.0,CLE,19.0,J. Allen,CLE,Allen Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,1,04:55,WAS,,CLE,,J. Allen,CLE,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,1,04:42,WAS,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,1,04:42,WAS,16.0,CLE,20.0,J. Allen,CLE,Allen Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,1,04:42,WAS,16.0,CLE,21.0,J. Allen,CLE,Allen Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0090,1,03:40,WAS,21.0,CLE,23.0,J. Allen,CLE,Allen 4' Cutting Layup Shot (9 PTS) (LeVert 1 AST),Made Shot,Cutting Layup Shot,38,13,4,1,2.0,2.0,v
+S2425-G0090,1,03:32,WAS,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,1,03:24,WAS,,CLE,,J. Allen,CLE,SUB: Mitchell FOR Allen,Substitution,,0,0,0,0,,,v
+S2425-G0090,2,05:02,WAS,35.0,CLE,43.0,J. Allen,CLE,Allen 6' Cutting Dunk Shot (11 PTS) (Jerome 2 AST),Made Shot,Cutting Dunk Shot,1,55,6,1,2.0,2.0,v
+S2425-G0090,2,02:19,WAS,42.0,CLE,52.0,J. Allen,CLE,Allen 5' Turnaround Hook Shot (13 PTS) (Mobley 2 AST),Made Shot,Turnaround Hook Shot,-31,41,5,1,2.0,2.0,v
+S2425-G0090,2,00:43.600000,WAS,51.0,CLE,57.0,J. Allen,CLE,Allen 4' Cutting Dunk Shot (15 PTS) (Garland 2 AST),Made Shot,Cutting Dunk Shot,2,36,4,1,2.0,2.0,v
+S2425-G0090,2,00:35.800000,WAS,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,2,00:00.400000,WAS,,CLE,,J. Allen,CLE,Allen Violation:Defensive Goaltending (M.Boland),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0090,3,05:54,WAS,60.0,CLE,76.0,J. Allen,CLE,Allen 2' Cutting Layup Shot (17 PTS) (LeVert 2 AST),Made Shot,Cutting Layup Shot,18,3,2,1,2.0,2.0,v
+S2425-G0090,3,05:37,WAS,,CLE,,J. Allen,CLE,Allen P.FOUL (P1.PN) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2425-G0090,3,05:14,WAS,,CLE,,J. Allen,CLE,Allen BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0090,3,05:06,WAS,62.0,CLE,78.0,J. Allen,CLE,Allen 3' Running Dunk (19 PTS) (Garland 5 AST),Made Shot,Running Dunk Shot,-13,22,3,1,2.0,2.0,v
+S2425-G0090,3,04:49,WAS,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0090,3,04:00,WAS,64.0,CLE,82.0,J. Allen,CLE,Allen 1' Driving Dunk (21 PTS) (LeVert 3 AST),Made Shot,Driving Dunk Shot,9,-2,1,1,2.0,2.0,v
+S2425-G0090,3,03:36,WAS,66.0,CLE,84.0,J. Allen,CLE,Allen 6' Driving Hook Shot (23 PTS) (LeVert 4 AST),Made Shot,Driving Hook Shot,49,35,6,1,2.0,2.0,v
+S2425-G0090,3,02:40,WAS,,CLE,,J. Allen,CLE,SUB: Mobley FOR Allen,Substitution,,0,0,0,0,,,v
+S2425-G0090,4,05:19,WAS,,CLE,,J. Allen,CLE,SUB: Thompson FOR Allen,Substitution,,0,0,0,0,,,v
+S2425-G0067,1,09:19,TOR,7.0,CLE,6.0,J. Allen,CLE,Allen 1' Alley Oop Dunk (2 PTS) (Garland 2 AST),Made Shot,Alley Oop Dunk Shot,1,-5,1,1,2.0,2.0,v
+S2425-G0067,1,08:10,TOR,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,08:10,TOR,11.0,CLE,11.0,J. Allen,CLE,Allen Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0067,1,06:30,TOR,,CLE,,J. Allen,CLE,Allen BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0067,1,05:12,TOR,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,1,04:30,TOR,,CLE,,J. Allen,CLE,Allen Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0067,1,02:45,TOR,,CLE,,J. Allen,CLE,SUB: Mobley FOR Allen,Substitution,,0,0,0,0,,,v
+S2425-G0067,2,06:38,TOR,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,2,05:45,TOR,,CLE,,J. Allen,CLE,MISS Allen 11' Jump Shot,Missed Shot,Jump Shot,-6,112,11,1,2.0,0.0,v
+S2425-G0067,2,05:37,TOR,,CLE,,J. Allen,CLE,Allen BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0067,2,05:09,TOR,45.0,CLE,51.0,J. Allen,CLE,Allen Cutting Dunk Shot (6 PTS) (Jerome 2 AST),Made Shot,Cutting Dunk Shot,2,0,0,1,2.0,2.0,v
+S2425-G0067,2,04:23,TOR,,CLE,,J. Allen,CLE,Allen STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0067,2,04:20,TOR,,CLE,,J. Allen,CLE,MISS Allen 4' Running Layup,Missed Shot,Running Layup Shot,38,12,4,1,2.0,0.0,v
+S2425-G0067,2,03:10,TOR,,CLE,,J. Allen,CLE,Allen BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0067,2,03:07,TOR,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,2,02:06,TOR,46.0,CLE,62.0,J. Allen,CLE,Allen 1' Alley Oop Dunk (8 PTS) (Jerome 3 AST),Made Shot,Alley Oop Dunk Shot,9,4,1,1,2.0,2.0,v
+S2425-G0067,2,00:52.400000,TOR,49.0,CLE,64.0,J. Allen,CLE,Allen Cutting Dunk Shot (10 PTS) (Jerome 4 AST),Made Shot,Cutting Dunk Shot,4,0,0,1,2.0,2.0,v
+S2425-G0067,2,00:52.400000,TOR,49.0,CLE,65.0,J. Allen,CLE,Allen Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0067,2,00:26.500000,TOR,,CLE,,J. Allen,CLE,Allen REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,3,09:15,TOR,,CLE,,J. Allen,CLE,Allen REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,3,08:39,TOR,56.0,CLE,76.0,J. Allen,CLE,Allen Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,3,08:39,TOR,56.0,CLE,77.0,J. Allen,CLE,Allen Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,3,08:14,TOR,,CLE,,J. Allen,CLE,Allen REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0067,3,07:34,TOR,,CLE,,J. Allen,CLE,Allen BLOCK (4 BLK),,,0,0,0,0,,,v
+S2425-G0067,3,05:54,TOR,,CLE,,J. Allen,CLE,Allen S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0067,3,03:16,TOR,67.0,CLE,93.0,J. Allen,CLE,Allen Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0067,3,03:16,TOR,,CLE,,J. Allen,CLE,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0067,3,02:45,TOR,,CLE,,J. Allen,CLE,SUB: Mobley FOR Allen,Substitution,,0,0,0,0,,,v
+S2425-G0118,1,12:00,CLE,,LAL,,J. Allen,CLE,Jump Ball Allen vs. Davis: Tip to Russell,Jump Ball,,0,0,0,0,,,h
+S2425-G0118,1,09:21,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,1,08:08,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,1,06:02,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,1,05:07,CLE,,LAL,,J. Allen,CLE,Allen BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0118,1,04:18,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,1,03:41,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,1,02:34,CLE,30.0,LAL,20.0,J. Allen,CLE,Allen 1' Dunk (2 PTS) (Garland 2 AST),Made Shot,Dunk Shot,-4,9,1,1,2.0,2.0,h
+S2425-G0118,1,02:10,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,1,02:06,CLE,32.0,LAL,20.0,J. Allen,CLE,Allen 1' Cutting Layup Shot (4 PTS) (LeVert 5 AST),Made Shot,Cutting Layup Shot,-6,13,1,1,2.0,2.0,h
+S2425-G0118,1,01:44,CLE,,LAL,,J. Allen,CLE,SUB: Mobley FOR Allen,Substitution,,0,0,0,0,,,h
+S2425-G0118,2,10:45,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,2,10:34,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,2,10:34,CLE,46.0,LAL,25.0,J. Allen,CLE,Allen 1' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,-7,3,1,1,2.0,2.0,h
+S2425-G0118,2,10:00,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,2,10:00,CLE,48.0,LAL,25.0,J. Allen,CLE,Allen Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0118,2,08:54,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,2,08:22,CLE,,LAL,,J. Allen,CLE,MISS Allen 19' Jump Shot,Missed Shot,Jump Shot,-2,190,19,1,2.0,0.0,h
+S2425-G0118,2,07:53,CLE,49.0,LAL,30.0,J. Allen,CLE,Allen Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0118,2,07:53,CLE,50.0,LAL,30.0,J. Allen,CLE,Allen Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0118,2,07:24,CLE,,LAL,,J. Allen,CLE,Allen BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0118,2,06:49,CLE,52.0,LAL,32.0,J. Allen,CLE,Allen 9' Jump Shot (12 PTS) (Jerome 1 AST),Made Shot,Jump Shot,83,24,9,1,2.0,2.0,h
+S2425-G0118,2,04:39,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,2,04:38,CLE,57.0,LAL,36.0,J. Allen,CLE,Allen 1' Running Dunk (14 PTS) (Mitchell 4 AST),Made Shot,Running Dunk Shot,-9,9,1,1,2.0,2.0,h
+S2425-G0118,2,01:39,CLE,63.0,LAL,44.0,J. Allen,CLE,Allen 6' Turnaround Hook Shot (16 PTS) (Jerome 3 AST),Made Shot,Turnaround Hook Shot,5,57,6,1,2.0,2.0,h
+S2425-G0118,2,01:04,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,2,00:55.300000,CLE,65.0,LAL,46.0,J. Allen,CLE,Allen 8' Jump Shot (18 PTS) (Merrill 1 AST),Made Shot,Jump Shot,29,73,8,1,2.0,2.0,h
+S2425-G0118,3,10:52,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,3,09:20,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:2 Def:12),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,3,08:30,CLE,,LAL,,J. Allen,CLE,MISS Allen 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,0,12,1,1,2.0,0.0,h
+S2425-G0118,3,07:25,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:3 Def:12),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,3,07:25,CLE,,LAL,,J. Allen,CLE,MISS Allen Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,h
+S2425-G0118,3,06:45,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:3 Def:13),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,3,05:44,CLE,79.0,LAL,61.0,J. Allen,CLE,Allen 1' Alley Oop Dunk (20 PTS) (Garland 5 AST),Made Shot,Alley Oop Dunk Shot,-1,10,1,1,2.0,2.0,h
+S2425-G0118,3,03:20,CLE,,LAL,,J. Allen,CLE,Allen REBOUND (Off:3 Def:14),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0118,3,03:14,CLE,,LAL,,J. Allen,CLE,SUB: Mobley FOR Allen,Substitution,,0,0,0,0,,,h

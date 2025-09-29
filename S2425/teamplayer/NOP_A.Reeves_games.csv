@@ -1,0 +1,9 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0069,4,00:49.600000,NOP,,CHI,,A. Reeves,NOP,MISS Reeves 4' Driving Layup,Missed Shot,Driving Layup Shot,28,26,4,1,2.0,0.0,h
+S2425-G0069,4,00:37.200000,NOP,,CHI,,A. Reeves,NOP,MISS Reeves 26' 3PT Jump Shot,Missed Shot,Jump Shot,218,148,26,1,3.0,0.0,h
+S2425-G0069,4,00:14.200000,NOP,,CHI,,A. Reeves,NOP,MISS Reeves 3PT Jump Shot,Missed Shot,Jump Shot,-227,25,0,1,3.0,0.0,h
+S2425-G0069,4,00:03.100000,NOP,,CHI,,A. Reeves,NOP,Reeves Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0099,4,02:49,POR,,,,A. Reeves,NOP,Reeves REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,4,01:01,POR,,,,A. Reeves,NOP,MISS Reeves 25' 3PT Jump Shot,Missed Shot,Jump Shot,-179,178,25,1,3.0,0.0,v
+S2425-G0099,4,00:44.800000,POR,,,,A. Reeves,NOP,MISS Reeves 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,13,52,5,1,2.0,0.0,v
+S2425-G0099,4,00:24.100000,POR,,,,A. Reeves,NOP,MISS Reeves 3PT Jump Shot,Missed Shot,Jump Shot,225,11,0,1,3.0,0.0,v

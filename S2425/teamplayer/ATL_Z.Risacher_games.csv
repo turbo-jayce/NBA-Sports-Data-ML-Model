@@ -1,0 +1,123 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0079,1,03:18,ATL,24.0,CHA,14.0,Z. Risacher,ATL,Risacher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,1,03:18,ATL,25.0,CHA,14.0,Z. Risacher,ATL,Risacher Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,1,02:22,ATL,,CHA,,Z. Risacher,ATL,MISS Risacher 3' Running Layup,Missed Shot,Running Layup Shot,-15,21,3,1,2.0,0.0,h
+S2425-G0079,1,00:35.600000,ATL,,CHA,,Z. Risacher,ATL,MISS Risacher 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,203,133,24,1,3.0,0.0,h
+S2425-G0079,2,03:40,ATL,,CHA,,Z. Risacher,ATL,MISS Risacher 25' 3PT Jump Shot,Missed Shot,Jump Shot,164,193,25,1,3.0,0.0,h
+S2425-G0079,2,02:06,ATL,,CHA,,Z. Risacher,ATL,Risacher BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0079,2,00:45.800000,ATL,60.0,CHA,55.0,Z. Risacher,ATL,Risacher 27' 3PT Jump Shot (5 PTS) (Young 3 AST),Made Shot,Jump Shot,110,248,27,1,3.0,3.0,h
+S2425-G0079,3,01:22,ATL,,CHA,,Z. Risacher,ATL,MISS Risacher 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-191,166,25,1,3.0,0.0,h
+S2425-G0079,3,00:32.400000,ATL,,CHA,,Z. Risacher,ATL,SUB: Young FOR Risacher,Substitution,,0,0,0,0,,,h
+S2425-G0064,1,03:31,ATL,20.0,BKN,15.0,Z. Risacher,ATL,Risacher 26' 3PT Running Jump Shot (3 PTS) (Young 5 AST),Made Shot,Running Jump Shot,207,163,26,1,3.0,3.0,h
+S2425-G0064,1,03:14,ATL,,BKN,,Z. Risacher,ATL,Risacher S.FOUL (P1.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0064,1,00:59,ATL,,BKN,,Z. Risacher,ATL,MISS Risacher 3' Running Layup,Missed Shot,Running Layup Shot,5,28,3,1,2.0,0.0,h
+S2425-G0064,2,11:04,ATL,,BKN,,Z. Risacher,ATL,MISS Risacher 25' 3PT Jump Shot,Missed Shot,Jump Shot,-188,160,25,1,3.0,0.0,h
+S2425-G0064,2,10:52,ATL,33.0,BKN,28.0,Z. Risacher,ATL,Risacher Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,2,10:52,ATL,,BKN,,Z. Risacher,ATL,MISS Risacher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,2,10:06,ATL,,BKN,,Z. Risacher,ATL,MISS Risacher 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,157,211,26,1,3.0,0.0,h
+S2425-G0064,2,07:16,ATL,,BKN,,Z. Risacher,ATL,Risacher Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0064,2,06:45,ATL,,BKN,,Z. Risacher,ATL,MISS Risacher 8' Driving Layup,Missed Shot,Driving Layup Shot,-11,76,8,1,2.0,0.0,h
+S2425-G0064,2,06:03,ATL,,BKN,,Z. Risacher,ATL,MISS Risacher 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-175,186,26,1,3.0,0.0,h
+S2425-G0064,2,03:47,ATL,,BKN,,Z. Risacher,ATL,Risacher REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,2,02:46,ATL,,BKN,,Z. Risacher,ATL,SUB: Bogdanović FOR Risacher,Substitution,,0,0,0,0,,,h
+S2425-G0064,3,01:07,ATL,,BKN,,Z. Risacher,ATL,MISS Risacher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,3,01:07,ATL,83.0,BKN,82.0,Z. Risacher,ATL,Risacher Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,3,00:58.700000,ATL,,BKN,,Z. Risacher,ATL,Risacher P.FOUL (P2.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2425-G0064,3,00:41.100000,ATL,,BKN,,Z. Risacher,ATL,MISS Risacher 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-9,6,1,1,2.0,0.0,h
+S2425-G0064,4,09:49,ATL,90.0,BKN,85.0,Z. Risacher,ATL,Risacher 1' Running Dunk (7 PTS) (Young 11 AST),Made Shot,Running Dunk Shot,-6,-2,1,1,2.0,2.0,h
+S2425-G0064,4,09:47,ATL,,BKN,,Z. Risacher,ATL,SUB: Daniels FOR Risacher,Substitution,,0,0,0,0,,,h
+S2425-G0121,1,10:42,WAS,,ATL,,Z. Risacher,ATL,MISS Risacher 26' 3PT Jump Shot,Missed Shot,Jump Shot,-224,131,26,1,3.0,0.0,v
+S2425-G0121,1,10:35,WAS,,ATL,,Z. Risacher,ATL,Risacher BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0121,1,09:48,WAS,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,1,09:24,WAS,6.0,ATL,5.0,Z. Risacher,ATL,Risacher 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-37,8,4,1,2.0,2.0,v
+S2425-G0121,1,08:48,WAS,,ATL,,Z. Risacher,ATL,Risacher P.FOUL (P1.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2425-G0121,1,07:13,WAS,,ATL,,Z. Risacher,ATL,MISS Risacher 5' Running Layup,Missed Shot,Running Layup Shot,-25,40,5,1,2.0,0.0,v
+S2425-G0121,1,07:08,WAS,,ATL,,Z. Risacher,ATL,SUB: Mathews FOR Risacher,Substitution,,0,0,0,0,,,v
+S2425-G0121,1,01:16,WAS,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,1,00:03.400000,WAS,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,08:01,WAS,,ATL,,Z. Risacher,ATL,Risacher Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0121,2,06:51,WAS,38.0,ATL,46.0,Z. Risacher,ATL,Risacher 2' Running Alley Oop Dunk Shot (4 PTS) (Johnson 3 AST),Made Shot,Running Alley Oop Dunk Shot,-21,5,2,1,2.0,2.0,v
+S2425-G0121,2,06:29,WAS,,ATL,,Z. Risacher,ATL,SUB: Mathews FOR Risacher,Substitution,,0,0,0,0,,,v
+S2425-G0121,2,05:59,WAS,40.0,ATL,50.0,Z. Risacher,ATL,Risacher 4' Driving Floating Bank Jump Shot (6 PTS) (Mathews 2 AST),Made Shot,Driving Floating Bank Jump Shot,-37,19,4,1,2.0,2.0,v
+S2425-G0121,2,05:03,WAS,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,04:12,WAS,,ATL,,Z. Risacher,ATL,Risacher P.FOUL (P2.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2425-G0121,2,03:31,WAS,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,03:31,WAS,,ATL,,Z. Risacher,ATL,MISS Risacher 4' Hook Shot,Missed Shot,Hook Shot,-13,38,4,1,2.0,0.0,v
+S2425-G0121,2,03:16,WAS,,ATL,,Z. Risacher,ATL,Risacher STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0121,2,01:49,WAS,,ATL,,Z. Risacher,ATL,MISS Risacher 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,-48,29,6,1,2.0,0.0,v
+S2425-G0121,2,01:31,WAS,,ATL,,Z. Risacher,ATL,MISS Risacher 25' 3PT Jump Shot,Missed Shot,Jump Shot,-233,93,25,1,3.0,0.0,v
+S2425-G0121,2,00:05.600000,WAS,,ATL,,Z. Risacher,ATL,MISS Risacher 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,217,156,27,1,3.0,0.0,v
+S2425-G0121,3,11:37,WAS,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,3,11:15,WAS,,ATL,,Z. Risacher,ATL,Risacher Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0121,3,08:43,WAS,,ATL,,Z. Risacher,ATL,Risacher BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0121,3,08:30,WAS,63.0,ATL,73.0,Z. Risacher,ATL,Risacher 3PT Jump Shot (9 PTS) (Young 6 AST),Made Shot,Jump Shot,229,-19,0,1,3.0,3.0,v
+S2425-G0121,3,07:17,WAS,68.0,ATL,75.0,Z. Risacher,ATL,Risacher 6' Driving Finger Roll Layup (11 PTS) (Young 7 AST),Made Shot,Driving Finger Roll Layup Shot,-54,18,6,1,2.0,2.0,v
+S2425-G0121,3,06:36,WAS,,ATL,,Z. Risacher,ATL,SUB: Mathews FOR Risacher,Substitution,,0,0,0,0,,,v
+S2425-G0121,4,11:39,WAS,,ATL,,Z. Risacher,ATL,MISS Risacher 28' 3PT Jump Shot,Missed Shot,Jump Shot,125,254,28,1,3.0,0.0,v
+S2425-G0121,4,09:07,WAS,,ATL,,Z. Risacher,ATL,SUB: Okongwu FOR Risacher,Substitution,,0,0,0,0,,,v
+S2425-G0121,4,05:56,WAS,,ATL,,Z. Risacher,ATL,Risacher S.FOUL (P3.T4) (S.Jelks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0121,4,05:04,WAS,,ATL,,Z. Risacher,ATL,Risacher P.FOUL (P4.PN) (S.Jelks),Foul,Personal,0,0,0,0,,,v
+S2425-G0121,4,04:53,WAS,,ATL,,Z. Risacher,ATL,Risacher Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0121,4,04:32,WAS,123.0,ATL,109.0,Z. Risacher,ATL,Risacher 3PT Jump Shot (14 PTS) (Young 14 AST),Made Shot,Jump Shot,232,-8,0,1,3.0,3.0,v
+S2425-G0121,4,04:18,WAS,,ATL,,Z. Risacher,ATL,Risacher P.FOUL (P5.PN) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2425-G0121,4,01:40,WAS,,ATL,,Z. Risacher,ATL,MISS Risacher 26' 3PT Jump Shot,Missed Shot,Jump Shot,234,110,26,1,3.0,0.0,v
+S2425-G0121,4,01:18,WAS,131.0,ATL,115.0,Z. Risacher,ATL,Risacher 2' Running Layup (16 PTS) (Young 15 AST),Made Shot,Running Layup Shot,13,8,2,1,2.0,2.0,v
+S2425-G0121,4,01:18,WAS,131.0,ATL,116.0,Z. Risacher,ATL,Risacher Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0100,1,09:31,OKC,,ATL,,Z. Risacher,ATL,MISS Risacher 27' 3PT Jump Shot,Missed Shot,Jump Shot,-179,201,27,1,3.0,0.0,v
+S2425-G0100,1,06:07,OKC,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,1,06:06,OKC,10.0,ATL,13.0,Z. Risacher,ATL,Risacher 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-9,2,1,1,2.0,2.0,v
+S2425-G0100,1,05:44,OKC,13.0,ATL,15.0,Z. Risacher,ATL,Risacher 2' Driving Layup (4 PTS) (Young 2 AST),Made Shot,Driving Layup Shot,-18,8,2,1,2.0,2.0,v
+S2425-G0100,1,05:30,OKC,,ATL,,Z. Risacher,ATL,MISS Risacher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0100,1,05:30,OKC,13.0,ATL,16.0,Z. Risacher,ATL,Risacher Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0100,1,05:04,OKC,,ATL,,Z. Risacher,ATL,SUB: Mathews FOR Risacher,Substitution,,0,0,0,0,,,v
+S2425-G0100,2,07:37,OKC,,ATL,,Z. Risacher,ATL,Risacher Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0100,2,05:49,OKC,,ATL,,Z. Risacher,ATL,MISS Risacher 27' 3PT Jump Shot,Missed Shot,Jump Shot,158,220,27,1,3.0,0.0,v
+S2425-G0100,2,05:22,OKC,,ATL,,Z. Risacher,ATL,MISS Risacher 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,12,3,1,2.0,0.0,v
+S2425-G0100,2,04:17,OKC,,ATL,,Z. Risacher,ATL,Risacher STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0100,2,03:34,OKC,43.0,ATL,52.0,Z. Risacher,ATL,Risacher 4' Turnaround Jump Shot (7 PTS) (Young 4 AST),Made Shot,Turnaround Jump Shot,38,7,4,1,2.0,2.0,v
+S2425-G0100,2,02:30,OKC,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,2,01:40,OKC,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,2,00:55.800000,OKC,50.0,ATL,58.0,Z. Risacher,ATL,Risacher 15' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,-44,143,15,1,2.0,2.0,v
+S2425-G0100,3,10:30,OKC,,ATL,,Z. Risacher,ATL,MISS Risacher 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,48,121,13,1,2.0,0.0,v
+S2425-G0100,3,07:46,OKC,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,3,07:45,OKC,70.0,ATL,66.0,Z. Risacher,ATL,Risacher 1' Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,-11,8,1,1,2.0,2.0,v
+S2425-G0100,3,06:43,OKC,,ATL,,Z. Risacher,ATL,Risacher P.FOUL (P1.T2) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2425-G0100,3,05:33,OKC,,ATL,,Z. Risacher,ATL,MISS Risacher 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,10,9,1,1,2.0,0.0,v
+S2425-G0100,3,05:24,OKC,,ATL,,Z. Risacher,ATL,SUB: Okongwu FOR Risacher,Substitution,,0,0,0,0,,,v
+S2425-G0100,4,07:51,OKC,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,4,07:15,OKC,,ATL,,Z. Risacher,ATL,Risacher REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,4,07:06,OKC,,ATL,,Z. Risacher,ATL,SUB: Johnson FOR Risacher,Substitution,,0,0,0,0,,,v
+S2425-G0100,4,05:46,OKC,109.0,ATL,97.0,Z. Risacher,ATL,Risacher 3' Driving Layup (13 PTS) (Young 8 AST),Made Shot,Driving Layup Shot,-31,6,3,1,2.0,2.0,v
+S2425-G0100,4,04:13,OKC,,ATL,,Z. Risacher,ATL,MISS Risacher 4' Layup,Missed Shot,Layup Shot,37,13,4,1,2.0,0.0,v
+S2425-G0100,4,03:05,OKC,,ATL,,Z. Risacher,ATL,Risacher BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0100,4,03:03,OKC,,ATL,,Z. Risacher,ATL,SUB: Krejčí FOR Risacher,Substitution,,0,0,0,0,,,v
+S2425-G0103,1,11:29,ATL,,WAS,,Z. Risacher,ATL,MISS Risacher 3PT Jump Shot,Missed Shot,Jump Shot,227,-22,0,1,3.0,0.0,h
+S2425-G0103,1,11:07,ATL,,WAS,,Z. Risacher,ATL,Risacher STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0103,1,10:50,ATL,,WAS,,Z. Risacher,ATL,Risacher BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0103,1,08:22,ATL,,WAS,,Z. Risacher,ATL,MISS Risacher 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-190,162,25,1,3.0,0.0,h
+S2425-G0103,1,08:04,ATL,,WAS,,Z. Risacher,ATL,Risacher S.FOUL (P1.T2) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2425-G0103,1,07:05,ATL,,WAS,,Z. Risacher,ATL,MISS Risacher 2' Driving Layup,Missed Shot,Driving Layup Shot,-9,12,2,1,2.0,0.0,h
+S2425-G0103,1,06:02,ATL,,WAS,,Z. Risacher,ATL,Risacher L.B.FOUL (P2.T3) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0103,1,06:02,ATL,,WAS,,Z. Risacher,ATL,SUB: Nance Jr. FOR Risacher,Substitution,,0,0,0,0,,,h
+S2425-G0103,2,11:44,ATL,,WAS,,Z. Risacher,ATL,Risacher REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,2,11:37,ATL,,WAS,,Z. Risacher,ATL,MISS Risacher 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-9,5,1,1,2.0,0.0,h
+S2425-G0103,2,11:24,ATL,,WAS,,Z. Risacher,ATL,Risacher REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,2,09:58,ATL,,WAS,,Z. Risacher,ATL,Risacher REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,2,07:40,ATL,,WAS,,Z. Risacher,ATL,Risacher Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0103,2,06:55,ATL,,WAS,,Z. Risacher,ATL,MISS Risacher 1' Driving Layup,Missed Shot,Driving Layup Shot,4,4,1,1,2.0,0.0,h
+S2425-G0103,2,05:24,ATL,,WAS,,Z. Risacher,ATL,SUB: Johnson FOR Risacher,Substitution,,0,0,0,0,,,h
+S2425-G0103,2,02:14,ATL,53.0,WAS,43.0,Z. Risacher,ATL,Risacher 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,-234,-17,0,1,3.0,3.0,h
+S2425-G0103,3,11:38,ATL,,WAS,,Z. Risacher,ATL,MISS Risacher Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2425-G0103,3,11:38,ATL,,WAS,,Z. Risacher,ATL,MISS Risacher Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2425-G0103,3,11:38,ATL,62.0,WAS,54.0,Z. Risacher,ATL,Risacher Free Throw 3 of 3 (4 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0103,3,09:50,ATL,,WAS,,Z. Risacher,ATL,Risacher STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0103,3,08:26,ATL,,WAS,,Z. Risacher,ATL,Risacher S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0103,3,07:10,ATL,,WAS,,Z. Risacher,ATL,Risacher BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0103,3,07:07,ATL,,WAS,,Z. Risacher,ATL,Risacher S.FOUL (P4.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0103,3,07:07,ATL,,WAS,,Z. Risacher,ATL,SUB: Mathews FOR Risacher,Substitution,,0,0,0,0,,,h
+S2425-G0103,4,11:20,ATL,,WAS,,Z. Risacher,ATL,MISS Risacher 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,12,126,13,1,2.0,0.0,h
+S2425-G0103,4,10:29,ATL,,WAS,,Z. Risacher,ATL,SUB: Roddy FOR Risacher,Substitution,,0,0,0,0,,,h
+S2425-G0103,4,01:18,ATL,,WAS,,Z. Risacher,ATL,MISS Risacher 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-234,19,0,1,3.0,0.0,h
+S2425-G0103,4,00:50.100000,ATL,,WAS,,Z. Risacher,ATL,SUB: Mathews FOR Risacher,Substitution,,0,0,0,0,,,h
+S2425-G0103,4,00:12.700000,ATL,,WAS,,Z. Risacher,ATL,Risacher Personal Take Foul (P5.PN) (M.Ervin),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0103,4,00:12.700000,ATL,,WAS,,Z. Risacher,ATL,SUB: Mathews FOR Risacher,Substitution,,0,0,0,0,,,h

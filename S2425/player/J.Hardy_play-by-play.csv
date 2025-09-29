@@ -1,0 +1,32 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,2,11:25,DAL,,SAS,,J. Hardy,DAL,Hardy BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0074,2,08:01,DAL,,SAS,,J. Hardy,DAL,Hardy P.FOUL (P1.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2425-G0074,2,08:01,DAL,,SAS,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,h
+S2425-G0074,2,05:44,DAL,,SAS,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0074,2,05:14,DAL,35.0,SAS,36.0,J. Hardy,DAL,Hardy 3PT Running Pull-Up Jump Shot (3 PTS) (Irving 2 AST),Made Shot,Running Pull-Up Jump Shot,233,29,0,1,3.0,3.0,h
+S2425-G0074,2,04:24,DAL,38.0,SAS,38.0,J. Hardy,DAL,Hardy 24' 3PT Jump Shot (6 PTS) (Dončić 3 AST),Made Shot,Jump Shot,-168,172,24,1,3.0,3.0,h
+S2425-G0074,2,02:34,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,-184,159,24,1,3.0,0.0,h
+S2425-G0074,2,01:09,DAL,47.0,SAS,49.0,J. Hardy,DAL,Hardy 3PT Jump Shot (9 PTS) (Dončić 4 AST),Made Shot,Jump Shot,-221,5,0,1,3.0,3.0,h
+S2425-G0074,3,04:54,DAL,,SAS,,J. Hardy,DAL,Hardy P.FOUL (P2.T4) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2425-G0074,3,04:38,DAL,,SAS,,J. Hardy,DAL,Hardy Step Out of Bounds Turnover (P2.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0074,3,02:58,DAL,,SAS,,J. Hardy,DAL,Hardy P.FOUL (P3.PN) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2425-G0074,3,02:43,DAL,79.0,SAS,75.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,3,02:43,DAL,80.0,SAS,75.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0074,4,02:45,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 28' 3PT Jump Shot,Missed Shot,Jump Shot,114,256,28,1,3.0,0.0,h
+S2425-G0074,4,02:05,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,44,116,12,1,2.0,0.0,h
+S2425-G0074,4,02:01,DAL,,SAS,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0074,4,01:42,DAL,,SAS,,J. Hardy,DAL,SUB: Powell FOR Hardy,Substitution,,0,0,0,0,,,h
+S2425-G0110,2,11:29,DAL,,UTA,,J. Hardy,DAL,Hardy P.FOUL (P1.T1) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2425-G0110,2,09:56,DAL,,UTA,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,185,178,26,1,3.0,0.0,h
+S2425-G0110,2,07:09,DAL,,UTA,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0110,2,06:50,DAL,,UTA,,J. Hardy,DAL,SUB: Lively II FOR Hardy,Substitution,,0,0,0,0,,,h
+S2425-G0114,2,11:46,MIN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,10:41,MIN,36.0,DAL,30.0,J. Hardy,DAL,Hardy 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,102,59,12,1,2.0,2.0,v
+S2425-G0114,2,09:29,MIN,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0114,2,07:35,MIN,,DAL,,J. Hardy,DAL,SUB: Thompson FOR Hardy,Substitution,,0,0,0,0,,,v
+S2425-G0095,1,03:10,PHX,,DAL,,J. Hardy,DAL,Hardy L.B.FOUL (P1.PN) (S.Mehta),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0095,1,00:43.600000,PHX,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,97,246,26,1,3.0,0.0,v
+S2425-G0095,3,04:39,PHX,,DAL,,J. Hardy,DAL,MISS Hardy 29' 3PT Jump Shot,Missed Shot,Jump Shot,-85,275,29,1,3.0,0.0,v
+S2425-G0095,3,03:51,PHX,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,3,01:28,PHX,,DAL,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-229,29,0,1,3.0,0.0,v
+S2425-G0095,3,00:00,PHX,,DAL,,J. Hardy,DAL,MISS Hardy 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,16,59,6,1,2.0,0.0,v

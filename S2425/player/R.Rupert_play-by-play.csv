@@ -1,0 +1,34 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0127,3,01:22,LAC,,POR,,R. Rupert,POR,Rupert S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2425-G0127,3,00:34.500000,LAC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,3,00:01.100000,LAC,,POR,,R. Rupert,POR,MISS Rupert 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,67,44,8,1,2.0,0.0,v
+S2425-G0127,4,10:28,LAC,90.0,POR,84.0,R. Rupert,POR,Rupert 3' Driving Bank Hook Shot (2 PTS) (Henderson 5 AST),Made Shot,Driving Bank Hook Shot,-5,28,3,1,2.0,2.0,v
+S2425-G0127,4,10:12,LAC,90.0,POR,86.0,R. Rupert,POR,Rupert 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,-2,33,3,1,2.0,2.0,v
+S2425-G0127,4,10:12,LAC,,POR,,R. Rupert,POR,MISS Rupert Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0127,4,10:03,LAC,90.0,POR,89.0,R. Rupert,POR,Rupert 27' 3PT Jump Shot (7 PTS) (Simons 4 AST),Made Shot,Jump Shot,-195,180,27,1,3.0,3.0,v
+S2425-G0127,4,06:09,LAC,,POR,,R. Rupert,POR,SUB: Grant FOR Rupert,Substitution,,0,0,0,0,,,v
+S2425-G0072,2,11:36,POR,,GSW,,R. Rupert,POR,MISS Rupert 3PT Jump Shot,Missed Shot,Jump Shot,-229,19,0,1,3.0,0.0,h
+S2425-G0072,2,08:29,POR,,GSW,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0072,2,08:27,POR,,GSW,,R. Rupert,POR,SUB: Avdija FOR Rupert,Substitution,,0,0,0,0,,,h
+S2425-G0072,3,03:37,POR,,GSW,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0072,3,02:32,POR,67.0,GSW,89.0,R. Rupert,POR,Rupert 2' Driving Finger Roll Layup (2 PTS) (Henderson 3 AST),Made Shot,Driving Finger Roll Layup Shot,-2,17,2,1,2.0,2.0,h
+S2425-G0072,3,02:00,POR,,GSW,,R. Rupert,POR,Rupert S.FOUL (P1.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2425-G0072,3,00:43.700000,POR,70.0,GSW,98.0,R. Rupert,POR,Rupert 2' Cutting Layup Shot (4 PTS) (Henderson 4 AST),Made Shot,Cutting Layup Shot,-18,6,2,1,2.0,2.0,h
+S2425-G0072,4,05:38,POR,,GSW,,R. Rupert,POR,Rupert S.FOUL (P2.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2425-G0072,4,04:24,POR,,GSW,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0072,4,01:53,POR,,GSW,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0072,4,01:51,POR,98.0,GSW,131.0,R. Rupert,POR,Rupert 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,16,2,1,2.0,2.0,h
+S2425-G0099,4,02:15,POR,,,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0099,4,02:14,POR,,,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0099,4,02:12,POR,,,,R. Rupert,POR,Rupert Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0099,4,00:36.400000,POR,,,,R. Rupert,POR,Rupert STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0099,4,00:21.900000,POR,,,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0112,4,10:00,SAC,,POR,,R. Rupert,POR,SUB: Ayton FOR Rupert,Substitution,,0,0,0,0,,,v
+S2425-G0112,4,07:31,SAC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,4,07:31,SAC,,POR,,R. Rupert,POR,Rupert Double Dribble Turnover (P1.T17),Turnover,Double Dribble,0,0,0,0,,,v
+S2425-G0112,4,03:17,SAC,,POR,,R. Rupert,POR,MISS Rupert 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,44,80,9,1,2.0,0.0,v
+S2425-G0112,4,01:56,SAC,,POR,,R. Rupert,POR,Rupert L.B.FOUL (P1.T2) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0112,4,00:33.700000,SAC,111.0,POR,95.0,R. Rupert,POR,Rupert Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0112,4,00:33.700000,SAC,111.0,POR,96.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0112,4,00:26.600000,SAC,,POR,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0112,4,00:24.600000,SAC,111.0,POR,98.0,R. Rupert,POR,Rupert Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,-4,0,1,2.0,2.0,v

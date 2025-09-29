@@ -1,0 +1,84 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0079,1,11:13,ATL,,CHA,,S. Curry,CHA,MISS Curry 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-109,14,11,1,2.0,0.0,v
+S2425-G0079,1,11:03,ATL,,CHA,,S. Curry,CHA,Curry S.FOUL (P1.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0079,1,10:03,ATL,,CHA,,S. Curry,CHA,Curry Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0079,1,09:57,ATL,,CHA,,S. Curry,CHA,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,1,09:43,ATL,8.0,CHA,6.0,S. Curry,CHA,Curry 26' 3PT Jump Shot (3 PTS) (Martin 1 AST),Made Shot,Jump Shot,61,253,26,1,3.0,3.0,v
+S2425-G0079,1,09:09,ATL,,CHA,,S. Curry,CHA,MISS Curry 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,73,8,1,2.0,0.0,v
+S2425-G0079,1,08:57,ATL,,CHA,,S. Curry,CHA,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,1,08:09,ATL,,CHA,,S. Curry,CHA,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,-232,20,0,1,3.0,0.0,v
+S2425-G0079,1,08:06,ATL,,CHA,,S. Curry,CHA,Curry REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,1,07:25,ATL,,CHA,,S. Curry,CHA,Curry STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0079,1,07:21,ATL,,CHA,,S. Curry,CHA,MISS Curry 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,132,224,26,1,3.0,0.0,v
+S2425-G0079,1,06:35,ATL,,CHA,,S. Curry,CHA,Curry REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,1,06:25,ATL,18.0,CHA,12.0,S. Curry,CHA,Curry 26' 3PT Step Back Jump Shot (6 PTS) (Ball 2 AST),Made Shot,Step Back Jump shot,44,257,26,1,3.0,3.0,v
+S2425-G0079,1,05:50,ATL,,CHA,,S. Curry,CHA,SUB: Mann FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0079,2,08:16,ATL,,CHA,,S. Curry,CHA,Curry REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,2,05:06,ATL,,CHA,,S. Curry,CHA,SUB: Ball FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0079,3,11:17,ATL,,CHA,,S. Curry,CHA,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,218,113,25,1,3.0,0.0,v
+S2425-G0079,3,10:43,ATL,,CHA,,S. Curry,CHA,MISS Curry 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-229,75,24,1,3.0,0.0,v
+S2425-G0079,3,08:25,ATL,,CHA,,S. Curry,CHA,SUB: Green FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0079,3,05:37,ATL,,CHA,,S. Curry,CHA,Curry P.FOUL (P2.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2425-G0079,3,03:51,ATL,,CHA,,S. Curry,CHA,SUB: Green FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0079,4,06:15,ATL,,CHA,,S. Curry,CHA,Curry P.FOUL (P3.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2425-G0079,4,05:36,ATL,106.0,CHA,105.0,S. Curry,CHA,Curry 25' 3PT Jump Shot (9 PTS) (Williams 6 AST),Made Shot,Jump Shot,-15,254,25,1,3.0,3.0,v
+S2425-G0079,4,04:50,ATL,,CHA,,S. Curry,CHA,Curry S.FOUL (P4.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2425-G0079,4,03:49,ATL,,CHA,,S. Curry,CHA,SUB: Richards FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0079,4,03:09,ATL,,CHA,,S. Curry,CHA,Curry STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0079,4,00:23.900000,ATL,,CHA,,S. Curry,CHA,Curry STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0068,1,02:05,HOU,21.0,CHA,19.0,S. Curry,CHA,Curry 24' 3PT Running Jump Shot (3 PTS) (Mann 1 AST),Made Shot,Running Jump Shot,232,75,24,1,3.0,3.0,v
+S2425-G0068,1,00:01,HOU,,CHA,,S. Curry,CHA,MISS Curry 14' Jump Shot,Missed Shot,Jump Shot,140,10,14,1,2.0,0.0,v
+S2425-G0068,2,11:47,HOU,26.0,CHA,24.0,S. Curry,CHA,Curry 24' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,-238,21,24,1,3.0,3.0,v
+S2425-G0068,2,11:11,HOU,28.0,CHA,25.0,S. Curry,CHA,Curry Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0068,2,11:11,HOU,,CHA,,S. Curry,CHA,MISS Curry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0068,2,07:46,HOU,,CHA,,S. Curry,CHA,SUB: Mann FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0068,2,02:17,HOU,,CHA,,S. Curry,CHA,SUB: Martin FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0068,3,10:00,HOU,,CHA,,S. Curry,CHA,Curry P.FOUL (P1.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2425-G0068,3,08:37,HOU,,CHA,,S. Curry,CHA,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,3,05:37,HOU,,CHA,,S. Curry,CHA,MISS Curry Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0068,3,04:10,HOU,,CHA,,S. Curry,CHA,SUB: Ball FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0068,4,11:19,HOU,,CHA,,S. Curry,CHA,Curry BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0068,4,11:18,HOU,,CHA,,S. Curry,CHA,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,4,09:41,HOU,,CHA,,S. Curry,CHA,MISS Curry 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-98,136,17,1,2.0,0.0,v
+S2425-G0068,4,08:59,HOU,,CHA,,S. Curry,CHA,Curry P.FOUL (P2.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2425-G0068,4,08:59,HOU,,CHA,,S. Curry,CHA,SUB: Martin FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0068,4,01:45,HOU,,CHA,,S. Curry,CHA,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,232,7,0,1,3.0,0.0,v
+S2425-G0068,4,00:04.800000,HOU,,CHA,,S. Curry,CHA,SUB: Diabaté FOR Curry,Substitution,,0,0,0,0,,,v
+S2425-G0117,1,11:31,CHA,2.0,TOR,0.0,S. Curry,CHA,Curry 17' Pullup Jump Shot (2 PTS) (Bridges 1 AST),Made Shot,Pullup Jump shot,-113,126,17,1,2.0,2.0,h
+S2425-G0117,1,05:49,CHA,,TOR,,S. Curry,CHA,Curry Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0117,1,05:02,CHA,,TOR,,S. Curry,CHA,SUB: Diabaté FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0117,2,09:24,CHA,,TOR,,S. Curry,CHA,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,243,90,26,1,3.0,0.0,h
+S2425-G0117,2,05:13,CHA,,TOR,,S. Curry,CHA,SUB: Martin FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0117,3,11:21,CHA,,TOR,,S. Curry,CHA,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0117,3,10:16,CHA,,TOR,,S. Curry,CHA,MISS Curry 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,109,15,1,2.0,0.0,h
+S2425-G0117,3,09:42,CHA,72.0,TOR,65.0,S. Curry,CHA,Curry 3PT Jump Shot (5 PTS) (Ball 4 AST),Made Shot,Jump Shot,-227,28,0,1,3.0,3.0,h
+S2425-G0117,3,08:40,CHA,,TOR,,S. Curry,CHA,Curry Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0117,3,07:46,CHA,76.0,TOR,72.0,S. Curry,CHA,Curry Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0117,3,07:46,CHA,77.0,TOR,72.0,S. Curry,CHA,Curry Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0117,3,05:32,CHA,,TOR,,S. Curry,CHA,SUB: Salaün FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0117,4,06:04,CHA,,TOR,,S. Curry,CHA,Curry REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0117,4,02:56,CHA,,TOR,,S. Curry,CHA,SUB: Ball FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0088,1,11:04,CHA,,MIA,,S. Curry,CHA,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,1,09:09,CHA,,MIA,,S. Curry,CHA,MISS Curry 27' 3PT Jump Shot,Missed Shot,Jump Shot,-213,158,27,1,3.0,0.0,h
+S2425-G0088,1,06:43,CHA,8.0,MIA,5.0,S. Curry,CHA,Curry 11' Pullup Jump Shot (2 PTS) (Richards 1 AST),Made Shot,Pullup Jump shot,-114,13,11,1,2.0,2.0,h
+S2425-G0088,1,06:04,CHA,11.0,MIA,7.0,S. Curry,CHA,Curry 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-49,257,26,1,3.0,3.0,h
+S2425-G0088,1,05:28,CHA,14.0,MIA,7.0,S. Curry,CHA,Curry 27' 3PT Running Pull-Up Jump Shot (8 PTS),Made Shot,Running Pull-Up Jump Shot,-66,257,27,1,3.0,3.0,h
+S2425-G0088,1,05:21,CHA,,MIA,,S. Curry,CHA,SUB: Salaün FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0088,2,10:13,CHA,27.0,MIA,30.0,S. Curry,CHA,Curry 3' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,9,25,3,1,2.0,2.0,h
+S2425-G0088,2,09:01,CHA,,MIA,,S. Curry,CHA,MISS Curry 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,124,25,13,1,2.0,0.0,h
+S2425-G0088,2,08:59,CHA,,MIA,,S. Curry,CHA,SUB: Mann FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0088,2,06:00,CHA,34.0,MIA,37.0,S. Curry,CHA,Curry 3PT Jump Shot (13 PTS) (Bridges 2 AST),Made Shot,Jump Shot,225,26,0,1,3.0,3.0,h
+S2425-G0088,2,04:28,CHA,,MIA,,S. Curry,CHA,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,48,24,1,3.0,0.0,h
+S2425-G0088,2,04:00,CHA,,MIA,,S. Curry,CHA,MISS Curry 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,15,16,2,1,2.0,0.0,h
+S2425-G0088,2,03:59,CHA,,MIA,,S. Curry,CHA,Curry REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,2,03:20,CHA,,MIA,,S. Curry,CHA,Curry S.FOUL (P1.T4) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0088,2,02:39,CHA,,MIA,,S. Curry,CHA,MISS Curry 28' 3PT Jump Shot,Missed Shot,Jump Shot,-137,239,28,1,3.0,0.0,h
+S2425-G0088,3,11:12,CHA,,MIA,,S. Curry,CHA,Curry REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,3,10:18,CHA,,MIA,,S. Curry,CHA,Curry REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,3,09:38,CHA,52.0,MIA,61.0,S. Curry,CHA,Curry 13' Jump Shot (15 PTS) (Martin 1 AST),Made Shot,Jump Shot,49,116,13,1,2.0,2.0,h
+S2425-G0088,3,07:54,CHA,,MIA,,S. Curry,CHA,MISS Curry 5' Driving Layup,Missed Shot,Driving Layup Shot,28,42,5,1,2.0,0.0,h
+S2425-G0088,3,06:30,CHA,,MIA,,S. Curry,CHA,SUB: Micić FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0088,3,00:35.200000,CHA,,MIA,,S. Curry,CHA,SUB: Bridges FOR Curry,Substitution,,0,0,0,0,,,h
+S2425-G0088,4,08:46,CHA,,MIA,,S. Curry,CHA,Curry S.FOUL (P2.T2) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0088,4,06:05,CHA,,MIA,,S. Curry,CHA,Curry P.FOUL (P3.T3) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2425-G0088,4,06:05,CHA,,MIA,,S. Curry,CHA,SUB: Mann FOR Curry,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,130 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0121,1,09:13,WAS,,ATL,,J. Poole,WAS,MISS Poole 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-188,200,27,1,3.0,0.0,h
+S2425-G0121,1,07:20,WAS,,ATL,,J. Poole,WAS,Poole Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0121,1,06:34,WAS,,ATL,,J. Poole,WAS,Poole STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0121,1,05:25,WAS,,ATL,,J. Poole,WAS,Poole Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0121,1,04:42,WAS,,ATL,,J. Poole,WAS,MISS Poole 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,6,21,2,1,2.0,0.0,h
+S2425-G0121,1,04:22,WAS,26.0,ATL,19.0,J. Poole,WAS,Poole 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-12,20,2,1,2.0,2.0,h
+S2425-G0121,1,04:13,WAS,,ATL,,J. Poole,WAS,Poole S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0121,1,04:13,WAS,,ATL,,J. Poole,WAS,SUB: Butler FOR Poole,Substitution,,0,0,0,0,,,h
+S2425-G0121,2,06:57,WAS,,ATL,,J. Poole,WAS,MISS Poole 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-27,5,3,1,2.0,0.0,h
+S2425-G0121,2,06:16,WAS,39.0,ATL,48.0,J. Poole,WAS,Poole Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,2,06:16,WAS,40.0,ATL,48.0,J. Poole,WAS,Poole Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,2,05:39,WAS,43.0,ATL,50.0,J. Poole,WAS,Poole 33' 3PT Pullup Jump Shot (7 PTS) (Valančiūnas 2 AST),Made Shot,Pullup Jump shot,-202,259,33,1,3.0,3.0,h
+S2425-G0121,2,05:17,WAS,46.0,ATL,52.0,J. Poole,WAS,Poole 28' 3PT Pullup Jump Shot (10 PTS) (Valančiūnas 3 AST),Made Shot,Pullup Jump shot,-76,265,28,1,3.0,3.0,h
+S2425-G0121,2,03:59,WAS,49.0,ATL,57.0,J. Poole,WAS,Poole 27' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,234,136,27,1,3.0,3.0,h
+S2425-G0121,2,01:44,WAS,,ATL,,J. Poole,WAS,Poole Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0121,2,00:02,WAS,,ATL,,J. Poole,WAS,"Double Technical - Poole, Risacher (G.Petraitis)",Foul,Double Technical,0,0,0,0,,,
+S2425-G0121,2,00:02,WAS,,ATL,,J. Poole,WAS,SUB: Gill FOR Poole,Substitution,,0,0,0,0,,,h
+S2425-G0121,3,11:34,WAS,,ATL,,J. Poole,WAS,Poole REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,3,11:31,WAS,60.0,ATL,65.0,J. Poole,WAS,Poole Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0121,3,11:15,WAS,,ATL,,J. Poole,WAS,Poole STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0121,3,11:02,WAS,,ATL,,J. Poole,WAS,Poole Lost Ball Turnover (P4.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0121,3,09:38,WAS,,ATL,,J. Poole,WAS,MISS Poole 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,66,103,12,1,2.0,0.0,h
+S2425-G0121,3,09:21,WAS,,ATL,,J. Poole,WAS,MISS Poole 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-212,157,26,1,3.0,0.0,h
+S2425-G0121,3,08:43,WAS,,ATL,,J. Poole,WAS,MISS Poole 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,11,151,15,1,2.0,0.0,h
+S2425-G0121,3,08:40,WAS,,ATL,,J. Poole,WAS,Poole REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,3,08:04,WAS,,ATL,,J. Poole,WAS,Poole P.FOUL (P2.T2) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2425-G0121,3,07:04,WAS,,ATL,,J. Poole,WAS,MISS Poole 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,22,53,6,1,2.0,0.0,h
+S2425-G0121,3,06:48,WAS,70.0,ATL,77.0,J. Poole,WAS,Poole 2' Driving Layup (16 PTS) (Carrington 2 AST),Made Shot,Driving Layup Shot,-17,5,2,1,2.0,2.0,h
+S2425-G0121,3,06:36,WAS,71.0,ATL,77.0,J. Poole,WAS,Poole Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0121,3,06:25,WAS,,ATL,,J. Poole,WAS,MISS Poole 28' 3PT Jump Shot,Missed Shot,Jump Shot,201,192,28,1,3.0,0.0,h
+S2425-G0121,3,04:28,WAS,,ATL,,J. Poole,WAS,Poole L.B.FOUL (P3.T3) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0121,3,04:11,WAS,80.0,ATL,82.0,J. Poole,WAS,Poole 29' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,-156,246,29,1,3.0,3.0,h
+S2425-G0121,3,03:06,WAS,,ATL,,J. Poole,WAS,MISS Poole 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,120,41,13,1,2.0,0.0,h
+S2425-G0121,3,02:43,WAS,,ATL,,J. Poole,WAS,Poole REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,3,01:09,WAS,,ATL,,J. Poole,WAS,MISS Poole 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-77,247,26,1,3.0,0.0,h
+S2425-G0121,4,05:26,WAS,,ATL,,J. Poole,WAS,MISS Poole 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,-5,24,1,3.0,0.0,h
+S2425-G0121,4,05:04,WAS,120.0,ATL,106.0,J. Poole,WAS,Poole Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,4,05:04,WAS,121.0,ATL,106.0,J. Poole,WAS,Poole Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,4,04:18,WAS,124.0,ATL,109.0,J. Poole,WAS,Poole Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,4,04:18,WAS,125.0,ATL,109.0,J. Poole,WAS,Poole Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,4,03:40,WAS,,ATL,,J. Poole,WAS,Poole STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0121,4,03:10,WAS,,ATL,,J. Poole,WAS,Poole P.FOUL (P4.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2425-G0121,4,01:21,WAS,,ATL,,J. Poole,WAS,Poole Lost Ball Turnover (P5.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0121,4,00:47.800000,WAS,,ATL,,J. Poole,WAS,SUB: George FOR Poole,Substitution,,0,0,0,0,,,h
+S2425-G0073,1,11:09,WAS,3.0,BOS,3.0,J. Poole,WAS,Poole 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,202,178,27,1,3.0,3.0,h
+S2425-G0073,1,10:52,WAS,,BOS,,J. Poole,WAS,MISS Poole 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-105,236,26,1,3.0,0.0,h
+S2425-G0073,1,10:30,WAS,,BOS,,J. Poole,WAS,Poole STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0073,1,09:59,WAS,5.0,BOS,5.0,J. Poole,WAS,Poole 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,18,5,2,1,2.0,2.0,h
+S2425-G0073,1,09:32,WAS,,BOS,,J. Poole,WAS,Poole STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0073,1,08:19,WAS,10.0,BOS,12.0,J. Poole,WAS,Poole 25' 3PT Jump Shot (8 PTS) (Coulibaly 1 AST),Made Shot,Jump Shot,178,181,25,1,3.0,3.0,h
+S2425-G0073,1,07:09,WAS,15.0,BOS,12.0,J. Poole,WAS,Poole 26' 3PT Step Back Jump Shot (11 PTS) (Kuzma 1 AST),Made Shot,Step Back Jump shot,110,235,26,1,3.0,3.0,h
+S2425-G0073,1,05:56,WAS,19.0,BOS,12.0,J. Poole,WAS,Poole 27' 3PT Running Jump Shot (14 PTS),Made Shot,Running Jump Shot,-153,220,27,1,3.0,3.0,h
+S2425-G0073,1,05:24,WAS,,BOS,,J. Poole,WAS,Poole Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0073,1,05:05,WAS,22.0,BOS,14.0,J. Poole,WAS,Poole 24' 3PT Pullup Jump Shot (17 PTS) (Kispert 1 AST),Made Shot,Pullup Jump shot,-238,-9,24,1,3.0,3.0,h
+S2425-G0073,1,03:53,WAS,,BOS,,J. Poole,WAS,SUB: Carrington FOR Poole,Substitution,,0,0,0,0,,,h
+S2425-G0073,1,00:00.600000,WAS,,BOS,,J. Poole,WAS,MISS Poole 25' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,235,94,25,1,3.0,0.0,h
+S2425-G0073,2,09:26,WAS,,BOS,,J. Poole,WAS,Poole Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0073,2,05:56,WAS,,BOS,,J. Poole,WAS,MISS Poole 2' Driving Layup,Missed Shot,Driving Layup Shot,-15,16,2,1,2.0,0.0,h
+S2425-G0073,2,05:24,WAS,51.0,BOS,49.0,J. Poole,WAS,Poole 25' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,221,112,25,1,3.0,3.0,h
+S2425-G0073,2,03:55,WAS,,BOS,,J. Poole,WAS,Poole STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0073,2,03:19,WAS,,BOS,,J. Poole,WAS,MISS Poole 30' 3PT Jump Shot,Missed Shot,Jump Shot,-125,274,30,1,3.0,0.0,h
+S2425-G0073,3,10:55,WAS,,BOS,,J. Poole,WAS,MISS Poole 29' 3PT Jump Shot,Missed Shot,Jump Shot,-26,292,29,1,3.0,0.0,h
+S2425-G0073,3,10:49,WAS,,BOS,,J. Poole,WAS,Poole S.FOUL (P1.T1) (J.Reneau),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,3,09:15,WAS,58.0,BOS,73.0,J. Poole,WAS,Poole 7' Driving Floating Jump Shot (22 PTS) (Sarr 1 AST),Made Shot,Driving Floating Jump Shot,-45,47,7,1,2.0,2.0,h
+S2425-G0073,3,08:44,WAS,,BOS,,J. Poole,WAS,Poole BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0073,3,08:23,WAS,,BOS,,J. Poole,WAS,MISS Poole 27' 3PT Jump Shot,Missed Shot,Jump Shot,185,197,27,1,3.0,0.0,h
+S2425-G0073,3,08:11,WAS,,BOS,,J. Poole,WAS,Poole S.FOUL (P2.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,3,07:53,WAS,,BOS,,J. Poole,WAS,Poole Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0073,3,05:57,WAS,,BOS,,J. Poole,WAS,MISS Poole 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,48,22,5,1,2.0,0.0,h
+S2425-G0073,3,04:48,WAS,,BOS,,J. Poole,WAS,Poole STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0073,3,04:27,WAS,,BOS,,J. Poole,WAS,Poole REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,3,04:22,WAS,66.0,BOS,85.0,J. Poole,WAS,Poole 4' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,-44,8,4,1,2.0,2.0,h
+S2425-G0073,3,03:51,WAS,,BOS,,J. Poole,WAS,SUB: Carrington FOR Poole,Substitution,,0,0,0,0,,,h
+S2425-G0073,4,10:41,WAS,,BOS,,J. Poole,WAS,Poole Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0073,4,10:08,WAS,76.0,BOS,107.0,J. Poole,WAS,Poole Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0073,4,10:08,WAS,77.0,BOS,107.0,J. Poole,WAS,Poole Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0073,4,09:55,WAS,,BOS,,J. Poole,WAS,Poole P.FOUL (P3.T1) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2425-G0073,4,09:36,WAS,,BOS,,J. Poole,WAS,MISS Poole 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,23,9,2,1,2.0,0.0,h
+S2425-G0073,4,08:04,WAS,,BOS,,J. Poole,WAS,SUB: Butler FOR Poole,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,10:23,WAS,,CLE,,J. Poole,WAS,MISS Poole 30' 3PT Jump Shot,Missed Shot,Jump Shot,115,281,30,1,3.0,0.0,h
+S2425-G0090,1,09:33,WAS,,CLE,,J. Poole,WAS,Poole STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0090,1,06:57,WAS,,CLE,,J. Poole,WAS,Poole S.FOUL (P1.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,1,06:42,WAS,14.0,CLE,14.0,J. Poole,WAS,Poole 26' 3PT Jump Shot (3 PTS) (Kuzma 1 AST),Made Shot,Jump Shot,-132,221,26,1,3.0,3.0,h
+S2425-G0090,1,05:21,WAS,,CLE,,J. Poole,WAS,Poole Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0090,1,03:24,WAS,,CLE,,J. Poole,WAS,Poole S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,1,03:24,WAS,,CLE,,J. Poole,WAS,SUB: Carrington FOR Poole,Substitution,,0,0,0,0,,,h
+S2425-G0090,2,07:18,WAS,31.0,CLE,37.0,J. Poole,WAS,Poole Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,2,07:18,WAS,32.0,CLE,37.0,J. Poole,WAS,Poole Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0090,2,02:33,WAS,42.0,CLE,50.0,J. Poole,WAS,Poole 27' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-50,262,27,1,3.0,3.0,h
+S2425-G0090,2,01:39,WAS,48.0,CLE,52.0,J. Poole,WAS,Poole 28' 3PT Jump Shot (11 PTS) (Kuzma 3 AST),Made Shot,Jump Shot,175,220,28,1,3.0,3.0,h
+S2425-G0090,2,01:08,WAS,51.0,CLE,55.0,J. Poole,WAS,Poole 26' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,18,257,26,1,3.0,3.0,h
+S2425-G0090,2,00:37.800000,WAS,,CLE,,J. Poole,WAS,MISS Poole 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-124,257,29,1,3.0,0.0,h
+S2425-G0090,3,10:55,WAS,,CLE,,J. Poole,WAS,MISS Poole 8' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,69,34,8,1,2.0,0.0,h
+S2425-G0090,3,08:58,WAS,,CLE,,J. Poole,WAS,MISS Poole 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,-8,24,1,3.0,0.0,h
+S2425-G0090,3,06:55,WAS,,CLE,,J. Poole,WAS,Poole REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,3,06:08,WAS,,CLE,,J. Poole,WAS,Poole STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0090,3,05:23,WAS,,CLE,,J. Poole,WAS,Poole STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0090,3,04:49,WAS,,CLE,,J. Poole,WAS,MISS Poole 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,59,130,14,1,2.0,0.0,h
+S2425-G0090,3,04:47,WAS,,CLE,,J. Poole,WAS,SUB: Sarr FOR Poole,Substitution,,0,0,0,0,,,h
+S2425-G0103,1,10:11,ATL,,WAS,,J. Poole,WAS,Poole Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0103,1,08:43,ATL,,WAS,,J. Poole,WAS,Poole S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,1,07:47,ATL,,WAS,,J. Poole,WAS,Poole STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0103,1,06:57,ATL,,WAS,,J. Poole,WAS,MISS Poole 2' Driving Layup,Missed Shot,Driving Layup Shot,12,19,2,1,2.0,0.0,v
+S2425-G0103,1,05:55,ATL,15.0,WAS,10.0,J. Poole,WAS,Poole 24' 3PT Jump Shot (3 PTS) (Kuzma 2 AST),Made Shot,Jump Shot,-237,16,24,1,3.0,3.0,v
+S2425-G0103,1,05:26,ATL,17.0,WAS,13.0,J. Poole,WAS,Poole 27' 3PT Jump Shot (6 PTS) (Kispert 1 AST),Made Shot,Jump Shot,80,253,27,1,3.0,3.0,v
+S2425-G0103,1,04:23,ATL,,WAS,,J. Poole,WAS,Poole Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0103,1,03:47,ATL,,WAS,,J. Poole,WAS,SUB: Carrington FOR Poole,Substitution,,0,0,0,0,,,v
+S2425-G0103,2,07:17,ATL,37.0,WAS,29.0,J. Poole,WAS,Poole 20' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-33,198,20,1,2.0,2.0,v
+S2425-G0103,2,06:17,ATL,,WAS,,J. Poole,WAS,Poole Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0103,2,03:40,ATL,,WAS,,J. Poole,WAS,MISS Poole 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-11,263,26,1,3.0,0.0,v
+S2425-G0103,2,03:23,ATL,46.0,WAS,38.0,J. Poole,WAS,Poole 2' Running Layup (10 PTS),Made Shot,Running Layup Shot,2,22,2,1,2.0,2.0,v
+S2425-G0103,2,01:53,ATL,53.0,WAS,46.0,J. Poole,WAS,Poole 24' 3PT Jump Shot (13 PTS) (Kuzma 4 AST),Made Shot,Jump Shot,-233,34,24,1,3.0,3.0,v
+S2425-G0103,2,01:30,ATL,55.0,WAS,49.0,J. Poole,WAS,Poole 27' 3PT Jump Shot (16 PTS) (Valančiūnas 1 AST),Made Shot,Jump Shot,-82,257,27,1,3.0,3.0,v
+S2425-G0103,2,00:01.900000,ATL,61.0,WAS,54.0,J. Poole,WAS,Poole 27' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,-159,213,27,1,3.0,3.0,v
+S2425-G0103,3,10:14,ATL,,WAS,,J. Poole,WAS,MISS Poole 1' Driving Layup,Missed Shot,Driving Layup Shot,7,2,1,1,2.0,0.0,v
+S2425-G0103,3,06:53,ATL,,WAS,,J. Poole,WAS,MISS Poole 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,131,227,26,1,3.0,0.0,v
+S2425-G0103,3,06:23,ATL,,WAS,,J. Poole,WAS,MISS Poole 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,47,70,8,1,2.0,0.0,v
+S2425-G0103,3,06:19,ATL,,WAS,,J. Poole,WAS,Poole REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,3,06:19,ATL,,WAS,,J. Poole,WAS,MISS Poole Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0103,3,05:30,ATL,73.0,WAS,69.0,J. Poole,WAS,Poole 1' Running Layup (21 PTS) (Coulibaly 3 AST),Made Shot,Running Layup Shot,9,6,1,1,2.0,2.0,v
+S2425-G0103,3,05:17,ATL,,WAS,,J. Poole,WAS,Poole P.FOUL (P2.T4) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2425-G0103,3,03:27,ATL,,WAS,,J. Poole,WAS,MISS Poole 2' Driving Layup,Missed Shot,Driving Layup Shot,1,17,2,1,2.0,0.0,v
+S2425-G0103,3,03:11,ATL,,WAS,,J. Poole,WAS,SUB: Carrington FOR Poole,Substitution,,0,0,0,0,,,v
+S2425-G0103,4,07:12,ATL,,WAS,,J. Poole,WAS,Poole S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,4,04:13,ATL,,WAS,,J. Poole,WAS,Poole STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0103,4,01:50,ATL,,WAS,,J. Poole,WAS,MISS Poole 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-4,110,11,1,2.0,0.0,v
+S2425-G0103,4,00:51.100000,ATL,112.0,WAS,118.0,J. Poole,WAS,Poole 27' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,13,268,27,1,3.0,3.0,v
+S2425-G0103,4,00:12.700000,ATL,116.0,WAS,119.0,J. Poole,WAS,Poole Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0103,4,00:12.700000,ATL,116.0,WAS,120.0,J. Poole,WAS,Poole Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v

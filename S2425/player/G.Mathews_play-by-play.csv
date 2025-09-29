@@ -1,0 +1,70 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0079,1,05:15,ATL,21.0,CHA,12.0,G. Mathews,ATL,Mathews 24' 3PT Jump Shot (3 PTS) (Young 2 AST),Made Shot,Jump Shot,202,134,24,1,3.0,3.0,h
+S2425-G0079,1,02:52,ATL,,CHA,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,1,01:30,ATL,28.0,CHA,16.0,G. Mathews,ATL,Mathews 3PT Jump Shot (6 PTS) (Okongwu 1 AST),Made Shot,Jump Shot,224,-20,0,1,3.0,3.0,h
+S2425-G0079,1,00:06.800000,ATL,,CHA,,G. Mathews,ATL,Mathews S.FOUL (P1.T4) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0079,1,00:00.400000,ATL,,CHA,,G. Mathews,ATL,MISS Mathews 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,225,8,0,1,3.0,0.0,h
+S2425-G0079,2,09:11,ATL,,CHA,,G. Mathews,ATL,Mathews S.FOUL (P2.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2425-G0079,2,08:35,ATL,40.0,CHA,26.0,G. Mathews,ATL,Mathews Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,2,08:35,ATL,41.0,CHA,26.0,G. Mathews,ATL,Mathews Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,2,06:14,ATL,,CHA,,G. Mathews,ATL,SUB: Johnson FOR Mathews,Substitution,,0,0,0,0,,,h
+S2425-G0079,4,06:50,ATL,,CHA,,G. Mathews,ATL,SUB: Okongwu FOR Mathews,Substitution,,0,0,0,0,,,h
+S2425-G0121,1,05:25,WAS,,ATL,,G. Mathews,ATL,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0121,1,02:37,WAS,,ATL,,G. Mathews,ATL,Mathews S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2425-G0121,1,01:55,WAS,,ATL,,G. Mathews,ATL,Mathews STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0121,1,01:52,WAS,,ATL,,G. Mathews,ATL,MISS Mathews 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-221,119,25,1,3.0,0.0,v
+S2425-G0121,1,01:31,WAS,31.0,ATL,32.0,G. Mathews,ATL,Mathews 24' 3PT Jump Shot (3 PTS) (Young 3 AST),Made Shot,Jump Shot,232,38,24,1,3.0,3.0,v
+S2425-G0121,2,02:41,WAS,,ATL,,G. Mathews,ATL,MISS Mathews 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,103,25,1,3.0,0.0,v
+S2425-G0121,2,01:26,WAS,,ATL,,G. Mathews,ATL,Mathews S.FOUL (P2.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2425-G0121,2,00:30.600000,WAS,,ATL,,G. Mathews,ATL,Mathews FLAGRANT.FOUL.TYPE1 (P3.PN) (S.Wright),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2425-G0121,2,00:30.600000,WAS,,ATL,,G. Mathews,ATL,SUB: Wallace FOR Mathews,Substitution,,0,0,0,0,,,v
+S2425-G0121,3,06:21,WAS,,ATL,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,3,03:43,WAS,,ATL,,G. Mathews,ATL,MISS Mathews 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,50,26,6,1,2.0,0.0,v
+S2425-G0121,4,06:46,WAS,115.0,ATL,103.0,G. Mathews,ATL,Mathews 24' 3PT Jump Shot (6 PTS) (Young 12 AST),Made Shot,Jump Shot,-244,-14,24,1,3.0,3.0,v
+S2425-G0121,4,06:29,WAS,,ATL,,G. Mathews,ATL,Mathews S.FOUL (P4.T2) (S.Jelks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0121,4,06:29,WAS,,ATL,,G. Mathews,ATL,SUB: Capela FOR Mathews,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,02:43,OKC,,ATL,,G. Mathews,ATL,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,52,24,1,3.0,0.0,v
+S2425-G0100,1,01:18,OKC,,ATL,,G. Mathews,ATL,Mathews S.FOUL (P1.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,1,01:14,OKC,,ATL,,G. Mathews,ATL,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0100,1,00:43.200000,OKC,21.0,ATL,27.0,G. Mathews,ATL,Mathews 26' 3PT Step Back Jump Shot (3 PTS) (Krejčí 1 AST),Made Shot,Step Back Jump shot,184,181,26,1,3.0,3.0,v
+S2425-G0100,2,11:19,OKC,,ATL,,G. Mathews,ATL,Mathews STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0100,2,10:45,OKC,25.0,ATL,30.0,G. Mathews,ATL,Mathews 3PT Running Jump Shot (6 PTS) (Krejčí 2 AST),Made Shot,Running Jump Shot,-228,4,0,1,3.0,3.0,v
+S2425-G0100,2,10:15,OKC,,ATL,,G. Mathews,ATL,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-230,7,0,1,3.0,0.0,v
+S2425-G0100,2,09:51,OKC,27.0,ATL,31.0,G. Mathews,ATL,Mathews Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0100,2,09:51,OKC,27.0,ATL,32.0,G. Mathews,ATL,Mathews Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0100,2,09:09,OKC,,ATL,,G. Mathews,ATL,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-203,160,26,1,3.0,0.0,v
+S2425-G0100,2,08:05,OKC,,ATL,,G. Mathews,ATL,SUB: Roddy FOR Mathews,Substitution,,0,0,0,0,,,v
+S2425-G0100,2,05:01,OKC,,ATL,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,2,04:50,OKC,,ATL,,G. Mathews,ATL,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,2,04:36,OKC,,ATL,,G. Mathews,ATL,Mathews P.FOUL (P2.T3) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0100,2,04:04,OKC,,ATL,,G. Mathews,ATL,SUB: Daniels FOR Mathews,Substitution,,0,0,0,0,,,v
+S2425-G0100,3,05:11,OKC,,ATL,,G. Mathews,ATL,Mathews P.FOUL (P3.PN) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2425-G0100,3,04:57,OKC,79.0,ATL,74.0,G. Mathews,ATL,Mathews 26' 3PT Jump Shot (11 PTS) (Young 6 AST),Made Shot,Jump Shot,205,152,26,1,3.0,3.0,v
+S2425-G0100,3,01:59,OKC,84.0,ATL,85.0,G. Mathews,ATL,Mathews 25' 3PT Jump Shot (14 PTS) (Young 7 AST),Made Shot,Jump Shot,186,168,25,1,3.0,3.0,v
+S2425-G0100,3,01:33,OKC,,ATL,,G. Mathews,ATL,MISS Mathews 8' Floating Jump Shot,Missed Shot,Floating Jump shot,74,37,8,1,2.0,0.0,v
+S2425-G0100,3,01:26,OKC,,ATL,,G. Mathews,ATL,Mathews S.FOUL (P4.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,4,07:41,OKC,,ATL,,G. Mathews,ATL,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-172,193,26,1,3.0,0.0,v
+S2425-G0100,4,06:16,OKC,,ATL,,G. Mathews,ATL,Mathews S.FOUL (P5.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,4,06:16,OKC,,ATL,,G. Mathews,ATL,SUB: Daniels FOR Mathews,Substitution,,0,0,0,0,,,v
+S2425-G0100,4,01:53,OKC,,ATL,,G. Mathews,ATL,Mathews Bad Pass Turnover (P1.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0103,2,11:05,ATL,31.0,WAS,25.0,G. Mathews,ATL,Mathews 25' 3PT Pullup Jump Shot (3 PTS) (Nance Jr. 2 AST),Made Shot,Pullup Jump shot,132,216,25,1,3.0,3.0,h
+S2425-G0103,2,10:38,ATL,32.0,WAS,25.0,G. Mathews,ATL,Mathews Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,2,10:38,ATL,33.0,WAS,25.0,G. Mathews,ATL,Mathews Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,2,10:15,ATL,,WAS,,G. Mathews,ATL,MISS Mathews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-88,241,26,1,3.0,0.0,h
+S2425-G0103,2,09:06,ATL,,WAS,,G. Mathews,ATL,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,-62,246,25,1,3.0,0.0,h
+S2425-G0103,2,06:27,ATL,40.0,WAS,31.0,G. Mathews,ATL,Mathews 25' 3PT Jump Shot (8 PTS) (Young 6 AST),Made Shot,Jump Shot,188,158,25,1,3.0,3.0,h
+S2425-G0103,2,05:49,ATL,,WAS,,G. Mathews,ATL,SUB: Capela FOR Mathews,Substitution,,0,0,0,0,,,h
+S2425-G0103,3,06:56,ATL,,WAS,,G. Mathews,ATL,Mathews Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0103,3,06:41,ATL,71.0,WAS,65.0,G. Mathews,ATL,Mathews 3PT Jump Shot (11 PTS) (Young 11 AST),Made Shot,Jump Shot,232,36,0,1,3.0,3.0,h
+S2425-G0103,3,03:36,ATL,,WAS,,G. Mathews,ATL,MISS Mathews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-152,206,26,1,3.0,0.0,h
+S2425-G0103,3,00:24.300000,ATL,,WAS,,G. Mathews,ATL,Mathews OFF.Foul (P1) (M.Ervin),Foul,Offensive,0,0,0,0,,,h
+S2425-G0103,3,00:24.300000,ATL,,WAS,,G. Mathews,ATL,Mathews Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0103,4,10:49,ATL,,WAS,,G. Mathews,ATL,MISS Mathews 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,92,20,9,1,2.0,0.0,h
+S2425-G0103,4,10:14,ATL,,WAS,,G. Mathews,ATL,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,228,9,0,1,3.0,0.0,h
+S2425-G0103,4,08:56,ATL,91.0,WAS,92.0,G. Mathews,ATL,Mathews 3PT Jump Shot (14 PTS) (Johnson 4 AST),Made Shot,Jump Shot,229,13,0,1,3.0,3.0,h
+S2425-G0103,4,08:02,ATL,,WAS,,G. Mathews,ATL,MISS Mathews Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2425-G0103,4,08:02,ATL,,WAS,,G. Mathews,ATL,SUB: Young FOR Mathews,Substitution,,0,0,0,0,,,h
+S2425-G0103,4,05:36,ATL,,WAS,,G. Mathews,ATL,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-138,228,27,1,3.0,0.0,h
+S2425-G0103,4,02:10,ATL,,WAS,,G. Mathews,ATL,SUB: Risacher FOR Mathews,Substitution,,0,0,0,0,,,h
+S2425-G0103,4,00:16,ATL,,WAS,,G. Mathews,ATL,SUB: Nance Jr. FOR Mathews,Substitution,,0,0,0,0,,,h
+S2425-G0103,4,00:06.900000,ATL,,WAS,,G. Mathews,ATL,Mathews Personal Take Foul (P2.PN) (M.Ervin),Foul,Personal Take,0,0,0,0,,,h

@@ -1,0 +1,135 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0111,1,12:00,PHX,,LAL,,J. Nurkić,PHX,Jump Ball Nurkić vs. Davis: Tip to Beal,Jump Ball,,0,0,0,0,,,h
+S2425-G0111,1,11:41,PHX,,LAL,,J. Nurkić,PHX,MISS Nurkić 9' Hook Shot,Missed Shot,Hook Shot,83,22,9,1,2.0,0.0,h
+S2425-G0111,1,10:23,PHX,,LAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,1,07:51,PHX,,LAL,,J. Nurkić,PHX,MISS Nurkić 25' 3PT Jump Shot,Missed Shot,Jump Shot,49,250,25,1,3.0,0.0,h
+S2425-G0111,1,06:54,PHX,8.0,LAL,17.0,J. Nurkić,PHX,Nurkić 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,16,21,3,1,2.0,2.0,h
+S2425-G0111,1,06:54,PHX,,LAL,,J. Nurkić,PHX,MISS Nurkić Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0111,1,05:53,PHX,,LAL,,J. Nurkić,PHX,MISS Nurkić 3' Layup,Missed Shot,Layup Shot,-18,24,3,1,2.0,0.0,h
+S2425-G0111,1,05:16,PHX,,LAL,,J. Nurkić,PHX,SUB: Morris FOR Nurkić,Substitution,,0,0,0,0,,,h
+S2425-G0111,2,07:25,PHX,,LAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,07:24,PHX,,LAL,,J. Nurkić,PHX,MISS Nurkić 7' Hook Shot,Missed Shot,Hook Shot,38,56,7,1,2.0,0.0,h
+S2425-G0111,2,06:53,PHX,,LAL,,J. Nurkić,PHX,Nurkić OFF.Foul (P1) (M.Smith),Foul,Offensive,0,0,0,0,,,h
+S2425-G0111,2,06:53,PHX,,LAL,,J. Nurkić,PHX,Nurkić Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0111,2,06:39,PHX,,LAL,,J. Nurkić,PHX,Nurkić BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0111,2,06:27,PHX,,LAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,05:53,PHX,,LAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,05:36,PHX,,LAL,,J. Nurkić,PHX,MISS Nurkić 26' 3PT Jump Shot,Missed Shot,Jump Shot,148,219,26,1,3.0,0.0,h
+S2425-G0111,2,05:04,PHX,,LAL,,J. Nurkić,PHX,Nurkić Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0111,2,04:55,PHX,,LAL,,J. Nurkić,PHX,Nurkić BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0111,2,04:24,PHX,,LAL,,J. Nurkić,PHX,SUB: Plumlee FOR Nurkić,Substitution,,0,0,0,0,,,h
+S2425-G0111,3,10:10,PHX,,LAL,,J. Nurkić,PHX,Nurkić OFF.Foul (P2) (B.Taylor),Foul,Offensive,0,0,0,0,,,h
+S2425-G0111,3,10:10,PHX,,LAL,,J. Nurkić,PHX,Nurkić Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0111,3,06:50,PHX,,LAL,,J. Nurkić,PHX,SUB: Allen FOR Nurkić,Substitution,,0,0,0,0,,,h
+S2425-G0111,4,00:00.800000,PHX,,LAL,,J. Nurkić,PHX,SUB: Dunn FOR Nurkić,Substitution,,0,0,0,0,,,h
+S2425-G0085,1,10:21,LAL,,PHX,,J. Nurkić,PHX,Nurkić S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0085,1,09:06,LAL,7.0,PHX,7.0,J. Nurkić,PHX,Nurkić 2' Cutting Layup Shot (2 PTS) (Jones 1 AST),Made Shot,Cutting Layup Shot,10,13,2,1,2.0,2.0,v
+S2425-G0085,1,08:51,LAL,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,1,08:26,LAL,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,1,08:06,LAL,,PHX,,J. Nurkić,PHX,SUB: Plumlee FOR Nurkić,Substitution,,0,0,0,0,,,v
+S2425-G0085,1,02:16,LAL,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,1,01:17,LAL,,PHX,,J. Nurkić,PHX,Nurkić S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0085,1,00:33.200000,LAL,,PHX,,J. Nurkić,PHX,Nurkić Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0085,2,05:28,LAL,,PHX,,J. Nurkić,PHX,Nurkić Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0085,2,04:07,LAL,,PHX,,J. Nurkić,PHX,Nurkić Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0085,2,03:44,LAL,,PHX,,J. Nurkić,PHX,MISS Nurkić 29' 3PT Jump Shot,Missed Shot,Jump Shot,112,272,29,1,3.0,0.0,v
+S2425-G0085,2,03:27,LAL,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,2,02:28,LAL,,PHX,,J. Nurkić,PHX,Nurkić Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0085,2,02:25,LAL,,PHX,,J. Nurkić,PHX,SUB: Plumlee FOR Nurkić,Substitution,,0,0,0,0,,,v
+S2425-G0085,3,11:15,LAL,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,3,09:05,LAL,,PHX,,J. Nurkić,PHX,MISS Nurkić 26' 3PT Jump Shot,Missed Shot,Jump Shot,146,210,26,1,3.0,0.0,v
+S2425-G0085,3,08:35,LAL,,PHX,,J. Nurkić,PHX,Nurkić S.FOUL (P3.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2425-G0085,3,07:44,LAL,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,3,07:24,LAL,,PHX,,J. Nurkić,PHX,Nurkić BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0085,3,07:24,LAL,,PHX,,J. Nurkić,PHX,SUB: Plumlee FOR Nurkić,Substitution,,0,0,0,0,,,v
+S2425-G0085,3,02:26,LAL,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,3,01:41,LAL,,PHX,,J. Nurkić,PHX,MISS Nurkić 4' Driving Layup,Missed Shot,Driving Layup Shot,20,33,4,1,2.0,0.0,v
+S2425-G0085,3,00:24,LAL,85.0,PHX,84.0,J. Nurkić,PHX,Nurkić Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0085,3,00:24,LAL,85.0,PHX,85.0,J. Nurkić,PHX,Nurkić Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0085,3,00:02.500000,LAL,,PHX,,J. Nurkić,PHX,Nurkić P.FOUL (P4.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2425-G0085,3,00:00,LAL,,PHX,,J. Nurkić,PHX,MISS Nurkić 39' 3PT Jump Shot,Missed Shot,Jump Shot,-161,357,39,1,3.0,0.0,v
+S2425-G0071,1,10:56,LAC,,PHX,,J. Nurkić,PHX,Nurkić S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2425-G0071,1,10:38,LAC,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,1,09:55,LAC,,PHX,,J. Nurkić,PHX,MISS Nurkić Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0071,1,09:55,LAC,3.0,PHX,3.0,J. Nurkić,PHX,Nurkić Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,1,09:25,LAC,,PHX,,J. Nurkić,PHX,MISS Nurkić Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0071,1,09:25,LAC,5.0,PHX,4.0,J. Nurkić,PHX,Nurkić Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,1,08:47,LAC,,PHX,,J. Nurkić,PHX,Nurkić S.FOUL (P2.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2425-G0071,1,08:47,LAC,,PHX,,J. Nurkić,PHX,SUB: Plumlee FOR Nurkić,Substitution,,0,0,0,0,,,v
+S2425-G0071,2,11:31,LAC,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,2,11:00,LAC,24.0,PHX,26.0,J. Nurkić,PHX,Nurkić 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,103,237,26,1,3.0,3.0,v
+S2425-G0071,2,09:53,LAC,,PHX,,J. Nurkić,PHX,SUB: O'Neale FOR Nurkić,Substitution,,0,0,0,0,,,v
+S2425-G0071,2,08:11,LAC,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,2,07:24,LAC,,PHX,,J. Nurkić,PHX,Nurkić Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0071,2,07:12,LAC,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,2,07:03,LAC,,PHX,,J. Nurkić,PHX,Nurkić Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0071,2,06:18,LAC,,PHX,,J. Nurkić,PHX,MISS Nurkić 26' 3PT Jump Shot,Missed Shot,Jump Shot,225,121,26,1,3.0,0.0,v
+S2425-G0071,2,05:21,LAC,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,2,05:12,LAC,,PHX,,J. Nurkić,PHX,SUB: Plumlee FOR Nurkić,Substitution,,0,0,0,0,,,v
+S2425-G0071,3,10:49,LAC,,PHX,,J. Nurkić,PHX,Nurkić STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0071,3,10:04,LAC,,PHX,,J. Nurkić,PHX,Nurkić OFF.Foul (P3) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2425-G0071,3,10:04,LAC,,PHX,,J. Nurkić,PHX,Nurkić Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0071,3,09:48,LAC,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,3,09:02,LAC,,PHX,,J. Nurkić,PHX,MISS Nurkić 25' 3PT Jump Shot,Missed Shot,Jump Shot,241,69,25,1,3.0,0.0,v
+S2425-G0071,3,08:39,LAC,,PHX,,J. Nurkić,PHX,MISS Nurkić 27' 3PT Jump Shot,Missed Shot,Jump Shot,105,245,27,1,3.0,0.0,v
+S2425-G0071,3,08:19,LAC,,PHX,,J. Nurkić,PHX,SUB: Ighodaro FOR Nurkić,Substitution,,0,0,0,0,,,v
+S2425-G0071,4,07:40,LAC,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,4,07:39,LAC,,PHX,,J. Nurkić,PHX,Nurkić Bad Pass Turnover (P4.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0071,4,04:59,LAC,94.0,PHX,88.0,J. Nurkić,PHX,Nurkić 6' Driving Hook Shot (7 PTS),Made Shot,Driving Hook Shot,20,56,6,1,2.0,2.0,v
+S2425-G0071,4,03:52,LAC,,PHX,,J. Nurkić,PHX,SUB: O'Neale FOR Nurkić,Substitution,,0,0,0,0,,,v
+S2425-G0071,5,03:25,LAC,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,5,02:56,LAC,,PHX,,J. Nurkić,PHX,Nurkić STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0071,5,02:29,LAC,,PHX,,J. Nurkić,PHX,Nurkić S.FOUL (P4.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2425-G0071,5,02:15,LAC,108.0,PHX,111.0,J. Nurkić,PHX,Nurkić Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,5,02:15,LAC,108.0,PHX,112.0,J. Nurkić,PHX,Nurkić Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,5,01:20,LAC,,PHX,,J. Nurkić,PHX,SUB: Allen FOR Nurkić,Substitution,,0,0,0,0,,,v
+S2425-G0071,5,00:03,LAC,,PHX,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,5,00:03,LAC,113.0,PHX,115.0,J. Nurkić,PHX,Nurkić Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,5,00:03,LAC,113.0,PHX,116.0,J. Nurkić,PHX,Nurkić Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0071,5,00:03,LAC,,PHX,,J. Nurkić,PHX,SUB: Allen FOR Nurkić,Substitution,,0,0,0,0,,,v
+S2425-G0095,1,12:00,PHX,,DAL,,J. Nurkić,PHX,Jump Ball Nurkić vs. Gafford: Tip to Jones,Jump Ball,,0,0,0,0,,,h
+S2425-G0095,1,11:13,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,1,11:00,PHX,1.0,DAL,0.0,J. Nurkić,PHX,Nurkić Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0095,1,11:00,PHX,2.0,DAL,0.0,J. Nurkić,PHX,Nurkić Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0095,1,10:18,PHX,,DAL,,J. Nurkić,PHX,MISS Nurkić 26' 3PT Jump Shot,Missed Shot,Jump Shot,-125,228,26,1,3.0,0.0,h
+S2425-G0095,1,09:51,PHX,,DAL,,J. Nurkić,PHX,MISS Nurkić 14' Floating Jump Shot,Missed Shot,Floating Jump shot,-53,125,14,1,2.0,0.0,h
+S2425-G0095,1,09:14,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,1,09:14,PHX,,DAL,,J. Nurkić,PHX,Nurkić Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0095,1,06:05,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,1,03:39,PHX,,DAL,,J. Nurkić,PHX,SUB: Plumlee FOR Nurkić,Substitution,,0,0,0,0,,,h
+S2425-G0095,2,05:13,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,2,05:02,PHX,50.0,DAL,38.0,J. Nurkić,PHX,Nurkić 7' Turnaround Hook Shot (4 PTS) (Jones 3 AST),Made Shot,Turnaround Hook Shot,-34,58,7,1,2.0,2.0,h
+S2425-G0095,2,04:29,PHX,,DAL,,J. Nurkić,PHX,MISS Nurkić Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0095,2,04:29,PHX,51.0,DAL,38.0,J. Nurkić,PHX,Nurkić Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0095,2,03:57,PHX,52.0,DAL,40.0,J. Nurkić,PHX,Nurkić Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0095,2,03:57,PHX,,DAL,,J. Nurkić,PHX,MISS Nurkić Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0095,2,03:26,PHX,54.0,DAL,43.0,J. Nurkić,PHX,Nurkić 3' Reverse Layup (8 PTS) (Durant 1 AST),Made Shot,Reverse Layup Shot,-23,22,3,1,2.0,2.0,h
+S2425-G0095,2,02:59,PHX,56.0,DAL,46.0,J. Nurkić,PHX,Nurkić 7' Hook Shot (10 PTS) (Durant 2 AST),Made Shot,Hook Shot,-6,70,7,1,2.0,2.0,h
+S2425-G0095,2,02:29,PHX,58.0,DAL,48.0,J. Nurkić,PHX,Nurkić 8' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,-25,81,8,1,2.0,2.0,h
+S2425-G0095,2,02:00,PHX,,DAL,,J. Nurkić,PHX,Nurkić Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0095,2,01:28,PHX,60.0,DAL,51.0,J. Nurkić,PHX,Nurkić 5' Hook Shot (14 PTS),Made Shot,Hook Shot,-6,49,5,1,2.0,2.0,h
+S2425-G0095,2,00:41.900000,PHX,,DAL,,J. Nurkić,PHX,Nurkić S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0095,2,00:23.200000,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,3,10:35,PHX,,DAL,,J. Nurkić,PHX,MISS Nurkić Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0095,3,10:35,PHX,,DAL,,J. Nurkić,PHX,MISS Nurkić Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0095,3,10:21,PHX,,DAL,,J. Nurkić,PHX,Nurkić OFF.Foul (P2) (S.Mehta),Foul,Offensive,0,0,0,0,,,h
+S2425-G0095,3,10:21,PHX,,DAL,,J. Nurkić,PHX,Nurkić Offensive Foul Turnover (P3.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0095,3,07:47,PHX,74.0,DAL,69.0,J. Nurkić,PHX,Nurkić 3' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,25,4,3,1,2.0,2.0,h
+S2425-G0095,3,06:41,PHX,78.0,DAL,71.0,J. Nurkić,PHX,Nurkić 5' Reverse Layup (18 PTS),Made Shot,Reverse Layup Shot,45,6,5,1,2.0,2.0,h
+S2425-G0095,3,06:17,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,3,04:55,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,3,04:49,PHX,,DAL,,J. Nurkić,PHX,Nurkić Lost Ball Turnover (P4.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0095,3,04:10,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,3,03:51,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,3,03:51,PHX,,DAL,,J. Nurkić,PHX,MISS Nurkić Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0095,3,02:57,PHX,,DAL,,J. Nurkić,PHX,MISS Nurkić 27' 3PT Jump Shot,Missed Shot,Jump Shot,147,222,27,1,3.0,0.0,h
+S2425-G0095,3,02:27,PHX,,DAL,,J. Nurkić,PHX,SUB: Plumlee FOR Nurkić,Substitution,,0,0,0,0,,,h
+S2425-G0095,4,07:50,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,4,07:18,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,4,06:11,PHX,,DAL,,J. Nurkić,PHX,MISS Nurkić 2' Reverse Layup,Missed Shot,Reverse Layup Shot,15,11,2,1,2.0,0.0,h
+S2425-G0095,4,06:01,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,4,05:50,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,4,04:59,PHX,,DAL,,J. Nurkić,PHX,Nurkić Bad Pass Turnover (P5.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0095,4,03:01,PHX,,DAL,,J. Nurkić,PHX,Nurkić REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,4,02:29,PHX,,DAL,,J. Nurkić,PHX,Nurkić BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0095,4,01:39,PHX,,DAL,,J. Nurkić,PHX,SUB: Dunn FOR Nurkić,Substitution,,0,0,0,0,,,h

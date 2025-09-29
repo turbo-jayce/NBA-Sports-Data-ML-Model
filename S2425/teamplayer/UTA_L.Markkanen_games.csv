@@ -1,0 +1,136 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0110,1,10:35,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,212,128,25,1,3.0,0.0,v
+S2425-G0110,1,09:44,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,16,28,3,1,2.0,0.0,v
+S2425-G0110,1,09:43,DAL,,UTA,,L. Markkanen,UTA,Markkanen REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,1,09:42,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-33,16,4,1,2.0,0.0,v
+S2425-G0110,1,09:42,DAL,,UTA,,L. Markkanen,UTA,Markkanen REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,1,09:41,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 1' Putback Layup,Missed Shot,Putback Layup Shot,-5,11,1,1,2.0,0.0,v
+S2425-G0110,1,08:59,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,151,84,17,1,2.0,0.0,v
+S2425-G0110,1,08:45,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,10,160,16,1,2.0,0.0,v
+S2425-G0110,1,07:54,DAL,7.0,UTA,5.0,L. Markkanen,UTA,Markkanen 27' 3PT Jump Shot (3 PTS) (George 1 AST),Made Shot,Jump Shot,-138,231,27,1,3.0,3.0,v
+S2425-G0110,1,06:38,DAL,,UTA,,L. Markkanen,UTA,Markkanen REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,1,06:18,DAL,,UTA,,L. Markkanen,UTA,SUB: Williams FOR Markkanen,Substitution,,0,0,0,0,,,v
+S2425-G0110,1,01:46,DAL,,UTA,,L. Markkanen,UTA,Markkanen REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,1,01:45,DAL,21.0,UTA,16.0,L. Markkanen,UTA,Markkanen Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0110,2,09:41,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,5,3,1,2.0,0.0,v
+S2425-G0110,2,08:26,DAL,35.0,UTA,26.0,L. Markkanen,UTA,Markkanen Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0110,2,08:02,DAL,,UTA,,L. Markkanen,UTA,Markkanen REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,2,07:22,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 27' 3PT Jump Shot,Missed Shot,Jump Shot,-116,242,27,1,3.0,0.0,v
+S2425-G0110,2,06:50,DAL,,UTA,,L. Markkanen,UTA,SUB: George FOR Markkanen,Substitution,,0,0,0,0,,,v
+S2425-G0110,2,02:36,DAL,,UTA,,L. Markkanen,UTA,Markkanen Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0110,2,00:46.900000,DAL,45.0,UTA,40.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,2,00:46.900000,DAL,45.0,UTA,41.0,L. Markkanen,UTA,Markkanen Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,2,00:07,DAL,49.0,UTA,42.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,2,00:07,DAL,49.0,UTA,43.0,L. Markkanen,UTA,Markkanen Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0110,3,11:29,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,122,12,1,2.0,0.0,v
+S2425-G0110,3,07:26,DAL,64.0,UTA,52.0,L. Markkanen,UTA,Markkanen Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0110,3,06:49,DAL,64.0,UTA,57.0,L. Markkanen,UTA,Markkanen 24' 3PT Jump Shot (14 PTS) (Kessler 1 AST),Made Shot,Jump Shot,-191,147,24,1,3.0,3.0,v
+S2425-G0110,3,06:23,DAL,,UTA,,L. Markkanen,UTA,Markkanen REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,3,06:16,DAL,,UTA,,L. Markkanen,UTA,SUB: Clarkson FOR Markkanen,Substitution,,0,0,0,0,,,v
+S2425-G0110,3,01:50,DAL,,UTA,,L. Markkanen,UTA,Markkanen REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,3,01:50,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-17,14,2,1,2.0,0.0,v
+S2425-G0110,3,01:09,DAL,,UTA,,L. Markkanen,UTA,Markkanen REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,4,08:09,DAL,,UTA,,L. Markkanen,UTA,MISS Markkanen 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,48,77,9,1,2.0,0.0,v
+S2425-G0110,4,06:45,DAL,,UTA,,L. Markkanen,UTA,Markkanen REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,4,05:29,DAL,98.0,UTA,90.0,L. Markkanen,UTA,Markkanen 25' 3PT Jump Bank Shot (17 PTS) (Sexton 2 AST),Made Shot,Jump Bank Shot,105,225,25,1,3.0,3.0,v
+S2425-G0110,4,02:03,DAL,,UTA,,L. Markkanen,UTA,Markkanen P.FOUL (P1.PN) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2425-G0110,4,01:02,DAL,,UTA,,L. Markkanen,UTA,SUB: Sensabaugh FOR Markkanen,Substitution,,0,0,0,0,,,v
+S2425-G0115,1,11:09,UTA,2.0,SAC,2.0,L. Markkanen,UTA,Markkanen 23' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-212,96,23,1,2.0,2.0,h
+S2425-G0115,1,07:54,UTA,15.0,SAC,11.0,L. Markkanen,UTA,Markkanen 3PT Jump Shot (5 PTS) (Williams 1 AST),Made Shot,Jump Shot,232,-4,0,1,3.0,3.0,h
+S2425-G0115,1,07:38,UTA,,SAC,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,1,07:07,UTA,,SAC,,L. Markkanen,UTA,Markkanen OFF.Foul (P1) (D.Taylor),Foul,Offensive,0,0,0,0,,,h
+S2425-G0115,1,07:07,UTA,,SAC,,L. Markkanen,UTA,Markkanen Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0115,1,04:50,UTA,,SAC,,L. Markkanen,UTA,SUB: Filipowski FOR Markkanen,Substitution,,0,0,0,0,,,h
+S2425-G0115,1,02:19,UTA,,SAC,,L. Markkanen,UTA,MISS Markkanen 3PT Jump Shot,Missed Shot,Jump Shot,229,25,0,1,3.0,0.0,h
+S2425-G0115,1,00:07.800000,UTA,,SAC,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,1,00:03.700000,UTA,,SAC,,L. Markkanen,UTA,Markkanen Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0115,2,08:03,UTA,,SAC,,L. Markkanen,UTA,SUB: Filipowski FOR Markkanen,Substitution,,0,0,0,0,,,h
+S2425-G0115,2,02:48,UTA,,SAC,,L. Markkanen,UTA,Markkanen REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,2,02:48,UTA,48.0,SAC,52.0,L. Markkanen,UTA,Markkanen Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0115,2,02:19,UTA,,SAC,,L. Markkanen,UTA,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,28,248,25,1,3.0,0.0,h
+S2425-G0115,2,00:04.200000,UTA,,SAC,,L. Markkanen,UTA,SUB: Filipowski FOR Markkanen,Substitution,,0,0,0,0,,,h
+S2425-G0070,1,10:31,UTA,5.0,MEM,0.0,L. Markkanen,UTA,Markkanen 26' 3PT Jump Bank Shot (3 PTS) (George 1 AST),Made Shot,Jump Bank Shot,-10,258,26,1,3.0,3.0,h
+S2425-G0070,1,08:40,UTA,10.0,MEM,11.0,L. Markkanen,UTA,Markkanen 6' Alley Oop Dunk (5 PTS) (George 2 AST),Made Shot,Alley Oop Dunk Shot,55,30,6,1,2.0,2.0,h
+S2425-G0070,1,07:11,UTA,,MEM,,L. Markkanen,UTA,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,-202,152,25,1,3.0,0.0,h
+S2425-G0070,1,07:06,UTA,,MEM,,L. Markkanen,UTA,SUB: Sensabaugh FOR Markkanen,Substitution,,0,0,0,0,,,h
+S2425-G0070,1,02:22,UTA,,MEM,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,1,02:17,UTA,,MEM,,L. Markkanen,UTA,Markkanen Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0070,1,01:08,UTA,,MEM,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,1,00:59.400000,UTA,23.0,MEM,25.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,1,00:59.400000,UTA,,MEM,,L. Markkanen,UTA,MISS Markkanen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0070,1,00:00.400000,UTA,,MEM,,L. Markkanen,UTA,MISS Markkanen 22' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,188,110,22,1,2.0,0.0,h
+S2425-G0070,2,11:41,UTA,,MEM,,L. Markkanen,UTA,MISS Markkanen 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-51,79,9,1,2.0,0.0,h
+S2425-G0070,2,10:06,UTA,,MEM,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,2,09:18,UTA,29.0,MEM,36.0,L. Markkanen,UTA,Markkanen 3' Alley Oop Dunk (8 PTS) (Clarkson 3 AST),Made Shot,Alley Oop Dunk Shot,-32,11,3,1,2.0,2.0,h
+S2425-G0070,2,08:18,UTA,32.0,MEM,39.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,2,08:18,UTA,33.0,MEM,39.0,L. Markkanen,UTA,Markkanen Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,2,07:18,UTA,,MEM,,L. Markkanen,UTA,Markkanen P.FOUL (P1.T2) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2425-G0070,2,06:50,UTA,,MEM,,L. Markkanen,UTA,SUB: Sensabaugh FOR Markkanen,Substitution,,0,0,0,0,,,h
+S2425-G0070,2,02:17,UTA,43.0,MEM,57.0,L. Markkanen,UTA,Markkanen Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0070,2,02:12,UTA,,MEM,,L. Markkanen,UTA,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,-16,248,25,1,3.0,0.0,h
+S2425-G0070,2,01:53,UTA,,MEM,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,2,01:45,UTA,46.0,MEM,57.0,L. Markkanen,UTA,Markkanen 25' 3PT Jump Shot (14 PTS) (George 3 AST),Made Shot,Jump Shot,-211,138,25,1,3.0,3.0,h
+S2425-G0070,2,01:22,UTA,47.0,MEM,59.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,2,01:22,UTA,48.0,MEM,59.0,L. Markkanen,UTA,Markkanen Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,2,00:50.300000,UTA,,MEM,,L. Markkanen,UTA,Markkanen S.FOUL (P2.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2425-G0070,3,11:43,UTA,52.0,MEM,61.0,L. Markkanen,UTA,Markkanen 4' Driving Floating Bank Jump Shot (18 PTS),Made Shot,Driving Floating Bank Jump Shot,36,21,4,1,2.0,2.0,h
+S2425-G0070,3,09:56,UTA,60.0,MEM,64.0,L. Markkanen,UTA,Markkanen 3PT Jump Shot (21 PTS) (Sexton 2 AST),Made Shot,Jump Shot,-232,23,0,1,3.0,3.0,h
+S2425-G0070,3,09:10,UTA,,MEM,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,3,09:02,UTA,64.0,MEM,67.0,L. Markkanen,UTA,Markkanen 4' Alley Oop Dunk (23 PTS) (George 4 AST),Made Shot,Alley Oop Dunk Shot,36,5,4,1,2.0,2.0,h
+S2425-G0070,3,06:25,UTA,,MEM,,L. Markkanen,UTA,SUB: Sensabaugh FOR Markkanen,Substitution,,0,0,0,0,,,h
+S2425-G0070,4,09:45,UTA,,MEM,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,4,08:02,UTA,,MEM,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,4,07:57,UTA,101.0,MEM,102.0,L. Markkanen,UTA,Markkanen 6' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,58,25,6,1,2.0,2.0,h
+S2425-G0070,4,07:57,UTA,102.0,MEM,102.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,07:20,UTA,103.0,MEM,104.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,07:20,UTA,104.0,MEM,104.0,L. Markkanen,UTA,Markkanen Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,06:49,UTA,,MEM,,L. Markkanen,UTA,MISS Markkanen 24' 3PT Jump Shot,Missed Shot,Jump Shot,172,174,24,1,3.0,0.0,h
+S2425-G0070,4,06:47,UTA,,MEM,,L. Markkanen,UTA,Markkanen REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,4,06:45,UTA,,MEM,,L. Markkanen,UTA,SUB: Sexton FOR Markkanen,Substitution,,0,0,0,0,,,h
+S2425-G0070,4,05:30,UTA,106.0,MEM,110.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,05:30,UTA,107.0,MEM,110.0,L. Markkanen,UTA,Markkanen Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,04:38,UTA,108.0,MEM,112.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,04:38,UTA,109.0,MEM,112.0,L. Markkanen,UTA,Markkanen Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,4,03:12,UTA,,MEM,,L. Markkanen,UTA,Markkanen REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,4,02:51,UTA,,MEM,,L. Markkanen,UTA,MISS Markkanen 6' Layup,Missed Shot,Layup Shot,0,58,6,1,2.0,0.0,h
+S2425-G0070,4,01:24,UTA,,MEM,,L. Markkanen,UTA,Markkanen Out of Bounds Lost Ball Turnover (P2.T17),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0070,4,00:04.800000,UTA,124.0,MEM,126.0,L. Markkanen,UTA,Markkanen 27' 3PT Jump Shot (35 PTS) (George 7 AST),Made Shot,Jump Shot,-121,241,27,1,3.0,3.0,h
+S2425-G0084,1,10:22,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 28' 3PT Jump Shot,Missed Shot,Jump Shot,-189,200,28,1,3.0,0.0,h
+S2425-G0084,1,09:42,UTA,7.0,GSW,2.0,L. Markkanen,UTA,Markkanen 5' Layup (2 PTS) (George 1 AST),Made Shot,Layup Shot,39,25,5,1,2.0,2.0,h
+S2425-G0084,1,09:13,UTA,10.0,GSW,2.0,L. Markkanen,UTA,Markkanen 25' 3PT Jump Shot (5 PTS) (Sexton 1 AST),Made Shot,Jump Shot,114,218,25,1,3.0,3.0,h
+S2425-G0084,1,08:20,UTA,,GSW,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,1,07:54,UTA,,GSW,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,1,07:28,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 3' Layup,Missed Shot,Layup Shot,7,29,3,1,2.0,0.0,h
+S2425-G0084,1,06:43,UTA,,GSW,,L. Markkanen,UTA,Markkanen REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,1,06:27,UTA,,GSW,,L. Markkanen,UTA,Markkanen REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,1,06:27,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen Putback Dunk,Missed Shot,Putback Dunk Shot,0,0,0,1,2.0,0.0,h
+S2425-G0084,1,06:27,UTA,,GSW,,L. Markkanen,UTA,SUB: Sensabaugh FOR Markkanen,Substitution,,0,0,0,0,,,h
+S2425-G0084,1,01:52,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0084,1,01:52,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0084,1,00:00,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 22' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,87,204,22,1,2.0,0.0,h
+S2425-G0084,2,10:41,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-96,171,20,1,2.0,0.0,h
+S2425-G0084,2,09:29,UTA,,GSW,,L. Markkanen,UTA,Markkanen REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,2,06:48,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 5' Running Dunk,Missed Shot,Running Dunk Shot,12,52,5,1,2.0,0.0,h
+S2425-G0084,2,05:56,UTA,,GSW,,L. Markkanen,UTA,SUB: Sensabaugh FOR Markkanen,Substitution,,0,0,0,0,,,h
+S2425-G0084,2,02:23,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 3PT Jump Shot,Missed Shot,Jump Shot,-234,15,0,1,3.0,0.0,h
+S2425-G0084,2,01:29,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,112,103,15,1,2.0,0.0,h
+S2425-G0084,2,01:11,UTA,,GSW,,L. Markkanen,UTA,Markkanen REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,2,01:11,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0084,2,00:07.900000,UTA,41.0,GSW,56.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0084,2,00:07.900000,UTA,42.0,GSW,56.0,L. Markkanen,UTA,Markkanen Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0084,3,11:20,UTA,44.0,GSW,59.0,L. Markkanen,UTA,Markkanen 4' Layup (9 PTS) (Kessler 2 AST),Made Shot,Layup Shot,-32,23,4,1,2.0,2.0,h
+S2425-G0084,3,11:20,UTA,45.0,GSW,59.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0084,3,10:21,UTA,,GSW,,L. Markkanen,UTA,Markkanen Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0084,3,09:41,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,151,15,15,1,2.0,0.0,h
+S2425-G0084,3,09:13,UTA,,GSW,,L. Markkanen,UTA,SUB: Williams FOR Markkanen,Substitution,,0,0,0,0,,,h
+S2425-G0084,4,10:54,UTA,,GSW,,L. Markkanen,UTA,Markkanen REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,4,10:40,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-4,96,10,1,2.0,0.0,h
+S2425-G0084,4,09:53,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-97,238,26,1,3.0,0.0,h
+S2425-G0084,4,08:39,UTA,,GSW,,L. Markkanen,UTA,Markkanen REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,4,08:27,UTA,,GSW,,L. Markkanen,UTA,Markkanen STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0084,4,08:22,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0084,4,07:57,UTA,,GSW,,L. Markkanen,UTA,Markkanen Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0084,4,06:52,UTA,,GSW,,L. Markkanen,UTA,MISS Markkanen 24' 3PT Jump Shot,Missed Shot,Jump Shot,214,116,24,1,3.0,0.0,h
+S2425-G0084,4,05:48,UTA,81.0,GSW,111.0,L. Markkanen,UTA,Markkanen 5' Driving Layup (12 PTS) (George 3 AST),Made Shot,Driving Layup Shot,48,15,5,1,2.0,2.0,h
+S2425-G0084,4,05:48,UTA,82.0,GSW,111.0,L. Markkanen,UTA,Markkanen Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0084,4,05:14,UTA,,GSW,,L. Markkanen,UTA,SUB: Williams FOR Markkanen,Substitution,,0,0,0,0,,,h

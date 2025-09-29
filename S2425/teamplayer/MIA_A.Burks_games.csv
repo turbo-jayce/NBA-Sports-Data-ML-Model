@@ -1,0 +1,12 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0088,2,09:27,CHA,27.0,MIA,33.0,A. Burks,MIA,Burks 27' 3PT Running Jump Shot (3 PTS) (Jaquez Jr. 4 AST),Made Shot,Running Jump Shot,145,222,27,1,3.0,3.0,v
+S2425-G0088,2,08:01,CHA,,MIA,,A. Burks,MIA,MISS Burks 3PT Jump Shot,Missed Shot,Jump Shot,-229,-2,0,1,3.0,0.0,v
+S2425-G0088,2,07:44,CHA,,MIA,,A. Burks,MIA,Burks BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0088,2,04:23,CHA,,MIA,,A. Burks,MIA,Burks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0088,2,02:51,CHA,,MIA,,A. Burks,MIA,SUB: Butler FOR Burks,Substitution,,0,0,0,0,,,v
+S2425-G0088,3,00:15,CHA,70.0,MIA,83.0,A. Burks,MIA,Burks 3PT Fadeaway Jumper (6 PTS) (Butler 7 AST),Made Shot,Fadeaway Jump Shot,225,0,0,1,3.0,3.0,v
+S2425-G0088,4,09:21,CHA,78.0,MIA,89.0,A. Burks,MIA,Burks 3PT Jump Shot (9 PTS) (Butler 8 AST),Made Shot,Jump Shot,234,8,0,1,3.0,3.0,v
+S2425-G0088,4,08:50,CHA,,MIA,,A. Burks,MIA,Burks REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,2,09:43,MIA,,DET,,A. Burks,MIA,MISS Burks 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,-2,2,1,2.0,0.0,h
+S2425-G0105,2,07:51,MIA,,DET,,A. Burks,MIA,Burks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0105,2,06:20,MIA,,DET,,A. Burks,MIA,SUB: Jaquez Jr. FOR Burks,Substitution,,0,0,0,0,,,h

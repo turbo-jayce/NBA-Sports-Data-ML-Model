@@ -1,0 +1,124 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0107,1,08:25,TOR,,DEN,,A. Gordon,DEN,Gordon S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2425-G0107,1,07:32,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,1,04:20,TOR,,DEN,,A. Gordon,DEN,Gordon Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0107,1,03:33,TOR,,DEN,,A. Gordon,DEN,SUB: Watson FOR Gordon,Substitution,,0,0,0,0,,,v
+S2425-G0107,2,08:43,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,2,05:34,TOR,47.0,DEN,45.0,A. Gordon,DEN,Gordon 26' 3PT Jump Shot (3 PTS) (Braun 1 AST),Made Shot,Jump Shot,172,193,26,1,3.0,3.0,v
+S2425-G0107,2,04:57,TOR,,DEN,,A. Gordon,DEN,MISS Gordon 3' Hook Shot,Missed Shot,Hook Shot,-10,25,3,1,2.0,0.0,v
+S2425-G0107,2,04:54,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,2,04:54,TOR,,DEN,,A. Gordon,DEN,Gordon Step Out of Bounds Turnover (P2.T10),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0107,2,04:33,TOR,,DEN,,A. Gordon,DEN,Gordon Offensive Charge Foul (P2) (S.Mitchell),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0107,2,04:33,TOR,,DEN,,A. Gordon,DEN,Gordon Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0107,2,03:51,TOR,,DEN,,A. Gordon,DEN,Gordon STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0107,2,03:16,TOR,,DEN,,A. Gordon,DEN,Gordon Step Out of Bounds Turnover (P4.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0107,2,00:54.500000,TOR,60.0,DEN,54.0,A. Gordon,DEN,Gordon Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0107,2,00:54.500000,TOR,,DEN,,A. Gordon,DEN,MISS Gordon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0107,2,00:14.100000,TOR,,DEN,,A. Gordon,DEN,MISS Gordon 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-56,58,8,1,2.0,0.0,v
+S2425-G0107,3,06:42,TOR,75.0,DEN,65.0,A. Gordon,DEN,Gordon 24' 3PT Jump Shot (7 PTS) (Braun 2 AST),Made Shot,Jump Shot,-240,-6,24,1,3.0,3.0,v
+S2425-G0107,3,06:08,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,3,06:08,TOR,75.0,DEN,67.0,A. Gordon,DEN,Gordon Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0107,3,05:48,TOR,,DEN,,A. Gordon,DEN,Gordon BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0107,3,04:44,TOR,,DEN,,A. Gordon,DEN,SUB: Watson FOR Gordon,Substitution,,0,0,0,0,,,v
+S2425-G0107,4,11:26,TOR,,DEN,,A. Gordon,DEN,Gordon Lost Ball Turnover (P5.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0107,4,10:35,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,4,09:56,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,4,09:56,TOR,91.0,DEN,86.0,A. Gordon,DEN,Gordon Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0107,4,09:56,TOR,91.0,DEN,87.0,A. Gordon,DEN,Gordon Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0107,4,08:08,TOR,,DEN,,A. Gordon,DEN,MISS Gordon 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-13,-1,1,1,2.0,0.0,v
+S2425-G0107,4,08:07,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,4,08:07,TOR,95.0,DEN,90.0,A. Gordon,DEN,Gordon Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0107,4,08:07,TOR,95.0,DEN,91.0,A. Gordon,DEN,Gordon Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0107,4,04:20,TOR,,DEN,,A. Gordon,DEN,Gordon STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0107,4,03:26,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,4,01:41,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,4,01:31,TOR,,DEN,,A. Gordon,DEN,MISS Gordon 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-18,43,5,1,2.0,0.0,v
+S2425-G0107,4,00:21,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,5,01:35,TOR,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0107,5,01:35,TOR,121.0,DEN,126.0,A. Gordon,DEN,Gordon Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0107,5,00:48.100000,TOR,,DEN,,A. Gordon,DEN,MISS Gordon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0107,5,00:48.100000,TOR,123.0,DEN,127.0,A. Gordon,DEN,Gordon Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0075,1,11:16,DEN,,OKC,,A. Gordon,DEN,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0075,1,08:18,DEN,9.0,OKC,5.0,A. Gordon,DEN,Gordon Running Reverse Layup (2 PTS) (Jokić 1 AST),Made Shot,Running Reverse Layup Shot,4,0,0,1,2.0,2.0,h
+S2425-G0075,1,08:08,DEN,,OKC,,A. Gordon,DEN,Gordon STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0075,1,07:19,DEN,,OKC,,A. Gordon,DEN,Gordon Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0075,1,04:03,DEN,,OKC,,A. Gordon,DEN,SUB: Watson FOR Gordon,Substitution,,0,0,0,0,,,h
+S2425-G0075,2,06:47,DEN,,OKC,,A. Gordon,DEN,MISS Gordon 2' Layup,Missed Shot,Layup Shot,16,3,2,1,2.0,0.0,h
+S2425-G0075,2,06:46,DEN,,OKC,,A. Gordon,DEN,Gordon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0075,2,06:46,DEN,33.0,OKC,42.0,A. Gordon,DEN,Gordon Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0075,2,06:46,DEN,34.0,OKC,42.0,A. Gordon,DEN,Gordon Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0075,2,04:59,DEN,,OKC,,A. Gordon,DEN,Gordon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0075,2,04:45,DEN,,OKC,,A. Gordon,DEN,Gordon REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0075,2,04:45,DEN,,OKC,,A. Gordon,DEN,MISS Gordon Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0075,2,04:45,DEN,,OKC,,A. Gordon,DEN,Gordon REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0075,2,04:45,DEN,40.0,OKC,46.0,A. Gordon,DEN,Gordon Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0075,2,01:38,DEN,,OKC,,A. Gordon,DEN,Gordon REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0075,3,08:53,DEN,60.0,OKC,65.0,A. Gordon,DEN,Gordon 17' Fadeaway Jumper (8 PTS) (Jokić 9 AST),Made Shot,Fadeaway Jump Shot,-159,52,17,1,2.0,2.0,h
+S2425-G0075,3,07:40,DEN,,OKC,,A. Gordon,DEN,Gordon S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2425-G0075,3,06:08,DEN,,OKC,,A. Gordon,DEN,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,45,252,26,1,3.0,0.0,h
+S2425-G0075,3,04:13,DEN,,OKC,,A. Gordon,DEN,MISS Gordon 3' Hook Bank Shot,Missed Shot,Hook Bank Shot,-21,18,3,1,2.0,0.0,h
+S2425-G0075,3,04:10,DEN,,OKC,,A. Gordon,DEN,Gordon REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0075,3,04:10,DEN,,OKC,,A. Gordon,DEN,MISS Gordon Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0075,3,02:18,DEN,,OKC,,A. Gordon,DEN,Gordon REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0075,3,02:00,DEN,,OKC,,A. Gordon,DEN,SUB: Murray FOR Gordon,Substitution,,0,0,0,0,,,h
+S2425-G0075,4,06:13,DEN,,OKC,,A. Gordon,DEN,Gordon REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0075,4,05:05,DEN,80.0,OKC,96.0,A. Gordon,DEN,Gordon 1' Cutting Dunk Shot (10 PTS) (Jokić 11 AST),Made Shot,Cutting Dunk Shot,5,8,1,1,2.0,2.0,h
+S2425-G0075,4,04:40,DEN,,OKC,,A. Gordon,DEN,Gordon Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0075,4,04:24,DEN,,OKC,,A. Gordon,DEN,MISS Gordon 3' Layup,Missed Shot,Layup Shot,23,19,3,1,2.0,0.0,h
+S2425-G0075,4,04:16,DEN,,OKC,,A. Gordon,DEN,MISS Gordon 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-138,31,14,1,2.0,0.0,h
+S2425-G0075,4,02:43,DEN,87.0,OKC,100.0,A. Gordon,DEN,Gordon 1' Running Alley Oop Dunk Shot (12 PTS) (Jokić 13 AST),Made Shot,Running Alley Oop Dunk Shot,-13,-4,1,1,2.0,2.0,h
+S2425-G0075,4,01:38,DEN,,OKC,,A. Gordon,DEN,SUB: Alexander FOR Gordon,Substitution,,0,0,0,0,,,h
+S2425-G0087,1,11:40,DEN,,LAC,,A. Gordon,DEN,MISS Gordon 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,49,78,9,1,2.0,0.0,h
+S2425-G0087,1,11:18,DEN,,LAC,,A. Gordon,DEN,MISS Gordon 2' Running Layup,Missed Shot,Running Layup Shot,18,16,2,1,2.0,0.0,h
+S2425-G0087,1,11:06,DEN,,LAC,,A. Gordon,DEN,Gordon P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2425-G0087,1,10:17,DEN,5.0,LAC,0.0,A. Gordon,DEN,Gordon 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,12,1,1,1,2.0,2.0,h
+S2425-G0087,1,09:35,DEN,6.0,LAC,2.0,A. Gordon,DEN,Gordon Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0087,1,09:35,DEN,,LAC,,A. Gordon,DEN,MISS Gordon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0087,1,09:12,DEN,,LAC,,A. Gordon,DEN,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0087,1,03:33,DEN,,LAC,,A. Gordon,DEN,MISS Gordon 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-42,273,28,1,3.0,0.0,h
+S2425-G0087,1,03:02,DEN,,LAC,,A. Gordon,DEN,SUB: Westbrook FOR Gordon,Substitution,,0,0,0,0,,,h
+S2425-G0087,2,08:04,DEN,,LAC,,A. Gordon,DEN,Gordon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0087,2,08:02,DEN,,LAC,,A. Gordon,DEN,MISS Gordon 13' Jump Shot,Missed Shot,Jump Shot,-123,34,13,1,2.0,0.0,h
+S2425-G0087,2,07:26,DEN,,LAC,,A. Gordon,DEN,Gordon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0087,2,07:21,DEN,,LAC,,A. Gordon,DEN,MISS Gordon 25' 3PT Jump Shot,Missed Shot,Jump Shot,157,192,25,1,3.0,0.0,h
+S2425-G0087,2,03:58,DEN,30.0,LAC,42.0,A. Gordon,DEN,Gordon 26' 3PT Jump Shot (6 PTS) (Jokić 1 AST),Made Shot,Jump Shot,165,197,26,1,3.0,3.0,h
+S2425-G0087,2,01:33,DEN,37.0,LAC,44.0,A. Gordon,DEN,Gordon Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0087,2,01:33,DEN,38.0,LAC,44.0,A. Gordon,DEN,Gordon Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0087,3,09:31,DEN,,LAC,,A. Gordon,DEN,Gordon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0087,3,07:30,DEN,,LAC,,A. Gordon,DEN,MISS Gordon 25' 3PT Jump Shot,Missed Shot,Jump Shot,-244,44,25,1,3.0,0.0,h
+S2425-G0087,3,03:50,DEN,,LAC,,A. Gordon,DEN,Gordon STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0087,3,03:47,DEN,,LAC,,A. Gordon,DEN,MISS Gordon 1' Running Layup,Missed Shot,Running Layup Shot,-7,2,1,1,2.0,0.0,h
+S2425-G0087,3,03:45,DEN,,LAC,,A. Gordon,DEN,Gordon REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0087,3,03:16,DEN,,LAC,,A. Gordon,DEN,SUB: Watson FOR Gordon,Substitution,,0,0,0,0,,,h
+S2425-G0087,4,09:41,DEN,76.0,LAC,75.0,A. Gordon,DEN,Gordon 2' Alley Oop Dunk (10 PTS) (Jokić 3 AST),Made Shot,Alley Oop Dunk Shot,-4,23,2,1,2.0,2.0,h
+S2425-G0087,4,00:30.500000,DEN,,LAC,,A. Gordon,DEN,Gordon S.FOUL (P2.PN) (A.Abazi),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,1,11:43,BKN,,DEN,,A. Gordon,DEN,MISS Gordon 3PT Jump Shot,Missed Shot,Jump Shot,-230,-18,0,1,3.0,0.0,v
+S2425-G0113,1,09:42,BKN,3.0,DEN,6.0,A. Gordon,DEN,Gordon 5' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,5,52,5,1,2.0,2.0,v
+S2425-G0113,1,08:42,BKN,,DEN,,A. Gordon,DEN,MISS Gordon 4' Driving Layup,Missed Shot,Driving Layup Shot,-25,29,4,1,2.0,0.0,v
+S2425-G0113,1,05:18,BKN,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0113,1,05:07,BKN,17.0,DEN,15.0,A. Gordon,DEN,Gordon 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-10,9,1,1,2.0,2.0,v
+S2425-G0113,1,04:13,BKN,,DEN,,A. Gordon,DEN,SUB: Watson FOR Gordon,Substitution,,0,0,0,0,,,v
+S2425-G0113,2,03:54,BKN,,DEN,,A. Gordon,DEN,Gordon S.FOUL (P1.T4) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2425-G0113,2,02:59,BKN,,DEN,,A. Gordon,DEN,Gordon L.B.FOUL (P2.PN) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0113,3,11:40,BKN,,DEN,,A. Gordon,DEN,Gordon BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0113,3,11:19,BKN,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0113,3,11:19,BKN,72.0,DEN,65.0,A. Gordon,DEN,Gordon Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0113,3,09:36,BKN,73.0,DEN,72.0,A. Gordon,DEN,Gordon 2' Reverse Dunk (8 PTS) (Jokić 9 AST),Made Shot,Reverse Dunk Shot,-20,8,2,1,2.0,2.0,v
+S2425-G0113,3,08:56,BKN,78.0,DEN,76.0,A. Gordon,DEN,Gordon 1' Layup (10 PTS) (Porter Jr. 2 AST),Made Shot,Layup Shot,-6,7,1,1,2.0,2.0,v
+S2425-G0113,3,08:56,BKN,78.0,DEN,77.0,A. Gordon,DEN,Gordon Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0113,3,07:46,BKN,,DEN,,A. Gordon,DEN,Gordon Backcourt Turnover (P1.T2),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2425-G0113,3,07:33,BKN,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0113,3,05:40,BKN,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0113,3,05:05,BKN,88.0,DEN,84.0,A. Gordon,DEN,Gordon 5' Turnaround Hook Shot (13 PTS),Made Shot,Turnaround Hook Shot,0,50,5,1,2.0,2.0,v
+S2425-G0113,3,03:56,BKN,,DEN,,A. Gordon,DEN,MISS Gordon 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,-1,0,1,3.0,0.0,v
+S2425-G0113,3,03:42,BKN,,DEN,,A. Gordon,DEN,SUB: Watson FOR Gordon,Substitution,,0,0,0,0,,,v
+S2425-G0113,4,05:47,BKN,,DEN,,A. Gordon,DEN,Gordon S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2425-G0113,4,04:37,BKN,115.0,DEN,114.0,A. Gordon,DEN,Gordon 2' Reverse Dunk (15 PTS) (Jokić 14 AST),Made Shot,Reverse Dunk Shot,-1,17,2,1,2.0,2.0,v
+S2425-G0113,4,03:34,BKN,116.0,DEN,115.0,A. Gordon,DEN,Gordon Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0113,4,03:34,BKN,116.0,DEN,116.0,A. Gordon,DEN,Gordon Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0113,4,02:17,BKN,120.0,DEN,121.0,A. Gordon,DEN,Gordon 3PT Jump Shot (20 PTS) (Braun 3 AST),Made Shot,Jump Shot,221,-9,0,1,3.0,3.0,v
+S2425-G0113,5,03:19,BKN,,DEN,,A. Gordon,DEN,Gordon REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0113,5,01:52,BKN,129.0,DEN,134.0,A. Gordon,DEN,Gordon Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0113,5,01:52,BKN,129.0,DEN,135.0,A. Gordon,DEN,Gordon Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0113,5,00:13.300000,BKN,137.0,DEN,143.0,A. Gordon,DEN,Gordon Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0113,5,00:13.300000,BKN,137.0,DEN,144.0,A. Gordon,DEN,Gordon Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v

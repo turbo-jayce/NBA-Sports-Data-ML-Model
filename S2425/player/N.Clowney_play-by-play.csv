@@ -1,0 +1,111 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2424-G124,1,10:28,MEM,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2424-G124,1,09:32,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 26' 3PT Jump Shot,Missed Shot,Jump Shot,-199,162,26,1,3.0,0.0,v
+S2424-G124,1,08:12,MEM,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2424-G124,1,07:29,MEM,,BKN,,N. Clowney,BKN,Clowney L.B.FOUL (P1.T4) (B.Forte),Foul,Loose Ball,0,0,0,0,,,v
+S2424-G124,1,06:28,MEM,,BKN,,N. Clowney,BKN,SUB: Finney-Smith FOR Clowney,Substitution,,0,0,0,0,,,v
+S2424-G124,1,02:39,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 3PT Jump Shot,Missed Shot,Jump Shot,-230,18,0,1,3.0,0.0,v
+S2424-G124,1,02:06,MEM,,BKN,,N. Clowney,BKN,Clowney L.B.FOUL (P2.PN) (B.Nansel),Foul,Loose Ball,0,0,0,0,,,v
+S2424-G124,1,01:49,MEM,27.0,BKN,27.0,N. Clowney,BKN,Clowney 27' 3PT Jump Shot (3 PTS) (Wilson 1 AST),Made Shot,Jump Shot,32,268,27,1,3.0,3.0,v
+S2424-G124,1,01:09,MEM,27.0,BKN,29.0,N. Clowney,BKN,Clowney 3' Alley Oop Dunk (5 PTS) (Schröder 1 AST),Made Shot,Alley Oop Dunk Shot,-16,23,3,1,2.0,2.0,v
+S2424-G124,2,11:40,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,90,24,1,3.0,0.0,v
+S2424-G124,2,11:10,MEM,,BKN,,N. Clowney,BKN,Clowney S.FOUL (P3.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2424-G124,2,11:10,MEM,,BKN,,N. Clowney,BKN,SUB: Finney-Smith FOR Clowney,Substitution,,0,0,0,0,,,v
+S2424-G124,3,06:09,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-13,15,2,1,2.0,0.0,v
+S2424-G124,3,03:22,MEM,,BKN,,N. Clowney,BKN,Clowney P.FOUL (P4.T4) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2424-G124,3,02:39,MEM,,BKN,,N. Clowney,BKN,Clowney FLAGRANT.FOUL.TYPE1 (P5.PN) (B.Forte),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2424-G124,3,02:39,MEM,,BKN,,N. Clowney,BKN,SUB: Finney-Smith FOR Clowney,Substitution,,0,0,0,0,,,v
+S2424-G124,4,00:46,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 5' Driving Layup,Missed Shot,Driving Layup Shot,38,35,5,1,2.0,0.0,v
+S2424-G124,4,00:44.500000,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 25' 3PT Jump Shot,Missed Shot,Jump Shot,227,110,25,1,3.0,0.0,v
+S2425-G0064,1,05:32,ATL,,BKN,,N. Clowney,BKN,MISS Clowney 24' 3PT Jump Shot,Missed Shot,Jump Shot,102,221,24,1,3.0,0.0,v
+S2425-G0064,1,04:51,ATL,15.0,BKN,14.0,N. Clowney,BKN,Clowney Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0064,1,04:51,ATL,15.0,BKN,15.0,N. Clowney,BKN,Clowney Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0064,1,04:00,ATL,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,1,02:37,ATL,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,1,02:36,ATL,22.0,BKN,19.0,N. Clowney,BKN,Clowney 25' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,188,172,25,1,3.0,3.0,v
+S2425-G0064,1,02:30,ATL,,BKN,,N. Clowney,BKN,Clowney S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0064,1,00:45,ATL,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,1,00:05.800000,ATL,,BKN,,N. Clowney,BKN,MISS Clowney 2' Driving Layup,Missed Shot,Driving Layup Shot,18,5,2,1,2.0,0.0,v
+S2425-G0064,3,06:34,ATL,,BKN,,N. Clowney,BKN,Clowney Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0064,3,06:18,ATL,,BKN,,N. Clowney,BKN,MISS Clowney 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10,27,3,1,2.0,0.0,v
+S2425-G0064,3,06:12,ATL,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,3,06:12,ATL,65.0,BKN,66.0,N. Clowney,BKN,Clowney Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0064,3,05:47,ATL,,BKN,,N. Clowney,BKN,Clowney BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0064,3,05:44,ATL,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,3,04:54,ATL,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,3,02:06,ATL,,BKN,,N. Clowney,BKN,MISS Clowney 3PT Jump Shot,Missed Shot,Jump Shot,229,2,0,1,3.0,0.0,v
+S2425-G0064,3,00:18.400000,ATL,,BKN,,N. Clowney,BKN,Clowney STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0064,4,10:11,ATL,,BKN,,N. Clowney,BKN,SUB: Simmons FOR Clowney,Substitution,,0,0,0,0,,,v
+S2425-G0064,4,00:02,ATL,,BKN,,N. Clowney,BKN,SUB: Schröder FOR Clowney,Substitution,,0,0,0,0,,,v
+S2425-G0113,1,12:00,BKN,,DEN,,N. Clowney,BKN,Jump Ball Clowney vs. Jokić: Tip to Gordon,Jump Ball,,0,0,0,0,,,h
+S2425-G0113,1,11:04,BKN,,DEN,,N. Clowney,BKN,Clowney S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,1,08:51,BKN,,DEN,,N. Clowney,BKN,Clowney P.FOUL (P2.T2) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2425-G0113,1,08:42,BKN,,DEN,,N. Clowney,BKN,Clowney BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0113,1,08:37,BKN,,DEN,,N. Clowney,BKN,SUB: Wilson FOR Clowney,Substitution,,0,0,0,0,,,h
+S2425-G0113,2,04:10,BKN,,DEN,,N. Clowney,BKN,MISS Clowney 3' Hook Shot,Missed Shot,Hook Shot,-12,22,3,1,2.0,0.0,h
+S2425-G0113,2,04:00,BKN,,DEN,,N. Clowney,BKN,Clowney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,2,03:05,BKN,,DEN,,N. Clowney,BKN,Clowney REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,2,00:05.200000,BKN,,DEN,,N. Clowney,BKN,SUB: K. Johnson FOR Clowney,Substitution,,0,0,0,0,,,h
+S2425-G0113,3,11:03,BKN,,DEN,,N. Clowney,BKN,MISS Clowney 6' Driving Layup,Missed Shot,Driving Layup Shot,16,59,6,1,2.0,0.0,h
+S2425-G0113,3,10:16,BKN,,DEN,,N. Clowney,BKN,Jump Ball Clowney vs. Jokić: Tip to Gordon,Jump Ball,,0,0,0,0,,,h
+S2425-G0113,3,09:16,BKN,,DEN,,N. Clowney,BKN,Clowney REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,3,04:43,BKN,,DEN,,N. Clowney,BKN,SUB: Claxton FOR Clowney,Substitution,,0,0,0,0,,,h
+S2425-G0124,1,10:28,MEM,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0124,1,09:32,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 26' 3PT Jump Shot,Missed Shot,Jump Shot,-199,162,26,1,3.0,0.0,v
+S2425-G0124,1,08:12,MEM,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0124,1,07:29,MEM,,BKN,,N. Clowney,BKN,Clowney L.B.FOUL (P1.T4) (B.Forte),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0124,1,06:28,MEM,,BKN,,N. Clowney,BKN,SUB: Finney-Smith FOR Clowney,Substitution,,0,0,0,0,,,v
+S2425-G0124,1,02:39,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 3PT Jump Shot,Missed Shot,Jump Shot,-230,18,0,1,3.0,0.0,v
+S2425-G0124,1,02:06,MEM,,BKN,,N. Clowney,BKN,Clowney L.B.FOUL (P2.PN) (B.Nansel),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0124,1,01:49,MEM,27.0,BKN,27.0,N. Clowney,BKN,Clowney 27' 3PT Jump Shot (3 PTS) (Wilson 1 AST),Made Shot,Jump Shot,32,268,27,1,3.0,3.0,v
+S2425-G0124,1,01:09,MEM,27.0,BKN,29.0,N. Clowney,BKN,Clowney 3' Alley Oop Dunk (5 PTS) (Schröder 1 AST),Made Shot,Alley Oop Dunk Shot,-16,23,3,1,2.0,2.0,v
+S2425-G0124,2,11:40,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,90,24,1,3.0,0.0,v
+S2425-G0124,2,11:10,MEM,,BKN,,N. Clowney,BKN,Clowney S.FOUL (P3.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2425-G0124,2,11:10,MEM,,BKN,,N. Clowney,BKN,SUB: Finney-Smith FOR Clowney,Substitution,,0,0,0,0,,,v
+S2425-G0124,3,06:09,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-13,15,2,1,2.0,0.0,v
+S2425-G0124,3,03:22,MEM,,BKN,,N. Clowney,BKN,Clowney P.FOUL (P4.T4) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2425-G0124,3,02:39,MEM,,BKN,,N. Clowney,BKN,Clowney FLAGRANT.FOUL.TYPE1 (P5.PN) (B.Forte),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2425-G0124,3,02:39,MEM,,BKN,,N. Clowney,BKN,SUB: Finney-Smith FOR Clowney,Substitution,,0,0,0,0,,,v
+S2425-G0124,4,00:46,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 5' Driving Layup,Missed Shot,Driving Layup Shot,38,35,5,1,2.0,0.0,v
+S2425-G0124,4,00:44.500000,MEM,,BKN,,N. Clowney,BKN,MISS Clowney 25' 3PT Jump Shot,Missed Shot,Jump Shot,227,110,25,1,3.0,0.0,v
+S2425-G0098,1,04:56,BKN,,MIL,,N. Clowney,BKN,MISS Clowney 1' Reverse Layup,Missed Shot,Reverse Layup Shot,11,3,1,1,2.0,0.0,h
+S2425-G0098,1,04:42,BKN,,MIL,,N. Clowney,BKN,Clowney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,1,03:57,BKN,,MIL,,N. Clowney,BKN,Clowney S.FOUL (P1.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2425-G0098,1,03:47,BKN,,MIL,,N. Clowney,BKN,MISS Clowney 26' 3PT Jump Shot,Missed Shot,Jump Shot,-1,255,26,1,3.0,0.0,h
+S2425-G0098,1,03:38,BKN,17.0,MIL,17.0,N. Clowney,BKN,Clowney Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0098,1,03:38,BKN,18.0,MIL,17.0,N. Clowney,BKN,Clowney Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0098,1,02:42,BKN,21.0,MIL,17.0,N. Clowney,BKN,Clowney 25' 3PT Jump Shot (5 PTS) (Wilson 1 AST),Made Shot,Jump Shot,-88,236,25,1,3.0,3.0,h
+S2425-G0098,1,01:10,BKN,,MIL,,N. Clowney,BKN,MISS Clowney 10' Driving Layup,Missed Shot,Driving Layup Shot,83,51,10,1,2.0,0.0,h
+S2425-G0098,2,11:42,BKN,,MIL,,N. Clowney,BKN,MISS Clowney 5' Driving Layup,Missed Shot,Driving Layup Shot,34,40,5,1,2.0,0.0,h
+S2425-G0098,2,11:37,BKN,,MIL,,N. Clowney,BKN,Jump Ball Clowney vs. Portis: Tip to Schröder,Jump Ball,,0,0,0,0,,,h
+S2425-G0098,2,08:38,BKN,,MIL,,N. Clowney,BKN,SUB: Simmons FOR Clowney,Substitution,,0,0,0,0,,,h
+S2425-G0098,3,05:45,BKN,,MIL,,N. Clowney,BKN,MISS Clowney 25' 3PT Jump Shot,Missed Shot,Jump Shot,38,252,25,1,3.0,0.0,h
+S2425-G0098,3,05:33,BKN,,MIL,,N. Clowney,BKN,Clowney S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2425-G0098,3,05:22,BKN,68.0,MIL,66.0,N. Clowney,BKN,Clowney 26' 3PT Step Back Bank Jump Shot (8 PTS) (Simmons 5 AST),Made Shot,Step Back Bank Jump Shot,-67,248,26,1,3.0,3.0,h
+S2425-G0098,3,02:23,BKN,77.0,MIL,75.0,N. Clowney,BKN,Clowney 3PT Jump Shot (11 PTS) (Schröder 4 AST),Made Shot,Jump Shot,-230,1,0,1,3.0,3.0,h
+S2425-G0098,3,01:47,BKN,,MIL,,N. Clowney,BKN,MISS Clowney 3PT Jump Shot,Missed Shot,Jump Shot,228,-20,0,1,3.0,0.0,h
+S2425-G0098,3,01:10,BKN,,MIL,,N. Clowney,BKN,MISS Clowney 25' 3PT Jump Shot,Missed Shot,Jump Shot,145,209,25,1,3.0,0.0,h
+S2425-G0098,3,00:56.100000,BKN,,MIL,,N. Clowney,BKN,Clowney REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,4,11:20,BKN,,MIL,,N. Clowney,BKN,Clowney REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,4,11:20,BKN,,MIL,,N. Clowney,BKN,Clowney Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0098,4,10:29,BKN,87.0,MIL,81.0,N. Clowney,BKN,Clowney 3' Driving Layup (13 PTS) (Schröder 5 AST),Made Shot,Driving Layup Shot,-1,28,3,1,2.0,2.0,h
+S2425-G0098,4,07:57,BKN,,MIL,,N. Clowney,BKN,MISS Clowney 3PT Jump Shot,Missed Shot,Jump Shot,-230,-6,0,1,3.0,0.0,h
+S2425-G0098,4,07:38,BKN,,MIL,,N. Clowney,BKN,MISS Clowney 4' Hook Shot,Missed Shot,Hook Shot,18,39,4,1,2.0,0.0,h
+S2425-G0098,4,06:12,BKN,,MIL,,N. Clowney,BKN,Clowney REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,4,06:01,BKN,,MIL,,N. Clowney,BKN,SUB: Finney-Smith FOR Clowney,Substitution,,0,0,0,0,,,h
+S2425-G0077,1,03:59,ORL,,BKN,,N. Clowney,BKN,MISS Clowney 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,6,8,1,1,2.0,0.0,v
+S2425-G0077,1,02:28,ORL,,BKN,,N. Clowney,BKN,MISS Clowney 26' 3PT Jump Shot,Missed Shot,Jump Shot,-115,237,26,1,3.0,0.0,v
+S2425-G0077,1,01:45,ORL,,BKN,,N. Clowney,BKN,Clowney S.FOUL (P1.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0077,1,00:26.700000,ORL,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,2,11:25,ORL,,BKN,,N. Clowney,BKN,Clowney REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,2,10:19,ORL,,BKN,,N. Clowney,BKN,MISS Clowney 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,53,0,1,3.0,0.0,v
+S2425-G0077,2,08:37,ORL,,BKN,,N. Clowney,BKN,Clowney L.B.FOUL (P2.T3) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0077,2,07:36,ORL,,BKN,,N. Clowney,BKN,MISS Clowney 26' 3PT Jump Shot,Missed Shot,Jump Shot,126,227,26,1,3.0,0.0,v
+S2425-G0077,2,07:03,ORL,,BKN,,N. Clowney,BKN,SUB: Finney-Smith FOR Clowney,Substitution,,0,0,0,0,,,v
+S2425-G0077,3,03:00,ORL,,BKN,,N. Clowney,BKN,Clowney Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0077,3,02:02,ORL,76.0,BKN,68.0,N. Clowney,BKN,Clowney 27' 3PT Jump Shot (3 PTS) (Schröder 4 AST),Made Shot,Jump Shot,7,268,27,1,3.0,3.0,v
+S2425-G0077,3,00:30,ORL,,BKN,,N. Clowney,BKN,MISS Clowney 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-34,104,11,1,2.0,0.0,v
+S2425-G0077,4,01:33,ORL,,BKN,,N. Clowney,BKN,Clowney P.FOUL (P3.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2425-G0077,4,01:21,ORL,109.0,BKN,97.0,N. Clowney,BKN,Clowney 2' Reverse Layup (5 PTS) (Wilson 2 AST),Made Shot,Reverse Layup Shot,12,9,2,1,2.0,2.0,v
+S2425-G0077,4,00:08.200000,ORL,,BKN,,N. Clowney,BKN,Clowney STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0077,4,00:05.900000,ORL,114.0,BKN,101.0,N. Clowney,BKN,Clowney 2' Running Layup (7 PTS) (Milton 2 AST),Made Shot,Running Layup Shot,15,19,2,1,2.0,2.0,v

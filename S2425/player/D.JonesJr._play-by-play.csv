@@ -1,0 +1,88 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0127,1,09:57,LAC,,POR,,D. Jones Jr.,LAC,MISS Jones Jr. 7' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,11,73,7,1,2.0,0.0,h
+S2425-G0127,1,09:04,LAC,,POR,,D. Jones Jr.,LAC,MISS Jones Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-176,186,26,1,3.0,0.0,h
+S2425-G0127,1,04:25,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. S.FOUL (P1.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0127,1,04:25,LAC,,POR,,D. Jones Jr.,LAC,SUB: Dunn FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0127,2,05:50,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,2,05:21,LAC,,POR,,D. Jones Jr.,LAC,MISS Jones Jr. 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-85,42,9,1,2.0,0.0,h
+S2425-G0127,2,04:40,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,2,04:15,LAC,40.0,POR,44.0,D. Jones Jr.,LAC,Jones Jr. 2' Alley Oop Dunk (2 PTS) (Harden 5 AST),Made Shot,Alley Oop Dunk Shot,10,12,2,1,2.0,2.0,h
+S2425-G0127,2,01:34,LAC,,POR,,D. Jones Jr.,LAC,MISS Jones Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,161,199,26,1,3.0,0.0,h
+S2425-G0127,2,01:12,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,2,00:41.100000,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,11:17,LAC,53.0,POR,57.0,D. Jones Jr.,LAC,Jones Jr. 3PT Jump Shot (5 PTS) (Powell 2 AST),Made Shot,Jump Shot,-224,-12,0,1,3.0,3.0,h
+S2425-G0127,3,08:57,LAC,,POR,,D. Jones Jr.,LAC,MISS Jones Jr. 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-15,62,6,1,2.0,0.0,h
+S2425-G0127,3,08:49,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,08:49,LAC,63.0,POR,65.0,D. Jones Jr.,LAC,Jones Jr. Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0127,3,07:50,LAC,65.0,POR,70.0,D. Jones Jr.,LAC,Jones Jr. 2' Cutting Dunk Shot (9 PTS) (Harden 7 AST),Made Shot,Cutting Dunk Shot,18,-2,2,1,2.0,2.0,h
+S2425-G0127,3,06:46,LAC,,POR,,D. Jones Jr.,LAC,MISS Jones Jr. 4' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-23,27,4,1,2.0,0.0,h
+S2425-G0127,3,06:10,LAC,,POR,,D. Jones Jr.,LAC,MISS Jones Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,0,27,3,1,2.0,0.0,h
+S2425-G0127,3,02:29,LAC,,POR,,D. Jones Jr.,LAC,SUB: Batum FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0127,4,07:38,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,4,06:35,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,4,05:41,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0127,4,00:34.100000,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0127,4,00:03.900000,LAC,,POR,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0087,1,08:40,DEN,,LAC,,D. Jones Jr.,LAC,MISS Jones Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,200,175,27,1,3.0,0.0,v
+S2425-G0087,1,07:44,DEN,8.0,LAC,7.0,D. Jones Jr.,LAC,Jones Jr. 6' Driving Floating Bank Jump Shot (2 PTS) (Harden 3 AST),Made Shot,Driving Floating Bank Jump Shot,-53,31,6,1,2.0,2.0,v
+S2425-G0087,1,03:41,DEN,,LAC,,D. Jones Jr.,LAC,MISS Jones Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,71,258,27,1,3.0,0.0,v
+S2425-G0087,1,03:12,DEN,14.0,LAC,18.0,D. Jones Jr.,LAC,Jones Jr. 10' Driving Floating Bank Jump Shot (4 PTS) (Harden 7 AST),Made Shot,Driving Floating Bank Jump Shot,36,95,10,1,2.0,2.0,v
+S2425-G0087,1,03:02,DEN,,LAC,,D. Jones Jr.,LAC,SUB: Porter Jr. FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0087,2,01:59,DEN,,LAC,,D. Jones Jr.,LAC,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0087,2,01:54,DEN,,LAC,,D. Jones Jr.,LAC,Jones Jr. Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0087,2,01:53,DEN,,LAC,,D. Jones Jr.,LAC,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0087,2,00:46.600000,DEN,,LAC,,D. Jones Jr.,LAC,MISS Jones Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,61,160,17,1,2.0,0.0,v
+S2425-G0087,2,00:01.300000,DEN,,LAC,,D. Jones Jr.,LAC,Jones Jr. S.FOUL (P1.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2425-G0087,3,08:19,DEN,52.0,LAC,59.0,D. Jones Jr.,LAC,Jones Jr. 3PT Jump Shot (7 PTS) (Zubac 1 AST),Made Shot,Jump Shot,-229,9,0,1,3.0,3.0,v
+S2425-G0087,3,07:39,DEN,,LAC,,D. Jones Jr.,LAC,Jones Jr. Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0087,3,07:16,DEN,,LAC,,D. Jones Jr.,LAC,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,137,226,26,1,3.0,0.0,v
+S2425-G0087,3,03:50,DEN,,LAC,,D. Jones Jr.,LAC,Jones Jr. Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0087,3,03:16,DEN,,LAC,,D. Jones Jr.,LAC,SUB: Batum FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0087,4,03:04,DEN,94.0,LAC,96.0,D. Jones Jr.,LAC,Jones Jr. 1' Running Dunk (9 PTS) (Coffey 2 AST),Made Shot,Running Dunk Shot,10,6,1,1,2.0,2.0,v
+S2425-G0087,4,01:07,DEN,,LAC,,D. Jones Jr.,LAC,Jones Jr. P.FOUL (P2.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2425-G0087,4,00:31,DEN,,LAC,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,1,10:44,GSW,,LAC,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,1,10:44,GSW,3.0,LAC,4.0,D. Jones Jr.,LAC,Jones Jr. Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0101,1,10:21,GSW,3.0,LAC,7.0,D. Jones Jr.,LAC,Jones Jr. 25' 3PT Jump Shot (5 PTS) (Zubac 1 AST),Made Shot,Jump Shot,-163,188,25,1,3.0,3.0,v
+S2425-G0101,1,07:56,GSW,,LAC,,D. Jones Jr.,LAC,Jones Jr. S.FOUL (P1.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0101,1,07:06,GSW,17.0,LAC,16.0,D. Jones Jr.,LAC,Jones Jr. 25' 3PT Jump Shot (8 PTS) (Harden 4 AST),Made Shot,Jump Shot,-186,172,25,1,3.0,3.0,v
+S2425-G0101,1,05:15,GSW,,LAC,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,1,05:15,GSW,24.0,LAC,23.0,D. Jones Jr.,LAC,Jones Jr. Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0101,1,03:16,GSW,26.0,LAC,25.0,D. Jones Jr.,LAC,Jones Jr. 5' Running Alley Oop Dunk Shot (12 PTS) (Harden 5 AST),Made Shot,Running Alley Oop Dunk Shot,33,38,5,1,2.0,2.0,v
+S2425-G0101,1,02:49,GSW,,LAC,,D. Jones Jr.,LAC,SUB: Coffey FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0101,2,06:46,GSW,,LAC,,D. Jones Jr.,LAC,MISS Jones Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,140,204,25,1,3.0,0.0,v
+S2425-G0101,2,05:58,GSW,,LAC,,D. Jones Jr.,LAC,MISS Jones Jr. 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,4,32,3,1,2.0,0.0,v
+S2425-G0101,2,03:59,GSW,,LAC,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,2,03:59,GSW,44.0,LAC,49.0,D. Jones Jr.,LAC,Jones Jr. Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0101,2,02:44,GSW,,LAC,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,3,10:27,GSW,,LAC,,D. Jones Jr.,LAC,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0101,3,06:38,GSW,,LAC,,D. Jones Jr.,LAC,Jones Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0101,3,04:04,GSW,72.0,LAC,77.0,D. Jones Jr.,LAC,Jones Jr. 3PT Jump Shot (17 PTS) (Dunn 2 AST),Made Shot,Jump Shot,230,31,0,1,3.0,3.0,v
+S2425-G0101,3,01:23,GSW,,LAC,,D. Jones Jr.,LAC,MISS Jones Jr. 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,39,221,22,1,2.0,0.0,v
+S2425-G0101,4,05:31,GSW,,LAC,,D. Jones Jr.,LAC,MISS Jones Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0101,4,05:31,GSW,90.0,LAC,101.0,D. Jones Jr.,LAC,Jones Jr. Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0101,4,04:25,GSW,,LAC,,D. Jones Jr.,LAC,Jones Jr. Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0101,4,04:25,GSW,,LAC,,D. Jones Jr.,LAC,Jones Jr. L.B.FOUL (P2.T4) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0101,4,03:55,GSW,,LAC,,D. Jones Jr.,LAC,Jones Jr. Backcourt Turnover (P2.T18),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2425-G0071,1,10:53,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,10:38,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. P.FOUL (P1.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2425-G0071,1,09:10,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,07:16,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,07:15,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0071,1,05:34,LAC,18.0,PHX,16.0,D. Jones Jr.,LAC,Jones Jr. 1' Alley Oop Dunk (2 PTS) (Harden 3 AST),Made Shot,Alley Oop Dunk Shot,9,-6,1,1,2.0,2.0,h
+S2425-G0071,1,05:20,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. P.FOUL (P2.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2425-G0071,1,05:20,LAC,,PHX,,D. Jones Jr.,LAC,SUB: Batum FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0071,2,04:06,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. Traveling Turnover (P2.T9),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0071,2,01:40,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. Violation:Kicked Ball (S.Twardoski),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0071,2,01:40,LAC,,PHX,,D. Jones Jr.,LAC,SUB: Dunn FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0071,3,10:37,LAC,44.0,PHX,49.0,D. Jones Jr.,LAC,Jones Jr. 24' 3PT Jump Shot (5 PTS) (Mann 2 AST),Made Shot,Jump Shot,-234,42,24,1,3.0,3.0,h
+S2425-G0071,3,08:02,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0071,3,07:57,LAC,51.0,PHX,51.0,D. Jones Jr.,LAC,Jones Jr. 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,-2,15,2,1,2.0,2.0,h
+S2425-G0071,3,06:49,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0071,3,06:12,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,3,03:39,LAC,,PHX,,D. Jones Jr.,LAC,SUB: Dunn FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0071,5,04:45,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. S.FOUL (P3.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0071,5,04:21,LAC,106.0,PHX,105.0,D. Jones Jr.,LAC,Jones Jr. 27' 3PT Jump Shot (10 PTS) (Harden 8 AST),Made Shot,Jump Shot,-188,200,27,1,3.0,3.0,h
+S2425-G0071,5,01:53,LAC,,PHX,,D. Jones Jr.,LAC,MISS Jones Jr. 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,17,16,2,1,2.0,0.0,h
+S2425-G0071,5,01:40,LAC,110.0,PHX,112.0,D. Jones Jr.,LAC,Jones Jr. 2' Running Finger Roll Layup (12 PTS) (Powell 4 AST),Made Shot,Running Finger Roll Layup Shot,2,16,2,1,2.0,2.0,h
+S2425-G0071,5,00:03,LAC,,PHX,,D. Jones Jr.,LAC,Jones Jr. P.FOUL (P4.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,h

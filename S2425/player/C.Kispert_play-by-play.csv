@@ -1,0 +1,80 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0121,1,03:32,WAS,,ATL,,C. Kispert,WAS,MISS Kispert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-188,185,26,1,3.0,0.0,h
+S2425-G0121,1,00:53.400000,WAS,33.0,ATL,34.0,C. Kispert,WAS,Kispert 2' Cutting Layup Shot (2 PTS) (Valančiūnas 1 AST),Made Shot,Cutting Layup Shot,22,4,2,1,2.0,2.0,h
+S2425-G0121,1,00:27.700000,WAS,,ATL,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0121,1,00:08.200000,WAS,,ATL,,C. Kispert,WAS,MISS Kispert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-113,239,26,1,3.0,0.0,h
+S2425-G0121,2,11:08,WAS,,ATL,,C. Kispert,WAS,MISS Kispert 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,153,202,25,1,3.0,0.0,h
+S2425-G0121,2,10:26,WAS,36.0,ATL,40.0,C. Kispert,WAS,Kispert 26' 3PT Jump Shot (5 PTS) (Carrington 1 AST),Made Shot,Jump Shot,-10,258,26,1,3.0,3.0,h
+S2425-G0121,2,03:31,WAS,,ATL,,C. Kispert,WAS,Kispert L.B.FOUL (P1.T1) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0121,2,01:44,WAS,,ATL,,C. Kispert,WAS,SUB: Carrington FOR Kispert,Substitution,,0,0,0,0,,,h
+S2425-G0121,2,00:31.200000,WAS,,ATL,,C. Kispert,WAS,MISS Kispert 29' 3PT Jump Shot,Missed Shot,Jump Shot,-185,221,29,1,3.0,0.0,h
+S2425-G0121,2,00:12.200000,WAS,,ATL,,C. Kispert,WAS,MISS Kispert 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-148,220,27,1,3.0,0.0,h
+S2425-G0121,3,05:58,WAS,,ATL,,C. Kispert,WAS,MISS Kispert 27' 3PT Jump Shot,Missed Shot,Jump Shot,-185,195,27,1,3.0,0.0,h
+S2425-G0121,4,11:32,WAS,96.0,ATL,92.0,C. Kispert,WAS,Kispert 27' 3PT Running Jump Shot (8 PTS) (Carrington 3 AST),Made Shot,Running Jump Shot,-175,205,27,1,3.0,3.0,h
+S2425-G0121,4,08:52,WAS,109.0,ATL,96.0,C. Kispert,WAS,Kispert 25' 3PT Jump Shot (11 PTS) (George 3 AST),Made Shot,Jump Shot,-200,151,25,1,3.0,3.0,h
+S2425-G0121,4,06:58,WAS,115.0,ATL,100.0,C. Kispert,WAS,Kispert 26' 3PT Jump Shot (14 PTS) (Carrington 5 AST),Made Shot,Jump Shot,159,211,26,1,3.0,3.0,h
+S2425-G0121,4,03:22,WAS,,ATL,,C. Kispert,WAS,MISS Kispert 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,18,-5,2,1,2.0,0.0,h
+S2425-G0121,4,02:58,WAS,,ATL,,C. Kispert,WAS,MISS Kispert 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-85,234,25,1,3.0,0.0,h
+S2425-G0121,4,01:50,WAS,131.0,ATL,113.0,C. Kispert,WAS,Kispert 3' Cutting Layup Shot (16 PTS) (Valančiūnas 6 AST),Made Shot,Cutting Layup Shot,26,8,3,1,2.0,2.0,h
+S2425-G0073,1,06:26,WAS,,BOS,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,06:01,WAS,,BOS,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,1,04:21,WAS,,BOS,,C. Kispert,WAS,MISS Kispert 30' 3PT Jump Shot,Missed Shot,Jump Shot,-194,223,30,1,3.0,0.0,h
+S2425-G0073,1,01:29,WAS,,BOS,,C. Kispert,WAS,Kispert S.FOUL (P1.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,1,01:06,WAS,,BOS,,C. Kispert,WAS,Kispert S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,2,10:52,WAS,34.0,BOS,33.0,C. Kispert,WAS,Kispert 2' Driving Layup (2 PTS) (Valančiūnas 1 AST),Made Shot,Driving Layup Shot,-10,18,2,1,2.0,2.0,h
+S2425-G0073,2,10:33,WAS,36.0,BOS,33.0,C. Kispert,WAS,Kispert 7' Driving Floating Bank Jump Shot (4 PTS) (Poole 1 AST),Made Shot,Driving Floating Bank Jump Shot,64,25,7,1,2.0,2.0,h
+S2425-G0073,2,09:49,WAS,,BOS,,C. Kispert,WAS,Kispert Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0073,2,07:19,WAS,,BOS,,C. Kispert,WAS,SUB: Coulibaly FOR Kispert,Substitution,,0,0,0,0,,,h
+S2425-G0073,3,08:09,WAS,,BOS,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,3,07:17,WAS,,BOS,,C. Kispert,WAS,MISS Kispert 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,221,147,27,1,3.0,0.0,h
+S2425-G0073,3,07:10,WAS,,BOS,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,3,06:06,WAS,,BOS,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,4,10:18,WAS,,BOS,,C. Kispert,WAS,MISS Kispert 25' 3PT Jump Shot,Missed Shot,Jump Shot,223,117,25,1,3.0,0.0,h
+S2425-G0073,4,09:10,WAS,81.0,BOS,111.0,C. Kispert,WAS,Kispert 3' Driving Layup (6 PTS) (Valančiūnas 2 AST),Made Shot,Driving Layup Shot,-26,9,3,1,2.0,2.0,h
+S2425-G0073,4,07:28,WAS,,BOS,,C. Kispert,WAS,SUB: Carrington FOR Kispert,Substitution,,0,0,0,0,,,h
+S2425-G0090,1,05:07,WAS,,CLE,,C. Kispert,WAS,MISS Kispert 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-200,164,26,1,3.0,0.0,h
+S2425-G0090,1,04:58,WAS,,CLE,,C. Kispert,WAS,MISS Kispert 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,62,93,11,1,2.0,0.0,h
+S2425-G0090,1,04:29,WAS,19.0,CLE,21.0,C. Kispert,WAS,Kispert 3PT Jump Shot (3 PTS) (George 1 AST),Made Shot,Jump Shot,233,5,0,1,3.0,3.0,h
+S2425-G0090,1,02:02,WAS,,CLE,,C. Kispert,WAS,MISS Kispert 29' 3PT Jump Shot,Missed Shot,Jump Shot,157,247,29,1,3.0,0.0,h
+S2425-G0090,2,11:36,WAS,,CLE,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0090,2,07:35,WAS,,CLE,,C. Kispert,WAS,MISS Kispert 27' 3PT Jump Shot,Missed Shot,Jump Shot,-27,272,27,1,3.0,0.0,h
+S2425-G0090,2,05:40,WAS,,CLE,,C. Kispert,WAS,Kispert Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0090,2,05:13,WAS,,CLE,,C. Kispert,WAS,SUB: Sarr FOR Kispert,Substitution,,0,0,0,0,,,h
+S2425-G0090,3,05:20,WAS,,CLE,,C. Kispert,WAS,MISS Kispert 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-183,195,27,1,3.0,0.0,h
+S2425-G0090,3,03:53,WAS,66.0,CLE,82.0,C. Kispert,WAS,Kispert 5' Driving Layup (5 PTS) (Carrington 1 AST),Made Shot,Driving Layup Shot,-18,44,5,1,2.0,2.0,h
+S2425-G0090,3,03:25,WAS,68.0,CLE,84.0,C. Kispert,WAS,Kispert 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,9,29,3,1,2.0,2.0,h
+S2425-G0090,3,02:40,WAS,,CLE,,C. Kispert,WAS,Kispert P.FOUL (P1.T3) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2425-G0090,3,00:12.300000,WAS,81.0,CLE,95.0,C. Kispert,WAS,Kispert 28' 3PT Jump Shot (10 PTS) (George 3 AST),Made Shot,Jump Shot,186,207,28,1,3.0,3.0,h
+S2425-G0090,3,00:00.500000,WAS,,CLE,,C. Kispert,WAS,Kispert S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0090,4,06:13,WAS,,CLE,,C. Kispert,WAS,SUB: Davis FOR Kispert,Substitution,,0,0,0,0,,,h
+S2425-G0103,1,07:02,ATL,,WAS,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,1,06:48,ATL,,WAS,,C. Kispert,WAS,MISS Kispert 26' 3PT Jump Shot,Missed Shot,Jump Shot,36,253,26,1,3.0,0.0,v
+S2425-G0103,1,06:26,ATL,,WAS,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,1,06:04,ATL,,WAS,,C. Kispert,WAS,MISS Kispert 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-125,45,13,1,2.0,0.0,v
+S2425-G0103,1,03:32,ATL,,WAS,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,1,00:16.700000,ATL,,WAS,,C. Kispert,WAS,SUB: Coulibaly FOR Kispert,Substitution,,0,0,0,0,,,v
+S2425-G0103,2,10:28,ATL,33.0,WAS,27.0,C. Kispert,WAS,Kispert 4' Cutting Layup Shot (2 PTS) (Kuzma 3 AST),Made Shot,Cutting Layup Shot,-33,25,4,1,2.0,2.0,v
+S2425-G0103,2,09:23,ATL,,WAS,,C. Kispert,WAS,MISS Kispert 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,89,40,10,1,2.0,0.0,v
+S2425-G0103,2,08:38,ATL,,WAS,,C. Kispert,WAS,Kispert Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0103,2,08:36,ATL,,WAS,,C. Kispert,WAS,Kispert S.FOUL (P1.T3) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,2,08:24,ATL,,WAS,,C. Kispert,WAS,MISS Kispert 25' 3PT Jump Shot,Missed Shot,Jump Shot,-105,232,25,1,3.0,0.0,v
+S2425-G0103,2,07:40,ATL,,WAS,,C. Kispert,WAS,Kispert STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0103,2,05:24,ATL,,WAS,,C. Kispert,WAS,Kispert S.FOUL (P2.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,2,04:12,ATL,44.0,WAS,36.0,C. Kispert,WAS,Kispert 25' 3PT Jump Shot (5 PTS) (Poole 1 AST),Made Shot,Jump Shot,-104,229,25,1,3.0,3.0,v
+S2425-G0103,2,03:55,ATL,,WAS,,C. Kispert,WAS,Kispert P.FOUL (P3.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2425-G0103,2,02:59,ATL,48.0,WAS,39.0,C. Kispert,WAS,Kispert Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0103,2,02:59,ATL,48.0,WAS,40.0,C. Kispert,WAS,Kispert Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0103,2,02:30,ATL,,WAS,,C. Kispert,WAS,SUB: George FOR Kispert,Substitution,,0,0,0,0,,,v
+S2425-G0103,3,02:39,ATL,,WAS,,C. Kispert,WAS,MISS Kispert 25' 3PT Jump Shot,Missed Shot,Jump Shot,-12,252,25,1,3.0,0.0,v
+S2425-G0103,3,02:07,ATL,,WAS,,C. Kispert,WAS,MISS Kispert 25' 3PT Jump Shot,Missed Shot,Jump Shot,-34,247,25,1,3.0,0.0,v
+S2425-G0103,3,01:25,ATL,81.0,WAS,81.0,C. Kispert,WAS,Kispert 26' 3PT Jump Shot (10 PTS) (George 1 AST),Made Shot,Jump Shot,-37,253,26,1,3.0,3.0,v
+S2425-G0103,3,00:03.700000,ATL,83.0,WAS,84.0,C. Kispert,WAS,Kispert 25' 3PT Jump Shot (13 PTS) (Carrington 2 AST),Made Shot,Jump Shot,-181,176,25,1,3.0,3.0,v
+S2425-G0103,4,11:04,ATL,85.0,WAS,86.0,C. Kispert,WAS,Kispert Driving Layup (15 PTS) (Valančiūnas 3 AST),Made Shot,Driving Layup Shot,-1,1,0,1,2.0,2.0,v
+S2425-G0103,4,09:13,ATL,88.0,WAS,92.0,C. Kispert,WAS,Kispert 25' 3PT Jump Shot (18 PTS) (Kuzma 6 AST),Made Shot,Jump Shot,-227,102,25,1,3.0,3.0,v
+S2425-G0103,4,07:27,ATL,,WAS,,C. Kispert,WAS,MISS Kispert 25' 3PT Jump Shot,Missed Shot,Jump Shot,-29,247,25,1,3.0,0.0,v
+S2425-G0103,4,04:36,ATL,,WAS,,C. Kispert,WAS,Kispert S.FOUL (P4.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0103,4,04:10,ATL,101.0,WAS,110.0,C. Kispert,WAS,Kispert Running Dunk (20 PTS) (Poole 5 AST),Made Shot,Running Dunk Shot,-1,4,0,1,2.0,2.0,v
+S2425-G0103,4,01:25,ATL,,WAS,,C. Kispert,WAS,MISS Kispert 1' Driving Layup,Missed Shot,Driving Layup Shot,-7,7,1,1,2.0,0.0,v
+S2425-G0103,4,01:07,ATL,,WAS,,C. Kispert,WAS,Kispert REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0103,4,00:06.900000,ATL,,WAS,,C. Kispert,WAS,MISS Kispert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0103,4,00:06.900000,ATL,119.0,WAS,121.0,C. Kispert,WAS,Kispert Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v

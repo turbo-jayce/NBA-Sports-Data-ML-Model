@@ -1,0 +1,44 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0075,2,09:29,DEN,,OKC,,A. Mitchell,OKC,MISS Mitchell 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,54,106,12,1,2.0,0.0,v
+S2425-G0075,2,07:10,DEN,,OKC,,A. Mitchell,OKC,Mitchell Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0075,2,06:59,DEN,,OKC,,A. Mitchell,OKC,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0075,2,05:24,DEN,,OKC,,A. Mitchell,OKC,MISS Mitchell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-69,257,27,1,3.0,0.0,v
+S2425-G0075,2,04:45,DEN,,OKC,,A. Mitchell,OKC,SUB: Williams FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0075,4,00:52.400000,DEN,,OKC,,A. Mitchell,OKC,MISS Mitchell 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-20,22,3,1,2.0,0.0,v
+S2425-G0091,2,11:44,CHI,,OKC,,A. Mitchell,OKC,Mitchell STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0091,2,11:35,CHI,,OKC,,A. Mitchell,OKC,Mitchell P.FOUL (P1.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2425-G0091,2,11:03,CHI,,OKC,,A. Mitchell,OKC,MISS Mitchell 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-2,15,2,1,2.0,0.0,v
+S2425-G0091,2,10:46,CHI,,OKC,,A. Mitchell,OKC,MISS Mitchell 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,16,4,2,1,2.0,0.0,v
+S2425-G0091,2,09:36,CHI,,OKC,,A. Mitchell,OKC,Mitchell STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0091,2,08:56,CHI,,OKC,,A. Mitchell,OKC,Mitchell S.FOUL (P2.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2425-G0091,2,06:21,CHI,,OKC,,A. Mitchell,OKC,SUB: Dort FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0091,4,10:27,CHI,,OKC,,A. Mitchell,OKC,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0091,4,07:12,CHI,,OKC,,A. Mitchell,OKC,MISS Mitchell 3' Running Layup,Missed Shot,Running Layup Shot,-31,11,3,1,2.0,0.0,v
+S2425-G0091,4,07:01,CHI,,OKC,,A. Mitchell,OKC,SUB: Dieng FOR Mitchell,Substitution,,0,0,0,0,,,v
+S2425-G0091,4,02:15,CHI,88.0,OKC,110.0,A. Mitchell,OKC,Mitchell 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-4,9,1,1,2.0,2.0,v
+S2425-G0091,4,01:47,CHI,91.0,OKC,112.0,A. Mitchell,OKC,Mitchell 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,16,0,2,1,2.0,2.0,v
+S2425-G0091,4,01:21,CHI,,OKC,,A. Mitchell,OKC,Mitchell Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0100,2,10:52,OKC,,ATL,,A. Mitchell,OKC,MISS Mitchell 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-12,4,1,1,2.0,0.0,h
+S2425-G0100,2,08:44,OKC,,ATL,,A. Mitchell,OKC,Mitchell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0100,2,06:48,OKC,,ATL,,A. Mitchell,OKC,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,2,06:20,OKC,,ATL,,A. Mitchell,OKC,SUB: Wiggins FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0100,4,09:46,OKC,,ATL,,A. Mitchell,OKC,Mitchell P.FOUL (P1.T1) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2425-G0100,4,07:38,OKC,,ATL,,A. Mitchell,OKC,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,06:53,OKC,,ATL,,A. Mitchell,OKC,Mitchell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0100,4,06:16,OKC,,ATL,,A. Mitchell,OKC,SUB: Caruso FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0125,2,07:30,OKC,,SAS,,A. Mitchell,OKC,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,2,07:24,OKC,39.0,SAS,26.0,A. Mitchell,OKC,Mitchell 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-16,8,2,1,2.0,2.0,h
+S2425-G0125,2,06:24,OKC,45.0,SAS,26.0,A. Mitchell,OKC,Mitchell 28' 3PT Jump Shot (5 PTS) (Williams 4 AST),Made Shot,Jump Shot,-65,269,28,1,3.0,3.0,h
+S2425-G0125,2,04:19,OKC,,SAS,,A. Mitchell,OKC,SUB: Wallace FOR Mitchell,Substitution,,0,0,0,0,,,h
+S2425-G0125,3,02:15,OKC,79.0,SAS,70.0,A. Mitchell,OKC,Mitchell 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,36,6,4,1,2.0,2.0,h
+S2425-G0125,3,02:03,OKC,,SAS,,A. Mitchell,OKC,Mitchell STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0125,3,01:03,OKC,,SAS,,A. Mitchell,OKC,MISS Mitchell 6' Driving Layup,Missed Shot,Driving Layup Shot,-59,5,6,1,2.0,0.0,h
+S2425-G0125,4,11:34,OKC,,SAS,,A. Mitchell,OKC,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,4,09:38,OKC,84.0,SAS,75.0,A. Mitchell,OKC,Mitchell 4' Running Layup (9 PTS) (Williams 8 AST),Made Shot,Running Layup Shot,-40,8,4,1,2.0,2.0,h
+S2425-G0125,4,09:21,OKC,,SAS,,A. Mitchell,OKC,Mitchell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,4,08:39,OKC,,SAS,,A. Mitchell,OKC,Mitchell STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0125,4,08:09,OKC,87.0,SAS,77.0,A. Mitchell,OKC,Mitchell Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0125,4,08:09,OKC,,SAS,,A. Mitchell,OKC,MISS Mitchell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0125,4,07:47,OKC,,SAS,,A. Mitchell,OKC,Mitchell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0125,4,07:04,OKC,91.0,SAS,77.0,A. Mitchell,OKC,Mitchell 3' Layup (12 PTS),Made Shot,Layup Shot,-33,4,3,1,2.0,2.0,h
+S2425-G0125,4,05:52,OKC,,SAS,,A. Mitchell,OKC,SUB: Dieng FOR Mitchell,Substitution,,0,0,0,0,,,h

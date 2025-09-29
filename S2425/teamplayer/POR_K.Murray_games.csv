@@ -1,0 +1,63 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0127,1,03:11,LAC,,POR,,K. Murray,POR,Murray STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0127,1,02:23,LAC,,POR,,K. Murray,POR,MISS Murray 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-227,14,0,1,3.0,0.0,v
+S2425-G0127,1,00:12.100000,LAC,,POR,,K. Murray,POR,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,1,00:01.400000,LAC,,POR,,K. Murray,POR,Murray REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,1,00:00,LAC,26.0,POR,24.0,K. Murray,POR,Murray Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0127,2,11:45,LAC,,POR,,K. Murray,POR,Murray Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0127,2,08:35,LAC,36.0,POR,32.0,K. Murray,POR,Murray 27' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,129,239,27,1,3.0,3.0,v
+S2425-G0127,2,06:22,LAC,,POR,,K. Murray,POR,Murray L.B.FOUL (P1.T2) (C.Blair),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0127,2,06:05,LAC,,POR,,K. Murray,POR,Murray REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,2,04:35,LAC,,POR,,K. Murray,POR,Murray BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0127,2,04:35,LAC,,POR,,K. Murray,POR,Murray REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,2,02:56,LAC,,POR,,K. Murray,POR,SUB: Grant FOR Murray,Substitution,,0,0,0,0,,,v
+S2425-G0127,3,03:05,LAC,,POR,,K. Murray,POR,Murray REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,3,02:44,LAC,,POR,,K. Murray,POR,Murray REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,3,01:01,LAC,,POR,,K. Murray,POR,Murray STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0127,3,00:53,LAC,,POR,,K. Murray,POR,MISS Murray 2' Driving Layup,Missed Shot,Driving Layup Shot,2,22,2,1,2.0,0.0,v
+S2425-G0127,3,00:45.500000,LAC,,POR,,K. Murray,POR,Murray REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,3,00:02.400000,LAC,,POR,,K. Murray,POR,Murray REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0127,4,10:12,LAC,,POR,,K. Murray,POR,SUB: Simons FOR Murray,Substitution,,0,0,0,0,,,v
+S2425-G0072,1,03:28,POR,,GSW,,K. Murray,POR,Murray S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2425-G0072,1,02:35,POR,,GSW,,K. Murray,POR,MISS Murray 3PT Jump Shot,Missed Shot,Jump Shot,-225,11,0,1,3.0,0.0,h
+S2425-G0072,1,01:41,POR,,GSW,,K. Murray,POR,MISS Murray 1' Driving Layup,Missed Shot,Driving Layup Shot,12,6,1,1,2.0,0.0,h
+S2425-G0072,1,01:39,POR,,GSW,,K. Murray,POR,Murray REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0072,1,01:39,POR,19.0,GSW,18.0,K. Murray,POR,Murray Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0072,1,01:39,POR,,GSW,,K. Murray,POR,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0072,3,01:39,POR,,GSW,,K. Murray,POR,SUB: Walker FOR Murray,Substitution,,0,0,0,0,,,h
+S2425-G0072,4,05:17,POR,,GSW,,K. Murray,POR,Murray Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0072,4,03:48,POR,,GSW,,K. Murray,POR,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0072,4,03:48,POR,,GSW,,K. Murray,POR,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0072,4,03:16,POR,,GSW,,K. Murray,POR,SUB: Reath FOR Murray,Substitution,,0,0,0,0,,,h
+S2425-G0086,1,02:43,POR,,,,K. Murray,POR,MISS Murray 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-25,8,3,1,2.0,0.0,h
+S2425-G0086,1,02:30,POR,,,,K. Murray,POR,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0086,1,02:24,POR,,,,K. Murray,POR,MISS Murray 2' Running Layup,Missed Shot,Running Layup Shot,18,11,2,1,2.0,0.0,h
+S2425-G0086,1,02:02,POR,27.0,,13.0,K. Murray,POR,Murray 1' Running Dunk (2 PTS) (Simons 3 AST),Made Shot,Running Dunk Shot,-6,6,1,1,2.0,2.0,h
+S2425-G0086,1,00:55.800000,POR,,,,K. Murray,POR,Murray REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0086,2,07:36,POR,,,,K. Murray,POR,SUB: Simons FOR Murray,Substitution,,0,0,0,0,,,h
+S2425-G0086,3,02:08,POR,76.0,,68.0,K. Murray,POR,Murray 24' 3PT Pullup Jump Shot (5 PTS) (Henderson 6 AST),Made Shot,Pullup Jump shot,-232,64,24,1,3.0,3.0,h
+S2425-G0086,3,00:44.300000,POR,84.0,,71.0,K. Murray,POR,Murray 2' Running Dunk (7 PTS) (Avdija 5 AST),Made Shot,Running Dunk Shot,-15,2,2,1,2.0,2.0,h
+S2425-G0086,3,00:01.900000,POR,,,,K. Murray,POR,Murray REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0086,4,07:58,POR,,,,K. Murray,POR,Murray S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0086,4,07:58,POR,,,,K. Murray,POR,SUB: Simons FOR Murray,Substitution,,0,0,0,0,,,h
+S2425-G0099,1,02:35,POR,,,,K. Murray,POR,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0099,1,02:35,POR,,,,K. Murray,POR,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0099,1,02:07,POR,,,,K. Murray,POR,MISS Murray 3PT Jump Shot,Missed Shot,Jump Shot,229,19,0,1,3.0,0.0,h
+S2425-G0099,2,09:13,POR,,,,K. Murray,POR,SUB: Simons FOR Murray,Substitution,,0,0,0,0,,,h
+S2425-G0099,3,00:10.700000,POR,,,,K. Murray,POR,Murray Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0099,4,11:15,POR,,,,K. Murray,POR,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0099,4,11:12,POR,98.0,,77.0,K. Murray,POR,Murray 25' 3PT Running Jump Shot (3 PTS) (Henderson 5 AST),Made Shot,Running Jump Shot,224,112,25,1,3.0,3.0,h
+S2425-G0099,4,09:32,POR,,,,K. Murray,POR,SUB: Simons FOR Murray,Substitution,,0,0,0,0,,,h
+S2425-G0099,4,01:49,POR,,,,K. Murray,POR,Murray Out of Bounds - Bad Pass Turnover Turnover (P2.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0099,4,00:54.900000,POR,123.0,,103.0,K. Murray,POR,Murray 1' Running Dunk (5 PTS) (Banton 1 AST),Made Shot,Running Dunk Shot,-13,0,1,1,2.0,2.0,h
+S2425-G0112,1,04:27,SAC,,POR,,K. Murray,POR,Murray REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,1,02:32,SAC,,POR,,K. Murray,POR,MISS Murray 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,28,24,1,3.0,0.0,v
+S2425-G0112,2,09:10,SAC,28.0,POR,26.0,K. Murray,POR,Murray Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0112,2,09:10,SAC,28.0,POR,27.0,K. Murray,POR,Murray Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0112,2,04:52,SAC,,POR,,K. Murray,POR,MISS Murray 3PT Jump Shot,Missed Shot,Jump Shot,232,22,0,1,3.0,0.0,v
+S2425-G0112,2,04:29,SAC,,POR,,K. Murray,POR,Murray Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0112,2,04:10,SAC,42.0,POR,36.0,K. Murray,POR,Murray 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,9,8,1,1,2.0,2.0,v
+S2425-G0112,2,01:05,SAC,,POR,,K. Murray,POR,Murray REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0112,2,01:05,SAC,,POR,,K. Murray,POR,MISS Murray Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0112,3,04:27,SAC,,POR,,K. Murray,POR,MISS Murray 8' Driving Layup,Missed Shot,Driving Layup Shot,-76,25,8,1,2.0,0.0,v
+S2425-G0112,3,03:52,SAC,74.0,POR,63.0,K. Murray,POR,Murray 3PT Jump Shot (7 PTS) (Ayton 1 AST),Made Shot,Jump Shot,-228,-25,0,1,3.0,3.0,v

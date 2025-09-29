@@ -1,0 +1,95 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,11:38,DAL,,SAS,,J. Champagnie,SAS,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,223,2,0,1,3.0,0.0,v
+S2425-G0074,1,11:26,DAL,,SAS,,J. Champagnie,SAS,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,1,11:20,DAL,0.0,SAS,3.0,J. Champagnie,SAS,Champagnie 25' 3PT Jump Shot (3 PTS) (Paul 1 AST),Made Shot,Jump Shot,164,195,25,1,3.0,3.0,v
+S2425-G0074,1,10:12,DAL,,SAS,,J. Champagnie,SAS,MISS Champagnie 6' Driving Layup,Missed Shot,Driving Layup Shot,22,55,6,1,2.0,0.0,v
+S2425-G0074,1,07:53,DAL,7.0,SAS,10.0,J. Champagnie,SAS,Champagnie 3' Cutting Layup Shot (5 PTS) (Paul 2 AST),Made Shot,Cutting Layup Shot,26,12,3,1,2.0,2.0,v
+S2425-G0074,1,07:16,DAL,,SAS,,J. Champagnie,SAS,Champagnie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0074,1,06:42,DAL,,SAS,,J. Champagnie,SAS,Champagnie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,1,06:29,DAL,,SAS,,J. Champagnie,SAS,SUB: Jones FOR Champagnie,Substitution,,0,0,0,0,,,v
+S2425-G0074,2,09:57,DAL,,SAS,,J. Champagnie,SAS,Champagnie BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0074,2,09:34,DAL,,SAS,,J. Champagnie,SAS,Champagnie REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,08:48,DAL,,SAS,,J. Champagnie,SAS,Champagnie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,07:52,DAL,27.0,SAS,30.0,J. Champagnie,SAS,Champagnie 11' Pullup Jump Shot (7 PTS) (Wesley 1 AST),Made Shot,Pullup Jump shot,26,106,11,1,2.0,2.0,v
+S2425-G0074,2,06:27,DAL,30.0,SAS,36.0,J. Champagnie,SAS,Champagnie 24' 3PT Jump Shot (10 PTS) (Johnson 1 AST),Made Shot,Jump Shot,-228,65,24,1,3.0,3.0,v
+S2425-G0074,2,05:36,DAL,,SAS,,J. Champagnie,SAS,Champagnie REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,04:55,DAL,,SAS,,J. Champagnie,SAS,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,-15,258,26,1,3.0,0.0,v
+S2425-G0074,2,04:46,DAL,35.0,SAS,38.0,J. Champagnie,SAS,Champagnie 1' Driving Dunk (12 PTS),Made Shot,Driving Dunk Shot,-5,10,1,1,2.0,2.0,v
+S2425-G0074,2,04:35,DAL,,SAS,,J. Champagnie,SAS,SUB: Castle FOR Champagnie,Substitution,,0,0,0,0,,,v
+S2425-G0074,3,11:44,DAL,,SAS,,J. Champagnie,SAS,Champagnie REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,08:34,DAL,,SAS,,J. Champagnie,SAS,Champagnie Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0074,3,08:21,DAL,,SAS,,J. Champagnie,SAS,Champagnie Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0074,3,08:18,DAL,,SAS,,J. Champagnie,SAS,Champagnie S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2425-G0074,3,07:57,DAL,,SAS,,J. Champagnie,SAS,Champagnie STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0074,3,06:08,DAL,69.0,SAS,62.0,J. Champagnie,SAS,Champagnie 3PT Jump Shot (15 PTS) (Paul 7 AST),Made Shot,Jump Shot,-221,-4,0,1,3.0,3.0,v
+S2425-G0074,3,05:50,DAL,,SAS,,J. Champagnie,SAS,Champagnie REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,04:38,DAL,,SAS,,J. Champagnie,SAS,SUB: Jones FOR Champagnie,Substitution,,0,0,0,0,,,v
+S2425-G0074,3,01:24,DAL,,SAS,,J. Champagnie,SAS,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,-230,0,0,1,3.0,0.0,v
+S2425-G0074,3,00:57,DAL,,SAS,,J. Champagnie,SAS,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,-208,135,25,1,3.0,0.0,v
+S2425-G0074,4,07:03,DAL,,SAS,,J. Champagnie,SAS,Champagnie Out of Bounds - Bad Pass Turnover Turnover (P3.T18),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0074,4,06:16,DAL,108.0,SAS,90.0,J. Champagnie,SAS,Champagnie 25' 3PT Jump Shot (18 PTS) (Barnes 2 AST),Made Shot,Jump Shot,-136,205,25,1,3.0,3.0,v
+S2425-G0074,4,05:59,DAL,,SAS,,J. Champagnie,SAS,SUB: Bassey FOR Champagnie,Substitution,,0,0,0,0,,,v
+S2425-G0073,4,03:17,WAS,,BOS,,J. Champagnie,WAS,Champagnie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,4,01:55,WAS,,BOS,,J. Champagnie,WAS,Champagnie P.FOUL (P1.T4) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2425-G0073,4,01:52,WAS,,BOS,,J. Champagnie,WAS,Champagnie S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2425-G0073,4,01:01,WAS,,BOS,,J. Champagnie,WAS,Champagnie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0073,4,00:48.500000,WAS,,BOS,,J. Champagnie,WAS,Champagnie S.FOUL (P3.PN) (J.Reneau),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,1,11:40,SAS,,HOU,,J. Champagnie,SAS,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,141,224,26,1,3.0,0.0,h
+S2425-G0109,1,11:09,SAS,,HOU,,J. Champagnie,SAS,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,51,248,25,1,3.0,0.0,h
+S2425-G0109,1,06:38,SAS,7.0,HOU,16.0,J. Champagnie,SAS,Champagnie 1' Cutting Dunk Shot (2 PTS) (Collins 1 AST),Made Shot,Cutting Dunk Shot,-6,10,1,1,2.0,2.0,h
+S2425-G0109,1,06:16,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,1,04:33,SAS,,HOU,,J. Champagnie,SAS,SUB: Wesley FOR Champagnie,Substitution,,0,0,0,0,,,h
+S2425-G0109,2,06:36,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,2,06:22,SAS,,HOU,,J. Champagnie,SAS,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,228,53,0,1,3.0,0.0,h
+S2425-G0109,2,03:55,SAS,,HOU,,J. Champagnie,SAS,SUB: Castle FOR Champagnie,Substitution,,0,0,0,0,,,h
+S2425-G0109,3,11:55,SAS,,HOU,,J. Champagnie,SAS,Champagnie P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2425-G0109,3,11:30,SAS,,HOU,,J. Champagnie,SAS,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,-108,239,26,1,3.0,0.0,h
+S2425-G0109,3,11:18,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,11:17,SAS,48.0,HOU,62.0,J. Champagnie,SAS,Champagnie 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,222,16,0,1,3.0,3.0,h
+S2425-G0109,3,09:31,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,09:18,SAS,,HOU,,J. Champagnie,SAS,Champagnie STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0109,3,08:15,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,06:36,SAS,,HOU,,J. Champagnie,SAS,Champagnie S.FOUL (P2.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,3,05:24,SAS,,HOU,,J. Champagnie,SAS,SUB: Johnson FOR Champagnie,Substitution,,0,0,0,0,,,h
+S2425-G0109,4,06:06,SAS,,HOU,,J. Champagnie,SAS,Champagnie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0109,4,05:28,SAS,,HOU,,J. Champagnie,SAS,MISS Champagnie 24' 3PT Jump Shot,Missed Shot,Jump Shot,221,86,24,1,3.0,0.0,h
+S2425-G0109,4,03:48,SAS,,HOU,,J. Champagnie,SAS,SUB: Johnson FOR Champagnie,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,10:48,OKC,,SAS,,J. Champagnie,SAS,Champagnie STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0125,1,09:52,OKC,,SAS,,J. Champagnie,SAS,MISS Champagnie 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-47,17,5,1,2.0,0.0,v
+S2425-G0125,1,09:38,OKC,,SAS,,J. Champagnie,SAS,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,08:42,OKC,,SAS,,J. Champagnie,SAS,Champagnie Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,1,08:33,OKC,,SAS,,J. Champagnie,SAS,Champagnie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,06:53,OKC,,SAS,,J. Champagnie,SAS,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,-179,178,25,1,3.0,0.0,v
+S2425-G0125,1,06:44,OKC,,SAS,,J. Champagnie,SAS,SUB: Johnson FOR Champagnie,Substitution,,0,0,0,0,,,v
+S2425-G0125,2,08:47,OKC,,SAS,,J. Champagnie,SAS,MISS Champagnie 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,8,24,1,3.0,0.0,v
+S2425-G0125,2,07:39,OKC,,SAS,,J. Champagnie,SAS,Champagnie REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,07:19,OKC,,SAS,,J. Champagnie,SAS,Champagnie Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,2,06:56,OKC,,SAS,,J. Champagnie,SAS,SUB: Johnson FOR Champagnie,Substitution,,0,0,0,0,,,v
+S2425-G0125,3,10:59,OKC,,SAS,,J. Champagnie,SAS,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,229,-19,0,1,3.0,0.0,v
+S2425-G0125,3,10:32,OKC,63.0,SAS,47.0,J. Champagnie,SAS,Champagnie 3PT Jump Shot (3 PTS) (Barnes 1 AST),Made Shot,Jump Shot,-228,-19,0,1,3.0,3.0,v
+S2425-G0125,3,06:36,OKC,,SAS,,J. Champagnie,SAS,SUB: Johnson FOR Champagnie,Substitution,,0,0,0,0,,,v
+S2425-G0125,4,03:41,OKC,,SAS,,J. Champagnie,SAS,Champagnie Lost Ball Turnover (P3.T21),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0125,4,02:46,OKC,,SAS,,J. Champagnie,SAS,SUB: Wesley FOR Champagnie,Substitution,,0,0,0,0,,,v
+S2425-G0094,1,10:40,SAS,,HOU,,J. Champagnie,SAS,MISS Champagnie 2' Driving Layup,Missed Shot,Driving Layup Shot,11,14,2,1,2.0,0.0,h
+S2425-G0094,1,10:37,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,10:37,SAS,2.0,HOU,3.0,J. Champagnie,SAS,Champagnie Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0094,1,10:17,SAS,5.0,HOU,3.0,J. Champagnie,SAS,Champagnie 26' 3PT Running Jump Shot (5 PTS) (Paul 1 AST),Made Shot,Running Jump Shot,76,246,26,1,3.0,3.0,h
+S2425-G0094,1,06:03,SAS,,HOU,,J. Champagnie,SAS,SUB: Johnson FOR Champagnie,Substitution,,0,0,0,0,,,h
+S2425-G0094,2,06:20,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,06:20,SAS,,HOU,,J. Champagnie,SAS,Champagnie Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0094,2,05:14,SAS,49.0,HOU,38.0,J. Champagnie,SAS,Champagnie Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,2,05:14,SAS,50.0,HOU,38.0,J. Champagnie,SAS,Champagnie Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,2,03:41,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,02:45,SAS,,HOU,,J. Champagnie,SAS,SUB: Paul FOR Champagnie,Substitution,,0,0,0,0,,,h
+S2425-G0094,3,11:46,SAS,,HOU,,J. Champagnie,SAS,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,-232,-5,0,1,3.0,0.0,h
+S2425-G0094,3,09:53,SAS,,HOU,,J. Champagnie,SAS,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,-232,-9,0,1,3.0,0.0,h
+S2425-G0094,3,09:46,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,09:42,SAS,,HOU,,J. Champagnie,SAS,MISS Champagnie Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0094,3,09:38,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,07:05,SAS,,HOU,,J. Champagnie,SAS,SUB: Castle FOR Champagnie,Substitution,,0,0,0,0,,,h
+S2425-G0094,3,01:10,SAS,,HOU,,J. Champagnie,SAS,Champagnie S.FOUL (P1.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2425-G0094,4,11:19,SAS,,HOU,,J. Champagnie,SAS,Champagnie REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,4,11:18,SAS,,HOU,,J. Champagnie,SAS,Champagnie Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0094,4,10:57,SAS,90.0,HOU,71.0,J. Champagnie,SAS,Champagnie 25' 3PT Jump Shot (10 PTS) (Castle 3 AST),Made Shot,Jump Shot,210,142,25,1,3.0,3.0,h
+S2425-G0094,4,07:24,SAS,95.0,HOU,86.0,J. Champagnie,SAS,Champagnie 1' Layup (12 PTS),Made Shot,Layup Shot,5,8,1,1,2.0,2.0,h
+S2425-G0094,4,06:52,SAS,,HOU,,J. Champagnie,SAS,SUB: Castle FOR Champagnie,Substitution,,0,0,0,0,,,h

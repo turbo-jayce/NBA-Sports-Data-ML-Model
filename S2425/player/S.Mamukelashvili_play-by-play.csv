@@ -1,0 +1,20 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,4,05:27,DAL,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili S.FOUL (P1.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0074,4,05:24,DAL,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,4,03:59,DAL,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,4,03:09,DAL,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,4,02:57,DAL,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili Traveling Turnover (P1.T19),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0074,4,00:32.500000,DAL,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0125,3,01:01,OKC,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,3,00:32.500000,OKC,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,3,00:16.800000,OKC,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili Lost Ball Turnover (P1.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0125,4,09:24,OKC,,SAS,,S. Mamukelashvili,SAS,MISS Mamukelashvili 25' 3PT Jump Shot,Missed Shot,Jump Shot,223,123,25,1,3.0,0.0,v
+S2425-G0125,4,09:02,OKC,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili Offensive Charge Foul (P1) (T.Washington),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0125,4,09:02,OKC,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0125,4,08:09,OKC,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili S.FOUL (P2.T1) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0125,4,08:09,OKC,,SAS,,S. Mamukelashvili,SAS,SUB: Johnson FOR Mamukelashvili,Substitution,,0,0,0,0,,,v
+S2425-G0125,4,02:28,OKC,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,4,01:22,OKC,105.0,SAS,90.0,S. Mamukelashvili,SAS,Mamukelashvili 24' 3PT Jump Shot (3 PTS) (Cissoko 1 AST),Made Shot,Jump Shot,237,-11,24,1,3.0,3.0,v
+S2425-G0125,4,00:48.600000,OKC,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,4,00:47.900000,OKC,,SAS,,S. Mamukelashvili,SAS,MISS Mamukelashvili 2' Putback Layup,Missed Shot,Putback Layup Shot,-7,21,2,1,2.0,0.0,v
+S2425-G0125,4,00:29.200000,OKC,,SAS,,S. Mamukelashvili,SAS,Mamukelashvili REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v

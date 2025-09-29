@@ -1,0 +1,97 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,04:11,DAL,,SAS,,K. Johnson,SAS,Johnson Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0074,1,03:20,DAL,,SAS,,K. Johnson,SAS,Johnson Step Out of Bounds Turnover (P2.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0074,1,00:29,DAL,,SAS,,K. Johnson,SAS,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,225,-10,0,1,3.0,0.0,v
+S2425-G0074,2,09:50,DAL,,SAS,,K. Johnson,SAS,SUB: Wesley FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0074,2,06:00,DAL,,SAS,,K. Johnson,SAS,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,-234,10,0,1,3.0,0.0,v
+S2425-G0074,2,05:29,DAL,,SAS,,K. Johnson,SAS,MISS Johnson 3' Driving Layup,Missed Shot,Driving Layup Shot,26,10,3,1,2.0,0.0,v
+S2425-G0074,2,02:31,DAL,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,02:06,DAL,42.0,SAS,45.0,K. Johnson,SAS,Johnson 3PT Jump Shot (3 PTS) (Paul 3 AST),Made Shot,Jump Shot,228,2,0,1,3.0,3.0,v
+S2425-G0074,2,01:53,DAL,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,00:50.500000,DAL,,SAS,,K. Johnson,SAS,MISS Johnson 5' Driving Layup,Missed Shot,Driving Layup Shot,50,19,5,1,2.0,0.0,v
+S2425-G0074,3,03:40,DAL,74.0,SAS,72.0,K. Johnson,SAS,Johnson 10' Driving Floating Jump Shot (5 PTS) (Collins 1 AST),Made Shot,Driving Floating Jump Shot,78,55,10,1,2.0,2.0,v
+S2425-G0074,3,02:10,DAL,83.0,SAS,77.0,K. Johnson,SAS,Johnson 6' Driving Floating Bank Jump Shot (7 PTS) (Castle 2 AST),Made Shot,Driving Floating Bank Jump Shot,48,36,6,1,2.0,2.0,v
+S2425-G0074,3,01:33,DAL,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,01:06,DAL,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,00:32.100000,DAL,,SAS,,K. Johnson,SAS,MISS Johnson 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,53,42,7,1,2.0,0.0,v
+S2425-G0074,4,09:26,DAL,,SAS,,K. Johnson,SAS,MISS Johnson 7' Driving Layup,Missed Shot,Driving Layup Shot,66,30,7,1,2.0,0.0,v
+S2425-G0074,4,08:00,DAL,,SAS,,K. Johnson,SAS,SUB: Sochan FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0109,2,10:21,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,2,10:01,SAS,21.0,HOU,34.0,K. Johnson,SAS,Johnson 8' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,71,26,8,1,2.0,2.0,h
+S2425-G0109,2,09:38,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,2,06:45,SAS,,HOU,,K. Johnson,SAS,Johnson P.FOUL (P1.T2) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2425-G0109,2,06:45,SAS,,HOU,,K. Johnson,SAS,SUB: Collins FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0109,2,00:06.100000,SAS,,HOU,,K. Johnson,SAS,Jump Ball Johnson vs. Adams: Tip to Champagnie,Jump Ball,,0,0,0,0,,,h
+S2425-G0109,2,00:00,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-77,243,25,1,3.0,0.0,h
+S2425-G0109,3,05:11,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-5,64,6,1,2.0,0.0,h
+S2425-G0109,3,04:36,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-207,163,26,1,3.0,0.0,h
+S2425-G0109,3,03:41,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,200,25,1,3.0,0.0,h
+S2425-G0109,3,01:55,SAS,67.0,HOU,83.0,K. Johnson,SAS,Johnson 1' Driving Layup (4 PTS) (Wesley 1 AST),Made Shot,Driving Layup Shot,-2,8,1,1,2.0,2.0,h
+S2425-G0109,3,01:12,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,6,73,7,1,2.0,0.0,h
+S2425-G0109,3,01:12,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,01:12,SAS,69.0,HOU,85.0,K. Johnson,SAS,Johnson Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0109,3,01:12,SAS,,HOU,,K. Johnson,SAS,MISS Johnson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0109,3,00:01.600000,SAS,,HOU,,K. Johnson,SAS,Jump Ball Johnson vs. VanVleet: Tip to Branham,Jump Ball,,0,0,0,0,,,h
+S2425-G0109,4,09:07,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,07:40,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,140,204,25,1,3.0,0.0,h
+S2425-G0109,4,07:15,SAS,,HOU,,K. Johnson,SAS,SUB: Barnes FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0109,4,02:13,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,01:44,SAS,,HOU,,K. Johnson,SAS,Johnson S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0109,4,01:35,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 1' Driving Layup,Missed Shot,Driving Layup Shot,-5,11,1,1,2.0,0.0,h
+S2425-G0109,4,01:01,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,-227,4,0,1,3.0,0.0,h
+S2425-G0125,1,05:14,OKC,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,04:59,OKC,,SAS,,K. Johnson,SAS,Johnson Backcourt Turnover (P1.T5),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2425-G0125,1,03:37,OKC,23.0,SAS,15.0,K. Johnson,SAS,Johnson 4' Layup (2 PTS),Made Shot,Layup Shot,39,10,4,1,2.0,2.0,v
+S2425-G0125,1,03:22,OKC,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,02:10,OKC,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,01:35,OKC,,SAS,,K. Johnson,SAS,Johnson L.B.FOUL (P1.T2) (T.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0125,1,00:01.200000,OKC,,SAS,,K. Johnson,SAS,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,-234,-10,0,1,3.0,0.0,v
+S2425-G0125,2,10:51,OKC,,SAS,,K. Johnson,SAS,Johnson Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,2,09:21,OKC,31.0,SAS,24.0,K. Johnson,SAS,Johnson 7' Driving Layup (4 PTS) (Castle 1 AST),Made Shot,Driving Layup Shot,61,37,7,1,2.0,2.0,v
+S2425-G0125,2,08:13,OKC,,SAS,,K. Johnson,SAS,SUB: Paul FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0125,2,06:48,OKC,,SAS,,K. Johnson,SAS,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,175,177,25,1,3.0,0.0,v
+S2425-G0125,2,04:41,OKC,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,03:48,OKC,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,03:48,OKC,,SAS,,K. Johnson,SAS,MISS Johnson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0125,2,02:52,OKC,,SAS,,K. Johnson,SAS,Johnson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0125,2,02:31,OKC,,SAS,,K. Johnson,SAS,MISS Johnson 2' Layup,Missed Shot,Layup Shot,15,14,2,1,2.0,0.0,v
+S2425-G0125,2,00:01,OKC,,SAS,,K. Johnson,SAS,Johnson STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0125,2,00:00.700000,OKC,,SAS,,K. Johnson,SAS,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,196,156,25,1,3.0,0.0,v
+S2425-G0125,3,06:28,OKC,,SAS,,K. Johnson,SAS,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,80,25,1,3.0,0.0,v
+S2425-G0125,3,05:07,OKC,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,3,02:33,OKC,77.0,SAS,70.0,K. Johnson,SAS,Johnson 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,-185,172,25,1,3.0,3.0,v
+S2425-G0125,3,00:50.500000,OKC,,SAS,,K. Johnson,SAS,Johnson Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,3,00:01.400000,OKC,,SAS,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,4,06:06,OKC,93.0,SAS,81.0,K. Johnson,SAS,Johnson 2' Driving Layup (9 PTS) (Sochan 4 AST),Made Shot,Driving Layup Shot,13,17,2,1,2.0,2.0,v
+S2425-G0125,4,05:11,OKC,,SAS,,K. Johnson,SAS,MISS Johnson 5' Driving Layup,Missed Shot,Driving Layup Shot,44,11,5,1,2.0,0.0,v
+S2425-G0125,4,02:46,OKC,,SAS,,K. Johnson,SAS,SUB: Cissoko FOR Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0094,1,04:09,SAS,28.0,HOU,22.0,K. Johnson,SAS,Johnson 3PT Jump Shot (3 PTS) (Wesley 1 AST),Made Shot,Jump Shot,-224,-17,0,1,3.0,3.0,h
+S2425-G0094,1,03:45,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,03:01,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-43,52,7,1,2.0,0.0,h
+S2425-G0094,1,02:35,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 4' Layup,Missed Shot,Layup Shot,-38,11,4,1,2.0,0.0,h
+S2425-G0094,1,02:33,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,02:32,SAS,31.0,HOU,24.0,K. Johnson,SAS,Johnson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,1,02:32,SAS,32.0,HOU,24.0,K. Johnson,SAS,Johnson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,2,11:21,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,10:54,SAS,,HOU,,K. Johnson,SAS,Johnson S.FOUL (P1.T1) (B.Haskill),Foul,Shooting,0,0,0,0,,,h
+S2425-G0094,2,10:51,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,07:27,SAS,,HOU,,K. Johnson,SAS,Johnson L.B.FOUL (P2.T2) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0094,2,07:08,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,06:57,SAS,,HOU,,K. Johnson,SAS,SUB: Sochan FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0094,2,01:37,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,-228,3,0,1,3.0,0.0,h
+S2425-G0094,3,06:18,SAS,69.0,HOU,56.0,K. Johnson,SAS,Johnson 2' Driving Layup (7 PTS) (Sochan 2 AST),Made Shot,Driving Layup Shot,-22,7,2,1,2.0,2.0,h
+S2425-G0094,3,06:18,SAS,,HOU,,K. Johnson,SAS,MISS Johnson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0094,3,04:53,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,8,2,1,2.0,0.0,h
+S2425-G0094,3,03:55,SAS,74.0,HOU,60.0,K. Johnson,SAS,Johnson 1' Cutting Finger Roll Layup Shot (9 PTS) (Sochan 3 AST),Made Shot,Cutting Finger Roll Layup Shot,6,6,1,1,2.0,2.0,h
+S2425-G0094,3,03:55,SAS,75.0,HOU,60.0,K. Johnson,SAS,Johnson Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0094,3,02:53,SAS,78.0,HOU,61.0,K. Johnson,SAS,Johnson 1' Running Alley Oop Dunk Shot (12 PTS) (Branham 2 AST),Made Shot,Running Alley Oop Dunk Shot,-7,6,1,1,2.0,2.0,h
+S2425-G0094,3,01:23,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,4,09:58,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,50,24,1,3.0,0.0,h
+S2425-G0094,4,09:05,SAS,93.0,HOU,77.0,K. Johnson,SAS,Johnson 1' Running Layup (14 PTS) (Paul 8 AST),Made Shot,Running Layup Shot,10,6,1,1,2.0,2.0,h
+S2425-G0094,4,08:25,SAS,,HOU,,K. Johnson,SAS,SUB: Collins FOR Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,03:04,SAS,,HOU,,K. Johnson,SAS,Johnson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0094,4,02:51,SAS,,HOU,,K. Johnson,SAS,MISS Johnson 3' Driving Layup,Missed Shot,Driving Layup Shot,-6,25,3,1,2.0,0.0,h
+S2425-G0094,4,00:47.500000,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,4,00:11.600000,SAS,107.0,HOU,104.0,K. Johnson,SAS,Johnson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,4,00:11.600000,SAS,108.0,HOU,104.0,K. Johnson,SAS,Johnson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,4,00:01,SAS,,HOU,,K. Johnson,SAS,Johnson REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h

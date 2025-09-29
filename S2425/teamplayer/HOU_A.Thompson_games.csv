@@ -1,0 +1,93 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0068,1,03:36,HOU,17.0,CHA,12.0,A. Thompson,HOU,Thompson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0068,1,03:36,HOU,18.0,CHA,12.0,A. Thompson,HOU,Thompson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0068,1,03:17,HOU,,CHA,,A. Thompson,HOU,Thompson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0068,1,02:48,HOU,,CHA,,A. Thompson,HOU,Thompson S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0068,1,01:53,HOU,23.0,CHA,19.0,A. Thompson,HOU,Thompson 3' Cutting Dunk Shot (4 PTS) (Landale 1 AST),Made Shot,Cutting Dunk Shot,20,18,3,1,2.0,2.0,h
+S2425-G0068,1,01:28,HOU,26.0,CHA,21.0,A. Thompson,HOU,Thompson 3PT Jump Shot (7 PTS) (Landale 2 AST),Made Shot,Jump Shot,-233,20,0,1,3.0,3.0,h
+S2425-G0068,1,01:04,HOU,,CHA,,A. Thompson,HOU,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0068,1,00:50.800000,HOU,,CHA,,A. Thompson,HOU,MISS Thompson 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,188,19,1,2.0,0.0,h
+S2425-G0068,2,11:04,HOU,,CHA,,A. Thompson,HOU,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0068,2,10:03,HOU,,CHA,,A. Thompson,HOU,MISS Thompson 9' Driving Layup,Missed Shot,Driving Layup Shot,70,49,9,1,2.0,0.0,h
+S2425-G0068,2,09:36,HOU,33.0,CHA,27.0,A. Thompson,HOU,Thompson 3' Running Dunk (9 PTS) (Eason 1 AST),Made Shot,Running Dunk Shot,20,17,3,1,2.0,2.0,h
+S2425-G0068,2,08:31,HOU,38.0,CHA,30.0,A. Thompson,HOU,Thompson 7' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,-10,65,7,1,2.0,2.0,h
+S2425-G0068,2,08:06,HOU,,CHA,,A. Thompson,HOU,MISS Thompson 12' Floating Jump Shot,Missed Shot,Floating Jump shot,5,117,12,1,2.0,0.0,h
+S2425-G0068,2,07:46,HOU,,CHA,,A. Thompson,HOU,SUB: Brooks FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0068,2,00:59.300000,HOU,60.0,CHA,44.0,A. Thompson,HOU,Thompson 4' Cutting Layup Shot (13 PTS) (VanVleet 3 AST),Made Shot,Cutting Layup Shot,-17,33,4,1,2.0,2.0,h
+S2425-G0068,2,00:01,HOU,,CHA,,A. Thompson,HOU,MISS Thompson 3PT Jump Shot,Missed Shot,Jump Shot,-233,8,0,1,3.0,0.0,h
+S2425-G0068,3,05:19,HOU,,CHA,,A. Thompson,HOU,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0068,3,01:07,HOU,,CHA,,A. Thompson,HOU,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0068,3,00:19.200000,HOU,,CHA,,A. Thompson,HOU,MISS Thompson 11' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,29,104,11,1,2.0,0.0,h
+S2425-G0068,3,00:07.800000,HOU,,CHA,,A. Thompson,HOU,Thompson S.FOUL (P2.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0068,3,00:02.200000,HOU,,CHA,,A. Thompson,HOU,MISS Thompson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-99,130,16,1,2.0,0.0,h
+S2425-G0068,4,04:52,HOU,,CHA,,A. Thompson,HOU,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0068,4,04:52,HOU,,CHA,,A. Thompson,HOU,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0068,4,04:03,HOU,,CHA,,A. Thompson,HOU,Jump Ball Thompson vs. Williams: Tip to Curry,Jump Ball,,0,0,0,0,,,h
+S2425-G0068,4,01:40,HOU,,CHA,,A. Thompson,HOU,SUB: Sengun FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0068,4,00:06.600000,HOU,,CHA,,A. Thompson,HOU,Thompson Personal Take Foul (P3.PN) (R.Hussey),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0068,4,00:06.600000,HOU,,CHA,,A. Thompson,HOU,SUB: Sengun FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0068,4,00:03.700000,HOU,,CHA,,A. Thompson,HOU,SUB: Sengun FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0109,1,05:04,SAS,,HOU,,A. Thompson,HOU,MISS Thompson 2' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-17,7,2,1,2.0,0.0,v
+S2425-G0109,1,04:52,SAS,,HOU,,A. Thompson,HOU,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,1,03:12,SAS,,HOU,,A. Thompson,HOU,Thompson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0109,1,00:46.500000,SAS,,HOU,,A. Thompson,HOU,Thompson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0109,1,00:36,SAS,15.0,HOU,27.0,A. Thompson,HOU,Thompson 3PT Jump Shot (3 PTS) (VanVleet 4 AST),Made Shot,Jump Shot,-225,21,0,1,3.0,3.0,v
+S2425-G0109,1,00:23.600000,SAS,,HOU,,A. Thompson,HOU,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,1,00:09.700000,SAS,,HOU,,A. Thompson,HOU,SUB: Ja. Green FOR Thompson,Substitution,,0,0,0,0,,,v
+S2425-G0109,2,11:40,SAS,15.0,HOU,30.0,A. Thompson,HOU,Thompson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0109,2,11:40,SAS,15.0,HOU,31.0,A. Thompson,HOU,Thompson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0109,2,11:21,SAS,,HOU,,A. Thompson,HOU,Thompson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0109,2,07:28,SAS,,HOU,,A. Thompson,HOU,MISS Thompson 7' Floating Jump Shot,Missed Shot,Floating Jump shot,2,69,7,1,2.0,0.0,v
+S2425-G0109,2,07:06,SAS,,HOU,,A. Thompson,HOU,Thompson Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0109,2,06:45,SAS,,HOU,,A. Thompson,HOU,SUB: Sheppard FOR Thompson,Substitution,,0,0,0,0,,,v
+S2425-G0109,3,05:08,SAS,,HOU,,A. Thompson,HOU,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0109,3,04:58,SAS,58.0,HOU,76.0,A. Thompson,HOU,Thompson 12' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,72,98,12,1,2.0,2.0,v
+S2425-G0109,3,03:37,SAS,,HOU,,A. Thompson,HOU,Thompson P.FOUL (P1.T3) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2425-G0109,3,02:35,SAS,,HOU,,A. Thompson,HOU,Thompson Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0109,3,01:12,SAS,,HOU,,A. Thompson,HOU,SUB: Brooks FOR Thompson,Substitution,,0,0,0,0,,,v
+S2425-G0109,4,07:06,SAS,,HOU,,A. Thompson,HOU,Thompson P.FOUL (P2.T4) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2425-G0109,4,06:52,SAS,,HOU,,A. Thompson,HOU,MISS Thompson 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-1,11,1,1,2.0,0.0,v
+S2425-G0109,4,06:22,SAS,,HOU,,A. Thompson,HOU,SUB: Sengun FOR Thompson,Substitution,,0,0,0,0,,,v
+S2425-G0082,1,04:01,HOU,25.0,MEM,24.0,A. Thompson,HOU,Thompson 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,9,16,2,1,2.0,2.0,h
+S2425-G0082,1,02:44,HOU,,MEM,,A. Thompson,HOU,Thompson P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2425-G0082,1,02:25,HOU,,MEM,,A. Thompson,HOU,Thompson Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0082,1,02:16,HOU,,MEM,,A. Thompson,HOU,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0082,2,11:46,HOU,,MEM,,A. Thompson,HOU,Thompson Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0082,2,11:09,HOU,,MEM,,A. Thompson,HOU,Thompson Out of Bounds - Bad Pass Turnover Turnover (P3.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0082,2,10:10,HOU,,MEM,,A. Thompson,HOU,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0082,2,10:10,HOU,,MEM,,A. Thompson,HOU,Thompson Lost Ball Turnover (P4.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0082,2,09:17,HOU,,MEM,,A. Thompson,HOU,Thompson Backcourt Turnover (P5.T7),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2425-G0082,2,08:58,HOU,,MEM,,A. Thompson,HOU,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0082,2,08:41,HOU,,MEM,,A. Thompson,HOU,SUB: Sengun FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0082,2,01:21,HOU,,MEM,,A. Thompson,HOU,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0082,2,01:21,HOU,,MEM,,A. Thompson,HOU,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0082,3,08:00,HOU,,MEM,,A. Thompson,HOU,Thompson Offensive Charge Foul (P2) (S.Corbin),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0082,3,08:00,HOU,,MEM,,A. Thompson,HOU,Thompson Offensive Foul Turnover (P6.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0082,3,07:19,HOU,68.0,MEM,76.0,A. Thompson,HOU,Thompson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0082,3,07:19,HOU,69.0,MEM,76.0,A. Thompson,HOU,Thompson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0082,3,03:58,HOU,83.0,MEM,76.0,A. Thompson,HOU,Thompson 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,-1,6,1,1,2.0,2.0,h
+S2425-G0082,3,03:58,HOU,84.0,MEM,76.0,A. Thompson,HOU,Thompson Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0082,3,03:48,HOU,,MEM,,A. Thompson,HOU,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0082,3,03:33,HOU,,MEM,,A. Thompson,HOU,MISS Thompson 3PT Jump Shot,Missed Shot,Jump Shot,228,2,0,1,3.0,0.0,h
+S2425-G0082,3,03:01,HOU,,MEM,,A. Thompson,HOU,Thompson Bad Pass Turnover (P7.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0082,3,00:32.400000,HOU,,MEM,,A. Thompson,HOU,Thompson S.FOUL (P3.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2425-G0082,3,00:18.500000,HOU,97.0,MEM,83.0,A. Thompson,HOU,Thompson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0082,3,00:18.500000,HOU,98.0,MEM,83.0,A. Thompson,HOU,Thompson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0082,4,08:39,HOU,,MEM,,A. Thompson,HOU,Thompson REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0082,4,08:26,HOU,,MEM,,A. Thompson,HOU,SUB: Brooks FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0082,4,02:38,HOU,,MEM,,A. Thompson,HOU,Thompson Step Out of Bounds Turnover (P8.T18),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0082,4,02:13,HOU,,MEM,,A. Thompson,HOU,SUB: Holiday FOR Thompson,Substitution,,0,0,0,0,,,h
+S2425-G0094,1,03:48,SAS,,HOU,,A. Thompson,HOU,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,186,164,25,1,3.0,0.0,v
+S2425-G0094,1,03:07,SAS,,HOU,,A. Thompson,HOU,MISS Thompson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-4,75,8,1,2.0,0.0,v
+S2425-G0094,1,02:32,SAS,,HOU,,A. Thompson,HOU,Thompson S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2425-G0094,2,07:27,SAS,,HOU,,A. Thompson,HOU,SUB: Brooks FOR Thompson,Substitution,,0,0,0,0,,,v
+S2425-G0094,2,02:29,SAS,,HOU,,A. Thompson,HOU,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0094,3,04:52,SAS,,HOU,,A. Thompson,HOU,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0094,3,03:38,SAS,,HOU,,A. Thompson,HOU,MISS Thompson 3PT Jump Shot,Missed Shot,Jump Shot,229,0,0,1,3.0,0.0,v
+S2425-G0094,3,03:29,SAS,,HOU,,A. Thompson,HOU,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0094,3,03:27,SAS,76.0,HOU,61.0,A. Thompson,HOU,Thompson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0094,3,03:27,SAS,,HOU,,A. Thompson,HOU,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0094,3,02:58,SAS,,HOU,,A. Thompson,HOU,Thompson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0094,3,02:30,SAS,,HOU,,A. Thompson,HOU,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0094,3,00:53.800000,SAS,,HOU,,A. Thompson,HOU,Thompson S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2425-G0094,4,00:11.600000,SAS,,HOU,,A. Thompson,HOU,SUB: Ja. Green FOR Thompson,Substitution,,0,0,0,0,,,v

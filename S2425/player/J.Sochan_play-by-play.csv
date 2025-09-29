@@ -1,0 +1,157 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,10:37,DAL,0.0,SAS,6.0,J. Sochan,SAS,Sochan 26' 3PT Jump Shot (3 PTS) (Barnes 1 AST),Made Shot,Jump Shot,-163,197,26,1,3.0,3.0,v
+S2425-G0074,1,09:31,DAL,,SAS,,J. Sochan,SAS,MISS Sochan 3PT Jump Shot,Missed Shot,Jump Shot,-233,12,0,1,3.0,0.0,v
+S2425-G0074,1,06:17,DAL,,SAS,,J. Sochan,SAS,Sochan Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0074,1,05:53,DAL,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,1,04:23,DAL,,SAS,,J. Sochan,SAS,Sochan S.FOUL (P1.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0074,1,03:20,DAL,,SAS,,J. Sochan,SAS,SUB: Castle FOR Sochan,Substitution,,0,0,0,0,,,v
+S2425-G0074,2,09:50,DAL,22.0,SAS,23.0,J. Sochan,SAS,Sochan Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,2,09:50,DAL,22.0,SAS,24.0,J. Sochan,SAS,Sochan Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,2,09:18,DAL,22.0,SAS,26.0,J. Sochan,SAS,Sochan 1' Cutting Layup Shot (7 PTS) (Champagnie 1 AST),Made Shot,Cutting Layup Shot,1,5,1,1,2.0,2.0,v
+S2425-G0074,2,09:05,DAL,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,08:50,DAL,,SAS,,J. Sochan,SAS,MISS Sochan 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,2,62,6,1,2.0,0.0,v
+S2425-G0074,2,06:57,DAL,,SAS,,J. Sochan,SAS,Sochan P.FOUL (P2.T2) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2425-G0074,2,05:59,DAL,,SAS,,J. Sochan,SAS,SUB: Barnes FOR Sochan,Substitution,,0,0,0,0,,,v
+S2425-G0074,2,01:16,DAL,44.0,SAS,49.0,J. Sochan,SAS,Sochan 1' Alley Oop Layup (9 PTS) (Wembanyama 1 AST),Made Shot,Alley Oop Layup shot,6,7,1,1,2.0,2.0,v
+S2425-G0074,2,00:18.900000,DAL,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,10:53,DAL,50.0,SAS,50.0,J. Sochan,SAS,Sochan Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,10:53,DAL,50.0,SAS,51.0,J. Sochan,SAS,Sochan Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,09:15,DAL,,SAS,,J. Sochan,SAS,Sochan Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0074,3,08:29,DAL,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,3,08:10,DAL,,SAS,,J. Sochan,SAS,Sochan Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0074,3,06:51,DAL,69.0,SAS,57.0,J. Sochan,SAS,Sochan 2' Layup (13 PTS) (Champagnie 2 AST),Made Shot,Layup Shot,-18,16,2,1,2.0,2.0,v
+S2425-G0074,3,06:48,DAL,,SAS,,J. Sochan,SAS,Sochan P.FOUL (P3.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2425-G0074,3,06:28,DAL,69.0,SAS,59.0,J. Sochan,SAS,Sochan 1' Running Dunk (15 PTS) (Paul 6 AST),Made Shot,Running Dunk Shot,7,5,1,1,2.0,2.0,v
+S2425-G0074,3,05:25,DAL,,SAS,,J. Sochan,SAS,MISS Sochan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0074,3,05:25,DAL,,SAS,,J. Sochan,SAS,MISS Sochan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0074,3,05:11,DAL,,SAS,,J. Sochan,SAS,SUB: Johnson FOR Sochan,Substitution,,0,0,0,0,,,v
+S2425-G0074,4,11:42,DAL,,SAS,,J. Sochan,SAS,MISS Sochan 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,68,7,1,2.0,0.0,v
+S2425-G0074,4,11:38,DAL,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,4,11:35,DAL,,SAS,,J. Sochan,SAS,Sochan FLAGRANT.FOUL.TYPE1 (P4.T1) (J.Goldenberg),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2425-G0074,4,11:35,DAL,,SAS,,J. Sochan,SAS,Sochan Offensive Foul Turnover (P4.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0074,4,11:00,DAL,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,4,11:00,DAL,91.0,SAS,82.0,J. Sochan,SAS,Sochan 2' Putback Dunk (17 PTS),Made Shot,Putback Dunk Shot,2,16,2,1,2.0,2.0,v
+S2425-G0074,4,11:00,DAL,91.0,SAS,83.0,J. Sochan,SAS,Sochan Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0074,4,10:42,DAL,,SAS,,J. Sochan,SAS,MISS Sochan 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,21,4,2,1,2.0,0.0,v
+S2425-G0074,4,10:03,DAL,,SAS,,J. Sochan,SAS,MISS Sochan 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,14,19,2,1,2.0,0.0,v
+S2425-G0074,4,10:02,DAL,,SAS,,J. Sochan,SAS,SUB: Champagnie FOR Sochan,Substitution,,0,0,0,0,,,v
+S2425-G0074,4,05:59,DAL,,SAS,,J. Sochan,SAS,SUB: Wesley FOR Sochan,Substitution,,0,0,0,0,,,v
+S2425-G0109,1,09:35,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,6,52,5,1,2.0,0.0,h
+S2425-G0109,1,09:33,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,1,09:33,SAS,,HOU,,J. Sochan,SAS,MISS Sochan Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0109,1,08:06,SAS,5.0,HOU,14.0,J. Sochan,SAS,Sochan 5' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,5,51,5,1,2.0,2.0,h
+S2425-G0109,1,06:54,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-13,52,5,1,2.0,0.0,h
+S2425-G0109,1,05:40,SAS,,HOU,,J. Sochan,SAS,"Double Technical - Sochan, Smith Jr. (J.Williams)",Foul,Double Technical,0,0,0,0,,,
+S2425-G0109,1,05:37,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,1,05:21,SAS,12.0,HOU,17.0,J. Sochan,SAS,Sochan Cutting Layup Shot (4 PTS) (Castle 1 AST),Made Shot,Cutting Layup Shot,-2,1,0,1,2.0,2.0,h
+S2425-G0109,1,04:40,SAS,,HOU,,J. Sochan,SAS,Sochan BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0109,1,03:46,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-121,46,13,1,2.0,0.0,h
+S2425-G0109,1,03:30,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,1,03:09,SAS,,HOU,,J. Sochan,SAS,SUB: Wembanyama FOR Sochan,Substitution,,0,0,0,0,,,h
+S2425-G0109,2,05:47,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,2,03:55,SAS,34.0,HOU,46.0,J. Sochan,SAS,Sochan Cutting Finger Roll Layup Shot (6 PTS) (Paul 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,4,0,1,2.0,2.0,h
+S2425-G0109,2,03:55,SAS,35.0,HOU,46.0,J. Sochan,SAS,Sochan Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0109,2,03:30,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,2,03:30,SAS,,HOU,,J. Sochan,SAS,MISS Sochan Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0109,2,03:30,SAS,36.0,HOU,48.0,J. Sochan,SAS,Sochan Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,2,03:30,SAS,,HOU,,J. Sochan,SAS,MISS Sochan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0109,2,03:09,SAS,38.0,HOU,51.0,J. Sochan,SAS,Sochan 5' Driving Floating Jump Shot (10 PTS) (Castle 3 AST),Made Shot,Driving Floating Jump Shot,45,9,5,1,2.0,2.0,h
+S2425-G0109,2,01:04,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 25' 3PT Jump Shot,Missed Shot,Jump Shot,112,224,25,1,3.0,0.0,h
+S2425-G0109,2,00:29.500000,SAS,,HOU,,J. Sochan,SAS,Sochan OFF.Foul (P1) (J.Williams),Foul,Offensive,0,0,0,0,,,h
+S2425-G0109,2,00:29.500000,SAS,,HOU,,J. Sochan,SAS,Sochan Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0109,3,09:54,SAS,50.0,HOU,64.0,J. Sochan,SAS,Sochan 2' Driving Dunk (12 PTS) (Paul 3 AST),Made Shot,Driving Dunk Shot,2,22,2,1,2.0,2.0,h
+S2425-G0109,3,09:14,SAS,,HOU,,J. Sochan,SAS,Sochan Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0109,3,08:35,SAS,52.0,HOU,66.0,J. Sochan,SAS,Sochan 2' Alley Oop Dunk (14 PTS) (Wembanyama 1 AST),Made Shot,Alley Oop Dunk Shot,-4,15,2,1,2.0,2.0,h
+S2425-G0109,3,08:03,SAS,54.0,HOU,66.0,J. Sochan,SAS,Sochan 3' Driving Hook Shot (16 PTS),Made Shot,Driving Hook Shot,2,28,3,1,2.0,2.0,h
+S2425-G0109,3,07:23,SAS,56.0,HOU,68.0,J. Sochan,SAS,Sochan Alley Oop Layup (18 PTS) (Wembanyama 2 AST),Made Shot,Alley Oop Layup shot,-2,0,0,1,2.0,2.0,h
+S2425-G0109,3,06:51,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,06:03,SAS,,HOU,,J. Sochan,SAS,Sochan P.FOUL (P2.T4) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2425-G0109,3,04:42,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 9' Floating Jump Shot,Missed Shot,Floating Jump shot,25,83,9,1,2.0,0.0,h
+S2425-G0109,3,04:39,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,04:33,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,04:22,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,-13,75,8,1,2.0,0.0,h
+S2425-G0109,3,04:07,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,04:06,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 2' Putback Layup,Missed Shot,Putback Layup Shot,2,15,2,1,2.0,0.0,h
+S2425-G0109,3,02:57,SAS,62.0,HOU,80.0,J. Sochan,SAS,Sochan Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,3,02:57,SAS,63.0,HOU,80.0,J. Sochan,SAS,Sochan Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,3,01:12,SAS,,HOU,,J. Sochan,SAS,SUB: Branham FOR Sochan,Substitution,,0,0,0,0,,,h
+S2425-G0109,4,03:54,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,36,4,1,2.0,0.0,h
+S2425-G0109,4,02:33,SAS,93.0,HOU,97.0,J. Sochan,SAS,Sochan 2' Driving Dunk (22 PTS) (Wembanyama 5 AST),Made Shot,Driving Dunk Shot,-7,17,2,1,2.0,2.0,h
+S2425-G0109,4,00:10.300000,SAS,,HOU,,J. Sochan,SAS,Sochan P.FOUL (P3.PN) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2425-G0125,1,11:43,OKC,,SAS,,J. Sochan,SAS,MISS Sochan 3' Layup,Missed Shot,Layup Shot,26,16,3,1,2.0,0.0,v
+S2425-G0125,1,10:25,OKC,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,10:13,OKC,2.0,SAS,4.0,J. Sochan,SAS,Sochan 2' Layup (2 PTS) (Wembanyama 1 AST),Made Shot,Layup Shot,-23,5,2,1,2.0,2.0,v
+S2425-G0125,1,09:58,OKC,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,09:04,OKC,,SAS,,J. Sochan,SAS,MISS Sochan 7' Driving Layup,Missed Shot,Driving Layup Shot,62,32,7,1,2.0,0.0,v
+S2425-G0125,1,07:51,OKC,,SAS,,J. Sochan,SAS,MISS Sochan 20' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,21,201,20,1,2.0,0.0,v
+S2425-G0125,1,07:46,OKC,,SAS,,J. Sochan,SAS,MISS Sochan 1' Layup,Missed Shot,Layup Shot,-7,11,1,1,2.0,0.0,v
+S2425-G0125,1,05:53,OKC,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,02:30,OKC,,SAS,,J. Sochan,SAS,MISS Sochan 10' Layup,Missed Shot,Layup Shot,78,59,10,1,2.0,0.0,v
+S2425-G0125,1,02:29,OKC,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,1,02:28,OKC,26.0,SAS,19.0,J. Sochan,SAS,Sochan 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,9,-5,1,1,2.0,2.0,v
+S2425-G0125,1,01:35,OKC,,SAS,,J. Sochan,SAS,SUB: Branham FOR Sochan,Substitution,,0,0,0,0,,,v
+S2425-G0125,2,06:44,OKC,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,2,06:37,OKC,,SAS,,J. Sochan,SAS,MISS Sochan 3PT Jump Shot,Missed Shot,Jump Shot,225,17,0,1,3.0,0.0,v
+S2425-G0125,2,04:53,OKC,47.0,SAS,30.0,J. Sochan,SAS,Sochan 1' Layup (6 PTS) (Paul 2 AST),Made Shot,Layup Shot,9,4,1,1,2.0,2.0,v
+S2425-G0125,2,04:39,OKC,47.0,SAS,32.0,J. Sochan,SAS,Sochan 1' Running Layup (8 PTS) (Paul 3 AST),Made Shot,Running Layup Shot,12,5,1,1,2.0,2.0,v
+S2425-G0125,2,03:32,OKC,47.0,SAS,33.0,J. Sochan,SAS,Sochan Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0125,2,03:32,OKC,47.0,SAS,34.0,J. Sochan,SAS,Sochan Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0125,2,02:56,OKC,,SAS,,J. Sochan,SAS,Sochan Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,2,02:12,OKC,,SAS,,J. Sochan,SAS,Sochan STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0125,3,11:28,OKC,,SAS,,J. Sochan,SAS,MISS Sochan 3' Layup,Missed Shot,Layup Shot,-27,5,3,1,2.0,0.0,v
+S2425-G0125,3,09:41,OKC,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,3,09:16,OKC,,SAS,,J. Sochan,SAS,Sochan P.FOUL (P1.T1) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2425-G0125,3,08:06,OKC,71.0,SAS,57.0,J. Sochan,SAS,Sochan 1' Running Layup (12 PTS) (Paul 5 AST),Made Shot,Running Layup Shot,12,-1,1,1,2.0,2.0,v
+S2425-G0125,3,07:02,OKC,73.0,SAS,59.0,J. Sochan,SAS,Sochan 2' Finger Roll Layup (14 PTS),Made Shot,Finger Roll Layup Shot,13,10,2,1,2.0,2.0,v
+S2425-G0125,3,06:17,OKC,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,3,05:50,OKC,,SAS,,J. Sochan,SAS,SUB: Wesley FOR Sochan,Substitution,,0,0,0,0,,,v
+S2425-G0125,3,01:26,OKC,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,3,01:14,OKC,,SAS,,J. Sochan,SAS,MISS Sochan 4' Driving Layup,Missed Shot,Driving Layup Shot,1,37,4,1,2.0,0.0,v
+S2425-G0125,3,01:13,OKC,,SAS,,J. Sochan,SAS,Sochan L.B.FOUL (P2.T3) (T.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0125,3,01:13,OKC,,SAS,,J. Sochan,SAS,SUB: Barnes FOR Sochan,Substitution,,0,0,0,0,,,v
+S2425-G0125,4,05:52,OKC,,SAS,,J. Sochan,SAS,Sochan S.FOUL (P3.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0125,4,04:12,OKC,,SAS,,J. Sochan,SAS,MISS Sochan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0125,4,04:12,OKC,97.0,SAS,82.0,J. Sochan,SAS,Sochan Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0125,4,02:47,OKC,,SAS,,J. Sochan,SAS,MISS Sochan 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,16,4,2,1,2.0,0.0,v
+S2425-G0125,4,02:46,OKC,,SAS,,J. Sochan,SAS,Sochan REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,4,02:46,OKC,103.0,SAS,87.0,J. Sochan,SAS,Sochan 1' Putback Layup (17 PTS),Made Shot,Putback Layup Shot,0,13,1,1,2.0,2.0,v
+S2425-G0125,4,02:46,OKC,,SAS,,J. Sochan,SAS,SUB: Castle FOR Sochan,Substitution,,0,0,0,0,,,v
+S2425-G0094,1,11:21,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,09:33,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,08:47,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,07:34,SAS,16.0,HOU,12.0,J. Sochan,SAS,Sochan 1' Cutting Layup Shot (2 PTS) (Paul 3 AST),Made Shot,Cutting Layup Shot,7,10,1,1,2.0,2.0,h
+S2425-G0094,1,06:50,SAS,18.0,HOU,14.0,J. Sochan,SAS,Sochan 16' Jump Shot (4 PTS) (Barnes 1 AST),Made Shot,Jump Shot,119,103,16,1,2.0,2.0,h
+S2425-G0094,1,06:35,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,06:31,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 2' Running Layup,Missed Shot,Running Layup Shot,-16,9,2,1,2.0,0.0,h
+S2425-G0094,1,05:30,SAS,23.0,HOU,16.0,J. Sochan,SAS,Sochan 1' Driving Layup (6 PTS) (Collins 1 AST),Made Shot,Driving Layup Shot,12,1,1,1,2.0,2.0,h
+S2425-G0094,1,02:11,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,02:03,SAS,34.0,HOU,24.0,J. Sochan,SAS,Sochan 1' Layup (8 PTS) (Wesley 2 AST),Made Shot,Layup Shot,-10,-8,1,1,2.0,2.0,h
+S2425-G0094,1,01:28,SAS,36.0,HOU,26.0,J. Sochan,SAS,Sochan 1' Layup (10 PTS) (Collins 2 AST),Made Shot,Layup Shot,-12,4,1,1,2.0,2.0,h
+S2425-G0094,2,06:54,SAS,,HOU,,J. Sochan,SAS,Sochan L.B.FOUL (P1.T3) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0094,2,06:46,SAS,,HOU,,J. Sochan,SAS,Sochan STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0094,2,04:48,SAS,,HOU,,J. Sochan,SAS,Sochan STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0094,2,01:46,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,01:35,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,2,01:33,SAS,,HOU,,J. Sochan,SAS,Sochan Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0094,2,00:03.500000,SAS,62.0,HOU,41.0,J. Sochan,SAS,Sochan 1' Driving Finger Roll Layup (12 PTS) (Paul 7 AST),Made Shot,Driving Finger Roll Layup Shot,12,-5,1,1,2.0,2.0,h
+S2425-G0094,3,10:47,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,80,141,16,1,2.0,0.0,h
+S2425-G0094,3,10:05,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,09:51,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,09:46,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 3' Driving Layup,Missed Shot,Driving Layup Shot,-18,22,3,1,2.0,0.0,h
+S2425-G0094,3,08:07,SAS,67.0,HOU,53.0,J. Sochan,SAS,Sochan 12' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,-44,111,12,1,2.0,2.0,h
+S2425-G0094,3,07:36,SAS,,HOU,,J. Sochan,SAS,Sochan OFF.Foul (P2) (B.Barnaky),Foul,Offensive,0,0,0,0,,,h
+S2425-G0094,3,07:36,SAS,,HOU,,J. Sochan,SAS,Sochan Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0094,3,07:09,SAS,,HOU,,J. Sochan,SAS,Sochan Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0094,3,06:23,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,04:41,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,3,04:41,SAS,,HOU,,J. Sochan,SAS,MISS Sochan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0094,3,04:41,SAS,72.0,HOU,58.0,J. Sochan,SAS,Sochan Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0094,3,03:08,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 3' Hook Shot,Missed Shot,Hook Shot,-17,20,3,1,2.0,0.0,h
+S2425-G0094,3,02:24,SAS,,HOU,,J. Sochan,SAS,SUB: Wembanyama FOR Sochan,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,07:48,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-1,81,8,1,2.0,0.0,h
+S2425-G0094,4,06:46,SAS,,HOU,,J. Sochan,SAS,MISS Sochan 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-13,260,26,1,3.0,0.0,h
+S2425-G0094,4,05:04,SAS,,HOU,,J. Sochan,SAS,Sochan P.FOUL (P3.T4) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2425-G0094,4,01:52,SAS,,HOU,,J. Sochan,SAS,Sochan REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,4,01:35,SAS,104.0,HOU,99.0,J. Sochan,SAS,Sochan 2' Cutting Layup Shot (17 PTS) (Paul 9 AST),Made Shot,Cutting Layup Shot,-22,6,2,1,2.0,2.0,h
+S2425-G0094,4,00:22.900000,SAS,,HOU,,J. Sochan,SAS,SUB: Barnes FOR Sochan,Substitution,,0,0,0,0,,,h
+S2425-G0094,4,00:12.600000,SAS,,HOU,,J. Sochan,SAS,SUB: Barnes FOR Sochan,Substitution,,0,0,0,0,,,h

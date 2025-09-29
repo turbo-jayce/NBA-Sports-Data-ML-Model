@@ -1,0 +1,50 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0110,2,10:48,DAL,,UTA,,B. Sensabaugh,UTA,Sensabaugh REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,2,09:53,DAL,,UTA,,B. Sensabaugh,UTA,Sensabaugh REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0110,2,05:22,DAL,,UTA,,B. Sensabaugh,UTA,SUB: Hendricks FOR Sensabaugh,Substitution,,0,0,0,0,,,v
+S2425-G0110,4,07:01,DAL,,UTA,,B. Sensabaugh,UTA,SUB: Kessler FOR Sensabaugh,Substitution,,0,0,0,0,,,v
+S2425-G0115,2,11:50,UTA,,SAC,,B. Sensabaugh,UTA,MISS Sensabaugh 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,184,162,25,1,3.0,0.0,h
+S2425-G0115,2,11:18,UTA,25.0,SAC,34.0,B. Sensabaugh,UTA,Sensabaugh 3PT Running Jump Shot (3 PTS) (Markkanen 1 AST),Made Shot,Running Jump Shot,229,12,0,1,3.0,3.0,h
+S2425-G0115,2,10:38,UTA,,SAC,,B. Sensabaugh,UTA,MISS Sensabaugh 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,26,138,14,1,2.0,0.0,h
+S2425-G0115,2,06:58,UTA,38.0,SAC,46.0,B. Sensabaugh,UTA,Sensabaugh 26' 3PT Pullup Jump Shot (6 PTS) (Filipowski 2 AST),Made Shot,Pullup Jump shot,-74,246,26,1,3.0,3.0,h
+S2425-G0115,2,05:46,UTA,43.0,SAC,46.0,B. Sensabaugh,UTA,Sensabaugh 25' 3PT Jump Shot (9 PTS) (George 5 AST),Made Shot,Jump Shot,-237,68,25,1,3.0,3.0,h
+S2425-G0115,2,05:16,UTA,,SAC,,B. Sensabaugh,UTA,SUB: Clarkson FOR Sensabaugh,Substitution,,0,0,0,0,,,h
+S2425-G0115,3,06:22,UTA,,SAC,,B. Sensabaugh,UTA,MISS Sensabaugh 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,21,104,11,1,2.0,0.0,h
+S2425-G0115,3,02:51,UTA,,SAC,,B. Sensabaugh,UTA,SUB: Juzang FOR Sensabaugh,Substitution,,0,0,0,0,,,h
+S2425-G0115,4,03:46,UTA,,SAC,,B. Sensabaugh,UTA,Sensabaugh REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,4,00:49.800000,UTA,,SAC,,B. Sensabaugh,UTA,Sensabaugh Offensive Charge Foul (P1) (B.Schwab),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0115,4,00:49.800000,UTA,,SAC,,B. Sensabaugh,UTA,Sensabaugh Offensive Foul Turnover (P1.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0115,4,00:35.200000,UTA,,SAC,,B. Sensabaugh,UTA,Sensabaugh REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,4,00:32.100000,UTA,96.0,SAC,113.0,B. Sensabaugh,UTA,Sensabaugh 5' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,37,30,5,1,2.0,2.0,h
+S2425-G0115,4,00:16.200000,UTA,,SAC,,B. Sensabaugh,UTA,Sensabaugh REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0115,4,00:15.300000,UTA,,SAC,,B. Sensabaugh,UTA,MISS Sensabaugh 25' 3PT Jump Shot,Missed Shot,Jump Shot,216,131,25,1,3.0,0.0,h
+S2425-G0070,1,06:25,UTA,15.0,MEM,17.0,B. Sensabaugh,UTA,Sensabaugh Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0070,1,06:25,UTA,,MEM,,B. Sensabaugh,UTA,MISS Sensabaugh Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0070,1,06:04,UTA,,MEM,,B. Sensabaugh,UTA,Sensabaugh REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,1,05:47,UTA,,MEM,,B. Sensabaugh,UTA,Sensabaugh STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0070,1,02:44,UTA,,MEM,,B. Sensabaugh,UTA,Sensabaugh STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0070,1,02:37,UTA,,MEM,,B. Sensabaugh,UTA,SUB: Markkanen FOR Sensabaugh,Substitution,,0,0,0,0,,,h
+S2425-G0070,2,03:09,UTA,,MEM,,B. Sensabaugh,UTA,SUB: Markkanen FOR Sensabaugh,Substitution,,0,0,0,0,,,h
+S2425-G0070,3,05:55,UTA,,MEM,,B. Sensabaugh,UTA,MISS Sensabaugh 6' Jump Shot,Missed Shot,Jump Shot,-33,46,6,1,2.0,0.0,h
+S2425-G0070,3,05:11,UTA,,MEM,,B. Sensabaugh,UTA,Sensabaugh S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2425-G0070,3,04:26,UTA,74.0,MEM,81.0,B. Sensabaugh,UTA,Sensabaugh 9' Driving Floating Jump Shot (3 PTS) (Clarkson 4 AST),Made Shot,Driving Floating Jump Shot,-23,86,9,1,2.0,2.0,h
+S2425-G0070,3,02:28,UTA,,MEM,,B. Sensabaugh,UTA,Sensabaugh REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0070,3,02:16,UTA,,MEM,,B. Sensabaugh,UTA,SUB: Williams FOR Sensabaugh,Substitution,,0,0,0,0,,,h
+S2425-G0084,1,05:13,UTA,19.0,GSW,11.0,B. Sensabaugh,UTA,Sensabaugh 25' 3PT Jump Shot (3 PTS) (George 2 AST),Made Shot,Jump Shot,-235,80,25,1,3.0,3.0,h
+S2425-G0084,1,04:50,UTA,,GSW,,B. Sensabaugh,UTA,MISS Sensabaugh 25' 3PT Jump Shot,Missed Shot,Jump Shot,-121,220,25,1,3.0,0.0,h
+S2425-G0084,1,02:54,UTA,,GSW,,B. Sensabaugh,UTA,SUB: Markkanen FOR Sensabaugh,Substitution,,0,0,0,0,,,h
+S2425-G0084,2,02:46,UTA,,GSW,,B. Sensabaugh,UTA,SUB: Markkanen FOR Sensabaugh,Substitution,,0,0,0,0,,,h
+S2425-G0084,3,07:41,UTA,,GSW,,B. Sensabaugh,UTA,Sensabaugh REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,3,07:41,UTA,,GSW,,B. Sensabaugh,UTA,MISS Sensabaugh Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0084,3,05:50,UTA,,GSW,,B. Sensabaugh,UTA,Sensabaugh REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,3,05:49,UTA,54.0,GSW,78.0,B. Sensabaugh,UTA,Sensabaugh 4' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,-34,25,4,1,2.0,2.0,h
+S2425-G0084,3,05:49,UTA,55.0,GSW,78.0,B. Sensabaugh,UTA,Sensabaugh Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0084,3,05:19,UTA,,GSW,,B. Sensabaugh,UTA,MISS Sensabaugh 25' 3PT Jump Shot,Missed Shot,Jump Shot,-174,181,25,1,3.0,0.0,h
+S2425-G0084,3,04:26,UTA,,GSW,,B. Sensabaugh,UTA,MISS Sensabaugh 25' 3PT Jump Shot,Missed Shot,Jump Shot,103,230,25,1,3.0,0.0,h
+S2425-G0084,3,03:24,UTA,,GSW,,B. Sensabaugh,UTA,Sensabaugh REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0084,3,03:15,UTA,,GSW,,B. Sensabaugh,UTA,MISS Sensabaugh 25' 3PT Jump Shot,Missed Shot,Jump Shot,-189,163,25,1,3.0,0.0,h
+S2425-G0084,3,02:39,UTA,60.0,GSW,88.0,B. Sensabaugh,UTA,Sensabaugh 25' 3PT Jump Shot (9 PTS) (Clarkson 2 AST),Made Shot,Jump Shot,-221,123,25,1,3.0,3.0,h
+S2425-G0084,3,01:52,UTA,,GSW,,B. Sensabaugh,UTA,SUB: Eubanks FOR Sensabaugh,Substitution,,0,0,0,0,,,h
+S2425-G0084,4,03:10,UTA,,GSW,,B. Sensabaugh,UTA,MISS Sensabaugh 3PT Jump Shot,Missed Shot,Jump Shot,232,15,0,1,3.0,0.0,h
+S2425-G0084,4,02:11,UTA,,GSW,,B. Sensabaugh,UTA,Sensabaugh Lost Ball Turnover (P1.T21),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0084,4,00:28,UTA,,GSW,,B. Sensabaugh,UTA,Jump Ball Sensabaugh vs. Waters III: Tip to George,Jump Ball,,0,0,0,0,,,h

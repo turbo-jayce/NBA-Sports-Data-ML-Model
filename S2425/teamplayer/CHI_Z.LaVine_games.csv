@@ -1,0 +1,183 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0091,1,11:31,CHI,1.0,OKC,2.0,Z. LaVine,CHI,LaVine Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0091,1,09:06,CHI,,OKC,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,1,07:56,CHI,,OKC,,Z. LaVine,CHI,LaVine Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0091,1,05:35,CHI,,OKC,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,1,05:29,CHI,,OKC,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0091,1,05:15,CHI,,OKC,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,1,05:14,CHI,11.0,OKC,14.0,Z. LaVine,CHI,LaVine Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,1,05:14,CHI,12.0,OKC,14.0,Z. LaVine,CHI,LaVine Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,1,04:07,CHI,,OKC,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,1,04:00,CHI,,OKC,,Z. LaVine,CHI,MISS LaVine 5' Layup,Missed Shot,Layup Shot,-15,48,5,1,2.0,0.0,h
+S2425-G0091,1,03:44,CHI,,OKC,,Z. LaVine,CHI,SUB: White FOR LaVine,Substitution,,0,0,0,0,,,h
+S2425-G0091,2,09:14,CHI,,OKC,,Z. LaVine,CHI,MISS LaVine 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-12,247,25,1,3.0,0.0,h
+S2425-G0091,2,08:56,CHI,27.0,OKC,32.0,Z. LaVine,CHI,LaVine Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,2,08:56,CHI,28.0,OKC,32.0,Z. LaVine,CHI,LaVine Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,2,05:17,CHI,,OKC,,Z. LaVine,CHI,LaVine BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0091,2,05:05,CHI,,OKC,,Z. LaVine,CHI,MISS LaVine 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,126,221,25,1,3.0,0.0,h
+S2425-G0091,2,04:50,CHI,,OKC,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,2,04:00,CHI,,OKC,,Z. LaVine,CHI,LaVine Traveling Turnover (P3.T12),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0091,2,02:39,CHI,,OKC,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,2,01:28,CHI,,OKC,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P4.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0091,2,01:15,CHI,,OKC,,Z. LaVine,CHI,LaVine Bad Pass Turnover (P5.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0091,2,00:52.200000,CHI,,OKC,,Z. LaVine,CHI,MISS LaVine 25' 3PT Jump Shot,Missed Shot,Jump Shot,150,205,25,1,3.0,0.0,h
+S2425-G0091,2,00:20.200000,CHI,39.0,OKC,57.0,Z. LaVine,CHI,LaVine Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,2,00:20.200000,CHI,,OKC,,Z. LaVine,CHI,MISS LaVine Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0091,3,07:44,CHI,,OKC,,Z. LaVine,CHI,LaVine Bad Pass Turnover (P6.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0091,3,07:31,CHI,,OKC,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,07:27,CHI,,OKC,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P7.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0091,3,06:35,CHI,,OKC,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,3,06:01,CHI,52.0,OKC,67.0,Z. LaVine,CHI,LaVine 3PT Jump Shot (9 PTS) (Dosunmu 3 AST),Made Shot,Jump Shot,-232,-16,0,1,3.0,3.0,h
+S2425-G0091,3,05:27,CHI,,OKC,,Z. LaVine,CHI,LaVine STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0091,3,05:22,CHI,54.0,OKC,69.0,Z. LaVine,CHI,LaVine 2' Running Layup (11 PTS),Made Shot,Running Layup Shot,-10,15,2,1,2.0,2.0,h
+S2425-G0091,3,04:15,CHI,56.0,OKC,73.0,Z. LaVine,CHI,LaVine 21' Pullup Jump Shot (13 PTS) (Dosunmu 4 AST),Made Shot,Pullup Jump shot,12,210,21,1,2.0,2.0,h
+S2425-G0091,3,03:56,CHI,59.0,OKC,73.0,Z. LaVine,CHI,LaVine 3PT Jump Shot (16 PTS) (Williams 2 AST),Made Shot,Jump Shot,228,-14,0,1,3.0,3.0,h
+S2425-G0091,3,03:01,CHI,,OKC,,Z. LaVine,CHI,SUB: White FOR LaVine,Substitution,,0,0,0,0,,,h
+S2425-G0091,4,09:41,CHI,74.0,OKC,93.0,Z. LaVine,CHI,LaVine 27' 3PT Jump Shot (19 PTS) (Giddey 3 AST),Made Shot,Jump Shot,-131,239,27,1,3.0,3.0,h
+S2425-G0091,4,09:05,CHI,,OKC,,Z. LaVine,CHI,MISS LaVine 28' 3PT Jump Shot,Missed Shot,Jump Shot,-38,275,28,1,3.0,0.0,h
+S2425-G0091,4,08:58,CHI,,OKC,,Z. LaVine,CHI,LaVine S.FOUL (P1.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0091,4,07:53,CHI,,OKC,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,4,06:27,CHI,,OKC,,Z. LaVine,CHI,LaVine STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0091,4,06:23,CHI,,OKC,,Z. LaVine,CHI,MISS LaVine 2' Running Layup,Missed Shot,Running Layup Shot,5,20,2,1,2.0,0.0,h
+S2425-G0091,4,05:17,CHI,85.0,OKC,103.0,Z. LaVine,CHI,LaVine 24' 3PT Fadeaway Jumper (22 PTS) (Dosunmu 6 AST),Made Shot,Fadeaway Jump Shot,234,-29,24,1,3.0,3.0,h
+S2425-G0091,4,04:47,CHI,,OKC,,Z. LaVine,CHI,MISS LaVine 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,151,209,26,1,3.0,0.0,h
+S2425-G0091,4,04:26,CHI,,OKC,,Z. LaVine,CHI,SUB: Horton-Tucker FOR LaVine,Substitution,,0,0,0,0,,,h
+S2425-G0069,1,09:42,NOP,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,06:50,NOP,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,1,06:44,NOP,,CHI,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0069,1,04:50,NOP,12.0,CHI,14.0,Z. LaVine,CHI,LaVine 26' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,-229,120,26,1,3.0,3.0,v
+S2425-G0069,1,03:40,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 4' Running Layup,Missed Shot,Running Layup Shot,-37,11,4,1,2.0,0.0,v
+S2425-G0069,1,02:58,NOP,,CHI,,Z. LaVine,CHI,SUB: Giddey FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0069,2,09:02,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 2' Driving Layup,Missed Shot,Driving Layup Shot,-5,16,2,1,2.0,0.0,v
+S2425-G0069,2,08:23,NOP,40.0,CHI,37.0,Z. LaVine,CHI,LaVine 26' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,184,186,26,1,3.0,3.0,v
+S2425-G0069,2,06:40,NOP,45.0,CHI,43.0,Z. LaVine,CHI,LaVine 29' 3PT Jump Shot (9 PTS) (Buzelis 1 AST),Made Shot,Jump Shot,-126,260,29,1,3.0,3.0,v
+S2425-G0069,2,06:17,NOP,45.0,CHI,45.0,Z. LaVine,CHI,LaVine 2' Driving Reverse Layup (11 PTS) (Ball 1 AST),Made Shot,Driving Reverse Layup Shot,16,7,2,1,2.0,2.0,v
+S2425-G0069,2,05:39,NOP,,CHI,,Z. LaVine,CHI,LaVine P.FOUL (P1.T3) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2425-G0069,2,05:17,NOP,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,05:16,NOP,,CHI,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0069,2,04:56,NOP,48.0,CHI,47.0,Z. LaVine,CHI,LaVine 22' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,-137,178,22,1,2.0,2.0,v
+S2425-G0069,2,03:55,NOP,48.0,CHI,52.0,Z. LaVine,CHI,LaVine 28' 3PT Jump Shot (16 PTS) (Ball 2 AST),Made Shot,Jump Shot,-208,181,28,1,3.0,3.0,v
+S2425-G0069,2,02:45,NOP,50.0,CHI,57.0,Z. LaVine,CHI,LaVine 28' 3PT Running Jump Shot (19 PTS) (White 2 AST),Made Shot,Running Jump Shot,-137,246,28,1,3.0,3.0,v
+S2425-G0069,2,02:14,NOP,,CHI,,Z. LaVine,CHI,LaVine Out of Bounds Lost Ball Turnover (P3.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0069,2,01:08,NOP,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,00:32.200000,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-39,281,28,1,3.0,0.0,v
+S2425-G0069,2,00:01.500000,NOP,,CHI,,Z. LaVine,CHI,LaVine Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,3,08:45,NOP,,CHI,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P5.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0069,3,07:33,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-158,155,22,1,2.0,0.0,v
+S2425-G0069,3,07:12,NOP,,CHI,,Z. LaVine,CHI,LaVine Out of Bounds Lost Ball Turnover (P6.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0069,3,05:22,NOP,76.0,CHI,70.0,Z. LaVine,CHI,LaVine Alley Oop Dunk (21 PTS) (Ball 4 AST),Made Shot,Alley Oop Dunk Shot,-2,-2,0,1,2.0,2.0,v
+S2425-G0069,3,05:05,NOP,,CHI,,Z. LaVine,CHI,SUB: White FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0069,3,00:54.600000,NOP,,CHI,,Z. LaVine,CHI,LaVine S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,4,11:33,NOP,95.0,CHI,85.0,Z. LaVine,CHI,LaVine 1' Running Dunk (23 PTS) (Williams 3 AST),Made Shot,Running Dunk Shot,-4,5,1,1,2.0,2.0,v
+S2425-G0069,4,10:18,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 25' 3PT Jump Shot,Missed Shot,Jump Shot,233,103,25,1,3.0,0.0,v
+S2425-G0069,4,09:54,NOP,,CHI,,Z. LaVine,CHI,LaVine S.FOUL (P3.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,4,07:02,NOP,,CHI,,Z. LaVine,CHI,LaVine Bad Pass Turnover (P7.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0069,4,06:11,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 3PT Jump Shot,Missed Shot,Jump Shot,232,21,0,1,3.0,0.0,v
+S2425-G0069,4,06:08,NOP,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,4,06:05,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine 4' Driving Layup,Missed Shot,Driving Layup Shot,-6,37,4,1,2.0,0.0,v
+S2425-G0069,4,05:55,NOP,111.0,CHI,96.0,Z. LaVine,CHI,LaVine Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,05:55,NOP,111.0,CHI,97.0,Z. LaVine,CHI,LaVine Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0069,4,04:20,NOP,115.0,CHI,103.0,Z. LaVine,CHI,LaVine 1' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,4,6,1,1,2.0,2.0,v
+S2425-G0069,4,04:20,NOP,,CHI,,Z. LaVine,CHI,MISS LaVine Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0069,4,02:21,NOP,,CHI,,Z. LaVine,CHI,LaVine S.FOUL (P4.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,4,01:46,NOP,,CHI,,Z. LaVine,CHI,SUB: Smith FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0123,1,08:52,CHI,,ORL,,Z. LaVine,CHI,MISS LaVine 25' 3PT Jump Shot,Missed Shot,Jump Shot,150,201,25,1,3.0,0.0,h
+S2425-G0123,1,07:31,CHI,,ORL,,Z. LaVine,CHI,LaVine STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0123,1,07:28,CHI,6.0,ORL,9.0,Z. LaVine,CHI,LaVine Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,1,07:28,CHI,7.0,ORL,9.0,Z. LaVine,CHI,LaVine Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,1,06:58,CHI,,ORL,,Z. LaVine,CHI,MISS LaVine 3' Driving Layup,Missed Shot,Driving Layup Shot,-21,15,3,1,2.0,0.0,h
+S2425-G0123,1,05:12,CHI,,ORL,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0123,1,04:32,CHI,,ORL,,Z. LaVine,CHI,LaVine Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0123,1,04:21,CHI,,ORL,,Z. LaVine,CHI,LaVine Bad Pass Turnover (P3.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0123,1,03:13,CHI,,ORL,,Z. LaVine,CHI,SUB: Terry FOR LaVine,Substitution,,0,0,0,0,,,h
+S2425-G0123,2,07:56,CHI,,ORL,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,07:29,CHI,,ORL,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,2,06:59,CHI,,ORL,,Z. LaVine,CHI,MISS LaVine 2' Driving Layup,Missed Shot,Driving Layup Shot,7,14,2,1,2.0,0.0,h
+S2425-G0123,2,04:32,CHI,,ORL,,Z. LaVine,CHI,LaVine S.FOUL (P1.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2425-G0123,2,02:49,CHI,,ORL,,Z. LaVine,CHI,MISS LaVine 25' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-179,178,25,1,3.0,0.0,h
+S2425-G0123,2,02:36,CHI,,ORL,,Z. LaVine,CHI,LaVine S.FOUL (P2.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0123,2,00:48.800000,CHI,52.0,ORL,61.0,Z. LaVine,CHI,LaVine 1' Driving Finger Roll Layup (4 PTS) (White 2 AST),Made Shot,Driving Finger Roll Layup Shot,9,11,1,1,2.0,2.0,h
+S2425-G0123,2,00:16.800000,CHI,,ORL,,Z. LaVine,CHI,MISS LaVine 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-146,206,25,1,3.0,0.0,h
+S2425-G0123,2,00:16,CHI,,ORL,,Z. LaVine,CHI,SUB: Terry FOR LaVine,Substitution,,0,0,0,0,,,h
+S2425-G0123,3,10:45,CHI,,ORL,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,3,10:16,CHI,,ORL,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,3,09:49,CHI,,ORL,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,3,09:40,CHI,57.0,ORL,64.0,Z. LaVine,CHI,LaVine 27' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,113,241,27,1,3.0,3.0,h
+S2425-G0123,3,08:32,CHI,,ORL,,Z. LaVine,CHI,MISS LaVine 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,125,130,18,1,2.0,0.0,h
+S2425-G0123,3,03:04,CHI,,ORL,,Z. LaVine,CHI,SUB: Terry FOR LaVine,Substitution,,0,0,0,0,,,h
+S2425-G0123,4,07:15,CHI,,ORL,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,4,07:09,CHI,,ORL,,Z. LaVine,CHI,MISS LaVine Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0123,4,07:09,CHI,88.0,ORL,87.0,Z. LaVine,CHI,LaVine Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,4,06:44,CHI,,ORL,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,4,06:34,CHI,,ORL,,Z. LaVine,CHI,MISS LaVine 9' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,-81,34,9,1,2.0,0.0,h
+S2425-G0123,4,05:42,CHI,,ORL,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,4,05:37,CHI,89.0,ORL,87.0,Z. LaVine,CHI,LaVine Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,4,05:37,CHI,90.0,ORL,87.0,Z. LaVine,CHI,LaVine Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,4,04:26,CHI,,ORL,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0123,4,02:52,CHI,95.0,ORL,93.0,Z. LaVine,CHI,LaVine Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0123,4,02:52,CHI,,ORL,,Z. LaVine,CHI,MISS LaVine Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0123,4,00:25.500000,CHI,,ORL,,Z. LaVine,CHI,LaVine Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0123,4,00:00.100000,CHI,,ORL,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,10:23,MIL,,CHI,,Z. LaVine,CHI,MISS LaVine Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0083,1,10:23,MIL,3.0,CHI,3.0,Z. LaVine,CHI,LaVine Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,1,10:05,MIL,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,1,09:08,MIL,3.0,CHI,5.0,Z. LaVine,CHI,LaVine 16' Turnaround Fadeaway (3 PTS),Made Shot,Turnaround Fadeaway shot,126,101,16,1,2.0,2.0,v
+S2425-G0083,1,05:14,MIL,17.0,CHI,16.0,Z. LaVine,CHI,LaVine 1' Cutting Dunk Shot (5 PTS) (Giddey 2 AST),Made Shot,Cutting Dunk Shot,1,13,1,1,2.0,2.0,v
+S2425-G0083,1,04:04,MIL,22.0,CHI,21.0,Z. LaVine,CHI,LaVine 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-150,195,25,1,3.0,3.0,v
+S2425-G0083,1,03:32,MIL,,CHI,,Z. LaVine,CHI,MISS LaVine 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-41,261,26,1,3.0,0.0,v
+S2425-G0083,1,02:54,MIL,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,1,02:35,MIL,27.0,CHI,23.0,Z. LaVine,CHI,LaVine 5' Running Layup (10 PTS),Made Shot,Running Layup Shot,-20,50,5,1,2.0,2.0,v
+S2425-G0083,1,02:35,MIL,27.0,CHI,24.0,Z. LaVine,CHI,LaVine Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0083,1,02:22,MIL,,CHI,,Z. LaVine,CHI,SUB: White FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0083,2,06:06,MIL,49.0,CHI,46.0,Z. LaVine,CHI,LaVine 18' Turnaround Jump Shot (13 PTS),Made Shot,Turnaround Jump Shot,175,41,18,1,2.0,2.0,v
+S2425-G0083,2,05:43,MIL,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,2,04:16,MIL,,CHI,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0083,2,03:41,MIL,53.0,CHI,50.0,Z. LaVine,CHI,LaVine 2' Running Layup (15 PTS) (Giddey 3 AST),Made Shot,Running Layup Shot,6,14,2,1,2.0,2.0,v
+S2425-G0083,2,03:11,MIL,,CHI,,Z. LaVine,CHI,MISS LaVine 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,86,256,27,1,3.0,0.0,v
+S2425-G0083,2,02:33,MIL,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,2,00:41.600000,MIL,61.0,CHI,60.0,Z. LaVine,CHI,LaVine 15' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,65,130,15,1,2.0,2.0,v
+S2425-G0083,3,08:17,MIL,,CHI,,Z. LaVine,CHI,LaVine BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0083,3,05:07,MIL,83.0,CHI,89.0,Z. LaVine,CHI,LaVine Cutting Layup Shot (19 PTS) (Giddey 8 AST),Made Shot,Cutting Layup Shot,2,-3,0,1,2.0,2.0,v
+S2425-G0083,3,04:17,MIL,85.0,CHI,92.0,Z. LaVine,CHI,LaVine 28' 3PT Running Pull-Up Jump Shot (22 PTS),Made Shot,Running Pull-Up Jump Shot,58,275,28,1,3.0,3.0,v
+S2425-G0083,3,03:04,MIL,,CHI,,Z. LaVine,CHI,MISS LaVine 31' 3PT Jump Shot,Missed Shot,Jump Shot,-16,306,31,1,3.0,0.0,v
+S2425-G0083,3,02:57,MIL,,CHI,,Z. LaVine,CHI,SUB: Williams FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0083,4,07:27,MIL,,CHI,,Z. LaVine,CHI,MISS LaVine 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-80,291,30,1,3.0,0.0,v
+S2425-G0083,4,06:38,MIL,,CHI,,Z. LaVine,CHI,MISS LaVine 3' Running Layup,Missed Shot,Running Layup Shot,-6,27,3,1,2.0,0.0,v
+S2425-G0083,4,05:02,MIL,111.0,CHI,124.0,Z. LaVine,CHI,LaVine Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,4,05:02,MIL,111.0,CHI,125.0,Z. LaVine,CHI,LaVine Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0083,4,04:47,MIL,113.0,CHI,126.0,Z. LaVine,CHI,LaVine Free Throw Technical (25 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0083,4,03:53,MIL,,CHI,,Z. LaVine,CHI,MISS LaVine 5' Driving Layup,Missed Shot,Driving Layup Shot,-6,48,5,1,2.0,0.0,v
+S2425-G0083,4,02:29,MIL,,CHI,,Z. LaVine,CHI,LaVine BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0083,4,01:56,MIL,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0083,4,01:10,MIL,,CHI,,Z. LaVine,CHI,SUB: Phillips FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0108,1,10:23,MEM,,CHI,,Z. LaVine,CHI,MISS LaVine 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-115,225,25,1,3.0,0.0,v
+S2425-G0108,1,08:09,MEM,12.0,CHI,5.0,Z. LaVine,CHI,LaVine 1' Running Dunk (2 PTS) (Giddey 1 AST),Made Shot,Running Dunk Shot,5,3,1,1,2.0,2.0,v
+S2425-G0108,1,06:01,MEM,,CHI,,Z. LaVine,CHI,MISS LaVine 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,7,14,2,1,2.0,0.0,v
+S2425-G0108,1,04:27,MEM,,CHI,,Z. LaVine,CHI,SUB: Terry FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0108,2,11:19,MEM,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,2,11:12,MEM,,CHI,,Z. LaVine,CHI,LaVine Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0108,2,08:35,MEM,,CHI,,Z. LaVine,CHI,MISS LaVine 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,40,250,25,1,3.0,0.0,v
+S2425-G0108,2,06:49,MEM,46.0,CHI,28.0,Z. LaVine,CHI,LaVine 14' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,140,5,14,1,2.0,2.0,v
+S2425-G0108,2,06:09,MEM,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,2,05:50,MEM,,CHI,,Z. LaVine,CHI,SUB: White FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0108,2,03:19,MEM,54.0,CHI,42.0,Z. LaVine,CHI,LaVine 25' 3PT Step Back Jump Shot (7 PTS) (Giddey 5 AST),Made Shot,Step Back Jump shot,-93,227,25,1,3.0,3.0,v
+S2425-G0108,2,02:21,MEM,54.0,CHI,46.0,Z. LaVine,CHI,LaVine 17' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,-72,153,17,1,2.0,2.0,v
+S2425-G0108,2,01:58,MEM,57.0,CHI,49.0,Z. LaVine,CHI,LaVine 26' 3PT Jump Shot (12 PTS) (Ball 3 AST),Made Shot,Jump Shot,134,222,26,1,3.0,3.0,v
+S2425-G0108,2,00:00,MEM,,CHI,,Z. LaVine,CHI,MISS LaVine 26' 3PT Jump Shot,Missed Shot,Jump Shot,194,180,26,1,3.0,0.0,v
+S2425-G0108,3,11:45,MEM,68.0,CHI,56.0,Z. LaVine,CHI,LaVine 2' Cutting Finger Roll Layup Shot (14 PTS) (Giddey 6 AST),Made Shot,Cutting Finger Roll Layup Shot,-6,16,2,1,2.0,2.0,v
+S2425-G0108,3,11:45,MEM,68.0,CHI,57.0,Z. LaVine,CHI,LaVine Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0108,3,10:31,MEM,,CHI,,Z. LaVine,CHI,MISS LaVine 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,148,211,26,1,3.0,0.0,v
+S2425-G0108,3,09:54,MEM,72.0,CHI,62.0,Z. LaVine,CHI,LaVine 3' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,-28,12,3,1,2.0,2.0,v
+S2425-G0108,3,09:23,MEM,,CHI,,Z. LaVine,CHI,MISS LaVine 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-49,253,26,1,3.0,0.0,v
+S2425-G0108,3,06:10,MEM,,CHI,,Z. LaVine,CHI,LaVine REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0108,3,05:30,MEM,81.0,CHI,73.0,Z. LaVine,CHI,LaVine 2' Running Reverse Layup (19 PTS),Made Shot,Running Reverse Layup Shot,1,21,2,1,2.0,2.0,v
+S2425-G0108,3,05:02,MEM,,CHI,,Z. LaVine,CHI,MISS LaVine 16' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,-134,83,16,1,2.0,0.0,v
+S2425-G0108,3,04:35,MEM,,CHI,,Z. LaVine,CHI,SUB: Ball FOR LaVine,Substitution,,0,0,0,0,,,v
+S2425-G0108,4,08:20,MEM,108.0,CHI,103.0,Z. LaVine,CHI,LaVine 2' Cutting Dunk Shot (21 PTS) (Giddey 8 AST),Made Shot,Cutting Dunk Shot,0,18,2,1,2.0,2.0,v
+S2425-G0108,4,07:50,MEM,,CHI,,Z. LaVine,CHI,LaVine STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0108,4,07:37,MEM,109.0,CHI,108.0,Z. LaVine,CHI,LaVine 3PT Jump Shot (24 PTS) (Ball 4 AST),Made Shot,Jump Shot,222,36,0,1,3.0,3.0,v
+S2425-G0108,4,07:07,MEM,109.0,CHI,111.0,Z. LaVine,CHI,LaVine 25' 3PT Jump Shot (27 PTS) (Ball 5 AST),Made Shot,Jump Shot,121,218,25,1,3.0,3.0,v
+S2425-G0108,4,05:34,MEM,,CHI,,Z. LaVine,CHI,MISS LaVine 3PT Jump Shot,Missed Shot,Jump Shot,223,29,0,1,3.0,0.0,v
+S2425-G0108,4,05:02,MEM,112.0,CHI,120.0,Z. LaVine,CHI,LaVine 26' 3PT Step Back Jump Shot (30 PTS),Made Shot,Step Back Jump shot,-119,236,26,1,3.0,3.0,v
+S2425-G0108,4,03:24,MEM,,CHI,,Z. LaVine,CHI,MISS LaVine 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-99,207,23,1,2.0,0.0,v
+S2425-G0108,4,00:34.400000,MEM,,CHI,,Z. LaVine,CHI,MISS LaVine 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-120,248,28,1,3.0,0.0,v

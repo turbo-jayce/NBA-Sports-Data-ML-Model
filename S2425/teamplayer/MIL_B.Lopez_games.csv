@@ -1,0 +1,125 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0066,1,11:30,PHI,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,1,10:22,PHI,,MIL,,B. Lopez,MIL,MISS Lopez 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-1,71,7,1,2.0,0.0,v
+S2425-G0066,1,08:52,PHI,,MIL,,B. Lopez,MIL,Lopez BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0066,1,07:31,PHI,,MIL,,B. Lopez,MIL,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,178,204,27,1,3.0,0.0,v
+S2425-G0066,1,07:20,PHI,,MIL,,B. Lopez,MIL,Lopez BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0066,1,04:45,PHI,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,1,03:10,PHI,,MIL,,B. Lopez,MIL,MISS Lopez 3' Hook Shot,Missed Shot,Hook Shot,26,12,3,1,2.0,0.0,v
+S2425-G0066,1,02:49,PHI,,MIL,,B. Lopez,MIL,SUB: Antetokounmpo FOR Lopez,Substitution,,0,0,0,0,,,v
+S2425-G0066,2,06:36,PHI,,MIL,,B. Lopez,MIL,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,83,254,27,1,3.0,0.0,v
+S2425-G0066,2,05:46,PHI,,MIL,,B. Lopez,MIL,Lopez OFF.Foul (P1) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
+S2425-G0066,2,05:46,PHI,,MIL,,B. Lopez,MIL,Lopez Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0066,2,05:31,PHI,,MIL,,B. Lopez,MIL,Lopez BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0066,2,02:12,PHI,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,2,02:01,PHI,,MIL,,B. Lopez,MIL,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,174,205,27,1,3.0,0.0,v
+S2425-G0066,2,01:37,PHI,,MIL,,B. Lopez,MIL,MISS Lopez Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0066,2,01:37,PHI,44.0,MIL,55.0,B. Lopez,MIL,Lopez Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0066,2,01:09,PHI,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,2,01:07,PHI,,MIL,,B. Lopez,MIL,Lopez Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0066,3,11:26,PHI,,MIL,,B. Lopez,MIL,Lopez S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2425-G0066,3,11:05,PHI,,MIL,,B. Lopez,MIL,Lopez S.FOUL (P3.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2425-G0066,3,09:56,PHI,,MIL,,B. Lopez,MIL,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,12,272,27,1,3.0,0.0,v
+S2425-G0066,3,04:54,PHI,,MIL,,B. Lopez,MIL,Lopez 3 Second Violation Turnover (P3.T8),Turnover,3 Second Violation,0,0,0,0,,,v
+S2425-G0066,3,04:31,PHI,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,3,04:11,PHI,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,3,04:11,PHI,69.0,MIL,84.0,B. Lopez,MIL,Lopez Tip Dunk Shot (3 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0066,3,03:37,PHI,,MIL,,B. Lopez,MIL,Lopez BLOCK (4 BLK),,,0,0,0,0,,,v
+S2425-G0066,3,01:54,PHI,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,3,00:54.500000,PHI,78.0,MIL,98.0,B. Lopez,MIL,Lopez 26' 3PT Jump Shot (6 PTS) (Lillard 5 AST),Made Shot,Jump Shot,-78,251,26,1,3.0,3.0,v
+S2425-G0066,4,07:07,PHI,,MIL,,B. Lopez,MIL,Lopez BLOCK (5 BLK),,,0,0,0,0,,,v
+S2425-G0066,4,06:40,PHI,,MIL,,B. Lopez,MIL,Lopez BLOCK (6 BLK),,,0,0,0,0,,,v
+S2425-G0066,4,06:28,PHI,,MIL,,B. Lopez,MIL,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,258,26,1,3.0,0.0,v
+S2425-G0066,4,05:21,PHI,,MIL,,B. Lopez,MIL,Lopez OFF.Foul (P4) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2425-G0066,4,05:21,PHI,,MIL,,B. Lopez,MIL,Lopez Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0066,4,04:48,PHI,97.0,MIL,112.0,B. Lopez,MIL,Lopez Layup (8 PTS) (Prince 3 AST),Made Shot,Layup Shot,-1,-1,0,1,2.0,2.0,v
+S2425-G0066,4,03:52,PHI,97.0,MIL,114.0,B. Lopez,MIL,Lopez Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0066,4,03:52,PHI,97.0,MIL,115.0,B. Lopez,MIL,Lopez Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0066,4,03:04,PHI,,MIL,,B. Lopez,MIL,MISS Lopez 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,48,1,5,1,2.0,0.0,v
+S2425-G0066,4,02:44,PHI,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0066,4,01:06,PHI,,MIL,,B. Lopez,MIL,SUB: Rollins FOR Lopez,Substitution,,0,0,0,0,,,v
+S2425-G0083,1,12:00,MIL,,CHI,,B. Lopez,MIL,Jump Ball Lopez vs. Vučević: Tip to Antetokounmpo,Jump Ball,,0,0,0,0,,,h
+S2425-G0083,1,09:20,MIL,,CHI,,B. Lopez,MIL,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,13,256,26,1,3.0,0.0,h
+S2425-G0083,1,07:31,MIL,10.0,CHI,10.0,B. Lopez,MIL,Lopez 26' 3PT Jump Shot (3 PTS) (Lillard 2 AST),Made Shot,Jump Shot,114,236,26,1,3.0,3.0,h
+S2425-G0083,1,06:18,MIL,,CHI,,B. Lopez,MIL,Lopez BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0083,1,06:13,MIL,,CHI,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,1,05:39,MIL,,CHI,,B. Lopez,MIL,Lopez BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0083,1,04:54,MIL,,CHI,,B. Lopez,MIL,MISS Lopez 11' Jump Shot,Missed Shot,Jump Shot,105,34,11,1,2.0,0.0,h
+S2425-G0083,1,02:58,MIL,,CHI,,B. Lopez,MIL,MISS Lopez 25' 3PT Jump Shot,Missed Shot,Jump Shot,147,207,25,1,3.0,0.0,h
+S2425-G0083,1,01:26,MIL,,CHI,,B. Lopez,MIL,Lopez L.B.FOUL (P1.T4) (J.Ralls),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0083,1,01:26,MIL,,CHI,,B. Lopez,MIL,SUB: Antetokounmpo FOR Lopez,Substitution,,0,0,0,0,,,h
+S2425-G0083,2,06:18,MIL,,CHI,,B. Lopez,MIL,Lopez Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0083,2,05:43,MIL,,CHI,,B. Lopez,MIL,MISS Lopez 13' Floating Jump Shot,Missed Shot,Floating Jump shot,-44,117,13,1,2.0,0.0,h
+S2425-G0083,2,04:00,MIL,,CHI,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,2,02:57,MIL,,CHI,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,2,02:02,MIL,,CHI,,B. Lopez,MIL,Lopez S.FOUL (P2.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0083,2,00:49.100000,MIL,,CHI,,B. Lopez,MIL,MISS Lopez 6' Driving Layup,Missed Shot,Driving Layup Shot,-9,62,6,1,2.0,0.0,h
+S2425-G0083,2,00:29.900000,MIL,,CHI,,B. Lopez,MIL,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,126,227,26,1,3.0,0.0,h
+S2425-G0083,2,00:11.100000,MIL,,CHI,,B. Lopez,MIL,SUB: Portis FOR Lopez,Substitution,,0,0,0,0,,,h
+S2425-G0083,3,10:22,MIL,,CHI,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0083,3,09:31,MIL,,CHI,,B. Lopez,MIL,Lopez Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0083,3,07:16,MIL,74.0,CHI,79.0,B. Lopez,MIL,Lopez 1' Layup (5 PTS) (Lillard 6 AST),Made Shot,Layup Shot,2,5,1,1,2.0,2.0,h
+S2425-G0083,3,04:23,MIL,,CHI,,B. Lopez,MIL,MISS Lopez 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,119,240,27,1,3.0,0.0,h
+S2425-G0083,3,03:30,MIL,,CHI,,B. Lopez,MIL,SUB: Antetokounmpo FOR Lopez,Substitution,,0,0,0,0,,,h
+S2425-G0083,4,05:02,MIL,,CHI,,B. Lopez,MIL,Lopez S.FOUL (P3.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2425-G0083,4,04:18,MIL,,CHI,,B. Lopez,MIL,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,-72,258,27,1,3.0,0.0,h
+S2425-G0083,4,03:21,MIL,117.0,CHI,128.0,B. Lopez,MIL,Lopez Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0083,4,03:21,MIL,118.0,CHI,128.0,B. Lopez,MIL,Lopez Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0083,4,02:19,MIL,,CHI,,B. Lopez,MIL,Lopez BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0083,4,01:49,MIL,,CHI,,B. Lopez,MIL,SUB: Rollins FOR Lopez,Substitution,,0,0,0,0,,,h
+S2425-G0104,1,10:56,BOS,,MIL,,B. Lopez,MIL,MISS Lopez 28' 3PT Jump Shot,Missed Shot,Jump Shot,121,248,28,1,3.0,0.0,v
+S2425-G0104,1,10:39,BOS,,MIL,,B. Lopez,MIL,Lopez BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0104,1,09:49,BOS,,MIL,,B. Lopez,MIL,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,-126,227,26,1,3.0,0.0,v
+S2425-G0104,1,08:55,BOS,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,1,07:20,BOS,,MIL,,B. Lopez,MIL,MISS Lopez 6' Driving Layup,Missed Shot,Driving Layup Shot,-43,42,6,1,2.0,0.0,v
+S2425-G0104,1,06:25,BOS,,MIL,,B. Lopez,MIL,Lopez STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0104,1,05:25,BOS,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,1,05:16,BOS,14.0,MIL,17.0,B. Lopez,MIL,Lopez 2' Turnaround Hook Shot (2 PTS) (Antetokounmpo 2 AST),Made Shot,Turnaround Hook Shot,-12,16,2,1,2.0,2.0,v
+S2425-G0104,1,04:15,BOS,,MIL,,B. Lopez,MIL,SUB: Portis FOR Lopez,Substitution,,0,0,0,0,,,v
+S2425-G0104,2,11:23,BOS,,MIL,,B. Lopez,MIL,Lopez BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0104,2,11:00,BOS,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,2,09:47,BOS,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,2,09:47,BOS,,MIL,,B. Lopez,MIL,MISS Lopez Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0104,2,09:47,BOS,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,2,09:47,BOS,33.0,MIL,36.0,B. Lopez,MIL,Lopez Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0104,2,09:47,BOS,33.0,MIL,37.0,B. Lopez,MIL,Lopez Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0104,2,09:03,BOS,,MIL,,B. Lopez,MIL,MISS Lopez 5' Driving Layup,Missed Shot,Driving Layup Shot,-44,20,5,1,2.0,0.0,v
+S2425-G0104,2,08:01,BOS,,MIL,,B. Lopez,MIL,Lopez BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0104,2,07:51,BOS,,MIL,,B. Lopez,MIL,MISS Lopez 28' 3PT Jump Shot,Missed Shot,Jump Shot,39,276,28,1,3.0,0.0,v
+S2425-G0104,2,03:29,BOS,48.0,MIL,52.0,B. Lopez,MIL,Lopez 3' Layup (6 PTS) (Antetokounmpo 4 AST),Made Shot,Layup Shot,23,17,3,1,2.0,2.0,v
+S2425-G0104,2,02:31,BOS,50.0,MIL,54.0,B. Lopez,MIL,Lopez 3' Layup (8 PTS) (Antetokounmpo 5 AST),Made Shot,Layup Shot,20,27,3,1,2.0,2.0,v
+S2425-G0104,2,01:36,BOS,51.0,MIL,56.0,B. Lopez,MIL,Lopez 10' Turnaround Hook Shot (10 PTS) (Antetokounmpo 6 AST),Made Shot,Turnaround Hook Shot,85,55,10,1,2.0,2.0,v
+S2425-G0104,2,01:27,BOS,,MIL,,B. Lopez,MIL,Lopez P.FOUL (P1.PN) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2425-G0104,2,00:33.100000,BOS,,MIL,,B. Lopez,MIL,Lopez STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0104,3,10:13,BOS,,MIL,,B. Lopez,MIL,Lopez S.FOUL (P2.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2425-G0104,3,09:54,BOS,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0104,3,09:54,BOS,60.0,MIL,60.0,B. Lopez,MIL,Lopez 2' Putback Dunk (12 PTS),Made Shot,Putback Dunk Shot,15,5,2,1,2.0,2.0,v
+S2425-G0104,3,09:54,BOS,60.0,MIL,61.0,B. Lopez,MIL,Lopez Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0104,3,09:21,BOS,,MIL,,B. Lopez,MIL,MISS Lopez 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-88,116,15,1,2.0,0.0,v
+S2425-G0104,3,09:02,BOS,,MIL,,B. Lopez,MIL,MISS Lopez 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,140,226,27,1,3.0,0.0,v
+S2425-G0104,3,05:28,BOS,,MIL,,B. Lopez,MIL,SUB: Portis FOR Lopez,Substitution,,0,0,0,0,,,v
+S2425-G0104,3,02:28,BOS,,MIL,,B. Lopez,MIL,SUB: Antetokounmpo FOR Lopez,Substitution,,0,0,0,0,,,v
+S2425-G0104,4,06:35,BOS,,MIL,,B. Lopez,MIL,Lopez BLOCK (4 BLK),,,0,0,0,0,,,v
+S2425-G0104,4,04:04,BOS,,MIL,,B. Lopez,MIL,MISS Lopez 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,65,38,8,1,2.0,0.0,v
+S2425-G0104,4,02:44,BOS,,MIL,,B. Lopez,MIL,Lopez P.FOUL (P3.T4) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2425-G0104,4,02:44,BOS,,MIL,,B. Lopez,MIL,SUB: Jackson Jr. FOR Lopez,Substitution,,0,0,0,0,,,v
+S2425-G0098,1,11:44,BKN,0.0,MIL,2.0,B. Lopez,MIL,Lopez 12' Hook Shot (2 PTS) (Antetokounmpo 1 AST),Made Shot,Hook Shot,-11,123,12,1,2.0,2.0,v
+S2425-G0098,1,10:48,BKN,,MIL,,B. Lopez,MIL,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,-72,248,26,1,3.0,0.0,v
+S2425-G0098,1,10:02,BKN,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,1,09:32,BKN,4.0,MIL,6.0,B. Lopez,MIL,Lopez 11' Driving Hook Shot (4 PTS) (Lillard 1 AST),Made Shot,Driving Hook Shot,-29,106,11,1,2.0,2.0,v
+S2425-G0098,1,04:53,BKN,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,1,03:26,BKN,,MIL,,B. Lopez,MIL,Lopez Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0098,1,03:02,BKN,,MIL,,B. Lopez,MIL,MISS Lopez 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-98,122,16,1,2.0,0.0,v
+S2425-G0098,1,02:15,BKN,,MIL,,B. Lopez,MIL,SUB: Antetokounmpo FOR Lopez,Substitution,,0,0,0,0,,,v
+S2425-G0098,2,01:10,BKN,46.0,MIL,45.0,B. Lopez,MIL,Lopez 26' 3PT Jump Shot (7 PTS) (Lillard 2 AST),Made Shot,Jump Shot,140,217,26,1,3.0,3.0,v
+S2425-G0098,3,11:39,BKN,,MIL,,B. Lopez,MIL,Lopez STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0098,3,10:43,BKN,51.0,MIL,49.0,B. Lopez,MIL,Lopez 9' Turnaround Jump Shot (9 PTS) (Antetokounmpo 4 AST),Made Shot,Turnaround Jump Shot,69,50,9,1,2.0,2.0,v
+S2425-G0098,3,09:34,BKN,55.0,MIL,54.0,B. Lopez,MIL,Lopez 24' 3PT Jump Shot (12 PTS) (Antetokounmpo 5 AST),Made Shot,Jump Shot,-234,-28,24,1,3.0,3.0,v
+S2425-G0098,3,09:20,BKN,,MIL,,B. Lopez,MIL,Lopez S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2425-G0098,3,08:50,BKN,,MIL,,B. Lopez,MIL,Lopez STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0098,3,06:06,BKN,65.0,MIL,64.0,B. Lopez,MIL,Lopez 27' 3PT Jump Shot (15 PTS) (Lillard 4 AST),Made Shot,Jump Shot,150,220,27,1,3.0,3.0,v
+S2425-G0098,3,01:06,BKN,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,3,00:59.500000,BKN,,MIL,,B. Lopez,MIL,MISS Lopez 28' 3PT Jump Shot,Missed Shot,Jump Shot,114,260,28,1,3.0,0.0,v
+S2425-G0098,3,00:28.400000,BKN,,MIL,,B. Lopez,MIL,SUB: Antetokounmpo FOR Lopez,Substitution,,0,0,0,0,,,v
+S2425-G0098,4,04:01,BKN,,MIL,,B. Lopez,MIL,Lopez REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,4,03:26,BKN,,MIL,,B. Lopez,MIL,SUB: Green FOR Lopez,Substitution,,0,0,0,0,,,v

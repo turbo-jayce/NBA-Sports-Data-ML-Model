@@ -1,0 +1,23 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0081,4,05:00,NYK,,IND,,A. Hukporti,NYK,Hukporti BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0081,4,04:55,NYK,,IND,,A. Hukporti,NYK,Hukporti Violation:Kicked Ball (B.Kennedy),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0081,4,03:34,NYK,,IND,,A. Hukporti,NYK,Hukporti Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0081,4,03:31,NYK,,IND,,A. Hukporti,NYK,Hukporti BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0081,4,01:34,NYK,,IND,,A. Hukporti,NYK,Hukporti OFF.Foul (P1) (J.DeRosa),Foul,Offensive,0,0,0,0,,,h
+S2425-G0081,4,01:34,NYK,,IND,,A. Hukporti,NYK,Hukporti Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0081,4,00:23.800000,NYK,,IND,,A. Hukporti,NYK,Hukporti REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,2,06:23,NYK,,CLE,,A. Hukporti,NYK,MISS Hukporti 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,59,6,1,2.0,0.0,h
+S2425-G0106,2,04:08,NYK,,CLE,,A. Hukporti,NYK,Hukporti REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,2,02:16,NYK,,CLE,,A. Hukporti,NYK,Hukporti Violation:Kicked Ball (R.Mott),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0106,2,02:16,NYK,,CLE,,A. Hukporti,NYK,SUB: Towns FOR Hukporti,Substitution,,0,0,0,0,,,h
+S2425-G0106,3,01:58,NYK,,CLE,,A. Hukporti,NYK,SUB: Towns FOR Hukporti,Substitution,,0,0,0,0,,,h
+S2425-G0106,4,05:27,NYK,,CLE,,A. Hukporti,NYK,Hukporti REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0106,4,05:03,NYK,,CLE,,A. Hukporti,NYK,Hukporti BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0106,4,04:04,NYK,,CLE,,A. Hukporti,NYK,Hukporti OFF.Foul (P1) (R.Hussey),Foul,Offensive,0,0,0,0,,,h
+S2425-G0106,4,04:04,NYK,,CLE,,A. Hukporti,NYK,Hukporti Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0106,4,03:29,NYK,,CLE,,A. Hukporti,NYK,SUB: Towns FOR Hukporti,Substitution,,0,0,0,0,,,h
+S2425-G0061,4,05:26,BOS,,NYK,,A. Hukporti,NYK,Hukporti BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0061,4,04:58,BOS,,NYK,,A. Hukporti,NYK,Hukporti REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,4,03:00,BOS,,NYK,,A. Hukporti,NYK,Hukporti REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,4,02:24,BOS,,NYK,,A. Hukporti,NYK,Hukporti REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0061,4,01:24,BOS,,NYK,,A. Hukporti,NYK,Hukporti REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v

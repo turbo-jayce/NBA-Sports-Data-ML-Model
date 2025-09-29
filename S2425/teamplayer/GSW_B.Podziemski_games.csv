@@ -1,0 +1,128 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,10:46,GSW,6.0,NOP,0.0,B. Podziemski,GSW,Podziemski 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,37,16,4,1,2.0,2.0,h
+S2425-G0126,1,09:32,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-110,-15,11,1,2.0,0.0,h
+S2425-G0126,1,08:11,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 3PT Jump Shot,Missed Shot,Jump Shot,-227,-7,0,1,3.0,0.0,h
+S2425-G0126,1,05:19,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,05:02,GSW,,NOP,,B. Podziemski,GSW,Podziemski Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0126,1,03:05,GSW,,NOP,,B. Podziemski,GSW,SUB: Moody FOR Podziemski,Substitution,,0,0,0,0,,,h
+S2425-G0126,2,06:55,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,150,108,18,1,2.0,0.0,h
+S2425-G0126,2,06:26,GSW,,NOP,,B. Podziemski,GSW,Podziemski Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0126,2,04:42,GSW,,NOP,,B. Podziemski,GSW,Podziemski STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0126,2,04:23,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,25,137,14,1,2.0,0.0,h
+S2425-G0126,2,02:25,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,02:19,GSW,45.0,NOP,39.0,B. Podziemski,GSW,Podziemski 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,148,230,27,1,3.0,3.0,h
+S2425-G0126,2,01:44,GSW,,NOP,,B. Podziemski,GSW,Podziemski Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0126,2,01:19,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 4' Driving Layup,Missed Shot,Driving Layup Shot,33,15,4,1,2.0,0.0,h
+S2425-G0126,3,10:54,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,10:43,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 26' 3PT Jump Shot,Missed Shot,Jump Shot,158,211,26,1,3.0,0.0,h
+S2425-G0126,3,07:41,GSW,62.0,NOP,48.0,B. Podziemski,GSW,Podziemski 28' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,82,267,28,1,3.0,3.0,h
+S2425-G0126,3,07:03,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,06:49,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 30' 3PT Jump Shot,Missed Shot,Jump Shot,-42,293,30,1,3.0,0.0,h
+S2425-G0126,3,05:32,GSW,69.0,NOP,53.0,B. Podziemski,GSW,Podziemski 3' Cutting Layup Shot (10 PTS) (Jackson-Davis 2 AST),Made Shot,Cutting Layup Shot,-28,16,3,1,2.0,2.0,h
+S2425-G0126,3,05:14,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,04:24,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,3,04:11,GSW,,NOP,,B. Podziemski,GSW,Podziemski OFF.Foul (P1) (D.Taylor),Foul,Offensive,0,0,0,0,,,h
+S2425-G0126,3,04:11,GSW,,NOP,,B. Podziemski,GSW,Podziemski Offensive Foul Turnover (P4.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0126,3,02:08,GSW,,NOP,,B. Podziemski,GSW,SUB: Green FOR Podziemski,Substitution,,0,0,0,0,,,h
+S2425-G0126,4,10:55,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-136,235,27,1,3.0,0.0,h
+S2425-G0126,4,09:53,GSW,,NOP,,B. Podziemski,GSW,Podziemski S.FOUL (P2.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,4,09:16,GSW,84.0,NOP,67.0,B. Podziemski,GSW,Podziemski 6' Driving Floating Jump Shot (12 PTS) (Hield 3 AST),Made Shot,Driving Floating Jump Shot,18,58,6,1,2.0,2.0,h
+S2425-G0126,4,07:05,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,06:08,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,4,04:44,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-33,138,14,1,2.0,0.0,h
+S2425-G0126,4,04:30,GSW,,NOP,,B. Podziemski,GSW,Podziemski T.FOUL (P2.PN) (M.Kallio),Foul,Technical,0,0,0,0,,,h
+S2425-G0126,4,02:23,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0126,4,02:23,GSW,100.0,NOP,85.0,B. Podziemski,GSW,Podziemski Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0126,4,01:39,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 26' 3PT Jump Shot,Missed Shot,Jump Shot,-203,162,26,1,3.0,0.0,h
+S2425-G0126,4,01:22,GSW,,NOP,,B. Podziemski,GSW,SUB: Santos FOR Podziemski,Substitution,,0,0,0,0,,,h
+S2425-G0101,1,02:20,GSW,,LAC,,B. Podziemski,GSW,Podziemski S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2425-G0101,1,00:05,GSW,,LAC,,B. Podziemski,GSW,Podziemski Personal Take Foul (P2.T3) (B.Schwab),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0101,1,00:00.200000,GSW,,LAC,,B. Podziemski,GSW,MISS Podziemski 71' 3PT Jump Shot,Missed Shot,Jump Shot,-31,713,71,1,3.0,0.0,h
+S2425-G0101,2,00:29.600000,GSW,54.0,LAC,59.0,B. Podziemski,GSW,Podziemski 9' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,92,3,9,1,2.0,2.0,h
+S2425-G0101,3,03:44,GSW,,LAC,,B. Podziemski,GSW,Podziemski Bad Pass Turnover (P1.T19),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0101,3,01:20,GSW,,LAC,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,3,01:15,GSW,,LAC,,B. Podziemski,GSW,MISS Podziemski 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-161,189,25,1,3.0,0.0,h
+S2425-G0101,3,00:49.400000,GSW,,LAC,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,08:34,GSW,,LAC,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,06:52,GSW,,LAC,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,06:32,GSW,90.0,LAC,98.0,B. Podziemski,GSW,Podziemski 17' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,150,86,17,1,2.0,2.0,h
+S2425-G0101,4,06:05,GSW,,LAC,,B. Podziemski,GSW,MISS Podziemski 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,231,26,1,3.0,0.0,h
+S2425-G0101,4,00:55.800000,GSW,,LAC,,B. Podziemski,GSW,MISS Podziemski 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,199,144,25,1,3.0,0.0,h
+S2425-G0101,4,00:35.500000,GSW,,LAC,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,00:33.700000,GSW,,LAC,,B. Podziemski,GSW,Podziemski Step Out of Bounds Turnover (P2.T21),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0101,4,00:25.300000,GSW,,LAC,,B. Podziemski,GSW,MISS Podziemski 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-12,41,4,1,2.0,0.0,h
+S2425-G0101,4,00:17.900000,GSW,,LAC,,B. Podziemski,GSW,MISS Podziemski 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-225,36,0,1,3.0,0.0,h
+S2425-G0072,1,03:32,POR,,GSW,,B. Podziemski,GSW,Podziemski STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0072,1,03:19,POR,,GSW,,B. Podziemski,GSW,Podziemski P.FOUL (P1.T3) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2425-G0072,1,03:06,POR,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,04:10,POR,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,01:17,POR,,GSW,,B. Podziemski,GSW,MISS Podziemski 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,10,24,1,3.0,0.0,v
+S2425-G0072,2,00:06.300000,POR,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,00:00.600000,POR,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,00:00.600000,POR,,GSW,,B. Podziemski,GSW,MISS Podziemski Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0072,3,04:32,POR,,GSW,,B. Podziemski,GSW,Podziemski Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0072,3,04:24,POR,,GSW,,B. Podziemski,GSW,MISS Podziemski 3PT Jump Shot,Missed Shot,Jump Shot,-230,40,0,1,3.0,0.0,v
+S2425-G0072,3,03:13,POR,,GSW,,B. Podziemski,GSW,MISS Podziemski 25' 3PT Jump Shot,Missed Shot,Jump Shot,174,184,25,1,3.0,0.0,v
+S2425-G0072,3,02:46,POR,,GSW,,B. Podziemski,GSW,Podziemski L.B.FOUL (P2.T4) (D.Collins),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0072,3,01:54,POR,,GSW,,B. Podziemski,GSW,MISS Podziemski 27' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,-134,230,27,1,3.0,0.0,v
+S2425-G0072,3,01:21,POR,,GSW,,B. Podziemski,GSW,Podziemski P.FOUL (P3.PN) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2425-G0072,4,11:20,POR,,GSW,,B. Podziemski,GSW,Podziemski Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0072,4,09:08,POR,,GSW,,B. Podziemski,GSW,SUB: Wiggins FOR Podziemski,Substitution,,0,0,0,0,,,v
+S2425-G0072,4,03:36,POR,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,4,02:42,POR,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,4,01:53,POR,,GSW,,B. Podziemski,GSW,Podziemski Bad Pass Turnover (P3.T18),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0072,4,00:32.100000,POR,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0116,1,10:28,GSW,5.0,NOP,2.0,B. Podziemski,GSW,Podziemski 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,7,38,4,1,2.0,2.0,h
+S2425-G0116,1,09:22,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,61,283,29,1,3.0,0.0,h
+S2425-G0116,1,08:27,GSW,8.0,NOP,10.0,B. Podziemski,GSW,Podziemski 3PT Jump Shot (5 PTS) (Jackson-Davis 1 AST),Made Shot,Jump Shot,-223,17,0,1,3.0,3.0,h
+S2425-G0116,1,08:02,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 3PT Jump Shot,Missed Shot,Jump Shot,230,37,0,1,3.0,0.0,h
+S2425-G0116,1,07:05,GSW,,NOP,,B. Podziemski,GSW,Podziemski BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,1,06:23,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 12' Floating Jump Shot,Missed Shot,Floating Jump shot,98,77,12,1,2.0,0.0,h
+S2425-G0116,1,05:30,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,05:25,GSW,12.0,NOP,16.0,B. Podziemski,GSW,Podziemski 3' Layup (7 PTS),Made Shot,Layup Shot,-26,16,3,1,2.0,2.0,h
+S2425-G0116,1,04:25,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 7' Driving Layup,Missed Shot,Driving Layup Shot,49,55,7,1,2.0,0.0,h
+S2425-G0116,1,02:59,GSW,,NOP,,B. Podziemski,GSW,SUB: Moody FOR Podziemski,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,05:58,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 1' Running Layup,Missed Shot,Running Layup Shot,10,1,1,1,2.0,0.0,h
+S2425-G0116,2,03:20,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,02:39,GSW,42.0,NOP,45.0,B. Podziemski,GSW,Podziemski 11' Floating Jump Shot (9 PTS) (Hield 1 AST),Made Shot,Floating Jump shot,-12,114,11,1,2.0,2.0,h
+S2425-G0116,2,02:19,GSW,,NOP,,B. Podziemski,GSW,Podziemski STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,2,01:34,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-48,268,27,1,3.0,0.0,h
+S2425-G0116,2,00:08.800000,GSW,,NOP,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,00:01.400000,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-42,67,8,1,2.0,0.0,h
+S2425-G0116,3,10:03,GSW,57.0,NOP,59.0,B. Podziemski,GSW,Podziemski 28' 3PT Jump Shot (12 PTS) (Waters III 2 AST),Made Shot,Jump Shot,42,278,28,1,3.0,3.0,h
+S2425-G0116,3,09:39,GSW,59.0,NOP,62.0,B. Podziemski,GSW,Podziemski 3' Cutting Layup Shot (14 PTS) (Green 4 AST),Made Shot,Cutting Layup Shot,-20,20,3,1,2.0,2.0,h
+S2425-G0116,3,08:22,GSW,64.0,NOP,64.0,B. Podziemski,GSW,Podziemski 3PT Jump Shot (17 PTS) (Moody 1 AST),Made Shot,Jump Shot,-224,38,0,1,3.0,3.0,h
+S2425-G0116,3,07:51,GSW,66.0,NOP,66.0,B. Podziemski,GSW,Podziemski 12' Pullup Jump Shot (19 PTS) (Jackson-Davis 2 AST),Made Shot,Pullup Jump shot,20,120,12,1,2.0,2.0,h
+S2425-G0116,3,07:17,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 28' 3PT Jump Shot,Missed Shot,Jump Shot,176,220,28,1,3.0,0.0,h
+S2425-G0116,3,05:30,GSW,,NOP,,B. Podziemski,GSW,Podziemski P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2425-G0116,3,04:51,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,16,326,33,1,3.0,0.0,h
+S2425-G0116,3,03:04,GSW,,NOP,,B. Podziemski,GSW,Podziemski BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0116,4,06:23,GSW,,NOP,,B. Podziemski,GSW,Podziemski S.FOUL (P2.T4) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,4,05:30,GSW,,NOP,,B. Podziemski,GSW,MISS Podziemski 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-29,25,4,1,2.0,0.0,h
+S2425-G0116,4,02:43,GSW,,NOP,,B. Podziemski,GSW,SUB: Spencer FOR Podziemski,Substitution,,0,0,0,0,,,h
+S2425-G0084,1,04:46,UTA,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,01:52,UTA,,GSW,,B. Podziemski,GSW,Podziemski L.B.FOUL (P1.PN) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0084,1,01:52,UTA,,GSW,,B. Podziemski,GSW,Lane,Violation,Lane,0,0,0,0,,,v
+S2425-G0084,1,01:29,UTA,21.0,GSW,27.0,B. Podziemski,GSW,Podziemski 8' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-32,73,8,1,2.0,2.0,v
+S2425-G0084,1,01:15,UTA,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,11:12,UTA,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,2,09:46,UTA,,GSW,,B. Podziemski,GSW,Podziemski STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0084,2,09:33,UTA,,GSW,,B. Podziemski,GSW,MISS Podziemski 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,230,25,1,3.0,0.0,v
+S2425-G0084,2,08:46,UTA,,GSW,,B. Podziemski,GSW,MISS Podziemski 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-42,18,5,1,2.0,0.0,v
+S2425-G0084,2,07:09,UTA,,GSW,,B. Podziemski,GSW,SUB: Curry FOR Podziemski,Substitution,,0,0,0,0,,,v
+S2425-G0084,3,04:04,UTA,57.0,GSW,86.0,B. Podziemski,GSW,Podziemski 26' 3PT Jump Shot (5 PTS) (Hield 5 AST),Made Shot,Jump Shot,-34,253,26,1,3.0,3.0,v
+S2425-G0084,3,03:00,UTA,57.0,GSW,88.0,B. Podziemski,GSW,Podziemski 13' Pullup Jump Shot (7 PTS) (Looney 1 AST),Made Shot,Pullup Jump shot,-125,0,13,1,2.0,2.0,v
+S2425-G0084,3,00:35.500000,UTA,,GSW,,B. Podziemski,GSW,MISS Podziemski 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-108,222,25,1,3.0,0.0,v
+S2425-G0084,4,11:16,UTA,,GSW,,B. Podziemski,GSW,Podziemski BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0084,4,10:56,UTA,,GSW,,B. Podziemski,GSW,MISS Podziemski 3' Driving Layup,Missed Shot,Driving Layup Shot,-33,3,3,1,2.0,0.0,v
+S2425-G0084,4,08:43,UTA,,GSW,,B. Podziemski,GSW,MISS Podziemski 28' 3PT Jump Shot,Missed Shot,Jump Shot,17,277,28,1,3.0,0.0,v
+S2425-G0084,4,08:32,UTA,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,4,08:22,UTA,,GSW,,B. Podziemski,GSW,SUB: Wiggins FOR Podziemski,Substitution,,0,0,0,0,,,v
+S2425-G0084,4,05:56,UTA,,GSW,,B. Podziemski,GSW,Podziemski P.FOUL (P2.T4) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2425-G0084,4,04:40,UTA,,GSW,,B. Podziemski,GSW,MISS Podziemski 5' Running Layup,Missed Shot,Running Layup Shot,-47,20,5,1,2.0,0.0,v
+S2425-G0084,4,04:11,UTA,84.0,GSW,116.0,B. Podziemski,GSW,Podziemski 6' Running Finger Roll Layup (9 PTS) (Anderson 2 AST),Made Shot,Running Finger Roll Layup Shot,-50,32,6,1,2.0,2.0,v
+S2425-G0084,4,03:24,UTA,86.0,GSW,118.0,B. Podziemski,GSW,Podziemski 5' Driving Hook Shot (11 PTS),Made Shot,Driving Hook Shot,-9,48,5,1,2.0,2.0,v
+S2425-G0084,4,02:25,UTA,,GSW,,B. Podziemski,GSW,MISS Podziemski 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,197,162,26,1,3.0,0.0,v
+S2425-G0084,4,01:12,UTA,86.0,GSW,125.0,B. Podziemski,GSW,Podziemski 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,-32,13,3,1,2.0,2.0,v
+S2425-G0084,4,00:39.600000,UTA,,GSW,,B. Podziemski,GSW,Podziemski REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,4,00:39.600000,UTA,86.0,GSW,127.0,B. Podziemski,GSW,Podziemski Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v

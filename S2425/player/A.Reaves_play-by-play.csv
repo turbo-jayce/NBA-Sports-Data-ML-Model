@@ -1,0 +1,151 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0062,1,10:51,LAL,,MIN,,A. Reaves,LAL,Reaves P.FOUL (P1.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2425-G0062,1,09:20,LAL,,MIN,,A. Reaves,LAL,Reaves REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,1,08:46,LAL,,MIN,,A. Reaves,LAL,Reaves Violation:Kicked Ball (N.Buchert),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0062,1,07:40,LAL,,MIN,,A. Reaves,LAL,MISS Reaves 31' 3PT Jump Shot,Missed Shot,Jump Shot,-142,278,31,1,3.0,0.0,h
+S2425-G0062,1,05:41,LAL,,MIN,,A. Reaves,LAL,MISS Reaves 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-138,228,27,1,3.0,0.0,h
+S2425-G0062,1,03:58,LAL,,MIN,,A. Reaves,LAL,MISS Reaves 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,9,37,4,1,2.0,0.0,h
+S2425-G0062,1,03:51,LAL,,MIN,,A. Reaves,LAL,Reaves REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,1,03:51,LAL,18.0,MIN,12.0,A. Reaves,LAL,Reaves Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0062,1,03:03,LAL,,MIN,,A. Reaves,LAL,SUB: L. James FOR Reaves,Substitution,,0,0,0,0,,,h
+S2425-G0062,2,07:07,LAL,,MIN,,A. Reaves,LAL,Reaves BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0062,2,06:49,LAL,,MIN,,A. Reaves,LAL,Reaves STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0062,2,06:48,LAL,43.0,MIN,29.0,A. Reaves,LAL,Reaves 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,-10,25,3,1,2.0,2.0,h
+S2425-G0062,2,06:48,LAL,,MIN,,A. Reaves,LAL,MISS Reaves Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0062,2,04:52,LAL,,MIN,,A. Reaves,LAL,Reaves REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,2,01:29,LAL,,MIN,,A. Reaves,LAL,Reaves REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,3,10:49,LAL,,MIN,,A. Reaves,LAL,Reaves L.B.FOUL (P2.T2) (J.Orr),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0062,3,10:30,LAL,59.0,MIN,44.0,A. Reaves,LAL,Reaves 12' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,58,100,12,1,2.0,2.0,h
+S2425-G0062,3,10:04,LAL,,MIN,,A. Reaves,LAL,Reaves REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,3,09:59,LAL,,MIN,,A. Reaves,LAL,Jump Ball Reaves vs. McDaniels: Tip to Hachimura,Jump Ball,,0,0,0,0,,,h
+S2425-G0062,3,08:40,LAL,,MIN,,A. Reaves,LAL,MISS Reaves 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-70,142,16,1,2.0,0.0,h
+S2425-G0062,3,07:44,LAL,,MIN,,A. Reaves,LAL,MISS Reaves 24' 3PT Jump Shot,Missed Shot,Jump Shot,-131,205,24,1,3.0,0.0,h
+S2425-G0062,3,05:56,LAL,,MIN,,A. Reaves,LAL,Reaves REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,3,05:53,LAL,68.0,MIN,54.0,A. Reaves,LAL,Reaves 8' Floating Jump Shot (8 PTS),Made Shot,Floating Jump shot,28,74,8,1,2.0,2.0,h
+S2425-G0062,3,05:37,LAL,,MIN,,A. Reaves,LAL,Reaves REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,3,05:20,LAL,70.0,MIN,54.0,A. Reaves,LAL,Reaves 7' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,72,7,1,2.0,2.0,h
+S2425-G0062,3,04:53,LAL,,MIN,,A. Reaves,LAL,MISS Reaves 7' Driving Layup,Missed Shot,Driving Layup Shot,-10,69,7,1,2.0,0.0,h
+S2425-G0062,3,03:00,LAL,,MIN,,A. Reaves,LAL,SUB: Hayes FOR Reaves,Substitution,,0,0,0,0,,,h
+S2425-G0062,4,10:16,LAL,,MIN,,A. Reaves,LAL,MISS Reaves 26' 3PT Jump Shot,Missed Shot,Jump Shot,143,221,26,1,3.0,0.0,h
+S2425-G0062,4,10:04,LAL,,MIN,,A. Reaves,LAL,Reaves P.FOUL (P3.T3) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2425-G0062,4,09:15,LAL,,MIN,,A. Reaves,LAL,Reaves REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,4,07:22,LAL,,MIN,,A. Reaves,LAL,Reaves REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0062,4,02:37,LAL,105.0,MIN,95.0,A. Reaves,LAL,Reaves 3' Running Layup (12 PTS) (L. James 4 AST),Made Shot,Running Layup Shot,0,25,3,1,2.0,2.0,h
+S2425-G0062,4,01:56,LAL,,MIN,,A. Reaves,LAL,Reaves S.FOUL (P4.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0062,4,00:27.800000,LAL,,MIN,,A. Reaves,LAL,MISS Reaves 28' 3PT Jump Shot,Missed Shot,Jump Shot,102,266,28,1,3.0,0.0,h
+S2425-G0111,1,10:29,PHX,,LAL,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,1,08:25,PHX,6.0,LAL,10.0,A. Reaves,LAL,Reaves 27' 3PT Jump Shot (3 PTS) (Hachimura 1 AST),Made Shot,Jump Shot,141,230,27,1,3.0,3.0,v
+S2425-G0111,1,06:32,PHX,,LAL,,A. Reaves,LAL,MISS Reaves 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-33,128,13,1,2.0,0.0,v
+S2425-G0111,1,06:13,PHX,,LAL,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,1,05:16,PHX,8.0,LAL,26.0,A. Reaves,LAL,Reaves 29' 3PT Jump Shot (6 PTS) (Christie 1 AST),Made Shot,Jump Shot,-143,258,29,1,3.0,3.0,v
+S2425-G0111,1,03:53,PHX,,LAL,,A. Reaves,LAL,MISS Reaves 7' Driving Layup,Missed Shot,Driving Layup Shot,1,73,7,1,2.0,0.0,v
+S2425-G0111,1,02:41,PHX,,LAL,,A. Reaves,LAL,MISS Reaves 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,13,24,1,3.0,0.0,v
+S2425-G0111,1,02:38,PHX,,LAL,,A. Reaves,LAL,SUB: Hayes FOR Reaves,Substitution,,0,0,0,0,,,v
+S2425-G0111,2,07:21,PHX,,LAL,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,2,05:57,PHX,,LAL,,A. Reaves,LAL,MISS Reaves 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,106,11,1,2.0,0.0,v
+S2425-G0111,2,05:17,PHX,,LAL,,A. Reaves,LAL,MISS Reaves 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-143,235,28,1,3.0,0.0,v
+S2425-G0111,2,05:04,PHX,,LAL,,A. Reaves,LAL,Reaves STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0111,2,03:26,PHX,,LAL,,A. Reaves,LAL,Reaves S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0111,3,11:00,PHX,54.0,LAL,51.0,A. Reaves,LAL,Reaves 27' 3PT Jump Shot (9 PTS) (L. James 5 AST),Made Shot,Jump Shot,-170,210,27,1,3.0,3.0,v
+S2425-G0111,3,09:43,PHX,,LAL,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,3,09:39,PHX,,LAL,,A. Reaves,LAL,Reaves Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0111,3,05:55,PHX,66.0,LAL,67.0,A. Reaves,LAL,Reaves 16' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,100,121,16,1,2.0,2.0,v
+S2425-G0111,3,04:27,PHX,,LAL,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,3,03:22,PHX,68.0,LAL,75.0,A. Reaves,LAL,Reaves 27' 3PT Jump Shot (14 PTS) (Davis 2 AST),Made Shot,Jump Shot,-132,232,27,1,3.0,3.0,v
+S2425-G0111,3,00:59.900000,PHX,,LAL,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,3,00:47,PHX,,LAL,,A. Reaves,LAL,SUB: Russell FOR Reaves,Substitution,,0,0,0,0,,,v
+S2425-G0111,4,08:07,PHX,90.0,LAL,88.0,A. Reaves,LAL,Reaves 3' Cutting Layup Shot (16 PTS) (Russell 9 AST),Made Shot,Cutting Layup Shot,-4,27,3,1,2.0,2.0,v
+S2425-G0111,4,06:52,PHX,,LAL,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,4,06:48,PHX,,LAL,,A. Reaves,LAL,Reaves STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0111,4,06:12,PHX,,LAL,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0111,4,04:17,PHX,97.0,LAL,97.0,A. Reaves,LAL,Reaves 26' 3PT Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,164,205,26,1,3.0,3.0,v
+S2425-G0111,4,04:17,PHX,97.0,LAL,98.0,A. Reaves,LAL,Reaves Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0111,4,03:49,PHX,99.0,LAL,100.0,A. Reaves,LAL,Reaves 14' Driving Floating Jump Shot (22 PTS),Made Shot,Driving Floating Jump Shot,66,122,14,1,2.0,2.0,v
+S2425-G0111,4,03:21,PHX,101.0,LAL,101.0,A. Reaves,LAL,Reaves Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0111,4,03:21,PHX,,LAL,,A. Reaves,LAL,MISS Reaves Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0111,4,00:37.300000,PHX,,LAL,,A. Reaves,LAL,MISS Reaves 29' 3PT Jump Shot,Missed Shot,Jump Shot,157,239,29,1,3.0,0.0,v
+S2425-G0111,4,00:00.800000,PHX,,LAL,,A. Reaves,LAL,Reaves Personal Take Foul (P3.PN) (M.Smith),Foul,Personal Take,0,0,0,0,,,v
+S2425-G0111,4,00:00.100000,PHX,,LAL,,A. Reaves,LAL,MISS Reaves 76' 3PT Jump Shot,Missed Shot,Jump Shot,-129,747,76,1,3.0,0.0,v
+S2425-G0096,1,11:08,LAL,,SAC,,A. Reaves,LAL,MISS Reaves 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,94,9,1,2.0,0.0,h
+S2425-G0096,1,09:51,LAL,,SAC,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,1,09:43,LAL,,SAC,,A. Reaves,LAL,MISS Reaves 26' 3PT Jump Shot,Missed Shot,Jump Shot,119,236,26,1,3.0,0.0,h
+S2425-G0096,1,08:13,LAL,,SAC,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,1,07:30,LAL,,SAC,,A. Reaves,LAL,Reaves REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,1,07:30,LAL,12.0,SAC,6.0,A. Reaves,LAL,Reaves Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0096,1,07:16,LAL,,SAC,,A. Reaves,LAL,Reaves Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0096,1,05:19,LAL,,SAC,,A. Reaves,LAL,MISS Reaves 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,45,25,5,1,2.0,0.0,h
+S2425-G0096,1,05:16,LAL,,SAC,,A. Reaves,LAL,Reaves REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,1,04:49,LAL,,SAC,,A. Reaves,LAL,Reaves Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0096,1,03:58,LAL,,SAC,,A. Reaves,LAL,MISS Reaves 3PT Jump Shot,Missed Shot,Jump Shot,-227,55,0,1,3.0,0.0,h
+S2425-G0096,1,03:43,LAL,21.0,SAC,16.0,A. Reaves,LAL,Reaves 27' 3PT Jump Shot (5 PTS) (Christie 1 AST),Made Shot,Jump Shot,-146,225,27,1,3.0,3.0,h
+S2425-G0096,1,02:17,LAL,,SAC,,A. Reaves,LAL,SUB: Hayes FOR Reaves,Substitution,,0,0,0,0,,,h
+S2425-G0096,2,06:00,LAL,49.0,SAC,36.0,A. Reaves,LAL,Reaves 30' 3PT Jump Shot (8 PTS) (Christie 3 AST),Made Shot,Jump Shot,134,266,30,1,3.0,3.0,h
+S2425-G0096,2,00:25.100000,LAL,,SAC,,A. Reaves,LAL,Reaves S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0096,3,11:26,LAL,66.0,SAC,62.0,A. Reaves,LAL,Reaves 13' Jump Shot (10 PTS) (L. James 2 AST),Made Shot,Jump Shot,-1,131,13,1,2.0,2.0,h
+S2425-G0096,3,11:02,LAL,,SAC,,A. Reaves,LAL,Reaves Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0096,3,09:38,LAL,,SAC,,A. Reaves,LAL,Reaves S.FOUL (P2.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0096,3,09:15,LAL,,SAC,,A. Reaves,LAL,Reaves REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,3,08:40,LAL,,SAC,,A. Reaves,LAL,Reaves Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0096,3,07:55,LAL,,SAC,,A. Reaves,LAL,Reaves REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,3,07:02,LAL,,SAC,,A. Reaves,LAL,Reaves REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0096,3,07:00,LAL,,SAC,,A. Reaves,LAL,Reaves Out of Bounds Lost Ball Turnover (P5.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0096,3,06:19,LAL,,SAC,,A. Reaves,LAL,Reaves Out of Bounds Lost Ball Turnover (P6.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0096,3,05:44,LAL,72.0,SAC,76.0,A. Reaves,LAL,Reaves 4' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,-1,43,4,1,2.0,2.0,h
+S2425-G0096,3,04:23,LAL,76.0,SAC,80.0,A. Reaves,LAL,Reaves 11' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,2,107,11,1,2.0,2.0,h
+S2425-G0096,3,03:49,LAL,,SAC,,A. Reaves,LAL,Reaves S.FOUL (P3.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0096,3,03:49,LAL,,SAC,,A. Reaves,LAL,SUB: L. James FOR Reaves,Substitution,,0,0,0,0,,,h
+S2425-G0096,4,06:58,LAL,112.0,SAC,99.0,A. Reaves,LAL,Reaves 3' Cutting Layup Shot (16 PTS) (Russell 5 AST),Made Shot,Cutting Layup Shot,9,28,3,1,2.0,2.0,h
+S2425-G0096,4,05:05,LAL,,SAC,,A. Reaves,LAL,MISS Reaves 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,12,92,9,1,2.0,0.0,h
+S2425-G0085,1,11:32,LAL,,PHX,,A. Reaves,LAL,Reaves Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0085,1,11:03,LAL,2.0,PHX,3.0,A. Reaves,LAL,Reaves 1' Cutting Layup Shot (2 PTS) (Davis 1 AST),Made Shot,Cutting Layup Shot,-2,8,1,1,2.0,2.0,h
+S2425-G0085,1,10:25,LAL,,PHX,,A. Reaves,LAL,Reaves STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0085,1,08:28,LAL,,PHX,,A. Reaves,LAL,MISS Reaves 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,5,32,3,1,2.0,0.0,h
+S2425-G0085,1,08:19,LAL,,PHX,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,1,08:06,LAL,8.0,PHX,7.0,A. Reaves,LAL,Reaves Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,1,08:06,LAL,9.0,PHX,7.0,A. Reaves,LAL,Reaves Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,1,07:05,LAL,11.0,PHX,12.0,A. Reaves,LAL,Reaves 2' Layup (6 PTS) (Davis 2 AST),Made Shot,Layup Shot,-6,15,2,1,2.0,2.0,h
+S2425-G0085,1,06:11,LAL,,PHX,,A. Reaves,LAL,Reaves Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0085,1,03:19,LAL,,PHX,,A. Reaves,LAL,MISS Reaves 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-39,270,27,1,3.0,0.0,h
+S2425-G0085,1,02:38,LAL,,PHX,,A. Reaves,LAL,SUB: Hayes FOR Reaves,Substitution,,0,0,0,0,,,h
+S2425-G0085,2,06:04,LAL,,PHX,,A. Reaves,LAL,Reaves BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0085,2,04:32,LAL,,PHX,,A. Reaves,LAL,Reaves S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2425-G0085,2,03:59,LAL,42.0,PHX,56.0,A. Reaves,LAL,Reaves 24' 3PT Running Pull-Up Jump Shot (9 PTS) (Knecht 1 AST),Made Shot,Running Pull-Up Jump Shot,224,81,24,1,3.0,3.0,h
+S2425-G0085,2,00:34,LAL,,PHX,,A. Reaves,LAL,MISS Reaves 28' 3PT Jump Shot,Missed Shot,Jump Shot,163,227,28,1,3.0,0.0,h
+S2425-G0085,2,00:18.500000,LAL,,PHX,,A. Reaves,LAL,Reaves STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0085,2,00:15.400000,LAL,52.0,PHX,61.0,A. Reaves,LAL,Reaves 2' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,22,2,1,2.0,2.0,h
+S2425-G0085,3,10:54,LAL,57.0,PHX,63.0,A. Reaves,LAL,Reaves 27' 3PT Jump Shot (14 PTS) (Russell 3 AST),Made Shot,Jump Shot,104,245,27,1,3.0,3.0,h
+S2425-G0085,3,10:25,LAL,60.0,PHX,63.0,A. Reaves,LAL,Reaves 25' 3PT Running Jump Shot (17 PTS) (L. James 3 AST),Made Shot,Running Jump Shot,230,93,25,1,3.0,3.0,h
+S2425-G0085,3,08:37,LAL,,PHX,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,3,05:58,LAL,,PHX,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,3,03:30,LAL,,PHX,,A. Reaves,LAL,MISS Reaves 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,81,169,19,1,2.0,0.0,h
+S2425-G0085,3,02:58,LAL,,PHX,,A. Reaves,LAL,SUB: Hayes FOR Reaves,Substitution,,0,0,0,0,,,h
+S2425-G0085,3,00:02.500000,LAL,86.0,PHX,85.0,A. Reaves,LAL,Reaves Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,3,00:02.500000,LAL,87.0,PHX,85.0,A. Reaves,LAL,Reaves Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,4,11:32,LAL,,PHX,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0085,4,10:05,LAL,94.0,PHX,87.0,A. Reaves,LAL,Reaves 28' 3PT Running Pull-Up Jump Shot (22 PTS),Made Shot,Running Pull-Up Jump Shot,113,261,28,1,3.0,3.0,h
+S2425-G0085,4,07:25,LAL,101.0,PHX,92.0,A. Reaves,LAL,Reaves Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0085,4,07:25,LAL,,PHX,,A. Reaves,LAL,MISS Reaves Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0085,4,07:08,LAL,,PHX,,A. Reaves,LAL,Reaves Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0085,4,06:32,LAL,104.0,PHX,95.0,A. Reaves,LAL,Reaves 28' 3PT Jump Shot (26 PTS) (Hayes 3 AST),Made Shot,Jump Shot,-67,271,28,1,3.0,3.0,h
+S2425-G0085,4,06:14,LAL,,PHX,,A. Reaves,LAL,Reaves STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0085,4,05:45,LAL,,PHX,,A. Reaves,LAL,Reaves P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2425-G0085,4,04:46,LAL,,PHX,,A. Reaves,LAL,Reaves S.FOUL (P3.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2425-G0085,4,04:46,LAL,,PHX,,A. Reaves,LAL,SUB: Vincent FOR Reaves,Substitution,,0,0,0,0,,,h
+S2425-G0085,4,02:41,LAL,,PHX,,A. Reaves,LAL,Reaves Lost Ball Turnover (P4.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0085,4,02:40,LAL,,PHX,,A. Reaves,LAL,Reaves S.FOUL (P4.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2425-G0118,1,11:42,CLE,0.0,LAL,2.0,A. Reaves,LAL,Reaves 17' Pullup Jump Shot (2 PTS) (Russell 1 AST),Made Shot,Pullup Jump shot,-50,164,17,1,2.0,2.0,v
+S2425-G0118,1,08:30,CLE,11.0,LAL,13.0,A. Reaves,LAL,Reaves 28' 3PT Pullup Jump Shot (5 PTS) (Davis 1 AST),Made Shot,Pullup Jump shot,-99,258,28,1,3.0,3.0,v
+S2425-G0118,1,06:05,CLE,,LAL,,A. Reaves,LAL,MISS Reaves 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-151,211,26,1,3.0,0.0,v
+S2425-G0118,1,04:20,CLE,,LAL,,A. Reaves,LAL,MISS Reaves 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,83,14,1,2.0,0.0,v
+S2425-G0118,1,01:44,CLE,,LAL,,A. Reaves,LAL,SUB: Knecht FOR Reaves,Substitution,,0,0,0,0,,,v
+S2425-G0118,2,05:45,CLE,,LAL,,A. Reaves,LAL,Reaves Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0118,2,05:26,CLE,52.0,LAL,35.0,A. Reaves,LAL,Reaves Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0118,2,05:26,CLE,52.0,LAL,36.0,A. Reaves,LAL,Reaves Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0118,2,04:22,CLE,,LAL,,A. Reaves,LAL,MISS Reaves 26' 3PT Jump Shot,Missed Shot,Jump Shot,219,146,26,1,3.0,0.0,v
+S2425-G0118,2,03:22,CLE,,LAL,,A. Reaves,LAL,Reaves Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0118,2,00:31.200000,CLE,,LAL,,A. Reaves,LAL,MISS Reaves 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,97,243,26,1,3.0,0.0,v
+S2425-G0118,3,10:42,CLE,,LAL,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,3,10:33,CLE,,LAL,,A. Reaves,LAL,Reaves REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0118,3,07:42,CLE,,LAL,,A. Reaves,LAL,Reaves Traveling Turnover (P3.T14),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0118,3,06:15,CLE,,LAL,,A. Reaves,LAL,Reaves Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0118,3,02:23,CLE,,LAL,,A. Reaves,LAL,SUB: Vincent FOR Reaves,Substitution,,0,0,0,0,,,v

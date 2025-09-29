@@ -1,0 +1,3 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0066,4,01:57,PHI,,MIL,,L. Quinones,PHI,Quinones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0066,4,01:55,PHI,,MIL,,L. Quinones,PHI,MISS Quinones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-217,146,26,1,3.0,0.0,h

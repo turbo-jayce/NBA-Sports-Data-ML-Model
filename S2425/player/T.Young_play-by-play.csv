@@ -1,0 +1,237 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0079,1,11:40,ATL,,CHA,,T. Young,ATL,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,1,11:33,ATL,3.0,CHA,0.0,T. Young,ATL,Young 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,21,252,25,1,3.0,3.0,h
+S2425-G0079,1,10:43,ATL,7.0,CHA,0.0,T. Young,ATL,Young 10' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,9,104,10,1,2.0,2.0,h
+S2425-G0079,1,10:05,ATL,,CHA,,T. Young,ATL,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0079,1,10:05,ATL,8.0,CHA,3.0,T. Young,ATL,Young Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,1,09:59,ATL,,CHA,,T. Young,ATL,MISS Young 25' 3PT Jump Shot,Missed Shot,Jump Shot,-2,248,25,1,3.0,0.0,h
+S2425-G0079,1,07:13,ATL,18.0,CHA,9.0,T. Young,ATL,Young 25' 3PT Running Pull-Up Jump Shot (9 PTS) (Johnson 1 AST),Made Shot,Running Pull-Up Jump Shot,-145,205,25,1,3.0,3.0,h
+S2425-G0079,1,06:42,ATL,,CHA,,T. Young,ATL,Young STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0079,1,06:05,ATL,,CHA,,T. Young,ATL,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0079,1,05:40,ATL,,CHA,,T. Young,ATL,Young STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0079,1,05:31,ATL,,CHA,,T. Young,ATL,Young Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0079,1,04:06,ATL,,CHA,,T. Young,ATL,MISS Young 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,146,249,29,1,3.0,0.0,h
+S2425-G0079,1,03:45,ATL,,CHA,,T. Young,ATL,Young Out of Bounds - Bad Pass Turnover Turnover (P3.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0079,1,02:42,ATL,,CHA,,T. Young,ATL,SUB: Johnson FOR Young,Substitution,,0,0,0,0,,,h
+S2425-G0079,2,08:54,ATL,37.0,CHA,26.0,T. Young,ATL,Young Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0079,2,08:52,ATL,38.0,CHA,26.0,T. Young,ATL,Young Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,2,08:52,ATL,39.0,CHA,26.0,T. Young,ATL,Young Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,2,08:04,ATL,42.0,CHA,28.0,T. Young,ATL,Young Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,2,08:04,ATL,43.0,CHA,28.0,T. Young,ATL,Young Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,2,07:42,ATL,,CHA,,T. Young,ATL,Young REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,2,07:37,ATL,,CHA,,T. Young,ATL,MISS Young 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,85,247,26,1,3.0,0.0,h
+S2425-G0079,2,07:35,ATL,,CHA,,T. Young,ATL,Young REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,2,07:33,ATL,,CHA,,T. Young,ATL,MISS Young 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,109,228,25,1,3.0,0.0,h
+S2425-G0079,2,06:26,ATL,,CHA,,T. Young,ATL,Young Bad Pass Turnover (P4.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0079,2,03:13,ATL,,CHA,,T. Young,ATL,MISS Young 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,65,7,1,2.0,0.0,h
+S2425-G0079,2,02:18,ATL,,CHA,,T. Young,ATL,MISS Young 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,117,12,1,2.0,0.0,h
+S2425-G0079,2,01:06,ATL,,CHA,,T. Young,ATL,Young REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,3,11:39,ATL,,CHA,,T. Young,ATL,MISS Young 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-10,262,26,1,3.0,0.0,h
+S2425-G0079,3,10:55,ATL,,CHA,,T. Young,ATL,Young REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,3,09:07,ATL,,CHA,,T. Young,ATL,MISS Young 28' 3PT Jump Shot,Missed Shot,Jump Shot,83,268,28,1,3.0,0.0,h
+S2425-G0079,3,09:02,ATL,,CHA,,T. Young,ATL,Young STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0079,3,08:54,ATL,70.0,CHA,64.0,T. Young,ATL,Young 23' Running Pull-Up Jump Shot (16 PTS) (Daniels 2 AST),Made Shot,Running Pull-Up Jump Shot,-2,226,23,1,2.0,2.0,h
+S2425-G0079,3,08:38,ATL,,CHA,,T. Young,ATL,Young STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0079,3,08:13,ATL,,CHA,,T. Young,ATL,MISS Young 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,109,11,1,2.0,0.0,h
+S2425-G0079,3,07:52,ATL,,CHA,,T. Young,ATL,Young Out of Bounds - Bad Pass Turnover Turnover (P5.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0079,3,07:19,ATL,73.0,CHA,67.0,T. Young,ATL,Young 3PT Jump Shot (19 PTS) (Johnson 3 AST),Made Shot,Jump Shot,-232,19,0,1,3.0,3.0,h
+S2425-G0079,3,05:57,ATL,,CHA,,T. Young,ATL,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,11,257,26,1,3.0,0.0,h
+S2425-G0079,3,04:50,ATL,,CHA,,T. Young,ATL,Young Out of Bounds - Bad Pass Turnover Turnover (P6.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0079,3,03:52,ATL,82.0,CHA,71.0,T. Young,ATL,Young 26' 3PT Running Pull-Up Jump Shot (22 PTS),Made Shot,Running Pull-Up Jump Shot,-7,256,26,1,3.0,3.0,h
+S2425-G0079,3,03:20,ATL,,CHA,,T. Young,ATL,MISS Young 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,50,6,1,2.0,0.0,h
+S2425-G0079,3,02:14,ATL,,CHA,,T. Young,ATL,Young P.FOUL (P1.T4) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2425-G0079,3,02:14,ATL,,CHA,,T. Young,ATL,SUB: Johnson FOR Young,Substitution,,0,0,0,0,,,h
+S2425-G0079,3,00:21.800000,ATL,88.0,CHA,84.0,T. Young,ATL,Young 1' Layup (24 PTS),Made Shot,Layup Shot,6,9,1,1,2.0,2.0,h
+S2425-G0079,3,00:00.400000,ATL,,CHA,,T. Young,ATL,MISS Young 52' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,132,498,52,1,3.0,0.0,h
+S2425-G0079,4,11:12,ATL,,CHA,,T. Young,ATL,MISS Young 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-147,214,26,1,3.0,0.0,h
+S2425-G0079,4,10:32,ATL,93.0,CHA,90.0,T. Young,ATL,Young 26' 3PT Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,104,239,26,1,3.0,3.0,h
+S2425-G0079,4,09:53,ATL,,CHA,,T. Young,ATL,Young REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,4,09:52,ATL,95.0,CHA,93.0,T. Young,ATL,Young 10' Floating Jump Shot (29 PTS),Made Shot,Floating Jump shot,100,22,10,1,2.0,2.0,h
+S2425-G0079,4,08:39,ATL,99.0,CHA,93.0,T. Young,ATL,Young 19' Floating Jump Shot (31 PTS),Made Shot,Floating Jump shot,33,188,19,1,2.0,2.0,h
+S2425-G0079,4,06:15,ATL,,CHA,,T. Young,ATL,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0079,4,06:15,ATL,104.0,CHA,102.0,T. Young,ATL,Young Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,4,04:20,ATL,111.0,CHA,107.0,T. Young,ATL,Young 11' Driving Floating Jump Shot (34 PTS),Made Shot,Driving Floating Jump Shot,107,14,11,1,2.0,2.0,h
+S2425-G0079,4,02:43,ATL,115.0,CHA,109.0,T. Young,ATL,Young Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,4,02:43,ATL,116.0,CHA,109.0,T. Young,ATL,Young Free Throw 2 of 2 (36 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,4,00:30.800000,ATL,,CHA,,T. Young,ATL,Young REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0079,4,00:23.900000,ATL,,CHA,,T. Young,ATL,Young Lost Ball Turnover (P7.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0079,4,00:16.600000,ATL,122.0,CHA,117.0,T. Young,ATL,Young Free Throw 1 of 2 (37 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,4,00:16.600000,ATL,123.0,CHA,117.0,T. Young,ATL,Young Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0079,4,00:01,ATL,,CHA,,T. Young,ATL,Young REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,1,10:12,ATL,,BKN,,T. Young,ATL,MISS Young 3' Driving Layup,Missed Shot,Driving Layup Shot,26,6,3,1,2.0,0.0,h
+S2425-G0064,1,08:19,ATL,,BKN,,T. Young,ATL,MISS Young 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-39,91,10,1,2.0,0.0,h
+S2425-G0064,1,06:56,ATL,,BKN,,T. Young,ATL,MISS Young 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,113,11,1,2.0,0.0,h
+S2425-G0064,1,05:29,ATL,,BKN,,T. Young,ATL,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,1,04:56,ATL,,BKN,,T. Young,ATL,Young Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0064,1,02:30,ATL,23.0,BKN,19.0,T. Young,ATL,Young Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,1,02:30,ATL,24.0,BKN,19.0,T. Young,ATL,Young Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,1,00:30,ATL,27.0,BKN,24.0,T. Young,ATL,Young Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,1,00:30,ATL,28.0,BKN,24.0,T. Young,ATL,Young Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,2,04:59,ATL,42.0,BKN,43.0,T. Young,ATL,Young 26' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,2,256,26,1,3.0,3.0,h
+S2425-G0064,2,03:49,ATL,,BKN,,T. Young,ATL,MISS Young 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-130,233,27,1,3.0,0.0,h
+S2425-G0064,2,03:09,ATL,,BKN,,T. Young,ATL,Young REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,2,03:07,ATL,,BKN,,T. Young,ATL,Young Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0064,2,02:19,ATL,48.0,BKN,48.0,T. Young,ATL,Young 22' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,69,214,22,1,2.0,2.0,h
+S2425-G0064,2,01:28,ATL,,BKN,,T. Young,ATL,Young REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,3,10:26,ATL,56.0,BKN,61.0,T. Young,ATL,Young 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,85,239,25,1,3.0,3.0,h
+S2425-G0064,3,09:09,ATL,,BKN,,T. Young,ATL,Young Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0064,3,08:42,ATL,,BKN,,T. Young,ATL,MISS Young 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-13,72,7,1,2.0,0.0,h
+S2425-G0064,3,08:41,ATL,,BKN,,T. Young,ATL,Young REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,3,08:41,ATL,60.0,BKN,61.0,T. Young,ATL,Young Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,3,08:41,ATL,61.0,BKN,61.0,T. Young,ATL,Young Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,3,06:52,ATL,65.0,BKN,64.0,T. Young,ATL,Young 1' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,11,3,1,1,2.0,2.0,h
+S2425-G0064,3,04:26,ATL,71.0,BKN,69.0,T. Young,ATL,Young 7' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,74,-2,7,1,2.0,2.0,h
+S2425-G0064,3,03:50,ATL,,BKN,,T. Young,ATL,Young S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2425-G0064,3,03:50,ATL,,BKN,,T. Young,ATL,SUB: Krejčí FOR Young,Substitution,,0,0,0,0,,,h
+S2425-G0064,3,00:26.500000,ATL,,BKN,,T. Young,ATL,Young REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0064,3,00:02.700000,ATL,,BKN,,T. Young,ATL,Young STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0064,3,00:00.800000,ATL,,BKN,,T. Young,ATL,MISS Young 6' Running Layup,Missed Shot,Running Layup Shot,-43,46,6,1,2.0,0.0,h
+S2425-G0064,4,10:47,ATL,,BKN,,T. Young,ATL,MISS Young 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,206,131,24,1,3.0,0.0,h
+S2425-G0064,4,09:47,ATL,,BKN,,T. Young,ATL,SUB: Krejčí FOR Young,Substitution,,0,0,0,0,,,h
+S2425-G0064,4,07:18,ATL,99.0,BKN,92.0,T. Young,ATL,Young 9' Driving Floating Jump Shot (20 PTS) (Hunter 1 AST),Made Shot,Driving Floating Jump Shot,29,85,9,1,2.0,2.0,h
+S2425-G0064,4,06:16,ATL,,BKN,,T. Young,ATL,MISS Young 28' 3PT Jump Shot,Missed Shot,Jump Shot,197,193,28,1,3.0,0.0,h
+S2425-G0064,4,04:40,ATL,105.0,BKN,97.0,T. Young,ATL,Young Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,4,04:40,ATL,106.0,BKN,97.0,T. Young,ATL,Young Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,4,03:46,ATL,108.0,BKN,100.0,T. Young,ATL,Young 5' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,36,32,5,1,2.0,2.0,h
+S2425-G0064,4,03:16,ATL,,BKN,,T. Young,ATL,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-85,236,25,1,3.0,0.0,h
+S2425-G0064,4,00:56.300000,ATL,113.0,BKN,108.0,T. Young,ATL,Young Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,4,00:56.300000,ATL,,BKN,,T. Young,ATL,MISS Young Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,4,00:46.400000,ATL,,BKN,,T. Young,ATL,Young BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0064,4,00:39.300000,ATL,114.0,BKN,108.0,T. Young,ATL,Young Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,4,00:39.300000,ATL,,BKN,,T. Young,ATL,MISS Young Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0064,4,00:20.900000,ATL,117.0,BKN,110.0,T. Young,ATL,Young Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,4,00:20.900000,ATL,118.0,BKN,110.0,T. Young,ATL,Young Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,4,00:02,ATL,119.0,BKN,116.0,T. Young,ATL,Young Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0064,4,00:02,ATL,120.0,BKN,116.0,T. Young,ATL,Young Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0121,1,07:20,WAS,,ATL,,T. Young,ATL,Young STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0121,1,06:34,WAS,,ATL,,T. Young,ATL,Young Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0121,1,05:40,WAS,,ATL,,T. Young,ATL,MISS Young 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,152,15,1,2.0,0.0,v
+S2425-G0121,1,05:34,WAS,24.0,ATL,13.0,T. Young,ATL,Young 4' Layup (2 PTS) (Okongwu 1 AST),Made Shot,Layup Shot,-10,35,4,1,2.0,2.0,v
+S2425-G0121,1,05:17,WAS,24.0,ATL,15.0,T. Young,ATL,Young 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-67,74,10,1,2.0,2.0,v
+S2425-G0121,1,04:36,WAS,24.0,ATL,19.0,T. Young,ATL,Young 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,17,-4,2,1,2.0,2.0,v
+S2425-G0121,1,03:42,WAS,26.0,ATL,24.0,T. Young,ATL,Young 31' 3PT Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,11,309,31,1,3.0,3.0,v
+S2425-G0121,1,03:22,WAS,,ATL,,T. Young,ATL,Young Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0121,1,02:57,WAS,,ATL,,T. Young,ATL,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,1,02:45,WAS,26.0,ATL,26.0,T. Young,ATL,Young 12' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,-25,122,12,1,2.0,2.0,v
+S2425-G0121,1,02:26,WAS,27.0,ATL,27.0,T. Young,ATL,Young Free Throw 1 of 3 (12 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0121,1,02:26,WAS,27.0,ATL,28.0,T. Young,ATL,Young Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0121,1,02:26,WAS,27.0,ATL,29.0,T. Young,ATL,Young Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0121,1,00:30,WAS,,ATL,,T. Young,ATL,MISS Young 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,56,45,7,1,2.0,0.0,v
+S2425-G0121,2,05:29,WAS,43.0,ATL,52.0,T. Young,ATL,Young 4' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,-36,21,4,1,2.0,2.0,v
+S2425-G0121,2,05:05,WAS,,ATL,,T. Young,ATL,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,78,245,26,1,3.0,0.0,v
+S2425-G0121,2,04:38,WAS,,ATL,,T. Young,ATL,Young STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0121,2,04:34,WAS,,ATL,,T. Young,ATL,MISS Young 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,70,257,27,1,3.0,0.0,v
+S2425-G0121,2,04:31,WAS,,ATL,,T. Young,ATL,Young REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,04:31,WAS,46.0,ATL,57.0,T. Young,ATL,Young 26' 3PT Jump Shot (19 PTS),Made Shot,Jump Shot,159,205,26,1,3.0,3.0,v
+S2425-G0121,2,03:34,WAS,,ATL,,T. Young,ATL,MISS Young 3PT Jump Shot,Missed Shot,Jump Shot,-234,-21,0,1,3.0,0.0,v
+S2425-G0121,2,03:10,WAS,,ATL,,T. Young,ATL,MISS Young 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,44,59,7,1,2.0,0.0,v
+S2425-G0121,2,02:49,WAS,,ATL,,T. Young,ATL,Young REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,2,01:16,WAS,55.0,ATL,63.0,T. Young,ATL,Young 27' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,-96,251,27,1,3.0,3.0,v
+S2425-G0121,2,00:48.200000,WAS,55.0,ATL,65.0,T. Young,ATL,Young 2' Driving Finger Roll Layup (24 PTS),Made Shot,Driving Finger Roll Layup Shot,18,-5,2,1,2.0,2.0,v
+S2425-G0121,3,11:37,WAS,,ATL,,T. Young,ATL,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,252,25,1,3.0,0.0,v
+S2425-G0121,3,11:31,WAS,,ATL,,T. Young,ATL,Young S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0121,3,06:15,WAS,71.0,ATL,79.0,T. Young,ATL,Young 1' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,10,10,1,1,2.0,2.0,v
+S2425-G0121,3,05:00,WAS,,ATL,,T. Young,ATL,MISS Young 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,62,55,8,1,2.0,0.0,v
+S2425-G0121,3,04:22,WAS,,ATL,,T. Young,ATL,MISS Young 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-22,273,27,1,3.0,0.0,v
+S2425-G0121,3,02:47,WAS,,ATL,,T. Young,ATL,MISS Young 27' 3PT Jump Shot,Missed Shot,Jump Shot,218,155,27,1,3.0,0.0,v
+S2425-G0121,3,01:53,WAS,89.0,ATL,86.0,T. Young,ATL,Young 2' Driving Layup (28 PTS) (Okongwu 2 AST),Made Shot,Driving Layup Shot,12,13,2,1,2.0,2.0,v
+S2425-G0121,3,00:55.600000,WAS,91.0,ATL,92.0,T. Young,ATL,Young 3PT Jump Shot (31 PTS) (Wallace 2 AST),Made Shot,Jump Shot,234,-8,0,1,3.0,3.0,v
+S2425-G0121,3,00:27.900000,WAS,,ATL,,T. Young,ATL,MISS Young 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,225,69,24,1,3.0,0.0,v
+S2425-G0121,3,00:00.100000,WAS,,ATL,,T. Young,ATL,MISS Young 51' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,70,508,51,1,3.0,0.0,v
+S2425-G0121,4,09:08,WAS,,ATL,,T. Young,ATL,Young Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0121,4,08:38,WAS,,ATL,,T. Young,ATL,MISS Young 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-18,84,9,1,2.0,0.0,v
+S2425-G0121,4,08:24,WAS,109.0,ATL,97.0,T. Young,ATL,Young Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,4,08:24,WAS,109.0,ATL,98.0,T. Young,ATL,Young Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,4,07:48,WAS,,ATL,,T. Young,ATL,MISS Young 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-33,272,27,1,3.0,0.0,v
+S2425-G0121,4,07:48,WAS,,ATL,,T. Young,ATL,Young REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0121,4,07:45,WAS,,ATL,,T. Young,ATL,MISS Young 13' Floating Jump Shot,Missed Shot,Floating Jump shot,22,126,13,1,2.0,0.0,v
+S2425-G0121,4,05:49,WAS,,ATL,,T. Young,ATL,MISS Young 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,162,159,23,1,2.0,0.0,v
+S2425-G0121,4,04:42,WAS,,ATL,,T. Young,ATL,Young S.FOUL (P2.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2425-G0121,4,03:10,WAS,127.0,ATL,112.0,T. Young,ATL,Young Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,4,03:10,WAS,127.0,ATL,113.0,T. Young,ATL,Young Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0121,4,00:47.800000,WAS,,ATL,,T. Young,ATL,SUB: Mathews FOR Young,Substitution,,0,0,0,0,,,v
+S2425-G0100,1,11:14,OKC,,ATL,,T. Young,ATL,Young Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0100,1,10:44,OKC,,ATL,,T. Young,ATL,Young Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0100,1,10:28,OKC,2.0,ATL,6.0,T. Young,ATL,Young 29' 3PT Running Jump Shot (3 PTS) (Risacher 1 AST),Made Shot,Running Jump Shot,203,206,29,1,3.0,3.0,v
+S2425-G0100,1,07:53,OKC,7.0,ATL,9.0,T. Young,ATL,Young 34' 3PT Running Jump Shot (6 PTS) (Johnson 1 AST),Made Shot,Running Jump Shot,169,299,34,1,3.0,3.0,v
+S2425-G0100,1,06:11,OKC,,ATL,,T. Young,ATL,MISS Young 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,51,290,29,1,3.0,0.0,v
+S2425-G0100,1,03:19,OKC,,ATL,,T. Young,ATL,Young Bad Pass Turnover (P3.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0100,1,02:33,OKC,,ATL,,T. Young,ATL,SUB: Daniels FOR Young,Substitution,,0,0,0,0,,,v
+S2425-G0100,2,06:21,OKC,36.0,ATL,41.0,T. Young,ATL,Young 3' Driving Floating Bank Jump Shot (8 PTS) (Daniels 2 AST),Made Shot,Driving Floating Bank Jump Shot,-29,11,3,1,2.0,2.0,v
+S2425-G0100,2,05:40,OKC,,ATL,,T. Young,ATL,Young S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,2,05:17,OKC,41.0,ATL,42.0,T. Young,ATL,Young Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0100,2,05:17,OKC,41.0,ATL,43.0,T. Young,ATL,Young Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0100,2,04:54,OKC,,ATL,,T. Young,ATL,MISS Young 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-32,299,30,1,3.0,0.0,v
+S2425-G0100,2,04:26,OKC,41.0,ATL,46.0,T. Young,ATL,Young Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0100,2,04:26,OKC,41.0,ATL,47.0,T. Young,ATL,Young Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0100,2,04:04,OKC,41.0,ATL,49.0,T. Young,ATL,Young 12' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,62,106,12,1,2.0,2.0,v
+S2425-G0100,2,04:04,OKC,41.0,ATL,50.0,T. Young,ATL,Young Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0100,2,03:10,OKC,,ATL,,T. Young,ATL,Young Bad Pass Turnover (P4.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0100,2,00:21.700000,OKC,,ATL,,T. Young,ATL,Young Offensive Charge Foul (P2) (D.Taylor),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0100,2,00:21.700000,OKC,,ATL,,T. Young,ATL,Young Offensive Foul Turnover (P5.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0100,3,10:49,OKC,61.0,ATL,60.0,T. Young,ATL,Young 5' Driving Floating Bank Jump Shot (17 PTS),Made Shot,Driving Floating Bank Jump Shot,43,17,5,1,2.0,2.0,v
+S2425-G0100,3,09:59,OKC,,ATL,,T. Young,ATL,Young Bad Pass Turnover (P6.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0100,3,08:49,OKC,68.0,ATL,64.0,T. Young,ATL,Young 15' Driving Floating Jump Shot (19 PTS) (Capela 2 AST),Made Shot,Driving Floating Jump Shot,61,134,15,1,2.0,2.0,v
+S2425-G0100,3,08:17,OKC,,ATL,,T. Young,ATL,MISS Young 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,58,26,6,1,2.0,0.0,v
+S2425-G0100,3,05:24,OKC,,ATL,,T. Young,ATL,Young S.FOUL (P3.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0100,3,05:24,OKC,,ATL,,T. Young,ATL,Young T.FOUL (P3.T4) (D.Taylor),Foul,Technical,0,0,0,0,,,v
+S2425-G0100,3,05:12,OKC,,ATL,,T. Young,ATL,Young Bad Pass Turnover (P7.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0100,3,03:15,OKC,,ATL,,T. Young,ATL,MISS Young 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,151,226,27,1,3.0,0.0,v
+S2425-G0100,3,03:02,OKC,81.0,ATL,79.0,T. Young,ATL,Young 2' Running Layup (21 PTS) (Okongwu 1 AST),Made Shot,Running Layup Shot,-16,8,2,1,2.0,2.0,v
+S2425-G0100,3,01:26,OKC,,ATL,,T. Young,ATL,SUB: Johnson FOR Young,Substitution,,0,0,0,0,,,v
+S2425-G0100,4,09:32,OKC,,ATL,,T. Young,ATL,Young Lost Ball Turnover (P8.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0100,4,09:08,OKC,,ATL,,T. Young,ATL,MISS Young 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,55,24,1,3.0,0.0,v
+S2425-G0100,4,08:29,OKC,,ATL,,T. Young,ATL,Young Lost Ball Turnover (P9.T18),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0100,4,08:03,OKC,,ATL,,T. Young,ATL,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,120,227,26,1,3.0,0.0,v
+S2425-G0100,4,06:44,OKC,,ATL,,T. Young,ATL,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0100,4,06:03,OKC,,ATL,,T. Young,ATL,MISS Young 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,20,10,2,1,2.0,0.0,v
+S2425-G0100,4,05:12,OKC,111.0,ATL,98.0,T. Young,ATL,Young Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0100,4,05:12,OKC,111.0,ATL,99.0,T. Young,ATL,Young Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0100,4,04:57,OKC,113.0,ATL,100.0,T. Young,ATL,Young Free Throw Technical (24 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0100,4,04:43,OKC,,ATL,,T. Young,ATL,Young Bad Pass Turnover (P10.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0100,4,03:03,OKC,,ATL,,T. Young,ATL,SUB: Mathews FOR Young,Substitution,,0,0,0,0,,,v
+S2425-G0103,1,11:01,ATL,3.0,WAS,2.0,T. Young,ATL,Young 32' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,-18,322,32,1,3.0,3.0,h
+S2425-G0103,1,10:33,ATL,,WAS,,T. Young,ATL,Young STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0103,1,10:06,ATL,8.0,WAS,2.0,T. Young,ATL,Young 25' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,65,238,25,1,3.0,3.0,h
+S2425-G0103,1,09:47,ATL,,WAS,,T. Young,ATL,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,1,08:25,ATL,,WAS,,T. Young,ATL,Young REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,1,07:47,ATL,,WAS,,T. Young,ATL,Young Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0103,1,07:34,ATL,,WAS,,T. Young,ATL,Young REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,1,06:13,ATL,,WAS,,T. Young,ATL,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-136,225,26,1,3.0,0.0,h
+S2425-G0103,1,05:13,ATL,,WAS,,T. Young,ATL,MISS Young 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,47,5,1,2.0,0.0,h
+S2425-G0103,1,04:43,ATL,,WAS,,T. Young,ATL,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,217,118,25,1,3.0,0.0,h
+S2425-G0103,1,02:40,ATL,,WAS,,T. Young,ATL,Young REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,1,02:33,ATL,,WAS,,T. Young,ATL,MISS Young 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,22,307,31,1,3.0,0.0,h
+S2425-G0103,1,02:13,ATL,,WAS,,T. Young,ATL,SUB: Mathews FOR Young,Substitution,,0,0,0,0,,,h
+S2425-G0103,1,00:01.500000,ATL,,WAS,,T. Young,ATL,Young Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0103,2,07:31,ATL,,WAS,,T. Young,ATL,Young BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0103,2,05:24,ATL,43.0,WAS,31.0,T. Young,ATL,Young Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,2,05:24,ATL,44.0,WAS,31.0,T. Young,ATL,Young Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,2,04:52,ATL,,WAS,,T. Young,ATL,MISS Young 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-70,89,11,1,2.0,0.0,h
+S2425-G0103,2,03:31,ATL,,WAS,,T. Young,ATL,MISS Young 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-56,246,25,1,3.0,0.0,h
+S2425-G0103,2,02:59,ATL,,WAS,,T. Young,ATL,Young S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2425-G0103,2,01:17,ATL,56.0,WAS,49.0,T. Young,ATL,Young Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0103,2,00:32.300000,ATL,,WAS,,T. Young,ATL,MISS Young 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,43,22,5,1,2.0,0.0,h
+S2425-G0103,3,11:21,ATL,,WAS,,T. Young,ATL,Young REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,3,11:12,ATL,,WAS,,T. Young,ATL,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-74,240,25,1,3.0,0.0,h
+S2425-G0103,3,10:33,ATL,,WAS,,T. Young,ATL,Young REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,3,08:36,ATL,,WAS,,T. Young,ATL,MISS Young 21' Jump Shot,Missed Shot,Jump Shot,203,45,21,1,2.0,0.0,h
+S2425-G0103,3,07:24,ATL,,WAS,,T. Young,ATL,Young Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0103,3,06:51,ATL,,WAS,,T. Young,ATL,Young REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,3,06:15,ATL,,WAS,,T. Young,ATL,Young Bad Pass Turnover (P4.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0103,3,04:26,ATL,,WAS,,T. Young,ATL,MISS Young 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,34,109,11,1,2.0,0.0,h
+S2425-G0103,3,03:11,ATL,,WAS,,T. Young,ATL,Young Out of Bounds Lost Ball Turnover (P5.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0103,3,02:27,ATL,,WAS,,T. Young,ATL,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-40,257,26,1,3.0,0.0,h
+S2425-G0103,3,02:13,ATL,,WAS,,T. Young,ATL,SUB: Wallace FOR Young,Substitution,,0,0,0,0,,,h
+S2425-G0103,4,07:00,ATL,,WAS,,T. Young,ATL,Young S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0103,4,06:26,ATL,,WAS,,T. Young,ATL,Young S.FOUL (P3.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2425-G0103,4,05:16,ATL,,WAS,,T. Young,ATL,MISS Young 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,11,255,26,1,3.0,0.0,h
+S2425-G0103,4,04:36,ATL,,WAS,,T. Young,ATL,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0103,4,04:36,ATL,101.0,WAS,106.0,T. Young,ATL,Young Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,04:13,ATL,,WAS,,T. Young,ATL,Young Bad Pass Turnover (P6.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0103,4,01:44,ATL,111.0,WAS,115.0,T. Young,ATL,Young Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,01:44,ATL,112.0,WAS,115.0,T. Young,ATL,Young Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,00:19.400000,ATL,,WAS,,T. Young,ATL,Young REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0103,4,00:16,ATL,115.0,WAS,118.0,T. Young,ATL,Young Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,00:16,ATL,116.0,WAS,118.0,T. Young,ATL,Young Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0103,4,00:00.900000,ATL,,WAS,,T. Young,ATL,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,80,241,25,1,3.0,0.0,h

@@ -1,0 +1,136 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0080,1,11:34,CLE,,DET,,J. Duren,DET,Duren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,1,10:28,CLE,,DET,,J. Duren,DET,Duren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,1,09:25,CLE,6.0,DET,9.0,J. Duren,DET,Duren 1' Cutting Layup Shot (2 PTS) (Hardaway Jr. 1 AST),Made Shot,Cutting Layup Shot,1,11,1,1,2.0,2.0,v
+S2425-G0080,1,08:57,CLE,,DET,,J. Duren,DET,Duren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,1,08:57,CLE,,DET,,J. Duren,DET,MISS Duren Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0080,1,06:39,CLE,,DET,,J. Duren,DET,Duren STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0080,1,05:28,CLE,,DET,,J. Duren,DET,SUB: Beasley FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0080,2,09:38,CLE,,DET,,J. Duren,DET,MISS Duren 2' Driving Layup,Missed Shot,Driving Layup Shot,13,8,2,1,2.0,0.0,v
+S2425-G0080,2,09:37,CLE,,DET,,J. Duren,DET,Duren REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,2,08:35,CLE,,DET,,J. Duren,DET,SUB: Reed FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0080,2,03:55,CLE,,DET,,J. Duren,DET,Duren S.FOUL (P1.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2425-G0080,2,02:32,CLE,57.0,DET,53.0,J. Duren,DET,Duren Cutting Dunk Shot (4 PTS) (Ivey 4 AST),Made Shot,Cutting Dunk Shot,-2,3,0,1,2.0,2.0,v
+S2425-G0080,2,02:19,CLE,,DET,,J. Duren,DET,Duren P.FOUL (P2.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2425-G0080,2,02:07,CLE,,DET,,J. Duren,DET,Duren Violation:Defensive Goaltending (E.Malloy),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0080,2,01:24,CLE,,DET,,J. Duren,DET,Duren REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,2,00:34,CLE,,DET,,J. Duren,DET,Duren L.B.FOUL (P3.PN) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0080,2,00:34,CLE,,DET,,J. Duren,DET,SUB: Beasley FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0080,3,11:07,CLE,,DET,,J. Duren,DET,Duren Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0080,3,10:07,CLE,,DET,,J. Duren,DET,MISS Duren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0080,3,10:07,CLE,,DET,,J. Duren,DET,MISS Duren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0080,3,08:23,CLE,,DET,,J. Duren,DET,Duren REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,3,08:12,CLE,,DET,,J. Duren,DET,Duren P.FOUL (P4.PN) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2425-G0080,3,08:12,CLE,,DET,,J. Duren,DET,SUB: Stewart FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0080,4,11:12,CLE,,DET,,J. Duren,DET,Duren REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,4,09:35,CLE,,DET,,J. Duren,DET,Duren BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0080,4,07:03,CLE,,DET,,J. Duren,DET,MISS Duren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0080,4,07:03,CLE,99.0,DET,91.0,J. Duren,DET,Duren Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0080,4,02:17,CLE,,DET,,J. Duren,DET,Duren L.B.FOUL (P5.T2) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0080,4,01:27,CLE,,DET,,J. Duren,DET,SUB: Holland II FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0063,1,12:00,DET,,IND,,J. Duren,DET,Jump Ball Duren vs. Turner: Tip to Cunningham,Jump Ball,,0,0,0,0,,,h
+S2425-G0063,1,11:15,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,1,11:00,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,1,09:28,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,1,08:16,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,1,08:15,DET,12.0,IND,4.0,J. Duren,DET,Duren 1' Layup (2 PTS),Made Shot,Layup Shot,12,-2,1,1,2.0,2.0,h
+S2425-G0063,1,06:49,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,1,05:55,DET,,IND,,J. Duren,DET,Duren Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0063,1,05:44,DET,,IND,,J. Duren,DET,SUB: Stewart FOR Duren,Substitution,,0,0,0,0,,,h
+S2425-G0063,2,08:25,DET,39.0,IND,37.0,J. Duren,DET,Duren Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,2,08:25,DET,,IND,,J. Duren,DET,MISS Duren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0063,2,08:07,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,2,08:03,DET,41.0,IND,37.0,J. Duren,DET,Duren 1' Running Dunk (5 PTS) (Harris 1 AST),Made Shot,Running Dunk Shot,-1,6,1,1,2.0,2.0,h
+S2425-G0063,2,07:11,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,2,06:05,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,2,06:03,DET,,IND,,J. Duren,DET,Duren Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0063,2,05:44,DET,,IND,,J. Duren,DET,SUB: Stewart FOR Duren,Substitution,,0,0,0,0,,,h
+S2425-G0063,2,03:02,DET,,IND,,J. Duren,DET,Duren S.FOUL (P1.T4) (T.Ricks),Foul,Shooting,0,0,0,0,,,h
+S2425-G0063,2,00:59.100000,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,2,00:53.300000,DET,58.0,IND,47.0,J. Duren,DET,Duren 1' Alley Oop Dunk (7 PTS) (Cunningham 6 AST),Made Shot,Alley Oop Dunk Shot,-10,8,1,1,2.0,2.0,h
+S2425-G0063,3,08:04,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,3,07:34,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,3,06:48,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,3,04:47,DET,,IND,,J. Duren,DET,SUB: Stewart FOR Duren,Substitution,,0,0,0,0,,,h
+S2425-G0063,4,11:23,DET,92.0,IND,85.0,J. Duren,DET,Duren 1' Dunk (9 PTS) (Ivey 3 AST),Made Shot,Dunk Shot,9,7,1,1,2.0,2.0,h
+S2425-G0063,4,09:30,DET,97.0,IND,93.0,J. Duren,DET,Duren Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,4,09:30,DET,98.0,IND,93.0,J. Duren,DET,Duren Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,4,09:17,DET,,IND,,J. Duren,DET,Duren S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0063,4,08:19,DET,,IND,,J. Duren,DET,SUB: Hardaway Jr. FOR Duren,Substitution,,0,0,0,0,,,h
+S2425-G0063,4,04:03,DET,,IND,,J. Duren,DET,Duren REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,4,01:43,DET,,IND,,J. Duren,DET,Duren S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2425-G0063,4,00:42.500000,DET,106.0,IND,110.0,J. Duren,DET,Duren Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,4,00:42.500000,DET,107.0,IND,110.0,J. Duren,DET,Duren Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0063,4,00:20.400000,DET,,IND,,J. Duren,DET,SUB: Hardaway Jr. FOR Duren,Substitution,,0,0,0,0,,,h
+S2425-G0120,1,11:22,PHI,,DET,,J. Duren,DET,Duren REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,1,10:39,PHI,,DET,,J. Duren,DET,Duren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,1,10:03,PHI,,DET,,J. Duren,DET,Duren P.FOUL (P1.T2) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2425-G0120,1,08:33,PHI,,DET,,J. Duren,DET,MISS Duren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0120,1,08:33,PHI,,DET,,J. Duren,DET,MISS Duren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0120,1,06:19,PHI,,DET,,J. Duren,DET,Duren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,1,06:15,PHI,,DET,,J. Duren,DET,Duren OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,v
+S2425-G0120,1,06:15,PHI,,DET,,J. Duren,DET,Duren Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0120,1,06:15,PHI,,DET,,J. Duren,DET,SUB: Beasley FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0120,2,08:31,PHI,,DET,,J. Duren,DET,Duren REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,07:02,PHI,,DET,,J. Duren,DET,Duren REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,06:49,PHI,,DET,,J. Duren,DET,Duren S.FOUL (P3.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2425-G0120,2,06:49,PHI,,DET,,J. Duren,DET,SUB: Harris FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0120,3,11:31,PHI,,DET,,J. Duren,DET,Duren REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,3,11:24,PHI,,DET,,J. Duren,DET,Duren L.B.FOUL (P4.T1) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0120,3,11:24,PHI,,DET,,J. Duren,DET,SUB: Stewart FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0120,4,11:08,PHI,,DET,,J. Duren,DET,Duren P.FOUL (P5.T1) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2425-G0120,4,10:15,PHI,,DET,,J. Duren,DET,Duren OFF.Foul (P6) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,v
+S2425-G0120,4,10:15,PHI,,DET,,J. Duren,DET,Duren Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0120,4,10:15,PHI,,DET,,J. Duren,DET,SUB: Stewart FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0089,1,12:00,DET,,BOS,,J. Duren,DET,Jump Ball Duren vs. Horford: Tip to Holiday,Jump Ball,,0,0,0,0,,,h
+S2425-G0089,1,11:46,DET,,BOS,,J. Duren,DET,Duren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,1,10:12,DET,2.0,BOS,3.0,J. Duren,DET,Duren 4' Running Dunk (2 PTS) (Ivey 1 AST),Made Shot,Running Dunk Shot,2,37,4,1,2.0,2.0,h
+S2425-G0089,1,09:42,DET,,BOS,,J. Duren,DET,Duren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,1,09:40,DET,4.0,BOS,4.0,J. Duren,DET,Duren 2' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,-21,2,2,1,2.0,2.0,h
+S2425-G0089,1,07:49,DET,,BOS,,J. Duren,DET,Duren Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0089,1,05:27,DET,,BOS,,J. Duren,DET,PISTONS T.Foul (Def. 3 Sec Duren ) (R.Mott),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0089,1,05:27,DET,,BOS,,J. Duren,DET,SUB: Fontecchio FOR Duren,Substitution,,0,0,0,0,,,h
+S2425-G0089,2,06:26,DET,44.0,BOS,61.0,J. Duren,DET,Duren 3' Driving Reverse Dunk Shot (6 PTS),Made Shot,Driving Reverse Dunk Shot,-26,13,3,1,2.0,2.0,h
+S2425-G0089,2,05:02,DET,,BOS,,J. Duren,DET,Duren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,2,03:52,DET,,BOS,,J. Duren,DET,Duren REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,2,03:51,DET,,BOS,,J. Duren,DET,MISS Duren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0089,2,03:51,DET,53.0,BOS,67.0,J. Duren,DET,Duren Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0089,2,03:20,DET,55.0,BOS,67.0,J. Duren,DET,Duren 1' Alley Oop Dunk (9 PTS) (Cunningham 3 AST),Made Shot,Alley Oop Dunk Shot,4,8,1,1,2.0,2.0,h
+S2425-G0089,2,03:03,DET,,BOS,,J. Duren,DET,Duren OFF.Foul (P1) (P.Fraher),Foul,Offensive,0,0,0,0,,,h
+S2425-G0089,2,03:03,DET,,BOS,,J. Duren,DET,Duren Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0089,2,01:35,DET,,BOS,,J. Duren,DET,Duren BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0089,2,01:27,DET,57.0,BOS,71.0,J. Duren,DET,Duren 4' Layup (11 PTS) (Hardaway Jr. 2 AST),Made Shot,Layup Shot,18,31,4,1,2.0,2.0,h
+S2425-G0089,2,00:51.300000,DET,,BOS,,J. Duren,DET,Duren REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,2,00:28.100000,DET,,BOS,,J. Duren,DET,Duren REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,3,07:54,DET,,BOS,,J. Duren,DET,Duren REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,3,06:52,DET,,BOS,,J. Duren,DET,Duren BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0089,3,06:40,DET,79.0,BOS,85.0,J. Duren,DET,Duren 2' Running Alley Oop Layup Shot (13 PTS) (Cunningham 7 AST),Made Shot,Running Alley Oop Layup Shot,-17,9,2,1,2.0,2.0,h
+S2425-G0089,3,05:57,DET,,BOS,,J. Duren,DET,Duren REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,3,05:34,DET,81.0,BOS,85.0,J. Duren,DET,Duren 1' Driving Dunk (15 PTS) (Cunningham 8 AST),Made Shot,Driving Dunk Shot,-7,-1,1,1,2.0,2.0,h
+S2425-G0089,3,04:56,DET,,BOS,,J. Duren,DET,SUB: Beasley FOR Duren,Substitution,,0,0,0,0,,,h
+S2425-G0089,4,04:30,DET,,BOS,,J. Duren,DET,Duren REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,4,00:29.300000,DET,,BOS,,J. Duren,DET,SUB: Beasley FOR Duren,Substitution,,0,0,0,0,,,h
+S2425-G0105,1,11:35,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,09:33,MIA,7.0,DET,10.0,J. Duren,DET,Duren 1' Alley Oop Dunk (2 PTS) (Cunningham 1 AST),Made Shot,Alley Oop Dunk Shot,-1,7,1,1,2.0,2.0,v
+S2425-G0105,1,09:06,MIA,,DET,,J. Duren,DET,Duren S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0105,1,05:03,MIA,18.0,DET,21.0,J. Duren,DET,Duren 1' Cutting Layup Shot (4 PTS) (Cunningham 2 AST),Made Shot,Cutting Layup Shot,-1,10,1,1,2.0,2.0,v
+S2425-G0105,1,04:26,MIA,,DET,,J. Duren,DET,SUB: Stewart FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0105,2,05:45,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,2,05:43,MIA,44.0,DET,43.0,J. Duren,DET,Duren Putback Layup (6 PTS),Made Shot,Putback Layup Shot,2,4,0,1,2.0,2.0,v
+S2425-G0105,2,05:08,MIA,,DET,,J. Duren,DET,Duren BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0105,2,03:41,MIA,,DET,,J. Duren,DET,MISS Duren 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,-1,73,7,1,2.0,0.0,v
+S2425-G0105,2,03:25,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,10:31,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,10:20,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,08:28,MIA,,DET,,J. Duren,DET,Duren BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0105,3,07:41,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,07:39,MIA,66.0,DET,65.0,J. Duren,DET,Duren Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,1,1,0,1,2.0,2.0,v
+S2425-G0105,3,07:17,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,05:38,MIA,,DET,,J. Duren,DET,Duren P.FOUL (P2.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2425-G0105,3,05:01,MIA,,DET,,J. Duren,DET,SUB: Ivey FOR Duren,Substitution,,0,0,0,0,,,v
+S2425-G0105,4,07:11,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,4,05:46,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,4,05:45,MIA,95.0,DET,89.0,J. Duren,DET,Duren Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0105,4,04:50,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,4,04:19,MIA,,DET,,J. Duren,DET,Duren BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0105,4,01:35,MIA,,DET,,J. Duren,DET,Duren REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v

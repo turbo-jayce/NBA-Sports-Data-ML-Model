@@ -1,0 +1,113 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0080,1,05:04,CLE,,DET,,I. Stewart,DET,Stewart REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,1,04:49,CLE,,DET,,I. Stewart,DET,Stewart S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0080,1,02:53,CLE,,DET,,I. Stewart,DET,Stewart BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0080,1,02:27,CLE,,DET,,I. Stewart,DET,Stewart S.FOUL (P2.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2425-G0080,1,01:56,CLE,,DET,,I. Stewart,DET,Stewart Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0080,1,00:30,CLE,,DET,,I. Stewart,DET,Stewart REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,1,00:12.800000,CLE,,DET,,I. Stewart,DET,Stewart OFF.Foul (P3) (D.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2425-G0080,1,00:12.800000,CLE,,DET,,I. Stewart,DET,Stewart Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0080,1,00:12.800000,CLE,,DET,,I. Stewart,DET,SUB: Duren FOR Stewart,Substitution,,0,0,0,0,,,v
+S2425-G0080,3,07:45,CLE,,DET,,I. Stewart,DET,Stewart STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0080,3,06:24,CLE,,DET,,I. Stewart,DET,Stewart S.FOUL (P4.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0080,3,04:25,CLE,,DET,,I. Stewart,DET,Stewart REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0080,3,02:00,CLE,,DET,,I. Stewart,DET,Stewart Offensive Charge Foul (P5) (C.Flores),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0080,3,02:00,CLE,,DET,,I. Stewart,DET,Stewart Offensive Foul Turnover (P3.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0080,3,02:00,CLE,,DET,,I. Stewart,DET,SUB: Fontecchio FOR Stewart,Substitution,,0,0,0,0,,,v
+S2425-G0063,1,03:53,DET,,IND,,I. Stewart,DET,Stewart Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0063,1,03:21,DET,,IND,,I. Stewart,DET,Stewart REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,1,02:53,DET,,IND,,I. Stewart,DET,Stewart STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0063,1,00:28.500000,DET,,IND,,I. Stewart,DET,SUB: Harris FOR Stewart,Substitution,,0,0,0,0,,,h
+S2425-G0063,2,11:08,DET,,IND,,I. Stewart,DET,SUB: Duren FOR Stewart,Substitution,,0,0,0,0,,,h
+S2425-G0063,2,04:44,DET,,IND,,I. Stewart,DET,Stewart BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0063,2,04:18,DET,,IND,,I. Stewart,DET,Stewart REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,2,03:07,DET,,IND,,I. Stewart,DET,SUB: Duren FOR Stewart,Substitution,,0,0,0,0,,,h
+S2425-G0063,3,03:49,DET,,IND,,I. Stewart,DET,Stewart L.B.FOUL (P1.T4) (T.Ricks),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0063,3,03:11,DET,,IND,,I. Stewart,DET,Stewart L.B.FOUL (P2.PN) (T.Ricks),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0063,3,01:58,DET,82.0,IND,80.0,I. Stewart,DET,Stewart 2' Cutting Layup Shot (2 PTS) (Cunningham 8 AST),Made Shot,Cutting Layup Shot,11,15,2,1,2.0,2.0,h
+S2425-G0063,3,01:25,DET,,IND,,I. Stewart,DET,Stewart Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0063,3,01:08,DET,,IND,,I. Stewart,DET,Stewart REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,3,00:21.600000,DET,,IND,,I. Stewart,DET,SUB: Cunningham FOR Stewart,Substitution,,0,0,0,0,,,h
+S2425-G0063,4,05:34,DET,,IND,,I. Stewart,DET,Stewart REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0063,4,05:13,DET,,IND,,I. Stewart,DET,MISS Stewart 3PT Jump Shot,Missed Shot,Jump Shot,-230,7,0,1,3.0,0.0,h
+S2425-G0063,4,04:35,DET,,IND,,I. Stewart,DET,SUB: Duren FOR Stewart,Substitution,,0,0,0,0,,,h
+S2425-G0120,1,03:12,PHI,20.0,DET,16.0,I. Stewart,DET,Stewart Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,1,03:12,PHI,20.0,DET,17.0,I. Stewart,DET,Stewart Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,1,02:05,PHI,23.0,DET,19.0,I. Stewart,DET,Stewart 3' Alley Oop Layup (4 PTS) (Beasley 1 AST),Made Shot,Alley Oop Layup shot,-5,25,3,1,2.0,2.0,v
+S2425-G0120,1,02:05,PHI,23.0,DET,20.0,I. Stewart,DET,Stewart Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0120,1,01:07,PHI,25.0,DET,21.0,I. Stewart,DET,Stewart Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,1,01:07,PHI,25.0,DET,22.0,I. Stewart,DET,Stewart Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0120,1,00:48.500000,PHI,,DET,,I. Stewart,DET,MISS Stewart 3' Running Layup,Missed Shot,Running Layup Shot,-6,32,3,1,2.0,0.0,v
+S2425-G0120,1,00:29.400000,PHI,,DET,,I. Stewart,DET,SUB: Cunningham FOR Stewart,Substitution,,0,0,0,0,,,v
+S2425-G0120,2,10:59,PHI,,DET,,I. Stewart,DET,Stewart BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0120,2,10:51,PHI,,DET,,I. Stewart,DET,Stewart Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0120,2,10:02,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,09:26,PHI,,DET,,I. Stewart,DET,SUB: Duren FOR Stewart,Substitution,,0,0,0,0,,,v
+S2425-G0120,2,03:55,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,2,03:27,PHI,,DET,,I. Stewart,DET,Stewart BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0120,2,03:26,PHI,,DET,,I. Stewart,DET,Stewart BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0120,2,02:52,PHI,,DET,,I. Stewart,DET,Stewart S.FOUL (P1.PN) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2425-G0120,2,00:27.400000,PHI,,DET,,I. Stewart,DET,SUB: Beasley FOR Stewart,Substitution,,0,0,0,0,,,v
+S2425-G0120,3,11:06,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,3,09:48,PHI,,DET,,I. Stewart,DET,Pistons T.Foul (Def. 3 Sec Stewart ) (J.Conley),Foul,Defense 3 Second,0,0,0,0,,,v
+S2425-G0120,3,09:41,PHI,,DET,,I. Stewart,DET,Stewart STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0120,3,07:37,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,3,04:54,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,3,03:21,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,3,02:01,PHI,,DET,,I. Stewart,DET,MISS Stewart 2' Layup,Missed Shot,Layup Shot,-15,8,2,1,2.0,0.0,v
+S2425-G0120,3,01:34,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,3,01:20,PHI,,DET,,I. Stewart,DET,Stewart S.FOUL (P2.T4) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2425-G0120,4,09:42,PHI,,DET,,I. Stewart,DET,Stewart L.B.FOUL (P3.T3) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0120,4,07:57,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,4,06:32,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,4,04:56,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,4,03:30,PHI,,DET,,I. Stewart,DET,Stewart T.FOUL (P3.T3) (J.Van Duyne),Foul,Technical,0,0,0,0,,,v
+S2425-G0120,4,03:30,PHI,,DET,,I. Stewart,DET,Stewart S.FOUL (P4.T4) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2425-G0120,4,02:53,PHI,,DET,,I. Stewart,DET,Stewart REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0120,4,01:53,PHI,,DET,,I. Stewart,DET,SUB: Beasley FOR Stewart,Substitution,,0,0,0,0,,,v
+S2425-G0089,1,03:58,DET,18.0,BOS,23.0,I. Stewart,DET,Stewart 3' Cutting Dunk Shot (2 PTS) (Cunningham 2 AST),Made Shot,Cutting Dunk Shot,-17,27,3,1,2.0,2.0,h
+S2425-G0089,1,03:47,DET,,BOS,,I. Stewart,DET,Stewart P.FOUL (P1.T4) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2425-G0089,1,02:21,DET,,BOS,,I. Stewart,DET,PISTONS T.Foul (Def. 3 Sec Stewart ) (P.Fraher),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0089,1,01:45,DET,,BOS,,I. Stewart,DET,Stewart S.FOUL (P2.PN) (S.Jelks),Foul,Shooting,0,0,0,0,,,h
+S2425-G0089,2,10:02,DET,,BOS,,I. Stewart,DET,Stewart Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0089,2,09:34,DET,,BOS,,I. Stewart,DET,SUB: Ivey FOR Stewart,Substitution,,0,0,0,0,,,h
+S2425-G0089,3,04:29,DET,,BOS,,I. Stewart,DET,Stewart REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,3,04:29,DET,83.0,BOS,86.0,I. Stewart,DET,Stewart 3' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,-25,-7,3,1,2.0,2.0,h
+S2425-G0089,3,03:56,DET,,BOS,,I. Stewart,DET,Stewart STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0089,3,02:59,DET,,BOS,,I. Stewart,DET,Stewart REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,3,02:59,DET,88.0,BOS,86.0,I. Stewart,DET,Stewart Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0089,3,01:35,DET,,BOS,,I. Stewart,DET,Stewart REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,4,11:33,DET,,BOS,,I. Stewart,DET,Stewart S.FOUL (P3.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0089,4,10:05,DET,,BOS,,I. Stewart,DET,Stewart S.FOUL (P4.T3) (S.Jelks),Foul,Shooting,0,0,0,0,,,h
+S2425-G0089,4,08:29,DET,,BOS,,I. Stewart,DET,Stewart REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,4,07:06,DET,,BOS,,I. Stewart,DET,Stewart REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0089,4,06:02,DET,,BOS,,I. Stewart,DET,SUB: Cunningham FOR Stewart,Substitution,,0,0,0,0,,,h
+S2425-G0089,4,00:09.600000,DET,,BOS,,I. Stewart,DET,SUB: Hardaway Jr. FOR Stewart,Substitution,,0,0,0,0,,,h
+S2425-G0105,1,03:55,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,03:08,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,02:44,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,02:16,MIA,,DET,,I. Stewart,DET,Stewart Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0105,1,01:59,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,01:52,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,01:04,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,01:04,MIA,,DET,,I. Stewart,DET,MISS Stewart Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0105,1,01:02,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,1,01:01,MIA,,DET,,I. Stewart,DET,MISS Stewart Putback Layup,Missed Shot,Putback Layup Shot,2,4,0,1,2.0,0.0,v
+S2425-G0105,2,10:13,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,2,08:36,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,2,07:21,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,2,07:21,MIA,,DET,,I. Stewart,DET,Stewart Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0105,2,06:39,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,2,06:20,MIA,,DET,,I. Stewart,DET,SUB: Duren FOR Stewart,Substitution,,0,0,0,0,,,v
+S2425-G0105,3,02:02,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,02:02,MIA,75.0,DET,76.0,I. Stewart,DET,Stewart Free Throw Flagrant 1 of 2 (1 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0105,3,02:02,MIA,75.0,DET,77.0,I. Stewart,DET,Stewart Free Throw Flagrant 2 of 2 (2 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0105,3,01:50,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:7 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,3,01:50,MIA,,DET,,I. Stewart,DET,MISS Stewart Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0105,3,00:34.400000,MIA,,DET,,I. Stewart,DET,Stewart OFF.Foul (P1) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
+S2425-G0105,3,00:34.400000,MIA,,DET,,I. Stewart,DET,Stewart Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0105,4,11:48,MIA,,DET,,I. Stewart,DET,Stewart L.B.FOUL (P2.T2) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0105,4,10:57,MIA,,DET,,I. Stewart,DET,Stewart S.FOUL (P3.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0105,4,09:19,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:7 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,4,07:58,MIA,,DET,,I. Stewart,DET,Stewart REBOUND (Off:7 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0105,4,07:54,MIA,,DET,,I. Stewart,DET,SUB: Duren FOR Stewart,Substitution,,0,0,0,0,,,v

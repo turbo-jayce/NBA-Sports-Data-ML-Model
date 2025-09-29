@@ -1,0 +1,198 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0127,1,10:03,LAC,,POR,,T. Mann,LAC,Mann REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,1,09:48,LAC,8.0,POR,0.0,T. Mann,LAC,Mann 2' Running Alley Oop Dunk Shot (2 PTS) (Harden 2 AST),Made Shot,Running Alley Oop Dunk Shot,4,20,2,1,2.0,2.0,h
+S2425-G0127,1,07:38,LAC,10.0,POR,4.0,T. Mann,LAC,Mann 1' Driving Dunk (4 PTS) (Harden 3 AST),Made Shot,Driving Dunk Shot,0,8,1,1,2.0,2.0,h
+S2425-G0127,1,07:01,LAC,,POR,,T. Mann,LAC,MISS Mann 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,18,125,13,1,2.0,0.0,h
+S2425-G0127,1,05:55,LAC,,POR,,T. Mann,LAC,Mann OFF.Foul (P1) (E.Dalen),Foul,Offensive,0,0,0,0,,,h
+S2425-G0127,1,05:55,LAC,,POR,,T. Mann,LAC,Mann Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0127,1,04:13,LAC,,POR,,T. Mann,LAC,MISS Mann 28' 3PT Jump Shot,Missed Shot,Jump Shot,-199,201,28,1,3.0,0.0,h
+S2425-G0127,1,03:39,LAC,,POR,,T. Mann,LAC,MISS Mann 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,176,207,27,1,3.0,0.0,h
+S2425-G0127,1,03:06,LAC,,POR,,T. Mann,LAC,SUB: Coffey FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0127,2,07:15,LAC,,POR,,T. Mann,LAC,Mann P.FOUL (P2.T3) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0127,2,04:54,LAC,,POR,,T. Mann,LAC,Mann P.FOUL (P3.T4) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2425-G0127,2,04:54,LAC,,POR,,T. Mann,LAC,SUB: Coffey FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0127,3,10:59,LAC,,POR,,T. Mann,LAC,Mann L.B.FOUL (P4.T1) (M.Smith),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0127,3,06:43,LAC,,POR,,T. Mann,LAC,Mann REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,06:18,LAC,,POR,,T. Mann,LAC,Mann REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,06:06,LAC,,POR,,T. Mann,LAC,Mann REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0127,3,03:58,LAC,,POR,,T. Mann,LAC,SUB: Dunn FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0079,1,05:40,ATL,,CHA,,T. Mann,CHA,Mann Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0079,1,05:25,ATL,,CHA,,T. Mann,CHA,MISS Mann 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,225,25,0,1,3.0,0.0,v
+S2425-G0079,1,05:07,ATL,,CHA,,T. Mann,CHA,Mann OFF.Foul (P1) (M.Dagher),Foul,Offensive,0,0,0,0,,,v
+S2425-G0079,1,05:07,ATL,,CHA,,T. Mann,CHA,Mann Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0079,1,04:12,ATL,,CHA,,T. Mann,CHA,MISS Mann 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-116,157,20,1,2.0,0.0,v
+S2425-G0079,1,03:33,ATL,23.0,CHA,14.0,T. Mann,CHA,Mann 6' Driving Floating Jump Shot (2 PTS) (Green 1 AST),Made Shot,Driving Floating Jump Shot,28,56,6,1,2.0,2.0,v
+S2425-G0079,1,02:28,ATL,,CHA,,T. Mann,CHA,MISS Mann 3' Driving Layup,Missed Shot,Driving Layup Shot,17,20,3,1,2.0,0.0,v
+S2425-G0079,1,02:06,ATL,,CHA,,T. Mann,CHA,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,194,167,26,1,3.0,0.0,v
+S2425-G0079,1,00:10,ATL,,CHA,,T. Mann,CHA,MISS Mann 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,104,131,17,1,2.0,0.0,v
+S2425-G0079,2,10:23,ATL,,CHA,,T. Mann,CHA,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,99,237,26,1,3.0,0.0,v
+S2425-G0079,2,10:17,ATL,,CHA,,T. Mann,CHA,MISS Mann 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-9,11,1,1,2.0,0.0,v
+S2425-G0079,2,09:40,ATL,,CHA,,T. Mann,CHA,SUB: Green FOR Mann,Substitution,,0,0,0,0,,,v
+S2425-G0079,2,06:43,ATL,43.0,CHA,34.0,T. Mann,CHA,Mann 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-38,260,26,1,3.0,3.0,v
+S2425-G0079,2,05:13,ATL,48.0,CHA,41.0,T. Mann,CHA,Mann 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-2,20,2,1,2.0,2.0,v
+S2425-G0079,2,04:57,ATL,,CHA,,T. Mann,CHA,Mann Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0079,2,04:23,ATL,,CHA,,T. Mann,CHA,SUB: Richards FOR Mann,Substitution,,0,0,0,0,,,v
+S2425-G0079,3,03:59,ATL,,CHA,,T. Mann,CHA,MISS Mann 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-26,123,13,1,2.0,0.0,v
+S2425-G0079,3,02:26,ATL,,CHA,,T. Mann,CHA,Mann STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0079,3,01:31,ATL,83.0,CHA,79.0,T. Mann,CHA,Mann 2' Driving Layup (9 PTS) (Richards 2 AST),Made Shot,Driving Layup Shot,-11,12,2,1,2.0,2.0,v
+S2425-G0079,3,01:31,ATL,83.0,CHA,80.0,T. Mann,CHA,Mann Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0079,3,01:05,ATL,,CHA,,T. Mann,CHA,Mann REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,3,01:04,ATL,83.0,CHA,81.0,T. Mann,CHA,Mann Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0079,3,01:04,ATL,83.0,CHA,82.0,T. Mann,CHA,Mann Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0079,4,10:19,ATL,,CHA,,T. Mann,CHA,SUB: Curry FOR Mann,Substitution,,0,0,0,0,,,v
+S2425-G0079,4,05:00,ATL,,CHA,,T. Mann,CHA,MISS Mann 2' Driving Layup,Missed Shot,Driving Layup Shot,-2,15,2,1,2.0,0.0,v
+S2425-G0079,4,03:02,ATL,,CHA,,T. Mann,CHA,MISS Mann 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-12,55,6,1,2.0,0.0,v
+S2425-G0079,4,02:58,ATL,,CHA,,T. Mann,CHA,Mann REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,4,02:58,ATL,114.0,CHA,109.0,T. Mann,CHA,Mann Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0079,4,02:43,ATL,,CHA,,T. Mann,CHA,Mann P.FOUL (P2.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2425-G0079,4,01:52,ATL,,CHA,,T. Mann,CHA,MISS Mann 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,100,249,27,1,3.0,0.0,v
+S2425-G0079,4,00:34.500000,ATL,,CHA,,T. Mann,CHA,MISS Mann 2' Driving Layup,Missed Shot,Driving Layup Shot,9,21,2,1,2.0,0.0,v
+S2425-G0079,4,00:16.600000,ATL,,CHA,,T. Mann,CHA,Mann P.FOUL (P3.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2425-G0079,4,00:07.900000,ATL,,CHA,,T. Mann,CHA,Mann REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0079,4,00:07.300000,ATL,123.0,CHA,120.0,T. Mann,CHA,Mann 25' 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,56,243,25,1,3.0,3.0,v
+S2425-G0079,4,00:02.200000,ATL,,CHA,,T. Mann,CHA,MISS Mann 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,132,218,25,1,3.0,0.0,v
+S2425-G0068,1,04:38,HOU,,CHA,,T. Mann,CHA,Mann BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0068,1,03:43,HOU,,CHA,,T. Mann,CHA,MISS Mann 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,203,179,27,1,3.0,0.0,v
+S2425-G0068,1,03:36,HOU,,CHA,,T. Mann,CHA,Mann S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0068,1,03:17,HOU,,CHA,,T. Mann,CHA,MISS Mann 6' Driving Layup,Missed Shot,Driving Layup Shot,-54,21,6,1,2.0,0.0,v
+S2425-G0068,1,02:48,HOU,18.0,CHA,13.0,T. Mann,CHA,Mann Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0068,1,02:48,HOU,18.0,CHA,14.0,T. Mann,CHA,Mann Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0068,1,02:09,HOU,,CHA,,T. Mann,CHA,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,1,01:09,HOU,,CHA,,T. Mann,CHA,MISS Mann 3PT Jump Shot,Missed Shot,Jump Shot,233,19,0,1,3.0,0.0,v
+S2425-G0068,2,06:59,HOU,,CHA,,T. Mann,CHA,Mann Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0068,2,05:23,HOU,,CHA,,T. Mann,CHA,Mann S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2425-G0068,2,04:24,HOU,50.0,CHA,37.0,T. Mann,CHA,Mann 12' Driving Floating Jump Shot (4 PTS) (Ball 4 AST),Made Shot,Driving Floating Jump Shot,91,79,12,1,2.0,2.0,v
+S2425-G0068,2,03:32,HOU,53.0,CHA,40.0,T. Mann,CHA,Mann 26' 3PT Jump Shot (7 PTS) (Curry 1 AST),Made Shot,Jump Shot,87,248,26,1,3.0,3.0,v
+S2425-G0068,2,00:11.600000,HOU,60.0,CHA,49.0,T. Mann,CHA,Mann 3PT Jump Shot (10 PTS) (Martin 1 AST),Made Shot,Jump Shot,-229,9,0,1,3.0,3.0,v
+S2425-G0068,3,05:23,HOU,,CHA,,T. Mann,CHA,MISS Mann 3' Driving Layup,Missed Shot,Driving Layup Shot,21,17,3,1,2.0,0.0,v
+S2425-G0068,3,05:20,HOU,,CHA,,T. Mann,CHA,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,3,05:20,HOU,,CHA,,T. Mann,CHA,MISS Mann Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0068,3,04:52,HOU,75.0,CHA,67.0,T. Mann,CHA,Mann 26' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,-49,253,26,1,3.0,3.0,v
+S2425-G0068,3,01:32,HOU,,CHA,,T. Mann,CHA,Mann REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,3,01:23,HOU,81.0,CHA,75.0,T. Mann,CHA,Mann 6' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,9,60,6,1,2.0,2.0,v
+S2425-G0068,3,00:26.400000,HOU,,CHA,,T. Mann,CHA,Mann REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,3,00:23.800000,HOU,,CHA,,T. Mann,CHA,Mann Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0068,4,11:06,HOU,83.0,CHA,83.0,T. Mann,CHA,Mann 14' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,72,121,14,1,2.0,2.0,v
+S2425-G0068,4,09:50,HOU,,CHA,,T. Mann,CHA,MISS Mann 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-169,244,30,1,3.0,0.0,v
+S2425-G0068,4,09:10,HOU,,CHA,,T. Mann,CHA,MISS Mann 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-185,202,27,1,3.0,0.0,v
+S2425-G0068,4,07:44,HOU,,CHA,,T. Mann,CHA,SUB: Ball FOR Mann,Substitution,,0,0,0,0,,,v
+S2425-G0068,4,04:33,HOU,,CHA,,T. Mann,CHA,Mann Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0068,4,04:16,HOU,,CHA,,T. Mann,CHA,Mann REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,4,03:25,HOU,96.0,CHA,96.0,T. Mann,CHA,Mann 25' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,85,239,25,1,3.0,3.0,v
+S2425-G0068,4,02:51,HOU,98.0,CHA,98.0,T. Mann,CHA,Mann 8' Driving Floating Bank Jump Shot (22 PTS),Made Shot,Driving Floating Bank Jump Shot,71,38,8,1,2.0,2.0,v
+S2425-G0068,4,00:11.600000,HOU,,CHA,,T. Mann,CHA,MISS Mann 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,100,57,12,1,2.0,0.0,v
+S2425-G0068,4,00:09.100000,HOU,,CHA,,T. Mann,CHA,Mann REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0068,4,00:04.800000,HOU,,CHA,,T. Mann,CHA,SUB: Richards FOR Mann,Substitution,,0,0,0,0,,,v
+S2425-G0068,4,00:03.700000,HOU,105.0,CHA,109.0,T. Mann,CHA,Mann Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0068,4,00:03.700000,HOU,105.0,CHA,110.0,T. Mann,CHA,Mann Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0087,1,10:53,DEN,,LAC,,T. Mann,LAC,MISS Mann 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-81,181,20,1,2.0,0.0,v
+S2425-G0087,1,09:44,DEN,,LAC,,T. Mann,LAC,Mann P.FOUL (P1.T1) (A.Abazi),Foul,Personal,0,0,0,0,,,v
+S2425-G0087,1,07:19,DEN,,LAC,,T. Mann,LAC,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,05:17,DEN,,LAC,,T. Mann,LAC,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,1,04:36,DEN,,LAC,,T. Mann,LAC,MISS Mann 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,21,24,1,3.0,0.0,v
+S2425-G0087,1,02:35,DEN,,LAC,,T. Mann,LAC,SUB: Coffey FOR Mann,Substitution,,0,0,0,0,,,v
+S2425-G0087,3,09:55,DEN,,LAC,,T. Mann,LAC,Mann P.FOUL (P2.T3) (A.Abazi),Foul,Personal,0,0,0,0,,,v
+S2425-G0087,3,06:32,DEN,,LAC,,T. Mann,LAC,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0087,3,06:30,DEN,,LAC,,T. Mann,LAC,MISS Mann Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0087,3,05:56,DEN,,LAC,,T. Mann,LAC,MISS Mann 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,224,21,0,1,3.0,0.0,v
+S2425-G0087,3,05:48,DEN,,LAC,,T. Mann,LAC,SUB: Dunn FOR Mann,Substitution,,0,0,0,0,,,v
+S2425-G0117,1,07:02,CHA,,TOR,,T. Mann,CHA,MISS Mann 3' Driving Layup,Missed Shot,Driving Layup Shot,32,3,3,1,2.0,0.0,h
+S2425-G0117,1,06:23,CHA,,TOR,,T. Mann,CHA,Mann L.B.FOUL (P1.T1) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0117,1,05:09,CHA,,TOR,,T. Mann,CHA,Mann BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0117,1,03:40,CHA,15.0,TOR,13.0,T. Mann,CHA,Mann 16' Fadeaway Jumper (2 PTS) (Salaün 2 AST),Made Shot,Fadeaway Jump Shot,161,1,16,1,2.0,2.0,h
+S2425-G0117,1,03:40,CHA,16.0,TOR,13.0,T. Mann,CHA,Mann Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0117,1,03:02,CHA,19.0,TOR,13.0,T. Mann,CHA,Mann 29' 3PT Jump Shot (6 PTS) (Diabaté 1 AST),Made Shot,Jump Shot,159,246,29,1,3.0,3.0,h
+S2425-G0117,1,01:27,CHA,26.0,TOR,13.0,T. Mann,CHA,Mann 8' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,83,0,8,1,2.0,2.0,h
+S2425-G0117,1,00:46.100000,CHA,28.0,TOR,15.0,T. Mann,CHA,Mann 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,28,-4,3,1,2.0,2.0,h
+S2425-G0117,1,00:07.100000,CHA,,TOR,,T. Mann,CHA,Mann S.FOUL (P2.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2425-G0117,2,05:37,CHA,,TOR,,T. Mann,CHA,Mann Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0117,2,04:35,CHA,,TOR,,T. Mann,CHA,MISS Mann 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-126,237,27,1,3.0,0.0,h
+S2425-G0117,2,04:00,CHA,56.0,TOR,45.0,T. Mann,CHA,Mann 3' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,31,3,1,2.0,2.0,h
+S2425-G0117,2,01:56,CHA,,TOR,,T. Mann,CHA,MISS Mann 28' 3PT Jump Shot,Missed Shot,Jump Shot,-1,277,28,1,3.0,0.0,h
+S2425-G0117,2,01:08,CHA,64.0,TOR,55.0,T. Mann,CHA,Mann 3PT Jump Shot (15 PTS) (Williams 3 AST),Made Shot,Jump Shot,-227,-8,0,1,3.0,3.0,h
+S2425-G0117,2,00:51,CHA,,TOR,,T. Mann,CHA,Mann S.FOUL (P3.PN) (P.O'Connell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0117,2,00:51,CHA,,TOR,,T. Mann,CHA,SUB: Green FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0117,3,06:15,CHA,,TOR,,T. Mann,CHA,Mann Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0117,3,03:48,CHA,,TOR,,T. Mann,CHA,MISS Mann 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,88,9,1,2.0,0.0,h
+S2425-G0117,3,02:50,CHA,91.0,TOR,94.0,T. Mann,CHA,Mann 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,11,15,2,1,2.0,2.0,h
+S2425-G0117,3,01:42,CHA,,TOR,,T. Mann,CHA,Mann STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0117,3,01:07,CHA,,TOR,,T. Mann,CHA,Mann STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0117,3,00:33.400000,CHA,100.0,TOR,96.0,T. Mann,CHA,Mann 26' 3PT Jump Shot (20 PTS) (Ball 5 AST),Made Shot,Jump Shot,-197,170,26,1,3.0,3.0,h
+S2425-G0117,3,00:32.800000,CHA,,TOR,,T. Mann,CHA,SUB: Martin FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0117,4,10:52,CHA,109.0,TOR,97.0,T. Mann,CHA,Mann 3PT Jump Shot (23 PTS) (Ball 6 AST),Made Shot,Jump Shot,-228,47,0,1,3.0,3.0,h
+S2425-G0117,4,09:44,CHA,111.0,TOR,100.0,T. Mann,CHA,Mann 5' Driving Floating Jump Shot (25 PTS),Made Shot,Driving Floating Jump Shot,-9,52,5,1,2.0,2.0,h
+S2425-G0117,4,09:14,CHA,,TOR,,T. Mann,CHA,MISS Mann 4' Driving Layup,Missed Shot,Driving Layup Shot,28,25,4,1,2.0,0.0,h
+S2425-G0117,4,08:37,CHA,,TOR,,T. Mann,CHA,MISS Mann 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,225,42,0,1,3.0,0.0,h
+S2425-G0117,4,08:24,CHA,,TOR,,T. Mann,CHA,Mann S.FOUL (P4.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0117,4,08:24,CHA,,TOR,,T. Mann,CHA,SUB: Martin FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0117,4,04:01,CHA,,TOR,,T. Mann,CHA,MISS Mann 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,127,58,14,1,2.0,0.0,h
+S2425-G0117,4,03:16,CHA,,TOR,,T. Mann,CHA,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0117,4,03:03,CHA,,TOR,,T. Mann,CHA,MISS Mann 31' 3PT Jump Shot,Missed Shot,Jump Shot,-169,254,31,1,3.0,0.0,h
+S2425-G0117,4,02:56,CHA,,TOR,,T. Mann,CHA,Mann S.FOUL (P5.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2425-G0117,4,02:11,CHA,,TOR,,T. Mann,CHA,MISS Mann 5' Driving Layup,Missed Shot,Driving Layup Shot,-5,48,5,1,2.0,0.0,h
+S2425-G0117,4,00:17.100000,CHA,133.0,TOR,129.0,T. Mann,CHA,Mann Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0117,4,00:17.100000,CHA,134.0,TOR,129.0,T. Mann,CHA,Mann Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0101,1,11:45,GSW,,LAC,,T. Mann,LAC,MISS Mann 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,53,42,7,1,2.0,0.0,v
+S2425-G0101,1,03:02,GSW,,LAC,,T. Mann,LAC,SUB: Dunn FOR Mann,Substitution,,0,0,0,0,,,v
+S2425-G0101,2,06:58,GSW,,LAC,,T. Mann,LAC,Mann S.FOUL (P1.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2425-G0101,2,05:57,GSW,,LAC,,T. Mann,LAC,Mann L.B.FOUL (P2.T4) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0101,2,04:37,GSW,,LAC,,T. Mann,LAC,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0101,2,04:34,GSW,,LAC,,T. Mann,LAC,Mann Offensive Charge Foul (P3) (B.Schwab),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0101,2,04:34,GSW,,LAC,,T. Mann,LAC,Mann Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0101,2,04:34,GSW,,LAC,,T. Mann,LAC,SUB: Dunn FOR Mann,Substitution,,0,0,0,0,,,v
+S2425-G0101,3,11:38,GSW,,LAC,,T. Mann,LAC,Mann STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0101,3,11:34,GSW,54.0,LAC,61.0,T. Mann,LAC,Mann 4' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,26,30,4,1,2.0,2.0,v
+S2425-G0101,3,10:36,GSW,,LAC,,T. Mann,LAC,MISS Mann 4' Running Layup,Missed Shot,Running Layup Shot,29,26,4,1,2.0,0.0,v
+S2425-G0101,3,08:18,GSW,,LAC,,T. Mann,LAC,MISS Mann 24' 3PT Jump Shot,Missed Shot,Jump Shot,-211,122,24,1,3.0,0.0,v
+S2425-G0101,3,07:58,GSW,,LAC,,T. Mann,LAC,MISS Mann 5' Running Layup,Missed Shot,Running Layup Shot,15,50,5,1,2.0,0.0,v
+S2425-G0101,3,06:37,GSW,,LAC,,T. Mann,LAC,SUB: Dunn FOR Mann,Substitution,,0,0,0,0,,,v
+S2425-G0088,1,04:21,CHA,,MIA,,T. Mann,CHA,Mann Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0088,1,03:40,CHA,,MIA,,T. Mann,CHA,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,1,03:31,CHA,,MIA,,T. Mann,CHA,MISS Mann 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,178,181,25,1,3.0,0.0,h
+S2425-G0088,1,02:13,CHA,,MIA,,T. Mann,CHA,SUB: Martin FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0088,2,07:55,CHA,,MIA,,T. Mann,CHA,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,2,07:44,CHA,,MIA,,T. Mann,CHA,MISS Mann 3' Driving Layup,Missed Shot,Driving Layup Shot,6,26,3,1,2.0,0.0,h
+S2425-G0088,2,06:48,CHA,,MIA,,T. Mann,CHA,Mann STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0088,2,05:42,CHA,,MIA,,T. Mann,CHA,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,2,04:53,CHA,36.0,MIA,39.0,T. Mann,CHA,Mann 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,18,20,3,1,2.0,2.0,h
+S2425-G0088,2,04:41,CHA,,MIA,,T. Mann,CHA,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,2,01:45,CHA,42.0,MIA,50.0,T. Mann,CHA,Mann Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0088,2,01:45,CHA,43.0,MIA,50.0,T. Mann,CHA,Mann Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0088,2,01:09,CHA,,MIA,,T. Mann,CHA,Mann S.FOUL (P1.PN) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0088,3,06:40,CHA,,MIA,,T. Mann,CHA,MISS Mann 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-151,151,21,1,2.0,0.0,h
+S2425-G0088,3,05:33,CHA,,MIA,,T. Mann,CHA,Mann REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0088,3,03:21,CHA,66.0,MIA,73.0,T. Mann,CHA,Mann 26' 3PT Jump Shot (7 PTS) (Williams 1 AST),Made Shot,Jump Shot,113,232,26,1,3.0,3.0,h
+S2425-G0088,3,01:55,CHA,,MIA,,T. Mann,CHA,MISS Mann 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,6,1,1,2.0,0.0,h
+S2425-G0088,3,00:59,CHA,68.0,MIA,80.0,T. Mann,CHA,Mann 8' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,7,80,8,1,2.0,2.0,h
+S2425-G0088,4,10:54,CHA,,MIA,,T. Mann,CHA,Mann S.FOUL (P2.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0088,4,10:12,CHA,,MIA,,T. Mann,CHA,MISS Mann 31' 3PT Jump Shot,Missed Shot,Jump Shot,189,242,31,1,3.0,0.0,h
+S2425-G0088,4,09:42,CHA,,MIA,,T. Mann,CHA,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,244,58,25,1,3.0,0.0,h
+S2425-G0088,4,09:06,CHA,,MIA,,T. Mann,CHA,SUB: Bridges FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0088,4,02:15,CHA,99.0,MIA,102.0,T. Mann,CHA,Mann 26' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,165,198,26,1,3.0,3.0,h
+S2425-G0088,4,01:36,CHA,101.0,MIA,104.0,T. Mann,CHA,Mann 17' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,158,68,17,1,2.0,2.0,h
+S2425-G0071,1,10:47,LAC,,PHX,,T. Mann,LAC,Mann REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,10:41,LAC,,PHX,,T. Mann,LAC,MISS Mann 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,199,180,27,1,3.0,0.0,h
+S2425-G0071,1,09:07,LAC,7.0,PHX,4.0,T. Mann,LAC,Mann 1' Driving Layup (2 PTS) (Jones Jr. 1 AST),Made Shot,Driving Layup Shot,11,8,1,1,2.0,2.0,h
+S2425-G0071,1,04:17,LAC,20.0,PHX,18.0,T. Mann,LAC,Mann 14' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-70,117,14,1,2.0,2.0,h
+S2425-G0071,1,03:58,LAC,,PHX,,T. Mann,LAC,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,1,03:11,LAC,,PHX,,T. Mann,LAC,Mann Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0071,1,03:03,LAC,,PHX,,T. Mann,LAC,SUB: Coffey FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0071,2,02:32,LAC,,PHX,,T. Mann,LAC,Mann L.B.FOUL (P1.T1) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0071,2,01:58,LAC,35.0,PHX,45.0,T. Mann,LAC,Mann 2' Running Layup (6 PTS) (Batum 2 AST),Made Shot,Running Layup Shot,10,19,2,1,2.0,2.0,h
+S2425-G0071,2,01:58,LAC,,PHX,,T. Mann,LAC,MISS Mann Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0071,2,00:49.300000,LAC,,PHX,,T. Mann,LAC,Mann P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2425-G0071,2,00:49.300000,LAC,,PHX,,T. Mann,LAC,SUB: Coffey FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0071,3,11:18,LAC,,PHX,,T. Mann,LAC,Mann P.FOUL (P3.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2425-G0071,3,10:45,LAC,,PHX,,T. Mann,LAC,Mann STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0071,3,08:51,LAC,,PHX,,T. Mann,LAC,Mann L.B.FOUL (P4.T2) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0071,3,08:51,LAC,,PHX,,T. Mann,LAC,SUB: Batum FOR Mann,Substitution,,0,0,0,0,,,h
+S2425-G0071,4,10:57,LAC,,PHX,,T. Mann,LAC,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,4,10:22,LAC,,PHX,,T. Mann,LAC,MISS Mann 6' Running Layup,Missed Shot,Running Layup Shot,5,57,6,1,2.0,0.0,h
+S2425-G0071,4,09:29,LAC,,PHX,,T. Mann,LAC,Mann REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,4,07:27,LAC,88.0,PHX,79.0,T. Mann,LAC,Mann 3' Running Reverse Layup (8 PTS) (Dunn 1 AST),Made Shot,Running Reverse Layup Shot,-17,26,3,1,2.0,2.0,h
+S2425-G0071,4,07:15,LAC,,PHX,,T. Mann,LAC,Mann P.FOUL (P5.T4) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2425-G0071,4,07:06,LAC,,PHX,,T. Mann,LAC,Mann REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0071,4,06:58,LAC,,PHX,,T. Mann,LAC,MISS Mann Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0071,4,06:58,LAC,,PHX,,T. Mann,LAC,MISS Mann Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0071,4,02:46,LAC,,PHX,,T. Mann,LAC,Mann P.FOUL (P6.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2425-G0071,4,02:46,LAC,,PHX,,T. Mann,LAC,SUB: Zubac FOR Mann,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,60 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0111,2,11:21,PHX,,LAL,,R. Dunn,PHX,MISS Dunn 28' 3PT Jump Shot,Missed Shot,Jump Shot,157,227,28,1,3.0,0.0,h
+S2425-G0111,2,10:51,PHX,27.0,LAL,34.0,R. Dunn,PHX,Dunn 4' Driving Layup (2 PTS) (Plumlee 2 AST),Made Shot,Driving Layup Shot,32,30,4,1,2.0,2.0,h
+S2425-G0111,2,06:53,PHX,,LAL,,R. Dunn,PHX,SUB: Durant FOR Dunn,Substitution,,0,0,0,0,,,h
+S2425-G0111,2,03:06,PHX,,LAL,,R. Dunn,PHX,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,02:58,PHX,,LAL,,R. Dunn,PHX,SUB: Beal FOR Dunn,Substitution,,0,0,0,0,,,h
+S2425-G0111,3,03:45,PHX,,LAL,,R. Dunn,PHX,SUB: Beal FOR Dunn,Substitution,,0,0,0,0,,,h
+S2425-G0111,3,00:11.200000,PHX,,LAL,,R. Dunn,PHX,Dunn BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0111,4,11:43,PHX,79.0,LAL,83.0,R. Dunn,PHX,Dunn 3PT Jump Shot (5 PTS) (Jones 4 AST),Made Shot,Jump Shot,225,11,0,1,3.0,3.0,h
+S2425-G0111,4,11:21,PHX,,LAL,,R. Dunn,PHX,Dunn STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0111,4,09:05,PHX,,LAL,,R. Dunn,PHX,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,206,144,25,1,3.0,0.0,h
+S2425-G0111,4,08:22,PHX,90.0,LAL,86.0,R. Dunn,PHX,Dunn 3' Running Reverse Layup (7 PTS) (Booker 2 AST),Made Shot,Running Reverse Layup Shot,-21,21,3,1,2.0,2.0,h
+S2425-G0111,4,04:17,PHX,,LAL,,R. Dunn,PHX,Dunn S.FOUL (P1.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0111,4,04:17,PHX,,LAL,,R. Dunn,PHX,SUB: O'Neale FOR Dunn,Substitution,,0,0,0,0,,,h
+S2425-G0111,4,00:24,PHX,,LAL,,R. Dunn,PHX,SUB: Jones FOR Dunn,Substitution,,0,0,0,0,,,h
+S2425-G0111,4,00:06.400000,PHX,,LAL,,R. Dunn,PHX,SUB: Nurkić FOR Dunn,Substitution,,0,0,0,0,,,h
+S2425-G0085,1,03:15,LAL,,PHX,,R. Dunn,PHX,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,1,02:01,LAL,18.0,PHX,29.0,R. Dunn,PHX,Dunn 24' 3PT Jump Shot (3 PTS) (Beal 4 AST),Made Shot,Jump Shot,208,125,24,1,3.0,3.0,v
+S2425-G0085,1,00:01.400000,LAL,,PHX,,R. Dunn,PHX,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,2,11:30,LAL,23.0,PHX,41.0,R. Dunn,PHX,Dunn 24' 3PT Jump Shot (6 PTS) (Morris 3 AST),Made Shot,Jump Shot,233,51,24,1,3.0,3.0,v
+S2425-G0085,2,09:18,LAL,,PHX,,R. Dunn,PHX,Dunn S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2425-G0085,2,08:35,LAL,30.0,PHX,51.0,R. Dunn,PHX,Dunn 26' 3PT Jump Shot (9 PTS) (Beal 6 AST),Made Shot,Jump Shot,-184,184,26,1,3.0,3.0,v
+S2425-G0085,2,08:11,LAL,,PHX,,R. Dunn,PHX,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,53,24,1,3.0,0.0,v
+S2425-G0085,2,06:54,LAL,,PHX,,R. Dunn,PHX,SUB: Booker FOR Dunn,Substitution,,0,0,0,0,,,v
+S2425-G0085,4,11:34,LAL,,PHX,,R. Dunn,PHX,MISS Dunn 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,16,283,28,1,3.0,0.0,v
+S2425-G0085,4,09:38,LAL,,PHX,,R. Dunn,PHX,Dunn S.FOUL (P2.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2425-G0085,4,08:31,LAL,,PHX,,R. Dunn,PHX,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,4,08:31,LAL,,PHX,,R. Dunn,PHX,SUB: Booker FOR Dunn,Substitution,,0,0,0,0,,,v
+S2425-G0071,1,03:28,LAC,,PHX,,R. Dunn,PHX,MISS Dunn 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,151,15,1,2.0,0.0,v
+S2425-G0071,1,02:33,LAC,,PHX,,R. Dunn,PHX,Dunn S.FOUL (P1.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0071,1,00:44.600000,LAC,,PHX,,R. Dunn,PHX,MISS Dunn 27' 3PT Jump Shot,Missed Shot,Jump Shot,45,268,27,1,3.0,0.0,v
+S2425-G0071,2,01:55,LAC,,PHX,,R. Dunn,PHX,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,2,01:31,LAC,,PHX,,R. Dunn,PHX,MISS Dunn 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-20,115,12,1,2.0,0.0,v
+S2425-G0071,2,01:18,LAC,,PHX,,R. Dunn,PHX,Dunn S.FOUL (P2.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0071,2,01:18,LAC,,PHX,,R. Dunn,PHX,SUB: Jones FOR Dunn,Substitution,,0,0,0,0,,,v
+S2425-G0071,3,03:28,LAC,,PHX,,R. Dunn,PHX,Dunn BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0071,3,03:26,LAC,,PHX,,R. Dunn,PHX,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,3,02:58,LAC,,PHX,,R. Dunn,PHX,Dunn S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0071,3,02:21,LAC,67.0,PHX,65.0,R. Dunn,PHX,Dunn Cutting Finger Roll Layup Shot (2 PTS) (Beal 1 AST),Made Shot,Cutting Finger Roll Layup Shot,2,-4,0,1,2.0,2.0,v
+S2425-G0071,3,01:59,LAC,,PHX,,R. Dunn,PHX,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,238,87,25,1,3.0,0.0,v
+S2425-G0095,1,08:11,PHX,,DAL,,R. Dunn,PHX,Dunn S.FOUL (P1.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2425-G0095,1,08:11,PHX,,DAL,,R. Dunn,PHX,SUB: O'Neale FOR Dunn,Substitution,,0,0,0,0,,,h
+S2425-G0095,1,03:21,PHX,,DAL,,R. Dunn,PHX,Dunn S.FOUL (P2.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0095,1,03:21,PHX,,DAL,,R. Dunn,PHX,SUB: Booker FOR Dunn,Substitution,,0,0,0,0,,,h
+S2425-G0095,2,10:43,PHX,33.0,DAL,26.0,R. Dunn,PHX,Dunn 27' 3PT Jump Shot (3 PTS) (Morris 2 AST),Made Shot,Jump Shot,188,200,27,1,3.0,3.0,h
+S2425-G0095,2,08:58,PHX,,DAL,,R. Dunn,PHX,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,2,08:58,PHX,41.0,DAL,31.0,R. Dunn,PHX,Dunn Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0095,2,08:23,PHX,,DAL,,R. Dunn,PHX,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,224,22,0,1,3.0,0.0,h
+S2425-G0095,2,08:06,PHX,,DAL,,R. Dunn,PHX,Dunn S.FOUL (P3.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0095,2,08:06,PHX,,DAL,,R. Dunn,PHX,SUB: O'Neale FOR Dunn,Substitution,,0,0,0,0,,,h
+S2425-G0095,3,11:34,PHX,66.0,DAL,57.0,R. Dunn,PHX,Dunn 24' 3PT Jump Shot (8 PTS) (Booker 5 AST),Made Shot,Jump Shot,240,16,24,1,3.0,3.0,h
+S2425-G0095,3,11:00,PHX,,DAL,,R. Dunn,PHX,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,-221,-10,0,1,3.0,0.0,h
+S2425-G0095,3,08:40,PHX,72.0,DAL,67.0,R. Dunn,PHX,Dunn 1' Running Dunk (10 PTS) (Jones 4 AST),Made Shot,Running Dunk Shot,13,3,1,1,2.0,2.0,h
+S2425-G0095,3,07:28,PHX,,DAL,,R. Dunn,PHX,Dunn S.FOUL (P4.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2425-G0095,3,07:28,PHX,,DAL,,R. Dunn,PHX,SUB: O'Neale FOR Dunn,Substitution,,0,0,0,0,,,h
+S2425-G0095,4,10:46,PHX,,DAL,,R. Dunn,PHX,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,-222,100,24,1,3.0,0.0,h
+S2425-G0095,4,09:04,PHX,,DAL,,R. Dunn,PHX,Dunn Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0095,4,07:38,PHX,99.0,DAL,90.0,R. Dunn,PHX,Dunn 26' 3PT Pullup Jump Shot (13 PTS) (Nurkić 1 AST),Made Shot,Pullup Jump shot,98,242,26,1,3.0,3.0,h
+S2425-G0095,4,06:34,PHX,,DAL,,R. Dunn,PHX,Dunn S.FOUL (P5.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2425-G0095,4,06:34,PHX,,DAL,,R. Dunn,PHX,SUB: Booker FOR Dunn,Substitution,,0,0,0,0,,,h

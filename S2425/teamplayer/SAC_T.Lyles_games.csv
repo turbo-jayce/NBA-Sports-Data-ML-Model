@@ -1,0 +1,54 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0096,1,03:16,LAL,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0096,1,03:14,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,1,02:05,LAL,26.0,SAC,21.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (Fox 2 AST),Made Shot,Jump Shot,-233,-27,0,1,3.0,3.0,v
+S2425-G0096,2,10:21,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,49,262,27,1,3.0,0.0,v
+S2425-G0096,2,08:00,LAL,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2425-G0096,2,07:31,LAL,44.0,SAC,32.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,2,07:31,LAL,44.0,SAC,33.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0096,2,06:29,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,2,04:39,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,-161,221,27,1,3.0,0.0,v
+S2425-G0096,2,02:19,LAL,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0096,2,02:10,LAL,,SAC,,T. Lyles,SAC,SUB: DeRozan FOR Lyles,Substitution,,0,0,0,0,,,v
+S2425-G0096,2,00:00.600000,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-230,92,25,1,3.0,0.0,v
+S2425-G0096,3,03:37,LAL,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P2.T1) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0096,3,02:57,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-201,150,25,1,3.0,0.0,v
+S2425-G0096,3,01:32,LAL,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P3.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0096,3,01:32,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,3,00:09.500000,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0096,4,08:34,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-223,13,0,1,3.0,0.0,v
+S2425-G0096,4,08:18,LAL,,SAC,,T. Lyles,SAC,SUB: Fox FOR Lyles,Substitution,,0,0,0,0,,,v
+S2425-G0115,1,02:15,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,1,01:38,UTA,,SAC,,T. Lyles,SAC,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,-38,269,27,1,3.0,0.0,v
+S2425-G0115,2,11:48,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,2,10:19,UTA,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0115,2,10:16,UTA,,SAC,,T. Lyles,SAC,Lyles BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0115,2,10:08,UTA,27.0,SAC,38.0,T. Lyles,SAC,Lyles 3' Cutting Finger Roll Layup Shot (2 PTS) (Fox 2 AST),Made Shot,Cutting Finger Roll Layup Shot,5,30,3,1,2.0,2.0,v
+S2425-G0115,2,09:20,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,2,08:40,UTA,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2425-G0115,2,08:40,UTA,,SAC,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,v
+S2425-G0115,3,03:35,UTA,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P2.T3) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2425-G0115,3,02:23,UTA,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0115,3,01:12,UTA,,SAC,,T. Lyles,SAC,Lyles STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0115,3,00:45.400000,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,4,10:23,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,4,09:13,UTA,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P3.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0115,4,08:57,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,4,04:43,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0115,4,02:03,UTA,,SAC,,T. Lyles,SAC,SUB: I. Jones FOR Lyles,Substitution,,0,0,0,0,,,v
+S2425-G0076,1,02:43,SAC,,MIN,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-161,201,26,1,3.0,0.0,h
+S2425-G0076,1,01:56,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0076,1,00:45,SAC,,MIN,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0076,2,09:10,SAC,41.0,MIN,35.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,-224,43,0,1,3.0,3.0,h
+S2425-G0076,2,08:23,SAC,,MIN,,T. Lyles,SAC,MISS Lyles 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-137,34,14,1,2.0,0.0,h
+S2425-G0076,2,07:51,SAC,,MIN,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2425-G0076,2,07:51,SAC,,MIN,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,h
+S2425-G0076,3,02:38,SAC,,MIN,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,58,24,1,3.0,0.0,h
+S2425-G0112,1,02:11,SAC,,POR,,T. Lyles,SAC,MISS Lyles 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,49,51,7,1,2.0,0.0,h
+S2425-G0112,2,07:20,SAC,,POR,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-227,-23,0,1,3.0,0.0,h
+S2425-G0112,2,06:46,SAC,,POR,,T. Lyles,SAC,SUB: Ellis FOR Lyles,Substitution,,0,0,0,0,,,h
+S2425-G0112,2,00:39,SAC,,POR,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0112,4,10:50,SAC,,POR,,T. Lyles,SAC,Lyles Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0112,4,09:00,SAC,99.0,POR,73.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (3 PTS) (Fox 2 AST),Made Shot,Jump Shot,15,260,26,1,3.0,3.0,h
+S2425-G0112,4,07:53,SAC,,POR,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-147,218,26,1,3.0,0.0,h
+S2425-G0112,4,07:43,SAC,,POR,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,h

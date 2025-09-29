@@ -1,0 +1,88 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,1,00:38,DAL,,SAS,,T. Jones,SAS,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0074,2,05:21,DAL,,SAS,,T. Jones,SAS,MISS Jones 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-109,12,11,1,2.0,0.0,v
+S2425-G0074,2,04:42,DAL,,SAS,,T. Jones,SAS,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0074,2,02:48,DAL,,SAS,,T. Jones,SAS,SUB: Wembanyama FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0074,3,02:58,DAL,78.0,SAS,74.0,T. Jones,SAS,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,02:58,DAL,78.0,SAS,75.0,T. Jones,SAS,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,3,02:32,DAL,,SAS,,T. Jones,SAS,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,-54,0,5,1,2.0,0.0,v
+S2425-G0074,3,00:10.700000,DAL,,SAS,,T. Jones,SAS,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0074,3,00:10.700000,DAL,87.0,SAS,80.0,T. Jones,SAS,Jones Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0111,1,10:33,PHX,,LAL,,T. Jones,PHX,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,151,199,25,1,3.0,0.0,h
+S2425-G0111,1,08:14,PHX,,LAL,,T. Jones,PHX,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,181,172,25,1,3.0,0.0,h
+S2425-G0111,1,07:39,PHX,,LAL,,T. Jones,PHX,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0111,1,07:35,PHX,,LAL,,T. Jones,PHX,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0111,1,07:18,PHX,,LAL,,T. Jones,PHX,MISS Jones 4' Driving Layup,Missed Shot,Driving Layup Shot,-40,13,4,1,2.0,0.0,h
+S2425-G0111,1,05:16,PHX,,LAL,,T. Jones,PHX,SUB: O'Neale FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0111,2,11:35,PHX,,LAL,,T. Jones,PHX,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,10:55,PHX,,LAL,,T. Jones,PHX,MISS Jones 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-142,21,14,1,2.0,0.0,h
+S2425-G0111,2,10:32,PHX,29.0,LAL,36.0,T. Jones,PHX,Jones Running Layup (2 PTS),Made Shot,Running Layup Shot,-2,4,0,1,2.0,2.0,h
+S2425-G0111,2,09:37,PHX,,LAL,,T. Jones,PHX,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0111,2,09:35,PHX,,LAL,,T. Jones,PHX,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,03:29,PHX,,LAL,,T. Jones,PHX,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,2,03:26,PHX,,LAL,,T. Jones,PHX,SUB: Dunn FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0111,3,11:44,PHX,,LAL,,T. Jones,PHX,Jones STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0111,3,11:41,PHX,52.0,LAL,48.0,T. Jones,PHX,Jones 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,-27,15,3,1,2.0,2.0,h
+S2425-G0111,3,10:35,PHX,57.0,LAL,51.0,T. Jones,PHX,Jones 3PT Jump Shot (7 PTS) (Beal 1 AST),Made Shot,Jump Shot,-229,25,0,1,3.0,3.0,h
+S2425-G0111,3,05:40,PHX,,LAL,,T. Jones,PHX,MISS Jones 27' 3PT Jump Shot,Missed Shot,Jump Shot,62,259,27,1,3.0,0.0,h
+S2425-G0111,3,03:45,PHX,,LAL,,T. Jones,PHX,SUB: O'Neale FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0111,4,08:25,PHX,,LAL,,T. Jones,PHX,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,4,08:11,PHX,,LAL,,T. Jones,PHX,Jones P.FOUL (P1.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2425-G0111,4,07:38,PHX,,LAL,,T. Jones,PHX,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,4,06:05,PHX,,LAL,,T. Jones,PHX,Jones REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0111,4,05:09,PHX,,LAL,,T. Jones,PHX,SUB: Beal FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0111,4,00:07.900000,PHX,,LAL,,T. Jones,PHX,SUB: Dunn FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0085,1,10:25,LAL,,PHX,,T. Jones,PHX,Jones Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0085,1,05:23,LAL,,PHX,,T. Jones,PHX,SUB: Morris FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0085,2,02:25,LAL,,PHX,,T. Jones,PHX,SUB: Durant FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0085,3,07:57,LAL,,PHX,,T. Jones,PHX,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0085,3,06:57,LAL,,PHX,,T. Jones,PHX,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-229,-11,0,1,3.0,0.0,v
+S2425-G0085,3,05:02,LAL,,PHX,,T. Jones,PHX,MISS Jones 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,91,109,14,1,2.0,0.0,v
+S2425-G0085,3,04:37,LAL,,PHX,,T. Jones,PHX,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0085,3,04:03,LAL,,PHX,,T. Jones,PHX,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,6,259,26,1,3.0,0.0,v
+S2425-G0085,3,03:58,LAL,74.0,PHX,79.0,T. Jones,PHX,Jones 27' 3PT Jump Shot (3 PTS) (Durant 4 AST),Made Shot,Jump Shot,-115,247,27,1,3.0,3.0,v
+S2425-G0085,3,03:04,LAL,74.0,PHX,81.0,T. Jones,PHX,Jones 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,17,25,3,1,2.0,2.0,v
+S2425-G0085,3,02:58,LAL,,PHX,,T. Jones,PHX,SUB: Beal FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0085,4,08:59,LAL,98.0,PHX,90.0,T. Jones,PHX,Jones 3' Driving Floating Bank Jump Shot (7 PTS) (Durant 5 AST),Made Shot,Driving Floating Bank Jump Shot,-4,31,3,1,2.0,2.0,v
+S2425-G0085,4,08:20,LAL,98.0,PHX,92.0,T. Jones,PHX,Jones 6' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,18,58,6,1,2.0,2.0,v
+S2425-G0085,4,06:56,LAL,101.0,PHX,95.0,T. Jones,PHX,Jones 3PT Jump Shot (12 PTS) (Booker 3 AST),Made Shot,Jump Shot,-233,28,0,1,3.0,3.0,v
+S2425-G0085,4,06:14,LAL,,PHX,,T. Jones,PHX,Jones Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0085,4,05:45,LAL,107.0,PHX,96.0,T. Jones,PHX,Jones Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0085,4,05:45,LAL,107.0,PHX,97.0,T. Jones,PHX,Jones Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0085,4,03:45,LAL,,PHX,,T. Jones,PHX,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,1,10:17,LAC,,PHX,,T. Jones,PHX,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,241,76,25,1,3.0,0.0,v
+S2425-G0071,1,06:44,LAC,14.0,PHX,15.0,T. Jones,PHX,Jones 28' 3PT Jump Shot (3 PTS) (Plumlee 1 AST),Made Shot,Jump Shot,152,230,28,1,3.0,3.0,v
+S2425-G0071,1,05:20,LAC,,PHX,,T. Jones,PHX,SUB: Morris FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0071,2,04:19,LAC,,PHX,,T. Jones,PHX,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-223,22,0,1,3.0,0.0,v
+S2425-G0071,2,03:07,LAC,,PHX,,T. Jones,PHX,MISS Jones 4' Driving Layup,Missed Shot,Driving Layup Shot,10,39,4,1,2.0,0.0,v
+S2425-G0071,2,02:32,LAC,,PHX,,T. Jones,PHX,SUB: Dunn FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0071,2,00:49.300000,LAC,,PHX,,T. Jones,PHX,SUB: Ighodaro FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0071,3,11:13,LAC,41.0,PHX,49.0,T. Jones,PHX,Jones 4' Driving Floating Jump Shot (5 PTS) (Booker 2 AST),Made Shot,Driving Floating Jump Shot,-36,-2,4,1,2.0,2.0,v
+S2425-G0071,3,10:29,LAC,,PHX,,T. Jones,PHX,MISS Jones 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,201,172,26,1,3.0,0.0,v
+S2425-G0071,3,05:13,LAC,,PHX,,T. Jones,PHX,SUB: Morris FOR Jones,Substitution,,0,0,0,0,,,v
+S2425-G0071,4,07:37,LAC,,PHX,,T. Jones,PHX,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0071,4,07:32,LAC,,PHX,,T. Jones,PHX,MISS Jones 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-146,211,26,1,3.0,0.0,v
+S2425-G0071,4,06:39,LAC,88.0,PHX,81.0,T. Jones,PHX,Jones 5' Driving Floating Bank Jump Shot (7 PTS) (Nurkić 2 AST),Made Shot,Driving Floating Bank Jump Shot,5,51,5,1,2.0,2.0,v
+S2425-G0071,4,04:27,LAC,96.0,PHX,90.0,T. Jones,PHX,Jones 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,-29,15,3,1,2.0,2.0,v
+S2425-G0071,4,03:20,LAC,,PHX,,T. Jones,PHX,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0071,4,02:37,LAC,,PHX,,T. Jones,PHX,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0071,4,02:31,LAC,99.0,PHX,98.0,T. Jones,PHX,Jones 3' Running Layup (11 PTS) (Booker 6 AST),Made Shot,Running Layup Shot,18,-20,3,1,2.0,2.0,v
+S2425-G0071,4,01:53,LAC,,PHX,,T. Jones,PHX,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0071,5,03:59,LAC,,PHX,,T. Jones,PHX,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0095,1,09:18,PHX,,DAL,,T. Jones,PHX,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0095,1,09:10,PHX,,DAL,,T. Jones,PHX,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,1,08:23,PHX,10.0,DAL,9.0,T. Jones,PHX,Jones 26' 3PT Jump Shot (3 PTS) (Booker 1 AST),Made Shot,Jump Shot,168,199,26,1,3.0,3.0,h
+S2425-G0095,1,07:52,PHX,13.0,DAL,11.0,T. Jones,PHX,Jones 26' 3PT Jump Shot (6 PTS) (Booker 2 AST),Made Shot,Jump Shot,208,159,26,1,3.0,3.0,h
+S2425-G0095,1,06:20,PHX,,DAL,,T. Jones,PHX,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,1,05:11,PHX,,DAL,,T. Jones,PHX,SUB: Dunn FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0095,2,05:38,PHX,,DAL,,T. Jones,PHX,MISS Jones 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11,116,12,1,2.0,0.0,h
+S2425-G0095,2,01:41,PHX,,DAL,,T. Jones,PHX,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,2,00:03.900000,PHX,,DAL,,T. Jones,PHX,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,212,131,25,1,3.0,0.0,h
+S2425-G0095,3,09:57,PHX,68.0,DAL,63.0,T. Jones,PHX,Jones 5' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,-39,24,5,1,2.0,2.0,h
+S2425-G0095,3,08:42,PHX,,DAL,,T. Jones,PHX,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,3,05:49,PHX,,DAL,,T. Jones,PHX,Jones REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0095,3,05:41,PHX,,DAL,,T. Jones,PHX,SUB: Lee FOR Jones,Substitution,,0,0,0,0,,,h
+S2425-G0095,4,08:43,PHX,,DAL,,T. Jones,PHX,MISS Jones 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-32,4,3,1,2.0,0.0,h
+S2425-G0095,4,08:39,PHX,,DAL,,T. Jones,PHX,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0095,4,03:13,PHX,,DAL,,T. Jones,PHX,MISS Jones 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-2,104,10,1,2.0,0.0,h
+S2425-G0095,4,00:45.900000,PHX,,DAL,,T. Jones,PHX,SUB: Lee FOR Jones,Substitution,,0,0,0,0,,,h

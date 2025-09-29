@@ -1,0 +1,25 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0066,2,11:14,PHI,,MIL,,D. Wright,MIL,MISS Wright 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-158,205,26,1,3.0,0.0,v
+S2425-G0066,2,07:45,PHI,,MIL,,D. Wright,MIL,SUB: Lopez FOR Wright,Substitution,,0,0,0,0,,,v
+S2425-G0066,3,02:04,PHI,76.0,MIL,94.0,D. Wright,MIL,Wright 2' Driving Finger Roll Layup (2 PTS) (Lopez 3 AST),Made Shot,Driving Finger Roll Layup Shot,23,8,2,1,2.0,2.0,v
+S2425-G0066,4,11:52,PHI,,MIL,,D. Wright,MIL,Wright STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0066,4,09:22,PHI,,MIL,,D. Wright,MIL,MISS Wright 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11,83,8,1,2.0,0.0,v
+S2425-G0066,4,09:03,PHI,,MIL,,D. Wright,MIL,SUB: Lillard FOR Wright,Substitution,,0,0,0,0,,,v
+S2425-G0083,2,09:50,MIL,38.0,CHI,36.0,D. Wright,MIL,Wright 1' Finger Roll Layup (2 PTS),Made Shot,Finger Roll Layup Shot,-1,6,1,1,2.0,2.0,h
+S2425-G0083,2,07:43,MIL,,CHI,,D. Wright,MIL,Wright STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0083,2,06:59,MIL,49.0,CHI,42.0,D. Wright,MIL,Wright 3PT Jump Shot (5 PTS) (Prince 1 AST),Made Shot,Jump Shot,227,7,0,1,3.0,3.0,h
+S2425-G0083,2,06:59,MIL,,CHI,,D. Wright,MIL,SUB: Lopez FOR Wright,Substitution,,0,0,0,0,,,h
+S2425-G0083,4,06:46,MIL,,CHI,,D. Wright,MIL,MISS Wright 28' 3PT Jump Shot,Missed Shot,Jump Shot,71,267,28,1,3.0,0.0,h
+S2425-G0083,4,06:24,MIL,,CHI,,D. Wright,MIL,Wright S.FOUL (P1.T2) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2425-G0083,4,05:21,MIL,,CHI,,D. Wright,MIL,SUB: Trent Jr. FOR Wright,Substitution,,0,0,0,0,,,h
+S2425-G0104,1,02:05,BOS,,MIL,,D. Wright,MIL,Wright Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0104,4,11:14,BOS,,MIL,,D. Wright,MIL,SUB: Lillard FOR Wright,Substitution,,0,0,0,0,,,v
+S2425-G0098,1,00:00.500000,BKN,,MIL,,D. Wright,MIL,MISS Wright 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-120,222,25,1,3.0,0.0,v
+S2425-G0098,2,09:22,BKN,,MIL,,D. Wright,MIL,Wright BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0098,2,08:14,BKN,,MIL,,D. Wright,MIL,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,07:43,BKN,,MIL,,D. Wright,MIL,Wright Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0098,2,07:36,BKN,,MIL,,D. Wright,MIL,Wright REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0098,2,07:17,BKN,,MIL,,D. Wright,MIL,MISS Wright 8' Driving Layup,Missed Shot,Driving Layup Shot,70,33,8,1,2.0,0.0,v
+S2425-G0098,2,07:14,BKN,,MIL,,D. Wright,MIL,SUB: Lillard FOR Wright,Substitution,,0,0,0,0,,,v
+S2425-G0098,4,10:55,BKN,,MIL,,D. Wright,MIL,Wright S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2425-G0098,4,07:54,BKN,,MIL,,D. Wright,MIL,SUB: Lillard FOR Wright,Substitution,,0,0,0,0,,,v

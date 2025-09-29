@@ -1,0 +1,114 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0126,1,04:32,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,04:28,GSW,16.0,NOP,13.0,K. Looney,GSW,Looney 2' Running Dunk (2 PTS) (Waters III 3 AST),Made Shot,Running Dunk Shot,-2,17,2,1,2.0,2.0,h
+S2425-G0126,1,03:21,GSW,,NOP,,K. Looney,GSW,Looney P.FOUL (P1.T3) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2425-G0126,1,02:18,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,1,02:03,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,11:40,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0126,2,10:09,GSW,,NOP,,K. Looney,GSW,Looney Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0126,2,10:07,GSW,,NOP,,K. Looney,GSW,Looney S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0126,2,08:41,GSW,,NOP,,K. Looney,GSW,SUB: Green FOR Looney,Substitution,,0,0,0,0,,,h
+S2425-G0101,1,04:28,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,1,03:50,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,1,02:49,GSW,,LAC,,K. Looney,GSW,WARRIORS T.Foul (Def. 3 Sec Looney ) (C.Kirkland),Foul,Defense 3 Second,0,0,0,0,,,h
+S2425-G0101,1,01:44,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,1,01:19,GSW,32.0,LAC,30.0,K. Looney,GSW,Looney Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0101,1,01:19,GSW,,LAC,,K. Looney,GSW,MISS Looney Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0101,1,00:31.300000,GSW,,LAC,,K. Looney,GSW,Jump Ball Looney vs. Dunn: Tip to Melton,Jump Ball,,0,0,0,0,,,h
+S2425-G0101,1,00:31.300000,GSW,,LAC,,K. Looney,GSW,Looney STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0101,1,00:05,GSW,,LAC,,K. Looney,GSW,SUB: Wiggins FOR Looney,Substitution,,0,0,0,0,,,h
+S2425-G0101,2,11:19,GSW,,LAC,,K. Looney,GSW,MISS Looney 15' Jump Shot,Missed Shot,Jump Shot,13,147,15,1,2.0,0.0,h
+S2425-G0101,2,10:47,GSW,,LAC,,K. Looney,GSW,Looney Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0101,2,10:16,GSW,,LAC,,K. Looney,GSW,Looney S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2425-G0101,2,09:29,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,2,09:16,GSW,,LAC,,K. Looney,GSW,SUB: Jackson-Davis FOR Looney,Substitution,,0,0,0,0,,,h
+S2425-G0101,3,02:43,GSW,,LAC,,K. Looney,GSW,MISS Looney Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0101,3,02:43,GSW,73.0,LAC,81.0,K. Looney,GSW,Looney Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0101,3,02:20,GSW,,LAC,,K. Looney,GSW,MISS Looney 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-2,49,5,1,2.0,0.0,h
+S2425-G0101,3,01:56,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,3,00:48.300000,GSW,77.0,LAC,83.0,K. Looney,GSW,Looney 2' Running Dunk (4 PTS) (Podziemski 3 AST),Made Shot,Running Dunk Shot,-1,18,2,1,2.0,2.0,h
+S2425-G0101,4,05:58,GSW,,LAC,,K. Looney,GSW,Looney STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0101,4,05:31,GSW,,LAC,,K. Looney,GSW,Looney S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2425-G0101,4,05:20,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,05:00,GSW,,LAC,,K. Looney,GSW,Looney STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0101,4,04:57,GSW,95.0,LAC,101.0,K. Looney,GSW,Looney 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,-1,33,3,1,2.0,2.0,h
+S2425-G0101,4,04:09,GSW,97.0,LAC,101.0,K. Looney,GSW,Looney 7' Driving Layup (8 PTS) (Hield 2 AST),Made Shot,Driving Layup Shot,65,37,7,1,2.0,2.0,h
+S2425-G0101,4,01:10,GSW,,LAC,,K. Looney,GSW,Looney P.FOUL (P3.T3) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2425-G0101,4,00:53.800000,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,00:53.300000,GSW,,LAC,,K. Looney,GSW,MISS Looney Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0101,4,00:52.300000,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,00:52.300000,GSW,104.0,LAC,109.0,K. Looney,GSW,Looney Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0101,4,00:40.900000,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,00:37.700000,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,00:37.300000,GSW,,LAC,,K. Looney,GSW,MISS Looney Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0101,4,00:37,GSW,,LAC,,K. Looney,GSW,Looney REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0101,4,00:37,GSW,,LAC,,K. Looney,GSW,MISS Looney Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0101,4,00:32.200000,GSW,,LAC,,K. Looney,GSW,Looney Personal Take Foul (P4.PN) (J.Goble),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0072,1,04:49,POR,,GSW,,K. Looney,GSW,Looney BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0072,1,02:53,POR,,GSW,,K. Looney,GSW,Looney REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,02:47,POR,,GSW,,K. Looney,GSW,MISS Looney 18' Jump Shot,Missed Shot,Jump Shot,-173,31,18,1,2.0,0.0,v
+S2425-G0072,1,02:30,POR,,GSW,,K. Looney,GSW,Looney REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,1,01:39,POR,,GSW,,K. Looney,GSW,Looney S.FOUL (P1.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0072,2,11:24,POR,,GSW,,K. Looney,GSW,Looney REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,2,11:22,POR,,GSW,,K. Looney,GSW,Looney Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0072,2,10:19,POR,,GSW,,K. Looney,GSW,MISS Looney 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-7,21,2,1,2.0,0.0,v
+S2425-G0072,2,09:59,POR,,GSW,,K. Looney,GSW,Looney STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0072,2,09:50,POR,,GSW,,K. Looney,GSW,SUB: Jackson-Davis FOR Looney,Substitution,,0,0,0,0,,,v
+S2425-G0072,2,00:06.300000,POR,,GSW,,K. Looney,GSW,SUB: Curry FOR Looney,Substitution,,0,0,0,0,,,v
+S2425-G0072,3,02:04,POR,,GSW,,K. Looney,GSW,Looney REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,01:19,POR,,GSW,,K. Looney,GSW,Looney REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,00:28.300000,POR,,GSW,,K. Looney,GSW,Looney REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0072,3,00:26.400000,POR,70.0,GSW,99.0,K. Looney,GSW,Looney Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,3,00:26.400000,POR,70.0,GSW,100.0,K. Looney,GSW,Looney Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0072,4,10:30,POR,,GSW,,K. Looney,GSW,Looney S.FOUL (P2.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2425-G0072,4,10:00,POR,,GSW,,K. Looney,GSW,Looney S.FOUL (P3.T3) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2425-G0072,4,10:00,POR,,GSW,,K. Looney,GSW,SUB: Jackson-Davis FOR Looney,Substitution,,0,0,0,0,,,v
+S2425-G0116,1,03:48,GSW,,NOP,,K. Looney,GSW,Looney STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0116,1,03:19,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,1,02:59,GSW,,NOP,,K. Looney,GSW,SUB: Green FOR Looney,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,08:00,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,05:30,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,05:24,GSW,33.0,NOP,42.0,K. Looney,GSW,Looney 4' Layup (2 PTS) (Waters III 1 AST),Made Shot,Layup Shot,-25,29,4,1,2.0,2.0,h
+S2425-G0116,2,04:57,GSW,,NOP,,K. Looney,GSW,Looney STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0116,2,04:21,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,04:09,GSW,,NOP,,K. Looney,GSW,MISS Looney 2' Layup,Missed Shot,Layup Shot,6,15,2,1,2.0,0.0,h
+S2425-G0116,2,03:59,GSW,,NOP,,K. Looney,GSW,Looney P.FOUL (P1.T4) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2425-G0116,2,03:59,GSW,,NOP,,K. Looney,GSW,SUB: Green FOR Looney,Substitution,,0,0,0,0,,,h
+S2425-G0116,2,02:01,GSW,,NOP,,K. Looney,GSW,Looney S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,2,01:46,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,01:12,GSW,,NOP,,K. Looney,GSW,Looney BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0116,2,00:00.300000,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,2,00:00.200000,GSW,,NOP,,K. Looney,GSW,MISS Looney Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0116,3,02:36,GSW,,NOP,,K. Looney,GSW,Looney S.FOUL (P3.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2425-G0116,3,02:27,GSW,,NOP,,K. Looney,GSW,Looney OFF.Foul (P4) (J.Schroeder),Foul,Offensive,0,0,0,0,,,h
+S2425-G0116,3,02:27,GSW,,NOP,,K. Looney,GSW,Looney Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0116,3,01:23,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,07:00,GSW,,NOP,,K. Looney,GSW,MISS Looney 13' Jump Shot,Missed Shot,Jump Shot,127,31,13,1,2.0,0.0,h
+S2425-G0116,4,03:49,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,03:02,GSW,,NOP,,K. Looney,GSW,Looney REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0116,4,03:02,GSW,111.0,NOP,96.0,K. Looney,GSW,Looney Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0116,4,02:43,GSW,,NOP,,K. Looney,GSW,SUB: Jackson-Davis FOR Looney,Substitution,,0,0,0,0,,,h
+S2425-G0084,1,04:33,UTA,,GSW,,K. Looney,GSW,Looney REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,04:33,UTA,19.0,GSW,13.0,K. Looney,GSW,Looney Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0084,1,02:07,UTA,21.0,GSW,25.0,K. Looney,GSW,Looney 16' Jump Shot (4 PTS) (Payton II 2 AST),Made Shot,Jump Shot,7,160,16,1,2.0,2.0,v
+S2425-G0084,1,01:52,UTA,,GSW,,K. Looney,GSW,Looney REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,01:03,UTA,,GSW,,K. Looney,GSW,MISS Looney 3' Layup,Missed Shot,Layup Shot,1,33,3,1,2.0,0.0,v
+S2425-G0084,1,01:00,UTA,,GSW,,K. Looney,GSW,Looney REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,01:00,UTA,,GSW,,K. Looney,GSW,MISS Looney Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0084,1,01:00,UTA,,GSW,,K. Looney,GSW,Looney REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,1,01:00,UTA,21.0,GSW,29.0,K. Looney,GSW,Looney Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0084,1,00:43.700000,UTA,,GSW,,K. Looney,GSW,SUB: Moody FOR Looney,Substitution,,0,0,0,0,,,v
+S2425-G0084,2,00:36.400000,UTA,,GSW,,K. Looney,GSW,Looney OFF.Foul (P1) (T.Washington),Foul,Offensive,0,0,0,0,,,v
+S2425-G0084,2,00:36.400000,UTA,,GSW,,K. Looney,GSW,Looney Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0084,3,04:06,UTA,,GSW,,K. Looney,GSW,Looney REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,03:13,UTA,,GSW,,K. Looney,GSW,Looney REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,3,01:52,UTA,,GSW,,K. Looney,GSW,Looney S.FOUL (P2.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0084,4,11:44,UTA,,GSW,,K. Looney,GSW,Looney REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,4,09:37,UTA,,GSW,,K. Looney,GSW,Looney REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,4,09:23,UTA,,GSW,,K. Looney,GSW,Looney REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,4,09:23,UTA,74.0,GSW,98.0,K. Looney,GSW,Looney Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0084,4,08:41,UTA,,GSW,,K. Looney,GSW,Looney REBOUND (Off:7 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0084,4,08:41,UTA,76.0,GSW,99.0,K. Looney,GSW,Looney Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0084,4,08:41,UTA,,GSW,,K. Looney,GSW,MISS Looney Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0084,4,08:22,UTA,,GSW,,K. Looney,GSW,Looney BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0084,4,07:57,UTA,,GSW,,K. Looney,GSW,SUB: Jackson-Davis FOR Looney,Substitution,,0,0,0,0,,,v

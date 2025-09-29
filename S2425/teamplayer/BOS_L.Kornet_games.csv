@@ -1,0 +1,67 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0073,1,04:20,WAS,,BOS,,L. Kornet,BOS,Kornet L.B.FOUL (P1.T2) (J.Capers),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0073,1,03:28,WAS,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0073,1,00:17.100000,WAS,,BOS,,L. Kornet,BOS,SUB: Tillman FOR Kornet,Substitution,,0,0,0,0,,,v
+S2425-G0073,2,05:08,WAS,51.0,BOS,51.0,L. Kornet,BOS,Kornet 3' Hook Shot (2 PTS) (Tatum 1 AST),Made Shot,Hook Shot,11,24,3,1,2.0,2.0,v
+S2425-G0073,2,03:50,WAS,,BOS,,L. Kornet,BOS,Kornet S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2425-G0073,2,03:15,WAS,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0073,2,02:18,WAS,,BOS,,L. Kornet,BOS,SUB: Brown FOR Kornet,Substitution,,0,0,0,0,,,v
+S2425-G0073,3,05:53,WAS,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0073,3,04:08,WAS,,BOS,,L. Kornet,BOS,MISS Kornet 2' Driving Layup,Missed Shot,Driving Layup Shot,-15,7,2,1,2.0,0.0,v
+S2425-G0073,3,04:03,WAS,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0073,3,04:03,WAS,66.0,BOS,87.0,L. Kornet,BOS,Kornet Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0073,3,03:51,WAS,,BOS,,L. Kornet,BOS,Kornet S.FOUL (P3.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0073,3,03:19,WAS,,BOS,,L. Kornet,BOS,Kornet S.FOUL (P4.T3) (J.Reneau),Foul,Shooting,0,0,0,0,,,v
+S2425-G0073,3,02:40,WAS,,BOS,,L. Kornet,BOS,SUB: Queta FOR Kornet,Substitution,,0,0,0,0,,,v
+S2425-G0119,1,05:57,IND,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,1,05:38,IND,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,1,05:38,IND,,BOS,,L. Kornet,BOS,MISS Kornet 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,20,13,2,1,2.0,0.0,v
+S2425-G0119,1,05:38,IND,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,1,05:38,IND,19.0,BOS,14.0,L. Kornet,BOS,Kornet Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0119,1,05:38,IND,19.0,BOS,15.0,L. Kornet,BOS,Kornet Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0119,1,05:01,IND,,BOS,,L. Kornet,BOS,Kornet S.FOUL (P1.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0119,1,04:03,IND,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,1,04:03,IND,,BOS,,L. Kornet,BOS,MISS Kornet 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,9,14,2,1,2.0,0.0,v
+S2425-G0119,1,01:39,IND,28.0,BOS,24.0,L. Kornet,BOS,Kornet Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0119,1,01:39,IND,28.0,BOS,25.0,L. Kornet,BOS,Kornet Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0119,1,00:39.700000,IND,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,2,05:49,IND,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,2,05:49,IND,,BOS,,L. Kornet,BOS,MISS Kornet Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0119,2,04:57,IND,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:6 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,2,04:57,IND,55.0,BOS,46.0,L. Kornet,BOS,Kornet Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0119,2,04:57,IND,55.0,BOS,47.0,L. Kornet,BOS,Kornet Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0119,2,04:08,IND,,BOS,,L. Kornet,BOS,Kornet L.B.FOUL (P2.T3) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0119,2,04:08,IND,,BOS,,L. Kornet,BOS,SUB: Horford FOR Kornet,Substitution,,0,0,0,0,,,v
+S2425-G0119,3,02:48,IND,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,3,00:51.100000,IND,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:7 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0119,3,00:51.100000,IND,98.0,BOS,84.0,L. Kornet,BOS,Kornet 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-9,21,2,1,2.0,2.0,v
+S2425-G0119,3,00:26.300000,IND,,BOS,,L. Kornet,BOS,MISS Kornet 6' Hook Shot,Missed Shot,Hook Shot,-25,52,6,1,2.0,0.0,v
+S2425-G0119,4,08:54,IND,,BOS,,L. Kornet,BOS,SUB: Queta FOR Kornet,Substitution,,0,0,0,0,,,v
+S2425-G0089,1,05:59,DET,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0089,1,05:38,DET,,BOS,,L. Kornet,BOS,Kornet S.FOUL (P1.T3) (S.Jelks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0089,1,01:52,DET,,BOS,,L. Kornet,BOS,SUB: Horford FOR Kornet,Substitution,,0,0,0,0,,,v
+S2425-G0089,2,08:13,DET,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0089,2,07:57,DET,,BOS,,L. Kornet,BOS,Kornet STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0089,2,03:55,DET,,BOS,,L. Kornet,BOS,Kornet Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0089,2,03:51,DET,,BOS,,L. Kornet,BOS,Kornet S.FOUL (P2.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0089,2,01:59,DET,,BOS,,L. Kornet,BOS,SUB: Horford FOR Kornet,Substitution,,0,0,0,0,,,v
+S2425-G0089,3,04:47,DET,,BOS,,L. Kornet,BOS,Kornet Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0089,3,04:04,DET,,BOS,,L. Kornet,BOS,MISS Kornet 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,70,7,1,2.0,0.0,v
+S2425-G0089,3,01:14,DET,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0089,4,07:17,DET,,BOS,,L. Kornet,BOS,Kornet REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0089,4,04:25,DET,,BOS,,L. Kornet,BOS,Kornet BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0089,4,04:25,DET,,BOS,,L. Kornet,BOS,SUB: Horford FOR Kornet,Substitution,,0,0,0,0,,,v
+S2425-G0104,2,06:22,BOS,,MIL,,L. Kornet,BOS,SUB: Holiday FOR Kornet,Substitution,,0,0,0,0,,,h
+S2425-G0104,4,10:39,BOS,,MIL,,L. Kornet,BOS,Kornet BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0104,4,10:38,BOS,,MIL,,L. Kornet,BOS,Kornet REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0104,4,07:52,BOS,,MIL,,L. Kornet,BOS,SUB: Horford FOR Kornet,Substitution,,0,0,0,0,,,h
+S2425-G0061,1,06:21,BOS,,NYK,,L. Kornet,BOS,Kornet STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0061,1,06:11,BOS,21.0,NYK,12.0,L. Kornet,BOS,Kornet 2' Driving Layup (2 PTS) (Tatum 3 AST),Made Shot,Driving Layup Shot,2,15,2,1,2.0,2.0,h
+S2425-G0061,1,05:41,BOS,,NYK,,L. Kornet,BOS,Kornet REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,1,05:39,BOS,,NYK,,L. Kornet,BOS,MISS Kornet 2' Putback Layup,Missed Shot,Putback Layup Shot,11,16,2,1,2.0,0.0,h
+S2425-G0061,2,03:15,BOS,,NYK,,L. Kornet,BOS,SUB: Holiday FOR Kornet,Substitution,,0,0,0,0,,,h
+S2425-G0061,3,05:11,BOS,,NYK,,L. Kornet,BOS,Kornet BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0061,3,03:52,BOS,,NYK,,L. Kornet,BOS,Kornet REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,3,00:31.800000,BOS,,NYK,,L. Kornet,BOS,Kornet REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0061,3,00:31.500000,BOS,113.0,NYK,87.0,L. Kornet,BOS,Kornet 2' Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,-13,8,2,1,2.0,2.0,h
+S2425-G0061,4,04:20,BOS,,NYK,,L. Kornet,BOS,SUB: Queta FOR Kornet,Substitution,,0,0,0,0,,,h

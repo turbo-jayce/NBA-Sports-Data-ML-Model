@@ -1,0 +1,35 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,2,06:57,DAL,,SAS,,B. Wesley,SAS,SUB: Johnson FOR Wesley,Substitution,,0,0,0,0,,,v
+S2425-G0074,4,05:40,DAL,111.0,SAS,91.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,4,05:40,DAL,111.0,SAS,92.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0074,4,03:29,DAL,116.0,SAS,103.0,B. Wesley,SAS,Wesley 2' Running Reverse Layup (4 PTS) (Castle 4 AST),Made Shot,Running Reverse Layup Shot,22,4,2,1,2.0,2.0,v
+S2425-G0074,4,02:28,DAL,116.0,SAS,105.0,B. Wesley,SAS,Wesley Layup (6 PTS) (Bassey 1 AST),Made Shot,Layup Shot,-2,-2,0,1,2.0,2.0,v
+S2425-G0074,4,00:26.800000,DAL,,SAS,,B. Wesley,SAS,MISS Wesley 4' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,7,39,4,1,2.0,0.0,v
+S2425-G0109,1,03:02,SAS,,HOU,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0109,1,01:42,SAS,15.0,HOU,21.0,B. Wesley,SAS,Wesley 3PT Jump Shot (3 PTS) (Castle 2 AST),Made Shot,Jump Shot,230,20,0,1,3.0,3.0,h
+S2425-G0109,1,00:25.900000,SAS,,HOU,,B. Wesley,SAS,MISS Wesley 3PT Jump Shot,Missed Shot,Jump Shot,-227,-8,0,1,3.0,0.0,h
+S2425-G0109,1,00:00,SAS,,HOU,,B. Wesley,SAS,MISS Wesley 26' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,260,26,1,3.0,0.0,h
+S2425-G0109,3,04:20,SAS,,HOU,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,3,03:31,SAS,,HOU,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0109,3,03:31,SAS,59.0,HOU,78.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0109,4,11:44,SAS,77.0,HOU,87.0,B. Wesley,SAS,Wesley 1' Driving Dunk (6 PTS) (Castle 5 AST),Made Shot,Driving Dunk Shot,-2,13,1,1,2.0,2.0,h
+S2425-G0109,4,09:58,SAS,,HOU,,B. Wesley,SAS,MISS Wesley Driving Layup,Missed Shot,Driving Layup Shot,4,1,0,1,2.0,0.0,h
+S2425-G0109,4,09:50,SAS,,HOU,,B. Wesley,SAS,Wesley REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0109,4,09:50,SAS,,HOU,,B. Wesley,SAS,MISS Wesley Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0109,4,09:45,SAS,,HOU,,B. Wesley,SAS,SUB: Champagnie FOR Wesley,Substitution,,0,0,0,0,,,h
+S2425-G0125,1,04:30,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,108,234,26,1,3.0,0.0,v
+S2425-G0125,1,03:09,OKC,23.0,SAS,17.0,B. Wesley,SAS,Wesley 3' Layup (2 PTS) (Collins 1 AST),Made Shot,Layup Shot,-20,16,3,1,2.0,2.0,v
+S2425-G0125,1,00:32.600000,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,152,197,25,1,3.0,0.0,v
+S2425-G0125,3,03:57,OKC,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0125,3,02:03,OKC,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,3,01:40,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,195,20,1,2.0,0.0,v
+S2425-G0125,3,01:13,OKC,,SAS,,B. Wesley,SAS,SUB: Branham FOR Wesley,Substitution,,0,0,0,0,,,v
+S2425-G0125,4,02:19,OKC,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P2.T22),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0125,4,00:51.200000,OKC,105.0,SAS,91.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0125,4,00:51.200000,OKC,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0125,4,00:13.900000,OKC,105.0,SAS,93.0,B. Wesley,SAS,Wesley 1' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,13,7,1,1,2.0,2.0,v
+S2425-G0094,1,04:29,SAS,,HOU,,B. Wesley,SAS,MISS Wesley 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-56,40,7,1,2.0,0.0,h
+S2425-G0094,1,04:15,SAS,,HOU,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0094,1,00:43.400000,SAS,38.0,HOU,28.0,B. Wesley,SAS,Wesley 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-15,5,2,1,2.0,2.0,h
+S2425-G0094,1,00:21.100000,SAS,,HOU,,B. Wesley,SAS,MISS Wesley 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,-1,2,1,2.0,0.0,h
+S2425-G0094,1,00:01.500000,SAS,,HOU,,B. Wesley,SAS,Wesley S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h

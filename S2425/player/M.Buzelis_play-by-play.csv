@@ -1,0 +1,29 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0091,2,08:40,CHI,,OKC,,M. Buzelis,CHI,Buzelis Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0091,2,07:29,CHI,,OKC,,M. Buzelis,CHI,SUB: Dosunmu FOR Buzelis,Substitution,,0,0,0,0,,,h
+S2425-G0091,4,04:01,CHI,,OKC,,M. Buzelis,CHI,MISS Buzelis 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-107,73,13,1,2.0,0.0,h
+S2425-G0091,4,03:26,CHI,86.0,OKC,105.0,M. Buzelis,CHI,Buzelis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0091,4,03:26,CHI,,OKC,,M. Buzelis,CHI,MISS Buzelis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0091,4,01:38,CHI,,OKC,,M. Buzelis,CHI,MISS Buzelis 2' Layup,Missed Shot,Layup Shot,2,17,2,1,2.0,0.0,h
+S2425-G0091,4,01:36,CHI,,OKC,,M. Buzelis,CHI,Buzelis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0091,4,01:36,CHI,93.0,OKC,112.0,M. Buzelis,CHI,Buzelis Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0091,4,00:58.400000,CHI,,OKC,,M. Buzelis,CHI,Buzelis S.FOUL (P1.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0069,2,07:56,NOP,,CHI,,M. Buzelis,CHI,MISS Buzelis 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,70,24,1,3.0,0.0,v
+S2425-G0069,2,07:46,NOP,,CHI,,M. Buzelis,CHI,Buzelis S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0069,2,07:35,NOP,,CHI,,M. Buzelis,CHI,MISS Buzelis 3PT Jump Shot,Missed Shot,Jump Shot,233,0,0,1,3.0,0.0,v
+S2425-G0069,2,07:24,NOP,,CHI,,M. Buzelis,CHI,Buzelis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,06:22,NOP,,CHI,,M. Buzelis,CHI,Buzelis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0069,2,06:17,NOP,,CHI,,M. Buzelis,CHI,SUB: Vučević FOR Buzelis,Substitution,,0,0,0,0,,,v
+S2425-G0069,4,01:31,NOP,,CHI,,M. Buzelis,CHI,MISS Buzelis 25' 3PT Jump Shot,Missed Shot,Jump Shot,102,226,25,1,3.0,0.0,v
+S2425-G0123,2,08:06,CHI,,ORL,,M. Buzelis,CHI,MISS Buzelis 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-2,108,11,1,2.0,0.0,h
+S2425-G0123,2,06:49,CHI,,ORL,,M. Buzelis,CHI,SUB: Dosunmu FOR Buzelis,Substitution,,0,0,0,0,,,h
+S2425-G0083,2,08:43,MIL,,CHI,,M. Buzelis,CHI,Buzelis STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0083,2,07:17,MIL,,CHI,,M. Buzelis,CHI,MISS Buzelis 26' 3PT Jump Shot,Missed Shot,Jump Shot,224,129,26,1,3.0,0.0,v
+S2425-G0083,2,04:37,MIL,51.0,CHI,48.0,M. Buzelis,CHI,Buzelis 15' Jump Shot (2 PTS) (LaVine 1 AST),Made Shot,Jump Shot,-145,34,15,1,2.0,2.0,v
+S2425-G0083,2,03:25,MIL,,CHI,,M. Buzelis,CHI,Buzelis S.FOUL (P1.T4) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,2,03:25,MIL,,CHI,,M. Buzelis,CHI,SUB: Dosunmu FOR Buzelis,Substitution,,0,0,0,0,,,v
+S2425-G0083,4,00:38.400000,MIL,,CHI,,M. Buzelis,CHI,Buzelis S.FOUL (P2.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2425-G0083,4,00:15.300000,MIL,,CHI,,M. Buzelis,CHI,MISS Buzelis 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-40,153,16,1,2.0,0.0,v
+S2425-G0108,2,10:43,MEM,,CHI,,M. Buzelis,CHI,Buzelis S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2425-G0108,2,09:56,MEM,,CHI,,M. Buzelis,CHI,MISS Buzelis 3PT Jump Shot,Missed Shot,Jump Shot,233,-12,0,1,3.0,0.0,v
+S2425-G0108,2,09:02,MEM,,CHI,,M. Buzelis,CHI,SUB: Dosunmu FOR Buzelis,Substitution,,0,0,0,0,,,v

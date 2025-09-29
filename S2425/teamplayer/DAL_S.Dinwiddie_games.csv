@@ -1,0 +1,32 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0074,4,00:24.100000,DAL,,SAS,,S. Dinwiddie,DAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0110,1,06:04,DAL,,UTA,,S. Dinwiddie,DAL,Dinwiddie S.FOUL (P1.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0110,1,03:20,DAL,,UTA,,S. Dinwiddie,DAL,Dinwiddie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0110,1,01:34,DAL,,UTA,,S. Dinwiddie,DAL,MISS Dinwiddie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0110,1,01:34,DAL,,UTA,,S. Dinwiddie,DAL,MISS Dinwiddie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0110,2,05:12,DAL,,UTA,,S. Dinwiddie,DAL,Dinwiddie OFF.Foul (P2) (K.Lane),Foul,Offensive,0,0,0,0,,,h
+S2425-G0110,2,05:12,DAL,,UTA,,S. Dinwiddie,DAL,Dinwiddie Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0110,2,04:35,DAL,,UTA,,S. Dinwiddie,DAL,MISS Dinwiddie 24' 3PT Jump Shot,Missed Shot,Jump Shot,-191,145,24,1,3.0,0.0,h
+S2425-G0110,2,03:01,DAL,,UTA,,S. Dinwiddie,DAL,SUB: Dončić FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2425-G0110,3,04:31,DAL,66.0,UTA,63.0,S. Dinwiddie,DAL,Dinwiddie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0110,3,04:31,DAL,67.0,UTA,63.0,S. Dinwiddie,DAL,Dinwiddie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0110,3,03:26,DAL,70.0,UTA,65.0,S. Dinwiddie,DAL,Dinwiddie 3PT Jump Shot (5 PTS) (Marshall 1 AST),Made Shot,Jump Shot,-232,6,0,1,3.0,3.0,h
+S2425-G0110,3,01:39,DAL,77.0,UTA,67.0,S. Dinwiddie,DAL,Dinwiddie 27' 3PT Jump Shot (8 PTS) (Irving 5 AST),Made Shot,Jump Shot,-141,225,27,1,3.0,3.0,h
+S2425-G0110,3,00:02.500000,DAL,82.0,UTA,70.0,S. Dinwiddie,DAL,Dinwiddie 26' 3PT Step Back Jump Shot (11 PTS) (Irving 6 AST),Made Shot,Step Back Jump shot,-225,125,26,1,3.0,3.0,h
+S2425-G0110,4,10:48,DAL,,UTA,,S. Dinwiddie,DAL,MISS Dinwiddie 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-66,28,7,1,2.0,0.0,h
+S2425-G0110,4,08:28,DAL,,UTA,,S. Dinwiddie,DAL,SUB: Washington FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2425-G0110,4,06:30,DAL,,UTA,,S. Dinwiddie,DAL,Dinwiddie P.FOUL (P3.T2) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2425-G0110,4,04:51,DAL,,UTA,,S. Dinwiddie,DAL,SUB: Irving FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2425-G0114,1,05:32,MIN,,DAL,,S. Dinwiddie,DAL,Dinwiddie S.FOUL (P1.T3) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2425-G0114,1,03:15,MIN,,DAL,,S. Dinwiddie,DAL,MISS Dinwiddie 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-189,179,26,1,3.0,0.0,v
+S2425-G0114,1,02:27,MIN,,DAL,,S. Dinwiddie,DAL,MISS Dinwiddie 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,186,170,25,1,3.0,0.0,v
+S2425-G0114,1,01:42,MIN,,DAL,,S. Dinwiddie,DAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,1,00:45.100000,MIN,,DAL,,S. Dinwiddie,DAL,Dinwiddie OFF.Foul (P2) (A.Moyer-Gleich),Foul,Offensive,0,0,0,0,,,v
+S2425-G0114,1,00:45.100000,MIN,,DAL,,S. Dinwiddie,DAL,Dinwiddie Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0114,2,11:24,MIN,,DAL,,S. Dinwiddie,DAL,Dinwiddie STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0114,2,09:48,MIN,,DAL,,S. Dinwiddie,DAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0114,2,09:48,MIN,,DAL,,S. Dinwiddie,DAL,SUB: Dončić FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2425-G0114,2,03:31,MIN,,DAL,,S. Dinwiddie,DAL,SUB: Irving FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2425-G0114,3,05:26,MIN,73.0,DAL,77.0,S. Dinwiddie,DAL,Dinwiddie 3PT Jump Shot (3 PTS) (Dončić 7 AST),Made Shot,Jump Shot,-228,-5,0,1,3.0,3.0,v
+S2425-G0114,3,05:02,MIN,,DAL,,S. Dinwiddie,DAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,-229,11,0,1,3.0,0.0,v
+S2425-G0114,3,04:18,MIN,,DAL,,S. Dinwiddie,DAL,MISS Dinwiddie 30' 3PT Jump Shot,Missed Shot,Jump Shot,-87,290,30,1,3.0,0.0,v

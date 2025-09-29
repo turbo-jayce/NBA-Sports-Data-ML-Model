@@ -1,0 +1,104 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0064,1,01:47,ATL,,BKN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,1,00:56.600000,ATL,,BKN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,1,00:48.400000,ATL,,BKN,,N. Claxton,BKN,MISS Claxton 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-55,41,7,1,2.0,0.0,v
+S2425-G0064,1,00:30,ATL,,BKN,,N. Claxton,BKN,Claxton P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2425-G0064,2,11:43,ATL,30.0,BKN,26.0,N. Claxton,BKN,Claxton 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-27,16,3,1,2.0,2.0,v
+S2425-G0064,2,11:01,ATL,,BKN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,2,10:03,ATL,,BKN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,2,09:33,ATL,35.0,BKN,33.0,N. Claxton,BKN,Claxton Cutting Layup Shot (4 PTS) (Schröder 1 AST),Made Shot,Cutting Layup Shot,-4,-1,0,1,2.0,2.0,v
+S2425-G0064,2,08:37,ATL,,BKN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0064,2,08:18,ATL,,BKN,,N. Claxton,BKN,SUB: Finney-Smith FOR Claxton,Substitution,,0,0,0,0,,,v
+S2425-G0064,3,01:37,ATL,80.0,BKN,79.0,N. Claxton,BKN,Claxton 2' Alley Oop Layup (6 PTS) (Simmons 7 AST),Made Shot,Alley Oop Layup shot,-6,16,2,1,2.0,2.0,v
+S2425-G0064,3,00:41.100000,ATL,,BKN,,N. Claxton,BKN,Claxton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0064,4,11:02,ATL,,BKN,,N. Claxton,BKN,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0064,4,11:02,ATL,,BKN,,N. Claxton,BKN,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0064,4,09:09,ATL,,BKN,,N. Claxton,BKN,Claxton STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0064,4,09:07,ATL,90.0,BKN,89.0,N. Claxton,BKN,Claxton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0064,4,09:07,ATL,,BKN,,N. Claxton,BKN,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0064,4,08:21,ATL,,BKN,,N. Claxton,BKN,Claxton S.FOUL (P2.T3) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0064,4,08:03,ATL,,BKN,,N. Claxton,BKN,Claxton FLAGRANT.FOUL.TYPE2 (P3.T4) (D.Guthrie),Foul,Flagrant Type 2,0,0,0,0,,,v
+S2425-G0064,4,08:03,ATL,,BKN,,N. Claxton,BKN,Claxton Ejection:Other,Ejection,Other,0,0,0,0,,,v
+S2425-G0064,4,08:03,ATL,,BKN,,N. Claxton,BKN,SUB: Wilson FOR Claxton,Substitution,,0,0,0,0,,,v
+S2425-G0113,1,02:43,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,1,02:00,BKN,32.0,DEN,23.0,N. Claxton,BKN,Claxton 6' Turnaround Hook Shot (2 PTS) (Schröder 3 AST),Made Shot,Turnaround Hook Shot,-28,55,6,1,2.0,2.0,h
+S2425-G0113,1,00:05.800000,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,2,10:49,BKN,44.0,DEN,27.0,N. Claxton,BKN,Claxton 1' Cutting Layup Shot (4 PTS) (Williams 2 AST),Made Shot,Cutting Layup Shot,-13,7,1,1,2.0,2.0,h
+S2425-G0113,2,09:57,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,2,09:05,BKN,,DEN,,N. Claxton,BKN,MISS Claxton 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-72,18,7,1,2.0,0.0,h
+S2425-G0113,2,08:28,BKN,,DEN,,N. Claxton,BKN,Claxton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0113,2,07:30,BKN,,DEN,,N. Claxton,BKN,SUB: Finney-Smith FOR Claxton,Substitution,,0,0,0,0,,,h
+S2425-G0113,3,04:24,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,3,03:37,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,3,02:17,BKN,,DEN,,N. Claxton,BKN,Claxton BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0113,3,01:14,BKN,97.0,DEN,93.0,N. Claxton,BKN,Claxton 4' Hook Shot (6 PTS) (Wilson 2 AST),Made Shot,Hook Shot,37,13,4,1,2.0,2.0,h
+S2425-G0113,3,01:02,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,3,00:55.700000,BKN,99.0,DEN,93.0,N. Claxton,BKN,Claxton 13' Jump Shot (8 PTS) (Williams 3 AST),Made Shot,Jump Shot,47,124,13,1,2.0,2.0,h
+S2425-G0113,3,00:29.900000,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,4,10:58,BKN,101.0,DEN,101.0,N. Claxton,BKN,Claxton 1' Alley Oop Dunk (10 PTS) (Williams 4 AST),Made Shot,Alley Oop Dunk Shot,5,3,1,1,2.0,2.0,h
+S2425-G0113,4,10:34,BKN,,DEN,,N. Claxton,BKN,Claxton S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,4,10:09,BKN,,DEN,,N. Claxton,BKN,Claxton BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0113,4,10:07,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,4,08:46,BKN,,DEN,,N. Claxton,BKN,SUB: Finney-Smith FOR Claxton,Substitution,,0,0,0,0,,,h
+S2425-G0113,4,04:06,BKN,,DEN,,N. Claxton,BKN,Claxton P.FOUL (P2.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2425-G0113,4,03:52,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,4,03:21,BKN,118.0,DEN,116.0,N. Claxton,BKN,Claxton 1' Alley Oop Dunk (12 PTS) (Schröder 12 AST),Made Shot,Alley Oop Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2425-G0113,4,03:01,BKN,,DEN,,N. Claxton,BKN,Claxton S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,4,02:45,BKN,120.0,DEN,118.0,N. Claxton,BKN,Claxton 1' Alley Oop Dunk (14 PTS) (Schröder 13 AST),Made Shot,Alley Oop Dunk Shot,5,1,1,1,2.0,2.0,h
+S2425-G0113,4,00:08.800000,BKN,,DEN,,N. Claxton,BKN,SUB: Wilson FOR Claxton,Substitution,,0,0,0,0,,,h
+S2425-G0113,5,05:00,BKN,,DEN,,N. Claxton,BKN,Jump Ball Claxton vs. Jokić: Tip to Finney-Smith,Jump Ball,,0,0,0,0,,,h
+S2425-G0113,5,04:21,BKN,,DEN,,N. Claxton,BKN,Claxton S.FOUL (P4.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0113,5,02:00,BKN,,DEN,,N. Claxton,BKN,Claxton P.FOUL (P5.T2) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2425-G0113,5,01:24,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,5,00:45.100000,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,5,00:37.300000,BKN,,DEN,,N. Claxton,BKN,Claxton REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0113,5,00:37.300000,BKN,134.0,DEN,139.0,N. Claxton,BKN,Claxton Tip Layup Shot (16 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0113,5,00:22.300000,BKN,,DEN,,N. Claxton,BKN,Claxton Personal Take Foul (P6.PN) (R.Hussey),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0113,5,00:22.300000,BKN,,DEN,,N. Claxton,BKN,SUB: Wilson FOR Claxton,Substitution,,0,0,0,0,,,h
+S2425-G0098,1,03:43,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,1,03:15,BKN,,MIL,,N. Claxton,BKN,Claxton OFF.Foul (P1) (Z.Zarba),Foul,Offensive,0,0,0,0,,,h
+S2425-G0098,1,03:15,BKN,,MIL,,N. Claxton,BKN,Claxton Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0098,1,02:45,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,1,02:21,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,1,02:15,BKN,23.0,MIL,17.0,N. Claxton,BKN,Claxton 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,27,17,3,1,2.0,2.0,h
+S2425-G0098,1,00:38.200000,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,1,00:38.200000,BKN,27.0,MIL,23.0,N. Claxton,BKN,Claxton Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0098,1,00:32,BKN,,MIL,,N. Claxton,BKN,Claxton S.FOUL (P2.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2425-G0098,1,00:00.500000,BKN,,MIL,,N. Claxton,BKN,Claxton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0098,2,08:38,BKN,,MIL,,N. Claxton,BKN,SUB: Thomas FOR Claxton,Substitution,,0,0,0,0,,,h
+S2425-G0098,2,03:18,BKN,,MIL,,N. Claxton,BKN,Claxton BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0098,2,02:12,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,2,00:13.500000,BKN,48.0,MIL,45.0,N. Claxton,BKN,Claxton 12' Floating Jump Shot (6 PTS) (C. Johnson 2 AST),Made Shot,Floating Jump shot,-2,119,12,1,2.0,2.0,h
+S2425-G0098,3,02:59,BKN,,MIL,,N. Claxton,BKN,MISS Claxton 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-23,88,9,1,2.0,0.0,h
+S2425-G0098,3,01:44,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,3,00:28.400000,BKN,,MIL,,N. Claxton,BKN,SUB: C. Johnson FOR Claxton,Substitution,,0,0,0,0,,,h
+S2425-G0098,4,11:42,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,4,11:18,BKN,,MIL,,N. Claxton,BKN,Claxton P.FOUL (P3.T1) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2425-G0098,4,09:31,BKN,89.0,MIL,83.0,N. Claxton,BKN,Claxton Dunk (8 PTS),Made Shot,Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0098,4,08:47,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,4,07:26,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,4,07:05,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,4,06:50,BKN,,MIL,,N. Claxton,BKN,Claxton S.FOUL (P4.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2425-G0098,4,06:01,BKN,,MIL,,N. Claxton,BKN,SUB: Simmons FOR Claxton,Substitution,,0,0,0,0,,,h
+S2425-G0098,4,02:50,BKN,,MIL,,N. Claxton,BKN,Claxton REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0098,4,02:36,BKN,111.0,MIL,89.0,N. Claxton,BKN,Claxton 1' Alley Oop Dunk (10 PTS) (C. Johnson 3 AST),Made Shot,Alley Oop Dunk Shot,9,5,1,1,2.0,2.0,h
+S2425-G0098,4,01:58,BKN,,MIL,,N. Claxton,BKN,SUB: K. Johnson FOR Claxton,Substitution,,0,0,0,0,,,h
+S2425-G0077,1,00:13,ORL,,BKN,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,1,00:12.200000,ORL,,BKN,,N. Claxton,BKN,MISS Claxton 5' Putback Layup,Missed Shot,Putback Layup Shot,0,50,5,1,2.0,0.0,v
+S2425-G0077,1,00:07,ORL,,BKN,,N. Claxton,BKN,Claxton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0077,2,09:48,ORL,,BKN,,N. Claxton,BKN,MISS Claxton 7' Hook Shot,Missed Shot,Hook Shot,-33,67,7,1,2.0,0.0,v
+S2425-G0077,2,09:39,ORL,,BKN,,N. Claxton,BKN,SUB: Simmons FOR Claxton,Substitution,,0,0,0,0,,,v
+S2425-G0077,2,04:21,ORL,43.0,BKN,33.0,N. Claxton,BKN,Claxton 1' Alley Oop Dunk (2 PTS) (Thomas 1 AST),Made Shot,Alley Oop Dunk Shot,0,12,1,1,2.0,2.0,v
+S2425-G0077,2,02:06,ORL,,BKN,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,2,01:49,ORL,43.0,BKN,42.0,N. Claxton,BKN,Claxton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0077,2,01:49,ORL,43.0,BKN,43.0,N. Claxton,BKN,Claxton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0077,2,01:23,ORL,,BKN,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,2,01:18,ORL,,BKN,,N. Claxton,BKN,Claxton OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,v
+S2425-G0077,2,01:18,ORL,,BKN,,N. Claxton,BKN,Claxton Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0077,2,00:00.900000,ORL,,BKN,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,3,01:33,ORL,,BKN,,N. Claxton,BKN,MISS Claxton 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-27,63,7,1,2.0,0.0,v
+S2425-G0077,3,00:01.900000,ORL,,BKN,,N. Claxton,BKN,Lane,Violation,Lane,0,0,0,0,,,v
+S2425-G0077,4,10:20,ORL,,BKN,,N. Claxton,BKN,Claxton REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0077,4,08:13,ORL,,BKN,,N. Claxton,BKN,SUB: Simmons FOR Claxton,Substitution,,0,0,0,0,,,v
+S2425-G0077,4,04:24,ORL,,BKN,,N. Claxton,BKN,Claxton STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0077,4,03:06,ORL,,BKN,,N. Claxton,BKN,SUB: Milton FOR Claxton,Substitution,,0,0,0,0,,,v

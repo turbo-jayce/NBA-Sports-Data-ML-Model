@@ -1,0 +1,10 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0069,4,00:35.900000,NOP,,CHI,,K. Matkovic,NOP,Matković BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0069,4,00:10.800000,NOP,,CHI,,K. Matkovic,NOP,Matković REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0099,4,02:14,POR,,,,K. Matkovic,NOP,Matković Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0099,4,01:35,POR,121.0,,103.0,K. Matkovic,NOP,Matković 1' Hook Shot (2 PTS) (Alvarado 4 AST),Made Shot,Hook Shot,10,10,1,1,2.0,2.0,v
+S2425-G0099,4,01:14,POR,,,,K. Matkovic,NOP,Matković REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,4,01:03,POR,,,,K. Matkovic,NOP,Matković REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,4,00:37.100000,POR,,,,K. Matkovic,NOP,Matković REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0099,4,00:36.400000,POR,,,,K. Matkovic,NOP,Matković Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0099,4,00:31.300000,POR,,,,K. Matkovic,NOP,Matković S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
