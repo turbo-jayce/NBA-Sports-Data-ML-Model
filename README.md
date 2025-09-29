@@ -1,6 +1,6 @@
 ﻿# NBA-Sports-Data-ML-Model
 
-Work in progress model that is supposed to be used to predict future player performance. Using lightgbm and sklearn. 
+Work in progress model that is supposed to be used to predict future player performance. Using lightgbm and sklearn. Currently model has issue due to overfitting, need to fix via bigger data set to learn on.
 
 Current Output Of Model
 
@@ -47,4 +47,5 @@ Current Output Of Model
    REBOUNDS: Excellent performance!
 
 💾 Models ready for deployment. Uncomment save section if needed.
+
 
